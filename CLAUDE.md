@@ -585,6 +585,8 @@ in that order (guides reference product IDs).
 |---|---|
 | `NEXT_PUBLIC_SITE_URL` | Canonical site URL — `https://www.rvgearlab.com` |
 | `NEXT_PUBLIC_GA_ID` | GA4 property; analytics are off until set |
+| `NEXT_PUBLIC_CLARITY_ID` | Microsoft Clarity project ID; session recording/heatmaps are off until set |
+| `NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION` | Search Console HTML-tag token |
 | `NEXT_PUBLIC_SUPABASE_URL` | Supabase project URL |
 | `SUPABASE_SERVICE_ROLE_KEY` | Supabase service role JWT — treat as a root credential |
 | `INDEXNOW_KEY` | IndexNow key; **no fallback by design** (see §20) |
@@ -594,7 +596,7 @@ Creators/PA API credentials for product sourcing also live in `.env.local`.
 
 ### Secrets Policy
 - **Never commit `.env.local`** — it is gitignored and holds live Supabase and API credentials.
-- Keep `.env.example` as placeholders only.
+- `.env.example` is the template for every variable the code reads; keep it in sync with placeholders only, never real values.
 - Set all vars in Vercel → Project Settings → Environment Variables.
 
 `isSupabaseConfigured()` gates every Supabase call — a build without Supabase env vars succeeds and

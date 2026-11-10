@@ -57,7 +57,11 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   // Analytics must only fire in production so local development does not pollute
   // the site's reports. The GA measurement ID is public and belongs to this site.
   const isProd = process.env.NODE_ENV === "production";
-  const clarityId = process.env.NEXT_PUBLIC_CLARITY_ID;
+  // Clarity project ID. It is a public identifier that ships in the page source
+  // anyway, so it falls back to the real one: that way a missing or empty Vercel
+  // env var cannot silently switch analytics off (same reasoning as SITE_URL in
+  // lib/seo.ts). Set NEXT_PUBLIC_CLARITY_ID to point a deployment elsewhere.
+  const clarityId = process.env.NEXT_PUBLIC_CLARITY_ID || "zbdc385kwg";
   return (
     <html lang="en" className={`${grotesk.variable} ${inter.variable} ${jetbrains.variable} h-full`}>
       <head>
