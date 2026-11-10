@@ -148,7 +148,7 @@ export function InformationalGuidePage({ guide }: { guide: InformationalGuide })
                     {author.avatarUrl ? (
                       <Image src={author.avatarUrl} alt={INFORMATIONAL_AUTHOR} fill sizes="44px" className="object-cover" />
                     ) : (
-                      <Image src="/images/brand/mark.svg" alt="" width={28} height={28} unoptimized />
+                      <Image src="/images/brand/mark.png" alt="" width={28} height={28} unoptimized />
                     )}
                   </span>
                   <span className="leading-tight">

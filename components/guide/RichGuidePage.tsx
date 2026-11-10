@@ -287,7 +287,7 @@ export function RichGuidePage(props: RichGuidePageProps) {
                     </span>
                   ) : (
                     <span className="grid h-11 w-11 shrink-0 place-items-center rounded-full bg-white/10 ring-2 ring-cta">
-                      <Image src="/images/brand/mark.svg" alt="" width={28} height={28} unoptimized />
+                      <Image src="/images/brand/mark.png" alt="" width={28} height={28} unoptimized />
                     </span>
                   )}
                   <span className="leading-tight">

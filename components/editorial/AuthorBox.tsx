@@ -11,7 +11,7 @@ export function AuthorBox({ author }: { author: Author }) {
         {author.avatarUrl ? (
           <Image src={author.avatarUrl} alt={`${author.name}, ${author.role}`} fill sizes="80px" className="object-cover" />
         ) : (
-          <Image src="/images/brand/mark.svg" alt="" width={48} height={48} unoptimized />
+          <Image src="/images/brand/mark.png" alt="" width={48} height={48} unoptimized />
         )}
       </Link>
       <div>

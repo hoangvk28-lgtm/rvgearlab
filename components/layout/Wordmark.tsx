@@ -10,7 +10,7 @@ export function Wordmark({ size = "md", inverse = false }: { size?: "md" | "sm";
   return (
     <Link prefetch={false} href="/" aria-label="RV Gear Lab — home" className="group inline-flex items-center gap-2.5 focus-ring">
       <Image
-        src="/images/brand/mark.svg"
+        src="/images/brand/mark.png"
         alt=""
         width={96}
         height={96}
