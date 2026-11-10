@@ -1,49 +1,30 @@
 import { NextResponse } from "next/server";
 import { SITE_URL } from "@/lib/seo";
-import { guides as staticGuides } from "@/data/guides";
-import { products as staticProducts } from "@/data/products";
-import { categories } from "@/data/categories";
+import sitemap from "@/app/sitemap";
 
 export const dynamic = "force-dynamic";
 
-// No fallback key — that would silently ping using another site's IndexNow
-// key. Generate a RV Gear Lab-specific key and set INDEXNOW_KEY + a matching
-// public/<key>.txt verification file before this route is expected to work.
-const INDEXNOW_KEY = process.env.INDEXNOW_KEY || "";
+// The IndexNow key is public by design: it is served verbatim at
+// /<key>.txt so the search engine can verify we own this host. Falling back
+// to the real key means a missing or empty Vercel env var cannot silently
+// turn submissions back off. INDEXNOW_KEY still overrides it.
+const INDEXNOW_KEY = process.env.INDEXNOW_KEY || "93cc4d00bcba4400ad7a916061dcef95";
 
-// VS compare slugs (static — not in data files)
-const VS_SLUGS = [
-  "monitor-stand-vs-monitor-arm",
-  "usb-c-hub-vs-docking-station",
-  "lap-desk-vs-standing-desk-converter",
-  "desk-mat-vs-mouse-pad",
-];
+// IndexNow accepts at most 10,000 URLs per request.
+const MAX_URLS_PER_REQUEST = 10000;
 
-function buildUrlList(): string[] {
-  const urls: string[] = [
-    SITE_URL,
-    `${SITE_URL}/guide`,
-    `${SITE_URL}/compare`,
-    `${SITE_URL}/deals`,
-  ];
-
-  for (const g of staticGuides) {
-    urls.push(`${SITE_URL}/guide/${g.slug}`);
-  }
-
-  for (const p of staticProducts) {
-    if (p.slug) urls.push(`${SITE_URL}/reviews/${p.slug}`);
-  }
-
-  for (const c of categories) {
-    urls.push(`${SITE_URL}/categories/${c.slug}`);
-  }
-
-  for (const slug of VS_SLUGS) {
-    urls.push(`${SITE_URL}/compare/${slug}`);
-  }
-
-  return [...new Set(urls)];
+/**
+ * Submit exactly what the sitemap advertises.
+ *
+ * This route used to build its own URL list, which had drifted badly: it sent
+ * /guide/<slug> (those 308-redirect to /<silo>/<slug>), plus /reviews/<slug>,
+ * /categories/<slug>, /compare, /deals and four desk-site VS slugs, none of
+ * which are routes in this project. Deriving the list from app/sitemap.ts
+ * means the two can never disagree again.
+ */
+async function buildUrlList(): Promise<string[]> {
+  const entries = await sitemap();
+  return [...new Set(entries.map((e) => e.url))];
 }
 
 export async function GET(request: Request) {
@@ -52,8 +33,18 @@ export async function GET(request: Request) {
     return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
   }
 
-  const urlList = buildUrlList();
+  const urlList = await buildUrlList();
   const host = new URL(SITE_URL).hostname;
+
+  if (urlList.length > MAX_URLS_PER_REQUEST) {
+    return NextResponse.json(
+      {
+        ok: false,
+        error: `Sitemap has ${urlList.length} URLs, over the IndexNow per-request limit of ${MAX_URLS_PER_REQUEST}. Batch the submission before re-enabling this cron.`,
+      },
+      { status: 500 }
+    );
+  }
 
   const body = {
     host,
@@ -78,7 +69,12 @@ export async function GET(request: Request) {
       );
     }
 
-    return NextResponse.json({ ok: true, indexNowStatus, submitted: urlList.length, pingAt: new Date().toISOString() });
+    return NextResponse.json({
+      ok: true,
+      indexNowStatus,
+      submitted: urlList.length,
+      pingAt: new Date().toISOString(),
+    });
   } catch (err) {
     return NextResponse.json({ ok: false, error: String(err) }, { status: 500 });
   }

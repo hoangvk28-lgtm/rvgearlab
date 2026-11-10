@@ -542,7 +542,7 @@ Do not emit `AggregateRating` schema for Fit Scores — they are editorial, not 
 - **`revalidate`** is 604800; do not lower it without understanding CDN/ISR cost, and do not raise it.
 - **`typescript.ignoreBuildErrors: true`** means a green Vercel deploy proves nothing. Always run
   `npx tsc --noEmit` yourself.
-- **IndexNow is not actually working yet** — see §20.
+- **IndexNow** submits whatever `app/sitemap.ts` returns, capped at the 10,000-URL per-request limit. The sitemap is currently ~3,300 URLs; if it passes 10,000 the cron returns an error instead of submitting, and the request must be batched.
 - **`m.media-amazon.com`** is in `remotePatterns` but Amazon ToS restricts hotlinking outside PA API.
 - **`llms.txt` / `llms-full.txt`** in `public/` — keep updated when site structure or scope changes.
 - **Static vs Supabase sync** — if a guide exists in Supabase with a slug differing from
@@ -746,8 +746,7 @@ Do this by writing a per-slug prose module and merging it mechanically — never
 
 ## 19. Suggested Next Steps
 
-1. **Fix IndexNow** (§20) — currently a no-op, so new guides are not being pushed to Bing/Yandex.
-2. **Clean the cloned-project leftovers** listed in §20.
+1. **Clean the remaining cloned-project leftovers** listed in §20 (items 4-7).
 3. **Silo hub content** — give each of the 14 hubs real editorial copy and featured-guide links.
 4. **Deepen the remaining thin guides** — a large share of the 2,747 roundups are still at ~5k chars
    of editorial body.
@@ -763,16 +762,21 @@ Do this by writing a per-slug prose module and merging it mechanically — never
 
 Found during the 2026-11-10 audit. These are real bugs, not stylistic nits:
 
-1. **IndexNow is a no-op.** `app/api/cron/ping-indexnow/route.ts` reads `INDEXNOW_KEY` with **no
-   fallback** (deliberately — a fallback would ping using another site's key). There is **no
-   `public/<key>.txt` verification file** in this repo. Until an RV Gear Lab key is generated, set as
-   `INDEXNOW_KEY`, and written to `public/<key>.txt`, the daily cron submits nothing.
-2. **`scripts/indexnow.mjs` carries the predecessor's hardcoded key**
-   (`a7c91f60c6ae407994153f996878409e`) with no matching file in `public/`. Do not use it as-is.
-3. **`VS_SLUGS` in the IndexNow route lists desk-site URLs** — `monitor-stand-vs-monitor-arm`,
-   `usb-c-hub-vs-docking-station`, `lap-desk-vs-standing-desk-converter`, `desk-mat-vs-mouse-pad` —
-   and the route also submits `/compare` and `/deals`, **none of which are routes in this project**.
-   Submitting 404s to IndexNow is a quality signal problem. Clean this list.
+1. ~~**IndexNow is a no-op.**~~ **Fixed 2026-11-10.** Key `93cc4d00bcba4400ad7a916061dcef95`,
+   verification file `public/93cc4d00bcba4400ad7a916061dcef95.txt`, and the same value as the
+   `INDEXNOW_KEY` fallback in `app/api/cron/ping-indexnow/route.ts`. **Do not delete that `.txt`
+   file** or submissions fail verification. The key is public by design, so it is committed.
+2. ~~**`scripts/indexnow.mjs` carries the predecessor's key.**~~ **Fixed 2026-11-10.** It had
+   `HOST = "www.deskfinds.com"` and the old key, so it would have pinged a different site entirely.
+   It now uses this host and key, resolves each slug's silo from `data/guides.ts` (falling back to
+   the informational data) so it submits `/<silo>/<slug>` rather than the 308-redirecting
+   `/guide/<slug>`, **skips** any slug it cannot resolve instead of guessing a 404 URL, and supports
+   `--dry-run`.
+3. ~~**`VS_SLUGS` lists desk-site URLs.**~~ **Fixed 2026-11-10.** The cron route no longer builds
+   its own URL list at all: it imports `app/sitemap.ts` and submits exactly what the sitemap
+   advertises, so the two can never drift again. Previously it sent `/guide/<slug>` (redirects),
+   `/reviews/<slug>`, `/categories/<slug>`, `/compare`, `/deals` and four desk-site VS slugs, almost
+   all of which 404 here.
 4. **`.gitignore` still ignores `/HardcastlesRV-*/`** — harmless, but rename it if raw batch folders
    are ever used here.
 5. **`lib/admin-auth.ts` and the `lib/*-store.ts` admin-write modules survive with no admin routes.**

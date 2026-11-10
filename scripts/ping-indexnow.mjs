@@ -1,3 +1,11 @@
+// DISABLED 2026-11-10. This is the predecessor site's one-off submitter: it is
+// hardcoded to HOST = "www.deskfinds.com" with that site's IndexNow key and a
+// stale slug list, so running it would ping a different domain entirely. Kept
+// only for reference. Use scripts/indexnow.mjs instead.
+console.error("scripts/ping-indexnow.mjs is disabled: it targets www.deskfinds.com, not this site.");
+console.error("Use: node scripts/indexnow.mjs <slug...>   (add --dry-run to preview)");
+process.exit(1);
+
 /**
  * Ping IndexNow after deploying new or updated pages.
  * Run: node scripts/ping-indexnow.mjs
