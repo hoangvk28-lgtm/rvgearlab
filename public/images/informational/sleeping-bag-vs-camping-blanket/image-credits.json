@@ -1,0 +1,13 @@
+[
+  {
+    "file": "hero.webp",
+    "sourceFile": "Tent, sleeping bag, and backpack.jpg",
+    "creator": "Steve Bittinger",
+    "source": "https://commons.wikimedia.org/wiki/File:Tent,_sleeping_bag,_and_backpack.jpg",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "changes": "Cropped to 16:9, resized to 1600 × 900, and converted to WebP."
+  },
+  {"file":"decision-map.svg","creator":"DannyCamping editorial","license":"Original work","changes":"Created for this guide."},
+  {"file":"system-layers.svg","creator":"DannyCamping editorial","license":"Original work","changes":"Created for this guide."}
+]

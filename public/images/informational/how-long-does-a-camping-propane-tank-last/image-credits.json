@@ -1,0 +1,42 @@
+[
+  {
+    "file": "hero.webp",
+    "alt": "Propane camping cylinder used to supply an outdoor cooking appliance",
+    "creator": "W.carter",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Propane_cylinder_type_2000_in_Tuntorp_1.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "retrieved": "2026-10-07",
+    "modifications": "Resized, center-cropped to 16:9, and converted to WebP."
+  },
+  {
+    "file": "propane-appliance.webp",
+    "alt": "Portable propane appliance operating outdoors with appropriate open airflow",
+    "creator": "Tony Webster",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Coleman_Road_Trip_Propane_Portable_Grill_(41159363705).jpg",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "retrieved": "2026-10-07",
+    "modifications": "Resized, center-cropped to 16:9, and converted to WebP."
+  },
+  {
+    "file": "weighing-propane.webp",
+    "alt": "Camping gas canister whose remaining fuel can be tracked by mass",
+    "creator": "Tpikonen",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Gas_cylinder_for_camping_stoves.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "retrieved": "2026-10-07",
+    "modifications": "Resized, center-cropped to 16:9, and converted to WebP."
+  },
+  {
+    "file": "propane-valve.webp",
+    "alt": "Disposable camping-gas cylinder requiring condition and connection checks",
+    "creator": "Kolforn",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:-2019-12-13_LPG_450g_camping_gas_disposable_canister_(2).JPG",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "retrieved": "2026-10-07",
+    "modifications": "Resized, center-cropped to 16:9, and converted to WebP."
+  }
+]

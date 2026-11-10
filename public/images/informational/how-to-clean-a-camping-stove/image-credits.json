@@ -1,0 +1,42 @@
+[
+  {
+    "file": "hero.webp",
+    "alt": "Two-burner camping stove opened for inspection and cleaning",
+    "creator": "Tim Sheerman-Chase",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Coleman_Dual_Fuel_2-Burner_Stove.jpg",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "retrieved": "2026-10-07",
+    "modifications": "Resized, center-cropped to 16:9, and converted to WebP."
+  },
+  {
+    "file": "gas-stove-parts.webp",
+    "alt": "Portable gas stove components arranged for careful inspection",
+    "creator": "Sumita Roy Dutta",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Parts_of_Portable_gas_stove.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "retrieved": "2026-10-07",
+    "modifications": "Resized, center-cropped to 16:9, and converted to WebP."
+  },
+  {
+    "file": "backpacking-stove.webp",
+    "alt": "Compact backpacking stove and pot used in an outdoor setting",
+    "creator": "Michael Pereckas; metadata modification by Gazebo",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:JetBoil-camping-stove-under-cooking-pot.jpg",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "retrieved": "2026-10-07",
+    "modifications": "Resized, center-cropped to 16:9, and converted to WebP."
+  },
+  {
+    "file": "test-flame.webp",
+    "alt": "Clean gas burner flame during an outdoor post-service test",
+    "creator": "Lisafern",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Gas_stove_burner_flame.jpg",
+    "license": "CC0 1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "retrieved": "2026-10-07",
+    "modifications": "Resized, center-cropped to 16:9, and converted to WebP."
+  }
+]

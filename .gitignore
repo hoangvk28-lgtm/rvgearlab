@@ -1,0 +1,10 @@
+node_modules
+.next
+.vercel
+.env.local
+*.tsbuildinfo
+design/
+
+# raw article batches
+/HardcastlesRV-*/
+.work/

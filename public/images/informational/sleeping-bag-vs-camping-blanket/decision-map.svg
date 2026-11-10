@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">Sleeping bag or camping blanket decision map</title><desc id="desc">A decision flow based on overnight temperature, drafts, and freedom of movement.</desc>
+  <rect width="1200" height="720" fill="#f6f3ea"/><text x="600" y="72" text-anchor="middle" font-family="Arial" font-size="38" font-weight="700" fill="#173b2c">Bag or blanket?</text>
+  <g font-family="Arial" text-anchor="middle"><rect x="410" y="120" width="380" height="92" rx="18" fill="#173b2c"/><text x="600" y="158" fill="white" font-size="22">Will conditions approach</text><text x="600" y="188" fill="white" font-size="22">your system's lower limit?</text>
+  <path d="M500 212v70H260v54M700 212v70h240v54" fill="none" stroke="#5a735f" stroke-width="6"/><text x="435" y="266" font-size="20" fill="#173b2c">YES</text><text x="758" y="266" font-size="20" fill="#173b2c">NO</text>
+  <rect x="70" y="336" width="380" height="120" rx="18" fill="#dce9df" stroke="#173b2c" stroke-width="3"/><text x="260" y="380" font-size="25" font-weight="700" fill="#173b2c">Choose a sleeping bag</text><text x="260" y="416" font-size="19" fill="#33483d">Reliable enclosure and draft control</text>
+  <rect x="750" y="336" width="380" height="120" rx="18" fill="#efd9b5" stroke="#8d5b20" stroke-width="3"/><text x="940" y="380" font-size="25" font-weight="700" fill="#5f3a12">Do you dislike tucked edges?</text><text x="940" y="416" font-size="19" fill="#5f3a12">Or change position frequently?</text>
+  <path d="M940 456v65H730v46M940 456v65h210v46" fill="none" stroke="#8d5b20" stroke-width="6"/><text x="835" y="507" font-size="20" fill="#5f3a12">NO</text><text x="1045" y="507" font-size="20" fill="#5f3a12">YES</text>
+  <rect x="565" y="567" width="330" height="92" rx="18" fill="#dce9df"/><text x="730" y="610" font-size="24" font-weight="700" fill="#173b2c">Either can work</text><text x="730" y="640" font-size="18" fill="#33483d">Compare weight and packed size</text>
+  <rect x="950" y="567" width="230" height="92" rx="18" fill="#f0c982"/><text x="1065" y="610" font-size="24" font-weight="700" fill="#5f3a12">Blanket</text><text x="1065" y="640" font-size="18" fill="#5f3a12">Maximum freedom</text></g>
+</svg>

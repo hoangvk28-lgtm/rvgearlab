@@ -1,0 +1,13 @@
+[
+  {
+    "file": "hero.webp",
+    "sourceFile": "A person adjusting a sleeping bag inside a tent.jpg",
+    "creator": "Mike Burns",
+    "source": "https://commons.wikimedia.org/wiki/File:A_person_adjusting_a_sleeping_bag_inside_a_tent.jpg",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "changes": "Cropped to 16:9, resized to 1600 × 900, and converted to WebP."
+  },
+  {"file":"attachment-diagram.svg","creator":"DannyCamping editorial","license":"Original work","changes":"Created for this guide."},
+  {"file":"decision-matrix.svg","creator":"DannyCamping editorial","license":"Original work","changes":"Created for this guide."}
+]

@@ -1,0 +1,15 @@
+# Hardcastle's RV
+
+> Straight-talking RV and camping gear buying guides, compared on published specs, fit and trade-offs. Site: https://www.hardcastlesrv.com
+
+## Sections
+- Power & Electrical: https://www.hardcastlesrv.com/power-electrical — power stations, generators, solar, transfer switches
+- Water & Plumbing: https://www.hardcastlesrv.com/water-plumbing — compact washers, washer-dryer combos, dishwashers
+- Towing & Leveling: https://www.hardcastlesrv.com/towing-leveling — hitches, levelers, chocks
+- RV Care: https://www.hardcastlesrv.com/rv-care — moisture control and upkeep
+- Interior & Comfort: https://www.hardcastlesrv.com/interior-comfort — RV kitchens, heating and cooling
+- Camping & Travel: https://www.hardcastlesrv.com/camping-travel — campsite power and travel gear
+
+## Policies
+- How we review: https://www.hardcastlesrv.com/how-we-review
+- Affiliate disclosure: https://www.hardcastlesrv.com/affiliate-disclosure (Amazon Associates; commissions never decide rankings)

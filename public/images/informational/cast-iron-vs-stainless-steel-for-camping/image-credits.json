@@ -1,0 +1,42 @@
+[
+  {
+    "file": "hero.webp",
+    "alt": "Traditional cast-iron skillet showing its thick cooking surface",
+    "creator": "Evan-Amos",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Cast-Iron-Pan.jpg",
+    "license": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "retrieved": "2026-10-07",
+    "modifications": "Resized, center-cropped to 16:9, and converted to WebP."
+  },
+  {
+    "file": "stainless-pots.webp",
+    "alt": "Stainless-steel cooking pots illustrating lighter camp cookware options",
+    "creator": "Poecus",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Cooking_pots.jpg",
+    "license": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "retrieved": "2026-10-07",
+    "modifications": "Resized, center-cropped to 16:9, and converted to WebP."
+  },
+  {
+    "file": "cast-iron-over-fire.webp",
+    "alt": "Cast-iron cooking vessel used over an open outdoor fire",
+    "creator": "Lorie Shaull",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:2_Parching_the_wild_rice_over_an_open_flame.jpg",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "retrieved": "2026-10-07",
+    "modifications": "Resized, center-cropped to 16:9, and converted to WebP."
+  },
+  {
+    "file": "stainless-pot.webp",
+    "alt": "Single stainless-steel pot suitable for boiling and acidic camp meals",
+    "creator": "Mewa767",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Edelstahl-Kochtopf_mit_Pr%C3%A4gung_%27Stud._Wohnheim_Neuhalde%27.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "retrieved": "2026-10-07",
+    "modifications": "Resized, center-cropped to 16:9, and converted to WebP."
+  }
+]

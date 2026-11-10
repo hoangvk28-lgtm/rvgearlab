@@ -1,0 +1,43 @@
+[
+  {
+    "file": "hero.webp",
+    "alt": "A self-inflating camping sleeping mat laid out for use",
+    "title": "Self-inflating mat",
+    "creator": "Pierrelagrange",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Self-inflating_mat.jpg",
+    "license": "Creative Commons Attribution 3.0 Unported (CC BY 3.0)",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "retrieved": "2026-10-06",
+    "modifications": "Resized, center-cropped to 16:9, and converted to WebP."
+  },
+  {
+    "file": "foam-pads.webp",
+    "alt": "Rolled closed-cell foam sleeping pads displayed together",
+    "creator": "Superbass",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Isomatten_klassisch.jpg",
+    "license": "Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "retrieved": "2026-10-06",
+    "modifications": "Resized, center-cropped to 16:9, and converted to WebP."
+  },
+  {
+    "file": "pad-and-bag.webp",
+    "alt": "Sleeping pad, sleeping bag, and backpacking equipment arranged for a trip",
+    "creator": "wetwebwork",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Camping_Equipment_(542927498).jpg",
+    "license": "Creative Commons Attribution-ShareAlike 2.0 Generic (CC BY-SA 2.0)",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "retrieved": "2026-10-06",
+    "modifications": "Resized, center-cropped to 16:9, and converted to WebP."
+  },
+  {
+    "file": "uninsulated-air-bed.webp",
+    "alt": "Large inflatable air mattress with an internal electric pump",
+    "creator": "W.carter (Ann-Sophie Qvarnström)",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Air_mattress_or_extra_bed_with_internal_air_pump_2.jpg",
+    "license": "Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "retrieved": "2026-10-06",
+    "modifications": "Resized, center-cropped to 16:9, and converted to WebP."
+  }
+]

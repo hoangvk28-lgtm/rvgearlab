@@ -1,0 +1,42 @@
+[
+  {
+    "file": "hero.webp",
+    "alt": "Portable propane grill set up for outdoor campsite cooking",
+    "creator": "Tony Webster",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Coleman_Road_Trip_Propane_Portable_Grill_(41159363705).jpg",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "retrieved": "2026-10-07",
+    "modifications": "Resized, center-cropped to 16:9, and converted to WebP."
+  },
+  {
+    "file": "small-propane-cylinder.webp",
+    "alt": "Small propane cylinder representing measurable fuel mass",
+    "creator": "W.carter",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Propane_cylinder_type_2000_in_Tuntorp_3.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "retrieved": "2026-10-07",
+    "modifications": "Resized, center-cropped to 16:9, and converted to WebP."
+  },
+  {
+    "file": "larger-gas-cylinder.webp",
+    "alt": "Larger disposable camping-gas cylinder illustrating container size differences",
+    "creator": "Kolforn",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:-2019-12-13_LPG_450g_camping_gas_disposable_canister_(1).JPG",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "retrieved": "2026-10-07",
+    "modifications": "Resized, center-cropped to 16:9, and converted to WebP."
+  },
+  {
+    "file": "camping-gas-canister.webp",
+    "alt": "Camping-gas canister that should be counted by fuel mass, not appearance",
+    "creator": "Tpikonen",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Gas_cylinder_for_camping_stoves.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "retrieved": "2026-10-07",
+    "modifications": "Resized, center-cropped to 16:9, and converted to WebP."
+  }
+]
