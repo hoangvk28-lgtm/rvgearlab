@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/312sQGCcUnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DC17V4WJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DC17V4WJ?tag=rvgearlab-amz-20",
     "description": "The Power Watchdog PWD50W is a 50A smart protector with WiFi and Bluetooth, wireless fault alerts, and live voltage data. It has an IP65 housing and a replaceable surge module, and it connects with dogbone adapters, at $249.99.\n\nIt costs $190.00 more than the GEARGO 30A and is the only pick with a replaceable module. Pick this if you want alerts and a module you can swap after a spike. The caveat is that joules and warranty are not listed, and it is far from the cheapest.",
     "specs": [
       "50A, WiFi and Bluetooth",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41NU4tSRcLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B38DJ5Z9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B38DJ5Z9?tag=rvgearlab-amz-20",
     "description": "The GEARGO 30A lists 12,000 joules, an IP68 waterproof design, a V-1 flame-retardant shell, and a circuit analyzer to test the pedestal wiring. It has a right-angle plug with grip handles and a 3-year warranty, at $59.99.\n\nIt costs $30.00 more than the Kohree 30A for the same 12,000 joules, so the premium buys IP68 and the warranty. Pick this if you want a stated warranty. The caveat is that the Kohree 30A has the same joules for less.",
     "specs": [
       "12,000 joules, 30A",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ipT8WqgcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BQXWRQFD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BQXWRQFD?tag=rvgearlab-amz-20",
     "description": "The Kohree 30A lists 12,000 joules with a response within 1 ns, an IP67 waterproof design, and diagnostic LEDs. It has a flame-retardant housing, pure copper, a right-angle plug and grip handles, at $29.99.\n\nIt matches the POWGRN 30A on price and gives 14,000 fewer joules, but it has no display. Pick this if you want a plain, proven layout at the lowest price. The caveat is that no warranty length is listed.",
     "specs": [
       "12,000 joules, 30A",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41M8cIk2-eL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GDDF2VVD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GDDF2VVD?tag=rvgearlab-amz-20",
     "description": "The POWGRN 30A lists 26,000 joules, an LED screen showing voltage, current and power, and automatic shutoff with manual reset on faults like low voltage or overheating. It has a waterproof cover with an anti-theft ring, at $29.99.\n\nIt matches the Kohree 30A on price and lists 14,000 more joules, so it wins on paper. Pick this if you want a voltage display and theft ring at the same cost. The caveat is that the listing does not state a warranty or certification.",
     "specs": [
       "26,000 joules, 30A",
@@ -133,7 +133,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41VUC80ejLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CQSY4HYN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CQSY4HYN?tag=rvgearlab-amz-20",
     "description": "The Nilight 30A is an ETL-listed 30A protector with TT-30P and TT-30R connections, rated 125 volts and 3750 watts, with 1050 joules and an LED indicator. Its anti-slip design eases plugging, and it costs $19.79.\n\nIt is $10.20 cheaper than the Kohree 30A, but it lists 1050 joules, far below the 12,000 on rivals. Pick this only if an ETL listing and a low price matter more than surge energy. The caveat is that 1050 joules wears out quickly.",
     "specs": [
       "1050 joules, 30A",

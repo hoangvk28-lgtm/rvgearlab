@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51nt2LhZpUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GFNBRFTC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GFNBRFTC?tag=rvgearlab-amz-20",
     "description": "The Lifan is the only pick here that lists 5500 watts as rated output, with 6900 peak from a 312cc OHV engine. It adds a 120V/240V 23A twist lock outlet, a remote fob with 50 ft range, and a CO-Minder sensor, and it costs $819.99.\n\nIt costs $120.99 more than the Champion 5500, which buys about 1500 more running watts, so a 30A camper can run a 13,500 BTU air conditioner plus a microwave without guessing. Pick this if you want real 5500 continuous watts. The caveat is that weight is not shown, and the battery cables arrive disconnected, so budget setup time.",
     "specs": [
       "5500W rated, 6900W peak",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41KvNRTRMnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FSBN95CL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FSBN95CL?tag=rvgearlab-amz-20",
     "description": "The Champion lists 5500 starting and 4000 running watts in an open frame inverter design, with CO Shield auto shutoff and an EZ Start dial. At $699 it undercuts the Lifan 6900W and carries a 3-year limited warranty plus lifetime technical support.\n\nCompared with the ComJoy 5500W it costs $99.01 more but drops 1000 running watts, so you are paying for the warranty and service network, not power. Pick this if support matters more than headroom. The honest caveat is that 4000 running watts is tight for an air conditioner plus anything else, and the CARB version is the one listed.",
     "specs": [
       "5500W starting, 4000W running",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41wBL-gr+NL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GXVPFBQP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GXVPFBQP?tag=rvgearlab-amz-20",
     "description": "The ComJoy has a 223cc engine rated at 5500 peak and 5000 running watts, and its panel has an L5-30R RV outlet plus an L14-30R 120V/240V outlet. At $599.99 it is the cheapest pick, and the 3.8 gallon tank is listed for up to 8 hours at 50% load.\n\nAgainst the Champion 5500 it saves $99.01 and adds 1000 running watts, but you lose the 3-year warranty (none is listed). Pick this if you want the most running watts per dollar. The caveat is that the brand is newer, so check service options and the CO shutoff, which the listing does not mention.",
     "specs": [
       "5500W peak, 5000W running",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41f0oNDWzAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GT8WW8XP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GT8WW8XP?tag=rvgearlab-amz-20",
     "description": "The GENMAX hybrid pairs a gas engine with a detachable 144Wh battery, giving 3800W rated and 5500W peak. The battery alone runs 300W of AC/DC loads with the engine off, which is useful for quiet hours. It costs $799.99 and has a CO sensor.\n\nIt is $20.00 cheaper than the Lifan 6900W but delivers 1700 fewer rated watts, so the 5500 figure is peak boost only. Pick this if you mostly run small loads and want silent stretches. The caveat is that a 13,500 BTU air conditioner may exceed 3800 rated watts when combined with other loads.",
     "specs": [
       "3800W rated, 5500W peak",

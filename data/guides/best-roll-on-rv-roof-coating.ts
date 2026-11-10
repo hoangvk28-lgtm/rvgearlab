@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41n+5NlNnEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B7L62LTD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B7L62LTD?tag=rvgearlab-amz-20",
     "description": "Countryman 100 Percent Silicone Roof Coating is a 4.75 gallon high-solids formula for RVs and flat roofs. It lists a single-coat application at the recommended rate and no primer for most applications on metal, EPDM, fiberglass, SPF, modified bitumen and existing silicone coatings.\n\nAgainst Liquid Rubber, it is silicone with a no-primer claim. Against the acrylic coatings, it resists ponding water.\n\nBest for owners who want a single-coat silicone system. A strong pick for roofs that collect standing water.",
     "specs": [
       "4.75 gallon 100 percent silicone",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41TkOeySV-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01EV4EXG2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01EV4EXG2?tag=rvgearlab-amz-20",
     "description": "Liquid Rubber RV Roof Sealant is a 5 gallon elastomeric white coating that rolls on like paint. It lists work with EPDM, TPO, fiberglass and aluminum roofs and a 3-step system with RV Smart Cleaner and EPDM and TPO Primer.\n\nAgainst Countryman, it uses a cleaner and primer system and costs less. Against BEEST, it lists a defined weekend project.\n\nBest for EPDM and TPO roofs that want a matched system. A strong all-around choice.",
     "specs": [
       "5 gallon elastomeric coating",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/5150+ft6MQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C7LTMFX5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C7LTMFX5?tag=rvgearlab-amz-20",
     "description": "The BEEST 5 gallon coating is a white solar-reflective elastomeric formula that covers up to 250 sq ft with 2 coats. It lists a minimum thickness of 1 gallon per 50 sq ft over 2 to 3 heavy coats and covers RVs up to 30 feet.\n\nAgainst Liquid Rubber, it costs less and lists the same coverage rate. Against the Gardner, it lists RV use in more detail.\n\nBest for budget buyers coating a 30 foot RV. A solid value in a large pail.",
     "specs": [
       "5 gallon elastomeric coating",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411OjpzMGLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B69R7RBM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B69R7RBM?tag=rvgearlab-amz-20",
     "description": "The Gardner-Gibson Sta-Kool Turbo-Dri is a 5 gallon acrylic elastomeric roof coating that is rain safe in 30 minutes and recoatable in three hours. It uses cool-core pigments to repel heat and goes on with a roller.\n\nAgainst BEEST, it cures faster and lists a roller application. Against Rust-Oleum 710, it lists the fast cure times in more detail.\n\nBest for jobs with a short weather window. A fast pick for quick turnarounds.",
     "specs": [
       "5 gallon acrylic elastomeric",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41SPnIYmiNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B077MZGTZ4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B077MZGTZ4?tag=rvgearlab-amz-20",
     "description": "The Rust-Oleum 710 Elastomeric Roof Coating is a 5 gallon white coating that lists 84 percent initial reflectivity and 74 percent weathered reflectivity. The listing says it is rain resistant in 6 hours.\n\nAgainst the Gardner, it has more reflectivity data and a lower price. Against BEEST, it has fewer RV-specific details.\n\nBest for budget coating where reflectivity matters. A basic reflective pail.",
     "specs": [
       "5 gallon white elastomeric",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51O8vVuGuzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C6NJWTFF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C6NJWTFF?tag=rvgearlab-amz-20",
     "description": "The BEEST 1 gallon coating covers up to 50 sq ft with 2 coats. It uses the same white solar-reflective elastomeric formula as the 5 gallon pail and is solvent-free with ultra-low VOC.\n\nAgainst the 5 gallon pail, it suits small areas. Against the other pails, it costs the least to start.\n\nBest for patching a small area or a pop-up camper. A low-commitment size.",
     "specs": [
       "1 gallon elastomeric coating",

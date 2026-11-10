@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/412oll4P5ZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HK3PBH4C?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HK3PBH4C?tag=rvgearlab-amz-20",
     "description": "The OUKITEL P800 delivers 800W continuous and 1,600W surge from 512Wh of LiFePO4, and alongside the AC sockets sits a 100W USB-C PD jack, a QC 3.0 port and a 120W car outlet. The listing says it recharges in about an hour from up to 500W AC and rates the cells at 4,000 cycles.\n\nIt is one of two picks with a true 800W rating, and it adds a built-in MPPT controller for 200W of solar and a UPS transfer under 10ms. It holds less energy than the powkey R1000 at 740Wh, in return for a much faster refill.\n\nIt suits campers who run a coffee maker, laptop or fan and want to recharge between outings. The listing calls it 20% lighter than comparable stations.",
     "specs": [
       "512Wh LiFePO4, 800W / 1600W",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41+p8tHsi7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09JBWH86G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09JBWH86G?tag=rvgearlab-amz-20",
     "description": "The powkey R1000 packs 740Wh into a lithium-ion pack with three AC outlets sharing 800W of pure sine wave output. It adds two USB-A, two USB-C, two 10W wireless pads, two 12V DC ports and Anderson and DC charging ports.\n\nIt holds about 45% more energy than the OUKITEL P800 and puts wireless pads on the lid. The AC adapter and car charger come in the box.\n\nIt suits car campers who want an 800W budget unit for a fan, cooler and laptop. Charging comes from a wall, car port or a backup battery source.",
     "specs": [
       "740Wh lithium-ion, 800W AC",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41iJKYxROtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FVFGL38H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FVFGL38H?tag=rvgearlab-amz-20",
     "description": "The Anker SOLIX C2000 Gen 2 stores 2,048Wh and delivers 2,400W rated with 4,000W peak, enough for most window and RV air conditioners per the listing. It uses 9W on standby, charges to 100% in 58 minutes and takes 800W alternator charging in a vehicle.\n\nIt is far beyond 800W, so it is the step-up option rather than a true fit. An expansion battery lifts capacity to 4kWh, and a dual-door fridge can run for 32 hours.\n\nIt suits van and RV campers who want 800W loads to last hours instead of minutes. It is the only pick with alternator charging.",
     "specs": [
       "2,048Wh, 2,400W rated",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41RgJx852vL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G7TFCBKT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G7TFCBKT?tag=rvgearlab-amz-20",
     "description": "The AFERIY Nomad400 is rated 400W with an 800W peak and holds 256Wh of LiFePO4. It weighs 8.8 pounds, takes 300W from the wall for a 45 minute fast charge, and offers a 100W PD USB-C port and a 10ms UPS.\n\nIt is a nearest fit by peak watts, with the smallest battery of the five and a body under 9 pounds. Next to the Flashfish K53 it recharges faster and carries a 4,000-cycle pack.\n\nIt suits backpackers and weekenders whose real load stays under 400W and who want a surge reserve. A bidirectional inverter replaces the bulky adapter.",
     "specs": [
       "256Wh LiFePO4, 400W / 800W peak",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41XDplmDjwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HJ7B7RR9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HJ7B7RR9?tag=rvgearlab-amz-20",
     "description": "The Flashfish K53 offers 400Wh and 400W continuous with an 800W peak, one AC outlet and nine ports in total. It weighs about 8.44 pounds and measures 9.2 by 5.8 by 6.0 inches.\n\nIt holds more energy than the AFERIY Nomad400 at the lowest price here, with a single AC outlet. The listing names solar, wall and car charging, with a full recharge quoted at 9 to 10 hours.\n\nIt suits budget campers who need an 800W surge capacity for a pump or blender. It is a nearest fit rather than an 800W unit.",
     "specs": [
       "400Wh, 400W / 800W peak",

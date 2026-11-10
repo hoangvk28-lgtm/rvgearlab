@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41SpjQURZJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DLKL63BQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DLKL63BQ?tag=rvgearlab-amz-20",
     "description": "The Cleartide is a 12V pump with 3.3 GPM at 50 PSI, a brushless BLDC motor, 10 foot self-priming and self-diagnosis with dry-run protection. The listing says it supports three to four outlets.\n\nIt is the one pump here whose control electronics adjust power output when the motor overheats, which goes beyond a plain mechanical switch. The WASSERMANN pumps rely on a conventional switch.\n\nBest for owners who want a smart, self-protecting switch on 12V. Worth noting on the listing: supports three to four outlets.",
     "specs": [
       "3.3 GPM at 50 PSI, 12V",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41kOFJKiw2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GBTYWJRF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GBTYWJRF?tag=rvgearlab-amz-20",
     "description": "The WASSERMANN 3.0 is a 12V self-priming diaphragm pump at 3.0 GPM and 55 PSI sold as a replacement for the 4008-101-A65. Inside the box are a pair of 1/2 inch barb adaptors, one male-thread adaptor and a debris filter, and the pump starts when a tap opens.\n\nIt is the standard-style on-demand pump of the group, with the familiar 55 PSI cut-out and a kit that saves separate parts. The Flumexxon offers the same rating with different branding.\n\nFits a 4008 swap for someone who knows the classic switch. It also stands out because matches the 4008-101-A65 number.",
     "specs": [
       "3.0 GPM at 55 PSI, 12V",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51K4AFhGxdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G6D6P2HZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G6D6P2HZ?tag=rvgearlab-amz-20",
     "description": "The FlumExxon is a 12V four-chamber pump listed as a 4008-101-A65/E65 replacement at 3.0 GPM and 55 PSI. The listing describes smart automatic pressure switch control.\n\nIt is the four-chamber alternative to the WASSERMANN 3.0, which aims at smoother flow, and it sits at a similar price. The A65 and E65 numbers are both named.\n\nGood for buyers after an on-demand 4008 replacement with a smoother four-chamber diaphragm. Buyers also get this: 12V DC quiet design.",
     "specs": [
       "3.0 GPM at 55 PSI, 12V",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51kxU5T7aPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CHF5BJNF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CHF5BJNF?tag=rvgearlab-amz-20",
     "description": "The ECO-WORTHY 110V pump is rated 5.5 GPM with its pressure switch set to 70 PSI and an upgraded switch said to last longer. Thermal overload protection and operation beyond an hour are listed.\n\nIt is the AC choice here and carries the highest cut-out pressure, which suits hookup users with robust plumbing. The 12V pumps cannot match its flow.\n\nA fit for shore-power owners who want strong flow and a durable switch. Among its strengths, runs over an hour continuously.",
     "specs": [
       "5.5 GPM at 70 PSI, 110V AC",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41aZZQ51v7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CSYK2J8R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CSYK2J8R?tag=rvgearlab-amz-20",
     "description": "The Doytn is a 12V diaphragm pump rated 1.2 GPM at 80 PSI with a built-in pressure switch that starts and stops it when a faucet or nozzle opens. Self-priming and run-dry capability are listed.\n\nIt is the smallest and cheapest on the list and suits a van with one tap. Its 80 PSI figure is a maximum rather than a working setting at that flow.\n\nA good fit for tap-only builds where a tiny pump is enough. Among its strengths, low power draw.",
     "specs": [
       "1.2 GPM at 80 PSI, 12V",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41LijfgAljL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FR8RMTW8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FR8RMTW8?tag=rvgearlab-amz-20",
     "description": "The WASSERMANN switch kit is a 40 to 80 PSI pressure switch for 12V, 24V, 110V and 115V diaphragm pumps. It senses pressure through a diaphragm to start and stop the pump, and installs by reconnecting the pump's wires to a 2-pin connector.\n\nIt is not a pump, so it fits owners whose pump runs fine and whose switch has failed, saving the cost of a new pump. Its adjustment screw sits under the cover.\n\nBest for repairs where the motor still works. Among its strengths, simple 2-pin reconnection.",
     "specs": [
       "40 to 80 PSI switch",

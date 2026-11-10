@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31b9nO2STkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F625QBML?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F625QBML?tag=rvgearlab-amz-20",
     "description": "The Renogy 300W lists 25 percent N-type 16BB cells, 18.74 lbs and a folded size of 23.2 x 29.3 x 3.2 inches. It has an IP67 hail-resistant ETFE coating, rust-proof kickstands, IP68 connectors and parallel wiring that keeps output under partial shade.\n\nIt is the priciest pick and claims 17 percent less weight than a standard 300W panel. Compared with the VEVOR, it lists a stated weight and shade-handling wiring.\n\nIt suits RV and van campers who want a named brand with a one-minute setup. The IP68 connectors suit wet sites.",
     "specs": [
       "25% N-type, 18.74 lbs",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41i7SbGskiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H6VTCYCW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H6VTCYCW?tag=rvgearlab-amz-20",
     "description": "The LVYUAN lists 23.5 percent monocrystalline cells, a centripetal inward fold of 26.77 x 26.38 x 1.57 inches and dual wiring modes: parallel at 23.6V and series at 47.2V. It has IP65 water resistance, tool-free setup and a 24-month warranty.\n\nIt is the only 300W pick here that lists both wiring voltages and a warranty period. It costs about $130 less than the Renogy.\n\nIt suits owners who want to pick a station voltage. The 24-month warranty adds support.",
     "specs": [
       "23.5%, 26.77 x 26.38 x 1.57 in",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41gtQdVyDxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G4KL4D5H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G4KL4D5H?tag=rvgearlab-amz-20",
     "description": "The VEVOR lists 22 to 23 percent monocrystalline cells, IP67 and a sturdy tempered glass surface. It has a built-in MC4 cable plus a 4-in-1 connector cable for XT60, Anderson, DC5521 and DC5525.\n\nIt costs more than the LVYUAN and less than the Renogy. Compared with the DOKIO, it lacks a controller, and compared with the Renogy it lists less detail.\n\nIt suits campers who want a tough surface and MC4 flexibility. The 4-in-1 cable covers common station plugs.",
     "specs": [
       "22 to 23% cells, IP67",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51BthXlG7jL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07VL4LVF1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07VL4LVF1?tag=rvgearlab-amz-20",
     "description": "The DOKIO lists 15.2 lbs and a fold to 19.3 x 37.4 x 1.1 inches, with a standalone PWM controller for 12V systems, a 9.85 ft cable and dual USB ports. The listing warns that stations often limit solar input to 100 to 200W.\n\nIt is lighter than the Renogy and the only pick with a controller. It costs less than the VEVOR and LVYUAN.\n\nVans and trailers with a 12V battery bank are the natural home for it. The slim 1.1 inch fold stores flat.",
     "specs": [
       "15.2 lbs, 1.1 in thick",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410md6oELbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GK77GCG8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GK77GCG8?tag=rvgearlab-amz-20",
     "description": "This 300W panel lists 23 percent cells, 2 USB-A ports, a USB-C 22V3A PD port and a DC port at 300W max. Its smart chip detects devices, and it unfolds to 99 x 29 x 1.3 inches with a folded size of 29 x 26.4 x 1.6 inches.\n\nIt costs the least of the group and has the most output ports. The title says 25 percent while a bullet says 23 percent.\n\nIt suits budget buyers who want ports and an IP67 rating. The handle makes it easy to carry.",
     "specs": [
       "23%, 300W DC, USB-C PD",

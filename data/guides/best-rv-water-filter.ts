@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51cEM+M8mIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0024E6V30?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0024E6V30?tag=rvgearlab-amz-20",
     "description": "The Camco Tastepure 2-pack is a pair of hose-end filters using GAC and KDF media. The listing says they are independently tested and listed to NSF/ANSI 42 and 53, and that the lead-free content is CSA certified.\n\nIt beats the Kohree and Hourleey 2-packs mainly on documentation, since those lean on looser NSF or material-safety wording. It gives up the replaceable cartridges of the OKBA and Filterelated canister kits, so you throw the whole unit away at the end of its life.\n\nBest for campers who want one proven, low-fuss filter on the drinking hose. The caveat is that a hose-end filter is not a sediment-handling system for muddy or rusty hookups.",
     "specs": [
       "NSF/ANSI 42 and 53 listed",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411bAfXiPrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08FHZMJH7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08FHZMJH7?tag=rvgearlab-amz-20",
     "description": "OKBA sells a two-canister system with a 5 micron sediment cartridge and a 0.5 micron carbon block, mounted on a bracket. A housing wrench is in the box.\n\nCompared with the Camco 2-Pack it handles dirtier water, because the 5 micron stage takes the sediment load before the carbon block. It costs more up front and needs a place to stand or hang, which the Filterelated kit below also demands.\n\nBest for a rig that parks on one site for weeks and wants cheap replacement cartridges. The listing names no NSF performance certification, so treat it as a sediment and taste filter.",
     "specs": [
       "5 micron plus 0.5 micron",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41K+AAOpydL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7Q86LJ2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7Q86LJ2?tag=rvgearlab-amz-20",
     "description": "Filterelated pairs a 1 micron polypropylene sediment cartridge with a 5 micron coconut shell carbon cartridge in a dual housing with 3/4 inch brass fittings. The bundle ships with both cartridges, so nothing extra is needed to start.\n\nIt is cheaper than the OKBA Dual Canister and its finer 1 micron first stage catches more fine silt, but the 5 micron carbon is a coarser carbon stage than OKBA's 0.5 micron block. That means taste improvement is probably a notch lower, while sediment protection is better.\n\nBest for budget buyers who want a canister setup without paying for a premium brand. The listing does not name a certification, so confirm cartridge availability before you commit.",
     "specs": [
       "1 micron sediment stage",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51lDcSuwW2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0892YBMW4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0892YBMW4?tag=rvgearlab-amz-20",
     "description": "Kohree's 2-pack uses GAC and KDF with a 20 micron sediment layer, and the listing gives a 0.5 gpm flow rate and up to 1,057 gallons per filter. Those figures are rare among hose filters, which makes season planning easier.\n\nIt sits below the Camco 2-Pack because the wording is NSF certified and BPA-free without naming the exact standard. It sits above the Hourleey because the capacity and flow figures are spelled out, which makes it easier to plan a season.\n\nBest for a camper who wants numbers before buying. The 20 micron stage is a sediment screen only, so it will not trap fine silt.",
     "specs": [
       "20 micron sediment layer",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41HLIcYCHtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CBJZ4238?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CBJZ4238?tag=rvgearlab-amz-20",
     "description": "Hourleey ships two hose-end filters plus two flexible hose protectors, using GAC with KDF media and a food-grade strengthened housing. The listing says one lasts a season of up to three months.\n\nNext to the Kohree 2-Pack it adds the protectors that keep a heavy filter from kinking the hose at the spigot, but it gives up stated flow and capacity numbers. It is also less documented than the Camco 2-Pack.\n\nBest for campers whose spigots are low or awkward. The listing names no certification, so use it as a taste filter.",
     "specs": [
       "GAC and KDF media",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51snwG3Z8zL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0006IX87S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0006IX87S?tag=rvgearlab-amz-20",
     "description": "This is the single-filter version of the Tastepure line, with the same GAC and KDF media and the same NSF/ANSI 42 and 53 listing wording as the 2-pack. It is simply the one-filter pack for a short trip.\n\nThe only real difference from the Camco 2-Pack is quantity, so you save money now but need a backup for a longer trip. It also lacks the hose protector some Hourleey buyers get.\n\nBest for weekenders and anyone testing a campground's water for a single trip. Buy the 2-pack if you will camp more than a few months.",
     "specs": [
       "NSF/ANSI 42 and 53 listed",

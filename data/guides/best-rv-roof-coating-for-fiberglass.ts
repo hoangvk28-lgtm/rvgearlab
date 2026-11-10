@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41kv1OF8lyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B007TQI96K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B007TQI96K?tag=rvgearlab-amz-20",
     "description": "The Dicor RP-FRC-1 is a 1 gallon, 100 percent acrylic fiberglass roof coating in white, described as ideal for fiberglass RV roofs when used with Dicor's Clean and Prep. The listing calls it super flexible and sun reflective, and says a primer step can upgrade the look of an old worn roof.\n\nAgainst Liquid Rubber 1gal, it is made specifically for fiberglass and an acrylic system, but gives no coverage rate. Against Dicor Fiberglass Tan, it gives actual coating details.\n\nBest for owners who want a fiberglass-specific acrylic and will use the matching prep product. Ask for the coverage figure before ordering.",
     "specs": [
       "100% acrylic fiberglass coating",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41p3hay2szL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01EM9GAA8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01EM9GAA8?tag=rvgearlab-amz-20",
     "description": "Liquid Rubber RV Roof Sealant is a 1 gallon white elastomeric coating that names EPDM, TPO, fiberglass and aluminum roofs. It is sold as a 3-step system with RV Smart Cleaner and an EPDM and TPO primer, at 1 gallon per 50 square feet.\n\nAgainst Dicor Fiberglass White, it covers more roof types but the named primer is for EPDM and TPO rather than fiberglass. Against Kohree Silicone, it needs more steps.\n\nBest for fiberglass owners who also have other surfaces such as skylights. Confirm the prep for fiberglass specifically.",
     "specs": [
       "Names fiberglass among roofs",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41TkOeySV-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01EV4EXG2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01EV4EXG2?tag=rvgearlab-amz-20",
     "description": "Liquid Rubber RV Roof Sealant in the 5 gallon pail has the same multi-surface listing as the 1 gallon, naming fiberglass among its roofs. The listing says a 1 to 5 gallon pail can cover a 30 foot RV at 1 gallon per 50 square feet.\n\nAgainst Liquid Rubber 1gal, it lowers cost per gallon but needs storage and a big commitment. Against Kohree Silicone, it is an elastomeric coat that uses a primer.\n\nBest for a full fiberglass roof on a larger rig. Make sure you can use the material up once opened.",
     "specs": [
       "5 gallon pail",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41OCg3Xw8UL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FDQ97YN9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FDQ97YN9?tag=rvgearlab-amz-20",
     "description": "Kohree RV Roof Coating is a 1 gallon, 100 percent silicone formula in white that says no primer is needed after cleaning the roof. One gallon covers 50 square feet and it applies with a brush, roller or sprayer.\n\nAgainst Dicor Fiberglass White, it skips the prep product but is silicone, which can resist later coatings. Against Liquid Rubber 1gal, it needs fewer steps and lists no fiberglass.\n\nBest for a quick coat on a clean, sound roof. The listing does not name fiberglass, so confirm with the seller.",
     "specs": [
       "100% silicone coating",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/61Q1xbnjysL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F9BD9DW9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F9BD9DW9?tag=rvgearlab-amz-20",
     "description": "SENVEN RV Roof Sealant is a 1 gallon water-based, zero VOC white coating that lists EPDM, TPO, fiberglass and aluminum roofs. The listing says to apply 1 gallon per 50 square feet.\n\nAgainst Liquid Rubber 1gal, it names the same roofs for less money but has no primer system listed. Against Kohree Silicone, it is a water-based coat with a coverage rate.\n\nBest for a low-cost fiberglass roof refresh. Check cure and recoat steps with the seller.",
     "specs": [
       "1 gallon, water-based, zero VOC",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41V+RSzyH7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0778DRRVT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0778DRRVT?tag=rvgearlab-amz-20",
     "description": "The Dicor RP-FRCT-1 is a tan fiberglass RV roof coating whose listing gives only package size, weight and country of origin. It is made in the United States.\n\nAgainst Dicor Fiberglass White, it offers a tan finish but no chemistry, coverage or prep detail. That makes it hard to compare against the others.\n\nBest only if you need a tan roof and trust the Dicor name. Confirm chemistry and coverage with the seller.",
     "specs": [
       "Tan fiberglass roof coating",

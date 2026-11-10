@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51jbq0woi9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FC64HLPM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FC64HLPM?tag=rvgearlab-amz-20",
     "description": "Ipretti is an 11-piece 18/8 stainless steel set for 4 to 8 people with a 3.6L large pot, 2.5L medium pot, 1.6L small pot and 8.7 inch fry pan. It adds a strainer lid, a 1100ml kettle, a ladle, a slotted ladle and a turner.\n\nIt has the biggest pot of any set here, which suits pasta for a crowd. Foldable silicone handles snap into place and fold flat.\n\nChoose it for large family trips. It brews coffee, drains pasta and flips pancakes.",
     "specs": [
       "11 pieces, 18/8 stainless",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41wLYYvtJ0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DXTYKYK6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DXTYKYK6?tag=rvgearlab-amz-20",
     "description": "KingCamp is a 304 double-bottomed stainless steel set for 4 to 6 with a large pot, middle pot, colander and a non-stick griddle pan. Pots stack into a tote bag, and handles are perforated for hanging over fire.\n\nHanging handles make it better for campfires than the Ipretti. The colander is a nice extra.\n\nChoose it for family car camping over a stove or fire. It packs into one tote.",
     "specs": [
       "304 double-bottomed stainless",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51YQm5vNTSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GJ74JDGK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GJ74JDGK?tag=rvgearlab-amz-20",
     "description": "THTYBROS 43-piece is built for 6 people with a 4.75 QT stockpot, 2.1 QT kettle, frying pan, 6 plates and 6 color-coded cups. It uses anodized aluminum with a non-stick coating and collapsible handles.\n\nThe stockpot is the largest by volume, and it includes plates for six, which the stainless sets lack. A storage bag has a handle.\n\nChoose it for crews of six who want everything included. It saves buying plates and cups separately.",
     "specs": [
       "43 pieces for 6 people",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51JXrRD5lrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GSW5944M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GSW5944M?tag=rvgearlab-amz-20",
     "description": "DINITHRON is an 18-piece set with a 2.8L main pot, 1.6L kettle, stainless plates, deep bowls and cutlery. The aluminum surface has no synthetic non-stick coating, and upright handles stay away from flame.\n\nUncoated aluminum suits campers who do not want non-stick. It is cheaper than the stainless sets.\n\nChoose it for family soups and pasta without coatings. The set also includes bowls and cutlery.",
     "specs": [
       "18 pieces, uncoated aluminum",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41SGBXpwftL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C65D5R8Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C65D5R8Y?tag=rvgearlab-amz-20",
     "description": "Odoland's 10-piece set has a pot, fry pan, kettle, 3 plastic bowls, a soup spoon, a bamboo spatula and a cleaning cloth, all weighing 1.7 lbs. Anodized aluminum with non-stick coating and foldable handles keep it compact.\n\nIt is much lighter than the stainless sets, at a low price. It suits smaller families.\n\nChoose it for a light, cheap set for two to four. It suits a family that cooks simple meals.",
     "specs": [
       "10 pieces, 1.7 lbs",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/312Ti-HWA3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BQQ4G4XF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BQQ4G4XF?tag=rvgearlab-amz-20",
     "description": "This Odoland 15-piece kit has a 1900ml pot with lid and an 860ml fry pan, in hard anodized aluminum. The locking handles fold with one touch, and the whole kit weighs 1 lb.\n\nIt is the lightest and cheapest set here. The pot has drain holes in the lid.\n\nChoose it as a backup kit or for one or two people. It slips into a daypack easily.",
     "specs": [
       "1900ml pot, 860ml pan",

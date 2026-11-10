@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/511oucx2V6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G8JPL42X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G8JPL42X?tag=rvgearlab-amz-20",
     "description": "The RVSHARK 40FT is certified to NSF/ANSI/CAN 372 and was extended from 35 ft to 40 ft. It lists brass-plated aluminum fittings with reinforced strain relief ends and a hybrid polymer build.\n\nIt is the only true 40 ft pick and the lowest priced option. It lists NSF 372 certification, which the Kohree 50 FT does not.\n\nIt suits owners who need exactly 40 feet. The strain relief protects the ends.",
     "specs": [
       "5/8 inch, 40 ft",
@@ -53,7 +53,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51LY8OcJMnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G1LNTWS4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G1LNTWS4?tag=rvgearlab-amz-20",
     "description": "The Kohree NSF 372 Certified 50-ft hose is independently tested to NSF/ANSI/CAN 372. It lists precision-machined fittings, a large rubber grip and a no odor build.\n\nIt adds 10 feet over a 40 ft hose and keeps certified wording. It costs more than the RVSHARK.\n\nIt suits owners who want extra reach with certified wording. The grip is easy to turn.",
     "specs": [
       "5/8 inch, 50 ft",
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51-XRtUH80L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09BZ91WDJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09BZ91WDJ?tag=rvgearlab-amz-20",
     "description": "The Kohree 50FT is a 5/8 inch hose with solid aluminum fittings, 3 layers of hybrid polymer and a large rubber grip. It lists a 450 PSI burst figure and food-grade, lead-free materials.\n\nIt costs slightly less than the certified Kohree 50 and offers the same length. It does not list NSF 372.\n\nIt suits owners who want a 50 ft hose for less. The UV stabilization suits sunny sites.",
     "specs": [
       "5/8 inch, 50 ft",
@@ -107,7 +107,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/511NceEhDyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BXWS7BCS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BXWS7BCS?tag=rvgearlab-amz-20",
     "description": "The RVGUARD 50 FT lists fittings assembled by a high-pressure hydraulic machine so the hose does not separate from them. It lists 3-layer hybrid polymer and a rubber ring with PTFE tape.\n\nIt is priced below both Kohree 50 ft hoses. It describes how the fittings are made.\n\nIt suits owners worried about fittings pulling off a long hose. The 3/4 inch garden thread fits most pedestals.",
     "specs": [
       "5/8 inch, 50 ft",
@@ -134,7 +134,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41D3pzNqAvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GFSBNH1W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GFSBNH1W?tag=rvgearlab-amz-20",
     "description": "Nilight's 35FT hose uses 3 layers, with food-grade synthetic rubber and a middle netted rope layer, and it works from -4°F up to 176°F. A storage bag and solid 3/4 inch aluminum fittings are included.\n\nIt is the pick for owners who want a bag and a stated temperature span. It runs a little shorter than the 50 ft hoses.\n\nAnyone who needs a bit under 40 feet gets a hose the bag keeps clean. It stows neatly between trips.",
     "specs": [
       "5/8 inch, 35 ft",
@@ -161,7 +161,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41chL9ufapL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GFSS77SX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GFSS77SX?tag=rvgearlab-amz-20",
     "description": "The Nilight 25FT lists the same 3-layer build, storage bag and temperature range as the 35 ft version. It uses solid male and female aluminum fittings.\n\nIt is the shortest and lowest weight pick. It costs less than the Nilight 35 FT.\n\nIt suits owners who find 25 ft enough but want a bagged hose. The coil fits easily in a bay.",
     "specs": [
       "5/8 inch, 25 ft",

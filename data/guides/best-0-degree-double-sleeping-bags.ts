@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/317e1-QW1hL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B000F38YHI?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B000F38YHI?tag=rvgearlab-amz-20",
     "description": "The TETON Mammoth is a double bag sold as 0 degree, measuring 94 by 62 inches, which the listing says is longer and wider than a queen mattress. It has a soft poly-flannel lining, zipper and shoulder draft tubes, and unzips on each side and across the bottom.\n\nIt is the widest bag here and the only pick that lists shoulder draft tubes as well as a zipper tube. A second listing of the same size, sold as the Fahrenheit Mammoth, is treated as the same product.\n\nIt suits couples who want maximum room and a cold-weather label for winter car camping. Add a wide insulated pad underneath.",
     "specs": [
       "94 x 62 inch double",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41a1JR+mk1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H6XC9CJ8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H6XC9CJ8?tag=rvgearlab-amz-20",
     "description": "The AGEMORE is a queen-size double with 100% cotton flannel lining and 550GSM 3D synthetic fiber fill, weighing 14 lb. It is described as wider than a 90 by 61 inch queen mattress and fits people up to 6.5 ft tall.\n\nIt offers a thicker synthetic fill than the Forinbuy and MEREZA, and its left and right zippers allow it to open into two pieces or one extra-wide piece. It is smaller than the TETON Mammoth, which gives more room per sleeper.\n\nIt suits couples or a family with one small child who want a winter-minded bag in one unit. Strap tabs on the bottom make rolling it up easier.",
     "specs": [
       "550GSM synthetic fill",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41FW1nYRKfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DK52VMDX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DK52VMDX?tag=rvgearlab-amz-20",
     "description": "The FORINBUY double measures 90 by 59 inches, with 100% cotton flannel lining, 450 gsm high-loft fill and a 210T waterproof ripstop shell. The listing prints a comfort rating of 50 degrees F and a limit of 32 degrees F.\n\nIt is the only pick that prints a full comfort and limit pair, so it tells you plainly where it works. It converts into two single bags or an extra-wide blanket through double-sided zippers, and the bottom zipper opens extra foot room.\n\nIt suits couples who camp in spring and fall and want an honestly labeled double. Do not buy it for hard freezes.",
     "specs": [
       "Comfort 50F, limit 32F",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ill9WMoWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F6V9KBXP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F6V9KBXP?tag=rvgearlab-amz-20",
     "description": "The MEREZA XL double is made with 100% flannel, carries an OEKO-TEX certification statement and is sold as an all-season bag for two big-and-tall adults. The listing says the brushed flannel traps air for warmth.\n\nIt is the lowest-priced bag here by a wide margin and the easiest to justify for casual use. The listing prints no comfort rating, fill weight or limit, unlike the AGEMORE and FORINBUY.\n\nIt suits couples on mild-weather trips who want a roomy, soft, low-cost double. Pair it with a pad and a liner for cooler nights.",
     "specs": [
       "100% flannel, XL queen size",

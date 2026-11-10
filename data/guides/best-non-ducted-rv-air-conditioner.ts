@@ -30,7 +30,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/417gAerrmWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F3CV6CHH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F3CV6CHH?tag=rvgearlab-amz-20",
     "description": "The FOGATTI 16K RV AC Unit is a non-ducted heat pump with a dual-motor, triple-fan system that delivers 418 CFM at 43 dB. It fits a standard 14.25 inch roof cut-out without modifications, so it drops into the opening left by most older units. It costs $1,299.99, the highest price of the six, and leads the group for airflow and low noise.\n\nAgainst the RecPro 15K below it, the FOGATTI puts out a stated 418 CFM and runs at 43 dB, quieter than the 55.4 dB listed for the RecPro. The extra capacity of 16K BTU gives more room for hot afternoons, and the heat pump handles cool mornings without a separate heater. The standard cut-out size means no roof surgery.\n\nThis is the pick for owners of a large non-ducted rig who want the quietest, strongest heat pump in the lineup. It suits families who sleep through the afternoon heat, full-timers in warm climates and anyone who values low noise inside a small cabin.",
     "specs": [
       "16K non-ducted heat pump",
@@ -57,7 +57,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41D6ubi4FPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08LZX88JM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08LZX88JM?tag=rvgearlab-amz-20",
     "description": "The RecPro RV 15K AC Heat Pump works in either ducted or non-ducted setups at 110 to 120V, with a low amp draw and a 55.4 dB operation rating. The shroud is made from UV-resistant plastic, and the unit is white. It costs $1,254.95, about $45 less than the FOGATTI.\n\nAgainst the FOGATTI above it, the RecPro offers the freedom to run either duct style, which matters if you may rebuild your ceiling or buy a used rig with an unknown setup. Its low amp draw helps on limited power. Against the LAOFINA below it, the RecPro comes in at a lower capacity of 15K, with a stated low draw that suits smaller generators.\n\nThis is the pick for off-grid, solar and generator setups, and for owners who are not sure which duct style their rig uses. It suits fifth wheels, travel trailers and anyone who may change the ceiling layout in a later renovation.",
     "specs": [
       "15K heat pump",
@@ -84,7 +84,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/3173SQFMDaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GS61QXSK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GS61QXSK?tag=rvgearlab-amz-20",
     "description": "The LAOFINA RV Air Conditioner is an 18,000 BTU rooftop heat pump rated for 50 dB operation, using both 115V AC and 12V DC connections. It is the largest-capacity unit in the group, and it costs $859.00, about $395 less than the RecPro 15K heat pump.\n\nAgainst the RecPro 15K above it, the LAOFINA adds 3,000 BTU of stated capacity and costs far less, with a quieter listed rating of 50 dB. Against the RecPro 13.5K below it, the LAOFINA offers more cooling, a heat pump for shoulder-season warmth and a price that is $100 lower. Cooling and heating share one non-ducted unit, so a separate furnace is not needed on mild days.\n\nThis is the pick for large rigs in hot climates where capacity matters and budget is limited. It suits buyers who want the most BTU for the money, owners with generous shore power and campers who want a heat pump without paying flagship prices.",
     "specs": [
       "18,000 BTU heat pump",
@@ -111,7 +111,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41VST+roAZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B237WDG3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B237WDG3?tag=rvgearlab-amz-20",
     "description": "The RecPro 13.5K Non-Ducted RV Air Conditioner is a cooling-only rooftop unit with a low amp draw and a wireless remote with an LED touch display. Operation is listed at 59.7 dB, and the shroud uses UV-resistant plastic. It costs $959.95.\n\nAgainst the LAOFINA above it, the RecPro 13.5K gives up heating and capacity, and it adds a wireless remote and display. Against the EROMMY below it, the RecPro offers 13.5K BTU on a standard rooftop mount with 115V power, which is the typical arrangement for a stock travel trailer. The low amp draw keeps generator load manageable.\n\nReach for this one if you have a standard trailer who only need cooling because they already have a furnace. It suits seasonal campers in warm regions, owners replacing a typical cooling-only unit and anyone who likes the convenience of a wireless remote.",
     "specs": [
       "13.5K non-ducted",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51gMsSl60iL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HJYWMHSX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HJYWMHSX?tag=rvgearlab-amz-20",
     "description": "The EROMMY 12V DC RV Air Conditioner is a 10,000 BTU rooftop unit rated at 49 dB indoors, with an LED light and auto swing airflow. It uses a brushless fan, a brushless blower and a rotary compressor in a copper tube evaporator design. It costs $469.99, roughly half the price of the RecPro 13.5K.\n\nAgainst the RecPro 13.5K above it, the EROMMY runs on 12 volts, which means it works from a battery bank without an inverter or a generator. The auto swing airflow spreads cool air across a small space, and the 49 dB rating is quiet for its size. Against the full-size units, it offers a smaller footprint suited to vans and compact campers.\n\nThis is the pick for vans, small campers and off-grid builds with a large battery bank and solar. It suits owners who want cooling without a generator and anyone who sleeps in a small cabin where 10,000 BTU is enough.",
     "specs": [
       "12V DC, 10,000 BTU",
@@ -165,7 +165,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31XbQaF2jdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00HJQ86UO?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00HJQ86UO?tag=rvgearlab-amz-20",
     "description": "The Dometic Air Distribution Box is a ceiling control and distribution kit made for Dometic air conditioners with manual control. It is designed for non-ducted applications and has a universal fit for compatible Dometic units. It costs $163.98, the lowest price of the six.\n\nUnlike the other five picks, this is an accessory, not an air conditioner, so it belongs in the guide for owners who already have a Dometic roof unit. It slots into a compatible Dometic unit, and the manual control keeps the wiring simple. Compared with a full unit that costs hundreds more, replacing the box restores airflow and control at a fraction of the cost.\n\nThe right call for owners running an existing Dometic installation whose ceiling box is cracked, missing or outdated. It suits people who are happy with their roof unit and only need to refresh the part inside, and anyone who wants the simplest upgrade in this guide.",
     "specs": [
       "Dometic ADB kit",

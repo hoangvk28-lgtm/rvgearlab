@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41uzarB0J0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H837JV94?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H837JV94?tag=rvgearlab-amz-20",
     "description": "The LET'S CAMP is a 12-person cabin tent measuring 16 by 11 feet with 176 sq ft of floor. Its front door cover lifts on steel poles to form a shaded canopy, and six zippered mesh windows, mesh roof panels, two low vents and a rear 2-in-1 door move air.\n\nIt is the only pick with a built-in lift-up canopy for shade, and it costs more than the KTT or CAMPROS. Two detachable dividers make up to three rooms, which the CAMPROS cannot do.\n\nIt suits large groups who spend the day outside the tent and need a cool shaded entry. Interior and canopy work together as a camp base.",
     "specs": [
       "16x11 ft, 176 sq ft",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31KDilbAb+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08CXQ2HQV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08CXQ2HQV?tag=rvgearlab-amz-20",
     "description": "The CAMPROS is a 12-person tent with 180 sq ft (20 by 9 feet), a 72 inch center height and room for 3 queen or 5 full air mattresses. It uses 185T polyester at PU1000mm with sealed seams, a mesh roof, door and windows.\n\nIt has the largest floor of the four and the lowest price, while its coating rating is the lowest of the group. The CORE gives better weather numbers at twice the cost.\n\nIt suits groups on a budget who need floor first and rain protection second. Color-coded poles let two people set up in under ten minutes.",
     "specs": [
       "180 sq ft, 20x9 ft floor",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41O9Tt32E7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07QY3KZPR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07QY3KZPR?tag=rvgearlab-amz-20",
     "description": "The CORE 12 Person is a 16 by 11 foot cabin tent with an 86 inch center height and room for four queen air beds. It uses H20 Block technology with 1200mm fabric, a fully taped rainfly and sealed seams, and includes guylines and steel stakes.\n\nIt has an 86 inch center height and a room divider, and its fabric rating tops the CAMPROS. The LET'S CAMP gives a built-in canopy and costs less.\n\nIt suits groups who want a durable tent in a windy site. Two rooms separate sleepers from gear.",
     "specs": [
       "16x11 ft, 86 in height",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41aTYBBvbxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08N1KM51Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08N1KM51Y?tag=rvgearlab-amz-20",
     "description": "The KTT is a 12-person tent with a 14.1 by 10 foot floor and 6.58 feet of height. It has 3 doors and 3 windows with mesh, a straight-wall design and a door curtain that turns into a sunshade canopy when held up on two poles.\n\nIt shares the door-canopy idea with the LET'S CAMP on a smaller floor. The listing says it fits 4 full air mattresses.\n\nIt suits groups who want a canopy and two rooms at a modest price. The folding support rods pack smaller than usual.",
     "specs": [
       "14.1x10 ft, 6.58 ft high",

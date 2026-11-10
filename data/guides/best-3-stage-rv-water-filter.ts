@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/412ZtL0j6nL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G7VTTHLS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G7VTTHLS?tag=rvgearlab-amz-20",
     "description": "SEICETEC pairs a 5 micron polypropylene sediment stage, a 0.5 micron CTO carbon stage and a 0.01 micron ultrafiltration membrane. It uses 1 inch brass inlet and outlet ports with a 90 degree elbow adapter and states up to 6 gpm.\n\nIts stated 6 gpm and 1 inch ports are higher than the 3/4 inch Filterelated 3-Stage UF and Caredear kits, and it costs a little more than both. It is far cheaper than iSpring and the Clearsource-based setups.\n\nBest for rigs that need flow with a fine finishing stage. The listing says the membrane helps filter fine particles, but it does not name a bacteria standard.",
     "specs": [
       "5 micron, 0.5 micron, 0.01 UF",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41N9Cdac5kL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GT3W59VK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GT3W59VK?tag=rvgearlab-amz-20",
     "description": "This Filterelated kit uses a 1 micron polypropylene stage with polyphosphate, a carbon block and a 0.01 micron UF membrane, with 3/4 inch brass ports and a bracket for floor or wall mounting. The kit installs in about five minutes without tools.\n\nThe polyphosphate is the key difference from SEICETEC 3-Stage, because it slowly releases scale-inhibiting compounds in stage one. It gives up SEICETEC's 6 gpm 1 inch plumbing.\n\nBest for hard-water campgrounds where scale builds on fixtures. Polyphosphate inhibits scale, but it does not soften the water.",
     "specs": [
       "1 micron PP with polyphosphate",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41lywMyFAaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FY2CVFDF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FY2CVFDF?tag=rvgearlab-amz-20",
     "description": "Caredear includes two wrenches, two spare O-rings, plumber's tape and two 1 inch to 3/4 inch adapters with a 3-stage PP, carbon and UF layout. The housing walls are 0.39 inch thick and tested to 125 psi.\n\nIt is the cheapest UF kit here, below Filterelated 3-Stage UF, and its listed accessories save a trip to the store. It lacks Filterelated's polyphosphate and SEICETEC's stated flow.\n\nBest for a first buyer who wants every part in one box. The listing says 0.01 micron for safe drinking, but names no standard.",
     "specs": [
       "PP, carbon, 0.01 micron UF",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/511GHC0rlmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FKFQYH5D?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FKFQYH5D?tag=rvgearlab-amz-20",
     "description": "Feeligivin lists a 0.2 micron high-flow stage behind a sediment filter, with brass quick connects, a lightweight polycarbonate carbon fiber frame and a quoted 120 days of cleaner source water. The housing frame is built to resist bumps on the road.\n\nThe 0.2 micron stage is coarser than SEICETEC's 0.01 UF, but quick connects make hookup faster than threaded 1 inch ports. It costs about the same as SEICETEC 3-Stage.\n\nBest for people who like the 0.2 micron figure and quick connects. The listing does not say whether it is absolute rated.",
     "specs": [
       "0.2 micron high-flow stage",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51G14d4LppL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F865G8L2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F865G8L2?tag=rvgearlab-amz-20",
     "description": "iSpring's CW31-PFBV uses a 5 micron sediment stage, an activated carbon fiber stage and a third stage, with a title claiming over 99% PFAS, bacteria and virus reduction. It has industrial housings and 3/4 inch lead-free brass hose connectors.\n\nIt is the only kit here with a headline bacteria and virus claim, but it costs more than SEICETEC and Filterelated. The listing does not say which test standard backs it, so read the maker's documentation.\n\nBest for buyers who want the strongest stated claims. Verify the third-stage details before relying on any health claim.",
     "specs": [
       "Bacteria and virus claim",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41jgRRdoDqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HCGY2LMR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HCGY2LMR?tag=rvgearlab-amz-20",
     "description": "VitaFlow sells a three-cartridge replacement set made to fit the Clearsource Ultra three-canister system, with a 5 micron sediment stage and tool-free replacement steps. It ships sealed, and the listing lists the steps for a tool-free swap.\n\nIt is not a complete system like the other picks, only refills. That makes it a smart add if you own a Clearsource Ultra, but useless if you do not.\n\nBest for current Clearsource Ultra owners. Confirm the fit before ordering, since the listing says it is for that system only.",
     "specs": [
       "Fits Clearsource Ultra",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41KeBZJkCgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09825XKBF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09825XKBF?tag=rvgearlab-amz-20",
     "description": "HiZYNICE sizes this rectangle at 90 x 39 inches, enough for a 6 ft 7 in adult, and lines it with cotton flannel. The listing prints a 30F comfort rating, a 15F limit and a 0F extreme, and adds a draft tube and a dual-pull two-way zipper.\n\nThree named temperature figures make it easier to plan against than the Londtren Large, which lists two overlapping ranges. It is also the roomiest of the four for broad shoulders.\n\nA strong pick for tall or large campers who camp from a vehicle in cold weather. The three numbers let you match it to a forecast.",
     "specs": [
       "90 x 39 inch XXL rectangle",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/417rXa-hoDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BBBYY2SM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BBBYY2SM?tag=rvgearlab-amz-20",
     "description": "Londtren makes the Large at 90 x 40 inches and says it fits people up to 7 feet. Under the waterproof 210T polyester shell sit a flannel lining, a zipper draft tube, a padded shoulder collar and a hood with a drawstring.\n\nIt is wider than the HiZYNICE XXL by an inch and adds a shoulder warmer, a feature neither Coleman bag offers. The listing prints a 0 to 15F range and a 20F figure, so read the warmer number as the plan.\n\nBest for very tall campers who find 90 inches short. The shoulder warmer helps where a rectangle leaks most.",
     "specs": [
       "90 x 40 inch, fits to 7 ft",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ZzAYEc8rL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D643DKJW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D643DKJW?tag=rvgearlab-amz-20",
     "description": "Coleman rates the Brazos at 20F and sizes it for campers to 5 ft 11 in. The listing names Thermolock tubing behind the zipper, Fiberlock stitching, roll-lock fasteners and a no-snag zipper.\n\nIt is the shortest of the four and the mildest in rating, and its named parts show how the insulation stays put and drafts stay out. The HiZYNICE XXL and Londtren Large offer far more room for the money.\n\nA reasonable pick for average-height campers who want a familiar brand and a plain 20F number. The stuff sack makes loading quick.",
     "specs": [
       "20F rated, fits to 5 ft 11 in",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/419KkXH3iCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B005EPRM4I?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B005EPRM4I?tag=rvgearlab-amz-20",
     "description": "TETON sells the Celsius Regular as a 0 degree class bag with double-layer fiber fill and draft tubes. The rest of the kit is a soft poly-flannel lining, a half-circle hood and a stuff sack with strong cinch straps.\n\nIts 0 degree label is the coldest of the four, and it costs less than the HiZYNICE XXL. The listing prints no weight or comfort figure, so the Brazos 20F is easier to plan with.\n\nA decent choice for campers who want a cold label on a tight budget. Treat the label as a limit class.",
     "specs": [
       "0 degree class, fiber fill",

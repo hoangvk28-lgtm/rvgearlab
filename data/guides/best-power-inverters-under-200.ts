@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41vWnqM2vNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DCJHY3TH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DCJHY3TH?tag=rvgearlab-amz-20",
     "description": "BELTTT is a pure sine unit rated 1000W with a 2000W surge, offering two AC sockets, a USB port and a live status LCD. Heavier 3 ft cables and a fitting tool come in the box.\n\nAt about $120 it costs less than the TVNIKD 2500W and the LVYUAN 4000W, and it is the only pure sine pick over 400W. It leaves out the remote and hardwire terminal of the larger units.\n\nIt suits campers who run laptops, a CPAP-class device and a small appliance from a deep-cycle battery. Pure sine keeps motors and chargers cool.",
     "specs": [
       "1000W pure sine, 2000W peak",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51clmwjfdpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09JGHKFXD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09JGHKFXD?tag=rvgearlab-amz-20",
     "description": "TVNIKD supplies 2500W with three AC outlets and a smart 2A USB port. It protects the load with ten 30A built-in fuses and an LCD that reports live battery status with an alarm.\n\nAt about $155 it costs about $35 more than the BELTTT 1000W and gives 1500W more power with an extra outlet. Three fans keep it cool under load, which the smaller units skip.\n\nIt suits an RV or truck that runs a microwave or coffee maker off a battery bank. Wire it with heavy cable.",
     "specs": [
       "2500W, three AC outlets",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Z2HBLhliL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FCBX4RF7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FCBX4RF7?tag=rvgearlab-amz-20",
     "description": "LVYUAN provides 4000W continuous and 8000W peak with four AC outlets, a USB port and a hardwire terminal. A 16.4 ft wired remote switches it on and off, and an LCD shows battery, output and load.\n\nAt about $170 it gives 1500W more than the TVNIKD for $15 more, and the remote is the feature the smaller units lack. It is the pick for a permanent install rather than a plug-in.\n\nIt suits an RV or van conversion with a lithium bank. Pair it with the thick cable and fusing the manual calls for.",
     "specs": [
       "4000W continuous, 8000W peak",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zhqURspTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BW83F6QJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BW83F6QJ?tag=rvgearlab-amz-20",
     "description": "The EGO inverter is a pure sine unit that holds 400W with an 800W surge and offers a USB-C PD 100W port, a second USB-C and a USB-A. It also charges EGO 56V ARC batteries through the PD port.\n\nAt about $123 it costs less than the EGO kit and sits close to the BELTTT 1000W on price while delivering 600W less. It works with the engine off, which none of the wired picks can do.\n\nIt suits owners of EGO 56V batteries who want AC power at the campsite. The battery and charger are sold separately.",
     "specs": [
       "400W pure sine, 800W peak",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/519I1cTYXWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B082PN7C6J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B082PN7C6J?tag=rvgearlab-amz-20",
     "description": "BESTEK 300W produces pure sine wave with 4.8A of dual USB charging and two ways to connect. It has a smart cooling fan, isolated voltage protection and defenses against overload, overheating and reverse polarity.\n\nAt about $58 it is the lowest-priced pure sine pick here, and it is far cheaper than the BELTTT 1000W. It stays within what a lighter socket can supply.\n\nIt suits a sensitive-electronics setup in a car. It is the budget-friendly way to get clean power in this tier.",
     "specs": [
       "300W pure sine wave",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51gBELlyaCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01N1033XI?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01N1033XI?tag=rvgearlab-amz-20",
     "description": "POTEK delivers 750W continuous and 1500W peak through two AC outlets and a USB port. It includes battery clamps, a cigarette lighter adapter and two fuses, with six protection systems.\n\nAt about $50 it costs less than half the BELTTT 1000W and offers three quarters of the watts. It is modified sine wave and lacks the LCD of the dearer picks.\n\nIt suits a tight budget that still needs a tool or blender in the car. Clip it to the battery for real loads.",
     "specs": [
       "750W continuous, 1500W peak",

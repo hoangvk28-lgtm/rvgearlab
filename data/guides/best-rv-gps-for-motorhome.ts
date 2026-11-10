@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/517F0UVsNUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09ZK4LN92?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09ZK4LN92?tag=rvgearlab-amz-20",
     "description": "The Garmin RV 895 is an 8 inch RV navigator with custom routing for the size and weight of your RV or trailer. It has a preloaded directory of RV parks and services with Tripadvisor traveler ratings and Ultimate Public Campgrounds content.\n\nAgainst the Garmin RV 795, it has a bigger 8 inch display. Against the Garmin RV 770, it adds a larger screen and satellite imagery.\n\nIt is the best fit for motorhome owners who want a premium screen and RV-specific guidance. Buyers focused on premium motorhome navigation will find it a sensible match.",
     "specs": [
       "8 inch touchscreen",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41WEtc8c5jL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09ZJXYL6W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09ZJXYL6W?tag=rvgearlab-amz-20",
     "description": "The Garmin RV 795 is a 7 inch RV navigator with custom routing based on RV size and weight. It offers BirdsEye satellite imagery and a preloaded park directory.\n\nAgainst the Garmin RV 895, it has a smaller screen for less money. Against the Garmin RV 770, it has a larger 7 inch display and BirdsEye satellite imagery.\n\nA strong pick for motorhome owners who want Garmin routing without the top price. It earns its slot for mid-priced garmin.",
     "specs": [
       "7 inch touchscreen",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51WEIVw6+7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01N5Q2YMO?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01N5Q2YMO?tag=rvgearlab-amz-20",
     "description": "The Garmin RV 770 is a 6.95 inch edge-to-edge display RV navigator with custom routing based on RV size and weight. It supports Bluetooth calling, smart notifications and free live traffic and weather through the Smartphone Link app.\n\nAgainst the Garmin RV 795, it is the lower-priced older model with live traffic through your phone. Against the YDSWRDN 9 inch, it is a proper RV navigator.\n\nA great fit for motorhome owners who want trusted RV routing at the lowest Garmin price. It is a natural fit for entry garmin routing.",
     "specs": [
       "6.95 inch display",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/518-C8+aRrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H8TSXZTD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H8TSXZTD?tag=rvgearlab-amz-20",
     "description": "The YDSWRDN is a 9 inch GPS with preloaded North American maps and support for updates. It accepts address, coordinate or favorite searches and offers speed and height limit zone alerts.\n\nAgainst the Garmin RV 895, it has a larger screen at a much lower cost. Against the Garmin RV 770, it lacks RV park directories.\n\nA fit for motorhome owners who want a big screen at a low price. Think of it as the pick for budget big screen.",
     "specs": [
       "9 inch screen",

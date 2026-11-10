@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411MiO-ID8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FSZX86S5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FSZX86S5?tag=rvgearlab-amz-20",
     "description": "The Renogy 200W Solar Panel Kit is a 12V starter set with a 30A Wanderer PWM charge controller that handles four battery types. The listing says the panels can produce an average of 1000Wh per day, which matches 200W at 5 sun hours.\n\nAt $188.59 it is $93.82 above the DOKIO 150W and $791.38 below the EBL 2400W. It gives you roof-mount watts at a fair price. Pick this if you already own a battery; the caveat is that PWM wastes some output compared with MPPT.",
     "specs": [
       "200W panels, 12V",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51SyNN01llL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07Y8CT1W9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07Y8CT1W9?tag=rvgearlab-amz-20",
     "description": "The DOKIO 150W folds to 19.3 by 20.9 by 1.1 inches at 7.3 lb and includes a 9.8 ft cable, so you park the RV in shade and set the panel in sun. A separate PWM controller for 12V batteries is included.\n\nAt $94.77 it is $93.82 below the Renogy 200W Kit and has 50W less. It adds about 750Wh at 5 sun hours before losses. Pick this when your campsite is shaded; the caveat is that you must set it up and move it each day.",
     "specs": [
       "150W foldable, 7.3 lb",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41+fV15Zx4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H71QVF77?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H71QVF77?tag=rvgearlab-amz-20",
     "description": "The EBL 2400W Portable Power Station comes with two 200W foldable monocrystalline panels with 23% conversion, and accepts car cigarette lighter charging as an emergency top-up. It is built for van and RV boondocking.\n\nAt $979.97 it costs $791.38 more than the Renogy 200W Kit, but includes the battery and inverter, with 400W of panels. Pick this for a no-install setup; the caveat is that capacity in Wh is not given.",
     "specs": [
       "2400W power station",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/317DIkb9V-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H83HV12Z?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H83HV12Z?tag=rvgearlab-amz-20",
     "description": "The Renogy ShadowFlux kit has a 200W N-type anti-shading panel and a 12V 300Ah LiFePO4 battery storing 3,840Wh. The anti-shading design keeps output up when a vent or tree shades part of the panel.\n\nAt $2,199.99 it costs $1,220.02 more than the EBL 2400W Station. It has far more storage than any other pick, but only 200W of solar to refill it, which takes several days. Pick this for shade-prone roofs and long stays; the caveat is the refill rate.",
     "specs": [
       "200W N-type, anti-shading",

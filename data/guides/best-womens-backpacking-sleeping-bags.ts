@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31uYJysgEgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B06WGSNZ66?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B06WGSNZ66?tag=rvgearlab-amz-20",
     "description": "The Marmot Women's Trestles is a 15 degree synthetic bag insulated with SpiraFil high-loft fiber and finished with a water-resistant shell. It has an anatomical 3D footbox, wave construction on top and blanket construction below, and a locking YKK two-way zipper.\n\nIt is the only bag here designed for a women's body, and it carries a much colder label than the KANYAK or the JEAOUIA. The compression stuff sack is included, and the left-zip layout comes in a Long size.\n\nIt suits women who sleep on their side and want real three-season performance from a mountain brand. The footbox gives cold feet room to move.",
     "specs": [
       "15° rated, SpiraFil insulation",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41kXZue5u0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09MMX7SBW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09MMX7SBW?tag=rvgearlab-amz-20",
     "description": "The KANYAK measures 86.6 by 32.48 inches, weighs 4 lb and packs to 11 to 14.2 inches. Its page prints a comfort rating of 41F, described as the warmth level a woman would want, and a limit of 32F.\n\nNext to the JEAOUIA, it prints more numbers and offers a splicable design from its side zippers. The foot zipper vents heat, and the 210T shell is anti-tearing polyester.\n\nIt suits hikers who want straight figures and a bag that pairs with a second one. A purple option is available.",
     "specs": [
       "86.6 x 32.48 inch cut",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41LcfXUmlTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B092D68L7B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B092D68L7B?tag=rvgearlab-amz-20",
     "description": "The JEAOUIA is a 31.5 by 86.6 inch bag that weighs about 3 lb and packs to 7.9 to 14.2 inches. It has a drawstring hood, a foot zipper and a 190T nylon shell with an easy-clean finish.\n\nThe lightest and least expensive of the trio, it sits at the warm end of the list. Compared with the Marmot, it is much simpler and meant for summer backpacking.\n\nIt suits light packers who want a cheap summer bag for warm nights. The foot zipper lets you cool off without leaving the bag.",
     "specs": [
       "About 3 lb, packs to 7.9 in",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41HKYI8I6GL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BXC9S2M7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BXC9S2M7?tag=rvgearlab-amz-20",
     "description": "The NORTHYARD Sun Hoodie is built from an 88 percent polyester and 12 percent elastane blend with 4-way stretch, and the listing says it stops 98 percent or more of UVA and UVB. It is the only pick here that names beach days outright, along with water sports and outdoor work.\n\nThumb holes, a tagless collar and flatlock seams give it more coverage and comfort than the plain Roadbox Rash Guard. Reflective dots under the arms and a 20-plus color range set it apart from the G Gradual tees.\n\nIt suits men who want one hooded layer for a full day on the sand. Sizes run from S to 4XL, so larger builds are covered.",
     "specs": [
       "88% polyester, 12% elastane",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41TEK3jH5nL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DQL3129S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DQL3129S?tag=rvgearlab-amz-20",
     "description": "The G Gradual Reflective Swim Shirt is a 100 percent polyester long sleeve with UPF 50+ fabric and a moisture-wicking finish. A relaxed fit, a reflective dot design and ultra-soft lightweight fabric are all named.\n\nNext to the NORTHYARD Sun Hoodie, it drops the hood and the elastane, giving a drier, lighter feel for walking the shoreline. The reflective dots separate it from the Boladeci Rash Guard and the Roadbox Rash Guard.\n\nIt is a good match for men who like a loose tee over swim trunks. Surf, hike and camp uses are all listed.",
     "specs": [
       "UPF 50+, 100% polyester",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41nrqK9byCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DSKTBNFK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DSKTBNFK?tag=rvgearlab-amz-20",
     "description": "The G Gradual Gradient Swim Tee in this listing is a UPF 50+ performance tee rated to stop 98 percent of UVA and UVB light. Ultra-breathable quick-dry fabric, 4-way stretch, flatlock seams and a tagless collar are all named, with reflective points on the sleeves and neck.\n\nNext to the Reflective Swim Shirt above, it adds 4-way stretch and a gradient color scheme. Against the NORTHYARD Sun Hoodie, it is a tee with no hood.\n\nIt is a strong choice for men who want a swim-to-street shirt. A boardwalk dinner after the beach is where the style pays off.",
     "specs": [
       "UPF 50+, blocks 98% UVA/UVB",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Oq4wJDyHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B2JPFXF3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B2JPFXF3?tag=rvgearlab-amz-20",
     "description": "The Boladeci Rash Guard is a lightweight, breathable polyester long sleeve with slight elasticity for easy movement. It carries UPF 50+ protection and the listing calls it cool in summer and warm in winter, so it suits all seasons.\n\nEasy care with machine or hand washing and high wrinkle resistance set it apart from the G Gradual tees. The Roadbox Rash Guard is a similar plain crew neck, while this one lists a wider activity range including golf and gardening.\n\nIt is a smart buy for men who want a sun shirt that works on the beach and around the yard. The all-season fabric gets used year round.",
     "specs": [
       "UPF 50+ lightweight polyester",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41C9b2HVB2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07PLHM2LY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07PLHM2LY?tag=rvgearlab-amz-20",
     "description": "The Roadbox Rash Guard is a classic long-sleeve UPF 50+ shirt that blocks up to 98 percent of UV rays. Lightweight performance fabric wicks moisture and dries quickly, and flatlock seams plus a tag-free collar reduce friction.\n\nIt costs less than every other shirt in this group, and it matches the Boladeci Rash Guard as a plain crew-neck cut. The NORTHYARD Sun Hoodie adds a hood and thumb holes that this one leaves out.\n\nIt suits men who want the lowest price and a simple fit. The listing names fishing, hiking, camping, boating and travel.",
     "specs": [
       "UPF 50+, up to 98% UV blocked",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41RNl2B43pL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CRRT3VPT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CRRT3VPT?tag=rvgearlab-amz-20",
     "description": "The Palmyth Fishing Shirt uses MythCool fabric with UPF 50+ protection and a quick-dry finish that moves sweat to the outside of the shirt. The fit is loose, the sleeves are roomy raglan, and the fabric has 4-way stretch.\n\nA fish graphic gives it more personality than the plain Roadbox Rash Guard. It is also looser than the NORTHYARD Sun Hoodie, which suits warm days when you want air under the fabric.\n\nIt is aimed at men who also fish from a pier or boat on the same trip. The listing names fly, lure, kayak, inshore, offshore, freshwater and saltwater fishing.",
     "specs": [
       "MythCool UPF 50+ fabric",

@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41EN+fjJ4tL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F7JR116V?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F7JR116V?tag=rvgearlab-amz-20",
     "description": "The Litime 12V 100Ah Slim is a 2.44 inch profile LiFePO4 battery with two heating modes that self-heat once state of charge is at least 20%, plus Bluetooth to check SOC, voltage and charging status. At $419.99 it is the only single-battery pick here with a self-heating system.\n\nIt costs $49.50 more than the ECOBOSS 370.49 model and $63.50 above the cheaper ECOBOSS 356.49, but they only stop charging in the cold. At 1280Wh nominal, it works out to about $328.12 per kWh. Pick this for winter camping; the caveat is that heating draws from the battery.",
     "specs": [
       "12V 100Ah, 2.44 inch thick",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Yw11zf4vL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GWH3C4YJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GWH3C4YJ?tag=rvgearlab-amz-20",
     "description": "The ECOBOSS 12V 100Ah measures 18.9 by 11.02 by 2.76 inches, stores 1280Wh and includes a 100A smart BMS. It stops charging below 32 degrees Fahrenheit and resumes at 41, a stated, checkable cold-weather rule.\n\nAt $370.49 it costs $14.00 more than the other ECOBOSS and $49.50 less than the Litime Slim. About $289.45 per kWh. Pick this for mild climates with protection; the caveat is that it cannot charge in freezing weather and has no heater.",
     "specs": [
       "18.9 x 11.02 x 2.76 inches",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41P+KvgIoSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GZNXHZ9X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GZNXHZ9X?tag=rvgearlab-amz-20",
     "description": "The second ECOBOSS 12V 100Ah is a 2.76 inch slim LiFePO4 with 1280Wh, a 100A BMS and a listed 15,000 deep cycles over 10 plus years. At $356.49 it is the cheapest single slim pick.\n\nIt is $14.00 below the other ECOBOSS and $63.50 under the Litime Slim, about $278.51 per kWh. The cycle claim is the manufacturer's, so treat it as marketing. Pick this for lowest cost per kWh; the caveat is that the cold-weather behavior is not detailed on the visible features.",
     "specs": [
       "2.76 inch thick, 1280Wh",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ATcEU85pL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F7K5M8DC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F7K5M8DC?tag=rvgearlab-amz-20",
     "description": "The Litime 2-Pack is two of the slim self-heating 12V 100Ah batteries for $827.38, giving 200Ah and 2560Wh. Each carries the same 2.44 inch profile, dual heating modes and Bluetooth SOC.\n\nThat is about $413.69 per battery, which is $6.30 less than buying the single Litime Slim. Pick this to double the capacity for a van or camper; the caveat is that the series and parallel limit is not stated here.",
     "specs": [
       "2 x 12V 100Ah, 2.44 inch",
@@ -133,7 +133,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31wSaJlNqwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H11FPXKX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H11FPXKX?tag=rvgearlab-amz-20",
     "description": "The Renogy 12V 100Ah RV Self-Heating pack is listed as 4PC, in a Group 22NF size that Renogy says is 45% smaller than similar batteries. Dual heating pads supply 110W and the battery has 25 plus safety features and a 100A BMS.\n\nAt $1,299.99 it works out to about $325.00 per battery, which is $88.69 below the Litime 2-Pack's $413.69 each, but you must buy four. Pick this for a large bank or a van conversion; the caveat is that weight and thickness are not listed, so confirm the slim fit before ordering.",
     "specs": [
       "Group 22NF size",

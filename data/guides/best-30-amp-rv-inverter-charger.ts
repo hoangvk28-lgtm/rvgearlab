@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31S8p07qEWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DZW2W5MH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DZW2W5MH?tag=rvgearlab-amz-20",
     "description": "The Go Power Advanced 3000W is a pure sine wave inverter charger with a single-leg 30A transfer switch, priced at $539.82. It combines inverter, charger and transfer switch in one box and adds improved AC pass-through behavior with over-the-air firmware updates. It carries a 3-year support plan.\n\nIt stands alone here because the other 30A listings were solar controllers or transfer switches, not true inverter chargers. Pick this if your rig has 30A shore power and you want one box to replace a separate inverter and converter. The caveat is that the listing does not state charger amps, idle draw or efficiency, so check the manual.",
     "specs": [
       "3000W, single-leg 30A",

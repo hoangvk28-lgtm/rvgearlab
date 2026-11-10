@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41za2GyF2XL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FKMLRXQ9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FKMLRXQ9?tag=rvgearlab-amz-20",
     "description": "The Yufawow Softshell uses a triple-layer shell with a water-repellent outer coating and a windproof membrane, plus an inner insulation layer. The hood, cuffs and hem adjust, and multiple zippered pockets sit inside and out, with storm flaps over the zippers.\n\nCompared with the MAGCOMSEN Ski Parka, it has a more complete membrane stack and sleeker lines. Against the CQR Lightweight, it offers a hood and heavier insulation.\n\nIt suits hikers and skiers who want wind and snow protection without paying for a big brand. The cut works in town as well as on the trail.",
     "specs": [
       "Triple-layer shell, windproof membrane",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41b0UJ11aFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B8BS9JR2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B8BS9JR2?tag=rvgearlab-amz-20",
     "description": "The MAGCOMSEN Ski Parka is a water-resistant, windproof parka with a thermal fleece lining and a detachable, adjustable storm hood. It has hook-and-loop cuffs, an internal drawcord hem, a zipper chest pocket, two large side zipper pockets and a deep inner zipper pocket.\n\nCompared with the Yufawow Softshell, it has a removable hood and a fleece lining. Against the Zoofly Puffer, it is more weather resistant and heavier.\n\nIt suits cold, windy outings where a fleece lining and a detachable hood help. The listing covers skiing, hunting and hiking.",
     "specs": [
       "Water resistant, windproof",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41iBtQS1xnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DJP1BR53?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DJP1BR53?tag=rvgearlab-amz-20",
     "description": "The CQR Lightweight is an active insulated jacket made of water-resistant nylon with stretch fleece side panels. The listing describes velcro panels on the arms for patches and a relaxed fit that suggests sizing up.\n\nIt is lighter than the Yufawow Softshell and MAGCOMSEN Ski Parka and has no hood listed. Compared with the Zoofly Puffer, it has stretch side panels and a more athletic cut.\n\nIt suits hikers who want a light, mobile insulated layer. The stretch fleece sides move with your arms.",
     "specs": [
       "Water-resistant nylon, windproof",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41adPW8XpFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FGXNHXST?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FGXNHXST?tag=rvgearlab-amz-20",
     "description": "The Jsslaik Hooded is a waterproof and windproof insulated jacket with a drawstring hood, hook-and-loop cuffs and lightweight synthetic insulation. It has two chest pockets, two concealed side pockets, reflective trim on the back and dual zipper pulls for ventilation.\n\nCompared with the Yufawow Softshell, it costs less and lists lighter synthetic insulation. Against the MAGCOMSEN Ski Parka, it adds reflective trim and dual zipper pulls.\n\nIt suits budget hikers and commuters who need a hood and visibility. Bartacked seams are meant for frequent use.",
     "specs": [
       "Waterproof, windproof, hooded",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41YinCLlptL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DK59DL6F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DK59DL6F?tag=rvgearlab-amz-20",
     "description": "The Zoofly Puffer is a quilted puffer in 100% nylon with synthetic cotton fill. The listing gives a weight of about 0.5 kg, elastic cuffs and collar, two outside zipper pockets and two inner pockets.\n\nIt is lighter and easier to fold than the MAGCOMSEN Ski Parka and the Yufawow Softshell. Compared with the BGOWATU Bomber, it carries a lighter, more packable build.\n\nIt suits travelers and hikers who want warmth they can stuff into a bag. The elastic cuffs and collar hold heat.",
     "specs": [
       "100% nylon, synthetic fill",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31fB6+XJYoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DB12YSVG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DB12YSVG?tag=rvgearlab-amz-20",
     "description": "The BGOWATU Bomber is a quilted bomber jacket with a thick cotton lining, a water-resistant shell and a stand-up collar. The knit cuffs and hem help block wind, and the pockets zipper shut.\n\nIt is the lowest-priced jacket here and has the most casual look. Compared with the Zoofly Puffer, it has a thicker lining and no packability.\n\nIt suits easy walks, camp chores and spring and fall hikes. The listing says it fits tight at the arms, so size up.",
     "specs": [
       "Quilted cotton lining, water-resistant shell",

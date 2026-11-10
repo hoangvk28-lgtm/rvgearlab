@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41uKUTDbFFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G1FYZQBR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G1FYZQBR?tag=rvgearlab-amz-20",
     "description": "VEVOR's 10,000 lb kit is the only complete hitch here, with stated ratings of 10,000 lb GTW and 1,000 lb tongue weight. The head is solid carbon steel and the ball is chrome plated.\n\nIt includes a shank and ball, unlike the other four, which are parts. It makes no mention of airbags.\n\nBest for a buyer who needs a kit and will verify airbag behavior with the truck's maker. Weigh the trailer loaded and compare the figures before ordering for this to use with airbags case.",
     "specs": [
       "10,000 lb GTW, 1,000 lb TW",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21ouuD4afDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B010MEI1YK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B010MEI1YK?tag=rvgearlab-amz-20",
     "description": "CURT's 17337 is a 28-3/8 inch short trunnion bar rated 15,000 lb GTW for CURT 17333 and 17422 hitches. CURT's 17337 is a replacement short trunnion spring bar, 28-3/8 inches long and rated 15,000 lb GTW.\n\nIt is a replacement bar, so it only helps an owner who already has one of those hitches. It costs more than the round bar replacements.\n\nBest for replacing a damaged bar on a CURT trunnion hitch. Buy it only to replace a damaged bar on the listed models.",
     "specs": [
       "Replacement trunnion spring bar",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21PC6XbasPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01HDE7YL8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01HDE7YL8?tag=rvgearlab-amz-20",
     "description": "CURT's 17073 is an MV round bar rated up to 10,000 lb GTW for CURT 17052 and 17062 hitches. CURT's 17073 is a replacement MV round spring bar rated up to 10,000 lb GTW that fits CURT round bar hitches 17052 and 17062. It comes pre-assembled with a spring bar chain.\n\nIt costs less than CURT 17337 Bar and fits round bar models. It is a single replacement bar.\n\nBest for replacing a bent MV round bar. It is a replacement part.",
     "specs": [
       "Replacement MV round spring bar",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21MTu7OV-8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00JJVBIK2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00JJVBIK2?tag=rvgearlab-amz-20",
     "description": "CURT's 17115 is a 31-5/8 inch round bar rated 8,000 to 10,000 lb GTW for CURT 17002 and 17022. CURT's 17115 is a replacement round spring bar, 31-5/8 inches long, rated 8,000 to 10,000 lb GTW and 800 to 1,000 lb tongue weight, limited to the lowest-rated towing component. It fits CURT round bar hitches 17002 and 17022.\n\nIt is for older CURT models and costs about the same as CURT 17073 Bar. Check the part number.\n\nBest for owners of the older 17002 or 17022. It is a replacement part.",
     "specs": [
       "Replacement round spring bar",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hZ-o-BlOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DWXCQSWZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DWXCQSWZ?tag=rvgearlab-amz-20",
     "description": "C CLINK sells round bar retainers with clips, locking pins and rivets for 17600, 17601 and 17109. C CLINK sells round bar weight distribution hitch retainers with two clips, two locking pins and two rivets, compatible with 17600, 17601 and 17109. The pin is high-strength steel with a zinc coating.\n\nIt is a low-cost part that keeps bars on the bracket and has nothing to do with airbags.\n\nBest for replacing lost retainers. It is a replacement part.",
     "specs": [
       "Round bar retainer set",

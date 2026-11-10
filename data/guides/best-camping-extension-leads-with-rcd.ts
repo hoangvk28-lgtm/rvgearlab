@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41wUKLRDFVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GSGDPCTC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GSGDPCTC?tag=rvgearlab-amz-20",
     "description": "The HHSOET combines GFCI protection with six outlets and 2700J of surge protection in an IPX6 waterproof strip. Its 15 ft cord is 16AWG, and the rear has a drainage port that sends water out when the strip lies flat.\n\nAgainst the 3 ft pigtail cords, it brings a real 15 ft reach and six outlets on one body. The wall-mount design keeps it off wet ground.\n\nIt suits campers who run a tent lamp, chargers and a small cooler from a single outdoor outlet or generator. The yellow body is easy to spot in grass.",
     "specs": [
       "GFCI plus 2700J surge",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41JYtIGwEML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C34J1YGF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C34J1YGF?tag=rvgearlab-amz-20",
     "description": "The Watt's Wire cord is 25 ft of 12 gauge, 12/3 cable with a lighted female end. Its SJTW jacket resists moisture, sunlight and abrasion, and the title lists GFCI protection.\n\nCompared with the HHSOET, it carries more current through thicker wire and reaches 10 ft farther with a single outlet. Next to the 3 ft cords, it can span a campsite on its own.\n\nIt suits campers who run a generator or a single heavy appliance from a distance. The lighted end shows when power arrives.",
     "specs": [
       "25 ft, 12 gauge cable",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31S3hJTXi8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08G4HNCR1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08G4HNCR1?tag=rvgearlab-amz-20",
     "description": "The DEWENWILS cord is 3 ft of 12/3 SJTW cable rated 15A at 125V, 1875W, with a pigtail triple tap for three outlets. The attached GFCI auto resets, and the UL listed cord works from -40F to 140F.\n\nCompared with the JIOODICH, it is UL listed and rated for a wide temperature range. A lighted end shows when power arrives.\n\nIt suits campers who plug into a longer cord and want three outlets with GFCI protection. The contractor-grade jacket is made for rough use.",
     "specs": [
       "12/3 SJTW, 15A 1875W",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31r3x4pFetL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FDR6HX5L?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FDR6HX5L?tag=rvgearlab-amz-20",
     "description": "The JIOODICH is a 3 ft, 12 gauge SJTW cord rated 15A at 125V with a GFCI placed 13 inches from the plug. It works from -40F to 221F, and the three outlets have a clear housing with a power indicator.\n\nAgainst the DEWENWILS, it covers a wider temperature range. The clear outlet housing shows internal connections.\n\nIt suits campers in extreme heat or cold who need a short GFCI splitter. The GFCI sits close to the plug.",
     "specs": [
       "12 gauge SJTW, 15A 125V",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/312O4J73+DL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7H6GX37?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7H6GX37?tag=rvgearlab-amz-20",
     "description": "The PLUGTUL is a 3 ft, 12 gauge GFCI cord with three copper conductors, rated 15A at 125V and 1875W, and ETL listed. An auto reset restores power after an interruption.\n\nCompared with the DEWENWILS, it is ETL listed rather than UL listed and costs a little less. A translucent female end lights when powered.\n\nIt suits campers who want a basic three-outlet GFCI splitter at a low price. The PVC jacket is water resistant.",
     "specs": [
       "12 gauge, 15A 1875W",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41o7HonNlfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07K33XCCK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07K33XCCK?tag=rvgearlab-amz-20",
     "description": "The AB Tools unit is a tent and caravan hook-up with an RCD, three outlets, two USB ports and 15 m of cable with a site plug. It clips to tent and awning frames.\n\nCompared with the US cords, it is a different system built for UK sites. It shows what a complete hook-up with RCD looks like.\n\nIt suits campers at UK sites where the site plug and mains match. For US pedestals use a GFCI cord.",
     "specs": [
       "RCD, 3 outlets, 2 USB",

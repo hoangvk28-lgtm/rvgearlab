@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41UBfsuxECL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FBFYLJQY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FBFYLJQY?tag=rvgearlab-amz-20",
     "description": "The Ytaoeo 13 by 9 ft tent has two rooms and a 6.5 ft center height, PU3000mm Oxford fabric with UPF50+ protection, a stove jack and an AC port. The listing names 6 to 8 people, and the title says 8 to 10.\n\nIt is the smallest and least expensive of the three, below the 13.8 by 10.5 ft Ytaoeo and the 129 square foot SHANQUAN. It still has four large mesh windows and two doors.\n\nIt suits a family of five or six. The two-room layout comes at the lowest cost of the three.",
     "specs": [
       "13 x 9 ft, 6.5 ft center",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ODvR3FqsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HFJW2RX4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HFJW2RX4?tag=rvgearlab-amz-20",
     "description": "The larger Ytaoeo has a 13.8 by 10.5 ft footprint and a 6.9 ft center height, which lets adults stand without stooping. The PU3000mm Oxford has UPF50+ protection, and a hand pump inflates it in about five minutes.\n\nIt adds more floor and headroom than the 13 by 9 ft Ytaoeo and costs less than the SHANQUAN. The same four mesh windows, two doors, stove jack and AC port come with it.\n\nIt suits a group that wants room to move. Dual doors help traffic between rooms.",
     "specs": [
       "13.8 x 10.5 ft, 6.9 ft center",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51X7SPJ9E6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H9776FYX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H9776FYX?tag=rvgearlab-amz-20",
     "description": "The SHANQUAN two-room air tent has 129 square feet of interior for up to 8 campers. It adds two dormer skylights, a stove jack and AC ports in a four-season waterproof build.\n\nIt is the priciest of the three and the only one with dormer skylights for natural light. Compared with the Ytaoeo tents it names an interior area figure rather than a footprint.\n\nIt suits a family that wants light and a four-season build in the same tent. Two rooms give privacy.",
     "specs": [
       "129 sq ft interior, 8 campers",

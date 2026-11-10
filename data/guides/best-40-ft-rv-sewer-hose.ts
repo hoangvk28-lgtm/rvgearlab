@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41jWuxhnwML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GTKBW83M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GTKBW83M?tag=rvgearlab-amz-20",
     "description": "The AVERONR 40 ft hose is a true 40 foot run of commercial-grade TPE with swivel bayonet fittings. It is listed as resistant to crushing, abrasion, punctures, chemicals and sun, and flexible in low temperatures.\n\nIt is the only pick that reaches 40 feet and it costs somewhat more than the Camco RhinoEXTREME 20 Ft. The kink-resistant build is what lets it route over gravel, grass or pavement.\n\nBest for owners with a seasonal site and a long route to the riser. A direct match for a 40 foot need.",
     "specs": [
       "40 ft commercial-grade TPE",
@@ -53,7 +53,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51JhNvtlPcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07ZPJN2N9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07ZPJN2N9?tag=rvgearlab-amz-20",
     "description": "The RhinoEXTREME 20 ft is a pre-assembled kit of two 10 foot sections with a 24 mil TPE wall and swivel fittings. It is made in the USA with a reinforced exoskeleton design.\n\nIt gives half the reach of the AVERONR and adds brand support and pre-attached fittings. Compared with the Rhino Ultimate Combo, it skips the storage box and costs slightly more.\n\nBest for owners who want a tough base hose for a mid-length run. A solid pick if reach grows later.",
     "specs": [
       "2 x 10 ft, 24 mil TPE",
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41TCrWia1-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DZ3YYH57?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DZ3YYH57?tag=rvgearlab-amz-20",
     "description": "The Rhino Ultimate 20 ft combo is an 11-piece kit with a 20 foot hose, a pre-attached clear elbow, a storage box and a secure lid. The box doubles as the start and end hose supports.\n\nIt costs a little less than the plain RhinoEXTREME 20 Ft and bundles a carry box. Against the AVERONR 40 Ft, it trades length for convenience.\n\nBest for campers who want a hose, elbow and box in one package. A tidy choice for storage-conscious owners.",
     "specs": [
       "20 ft hose, 11-piece kit",

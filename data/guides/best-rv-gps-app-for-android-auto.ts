@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41WEtc8c5jL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09ZJXYL6W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09ZJXYL6W?tag=rvgearlab-amz-20",
     "description": "The Garmin RV 795 is a 7 inch RV navigator with custom routing by the size and weight of your RV or trailer. It includes a preloaded directory of RV parks, satellite imagery and road warnings for steep grades, sharp curves and weight limits.\n\nIt is the only unit with an RV park directory and it costs less than the bundle. It does not depend on a phone or a data plan.\n\nIt suits owners who want RV navigation that works independently. Custom routing is not available in all areas.",
     "specs": [
       "7 inch RV navigator",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51fDsjEbFNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F3LYFLYT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F3LYFLYT?tag=rvgearlab-amz-20",
     "description": "The Garmin RV 795 bundle adds a 64GB microSDXC card, a cleaning kit, a USB card reader, a USB charging adapter and a USB car adapter. It has the same custom RV routing and RV park directory.\n\nIt is the highest priced pick and includes the card and accessories for map storage. It shares the Garmin RV 795 hardware.\n\nIt suits owners who want storage and accessories in one box. The USB car adapter powers it on the road.",
     "specs": [
       "Garmin RV 795 bundle",
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51fqKSPpwAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08LL8X1LH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08LL8X1LH?tag=rvgearlab-amz-20",
     "description": "The Truckeela is a 10.33 inch touch screen with wireless CarPlay and Android Auto, built-in DVR and a 6-channel camera system. It lists a 128GB memory card and 12 to 36V DC power input.\n\nIt is the only pick that lists Android Auto, and it adds camera views for RV blind spots. It is the highest priced non-Garmin pick.\n\nIt suits owners who want a large Android Auto display with cameras. Install effort is higher with multiple cameras.",
     "specs": [
       "10.33 inch screen",
@@ -108,7 +108,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ZP+fck2lL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HDCGT958?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HDCGT958?tag=rvgearlab-amz-20",
     "description": "The HINYFVOZ 7 inch GPS lists custom routing from entered height, weight, length and width, avoiding low bridges and weight-restricted roads. It has 2026 maps with free lifetime updates, 25+ voice languages and an FM transmitter.\n\nIt is priced the same as the LMCOWRE and names the four dimensions you enter. It costs far less than the Garmin.\n\nIt suits owners who want a low-cost standalone unit with vehicle dimensions. The FM transmitter routes voice through car speakers.",
     "specs": [
       "7 inch HD touchscreen",
@@ -135,7 +135,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41DSvebGAvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HG1PJQDS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HG1PJQDS?tag=rvgearlab-amz-20",
     "description": "The LMCOWRE 7 inch GPS lists Car, Truck, Bus, RV, Bicycle and Pedestrian modes. In Truck or RV mode, it lists automatic avoidance of low bridges and weight limits.\n\nIt names an RV mode and costs less than the Dizvgoy. It shows real-time speed and distance on its touchscreen.\n\nIt suits owners who want an RV mode on a budget. The touchscreen shows live speed and remaining distance.",
     "specs": [
       "7 inch GPS",
@@ -162,7 +162,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51BmTfY6zqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HDSL6K7V?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HDSL6K7V?tag=rvgearlab-amz-20",
     "description": "The Dizvgoy 7 inch GPS lists 2026 North America maps with free lifetime updates, turn-by-turn voice guidance and speed limit and school zone alerts. It offers a 12-month warranty and lifetime technical support.\n\nIt is the highest priced of the generic units and lists a built-in FM transmitter. It lists support, which the others list less clearly.\n\nIt suits owners who want a simple navigator with support listed. The speed limit alerts add everyday safety help.",
     "specs": [
       "7 inch GPS",

@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41tHhe5UyzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GFN1FXN1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GFN1FXN1?tag=rvgearlab-amz-20",
     "description": "The Redodo 12V 320Ah Mini is described as 32% smaller than a standard 320Ah, with Bluetooth monitoring. The listing says it supports 1kWh per day for 4 days and replaces six 12V 100Ah lead-acid batteries. At $689.99 it balances size and capacity well.\n\nVersus the ECO-WORTHY 400Ah at $759.99 you save $70.00 and give up 80Ah. Versus Power Queen 320Ah at $659.99 you pay $30.00 more for a different brand and app. Pick this if you want a proven mini footprint. The caveat is that capacity stops at 320Ah, so bigger rigs may need two.",
     "specs": [
       "12V 320Ah mini",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/418moCD8lvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H2M9VYD9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H2M9VYD9?tag=rvgearlab-amz-20",
     "description": "The ECO-WORTHY 12V 400Ah has a metal case, a 250A BMS, Bluetooth, low temperature protection and a dedicated safety switch. That is roughly 5120Wh at 12.8V nominal. At $759.99 it is the highest capacity single battery in this group.\n\nIt costs $70.00 more than the Redodo 320Ah and adds 80Ah and a stronger BMS. Pick this if you run an inverter for coffee makers or a microwave while off grid. The caveat is the weight and size of a 400Ah metal case.",
     "specs": [
       "12V 400Ah, about 5120Wh",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41rLfnzaPtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GYYTSRW9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GYYTSRW9?tag=rvgearlab-amz-20",
     "description": "The Power Queen 12V 320Ah Mini lists 2560W output, Bluetooth 5.0 and expansion up to 4P4S for a 51.2V 1280Ah system. It also has low temperature cutoff and overload protection. At $659.99 it is a strong feature set for the price.\n\nCompared with the GOKWH 320Ah at $402.91, it costs $257.08 more for a stated 2560W output and a mini case. Pick this if you want to grow into a larger bank later. The caveat is that GOKWH offers the same capacity for far less.",
     "specs": [
       "12V 320Ah mini",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/414yp1sGveL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GD1934FB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GD1934FB?tag=rvgearlab-amz-20",
     "description": "The GOKWH 12V 320Ah delivers 4096Wh with a 200A BMS, Bluetooth app and a claim of 8000 deep cycles. It can expand to 4 batteries in series and 4 in parallel. At $402.91 it is the cheapest high capacity battery here.\n\nIt costs $52.92 more than the Super Empower pair but has triple the single battery capacity. Pick this if you want maximum dry camping time for the money. The caveat is that the listing suggests about 16 hours to charge with a 12V 20A charger, so pair it with solar.",
     "specs": [
       "12V 320Ah, 4096Wh",
@@ -133,7 +133,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41xsrlCtKOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FN4BYHNX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FN4BYHNX?tag=rvgearlab-amz-20",
     "description": "The Super Empower set includes two 12V 100Ah Group 24 batteries at 21.6 lb each, 6.49 x 10.24 x 8.98 in. It lists a 14.4 to 14.6V CC/CV charge profile. At $349.99 it is the cheapest route to 2560Wh.\n\nIt sits $52.92 below the GOKWH 320Ah, but each battery is carried and wired separately. Pick this if you want easier lifting or have two Group 24 trays. The caveat is that a 100Ah BMS limits each battery to modest loads.",
     "specs": [
       "2 x 12V 100Ah Group 24",

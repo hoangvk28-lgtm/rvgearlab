@@ -21,7 +21,7 @@ export const products = withAmazonUrls([
     badge: "Best overall",
     name: "Jackery HomePower 3600 Plus & 2x200W Solar Panels, 3584Wh, 3600W AC Output",
     amazonQuery: "Jackery HomePower 3600 Plus & 2x200W Solar Panels, 3584Wh, 3600W AC Output",
-    amazonUrl: "https://www.amazon.com/dp/B0FMXCPWBN?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0FMXCPWBN?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/417PSNnMsLL._SL500_.jpg",
     specs: ["Capacity: 3,584Wh","Continuous output: 3,600W","Runtime claim: Up to 2 hours","Battery cycle claim: 6,000 cycles"],
     specList: [{"label":"Capacity","value":"3,584Wh"},{"label":"Continuous output","value":"3,600W"},{"label":"Runtime claim","value":"Up to 2 hours"},{"label":"Battery cycle claim","value":"6,000 cycles"}],
@@ -36,7 +36,7 @@ export const products = withAmazonUrls([
     badge: "Best heavy-duty option",
     name: "AIVOLT 8000W Dual Fuel Inverter Generator 50A RV Generator",
     amazonQuery: "AIVOLT 8000W Dual Fuel Inverter Generator 50A RV Generator",
-    amazonUrl: "https://www.amazon.com/dp/B0GSDKNY3N?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0GSDKNY3N?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41QozbxH6mL._SL500_.jpg",
     specs: ["Continuous output: 6,100W","Surge output: 8,000W","Listed weight: 129 lb","Runtime claim: Up to 10 hours"],
     specList: [{"label":"Continuous output","value":"6,100W"},{"label":"Surge output","value":"8,000W"},{"label":"Listed weight","value":"129 lb"},{"label":"Runtime claim","value":"Up to 10 hours"}],
@@ -51,7 +51,7 @@ export const products = withAmazonUrls([
     badge: "Best compact option",
     name: "ABOK Ark3600 Portable Power Station 3600W, 3840Wh LiFePO4 Battery",
     amazonQuery: "ABOK Ark3600 Portable Power Station 3600W, 3840Wh LiFePO4 Battery",
-    amazonUrl: "https://www.amazon.com/dp/B0F47JVR5B?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0F47JVR5B?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41C+1aHks5L._SL500_.jpg",
     specs: ["Capacity: 3,840Wh","Continuous output: 3,600W","Surge output: 4,500W","Runtime claim: Up to 1.29 hours"],
     specList: [{"label":"Capacity","value":"3,840Wh"},{"label":"Continuous output","value":"3,600W"},{"label":"Surge output","value":"4,500W"},{"label":"Runtime claim","value":"Up to 1.29 hours"}],
@@ -66,7 +66,7 @@ export const products = withAmazonUrls([
     badge: "Best value pick",
     name: "EF ECOFLOW Portable Power Station 3600Wh DELTA Pro, 120V 3600W AC Output",
     amazonQuery: "EF ECOFLOW Portable Power Station 3600Wh DELTA Pro, 120V 3600W AC Output",
-    amazonUrl: "https://www.amazon.com/dp/B0C1Z4GLKS?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0C1Z4GLKS?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41pVhqDjojL._SL500_.jpg",
     specs: ["Capacity: 3,600Wh","Continuous output: 3,600W","Runtime claim: Up to 2.8 hours","Battery chemistry: LiFePO4"],
     specList: [{"label":"Capacity","value":"3,600Wh"},{"label":"Continuous output","value":"3,600W"},{"label":"Runtime claim","value":"Up to 2.8 hours"},{"label":"Battery chemistry","value":"LiFePO4"}],
@@ -81,7 +81,7 @@ export const products = withAmazonUrls([
     badge: "Best backup pick",
     name: "Jackery HomePower 3000 and 2x200W Solar Panels, 3072Wh, 3600W AC Output",
     amazonQuery: "Jackery HomePower 3000 and 2x200W Solar Panels, 3072Wh, 3600W AC Output",
-    amazonUrl: "https://www.amazon.com/dp/B0FFSDCNR4?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0FFSDCNR4?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/413GZxMHAnL._SL500_.jpg",
     specs: ["Capacity: 3,072Wh","Continuous output: 3,600W","Surge output: 7,200W","Runtime claim: Up to 15 hours"],
     specList: [{"label":"Capacity","value":"3,072Wh"},{"label":"Continuous output","value":"3,600W"},{"label":"Surge output","value":"7,200W"},{"label":"Runtime claim","value":"Up to 15 hours"}],
@@ -171,7 +171,7 @@ export const relatedGuides = [
 export const sources = [
   {
     "title": "Jackery HomePower 3600 Plus & 2x200W Solar Panels, 3584Wh, 3600W AC Output product page",
-    "href": "https://www.amazon.com/dp/B0FMXCPWBN?tag=rvgearlab-20&linkCode=osi&th=1&psc=1"
+    "href": "https://www.amazon.com/dp/B0FMXCPWBN?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1"
   },
   {
     "title": "CPSC carbon monoxide safety center",

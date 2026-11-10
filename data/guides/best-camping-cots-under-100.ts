@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/419YYIirFCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F6XY8MFB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F6XY8MFB?tag=rvgearlab-amz-20",
     "description": "The ZENPETIO cot includes a mattress and lists a 500 lb capacity with 10 round bars 25mm thick. It sets up in about 10 seconds with no tools.\n\nAgainst the Coleman Trailhead II, it holds more weight and includes padding. Compared with the Roixeeds, it is sturdier and has a mattress.\n\nIt suits campers who want a cot and mattress for one price. The setup is fast.",
     "specs": [
       "500 lb capacity",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/312qonuElBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B003696236?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B003696236?tag=rvgearlab-amz-20",
     "description": "The Coleman Trailhead II uses a cross-bar steel frame and supports adults up to 300 lb and 6 ft 2 in. It measures 73 by 35 by 17 inches and sets up and takes down easily.\n\nAgainst the ZENPETIO, it is wider and comes from a familiar camping brand. Compared with the Roixeeds, it is sturdier and larger.\n\nIt suits tall campers who want a wider cot. The 35 inch width gives room to turn.",
     "specs": [
       "300 lb, up to 6 ft 2 in",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41LLXAHzSSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GFVDHCGM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GFVDHCGM?tag=rvgearlab-amz-20",
     "description": "The Roixeeds cot uses 600D Oxford fabric and a frame with 3 U-shaped metal legs and non-slip feet. It folds for storage and is sold for camping, backpacking and the beach.\n\nNext to the ZENPETIO, it costs less and uses a simpler frame. Compared with the Coleman, it is a simpler frame.\n\nIt suits budget campers who want a basic bed. The fabric is breathable.",
     "specs": [
       "600D Oxford fabric",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ygMWfa3pL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B089YLX28S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B089YLX28S?tag=rvgearlab-amz-20",
     "description": "The SWTMERRY pad is a quilted cotton pad measuring 75 by 28 inches and weighing 3.3 lb. It has four elastic straps on the back that keep it on the cot.\n\nCompared with the NewMolly, it is lighter and fits most cots. Next to the cots, it adds cushion.\n\nIt suits cot owners who want more comfort at a low cost. It rolls up and ties for storage.",
     "specs": [
       "75 x 28 inch quilted pad",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ybGkUf3fL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HF3LVJ4H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HF3LVJ4H?tag=rvgearlab-amz-20",
     "description": "The NewMolly pad is a 3 inch memory foam camping mattress in cot size, with CertiPUR-US foam and a non-slip bottom. It has a soft cover and fasteners for rolling.\n\nAgainst the SWTMERRY, it is thicker and more supportive. Compared with the MLILY, it is a half inch thicker.\n\nIt suits cot owners who want real mattress comfort. It also works on a tent floor.",
     "specs": [
       "3 inch memory foam",

@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51oVLgBb5RL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BWMSJXXP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BWMSJXXP?tag=rvgearlab-amz-20",
     "description": "The SpiroPure SP-RV100-2PK pairs 1 micron 2-stage media with a listing that says it captures lead, heavy metals, PFOA and PFAS. It also reduces chlorine, chloramines and odors and includes a salt-free descaler.\n\nIt is the only hose filter here that names PFOA and PFAS in its bullets, and the pair covers a full season each. The standard 3/4 inch hose fit makes it easy.\n\nA great pick for campers who want a PFAS-named filter without a mounted system. It also suits hard-water travelers.",
     "specs": [
       "1 micron 2-stage media",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/417x1OZzYXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GCBZR8N7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GCBZR8N7?tag=rvgearlab-amz-20",
     "description": "The PUREPLUS 10 by 2.5 inch RV Water Filter Combo Pack includes a 1 micron PFAS reduction carbon block and a 5 micron sediment filter. It meets NSF/ANSI 42 for chlorine reduction and taste and lists 13,000 gallons or 3 to 6 months per filter.\n\nUnlike the SpiroPure 2-Pack, it is a cartridge pair for a standard 10 inch housing, and it costs much less. It pairs a pre-filter with the PFAS block.\n\nBest for owners of a 10 inch housing who want a PFAS carbon block. It also suits cost-conscious long-stay campers.",
     "specs": [
       "1 micron PFAS carbon block",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hMDYL8eIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GY6Y42LD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GY6Y42LD?tag=rvgearlab-amz-20",
     "description": "The Yottix 4-Stage RV Water Filter has 1 micron filtration with PP cotton, non-woven fabric and carbon media. It rates up to 90 PSI, lists 7,000 gallons and has a transparent window showing cartridge condition.\n\nIt uses a removable stand for upright placement and a brass adapter kit, and installs in about five minutes without tools. The window removes guesswork about replacement.\n\nA good fit for travelers who want a visible indicator and a simple stand. It also suits anyone who likes 1 micron filtration.",
     "specs": [
       "4-stage 1 micron filtration",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410DC1qH4CL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GZNRBQ4L?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GZNRBQ4L?tag=rvgearlab-amz-20",
     "description": "The VEVOR RV Water Filter System is a 5 micron 3-stage setup with three cartridges and a 3/4 inch fitting. It lists 12,000 gallons, 3 GPM flow and stable pressure from 20 to 125 PSI.\n\nCompared with the Yottix, it holds more cartridges and a wider pressure range. It reduces sediment, residual chlorine, heavy metals and microbes per the listing.\n\nBest for campers who want a full triple-stage system at a moderate price. It also suits campgrounds with variable pressure.",
     "specs": [
       "5 micron 3-stage system",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41lleBKTV6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GY48D38M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GY48D38M?tag=rvgearlab-amz-20",
     "description": "The Ziwshom 5-Stage RV Water Filter System uses UF membranes at 0.01 micron with a built-in carry handle. It delivers 4.5 GPM and includes brass threads, adapters, a wrench and an O-ring.\n\nIt has the finest membrane and highest flow here, and the handle makes it portable. It is the premium system in this group.\n\nIdeal for travelers who want fine filtration and strong flow. It also suits those who move the system between sites.",
     "specs": [
       "0.01 micron UF membrane",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41--V4vF2dL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DF7K191C?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DF7K191C?tag=rvgearlab-amz-20",
     "description": "The VRIEXSD kit has 320 pieces in a waterproof EVA hard shell that measures 8.65 x 5.88 x 3.54 inches. Waterproof double zippers, carabiners and labeled sleeves keep the contents sorted.\n\nIt holds more pieces than the Gevoke and First Aid Only kits in a case that is smaller than the Gevoke. The EVA shell is waterproof, which the soft First Aid Only case does not claim.\n\nIt is the best fit for a family road trip or a camping car. It slides into a seat pocket or a trunk organizer.",
     "specs": [
       "320 pieces, EVA hard shell",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51fyeGm2WEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FT3XJS2G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FT3XJS2G?tag=rvgearlab-amz-20",
     "description": "The Gevoke has 310 pieces in a high-density plastic hard case measuring 10.3 x 8.08 x 3.24 inches and weighing 1.65 lbs. A clear lid and a sliding lock clasp let you see the contents without spilling them.\n\nIt carries about the same piece count as the VRIEXSD in a bigger, boxier case. Its clear lid is the quickest to scan at a roadside, which the zippered kits lack.\n\nIt is ideal for drivers who want a kit they can read at a glance. The listing includes a CPR face shield and burn gel.",
     "specs": [
       "310 pieces, hard plastic case",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41YWc+SKX+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B000069EYA?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B000069EYA?tag=rvgearlab-amz-20",
     "description": "The First Aid Only kit has 298 pieces in a soft-sided zippered case with two layers and clear plastic pockets. It is FSA and HSA eligible and fits a glove box or backpack.\n\nIt costs less than the Gevoke and VRIEXSD and holds nearly as many items. The soft case packs flatter than the hard shells here.\n\nIt is for people who want a known kit brand and a case that squeezes into tight spaces. The two layers keep supplies sorted.",
     "specs": [
       "298 pieces, two-layer soft case",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/413N9zx83aL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09NWH8553?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09NWH8553?tag=rvgearlab-amz-20",
     "description": "The BAND-AID kit has 160 pieces in a durable plastic case that can be refilled. It includes BAND-AID adhesive bandages, NEOSPORIN, BENADRYL and TYLENOL, per the listing.\n\nIt holds fewer pieces than the 300-plus kits and contains familiar name-brand items. The listing describes a case to refill with your own selection of supplies.\n\nIt suits households who prefer recognizable brands and want a kit they can refill. It is compact enough for a glove box.",
     "specs": [
       "160 pieces, refillable case",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51JEM0ucbzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BF4MF5MZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BF4MF5MZ?tag=rvgearlab-amz-20",
     "description": "The AMORNING kit has 276 pieces in an EVA bag that measures 7.8 x 5.55 x 2.9 inches and weighs about 1 lb. It includes an ice pack, a safety blanket and first aid tape.\n\nIt is smaller than the Gevoke 310pc. It adds an emergency blanket and ice pack, which the First Aid Only kit does not list.\n\nIt is for drivers who also camp and want a small kit that goes in a pack. The compact bag fits a door pocket.",
     "specs": [
       "276 pieces, about 1 lb",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41tmZKeWpGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B41MYSGP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B41MYSGP?tag=rvgearlab-amz-20",
     "description": "The BAND-AID Travel Ready kit has 80 pieces in a mini case. It includes cleansing wipes, gauze pads, antibiotic cream, pain relief caplets and adhesive bandages.\n\nIt is the smallest kit and the cheapest by a wide margin, and it holds about a quarter of the pieces in the VRIEXSD 320pc. The mini case suits a glove box or a seat pocket.\n\nIt is best as a backup kit or for commuters. It covers small cuts and scrapes.",
     "specs": [
       "80 pieces, mini case",

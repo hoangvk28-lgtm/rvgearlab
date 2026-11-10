@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41xaBDuq-yL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B015Y9A4HU?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B015Y9A4HU?tag=rvgearlab-amz-20",
     "description": "Progressive's SSP-50XL plugs in ahead of a 50A coach and handles up to 12,000W across both legs of 120/240V power. It is rated for 1,650 joules and raises alarms for bad voltage, miswired ground or neutral lines, flipped polarity and a spent surge module, while also watching line frequency.\n\nAt about $68 it costs $22 less than the GEARGO Smart and covers a full 50A coach. The GEARGO Smart adds a display and automatic shutoff in a 30A body.\n\nIt suits a 50A motorhome or fifth wheel owner who values an established brand. Its fault list tells you what is wrong before you plug in.",
     "specs": [
       "50A, 12,000W, 1,650J",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31zq5+JZeaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GSZLGGMP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GSZLGGMP?tag=rvgearlab-amz-20",
     "description": "GEARGO's Smart protector carries 16,000 joules, a real-time LED voltage display and IP68 protection. It cuts power on a fault and resets by itself when the problem clears, and a three-year warranty covers it.\n\nAt about $90 it is the priciest pick and sits $21 above the Progressive SSP-50XL. It brings the display and shutoff that the Progressive lacks, in a 30A body.\n\nIt suits a 30A trailer owner who wants automatic protection and a warranty. The display shows pedestal voltage.",
     "specs": [
       "16,000J, auto cut-off, IP68",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41T7u17wX+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B015Y9MX38?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B015Y9MX38?tag=rvgearlab-amz-20",
     "description": "The SSP-30XL is Progressive's compact 30A model for 120V hookups, good for 3,600W with an 825 joule absorber. It signals voltage swings, miswired pedestals, a spent protection module and frequency trouble.\n\nAt about $52 it is the cheapest Progressive and $38 below the GEARGO Smart. It has the shortest joule number in the guide.\n\nIt suits a 30A trailer owner who wants fault warnings from a trusted brand. Frequency monitoring adds protection beyond surge control.",
     "specs": [
       "30A, 3,600W, 825J",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zzRx4oo+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D53RLC1Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D53RLC1Q?tag=rvgearlab-amz-20",
     "description": "A 15,000 joule claim sits behind this 50A GEARGO, whose housing is sealed to IP68 and molded from flame-retardant plastic. Analyzer lights check the pedestal, and the angled plug is simple to seat and remove.\n\nAt about $54 it costs $14 less than the Progressive SSP-50XL and gives 13,000 more joules. It puts its emphasis on the diagnostic chart for spotting a miswired pedestal.\n\nIt suits campers at older parks with questionable wiring. The analyzer lights flag a problem before you plug the coach in.",
     "specs": [
       "50A, 15,000J",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/414nv8rI75L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GDDHJ8DM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GDDHJ8DM?tag=rvgearlab-amz-20",
     "description": "A big LED screen reads out voltage, current and power on this 50A protector, which claims 26,000 joules and cuts power on faults until you reset it by hand. The oversized cover takes a padlock through its theft ring, and the handle has a non-slip grip.\n\nAt about $40 it is the cheapest pick and has a display that the Progressive SSP-50XL lacks. It trades a recognized brand for the screen and the joule claim.\n\nIt suits budget-minded 50A owners who want a screen and a lockable cover. It stays off until you reset it.",
     "specs": [
       "50A, 26,000J",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41q0Fbl8DGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C2TF2S48?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C2TF2S48?tag=rvgearlab-amz-20",
     "description": "The earlier GEARGO 50A model claims 13,000 joules and checks pedestal wiring with analyzer lights keyed to a printed chart. Its shell passed FCC testing, uses V-1 flame-retardant plastic and is sealed to IP68.\n\nAt about $45 it costs $9 less than the GEARGO 15,000J and gives 2,000 fewer joules. The named FCC test sets it apart.\n\nIt suits an owner who wants a documented, flame-retardant housing. It lacks a display.",
     "specs": [
       "50A, 13,000J",

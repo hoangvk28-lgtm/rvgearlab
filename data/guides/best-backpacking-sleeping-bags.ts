@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41OdlULxekL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D643KDKN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D643KDKN?tag=rvgearlab-amz-20",
     "description": "The Coleman North Rim is a mummy rated to 0F with an adjustable hood and a Thermolock draft tube running the length of the zipper. It is cut for campers up to 6 ft 2 in and uses hollow polyester insulation.\n\nAgainst the TETON Trailhead it states a colder rating and adds a longer-lasting draft barrier, so it holds up for later-season trips. The two mummies share a similar shape, and this one carries the colder figure.\n\nIt suits backpackers who start trips in early spring or late fall. The adjustable hood lets you seal in heat or vent when it warms up.",
     "specs": [
       "0F rated mummy",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/316CFmR-OuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DWVF4RXP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DWVF4RXP?tag=rvgearlab-amz-20",
     "description": "Rated at 20 degrees, the TETON Trailhead mummy pairs microfiber fill with a generous footbox, a draft tube behind the zipper and a brushed liner. It ships with a compression sack and hang loops for loose storage between trips.\n\nIt sits warmer than the ECOOPRO and the MalloMe and a little less cold than the Coleman North Rim. The footbox gives toes more room than most mummies at the same price.\n\nIt suits three-season hikers who want a mummy with real cold-night capability. The hood draws closed to cut drafts.",
     "specs": [
       "20F mummy",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41fu3se401L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B011AZ3O9W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B011AZ3O9W?tag=rvgearlab-amz-20",
     "description": "The ECOOPRO is a warm-weather envelope bag measuring 83 by 30 inches with a nylon shell and a polyester lining. The listing gives a weight of 1.7 lb and a compressed height of 11 inches, with a stated range of 55 to 60F.\n\nIt is the only bag in this group with both weight and compressed size on the page, and it beats the roughly 3 lb MalloMe for carry. Against the TETON Trailhead it gives up the cold rating for a much lighter load.\n\nIt suits summer hikers and scouts who want a small, waterproof bag. Consider a liner to extend the range.",
     "specs": [
       "83 by 30 in envelope",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51TnRkxW-6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B077XQDZW4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B077XQDZW4?tag=rvgearlab-amz-20",
     "description": "The MalloMe is listed with a 50 to 77F temperature range and weighs about 3 lb. It fits an adult up to 6 ft, with a waterproof outer shell that wipes clean and a liner that is machine washable.\n\nIt carries more weight than the ECOOPRO and offers a slightly wider range, starting at 50F. The easy-wash design suits family trips where a bag takes abuse.\n\nIt suits casual backpackers who want one bag for hiking and the car-camp. Kids and adults can share it.",
     "specs": [
       "About 3 lb",

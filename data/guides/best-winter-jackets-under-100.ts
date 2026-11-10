@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21YZeZMiiiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B4JBJWS2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B4JBJWS2?tag=rvgearlab-amz-20",
     "description": "The CAMEL CROWN Ski Jacket is a women's hooded winter coat with a high-density, wind-resistant shell, a double placket and a stand-up collar with a windproof hood. It has a wear-resistant outer fabric, an ergonomic 3D cut and multiple inside and outside pockets sized for goggles and valuables.\n\nAgainst the MOERDENG Ski Jacket, it adds a stated windproof double placket and an abrasion-resistant shell. Compared with the TBMPOY Puffer, it is cut for snow sports with room for goggles.\n\nIt suits women who want a real snow coat in the price range. The listing names skiing and mountain use.",
     "specs": [
       "High-density windproof shell",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41SJeb0N+BL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FKB73YS9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FKB73YS9?tag=rvgearlab-amz-20",
     "description": "The TBMPOY Puffer is a men's lightweight puffer with down alternative insulation, a water-resistant shell and a detachable hood. The hood is sized to fit over a winter hat, and four pockets include two large inner ones.\n\nAgainst the CAMEL CROWN, it is lighter and cheaper with a detachable hood. Next to the Columbia Steens Mountain, it adds a water-resistant shell.\n\nIt suits men who want a travel-friendly insulated layer. The listing says the shell is water-resistant, not waterproof.",
     "specs": [
       "Down alternative insulation",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41J5DyznplL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0076R6LNA?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0076R6LNA?tag=rvgearlab-amz-20",
     "description": "The Columbia Steens Mountain 2.0 is a men's full-zip fleece with a collared neck and two zippered security pockets. The fit is classic and the fabric is described as soft and lightweight.\n\nAgainst the TBMPOY Puffer, it is a fleece layer for under or over a shell. Compared with the LOMON Fleece, it adds a recognized brand and a classic fit.\n\nIt suits men who want a layer to pair with a rain shell. It works as standalone on cool days.",
     "specs": [
       "Full-zip fleece",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41MCX0G7QmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H1HQGBQD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H1HQGBQD?tag=rvgearlab-amz-20",
     "description": "The LOMON Fleece is a women's full-zip polar microfleece with six pockets, including deep internal ones and reinforced zippered hand pockets. It has a stand-up collar, elastic cuffs and hem and a pilling-resistant fabric.\n\nAgainst the Columbia Steens Mountain, it carries more pockets and a lower price. Compared with the CAMEL CROWN, it is a fleece, so it layers rather than shelters.\n\nIt suits women who want a warm mid layer with lots of storage. The elastic cuffs lock in heat.",
     "specs": [
       "Polar microfleece",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31GXiFXacIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DCNM8C3H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DCNM8C3H?tag=rvgearlab-amz-20",
     "description": "The MOERDENG Ski Jacket is a women's hooded snow jacket described as waterproof and windproof, with a detachable hood and zipper pockets. The listing mentions reinforced stitching and adjustable cuffs.\n\nAgainst the CAMEL CROWN, it costs far less with a detachable hood. Compared with the LOMON, it is a shell-style coat.\n\nIt suits budget shoppers who want a ski-style jacket. The detachable hood adapts to weather.",
     "specs": [
       "Waterproof, windproof claims",

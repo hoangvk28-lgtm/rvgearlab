@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Y-G67ryuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GJCCSJDQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GJCCSJDQ?tag=rvgearlab-amz-20",
     "description": "The Rivenlo is a 3-in-1 camping hammock tent in 70D nylon that weighs 1.2 kg and holds 200 kg. It includes a mosquito net with two foldable aluminum support poles, a rain fly, two carabiners and two 110 inch tree straps with 10 loops.\n\nIt costs about $90, around $20 more than the Sunyear Net and Fly, and it is the only pick whose net is held off your face by poles. The poles add bulk compared with the plain hammocks.\n\nIt suits backpackers who want bug and rain protection in one kit. It flips over to work as an ordinary tree hammock.",
     "specs": [
       "3-in-1 hammock tent, 70D nylon",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41oHC2bwtcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09PL34LYF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09PL34LYF?tag=rvgearlab-amz-20",
     "description": "The Sunyear includes a hammock, a bug net and a rain fly tarp in oxford and net fabric, with adjustable ropes and hooks that connect to tree straps. It comes in a 118 by 78 inch size rated for 600 pounds and a 106 by 55 inch size rated for 500 pounds.\n\nIt costs about $70, $20 less than the Rivenlo 3-in-1, and it adds a tarp-style fly with a triangle design to block sideways rain. The Sunyear is heavier and less refined than the Rivenlo.\n\nIt suits weekend campers who prefer one box with everything. The double size fits two people.",
     "specs": [
       "Hammock, net and rain fly",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51+FKCapb+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GVMZM2CC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GVMZM2CC?tag=rvgearlab-amz-20",
     "description": "The Covacure is a 210T parachute nylon double hammock measuring 9.5 by 4.6 feet that holds 772 pounds and weighs 1.93 pounds. It includes tree straps and a carry bag.\n\nIt costs about $25, a third of the Sunyear Net and Fly, and it gives double-hammock room for the lowest price. It has no net or fly.\n\nIt suits campers who want a simple, roomy hammock for relaxing. It packs small.",
     "specs": [
       "210T parachute nylon, 9.5 x 4.6 ft",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/516RoZ+5OcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01E3EHRVS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01E3EHRVS?tag=rvgearlab-amz-20",
     "description": "The Wise Owl Single hammock measures 9 by 4.5 feet with triple stitching and 9 foot straps with a 5-loop adjustment, and the whole kit weighs 16 oz. It holds up to 500 pounds.\n\nIt costs about $32, a bit more than the Covacure, and it weighs about half as much. It has no net or fly, which is how it stays so light.\n\nIt suits backpackers who want a light hammock without frills. It folds small.",
     "specs": [
       "9 x 4.5 ft, triple stitching",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51hBbAeM12L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H8N3PK4R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H8N3PK4R?tag=rvgearlab-amz-20",
     "description": "The Spreader Bar Hammock uses a breathable mesh bed held flat by a spreader bar, rated for 550 pounds at 490 grams and offering a 72 inch lying area. It comes with a carry bag and straps.\n\nIt costs about $28, near the Covacure Double, and the bar keeps the surface flatter than a gathered hammock. The bar is awkward to pack and the lying area suits users to about 5 feet 9.\n\nIt suits campers who dislike the banana shape. Mesh stays cool in summer.",
     "specs": [
       "Spreader bar, mesh fabric",

@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51yfKTYjwnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H8MWS8G6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H8MWS8G6?tag=rvgearlab-amz-20",
     "description": "The ESBANY is a 5-band cell phone signal booster for trucks, RVs and overland vehicles that covers 3G, 4G LTE and 5G on bands 4, 12, 17, 5, 2 and 25. The listing states FCC approval and compatibility with AT&T, T-Mobile, Sprint and U.S. Cellular, and supports multiple users and devices.\n\nAgainst the Metarepeater, it costs less and states FCC approval. Against the GAGBK, it covers more bands.\n\nBest for RV owners who want a multi-band vehicle booster at a moderate price. A good fit for fringe coverage.",
     "specs": [
       "5-band booster, 3G, 4G LTE, 5G",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41E-zqtGDkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H9KZWH15?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H9KZWH15?tag=rvgearlab-amz-20",
     "description": "The Metarepeater MT1 is a cell phone booster for trucks and RVs with a large color LCD that shows status and the gain of its frequency bands. It boosts bands 12/17, 13, 5, 2/25 and 4 for 4G LTE and 5G and includes a 360-degree omnidirectional spring-mounted antenna.\n\nAgainst the ESBANY, it adds a live LCD display. Against the GAGBK, it costs more and lists more detail.\n\nBest for owners who want to see the booster working in real time. A solid choice for stationary and on-the-move use.",
     "specs": [
       "Cell booster with color LCD",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41bTZLFXEgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HF8N51DM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HF8N51DM?tag=rvgearlab-amz-20",
     "description": "The GAGBK is a car and RV cell booster listed for Band 12/13/17 with automatic gain control up to 65dB. It includes an outside whip antenna and a kit with all accessories, installs without drilling and works with Verizon, AT&T, T-Mobile and other U.S. carriers.\n\nAgainst the ESBANY, it costs less and lists fewer bands. Against the Metarepeater, it has no display.\n\nBest for budget buyers who want a booster kit with no drilling. A simple add-on for a pickup or small RV.",
     "specs": [
       "Band 12/13/17 booster, up to 65dB",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4177vRWDafL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FQ63QPGJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FQ63QPGJ?tag=rvgearlab-amz-20",
     "description": "The Maswell 4MIMO Ultra is a 10dBi panel antenna with 4x4 MIMO cross polarization and a 600 to 8,000 MHz range for 4G and 5G routers and gateways. The kit includes four 6.5 foot low-loss LMR240-equivalent cables and a recommendation to test signal strength at several outdoor locations.\n\nAgainst the boosters, it is an antenna for a cellular router and not an amplifier. Against the hotspot, it improves reception for a router you already own.\n\nBest for RVers with a cellular router who want a stronger external antenna. A serious upgrade for a mobile office.",
     "specs": [
       "10dBi 4x4 MIMO panel antenna",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31KR7Xn06fL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F2TS9JG4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F2TS9JG4?tag=rvgearlab-amz-20",
     "description": "The TravlFi JourneyGo is a 4G hotspot that uses an eSIM with prepaid data plans from 2GB to unlimited and no contract. It is pocket-size and gives a private LTE network to laptops, phones, tablets and smart TVs.\n\nAgainst the boosters, it provides its own data and does not amplify an existing signal. Against the antenna, it is a complete hotspot, not an accessory.\n\nBest for travelers who want a separate data line without a contract. A flexible pick for occasional trips.",
     "specs": [
       "4G hotspot with eSIM",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31z36lgGT8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00009WCAP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00009WCAP?tag=rvgearlab-amz-20",
     "description": "The Cellular Innovations A-BOOSTER is listed as a universal cell phone antenna booster that fits behind a phone battery. It carries a one-year warranty.\n\nAgainst the vehicle kits, it is a tiny add-on and not a powered booster with an external antenna. Against the antenna and hotspot, it is the smallest item here.\n\nBest only for owners curious about a phone-level accessory. It is not a replacement for an RV booster.",
     "specs": [
       "Universal phone antenna booster",

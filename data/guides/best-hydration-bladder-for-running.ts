@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Dbf-9EUDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00NOEC53O?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00NOEC53O?tag=rvgearlab-amz-20",
     "description": "The Nathan 2 Liter replacement bladder is BPA free, with a quick-release hose and a high-flow bite valve. The listing names compatibility with Nathan running vests and with many 2L-ready hydration packs, including Firestorm, Moxy, Grit and VaporAiress models.\n\nCompared with the generic reservoirs here, it is designed around running vests and says so. Against the Water Buffalo, it focuses on vest compatibility rather than size options.\n\nIt suits runners with a Nathan vest or any 2L-ready pack who want a fit-matched replacement. Use it for running, trekking, biking and hiking.",
     "specs": [
       "2L, BPA free",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41RJ0zq3QJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08T389HPG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08T389HPG?tag=rvgearlab-amz-20",
     "description": "The Water Buffalo Oasis is a BPA-free, taste-free TPU reservoir in 2L and 3L sizes. A self-sealing high-flow bite valve, a quick-connect hose, a wide opening for cleaning and an insulated hose that holds water temperature come with it.\n\nCompared with the Nathan 2L, it adds a hose insulator and a 3L option for longer runs. Against the NEVO RHINO, it offers a quick-connect system.\n\nIt suits runners in hot or freezing weather who want to protect the drinking tube. The wide opening makes ice loading easy.",
     "specs": [
       "2L or 3L TPU reservoir",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41sMw0mxowL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DXYTVNJ9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DXYTVNJ9?tag=rvgearlab-amz-20",
     "description": "The NEVO RHINO 2L comes as a kit with the reservoir, a cleaning brush and accessories. A slide-seal wide top opening makes it easy to fill and clean, and the bite valve delivers consistent high flow.\n\nCompared with the Water Buffalo, it costs less and adds cleaning tools. Against the CHERAINTI bladders, it includes the kit and a slide seal.\n\nIt suits runners who want everything in the box. The listing says it fits most hydration packs.",
     "specs": [
       "2L reservoir with cleaning kit",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51lffWPDLqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BZ4B5GNM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BZ4B5GNM?tag=rvgearlab-amz-20",
     "description": "The CHERAINTI 1.5L is the smaller sibling of the 2L reservoir, with a BPA-free build, a large opening for cleaning and pouring, and a taste-free material. The listing describes a high-flow bite valve with a soft mouthpiece and a sealed, leak-proof design.\n\nCompared with the Nathan 2L, it carries a third less water, which cuts weight and slosh on short runs. Against the CHERAINTI 2L, it suits smaller vest pockets.\n\nIt suits runners on 10K and half-marathon distances who refill at stations. It is also one of the lowest-cost options here.",
     "specs": [
       "1.5L BPA-free reservoir",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51WYbcGX6DL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B071DQSZB8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B071DQSZB8?tag=rvgearlab-amz-20",
     "description": "The CHERAINTI 2L is a BPA-free reservoir with a large opening, a taste-free material and a high-flow bite valve. The listing says it handles 20 to 50 degrees Celsius and the tube resists temperature changes.\n\nIt is one of the lowest-cost reservoirs here. Compared with the Nathan 2L, it costs a fraction and lists no vest compatibility.\n\nIt suits runners on a budget who want a simple, leak-proof spare. A soft mouthpiece is easy to use.",
     "specs": [
       "2L BPA-free reservoir",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41kqYz1xnqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CLB55ZCJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CLB55ZCJ?tag=rvgearlab-amz-20",
     "description": "The HEIKLN reservoir comes in 1.5L, 2L, 2.5L and 3L sizes and is described as BPA free, taste free and food grade, with an SGS certification mentioned on the listing. A soft mouthpiece with an on/off valve and a wide opening round out the design.\n\nCompared with the CHERAINTI 2L, it adds a size range and a stated temperature range of minus 20 to 50 Celsius. Against the Unigear, it gives the same four sizes.\n\nIt suits runners who want to pick an exact capacity. The on/off valve prevents accidental leaks.",
     "specs": [
       "1.5L, 2L, 2.5L, 3L options",

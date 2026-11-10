@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31MjYfea++L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DSVLGMD5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DSVLGMD5?tag=rvgearlab-amz-20",
     "description": "Sea to Summit's Hamelin is a 15 degree synthetic mummy with a thermally efficient contour shape and body-mapped Revive Loft insulation. The Free Flow full-length side zipper has double sliders and fully unzips to turn the bag into a flat quilt.\n\nIt measures 77 x 31 inches, weighs 3.59 pounds and suits sleepers as tall as 6 ft 1 in, which makes it lighter than the Women's Hamelin and roomier than the Retrospec. Shoulder snaps and a footbox zipper let you wear it around camp.\n\nA strong choice for paddlers and backpackers who want documented synthetic warmth. The side-sleeping room and convertible design add everyday flexibility.",
     "specs": [
       "15 degree synthetic, Revive Loft",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31fOJ+vXlwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DSVLQ6Y7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DSVLQ6Y7?tag=rvgearlab-amz-20",
     "description": "The women's Hamelin uses the same Revive Loft insulation and Free Flow zipper in a Women's Contour shape, measuring 72 x 29 inches. The listing gives a weight of 4.44 pounds in the regular size and fit for users up to 5 ft 7 in.\n\nIt mirrors the standard Hamelin's features and adjusts the cut for shorter and narrower sleepers. That tailoring makes it the better pick for many women, while taller men should choose the standard model.\n\nChoose it for women who want a purpose-cut synthetic bag with room to side sleep. The quilt mode helps on warmer nights.",
     "specs": [
       "15 degree women's synthetic bag",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21PeRdpIqHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DSVHRWV5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DSVHRWV5?tag=rvgearlab-amz-20",
     "description": "The Boab is a roomy, tapered rectangular synthetic bag rated 15 degrees in a short length, measuring 79.10 x 28.00 inches and weighing 3.69 pounds. A full side zipper extends through the footbox, so the bag converts into a blanket.\n\nIt uses 50 denier bluesign approved polyester and YKK #5 zippers with a plow guard, and it is marked as a 2-season bag. That is the key difference from the 3-season Hamelin, and the listing describes it for side sleepers.\n\nPick it for side sleepers who prefer a rectangular shape and want a recycled, bluesign built bag. It is a shorter cut.",
     "specs": [
       "15 degree synthetic, short length",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31q7sE1YuEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CZ2BH6W7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CZ2BH6W7?tag=rvgearlab-amz-20",
     "description": "Retrospec's Dream 15 is an insulated mummy with water-resistant inner and outer shells, a draft collar and a draft tube. The regular weighs 3 lb 7 oz, and a stuff sack and a zipped stash pocket come with it.\n\nIt costs a fraction of the Sea to Summit bags and gives the same 15 degree label. Differentiated draw cords adjust the hood in the dark, and the stash pocket keeps a phone close.\n\nA fit for budget campers who want a 15 degree mummy for car camping and short hikes. The stuff sack keeps the trunk tidy.",
     "specs": [
       "15 degree insulated mummy",

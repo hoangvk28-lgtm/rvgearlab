@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41AUR82APkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FDQMY868?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FDQMY868?tag=rvgearlab-amz-20",
     "description": "The Overmont 2-Pack gives two oversized XL chairs, each rated for 500 lbs and measuring 37 by 23 by 22 inches. Each is filled with 2.5 lbs of high-density cotton and reinforced with double stitching.\n\nIt offers the highest rating in the list and a pair for the price of one chair from some brands. Compared with the single Overmont chair, it doubles the seating, and compared with the Huskfirm, it lists a higher capacity. It suits couples and larger campers who want two plush seats.",
     "specs": [
       "500 lb rating, 2 chairs",
@@ -56,7 +56,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41mN2XGsh0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FLY4FVQP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FLY4FVQP?tag=rvgearlab-amz-20",
     "description": "The Huskfirm 2-Pack uses a high-strength steel frame with 600D Oxford fabric and spray-bonded cotton cushioning on the seat and backrest, rated for 450 lbs. Each chair has armrest cup holders, an armrest cooler bag, two side pockets and a back mesh pocket.\n\nIt carries more storage than the Overmont 2-Pack, and compact storage of about 43.3 inches long keeps it packable. It trails the Overmont by 50 lbs of rating. It suits campers who want a cooler built into the arm.",
     "specs": [
       "450 lb rating",
@@ -86,7 +86,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41kymTUyTrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GD1V94C9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GD1V94C9?tag=rvgearlab-amz-20",
     "description": "The AZKORION 2-Pack uses a reinforced X-shaped steel frame made from 1 mm thickened tubes. The headrest, lumbar support and armrests hold 2.5 lbs of cotton padding.\n\nIt has two adjustable cup holders and a phone pouch, and folds into an included backpack carry bag. Against the Huskfirm, it stresses frame reinforcement over storage. It suits campers who want a sturdy X frame and a backpack carry.",
     "specs": [
       "X-shaped steel frame",
@@ -116,7 +116,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41sckn7NZ9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DZ2HZWQ4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DZ2HZWQ4?tag=rvgearlab-amz-20",
     "description": "The Foristrail 2-Pack is a high back padded chair with lumbar support, height-adjustable armrests and a waist strap. Thickened steel pipe and 600D Oxford fabric support 400 lbs, and each chair weighs 11 lbs.\n\nIt is lighter than the oversized Overmont pair and adds adjustable armrests that the others lack. It lists dual cup holders on each chair. It suits campers who need back support and lighter chairs.",
     "specs": [
       "400 lb rating",
@@ -146,7 +146,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41y324mzYoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FJF2Y8G5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FJF2Y8G5?tag=rvgearlab-amz-20",
     "description": "The PUVASIA Oversized chair has an extra-wide 38.6 by 23.1 inch seating area and a reinforced X-shape steel frame with 22 mm thickened tubes and an anti-rust coating. It adds side and back mesh pockets and an adjustable cup holder.\n\nIt has the widest seat in the list, wider than the Overmont, and uses 600D breathable Oxford for all-weather use. It suits broad-shouldered campers who want room to sit.",
     "specs": [
       "38.6 x 23.1 inch seat",

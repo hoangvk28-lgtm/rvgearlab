@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41qUUYG5oTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CS4V8PTC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CS4V8PTC?tag=rvgearlab-amz-20",
     "description": "The Garmin RV 795 is a large 7 inch RV navigator with a bright high-resolution touchscreen and custom routing for the size and weight of your RV or trailer. It lists a preloaded directory of RV parks and services with Tripadvisor ratings, BirdsEye satellite imagery and road warnings for steep grades, sharp curves and weight limits.\n\nAgainst the 795 bundle, it is the lower-priced listing of the same size. Against the budget 7 inch units, it adds RV profile routing and campground content.\n\nBest for Android users who want a dedicated RV navigator that does not eat phone battery or data. A balanced first dedicated unit.",
     "specs": [
       "7 inch touchscreen, RV routing",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51fDsjEbFNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F3LYFLYT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F3LYFLYT?tag=rvgearlab-amz-20",
     "description": "The Garmin RV 795 Bundle pairs the RV 795 with a 64GB microSDXC memory card, a cleaning kit, a card reader, a USB charging adapter and a USB car adapter. It keeps the custom RV routing, the preloaded directory with KOA and Ultimate Public Campgrounds content and the road warnings.\n\nAgainst the plain Garmin RV 795, it adds the accessories in the box. Against the 1095 bundle, it keeps a smaller 7 inch screen at a lower price.\n\nBest for buyers who want accessories included for map storage and charging. A convenient pick for first-time Garmin owners.",
     "specs": [
       "7 inch RV navigator, bundle",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51ui++QWABL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F3M344G6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F3M344G6?tag=rvgearlab-amz-20",
     "description": "The Garmin RV 1095 Bundle includes a 10 inch RV navigator, a 64GB memory card, a cleaning kit, a card reader and USB adapters. Its listing states built-in Wi-Fi that keeps maps and software up to date without a computer, BirdsEye Direct satellite imagery and a vivid display in portrait and landscape.\n\nAgainst the 795 units, it adds the largest screen and Wi-Fi updates. Against the budget units, it adds RV routing and a Garmin Drive app pairing for live information.\n\nBest for drivers who want the most readable map and easy over-the-air updates. A natural choice for large motorhomes.",
     "specs": [
       "10 inch touchscreen, RV routing",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41NGzpkL0sL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HJCWG7L9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HJCWG7L9?tag=rvgearlab-amz-20",
     "description": "The HINYFVOZ 7 inch navigator comes preloaded with 2026 North America maps and free lifetime updates. It lets you input vehicle height, weight, length and width for custom routing that avoids low bridges and weight-restricted roads, with voice guidance in 25-plus languages.\n\nAgainst the Garmin units, it costs a small fraction and lists vehicle dimension inputs. Against the VOUJUCY, it names more languages and routing details.\n\nBest for buyers who want an inexpensive second screen for a dash. A good fit for budget towing setups.",
     "specs": [
       "7 inch, 2026 North America maps",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41CbpAmVgUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G1991GJM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G1991GJM?tag=rvgearlab-amz-20",
     "description": "The VOUJUCY 7 inch navigator is preloaded with 2026 North America maps covering the USA, Canada and Mexico, with lifetime free map updates and voice navigation. Its listing describes speed camera and red light warnings and routing based on vehicle weight, length, height and width.\n\nAgainst the HINYFVOZ, it is priced slightly lower and lists similar vehicle size routing. Against the Garmin units, it keeps the price very low.\n\nBest for budget shoppers who want a simple offline navigator. A practical spare for a camper.",
     "specs": [
       "7 inch, 2026 maps USA, Canada, Mexico",

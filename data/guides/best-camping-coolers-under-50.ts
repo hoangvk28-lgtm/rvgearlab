@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31fdniwDn4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GFP4XM7G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GFP4XM7G?tag=rvgearlab-amz-20",
     "description": "Coleman's Chiller packs TempLock foam rated for 48 hours of cold, and the 30 quart body takes 25 cans plus 15 lb of ice, or 42 cans with no ice at all. It weighs 5.8 lb empty and has a ribbed lid good for 200 lb of sitting.\n\nAt about $50 it sits at the cap and is the only pick here with a published ice rating from a major brand. The Igloo Marine Ultra 25 is smaller and a bit cheaper, while the soft totes give up days of cold for portability.\n\nWeekend car campers and tailgaters get a real cooler with a seat built into the lid. A wide bail handle makes loading the trunk easy.",
     "specs": [
       "TempLock foam, up to 48 hours",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31EQNJpFl1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F179F3HM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F179F3HM?tag=rvgearlab-amz-20",
     "description": "Titan's tote uses Deep Freeze Performance Insulation with a Therma-Flect radiant barrier and a ColdBlock base, and the maker rates it for ice up to 3 days. The leakproof lining has Microban protection against odors and stains, and the bag holds 30 cans.\n\nIt costs about $45, close to the Coleman Chiller, and it is the lightest way to carry real insulation. The hard cooler holds more ice, while this bag wipes clean and slides under a seat.\n\nKayakers, hikers and anyone who needs a portable cooler with multi-day insulation will appreciate it. It also suits sailing and fishing days.",
     "specs": [
       "Therma-Flect barrier, ColdBlock base",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41mr-3iqmHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GL8FGQFT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GL8FGQFT?tag=rvgearlab-amz-20",
     "description": "INSMEER is a 55-can collapsible cooler of 40L with four sides reinforced by PP boards and a hard-shell top that holds drinks. The top has four cup holders and the 8mm foam keeps ice for up to 12 hours.\n\nIt costs about $40 and is the only soft cooler here that also works as a mini table, which helps at the beach or a picnic. It holds more than the Titan and the 30L bag, and it folds flat.\n\nBeach and campsite groups who want a rigid soft cooler and a place to set drinks will enjoy the design. It stores flat in a trunk.",
     "specs": [
       "55 cans (40L), PP-board sides",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/415y8sFgLRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GL2422D9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GL2422D9?tag=rvgearlab-amz-20",
     "description": "This 30L soft bag holds up to 50 cans with 8mm foam and a silver PEVA lining. The nylon shell has a PU coating that wipes clean, and it carries by a padded handle or a detachable shoulder strap.\n\nIt costs about $36 and holds 20 cans more than the Titan for less money. The Titan has the better insulation system, so this bag is the larger and cheaper choice.\n\nDay-trippers, kayakers and families on a budget get a big soft bag that folds flat. It suits car trips of a day or less.",
     "specs": [
       "30L, 50 cans, 8mm foam",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31nyRFPv5lL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BRL9S8L9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BRL9S8L9?tag=rvgearlab-amz-20",
     "description": "Igloo's Marine Ultra 25 quart has Cool Riser technology that elevates the body, THERMECOOL foam insulation and swing-up handles with a tie-down loop. It is a hard cooler built to handle boat decks and truck beds.\n\nIt costs about $32, the lowest of the hard coolers here, and it is smaller than the 30 quart Coleman. It makes sense when you want a solid chest that fits under a bench seat.\n\nBoaters, anglers and solo campers who want a small hard cooler for a day or two will use it. It also works as a lunch-and-drinks chest for two.",
     "specs": [
       "25 quart hard cooler",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31f5L6lrvoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B06XZ8HVWT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B06XZ8HVWT?tag=rvgearlab-amz-20",
     "description": "The Six Moon Designs Large Tyvek footprint is genuine hard-structure DuPont Tyvek at 84 by 48 inches and 7 oz (199g). It is sized for the Haven, Haven NetTent and Lunar Duo.\n\nNext to the Small version it is 12 inches wider, and next to the Generic 5 by 8 ft sheet it is far smaller yet harder in structure. The listing advises washing it before first use, with no detergent, to soften it.\n\nIt suits a two-person trekking shelter. The puncture resistant sheet is built for thousands of trail miles.",
     "specs": [
       "84 x 48 in, 7 oz",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410AyasSEIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B06XZNSFYM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B06XZNSFYM?tag=rvgearlab-amz-20",
     "description": "The Six Moon Designs Small Tyvek footprint measures 84 by 36 inches and weighs 4.5 oz (128g). It fits the Lunar Solo, Skyscape and Gatewood Cape.\n\nAgainst the Large it saves 2.5 oz, and next to the Modern Grizzly it is a fixed solo size. The listing says you can trim it with scissors for a custom fit.\n\nIt suits a solo tent where every ounce counts. Machine wash it with no soap to quiet it.",
     "specs": [
       "84 x 36 in, 4.5 oz",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41oFtrKg8PL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CWJ9K81C?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CWJ9K81C?tag=rvgearlab-amz-20",
     "description": "The Modern Grizzly ground sheet is a Tyvek sheet that the listing says weighs only 3.8 ounces. It is described as breathable, waterproof and resistant to tears and punctures, and it is sold in sizes.\n\nIt is the lightest sheet in this comparison, ahead of the 4.5 oz Six Moon Designs Small, and it costs the least of the four. The listing is worded around gear and backpacking rather than a named tent.\n\nIt suits an ultralight backpacker. The same sheet works under a tent, bivy or bedroll.",
     "specs": [
       "3.8 oz Tyvek ground sheet",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Vq9fJI-bL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H21YXG3L?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H21YXG3L?tag=rvgearlab-amz-20",
     "description": "The Generic ultralight Tyvek ground sheet measures 5 by 8 feet and weighs 6 oz. It uses soft-structure Tyvek that the listing says crinkles less and feels flexible, and it comes with four guylines.\n\nIt gives far more coverage than the 84 by 48 inch Six Moon Designs sheet at the cost of a higher price. Soft Tyvek is quieter than the hard type.\n\nIt suits a two-person tent or a camp ground cloth. Space and quiet are its strengths.",
     "specs": [
       "5 x 8 ft, 6 oz",

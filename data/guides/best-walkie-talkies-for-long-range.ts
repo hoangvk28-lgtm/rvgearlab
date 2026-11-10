@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31nIxq4rD5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BN7R87QT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BN7R87QT?tag=rvgearlab-amz-20",
     "description": "The Retevis RB48 is tested to MIL-STD-810H and rated IP67 waterproof and dustproof, with a 2,000mAh battery giving up to 20 hours of use. It charges by USB-C or a charge station and lists a range of up to 300,000 square feet or 25 floors in buildings.\n\nIt is the toughest radio here, with 2-meter drop-proofing across 1,000 drops listed, and it offers more build quality than the Cobra's IP54. Bright yellow design makes it easy to find.\n\nIt fits campers, hunters and trail crews who want a radio that survives abuse. A charge station keeps several radios topped up.",
     "specs": [
       "MIL-STD-810H, IP67",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/61G7TE62TJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07WQB1X3B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07WQB1X3B?tag=rvgearlab-amz-20",
     "description": "The Cobra RX680 set has two radios rated IP54 splashproof, a listed range of up to 38 miles, 22 FRS channels plus 38 channel and privacy combinations, NOAA weather channels and VOX. Vibralert vibration feedback and a built-in LED flashlight round it out.\n\nIt has the most channels and a pair in the box, and the NOAA weather channels add safety. Compared with the RB48, it gives less weatherproofing for more features.\n\nIt fits campers and hunters who want weather alerts and a pair of radios in one purchase. Vibralert helps in loud places.",
     "specs": [
       "IP54, 60 channel presets",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51MAf4MnPEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F4KDNBD8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F4KDNBD8?tag=rvgearlab-amz-20",
     "description": "This rechargeable set has 22 FRS channels, dual push-to-talk buttons, a NOAA weather receiver, VOX, a flashlight and a large LCD. A 1,500mAh battery charges by USB-C, and the listing says range is 0.6 miles in neighborhoods, 1 mile in suburbs and campsites and up to 3 miles on flat open land.\n\nThe listed ranges are honest about real conditions, unlike larger claims on other listings. The side and middle PTT buttons suit left or right hands and gloves.\n\nIt fits families and campers who want alerts and honest range expectations. The large LCD is easy to read at night.",
     "specs": [
       "22 FRS channels, NOAA receiver",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/412zn1FOIBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B091YBXS88?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B091YBXS88?tag=rvgearlab-amz-20",
     "description": "The pxton set has 16 preset channels, 2W transmitting power and headphones included. The listing says a 3 mile open-area range and 8 to 96 hours per charge depending on use.\n\nThe headphones help in noisy places and keep conversations private. It is drop-proof and rainproof, which suits camps.\n\nIt fits teams working near generators or crowds. The 16 knob-selected channels are simple to use.",
     "specs": [
       "16 channels, 2W power",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41PZFdK2WdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00KDZHLNG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00KDZHLNG?tag=rvgearlab-amz-20",
     "description": "The Retevis RT22 4-pack uses a thumb-length antenna, a USB-C charging port with about 10 hours of use, a separate clip and a 300 mW speaker. Squelch improves clarity.\n\nFour radios cover a whole group, and the short antenna is safer around kids. It trades range for compact size compared with the RB48.\n\nIt fits larger groups who want light radios. The separate clip makes belt wear simple.",
     "specs": [
       "Four radios, thumb-length antenna",

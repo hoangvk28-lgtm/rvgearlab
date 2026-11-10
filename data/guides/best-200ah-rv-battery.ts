@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41R4CrmVBbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GT1361HJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GT1361HJ?tag=rvgearlab-amz-20",
     "description": "The ECOBOSS 12V 200Ah comes with the most complete operating data of the group: a 200A BMS that supports 200A continuous discharge and a 100A maximum charge, a charging range of 32°F to 113°F that pauses below 32°F and resumes at 41°F, and a discharge range of minus 4°F to 149°F. It carries an IP65 rating, claims 15,000 plus cycles and expands as 4S4P to 51.2V 800Ah.\n\nAt $298.99 it is $29.00 more than the E-LekTech and $17.60 less than the yeagulch, giving about $117 per nominal kilowatt-hour. Against the Rvpozwer at $305.99 it saves $7.00 and publishes stronger thermal numbers. The listing gives no weight or dimensions, which is the main gap against the yeagulch and E-LekTech.\n\nPick it when you need a clear picture of current and temperature limits for a 2,000W inverter and an outdoor-ish bay. The caveat is that weight and size are not stated, so confirm that it fits before you order.",
     "specs": [
       "2,560Wh, 200A BMS",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41VfSmG-+oL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CPSMSNFX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CPSMSNFX?tag=rvgearlab-amz-20",
     "description": "The E-LekTech 12V 200Ah lists a weight of 50.5 pounds and dimensions of 13.35 by 7.6 by 9.84 inches, with a 150A BMS and support for up to 6S6P. The seller states a 10-year warranty and claims more than 10,000 cycles. It is the lightest 200Ah in the roundup and the only one with a written decade of coverage.\n\nAt $269.99 it matches the Paoweric, and is $29.00 below the ECOBOSS and $46.60 below the yeagulch, which works out to about $105 per nominal kilowatt-hour, the lowest here. Its listed volume is about 998 cubic inches against about 1,371 for the yeagulch, roughly 27 percent smaller, and 8.36 pounds lighter. Those figures are remarkable for 2,560Wh, so verify them, and the 150A limit caps a large inverter.\n\nPick it for the longest warranty and the lowest price per kilowatt-hour. The caveat is that the 150A BMS supports about 1,900 watts at 12.8 volts, so it is not for a 3,000W inverter.",
     "specs": [
       "50.5 lb, 13.35 inches long",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41z88V9T45L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DT6YW2CJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DT6YW2CJ?tag=rvgearlab-amz-20",
     "description": "The yeagulch 12V 200Ah weighs about 58.86 pounds and measures 20.08 by 8.07 by 8.46 inches, which is long and narrow, with a 200A BMS and an automatic high and low temperature cut-off. The listing gives 4,000 cycles at 100 percent depth, 6,000 at 80 percent and up to 15,000 at 60 percent, and says four in parallel reach 800Ah. A note advises against using it as a starting or golf-cart battery.\n\nAt $316.59 it is the most expensive here, $46.60 above the E-LekTech and $17.60 above the ECOBOSS. For that you get the clearest size, weight and cycle-depth data, though the 20-inch length needs a long tray. The listing says it is roughly one third the weight of comparable lead-acid, which implies about 177 pounds for the lead-acid equivalent, an estimate that conflicts with the E-LekTech's half-the-weight claim.\n\nPick it for the cleanest cycle data and a 200A BMS in a long tray. The caveat is the price and the length, and the 58.86 pounds is 8.36 pounds more than the E-LekTech.",
     "specs": [
       "58.86 lb, 20.08 inches",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41nUI-JxlJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F1TMQX1G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F1TMQX1G?tag=rvgearlab-amz-20",
     "description": "The Rvpozwer 12V 200Ah states 2,560Wh maximum, a 200A smart BMS and a cycle curve of 4,000 at 100 percent depth, 6,000 at 80 percent and 15,000 at 60 percent. It says it meets Group 31 standards, which is unusual for 200Ah so the real size deserves checking, lists operation from minus 4°F to 149°F and expands to 800Ah in parallel. The warranty is described as extensive without a number.\n\nAt $305.99 it is $7.00 more than the ECOBOSS and $10.60 less than the yeagulch. It shares the 200A rating and the cycle curve with the yeagulch but costs less, and it offers a handle for carrying. The weight is not stated, which is the information gap against the yeagulch.\n\nPick it for a 200A battery that is cheaper than the yeagulch and more detailed than the Paoweric. The caveat is that the Group 31 claim, the weight and the warranty length all need confirmation.",
     "specs": [
       "2,560Wh, 200A BMS",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41kmelez-vL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GZZRKHWJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GZZRKHWJ?tag=rvgearlab-amz-20",
     "description": "The Paoweric 12V 200Ah has a 150A BMS with five listed protections, supports up to 6S6P and claims more than 10,000 charge and discharge cycles. It markets energy density at least 300 percent above lead-acid. The excerpt gives no weight, dimensions, warranty length or temperature limits.\n\nAt $269.99 it matches the E-LekTech and is $29.00 below the ECOBOSS. Against the E-LekTech it loses on information, since the E-LekTech gives weight, size and a 10-year warranty for the same price. It does share the 150A limit of about 1,900 watts. Its cycle claim has no depth attached, so the 10,000 figure may refer to a shallow cycle.\n\nPick it only if you find it cheaper than the E-LekTech at checkout and confirm the missing specs with the seller. The caveat is the thin data.",
     "specs": [
       "200Ah, 150A BMS",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31hWBJ9YLXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B075RGX1WR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B075RGX1WR?tag=rvgearlab-amz-20",
     "description": "The Renogy 12V 200Ah AGM lists reference capacities of 200Ah at the 20-hour rate, 190.5Ah at 10 hours, 172.3Ah at 5 hours and 152.9Ah at 3 hours, so the usable amp-hours fall as the load rises. At 12 volts, 2,400Wh nominal becomes about 1,835Wh at the 3-hour rate, and a common 50 percent limit keeps real use near 1,200Wh before heavy-load losses. It is sealed, maintenance free and installs upright.\n\nAt $296.30 it is $26.31 more than the E-LekTech yet delivers roughly half the usable energy, about $247 per usable kilowatt-hour at 50 percent, against about $105 to $124 per nominal lithium kilowatt-hour. The listing gives no weight, so the lead-acid penalty must be inferred. Its advantage is that it charges in freezing weather.\n\nPick it as a cold-bay battery or to see why the lithium numbers matter. The caveat is that 200Ah of AGM is a slow-discharge figure, not a promise at a 1,500W inverter load.",
     "specs": [
       "200Ah at 20-hour rate",

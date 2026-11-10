@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51LTPWERTBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D1VM8CDJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D1VM8CDJ?tag=rvgearlab-amz-20",
     "description": "The TuoPuLife lights 39.4 ft of cord from a 3600mAh battery, and that cell recharges with a day of sun or a quick USB-C session. A USB port can charge a phone, and a remote with 4, 6 and 8 hour timers is included.\n\nAgainst the plug-in strings, it needs no outlet, so it works at a primitive site or inside a tent. Compared with the Minetom, it is more than twice as long, with a built-in battery rather than AA cells.\n\nIt suits campers who want a long string for an awning or tent edge with no hookup. The remote and timers let you set it and forget it.",
     "specs": [
       "3600mAh, 39.4 ft",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/510w7tPfNTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CRKCYNZX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CRKCYNZX?tag=rvgearlab-amz-20",
     "description": "The Minetom is a 17 ft string of 50 star-shaped LEDs powered by 3 AA batteries that are not included. A built-in timer keeps it on for 6 hours and off for 18, and the low-power LEDs stay safe to touch.\n\nCompared with the TuoPuLife, it is shorter and gentler, which suits a tent ceiling. The cool LEDs and AA power keep it simple.\n\nIt suits kids tents, hammock camping and solo shelters where a soft glow is enough. The listing names tents among the places to hang it.",
     "specs": [
       "17 ft, 50 star LEDs",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Mic0-2WGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09TGSQKRF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09TGSQKRF?tag=rvgearlab-amz-20",
     "description": "The Brightown 55 ft set carries 25+2 G40 LED bulbs with 2 ft spacing and an IP65 rating. Bulbs are shatterproof PET and each socket has two hooks, so it hangs from awning rails or trees.\n\nAgainst the 29 ft Brightown, it covers nearly double the length with the same G40 bulb look. It is plug-in only, unlike the TuoPuLife.\n\nIt suits campers with a hookup who want a classic bulb look along an awning or canopy. It works with a dimmer, which the listing says is not included.",
     "specs": [
       "55 ft, 25 G40 bulbs",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/318f65ZAU6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00RQHBZVS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00RQHBZVS?tag=rvgearlab-amz-20",
     "description": "The Brightown 29 ft set has 12 shatterproof G40 bulbs plus a spare, on 24 inch spacing with 18 inch leads. It carries an IP65 rating and a UL588 certification, and a thick flexible cord resists cold.\n\nCompared with the 55 ft Brightown, it fits a small canopy or a pop-up shelter. It costs less and is easier to pack.\n\nIt suits campers with a hookup who want a short run over a table or a doorway. The heavy cord copes with cold mornings.",
     "specs": [
       "29 ft, 12 G40 bulbs plus spare",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51SY8NOvdaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CNTDGP5N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CNTDGP5N?tag=rvgearlab-amz-20",
     "description": "The addlon 100 ft set comes in 50 ft strands that connect up to 4 times for 200 ft from one plug. A remote controls on, off and dimming, and a timer shuts the lights off automatically.\n\nCompared with the Brightown sets, it adds a remote and timer. It uses low-wattage LEDs in shatter-resistant plastic bulbs.\n\nIt suits campers who set up a larger site with a hookup and want to control the lights from a chair. The weather-resistant build is for year-round outdoor use.",
     "specs": [
       "100 ft, ST38 LED bulbs",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51wMFagv11L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CQXP923Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CQXP923Q?tag=rvgearlab-amz-20",
     "description": "The Tenmiro string runs 200 ft with 60 S11 shatterproof bulbs and spares in the box. The listing describes waterproof construction for rain and fog, and a 365 day warranty.\n\nCompared with the addlon, it delivers the longest run in one string. It does not name a remote or timer.\n\nIt suits group sites, fences and long canopy lines with a power hookup. Shatterproof bulbs and spares suit rough handling.",
     "specs": [
       "200 ft, 60 S11 bulbs",

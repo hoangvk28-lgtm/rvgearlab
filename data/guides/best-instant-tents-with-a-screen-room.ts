@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51g+vlEUcYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DW7Y2SFM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DW7Y2SFM?tag=rvgearlab-amz-20",
     "description": "The Timber Ridge 8 Person Instant Pop Up Cabin Tent measures 14 x 8 ft with a 78 inch peak and a hub design. A screen room offers a big bug-free relaxing area, and a room divider splits the tent into two rooms.\n\nUnlike the Portal, it combines a hub frame with 150D fabric and a 2000mm waterproof coating. It also fits 3 queen air mattresses, with a top mesh skylight, a PVC window and two mesh windows.\n\nIt is the best fit for families who want one instant tent that sleeps, divides and has a screened sitting area. It sets up in a few minutes.",
     "specs": [
       "14 x 8 ft, 78 in peak",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41rG0TUkNoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FX2TXDN4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FX2TXDN4?tag=rvgearlab-amz-20",
     "description": "The Portal comes as a 6 or 8 person tunnel tent with a screen porch, and the 8 person version listed here measures 14 ft of tent plus a 6 ft screen room by 8 ft and 76 inches high. It uses a quick-pitch frame and fits 2 full-size air beds.\n\nIt adds a 6 ft screen room and costs less than the Timber Ridge, with 66D water-resistant fabric and a removable rainfly. Improved fiberglass poles resist bending, and the mesh ceiling, windows and doors give an open view.\n\nA couple or a small family that wants a quick-pitch tent with a screen room at a modest price will like it. The tunnel shape gives it a long, narrow plan.",
     "specs": [
       "14 ft tent plus 6 ft screen room",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51a7OPwd2CL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G4WB7P5C?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G4WB7P5C?tag=rvgearlab-amz-20",
     "description": "The Alvantor 10 x 10 Pop Up Screen House weighs 15 lb, which the listing says is one-third lighter than traditional designs. It has six full mesh panels for 360 degree airflow, UPF 50+ sun protection and a double-sided zipper entrance.\n\nIt is the only screen house here with a listed weight, and it ships with 6 sandbags, 12 guylines and 12 metal stakes. It costs more than the VEVOR and Overmont.\n\nIt suits campers who want a portable bug-proof gazebo to pitch beside a regular tent. It also suits picnics and backyard use.",
     "specs": [
       "10 x 10 ft pop-up screen house",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51WFRYO2BEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G4T6HVD3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G4T6HVD3?tag=rvgearlab-amz-20",
     "description": "The VEVOR 10 x 9.2 ft Pop Up Screen House with Awning is rated for 4 to 8 people. It uses reinforced steel and fiberglass poles and 360 degree high-density mesh walls under a 300D Oxford roof.\n\nIt is the only screen house here with an awning, and its kit includes 2 support poles, 3 fiberglass poles, 14 ground stakes and 2 canopy ropes. It costs less than the Alvantor and slightly more than the Overmont.\n\nIt fits a group that wants shade and bug protection over a picnic table. Tool-free assembly keeps setup short.",
     "specs": [
       "10 x 9.2 ft, 4 to 8 people",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51R6kSwG8SL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GKGDLBZH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GKGDLBZH?tag=rvgearlab-amz-20",
     "description": "The Overmont 10 x 10 Pop Up Gazebo Screen Tent has a 10 ft diameter and a 6.8 ft center height, sheltering up to 8 people. A full-open door lets the outer curtain roll up and the inner mesh hook open.\n\nIt adds 4 wind cloths for privacy and comes with 10 ground stakes and 7 tie-down ropes. It is the lowest-cost pick here, and two people can set it up without tools.\n\nIt suits budget campers who want a basic screen room beside a tent. It also works for backyard gatherings.",
     "specs": [
       "10 ft diameter, 6.8 ft center",

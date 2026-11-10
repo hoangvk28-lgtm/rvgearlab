@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/310JFcTPccL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B5ZT71QB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B5ZT71QB?tag=rvgearlab-amz-20",
     "description": "The MAGCOMSEN Women's Softshell has a waterproof-coated softshell face, a warm fleece lining and a ripstop fabric the listing calls wear and scratch resistant. Two front zipper pockets and a mid-waist with an elastic side part complete the build.\n\nCompared with the BenBoy Women's, it leans on ripstop toughness over a windproof build. Against the Wespornow Women's, it is the more weather-resistant of the two softshells.\n\nIt suits women who want one dependable pant for wind-whipped lava fields and cold hikes. The fleece keeps the legs warm at stops.",
     "specs": [
       "Waterproof-coated softshell",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31X-DeyFySL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B076C87R7T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B076C87R7T?tag=rvgearlab-amz-20",
     "description": "The BenBoy Women's Windproof is made of 92 percent polyester and 8 percent spandex that the listing describes as waterproof, windproof and warm. A fleece lining, an adjustable waistband with a belt and zippered thigh cargo pockets finish the build.\n\nIt focuses on wind blocking where the MAGCOMSEN focuses on scratch resistance. Compared with the baleaf Women's, it adds insulation that suits colder months.\n\nIt suits women who cross open, windy terrain and need a warm barrier. The knee darts help with stepping up.",
     "specs": [
       "92% polyester, 8% spandex",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31fVCnZM+KL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08GKQD491?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08GKQD491?tag=rvgearlab-amz-20",
     "description": "The Wespornow Women's Insulated is a fleece-lined softshell with a water-repellent windproof coating that the listing describes as breathable. Front slant pockets, a back zipper pocket and a zipped thigh pocket round out the cut, with special knee design for mobility.\n\nIt costs less than the MAGCOMSEN and BenBoy options and keeps the same soft-shell idea. Against the baleaf Women's, it brings real warmth.\n\nIt suits women who want an affordable insulated layer for chilly Icelandic evenings. The knee design prevents bunching on steps.",
     "specs": [
       "Fleece-lined softshell",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31sfsMwKLmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07MPC64CM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07MPC64CM?tag=rvgearlab-amz-20",
     "description": "The baleaf Women's Quick-Dry is made of lightweight, water-resistant fabric with UPF 50+, four zip-closure pockets and adjustable cuff cord locks. Articulated knees and an elastic waist add comfort, and petite and tall lengths are offered.\n\nAgainst the insulated softshells, it is the light layer you wear on mild days or beneath a rain shell. It also costs the least of the women's trail pants here.\n\nIt suits women who want a dry-fast base pant for long walking days. Cuff cords keep bugs and wind out of the leg.",
     "specs": [
       "Quick-dry, water-resistant fabric",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31T7rtsFhhL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08W2782Y4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08W2782Y4?tag=rvgearlab-amz-20",
     "description": "The 33,000ft Women's Rain Overpants have a 5000mm waterproof rating, fully seam-sealed TPU membrane construction and a mesh lining. A half leg zip with Velcro ankle closures lets you pull them on over boots, and flap pockets add storage.\n\nIt is the only truly waterproof layer in the lineup, which makes it the safety net for the softshells. It packs light into a daypack.\n\nIt suits women who want guaranteed rain protection near waterfalls and during downpours. The breathability rating is listed at 5000g/m2/24hr.",
     "specs": [
       "5000mm waterproof rating",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31NOqMucNOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GL8FPSQQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GL8FPSQQ?tag=rvgearlab-amz-20",
     "description": "The Moosehill Men's Trail has seven pockets, including a right pocket with an inner sleeve for a 6.7-inch phone, a snap and hook-and-loop fly and 4-way stretch fabric. A water-repellent coating sheds light rain and dew, and a crotch vent boosts airflow.\n\nIt is the only men's pick, and it plays the same role as the baleaf Women's as a light trail layer. Pair it with a rain shell and a fleece base.\n\nIt suits men who want a stretchy, pocket-rich pant for long walks and travel. The D-rings clip gear.",
     "specs": [
       "Seven pockets with phone sleeve",

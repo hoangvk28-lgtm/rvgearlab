@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41QOKH0ETDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H98TT1MN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H98TT1MN?tag=rvgearlab-amz-20",
     "description": "The PowerSmart lists 4000 starting and 3200 running watts at just 59 dBA from 23 ft. Its panel has a 20A household outlet, a 30A L5-30R twist-lock, a 12V DC port and two USB ports, with Eco Mode on board.\n\nIt is the only pick here that backs the quiet claim with a decibel figure measured at 23 ft. Compared with the WEN 4800W it gives 800 fewer running watts at a lower price.\n\nIt suits campers who need a quiet 3200W generator for a trailer, a fridge and lights. A second unit can be paralleled with a separate kit.",
     "specs": [
       "3200 running, 4000 starting watts",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Ja7YiNicL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D3WW1CSQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D3WW1CSQ?tag=rvgearlab-amz-20",
     "description": "The WEN DF480i lists 4800 surge and 4000 rated watts on gasoline and 4320 surge and 4000 rated on propane. Electric start, a CO Watchdog shutdown, four 120V receptacles and a TT-30R RV outlet are included.\n\nIt is the only electric-start, dual-fuel pick here, and the biggest in output. Compared with the gas-only WEN 4800W it adds propane and electric start at a higher price.\n\nIt suits larger campers and RV owners who want quiet inverter power with the option of propane. Wheels and a telescoping handle help move the unit.",
     "specs": [
       "4000 rated watts, gas or propane",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/5152RZuvf6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C1QF2SCF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C1QF2SCF?tag=rvgearlab-amz-20",
     "description": "The WEN 56477i delivers 4800 surge and 4000 rated watts from a 224cc engine with wheels, a telescoping handle and four 120V outlets. A TT-30R RV outlet, a 12V DC outlet and a CO Watchdog shutdown are all listed.\n\nIt matches the WEN DF480i on output and saves the cost of dual fuel and electric start. Against the PowerSmart it gives 800 more running watts and a CO shutdown.\n\nIt suits RV owners who run an air conditioner and want gas only. A three-year warranty is listed.",
     "specs": [
       "4000 rated, 4800 surge watts",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41yjv-sIONL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B085828BQ6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B085828BQ6?tag=rvgearlab-amz-20",
     "description": "The WEN 56235i produces 2350 surge and 1900 rated watts and weighs just 39 lb. Its name stresses super quiet operation, and a fuel shutoff protects the carburetor.\n\nIt is the only pick in the group with a listed weight that low. Compared with the BILT HARD it has lower startup output and lists no parallel option.\n\nIt suits car campers who need chargers and lights at a quiet camp. The clean power is rated for phones, tablets, TVs and computers.",
     "specs": [
       "1900 rated, 2350 surge watts",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41foXvygQkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F4KRS57W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F4KRS57W?tag=rvgearlab-amz-20",
     "description": "The BILT HARD gives 2500 starting and 2000 running watts as pure sine under 3 percent THD from an 80cc engine. A CO sensor shuts the engine down, and the 1.11 gal tank runs up to 5.5 hours at 50 percent load.\n\nIt is the cheapest pick and still lists CO shutdown. Compared with the WEN 2350W it adds CO protection and a parallel option.\n\nIt suits budget campers who want a quiet, CO-protected generator. Two 120V outlets and a 12V DC output cover camp devices.",
     "specs": [
       "2000 running, 2500 starting watts",

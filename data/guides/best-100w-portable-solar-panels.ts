@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/412e0s8giHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B079JVBVL3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B079JVBVL3?tag=rvgearlab-amz-20",
     "description": "The Renogy kit lists 25 percent N-type cells, a pre-installed waterproof 20A PWM charge controller and alligator clip cables. It folds into a suitcase-sized case at 17.42 lbs, with low-iron tempered glass, an aluminum frame and an IP65 junction box.\n\nNo other panel here pairs a built-in controller with a rigid glass panel, so it charges a 12V battery with no extra parts. The CTOLITY and DOKIO need extra gear or run as station panels.\n\nIt suits van and trailer owners who want a ready-to-use kit for a 12V battery. The bypass diodes reduce losses from shade hotspots.",
     "specs": [
       "25% N-type, 20A PWM controller",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41O9ZbgIgkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CR42CFJ9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CR42CFJ9?tag=rvgearlab-amz-20",
     "description": "The ZOUPW lists 23.5 percent A+ cells, a 5-in-1 connector cable, IP67 ETFE and a weight of 9.48 lbs with a magnetic carry handle. A built-in hub offers 1 USB-C PD at 15V/3A and 2 USB-A ports.\n\nIt offers more connector types than the 4-in-1 cables on the SOKIOVOLA and DOKIO, and adds a USB hub the EBL does not state. It costs a little less than the EBL.\n\nIt suits campers with several brands of station. The magnetic handle makes the folded panel easier to carry.",
     "specs": [
       "23.5% cells, 9.48 lbs",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41C0dipdfdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B8YVBHXG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B8YVBHXG?tag=rvgearlab-amz-20",
     "description": "The EBL lists 23 percent efficiency, two kickstands that hold a 45 degree angle and IP65 water resistance. The kit includes MC4 to Anderson and MC4 to DC5521 cables plus two adapters.\n\nIt leans on the kickstand tilt, while the ZOUPW leans on connector count. Against the CTOLITY, it adds more included adapters and is aimed at 300, 500 and 1000 stations.\n\nIt suits campers who set up on flat ground and want an angled, stable panel. The adapters cover common plug sizes.",
     "specs": [
       "23% efficiency, 2 kickstands",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41GQs7zcmlL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H2J3T7TF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H2J3T7TF?tag=rvgearlab-amz-20",
     "description": "The CTOLITY lists 19.8V/100W output with an XT60 connector, supporting 12V batteries up to 12A max. It uses 23.7 percent monocrystalline cells, a bifold design with adjustable kickstands and ETFE lamination rated for 10 to 70 degrees Celsius.\n\nIt lists series and parallel connection so two panels double the output, which the EBL does not state. It is the lowest-priced pick here, a few cents under the DOKIO.\n\nIt suits campers who plan to add a second panel later. The temperature range is stated for hot sites.",
     "specs": [
       "19.8V, 100W with XT60",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Jq3ZcWPBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CRB3DFRV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CRB3DFRV?tag=rvgearlab-amz-20",
     "description": "The SOKIOVOLA lists a weight of 4.6 lbs, a folded size of 14.69 x 8.67 x 1.78 inches and an 18V IP68 rating. It includes a 7.2 ft 4-in-1 extension cable.\n\nIt is the lightest panel in this list and about a quarter of the weight of the Renogy kit. Compared with the ZOUPW, it gives up USB ports for a lighter body.\n\nIt suits hikers and bike campers who carry the panel on their back. The long cable allows shade for the station.",
     "specs": [
       "4.6 lbs, 14.7 in folded",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51qFGApIH+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0748FYFSK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0748FYFSK?tag=rvgearlab-amz-20",
     "description": "The DOKIO lists 6 lbs, a 19 x 26 x 0.5 inch fold, a 9.84 ft cable and a standalone PWM controller. USB ports run phones and small gadgets from a 12V battery.\n\nIt offers a controller like the Renogy kit at under a third of the cost. It is also slimmer than the SOKIOVOLA when folded flat.\n\nIt suits budget campers charging a small 12V battery. The listing warns some stations cap input, so full 100W may not reach the battery.",
     "specs": [
       "6 lbs, 0.5 in thick folded",

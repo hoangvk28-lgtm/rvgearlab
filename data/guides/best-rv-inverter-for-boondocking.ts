@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41scJnc8OTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07ZNTXN7P?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07ZNTXN7P?tag=rvgearlab-amz-20",
     "description": "The Giandel 2200W is a pure sine wave inverter listed to ETL UL458, with 20 amp hardwire terminal blocks and a 15 ft remote with LED display. At $298.96 it is the most carefully built pick here for a permanent dry-camping install, and the isolated input and output design plus soft start suit sensitive electronics.\n\nAgainst the BELTTT 1500W it costs $158.97 more, and that money buys 700W more continuous headroom, a safety listing and a hardwire output instead of plug-in sockets. Pick this if you run a microwave or coffee maker off the bank and plan a bolted-down install. Caveat: at 2200W full load it pulls about 183 amps at 12V, so the listing does not tell you the cable size or battery bank you still need to supply.",
     "specs": [
       "2200W pure sine wave",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41xwo3dz3xL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DCJPZXQV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DCJPZXQV?tag=rvgearlab-amz-20",
     "description": "The BELTTT 1500W is a pure sine wave unit rated 1500W continuous and 3000W surge, with dual AC sockets, a 5V 2.1A USB port, a smart LCD, 3 ft cables and an installation tool in the box. At $139.99 it is the practical middle of this group for people who boondock with a laptop, TV and small kitchen gear.\n\nIt sits $158.97 under the Giandel 2200W and $70.00 above the OLTEANP 1000W. You give up the Giandel's hardwire blocks and listed rating, but gain real pure sine output for 700W less capacity. Pick this if your 24-hour profile peaks near 1000W. Caveat: the included 3 ft cables are short, and 1500W draws about 125 amps at 12V, so plan a heavier cable run and a fuse.",
     "specs": [
       "1500W continuous, 3000W surge",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/517gG7GO9QL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GCDWHKHM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GCDWHKHM?tag=rvgearlab-amz-20",
     "description": "The TOPBULL 4000W is the largest unit here, with a color display, remote control and a listed 10 fold protection set. At $189.99 it offers the most watts per dollar, and its high-frequency transformer design keeps it lighter than a low-frequency unit of similar size.\n\nIt costs $49.99 more than the BELTTT 1500W and $108.97 less than the Giandel 2200W while offering far more raw capacity. Pick this only if your bank can feed it: 4000W is roughly 333 amps at 12V, which needs a 24V or 48V system or very heavy cabling. Caveat: the listing excerpt does not clearly state pure sine output, so confirm the waveform before powering a CPAP or other sensitive gear.",
     "specs": [
       "4000W rated",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ctUZeiwqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CQY798SV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CQY798SV?tag=rvgearlab-amz-20",
     "description": "The OLTEANP 1000W gives 1000W continuous and 2000W peak, with six listed protections, a temperature controlled cooling fan and an LCD that shows voltage and battery status. At $69.99 it is the cheapest way to run laptops, lights and phone chargers during a weekend off grid.\n\nIt is $70.00 cheaper than the BELTTT 1500W, but the listing frames it for car and truck camping, so treat it as a light-duty tool for a small battery. Pick this if your profile is under about 600W and you want a spare or starter unit. Caveat: the excerpt does not state the waveform or idle draw, so avoid running motor loads on it.",
     "specs": [
       "1000W continuous, 2000W peak",

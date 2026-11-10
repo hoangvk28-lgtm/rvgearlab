@@ -27,7 +27,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41CXrXrT9TL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GLQ694TL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GLQ694TL?tag=rvgearlab-amz-20",
     "description": "The Solarapex 200W is a flexible solar panel with double fiberglass reinforcement and an ETFE surface, rated IP68 and 200 watts, suitable for 12V and 24V systems. It weighs about 9.9 pounds, is about 2.6 millimeters thick and flexes up to 270 degrees, so it can follow a curved roof instead of fighting it. It costs $159.99.\n\nThere is no sibling pick in this guide, so the useful comparison is a rigid framed panel. A rigid panel of similar wattage is considerably heavier and needs mounting brackets and drilled holes, but it gets airflow underneath and is easier to replace. Next to a rigid panel, the Solarapex adds almost no height, creates no wind drag and avoids roof penetrations. Against a portable folding panel, it stays on the roof permanently and charges whenever the sun is out.\n\nThis is the pick for owners of vans, small travel trailers and curved-roof campers who want a low-profile, drill-free install and are willing to prepare the roof carefully. At under 10 pounds for 200 watts, it also suits rigs that are sensitive to roof weight.",
     "specs": [
       "200W, 12V and 24V",

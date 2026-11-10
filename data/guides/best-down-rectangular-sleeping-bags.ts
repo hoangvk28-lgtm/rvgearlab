@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zehAIjc-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GVCD428X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GVCD428X?tag=rvgearlab-amz-20",
     "description": "The HLITMOUT XXL is a true rectangular down bag, 90.55 by 39.37 inches, with 680 fill power duck down and 1.77 lb of fill. The listing gives a range of 17.6 to 40 degrees F and says it can be fully unzipped into a blanket.\n\nIt is the roomiest and has the highest fill power of the group, and it costs less than the Kelty Galactic. Two near-identical listings were merged into this pick.\n\nIt suits tall or broad sleepers who want a down bag without a mummy squeeze. The 17.6F end is the low point, not comfort.",
     "specs": [
       "Rectangular, 680FP duck down",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41+zD-sMB4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09QSM1W8F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09QSM1W8F?tag=rvgearlab-amz-20",
     "description": "The OMVMO is a rectangular down bag labeled 15 degrees F, built from over 80 independent 3D insulation lofts in a 400T 20D nylon shell with DWR coating. Left and right zip versions combine into a double, and draft tubes sit around the shoulders and zipper.\n\nIts 15F label is colder than the HLITMOUT's printed 17.6F low point, and draft tubes guard the shoulders and zipper. It costs more than the HLITMOUT.\n\nIt suits couples or campers who want to zip two down bags together. The DWR shell helps in damp air.",
     "specs": [
       "Rectangular down, 15F label",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41LUtgM45LL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DBVN1GKS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DBVN1GKS?tag=rvgearlab-amz-20",
     "description": "The QEZER is a semi-rectangular 600 fill power duck down bag, 88.58 by 31.5 inches, with a comfort of 44.6 to 28.4 degrees F and a limit of 17.6 degrees F. It weighs 3.18 lb, packs to 13.78 by 7.48 inches, has a foot zipper and combines with a second bag.\n\nIt prints weight, pack size and both ratings, a level of detail the OMVMO and HLITMOUT listings lack. It is slimmer than the HLITMOUT.\n\nIt suits campers who want honest figures and a semi-rectangular shape. A lighter 1.68 lb version of the line also exists.",
     "specs": [
       "600FP, 88.58 x 31.5 in",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/412MHL+E9DL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B096SXWTCP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B096SXWTCP?tag=rvgearlab-amz-20",
     "description": "The Kelty Galactic Down 30 uses 550 fill power RDS-traceable down, 21 oz of fill, a total weight of 2 lb 14 oz and a stuffed size of 15 by 8 inches. It fits sleepers to 6 ft and has 2-way zippers and a cinch cord at the midsection.\n\nCarrying a 30 degree label and a known brand name, it zips together with a second Galactic 30 for a 2-person setup. The listing does not name the shape, so check photos.\n\nIt suits campers who want a proven down bag for cool nights. It is the most expensive in the group.",
     "specs": [
       "550FP RDS down, 21 oz",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51+ABMsV1EL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F8BDT2V1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F8BDT2V1?tag=rvgearlab-amz-20",
     "description": "The Naturehike CW295 is a short-size ultralight down bag with 295 g of duck down in individual channels, weighing 1.3 lb. It unfolds to 74.8 by 28.3 inches in the short size and 78.74 by 31.5 inches in the CWM400 medium.\n\nIt is the lightest and smallest pick here, and it costs the least. The listing does not name the shape, and the short cut is narrower than any rectangle.\n\nIt suits shorter, weight-conscious campers who want down. Check the size chart before ordering.",
     "specs": [
       "295 g of duck down",

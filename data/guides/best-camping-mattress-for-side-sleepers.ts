@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41DSScd44AL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DSVSXGHG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DSVSXGHG?tag=rvgearlab-amz-20",
     "description": "The Lost Horizon Option3 is a 4.5 inch self-inflating foam camping mattress with 5.5 lb of foam filling. It mixes foam and air for adjustable softness, with a stable and quiet surface.\n\nNext to the Kingfun, it is 1.5 inches thicker and adjusts firmness. Against the ZOOOBELIVES, it adds foam support.\n\nIt suits side sleepers who want the thickest, most adjustable mattress. The twist valve inflates easily.",
     "specs": [
       "4.5 inch self-inflating foam",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51r7csSSHsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B56SDK26?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B56SDK26?tag=rvgearlab-amz-20",
     "description": "The Kingfun mattress is a 3 inch two-layer foam pad with 1 inch of gel-infused memory foam over 2 inches of high-density support foam. A waterproof TPU-coated cover and anti-slip bottom come with a travel bag.\n\nCompared with the HomeMate, it adds a gel layer and a waterproof cover. Against the Lost Horizon, it is thinner and needs no inflating.\n\nIt suits side sleepers who want a firm foam base. The waterproof cover handles damp tents.",
     "specs": [
       "3 inch gel memory foam",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41fuTL8hjYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07RP5C7QK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07RP5C7QK?tag=rvgearlab-amz-20",
     "description": "The ZOOOBELIVES pad has 4 inch full air chambers designed for side sleepers, keeping hips and shoulders off the ground. It has an integrated foot pump and a secure valve with a quiet surface.\n\nCompared with the foam picks, it packs far smaller. Against the Lost Horizon, it is a pure air pad with edge-to-edge air support.\n\nIt suits side sleepers who also want to pack light. The foot pump needs no batteries.",
     "specs": [
       "4 inch full air chambers",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51xwH7BBZ5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BXPF92LT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BXPF92LT?tag=rvgearlab-amz-20",
     "description": "The HomeMate mattress pad is 3 inch memory foam over high-density support foam with roll-up straps and a zipper cover. It is sold for car, tent and cot use.\n\nCompared with the Kingfun, it costs less. Against the Uniqwamer, it is thicker and has a zipper cover.\n\nIt suits side sleepers on a budget who want a foam base. The zipper cover washes easily.",
     "specs": [
       "3 inch memory foam",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41RyqWDgEFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H3T8J54N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H3T8J54N?tag=rvgearlab-amz-20",
     "description": "The Uniqwamer mattress is 74.8 by 27.56 inches high-density foam with a double-sided lamb fleece cover. It weighs about 2 kg, and the fleece top is meant to lock in warmth on cool nights.\n\nCompared with the HomeMate, it is lighter and warmer to the touch. Against the Kingfun, it is narrower.\n\nIt suits side sleepers on cool nights who want a soft surface. It rolls up for transport.",
     "specs": [
       "74.8 x 27.56 inch foam pad",

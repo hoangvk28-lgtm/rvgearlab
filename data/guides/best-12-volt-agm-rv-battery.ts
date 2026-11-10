@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31hWBJ9YLXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B075RGX1WR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B075RGX1WR?tag=rvgearlab-amz-20",
     "description": "The Renogy 12V 200Ah is a sealed AGM battery made with thick absorbent glass mat separators and valve-regulated construction, so it needs no watering. Its listing describes quinary alloy plates and treated plate grids for low internal resistance, a monthly self-discharge below 3 percent at 77°F, which it says is five times lower than flooded batteries, and stable performance below 32°F. It stores 2,400Wh nominal.\n\nIt ranks first because capacity is what you actually pay for. At $296.30 it costs $107.39 more than the VEVOR 100Ah but holds twice the amp-hours, so at a 50 percent limit its estimated cost is about $247 per usable kilowatt-hour against about $315 for the VEVOR. It has no cranking rating, unlike the Weize and Interstate dual-purpose batteries, so it is a pure house battery.\n\nChoose it when you want a single large AGM house battery for a trailer with a fridge and an inverter. The caveat is weight and size: no dimensions are listed, and a 200Ah AGM is a heavy, large case, so measure the tray before buying.",
     "specs": [
       "12V 200Ah, 2,400Wh",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31PS-imPR7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CVX5SQC5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CVX5SQC5?tag=rvgearlab-amz-20",
     "description": "The VEVOR 12V 100Ah is a deep-cycle AGM battery measuring 13.0 by 6.7 by 8.4 inches. The listing quotes a maximum discharge of 800A for 5 seconds, a no-maintenance sealed design and suitability for RVs, trailers, solar and marine use. It stores 1,200Wh nominal, and it is built to be cycled rather than to crank an engine.\n\nIt ranks second because it is the cheapest true deep-cycle battery here at $188.91, which is $1.08 less than the Weize 27M and $107.39 less than the Renogy 200Ah. Compared with the Weize 27M, a 100Ah deep-cycle battery gives more usable energy than a 92Ah dual-purpose one, about 600Wh against 552Wh by our 50 percent estimate, for essentially the same price. It trails the Renogy 200Ah because you pay more per usable watt-hour.\n\nPick this when a single 100Ah AGM is enough and you want it cheap. The caveat is that the listing's self-discharge wording is unclear, so the monthly storage loss is not stated plainly, and you should keep it charged over winter.",
     "specs": [
       "12V 100Ah, 1,200Wh",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41y5-nzWEhL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CJVHQRHB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CJVHQRHB?tag=rvgearlab-amz-20",
     "description": "The Weize Group 31M is a dual-purpose AGM rated 12V 110Ah with 240 minutes of reserve capacity and 825 cold cranking amps. The listing highlights low internal resistance, a quick-charge capability, a leak-proof valve design and resistance to vibration. At 1,320Wh nominal it is the largest dual-purpose battery in this comparison.\n\nIt ranks third because it blends two jobs. It costs $239.99, which is $19.96 less than the Interstate Group 24 and $50 more than the Weize 27M, but it carries 110Ah against 70Ah and 92Ah in those. By our 50 percent estimate that is 660 usable watt-hours at roughly $364 per kilowatt-hour, worse than the true deep-cycle Renogy and VEVOR but far better than the Interstate.\n\nChoose it for a motorhome or tow rig where one battery may also have to crank an engine and run house loads. The caveat is that dual-purpose plates are thinner than true deep-cycle plates, so frequent deep discharges will age it faster than the Renogy.",
     "specs": [
       "Group 31M, 110Ah",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41UbW9RSctL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CRQRMKFC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CRQRMKFC?tag=rvgearlab-amz-20",
     "description": "The Weize Group 27M is a dual-purpose AGM rated 12V 92Ah with 175 minutes of reserve capacity and 580 cold cranking amps. It shares the Group 31M's low-resistance design, quick-charge feature, leak-proof valves and vibration resistance in a smaller case, and stores 1,104Wh nominal.\n\nIt ranks fourth. It costs $50 less than the Weize 31M and $1.08 more than the VEVOR 100Ah, so you pay the same as a true deep-cycle battery but receive 8Ah less and a cranking rating instead. By our 50 percent estimate it provides about 552 usable watt-hours, roughly $344 per kilowatt-hour. It makes sense only if the cranking ability matters to you.\n\nChoose it for a smaller rig that needs one battery to start a generator engine or a boat motor and also run lights. The caveat is that it offers less capacity than either the VEVOR 100Ah or the Weize 31M, so a fridge-and-inverter setup will drain it fast.",
     "specs": [
       "Group 27M, 92Ah",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/415V9jWpIoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BHTWRDNQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BHTWRDNQ?tag=rvgearlab-amz-20",
     "description": "The Interstate Group 24 is a dual-purpose AGM rated 12V 70Ah with 750 cold cranking amps. Its listing describes pure non-alloy lead, a service life of two to three times a conventional battery and extreme deep-cycle power as a combined cranking and trolling-motor battery. It stores 840Wh nominal in the standard Group 24 footprint.\n\nIt ranks fifth because you pay for the name and cranking power, not for capacity. At $259.95 it costs $19.96 more than the Weize 31M and $79.46 more than the Uplus 24M, yet delivers only 70Ah, about 420 usable watt-hours at a 50 percent limit, which works out near $619 per kilowatt-hour, the highest here. In return you get the strongest cranking rating on the list, 750 CCA.\n\nPick it if you want a recognized brand in a Group 24 tray and engine starting matters more than endurance. The caveat is cost per usable watt-hour: if you only run house loads, the Renogy 200Ah is about 2.5 times cheaper per usable kilowatt-hour.",
     "specs": [
       "Group 24, 70Ah",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ErUzfS4yL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FDQRKM25?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FDQRKM25?tag=rvgearlab-amz-20",
     "description": "The Uplus Group 24M is a dual-purpose AGM rated 12V 79Ah with 150 minutes of reserve capacity and 550 cold cranking amps. The listing says it can start engines from 70 to 350 horsepower, claims exclusive vibration-resistance technology for wave pounding and trailer transport, and describes thicker full-frame cast plates. It stores 948Wh nominal.\n\nIt is last on value but cheapest at $180.49, which is $8.42 less than the VEVOR 100Ah and $79.46 less than the Interstate Group 24. Against the Interstate it offers 9Ah more at a lower price, while the Interstate has 200 more cranking amps. Its estimated cost is about $381 per usable kilowatt-hour on 474 usable watt-hours, so it is neither the cheapest per watt-hour nor the most powerful.\n\nThis is for a budget Group 24M replacement where you need both starting ability and some house capacity, such as a small motorhome or a trailer that also starts a portable generator. The caveat is that the listing is written for boats, so check the case dimensions against your RV tray before ordering.",
     "specs": [
       "Group 24M, 79Ah",

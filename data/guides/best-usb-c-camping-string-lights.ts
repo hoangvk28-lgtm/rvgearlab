@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31hL+wilmEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DXQQYF7X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DXQQYF7X?tag=rvgearlab-amz-20",
     "description": "The BioLite has a 44 ft nylon-braided string with 20 shatterproof bulbs and 40 warm white LEDs. A 4000mAh battery lists up to 40 hours on low or 8 hours on high, fills over USB-C in 3 to 5 hours and outputs through USB-C and USB-A on a detachable hub.\n\nIt is the only pick with a detachable power hub that charges devices, and the only one with a stated high and low runtime. Against the Sikitul, it trades length for a bigger battery and an IPX4 rating.\n\nIt suits campers who want one reliable, repeat-use string for campsite, patio and backyard. The string stays in place while the hub recharges.",
     "specs": [
       "4000mAh, 40 hours low",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/515+ZP0yOkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GHWRY41M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GHWRY41M?tag=rvgearlab-amz-20",
     "description": "The Sikitul covers 100 ft with 35+1 shatterproof LED bulbs, a solar panel and a USB-C cable for backup. A remote offers three lighting modes, a timer and a dimmer, and the listing notes weather-resistant construction.\n\nIt reaches more than twice the BioLite's length, and it costs a fraction of the price. The battery size and runtime are not stated, so it trails the BioLite for planning.\n\nIt suits large group sites and pavilions. It runs without outlets or extension cords.",
     "specs": [
       "100 ft, 35+1 bulbs",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41qRYIkFQAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DQC6CCDH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DQC6CCDH?tag=rvgearlab-amz-20",
     "description": "The Zocelight set gives two 32.8 ft reels, each with 19 lighting modes including 4 music-sync modes. A 2200mAh battery fills in 2 hours over USB-C and lists 3.5 to 10 hours of runtime, and each unit weighs 0.6 lbs.\n\nIt is the only camp-style reel of the three, with a two-hour fill that beats the BioLite's 3 to 5 hours. It has no solar panel, unlike the other two.\n\nIt suits campers with two tents or a family camp who want colourful lighting. The 4.72 inch reel packs away easily.",
     "specs": [
       "Two reels, 2200mAh each",

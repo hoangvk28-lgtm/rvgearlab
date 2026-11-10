@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Oxj4rK63L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FQ55D8TQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FQ55D8TQ?tag=rvgearlab-amz-20",
     "description": "The NEMO Tempo Women's 20F is a spoon-shaped synthetic bag with Zerofiber 650 insulation made from 100 percent post-consumer recycled content. It is designed to pack small, hold its loft and keep warming when wet, and the shell is 50D recycled polyester ripstop and taffeta.\n\nIt carries a Blanket Fold oversized draft collar and a 20 degree F rating, which makes it the warmest NEMO here. Against the NEMO Forte Women's 35F it trades the zipper vents for a colder rating.\n\nIt suits cold sleepers who camp in three-season conditions and want room at the knees without losing warmth. The soft recycled fabric feels comfortable against the skin.",
     "specs": [
       "Classic Spoon shape",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31W+JYix8rL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FY3XH47K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FY3XH47K?tag=rvgearlab-amz-20",
     "description": "The NEMO Forte Women's 35F pairs the Classic Spoon shape with Zerofiber 800 recycled synthetic insulation and a Blanket Fold collar. Thermo Gill vents on a multistage zipper extend the comfort range.\n\nThe Thermo Gill system is unique in this list and lets a warm sleeper cool the bag without unzipping fully. Against the NEMO Tempo Women's 20F it rates at 35 degrees F, so it suits milder nights.\n\nIt suits women who run hot or camp across a wide temperature range, from cool mornings to warm afternoons. The Blanket Fold collar can open up to release extra heat.",
     "specs": [
       "Classic Spoon shape",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31pP6A9l4LL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DSVLMTWX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DSVLMTWX?tag=rvgearlab-amz-20",
     "description": "The Sea to Summit Hamelin is a women's synthetic bag rated 30 degrees F with a Women's Contour shape and body-mapped Revive Loft insulation. The Long size measures 78 by 31 inches, weighs 3.63 lb and fits users up to 6 feet.\n\nA Free Flow full-length side zipper with double sliders opens the bag into a flat quilt. Snaps at the shoulders and a footbox zipper let you wear it around camp, which none of the NEMO or Big Agnes bags describe.\n\nIt suits women who want a multi-purpose bag for camp lounging and warm-weather trips. The recycled fabrics carry a non-PFAS water-repellent finish.",
     "specs": [
       "30 degrees F, 3.63 lb Long",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/318mYs8vXBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FQ2FRVK9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FQ2FRVK9?tag=rvgearlab-amz-20",
     "description": "The Big Agnes Anthracite is a 20 degree women's bag with FireLine Pro Eco recycled synthetic insulation and a tailored fit with increased insulation. The Long size fits up to 6 feet, weighs 3 lb 9 oz and compresses to 11 by 10 inches.\n\nIt has a two-way anti-snag zipper on the right side and can mate with men's or unisex bags, which the NEMO Tempo does not describe. Against the Sea to Summit Hamelin it is warmer at 20 degrees F and about the same weight.\n\nIt suits women backpackers who share a tent with a partner or want one of the smallest packed sizes. The shell and lining use a PFAS-free water-repellent finish.",
     "specs": [
       "20 degrees F, 3 lb 9 oz",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ve1PCAWIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08WH9QN9R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08WH9QN9R?tag=rvgearlab-amz-20",
     "description": "The Sierra Designs Night Cap 20 is a zipperless women's bag with a comforter-style design, SierraLoft Eco recycled insulation and an integrated pad sleeve. The listing prints a 20 degree F rating, an ISO comfort rating of 34 degrees F and an ISO limit rating of 20 degrees F, with a weight of 3.37 lb.\n\nIt has insulated shoulder pockets that seal out drafts and a self-sealing foot vent for warm sleepers. It costs less than every other bag here, and the pad sleeve stops you sliding off the pad.\n\nIt suits side and stomach sleepers who move around at night and like a comforter feel. The ISO figures make its true comfort range easy to read.",
     "specs": [
       "20 degrees F, ISO comfort 34 degrees F",

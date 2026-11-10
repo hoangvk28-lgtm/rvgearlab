@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Yya9WQGwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DZCQWRPM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DZCQWRPM?tag=rvgearlab-amz-20",
     "description": "The Adoreen is a 30 foot 16/3 SJTW cord with a NEMA 5-15P plug and 5-15R socket, with a 13 amp, 1625 watt rating. The jacket is UV-resistant and oil, chemical and moisture proof, and the listing includes a 2-year refund or replacement warranty.\n\nIt is the only cord in this group that prints a warranty length, and it names the plug type clearly. Compared with the Skrizcable, it prints a standard 5-15 plug where the other lists 5-30 connectors.\n\nIt suits campers who want a plainly specified 30 foot cord for lights, lawn gear and a fan. The warranty adds confidence.",
     "specs": [
       "30 ft, 16/3 SJTW, 13A",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41vNS53E8CL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GWYRFXPS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GWYRFXPS?tag=rvgearlab-amz-20",
     "description": "The Seeklyze is a 30 foot 16 gauge cord with NEMA 5-15P and 5-15R ends, pure copper conductors, 1625 watts (13 amps) at 125 volts and an ETL listing. It lists 2000 or more bend tests, a strain relief at the end and a jacket that stays flexible in cold weather.\n\nIt names camping among its uses and adds non-slip plug sides that make pulling the plug easier. Compared with the Adoreen, it prints a bend test and cold flexibility in place of a warranty.\n\nIt suits cold-season campers who coil and uncoil the cord often. The flexible jacket resists cracking.",
     "specs": [
       "30 ft, 16 gauge, 13A, 1625W",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/418w4u3K-qL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G3ZBMB1W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G3ZBMB1W?tag=rvgearlab-amz-20",
     "description": "The TiFFCOFiO is a 30 foot 16 AWG cord with an ETL mark and a 13 amp limit. Its PVC shell carries a V0 flame rating, and the listing says 30 feet is about 9 meters and describes it for short-distance outdoor power such as patio lights.\n\nIt is the lowest priced of the 30 foot cords. Compared with the Adoreen, it gives up the warranty and UV wording for a lower price.\n\nIt suits campers on a budget who need a basic 30 foot cord. The fire-resistant PVC is a plus near a grill.",
     "specs": [
       "30 ft, 16 AWG, 13A, 1625W",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41lm5bvH60L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G7YY6WDT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G7YY6WDT?tag=rvgearlab-amz-20",
     "description": "The Skrizcable is a 30 foot 16/3 outdoor cord with a 3-strand pure copper core, IP65 vinyl jacket and long strain relief at the plug and socket. It is ETL/cETL listed, at 1625 watts across 13 amps, and the listing says it passed 20,000 large-angle bends.\n\nIt prints the largest bend test of the 30 foot cords and an IP65 rating. Compared with the Adoreen, the plug naming is less clear, since the listing mentions NEMA 5-30 ends alongside a 13 amp rating.\n\nIt suits campers who want IP65 and a tested build for rain-prone sites. The strain relief at both ends protects the cord where it bends most.",
     "specs": [
       "30 ft, 16/3, 13A, 1625W",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41v5W5UKpiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BZNRBXZ2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BZNRBXZ2?tag=rvgearlab-amz-20",
     "description": "The PlugSaf RV cord is 25 feet of 10 AWG STW wire with TT-30P and TT-30R ends, rated 30 amps, 125 volts and 3750 watts. It has an IP65 rating, a grip handle and a flexible jacket for storage.\n\nIt is the only RV cord on the list and carries more than twice the watts of the 16 gauge cords. It is five feet shorter than the 30 foot cords, and the listing says it is 30 amp, not 50 amp.\n\nIt suits RV owners who park a short way from the pedestal. The 10 gauge wire handles an air conditioner or a heater.",
     "specs": [
       "25 ft, 10 AWG STW, 30A",

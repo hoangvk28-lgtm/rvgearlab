@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31vq-VpSMIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7QJ9GYP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7QJ9GYP?tag=rvgearlab-amz-20",
     "description": "The Coleman Skydome with Screened Porch is sold in 4, 6 and 8 person sizes and adds a 10 x 4 ft weatherproof screen room to the front. That porch can double as a sleeping area for 2 people, which is the biggest porch listed here.\n\nNext to the Dark Room version it gives you a longer porch and the same quick pre-attached pole setup, while the Pacific Pass offers a wider, shallower 120 x 47.2 inch screen room. The nearly vertical walls add 20% more headroom than traditional Coleman domes, and the base fits 2 queen airbeds.\n\nIt suits families who want the porch to work as a real extra room, whether that is lounge space on a buggy evening or a spare bed for two kids. The WeatherTec floor and welded corners make it a sound all-around choice for three-season trips.",
     "specs": [
       "10 x 4 ft screen room",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31LJsg+IcNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7QG97H6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7QG97H6?tag=rvgearlab-amz-20",
     "description": "The Coleman Skydome Dark Room is a 4 or 6 person dome that pairs Dark Room technology, which blocks 90% of sunlight, with an 8 x 3 ft 6 in screened porch. The porch converts to a sleeping spot for 1 person or extra storage.\n\nCompared with the standard Skydome Porch, it swaps a bigger porch for a darker, cooler bedroom, and the listing quotes a 3,000mm waterhead fabric rating. Against the Pacific Pass it adds a wide door that makes moving airbeds and sleeping bags easier, plus color-coded red fly corners for quick orientation.\n\nIt is the best fit for campers who nap in the afternoon or sleep past sunrise and still want a bug-free porch. A shift worker or a family with toddlers will notice the dim interior first.",
     "specs": [
       "Blocks 90% of sunlight",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31kdmMvAGdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07WFNKT7M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07WFNKT7M?tag=rvgearlab-amz-20",
     "description": "The Pacific Pass 6 Person Dome has a 120 x 120 inch base, a 68.9 inch center height and a 120 x 47.2 inch screen room, plus a removable rain fly. Two mesh storage bags and a net bag help keep the inside organized.\n\nIt undercuts both Colemans on price and carries a lighter 16.5 lb bag, while its 1200mm waterproof rating sits well below the Dark Room's 3,000mm. The porch is wider than either Coleman porch, which makes it handy as a covered gear garage.\n\nIt is aimed at weekend car campers who want the porch idea at the lowest entry cost. Plan on 3 or 4 people to raise it, since the listing quotes five minutes with that crew.",
     "specs": [
       "120 x 47.2 in screen room",

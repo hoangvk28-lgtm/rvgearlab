@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31eKyYW21GL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08N82L51Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08N82L51Q?tag=rvgearlab-amz-20",
     "description": "Blue Ox's BXW0650 TrackPro states 6,000 lb gross towing and 600 lb tongue weight with a 2-inch receiver, a 7-hole shank and a pre-installed ball. Blue Ox's BXW0650 TrackPro is a weight distribution hitch with spring bars rated 600 lb tongue weight and 6,000 lb gross towing, a 2-inch receiver, a 7-hole shank and a pre-installed 2-5/16 inch ball.\n\nIt includes the shank, unlike the Equal-i-zer 90-00-0601, and states ratings that match a 6,000 lb trailer exactly. It leaves little margin above 600 lb of tongue weight.\n\nBest for a 6,000 lb trailer with a measured tongue weight under about 600 lb. It suits trailers up to 6,000 lb.",
     "specs": [
       "6,000 lb, 600 lb tongue weight",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31cv2MHxAmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B004TR8DUE?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B004TR8DUE?tag=rvgearlab-amz-20",
     "description": "The Equal-i-zer 90-00-0601 states 6,000 lb and 600 lb tongue weight with four-point sway control. The Equal-i-zer 90-00-0601 is a four-point sway control weight distribution hitch rated 6,000 lb trailer weight and 600 lb tongue weight. The title states that it does not include a hitch shank.\n\nIt matches Blue Ox BXW0650 on ratings and adds integrated sway control, but the title says no shank is included. It costs less.\n\nBest for a 6,000 lb trailer that needs always-on sway control. Buy a compatible shank at the same time, since the kit will not work without one.",
     "specs": [
       "6,000 lb, 600 lb tongue weight",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41uKUTDbFFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G1FYZQBR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G1FYZQBR?tag=rvgearlab-amz-20",
     "description": "VEVOR's kit states 10,000 lb and 1,000 lb tongue weight, a comfortable margin above a 6,000 lb trailer. The head is solid carbon steel and the ball is chrome plated.\n\nIt costs far less than the two kits above and leaves headroom if the tongue weight runs high. Its bars may be stiffer than the load needs.\n\nBest for a 6,000 lb trailer with a tongue weight of 800 lb or more. For a 6,000 lb job, verify its ratings against a loaded weigh-in.",
     "specs": [
       "10,000 lb GTW, 1,000 lb TW",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41nNYOYDnQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00FLXTNFY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00FLXTNFY?tag=rvgearlab-amz-20",
     "description": "CURT's 17422 is rated up to 15,000 lb and includes sway control kit 17200. CURT's 17422 is a short trunnion bar weight distribution hitch rated up to 15,000 lb with a 2-inch shank and 2-5/16 inch ball. It includes sway control kit 17200 and 28-3/8 inch forged steel spring bars.\n\nIt has far more rating than a 6,000 lb trailer needs and states no tongue weight. It costs less than the two matched kits.\n\nBest for an owner planning to move up in trailer size. It is a heavy-rated trunnion kit with a bolt-on friction sway bar, so expect to loosen the sway bar when backing sharply.",
     "specs": [
       "15,000 lb, 2-inch shank",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/310MbzOQLkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FW537DQ4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FW537DQ4?tag=rvgearlab-amz-20",
     "description": "CUBELLIN's kit cites 11,500 lb, 6,000 lb and 8,000 lb figures without saying which applies to which part. CUBELLIN's weight distribution hitch kit includes a sway control ball and multiple height adjustment holes. The listing cites 11,500 lb, 6,000 lb and 8,000 lb pulling figures without making clear which applies to which part.\n\nIt is the least clear listing here and costs far less than the others. Ask the seller to confirm ratings.\n\nBest only after the seller clarifies the ratings. Ask the seller to confirm one set of ratings before using it with a heavy trailer.",
     "specs": [
       "11,500 lb rating",

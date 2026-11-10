@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31RnCHCDIDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GHMXFP11?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GHMXFP11?tag=rvgearlab-amz-20",
     "description": "The NOBIS lists up to 90W output with 65W self-recharging from a 20000mAh cell. It has two USB-C ports and two USB-A ports, a display for remaining charge and a low-current mode that keeps small devices running for up to 2 hours without auto-shutdown.\n\nAt 90W it is the closest listing to 80W, and it undercuts the Baseus on price while beating the 65W banks on output. Compared with the INIU, it adds two ports and a display, with no cable listed.\n\nIt suits campers who want near-80W laptop power with enough ports for a phone and a GPS. The low-current mode suits small gadgets.",
     "specs": [
       "Up to 90W, 20000mAh",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4134h1XpaKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DK8V9LSV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DK8V9LSV?tag=rvgearlab-amz-20",
     "description": "The Baseus lists 100W PD fast charging from a 20000mAh cell with a pair each of USB-C and USB-A outputs and a real-time power display. It charges a MacBook Pro to 50 percent in 30 minutes, is slim for a briefcase, and ships with a 100W cable, a 24 month warranty and lifetime support.\n\nIt has the highest output on the list and the 100W cable in the box. Compared with the NOBIS, it adds 10 watts and a cable at a higher price.\n\nIt suits campers with larger laptops or a Steam Deck who want headroom above 80W. UL and IEC certified protection is listed.",
     "specs": [
       "100W PD, 20000mAh",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41NGDcnTEcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DB86W481?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DB86W481?tag=rvgearlab-amz-20",
     "description": "The INIU is a 20000mAh bank with 65W triple-port charging in a body smaller than a standard wallet. A detachable 4.7 inch lanyard cable doubles as a carry handle, and the listing states a MacBook, HP, Lenovo or Dell laptop reaching 50 percent in about 30 minutes.\n\nIt is the smallest on the list and keeps the cable attached to the bank. Compared with the JUOVI, it is smaller and costs a bit more.\n\nIt suits backpackers who want laptop power in a pocketable pack. The listing names Steam Deck charging at full speed.",
     "specs": [
       "20,000mAh, 65W triple port",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31uLnF4lmSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DSFXSYLP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DSFXSYLP?tag=rvgearlab-amz-20",
     "description": "The Ansody lists 25,000mAh with 101W total output shared across two devices, up to 65W to a single device, and three ports (two USB-C and one USB-A). It includes a 3.28 foot 60W cable, a 24 month warranty and lifetime support, and the listing notes real capacity after conversion is about 16,250mAh.\n\nIt has the largest capacity here, at a price close to the JUOVI. It charges a 14 inch MacBook Pro to 50 percent in under 40 minutes, slower than the Baseus.\n\nIt suits campers who want the most phone and laptop charges from one bank. It charges three devices at once.",
     "specs": [
       "25,000mAh, 101W total",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41wxQKrfgJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FWJYX26S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FWJYX26S?tag=rvgearlab-amz-20",
     "description": "The JUOVI lists 65W fast charging from a 20000mAh cell with four ports split evenly between USB-C and USB-A, PD, PPS, QC, FCP and SCP protocols and protection against overvoltage, overload, overheating, overcurrent and short circuit. It is described as airline-compliant.\n\nIt sits at the lowest price with the Ansody and lists the widest set of charging protocols. Compared with the INIU, it is bigger and cheaper.\n\nIt suits budget-minded campers with a 65W ultrabook who want four ports. It auto-shuts when fully charged.",
     "specs": [
       "20000mAh, 65W, 4 ports",

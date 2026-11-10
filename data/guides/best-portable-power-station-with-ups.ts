@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31F8BqUk3HL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FQVC4RF5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FQVC4RF5?tag=rvgearlab-amz-20",
     "description": "The EcoFlow Delta 3 Classic gives 1,024Wh, 1800W output (3600W surge with X-Boost) and a listed UPS switch under 10ms for $499. It charges 0 to 80% in 45 minutes from AC, and the LiFePO4 cells are rated for 10+ years of daily use.\n\nIt costs $69.01 more than the UDPOWER S1200 for 600W more continuous output and a more detailed charging spec. Pick this for protecting a computer or medical device while parked at a site; the caveat is that the listing does not state weight or warranty length.",
     "specs": [
       "1,024Wh LiFePO4, 1800W",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41UO-rypUVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GY6H1YC3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GY6H1YC3?tag=rvgearlab-amz-20",
     "description": "The UDPOWER S1200 offers 1200W (1800W surge) pure sine output, a UPS switch listed under 0.01 seconds, 4,000+ LiFePO4 cycles and 5 AC outlets for $429.99. Its AC charging reaches 80% in 1.5 hours and solar input is up to 400W.\n\nIt costs $190.00 more than the LIBRIDS C600 but doubles the continuous output, adds solar input up to 400W, and adds UL2743 per the title. Pick this if you want a larger inverter at the lowest price; the caveat is that capacity is not given, so check runtime before buying.",
     "specs": [
       "1200W (1800W surge)",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41RxbMjWhZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H9RWG765?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H9RWG765?tag=rvgearlab-amz-20",
     "description": "The LIBRIDS C600 stores 640Wh, outputs 600W (1200W surge) through 4 AC outlets and 8 ports in total, and lists a 10ms UPS switch with pure sine wave output. LiFePO4 cells are rated over 4,000 cycles to 80% for $239.99.\n\nIt costs $10.00 less than the BLUETTI Elite 30 V2 but stores more than twice the energy at about $0.38 per Wh. Pick this for a router, laptop and small fridge during outages; the caveat is that its weight is not stated, so carry may not be easy.",
     "specs": [
       "640Wh LiFePO4, 600W",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41YTEqBbTsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F42HLLSC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F42HLLSC?tag=rvgearlab-amz-20",
     "description": "The BLUETTI Elite 30 V2 stores 288Wh, outputs 600W (1500W in Power Lifting Mode) and lists a 10ms UPS switch at 9.4 lbs for $249.99. It charges 0 to 80% in 45 minutes at 380W wall input.\n\nIt costs $10.00 more than the LIBRIDS C600 for 352Wh less storage, so you are paying for brand support and a lighter body. Against the Elite 10 it adds 137.01 dollars for 160Wh more and triple the output. Pick this for CPAP and storm outages; the caveat is that 288Wh runs a small fridge only a few hours.",
     "specs": [
       "288Wh LFP, 600W",
@@ -133,7 +133,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31VvYAA+NUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FS6429MD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FS6429MD?tag=rvgearlab-amz-20",
     "description": "The BLUETTI Elite 10 Mini is 128Wh, 200W and weighs 4.0 lbs, with a built-in 10ms UPS and a 350W bypass output. It falls in the 100 to 160Wh airline range and recharges in 70 minutes at 150W AC.\n\nAt $112.98 it saves $137.01 against the Elite 30 V2 but has 160Wh less storage and a third of the output. Pick this for a router, camera or gaming handheld; the caveat is that 200W is too low for a CPAP with humidifier plus other loads.",
     "specs": [
       "128Wh, 200W",

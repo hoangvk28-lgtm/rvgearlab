@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51DtPM36PqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CP764W6V?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CP764W6V?tag=rvgearlab-amz-20",
     "description": "KingCamp makes this flannel-lined bag at 90.6 x 35.4 inches, with 300 g/m2 of hollow fiber fill and a polyester shell. The listing prints a comfort temperature of 44F, a limit of 35F and an extreme of 8F, plus a package size of 9.8 x 18.5 inches at 4.85 lb.\n\nIt prints more numbers than any other bag here, and it is longer and wider than the REDCAMP and MEREZA XL. A two-way zipper and a separate footbox zipper add venting, and a roll-control design keeps the compression sack tidy.\n\nA great match for tall campers who want a clear range, a weight and a soft lining. It is a car-camping bag first.",
     "specs": [
       "90.6 x 35.4 inch XL cut",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41oGHWPdapL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0896X17S5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0896X17S5?tag=rvgearlab-amz-20",
     "description": "VENTURE 4TH makes this XXL bag at 90 x 39 inches, with a stated 30 to 70F range for three-season use. The shell is water-resistant polyester, the zippers resist snagging and a lifetime replacement guarantee backs it.\n\nAt 39 inches wide it is the roomiest bag here, beating the KingCamp XL Flannel by almost four inches, and its 30F low end is the lowest stated. It is machine washable and packs into a compression sack.\n\nBest for tall or broad campers who spend spring and fall nights near freezing. The guarantee makes it a safe first buy.",
     "specs": [
       "90 x 39 inch XXL cut",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/419ztLDEs9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B083J7JHV6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B083J7JHV6?tag=rvgearlab-amz-20",
     "description": "REDCAMP makes this XL envelope bag with a ripstop 210T polyester shell, soft flannel lining and 250 GSM hollow cotton fill. It opens to 79 x 33 inches, weighs 4.6 lb and packs to about 8 x 16 inches.\n\nIt costs less than the KingCamp XL Flannel and VENTURE 4TH XXL and is the shortest of the four, yet it prints a 41 to 59F range and a 365-day limited warranty. Two-way zippers let you use it like a quilt or join a second bag.\n\nA fit for budget campers who want a flannel envelope for cool nights. The compression bag keeps the pack small.",
     "specs": [
       "79 x 33 inch, 4.6 lb",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41gxHRoDBzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DQTYPH22?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DQTYPH22?tag=rvgearlab-amz-20",
     "description": "MEREZA calls this XL bag boxy, measuring 86.6 x 32.3 inches for campers up to 6 ft, with a 210T ripstop waterproof shell and 3.5 lb of fill. A double pull zipper and a bottom vent zipper are listed.\n\nPriced under the other three, it prints its fill weight in place of a total weight. At 32.3 inches it is the narrowest bag here and shorter than the VENTURE 4TH XXL and KingCamp XL Flannel.\n\nBest for budget hikers around 6 ft who want a roomy synthetic bag. The comfort figure is 59F, so it fits warm nights.",
     "specs": [
       "86.6 x 32.3 inch boxy cut",

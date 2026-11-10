@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41kGiiAVfWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07XBJ9C6D?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07XBJ9C6D?tag=rvgearlab-amz-20",
     "description": "Bessport sells a mummy bag whose listing states a 50 to 68F comfort range and a 32F limit, with 15F printed as an extreme figure in the title. The 210T ripstop polyester shell is water repellent, and the girth measures 63, 50.3 and 33 inches at shoulder, hip and foot.\n\nOnly this bag names the mummy shape and prints girth figures, so fit is easy to judge. A drawstring hood, an insulated footbox and double SBS zippers with an anti-snag slider add to the design, and it weighs 3.6 lb.\n\nA strong choice for campers who want a hooded mummy for mild nights and some cold margin. It fits adults from 6 feet 1 inch to 6 feet 6 inches.",
     "specs": [
       "50 to 68F comfort range",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31-iGbt0YsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G63GJZJV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G63GJZJV?tag=rvgearlab-amz-20",
     "description": "Amazon Basics rates this 84 x 31.5 inch bag for 50F and above, with an integrated hood and synthetic fill. The shell is 100% GRS certified recycled post-consumer polyester, and a compression carry sack is included.\n\nNext to the Bessport 3-4 Season Mummy, it costs less than half as much and is machine washable. It also unzips into a blanket, which the Bessport does not list.\n\nA fit for first-time campers and summer trips who want the cheapest hooded bag with a stated 50F rating. Integrated loops make bundling easy.",
     "specs": [
       "Rated 50F and above",

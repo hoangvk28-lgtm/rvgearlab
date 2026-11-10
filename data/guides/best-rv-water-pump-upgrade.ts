@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/519Wc9jnr4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H2MMYSMJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H2MMYSMJ?tag=rvgearlab-amz-20",
     "description": "The Kitvance 2026 pump is a 12V unit rated at 6.0 GPM and 70 PSI with smart bypass, NSK double ball bearings and a one-piece four-chamber diaphragm. The listing says it self-primes up to 10 feet vertically and is factory set at 70 PSI with adjustable pressure, aimed at tankless heaters and multi-fixture use.\n\nAgainst the Bokkee 5 GPM pumps, it adds 1 GPM and 25 PSI but costs more and pushes higher pressure. Against the wassermann 4008, it doubles the flow.\n\nBest for rigs with a tankless heater or several fixtures. Set the pressure before it reaches old plumbing.",
     "specs": [
       "6.0 GPM, 70 PSI, 12V",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/513i0RoIQaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GVYN3XB7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GVYN3XB7?tag=rvgearlab-amz-20",
     "description": "The Bokkee upgraded pump delivers 5 GPM at 45 PSI with a smart pressure switch that starts at 15 PSI and stops at 45 PSI. It uses a pure copper motor, NSK double ball bearings, a stainless steel seal ring and a Japan-imported drive bearing.\n\nAgainst Kitvance 6 GPM, it gives less flow but a gentler 45 PSI and a lower price. Against Bokkee 5 GPM B, it states the 15 and 45 PSI switch points.\n\nBest for a quiet, higher-flow pump at moderate pressure. The 5 GPM is enough for a faucet, shower and toilet together.",
     "specs": [
       "5 GPM, 45 PSI, copper motor",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Nvr7TOM7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H1CFBQH3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H1CFBQH3?tag=rvgearlab-amz-20",
     "description": "The second Bokkee listing is a 12V 5.0 GPM, 45 PSI pump with the same copper motor and NSK double ball bearings and a heavy-duty stainless steel seal ring. It self-primes up to 10 feet vertically.\n\nAgainst Bokkee 5 GPM A, it is the cheaper listing of nearly the same pump. Against the wassermann 4008, it moves much more water.\n\nBest when you want a 5 GPM upgrade at the lowest price. Confirm the contents with the seller.",
     "specs": [
       "5.0 GPM, 45 PSI, 12V",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/418eSJBRPuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DBRWHVZ6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DBRWHVZ6?tag=rvgearlab-amz-20",
     "description": "The PowerMax is a 12V diaphragm pump rated 3.0 GPM at 55 PSI with an internal bypass and strainer, listed for the 4008-101-A65 and AE65 family. The bypass helps reduce rapid cycling and supports smoother, quieter flow.\n\nAgainst the wassermann 4008, it adds a bypass note and a strainer at a higher price. Against Kitvance 6 GPM, it keeps the stock flow, so the upgrade is smoothness rather than volume.\n\nBest for a smoother, quieter pump without a plumbing change. It does not raise flow.",
     "specs": [
       "3.0 GPM, 55 PSI, bypass",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41-aa1KT8JL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FKB3KXCT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FKB3KXCT?tag=rvgearlab-amz-20",
     "description": "The wassermann 4008 replacement is a 3.0 GPM, 55 PSI four-chamber pump built for 4008-101-A65 and E65 models, with a pressure switch and overheating protection. It is sold as a drop-in for those named models.\n\nAgainst the upgrade picks, it offers no extra flow or features, so it is the baseline to compare against. It costs less than most of them.\n\nBest for a like-for-like swap rather than an upgrade. Choose a higher-flow pick if you want a change.",
     "specs": [
       "3.0 GPM, 55 PSI",

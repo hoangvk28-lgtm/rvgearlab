@@ -32,7 +32,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41kSCal2g+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FYNY9H67?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FYNY9H67?tag=rvgearlab-amz-20",
     "description": "The CHUANGWAY is the widest roll in the guide, an 8 inch by 33 foot black butyl tape with self priming technology and a silicone UV layer, priced at $32.75. The listing describes a thick, sticky build.\n\nEight inches of width gives a generous overlap on both sides of a tear, which is the reason it leads for wide dark repairs. Compared with the 4 inch rolls at $24.95 and $28.99, it doubles the coverage for a modest premium, and the self priming surface bonds on corners and slightly uneven areas.\n\nOwners with a large tear, a patch over a dark membrane or a long seam that needs generous overlap will get the most from it.",
     "specs": [
       "8 in x 33 ft black",
@@ -60,7 +60,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41LM09IAsML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09WZWP2MQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09WZWP2MQ?tag=rvgearlab-amz-20",
     "description": "The Butyl Sealant Waterproof Tape in black is a 4 inch by 50 foot roll, priced at $28.99, with a list of compatible surfaces and resistance to rain, snow and wind. It brings a 50 foot length in a 4 inch width.\n\nIt names more materials than most rolls here, which helps owners with a roof that mixes rubber, metal and fiberglass, and it gives 17 more feet of tape than the CHUANGWAY for about $4 less. Compared with WELLUCK at $24.95, it costs about $4 more and adds the broader material list.\n\nMixed surface roofs, repairs that cross from membrane to metal trim and owners who like a long roll in the toolbox will find it a flexible choice.",
     "specs": [
       "Butyl, 4 in x 50 ft black",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ajAW74HZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DBLH12YP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DBLH12YP?tag=rvgearlab-amz-20",
     "description": "The WELLUCK black butyl tape is a 4 inch by 50 foot roll with no binders or fillers, UV resistance and a waterproof, airtight barrier, priced at $24.95. The listing highlights simple installation.\n\nIt is the lowest priced 4 inch roll in the group, undercutting the multi surface butyl by about $4, and a pure butyl formula without binders or fillers keeps the tape soft and sticky. Compared with the Kohree at $21.99, it doubles the width for about $3 more.\n\nBudget minded owners who want a 4 inch black band for seams and dark flange edges will find it the best butyl value.",
     "specs": [
       "Butyl, 4 in x 50 ft black",
@@ -116,7 +116,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ZgTMuElFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CQF811KL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CQF811KL?tag=rvgearlab-amz-20",
     "description": "Kohree sells a slim black butyl roll, 2 inches wide on a 50 foot spool, with a self priming seal, UV resistance and a flexible, sticky build, priced at $21.99. The narrow width suits trim.\n\nIts self priming butyl bonds without a separate primer and bends around curves that stiffer wide tapes resist. Compared with the FastSeal at $19.99, it costs about $2 more and adds butyl adhesive with a self priming claim, and next to WELLUCK it trades width for a narrower fit.\n\nOwners with narrow trim seams, small cracks and curved edges will find the thin strip and flexible build useful.",
     "specs": [
       "Butyl, 2 in x 50 ft black",
@@ -144,7 +144,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41cDLxgkEML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BPB7PNBH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BPB7PNBH?tag=rvgearlab-amz-20",
     "description": "The FastSeal is a 2 inch by 50 foot black rubber tape with a high coefficient of expansion, designed to conform to curves and seal roofs, windows and vents, priced at $19.99. The listing stresses flexibility.\n\nIts rubber build stretches with the roof as temperature changes, which suits small gaps on surfaces that move, and its 2 inch width fits curved edges and tight corners. Compared with the Kohree at $21.99, it saves about $2 and offers a rubber alternative to butyl.\n\nOwners who need a flexible narrow tape for curved edges, window frames or vents will like the combination of price and stretch.",
     "specs": [
       "Rubber, 2 in x 50 ft black",
@@ -172,7 +172,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/419YpSWz0OL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B081DQ5D32?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B081DQ5D32?tag=rvgearlab-amz-20",
     "description": "The Dicor BBT-3634-1 is a continuous butyl ribbon measuring 3/16 by 3/4 inch by 20 feet, priced at $11.51, the lowest in the guide. It is designed for joint sealing and is flexible on unusual joints.\n\nIt is the only product here made for joints and fixtures instead of surface patches, and a continuous 20 foot roll applies quickly. Compared with the 2 inch rolls, it is far thinner and cheaper, and it fits seams between panels, around vents and under fixtures.\n\nOwners resealing joints, trim and fixtures rather than patching tears will find it a quick, inexpensive choice.",
     "specs": [
       "3/16 x 3/4 in x 20 ft",

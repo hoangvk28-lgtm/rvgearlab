@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41TjA2Ck0FL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CLDCCHR8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CLDCCHR8?tag=rvgearlab-amz-20",
     "description": "The Wolfwise is the only listing that names 6-7 people, opening to 110.2 by 57.1 by 57.1 inches with a 57.1 inch front porch. A spring opening system lets one person pitch it in seconds, and the polyester is water repellent with a silver coating inside.\n\nIt beats the OutdoorMaster on length and porch space, and it gives a clear 7-person target that the Etto and Elegear only cover through 6-8 ranges. Three oversized mesh windows and a zippered door and window add airflow and privacy.\n\nIt suits families of five to seven who want quick pitch and a changing-friendly door. The porch adds space for shoes and bags.",
     "specs": [
       "6-7 person, 110.2 in long",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41dhImmxaXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GH14WJWM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GH14WJWM?tag=rvgearlab-amz-20",
     "description": "The Elegear CumbreX is sold for 6-8 people, with the listing suggesting 4 adults and 4 children or up to 6 adults. It uses 190T double-layer silver-coated polyester with PU2000 waterproofing, an external snap-on installation system and five ways to use the canopy and rear door.\n\nCompared with the Wolfwise it adds waterproofing and configurable canopy modes, while the OutdoorMaster offers a boxier layout. The two roll-up mesh windows and an openable rear door give 360 degree airflow.\n\nIt suits mixed groups of adults and kids who want to change the shelter with the weather. The snap-on system shortens pitching.",
     "specs": [
       "6-8 people, 4 adults + 4 kids",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Gtgv5YicL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GMQF13XC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GMQF13XC?tag=rvgearlab-amz-20",
     "description": "The OutdoorMaster measures 106 by 106 by 63 inches and the listing says it accommodates 6-7 people. It uses an 8.5mm fiberglass frame, UPF 50+ polyester that blocks 98 percent of UV, a zippered door and an extended front floor.\n\nIt weighs 6.9 pounds and packs into a carry bag, and the listing states that weight outright. Next to the Wolfwise it is shorter and broader, giving a squarer floor.\n\nIt suits family groups that want a lighter big tent and a private changing door. The extended floor makes a play zone.",
     "specs": [
       "106 x 106 x 63 in, 6.9 lb",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41GHmgUPFsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DPMNCSPK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DPMNCSPK?tag=rvgearlab-amz-20",
     "description": "The Etto 6-8 person tent measures 112 by 66 by 73 inches, the longest and tallest on the list. It uses an 8.0mm imported fiberglass cross frame, silver-coated fabric rated for up to 98 percent UV blocking and sets up in 3 steps.\n\nAgainst the OutdoorMaster it is taller and longer, and against the Wolfwise it has a cross-frame structure. The listing also sells 2, 3 and 4 person sizes, so it covers small groups too.\n\nIt suits larger groups that want to stand more upright and sit comfortably. It also costs more.",
     "specs": [
       "112 x 66 x 73 in",

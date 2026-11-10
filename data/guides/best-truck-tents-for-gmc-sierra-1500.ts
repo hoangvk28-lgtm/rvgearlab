@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41A64jTP5bL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D66W5HP5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D66W5HP5?tag=rvgearlab-amz-20",
     "description": "The Qualencey is made for 5 foot 5 inch to 6 foot 3 inch beds and lists GMC 1500 in its fits. It uses 210D oxford with a PU5000mm coating, measures 98.4 by 67 by 67 inches outside and adds an awning.\n\nIt has the highest coating number of the five and a wide bed range, so it covers more Sierra boxes than the narrower Umbrauto. Its price is lower than the OPL5.\n\nIt suits Sierra owners who expect rain and want one tent that fits many bed lengths. Fiberglass poles and screened doors round it out.",
     "specs": [
       "PU5000mm, 210D oxford",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51ExlvzbC8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H1C3SVNP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H1C3SVNP?tag=rvgearlab-amz-20",
     "description": "The WildFinder is made for 5.5 to 6 foot beds and names the Sierra with the F150, Ram, Silverado, Tundra and Titan. Its interior is 88.6 by 74.8 by 63 inches and it has a PU3000mm coating, three ventilated windows and a connection tunnel for cables or a cooling duct.\n\nIt is the lowest-priced pick in the group and one of two with a power tunnel. Compared with the Qualencey it has less coating and no awning.\n\nIt suits Sierra owners who want to run a cable or air line from the truck. Color-coded poles speed up setup.",
     "specs": [
       "PU3000mm, 88.6 in interior",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ynw2bJQiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CX1TJSGM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CX1TJSGM?tag=rvgearlab-amz-20",
     "description": "The LIBERRWAY is a 5.5 to 5.8 foot bed tent that names the Sierra 1500 and other full-size trucks. It uses PU2000mm oxford with 8.5mm fiberglass poles and a ventilation pipe at the front that links the tent to the rear window of the truck.\n\nIt matches the WildFinder on price and adds thicker poles for wind. Compared with the Umbrauto it lacks an awning and a stated PU3000mm.\n\nIt suits Sierra owners who camp in breezy spots and like passing through the rear window. A video guide and sewn-on instructions help setup.",
     "specs": [
       "8.5mm fiberglass poles",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41vBmp0nKNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7ZX4N4W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7ZX4N4W?tag=rvgearlab-amz-20",
     "description": "The Umbrauto is a 5.5 to 5.8 foot bed tent in 210T polyester with PU3000mm. Its 66.5 inch length suits full-size short beds, and an expandable 4 by 4 foot awning adds a shaded sitting area.\n\nIt carries the largest awning of the five and a higher rating than the LIBERRWAY. Against the Qualencey it gives a bit less coating and a narrower bed range.\n\nIt suits Sierra owners who like to lounge beside the truck. The listing describes it as 3 season with color-coded poles.",
     "specs": [
       "4x4 ft expandable awning",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41NFxhFMiIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GX6924FM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GX6924FM?tag=rvgearlab-amz-20",
     "description": "The OPL5 is sized for 6.4 to 6.7 foot beds and lists Sierra 1500, 2500 and 3500 among its fits. It measures 255 by 170 by 170 cm and uses 210D Oxford with PU2000mm, 8.5mm fiberglass poles and 19 adjustable straps.\n\nIt is the only pick for long beds, where the others stop at 6 foot 3 inches. Against the Qualencey it costs more with a lower coating.\n\nIt suits crew-cab Sierra owners with a long box who want 2 to 3 people to sleep. Two side mesh windows handle airflow.",
     "specs": [
       "Long-bed fit, 255x170x170 cm",

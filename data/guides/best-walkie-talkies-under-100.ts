@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41MAec4d4wL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DM6BVXFJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DM6BVXFJ?tag=rvgearlab-amz-20",
     "description": "The Gaswei G2pro+ is a rechargeable 2-watt FRS radio with an IP67 floatable, shatter-resistant body. It has NOAA weather channel access, an FM radio, dual PTT, a dual-watch mode and VOX with nine sensitivity levels, plus 22 FRS channels and 121 privacy codes.\n\nIt costs about $80, around $15 less than the Motorola T605 H2O, and it adds weather alerts and FM that the Motorola lacks. It needs no license, which sets it apart from the Midland GXT1000VP4.\n\nIt suits campers, hunters and families who want rugged radios with weather alerts. The dual PTT speeds up group talk.",
     "specs": [
       "IP67 floatable, rechargeable",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/516+aGp3J5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B001WMFYH4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B001WMFYH4?tag=rvgearlab-amz-20",
     "description": "The Midland GXT1000VP4 is a pair of GMRS radios with 50 channels, 142 privacy codes and headsets in the box. It includes rechargeable battery packs and a desktop charger, with AA backup, NOAA scan, EVOX voice activation, an SOS siren and vibrate mode.\n\nIt costs about $90, around $10 above the Gaswei G2pro+, and it is the only GMRS radio in the group with more power and headsets. GMRS requires an FCC license in the United States, which the FRS radios do not.\n\nIt suits campers, hunters and convoys who want stronger radios and hands-free talking. One license covers the family.",
     "specs": [
       "GMRS, 50 channels, 142 codes",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51IHMjdR6SL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CMWBVCB5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CMWBVCB5?tag=rvgearlab-amz-20",
     "description": "The Motorola Talkabout T605 H2O is an IP67 waterproof FRS radio that floats face up and has a water-activated flashlight. It uses rechargeable power and needs no license.\n\nIt costs about $94, the highest in the group, and about $15 more than the Gaswei G2pro+. It offers the water-activated flashlight and easy pairing, with fewer extras than the Gaswei.\n\nIt suits boaters, kayakers and anglers who want a trusted brand that floats. The flashlight helps find it in the water.",
     "specs": [
       "IP67, floats face up",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31nIxq4rD5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BN7R87QT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BN7R87QT?tag=rvgearlab-amz-20",
     "description": "The Retevis RB48 is an IP67 waterproof, floating FRS radio tested to MIL-STD-810H that survived 1,000 two-meter drops. A 2,000mAh battery lasts up to 20 hours, with USB-C and a charge station, in high-visibility yellow.\n\nIt costs about $80, the same as the Gaswei G2pro+, and its battery lasts longer than most. The Gaswei adds NOAA and FM radio, while the RB48 adds proven drop testing.\n\nIt suits hunters, work crews and campers who are hard on gear. Silicone button covers help in wet or cold weather.",
     "specs": [
       "MIL-STD-810H, IP67",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41vCIZkZb8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DB5NHPJ7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DB5NHPJ7?tag=rvgearlab-amz-20",
     "description": "The Retevis RT15 three-pack includes three rechargeable radios with 1000mAh batteries that last 8 to 12 hours. They are license-free, with squelch and a slim 21 mm body.\n\nIt costs about $40, around half the Gaswei G2pro+ and it gives a third radio for groups of three. The short antenna limits range.\n\nIt suits families and small groups at a campground. It is a simple set.",
     "specs": [
       "Three rechargeable radios",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41IAMDvanlL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00IR184ZW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00IR184ZW?tag=rvgearlab-amz-20",
     "description": "The Retevis RT628 four-pack gives four radios on 22 channels with CTCSS and DCS tones, VOX, a large LCD and key lock. Each radio is simple enough for a child to use.\n\nIt costs about $34, the lowest in the group, and four radios cost less than the RT15 three-pack. The range claim is about 1,000 meters, which suits a campground rather than a trail.\n\nIt suits kids, families and larger groups at a campsite. The key lock stops accidental channel changes by small fingers.",
     "specs": [
       "Four radios, 22 channels",

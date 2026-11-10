@@ -31,7 +31,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41jCUckGCZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CRGTSVJL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CRGTSVJL?tag=rvgearlab-amz-20",
     "description": "The AGEMORE is a cotton flannel double bag with a 210T shell and a stated 32 to 59 degree Fahrenheit design range, priced at $66.39. It is the only bag in this lineup that prints a clear temperature window, and it splits into two single bags when the zippers are fully opened.\n\nAgainst the MEREZA, which is about the same price, the AGEMORE gives a measurable comfort range and a water resistant shell where the MEREZA leaves the temperature question to the buyer. Against the ShinHye, it adds a flannel interior and tight compression for storage in a camper cabinet, while the ShinHye leans on bulk and low cost.\n\nCouples who want one bag for date night camping and two singles for a solo trip get the most from it, especially when the nights sit in the 40s and 50s.",
     "specs": [
       "Flannel interior, 210T shell",
@@ -61,7 +61,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41cAQdvba1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F1ZTPVC8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F1ZTPVC8?tag=rvgearlab-amz-20",
     "description": "The MEREZA is a queen XL double sleeping bag made of 100 percent flannel, with OEKO-TEX certified materials and a pillow included, at $65.99. It is built for soft touch comfort, and the generous cut gives two adults room to roll over.\n\nCompared with the AGEMORE, the MEREZA puts its money into fabric safety and softness: the OEKO-TEX certification tells buyers the textiles were tested for harmful substances, which matters for anyone with sensitive skin. Against the ShinHye at $47.99, it costs about $18 more and rewards that with a plusher, fully flannel interior and certified materials.\n\nIt suits sensitive skin sleepers, cooler indoor guest rooms in an RV and couples who value cozy fabric over technical specs.",
     "specs": [
       "Queen XL double, 100% flannel",
@@ -91,7 +91,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41m4pkcR39L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FFZ2ZS1B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FFZ2ZS1B?tag=rvgearlab-amz-20",
     "description": "The ShinHye double sleeping bag measures 92 by 62 inches, uses hollow cotton fill, compresses to about 17 by 13 inches and comes with two pillows for $47.99. A Velcro windproof tail at the bottom keeps drafts from creeping up the foot end.\n\nIt is the widest and longest of the three, which gives taller couples more room than either flannel bag, and it costs roughly $18 less than the AGEMORE or the MEREZA. The bag also opens fully into a flat blanket, so it doubles as a picnic or bunk bed cover, and the included pillows save a cabin trip to the linen closet.\n\nFamilies on a tight camping budget, anyone outfitting a guest bunk and couples who need maximum floor space in a tent will find the best return here.",
     "specs": [
       "92 x 62 inch, hollow cotton",

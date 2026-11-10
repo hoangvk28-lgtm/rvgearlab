@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31CcZ0tXHzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DP2L493T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DP2L493T?tag=rvgearlab-amz-20",
     "description": "The Naturehike Village states a total of 285.3 sq ft, split into 140 sq ft of sleeping area, a 113 sq ft screen porch and a 32.3 sq ft side vestibule. Pre-attached poles pitch it in about 3 minutes, and a 2000mm PU rainfly with a 5000mm PU floor protects the inner tent.\n\nAgainst the Coleman it prints exact porch and sleeping areas and offers four setup modes, from full-open to enclosed. Compared with the Portal it has a detachable porch with 3 awning poles and a divider curtain, and it costs about 300 dollars more.\n\nIt suits families who want a roomy, versatile porch and a quick pitch. The package includes 30 stakes and a 72 inch ceiling.",
     "specs": [
       "285.3 sq ft, 113 sq ft porch",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41-RX3ibUGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7QHX9V7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7QHX9V7?tag=rvgearlab-amz-20",
     "description": "The Coleman instant tent has a screened porch billed as 35 percent roomier than a comparable 6-person dome. It states a 1-minute pitch, uses WeatherTec welded corners with inverted seams and comes with a rainfly.\n\nAgainst the Portal it states a 1-minute pitch and carries a heat-reducing fabric. Compared with the Naturehike it costs about 100 dollars less and uses a brand-known weather system.\n\nIt suits families who want the quickest pitch with a screened lounge. Reflective Illumiline guy lines help at night.",
     "specs": [
       "Screened porch, 1 minute setup",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41rG0TUkNoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FX2TXDN4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FX2TXDN4?tag=rvgearlab-amz-20",
     "description": "The Portal instant tent runs 20 ft overall (a 14 ft bedroom plus a 6 ft screen room), 8 ft wide, with a 76 inch center and room for 2 full-size airbeds. A quick-pitch frame opens and folds down smoothly, and it uses 66D fabric, upgraded fiberglass poles, a removable rainfly and a full mesh ceiling.\n\nIt costs about 200 dollars less than the Coleman and 300 less than the Naturehike. Against both it states a 20 ft overall length and a built-in E-port.\n\nIt suits families who want a screen porch at the lowest price. It is an upgrade of the brand's V1 tunnel tent.",
     "specs": [
       "20 ft overall, 2 airbeds",

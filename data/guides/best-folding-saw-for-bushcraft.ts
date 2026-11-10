@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51RwlZggVWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00TZKFA0Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00TZKFA0Q?tag=rvgearlab-amz-20",
     "description": "The Gerber Freescape Camp Saw has a 12 inch blade, a rubber handle and a folding design that stays assembled and lies flat. Four pivot points maximize blade length for cutting larger wood.\n\nIt folds flat in a way no other saw here does, and it costs more than all of them. Compared with the REXBETI 14in, it folds flat and stays assembled as one piece.\n\nIt is the pick for bushcrafters who want a saw that packs flat and cuts large wood. The bright green accents make it easy to spot at camp.",
     "specs": [
       "12 inch blade, four pivot points",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41PN2nEiJnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CMX9JY1M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CMX9JY1M?tag=rvgearlab-amz-20",
     "description": "The REXBETI 14 inch saw has a full length of nearly 28 inches and a folded size of 14 inches while weighing 14.5 oz. Its SK-5 blade has aggressive staggered 5.5 TPI teeth with four cutting angles.\n\nIt has the longest blade of the six, and the listing says it works five times faster than a normal-size saw. It weighs less than a pound and folds to 14 inches.\n\nIt suits bushcrafters who cut firewood and thick limbs. It handles heavy camp wood.",
     "specs": [
       "14 inch blade, nearly 28 inches open",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41rQfHjIwIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B071Z1Y34D?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B071Z1Y34D?tag=rvgearlab-amz-20",
     "description": "The Mossy Oak 3-in-1 comes with three interchangeable blades that change with a black knob. The pruning blade is 5 TPI 65Mn steel at 190 mm, and the handle has a slip-resistant TPR rubber grip.\n\nIt is the only saw here that swaps blades, so one handle covers pruning, wood and other cuts. The knob locks the blade in the chosen direction.\n\nIt suits campers who want one tool for several jobs. The knob lock prevents accidental closing.",
     "specs": [
       "Three interchangeable blades",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41FMplwtVFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07BLQBN8X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07BLQBN8X?tag=rvgearlab-amz-20",
     "description": "The REXBETI 11 inch saw has a SK-5 steel blade with aggressive 7 TPI staggered teeth. The listing says it cuts 6 to 7 inch branches and has a reinforced blade structure.\n\nIt is shorter than the REXBETI 14 and weighs less, so it packs smaller for hikes. It costs less than the Gerber and the REXBETI 14in.\n\nIt is for backpackers who want a long enough blade for camp wood in a light package. It stays stable in heavy cuts.",
     "specs": [
       "11 inch SK-5 blade, 7 TPI",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31CW6dCnYVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00G8R9JZQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00G8R9JZQ?tag=rvgearlab-amz-20",
     "description": "The Fiskars 10 inch saw has a triple-ground power tooth blade that locks in two positions, one for overhand cuts and one for undercuts. The listing says it is more versatile than a bow saw.\n\nIt is the only saw here with two lock positions, which helps with cuts at awkward angles. It costs more than the HURRICANE and less than the Gerber.\n\nIt is best for campers who cut at odd angles or work on hanging branches. It stays solid in both positions.",
     "specs": [
       "10 inch triple-ground blade",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31-2YKCCpqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CDBY5P8Z?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CDBY5P8Z?tag=rvgearlab-amz-20",
     "description": "The HURRICANE has a 10 inch SK5 blade with 7 TPI triple-ground teeth and a 0.9mm thickened body with a chrome electrophoretic finish. The handle mixes PP and TPR for a non-slip grip.\n\nIt uses a thickened blade with a friction-reducing finish for deeper cuts and costs the least on this list. It has less lock detail than the Fiskars.\n\nIt suits campers who want a cheap, sharp blade for a spare kit. The thicker blade resists bending.",
     "specs": [
       "10 inch SK5 blade, 7 TPI",

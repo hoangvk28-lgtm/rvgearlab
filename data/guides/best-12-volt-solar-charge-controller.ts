@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41vdeeUbUwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C817H3L1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C817H3L1?tag=rvgearlab-amz-20",
     "description": "Bateria Power's 20A MPPT handles 12V or 24V banks, with a phone app and a USE mode for custom battery parameters. Bateria Power's 20A MPPT controller auto-monitors 12V or 24V systems and adds a phone app with a USE mode for custom battery parameters. The listing states that PV voltage cannot exceed 60V and that it is not for higher-voltage batteries.\n\nIt has more tracking sophistication than the PWM units below it and a built-in phone app that Renogy Wanderer Li 30A does not describe. The listing caps PV at 60V, which limits series strings.\n\nBest for a 12V rig with up to a few hundred watts that wants app monitoring. Cold-weather Voc can climb past 60V on long strings, so check your panels' open-circuit voltage first.",
     "specs": [
       "20A MPPT, 12V/24V",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41I-Q4YSrFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07G1PL1B9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07G1PL1B9?tag=rvgearlab-amz-20",
     "description": "Renogy's Wanderer Li is a 12V-only 30A PWM with a four-stage charge that names lithium, AGM, gel and flooded batteries. Renogy's Wanderer Li is a 12V 30A four-stage PWM controller whose listing names lithium, AGM, gel and flooded batteries. It measures 5.5 by 3.9 by 1.8 inches and carries an IP32 waterproof rating, so it suits an indoor or protected compartment.\n\nIt has more amps than Bateria Power 20A but uses PWM, so extra panel voltage is wasted. It also costs more than the Rolokit units.\n\nBest for a 12V RV with one to three panels and a lithium or AGM bank. It is 12V only, so a 24V bank needs a different model, and Bluetooth needs the separate BT-1 module.",
     "specs": [
       "30A PWM, 12V only",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41oNd2nkV+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FFSJ7Y88?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FFSJ7Y88?tag=rvgearlab-amz-20",
     "description": "Qigreesol's 100A model works on 12V, 24V, 36V and 48V and accepts up to 100V of panel input. The listing describes a 100A MPPT unit that accepts up to 100V of panel input and adapts to 12V, 24V, 36V and 48V battery systems. A backlit LCD reports battery voltage, PV and discharge current, temperature and error codes, and the controller can switch a load on a timer or by light level.\n\nIt is far larger than Bateria Power 20A and gives you room to move to a higher-voltage bank later. For a typical 12V trailer it is more capacity than you can use.\n\nBest for a 12V rig that may grow into a bigger system. The amp rating is generous for a small array, so match it to your panel watts rather than paying for headroom you will never use.",
     "specs": [
       "100A MPPT, 12V to 48V",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/415v2j+wfjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CSD6HGGH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CSD6HGGH?tag=rvgearlab-amz-20",
     "description": "Rolokit's 30A PWM works on 12V or 24V lead-acid batteries with an LCD and dual USB ports. Rolokit's single 30A PWM controller auto-adapts to 12V or 24V systems and adds an LCD with dual USB ports. As with its two-pack, the listing says it suits lead-acid batteries only.\n\nIt costs far less than Renogy Wanderer Li 30A but is lead-acid only. Against the Rolokit two-pack it is the single-unit version.\n\nBest for a flooded or AGM 12V bank. Choose it as an inexpensive controller for a flooded or AGM bank, not for lithium.",
     "specs": [
       "30A PWM, 12V/24V",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/518PyZ6n80L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F42LB87Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F42LB87Q?tag=rvgearlab-amz-20",
     "description": "Rolokit's two-pack gives two 30A PWM controllers for 12V or 24V lead-acid systems. This Rolokit listing sells two 30A PWM controllers that auto-detect 12V or 24V systems, each with an LCD and adjustable settings. The listing says they suit lead-acid batteries only and lists overcurrent, short, reverse and open-circuit protection.\n\nIt matches Rolokit 30A on specs but doubles the units. That helps two small systems and is wasted on one.\n\nBest for a trailer plus a second small battery system. A two-pack is only useful if you will use both, for example in a second small system.",
     "specs": [
       "Two 30A PWM units, 12V",

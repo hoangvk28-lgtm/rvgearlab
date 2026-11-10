@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41NuapA3MLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B083TC1GBQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B083TC1GBQ?tag=rvgearlab-amz-20",
     "description": "The Number-one Running Belt includes two BPA-free 6.5 oz bottles in neoprene bottle holders and a 20 x 11 cm zip pouch that fits large smartphones. The adjustable elastic waistband has an anti-slip design and the neoprene is sweat and water resistant.\n\nIt is the only pick here that comes with the belt itself, so it is the one for a runner starting from scratch. The 6.5 oz bottles hold less than the 10 oz sets.\n\nIt suits runners who want one purchase for belt, bottles and phone storage. Its anti-slip band keeps the pack in place.",
     "specs": [
       "Belt plus two 6.5 oz bottles",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31TfqQFCjkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B082MPHCTZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B082MPHCTZ?tag=rvgearlab-amz-20",
     "description": "The SPIbelt H2O Hydration Companion is an 8 oz BPA-free bottle that clips onto any SPIbelt. The listing calls out a no-bounce, leak-proof design and top-rack dishwasher safety.\n\nIt is made to pair with a SPIbelt, which the generic bottles are not, and it costs a bit less than the Number-one kit. It carries 8 oz, which sits between the two other sizes.\n\nIt suits runners who already own a SPIbelt. The leak-proof design keeps the phone dry.",
     "specs": [
       "8 oz BPA-free bottle",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31CzbInDQeL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D2W6ZY4T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D2W6ZY4T?tag=rvgearlab-amz-20",
     "description": "The HECHZSO 8.8 oz bottle has a removable clip that attaches to belts, waistbands, vest edges and backpacks or lets you carry it in a pocket. A silicone push-pull spout opens by hand or with your teeth.\n\nIt offers more clip options than the Azarxis and the SPIbelt bottle. It holds 8.8 oz, a little more than the SPIbelt.\n\nIt suits runners who switch between belt and vest. The silicone spout is simple to operate on the move.",
     "specs": [
       "8.8 oz / 250 ml, removable clip",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31oU5NnZQIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DDXPXXYX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DDXPXXYX?tag=rvgearlab-amz-20",
     "description": "The Azarxis is an 8.5 oz (250 ml) bottle that weighs 38 g (1.35 oz), made from food-grade PP5 with a detachable clip. A wide-mouth design pours easily and the spout pulls up to drink.\n\nIt is the lightest bottle on the list with a stated weight, and it costs less than the SPIbelt. The listing asks you to check the belt size before ordering.\n\nIt suits runners who want the lightest option. It works for triathlon, marathon and hiking.",
     "specs": [
       "8.5 oz / 250 ml, 38 g",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31CgFh1WolL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0932ZTFMH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0932ZTFMH?tag=rvgearlab-amz-20",
     "description": "The HECHZSO set contains two 10 oz LDPE bottles with a push-pull valve, made as a standard replacement for most running belts and waist packs. The flexible walls let you squeeze to control flow.\n\nIt holds more than the Azarxis and the SPIbelt bottle and gives two bottles for the price of one. It is a replacement set, with no belt.\n\nIt suits runners who need replacement bottles for a belt. The squeezable LDPE controls flow.",
     "specs": [
       "Two 10 oz LDPE bottles",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/312f1zC5DyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FXRDHL5P?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FXRDHL5P?tag=rvgearlab-amz-20",
     "description": "The GAQWOK set has two 10 oz silicone bottles for hydration belts, handheld running and flipbelt carry. The listing says they clip on belts or wrist straps and work as handheld or wrist bottles.\n\nIt is the cheapest option here and the only one sold for wrist and handheld carry too. It uses silicone instead of the LDPE of the HECHZSO set.\n\nIt suits runners who want one set that works several ways. The clip and silicone body are simple.",
     "specs": [
       "Two 10 oz silicone bottles",

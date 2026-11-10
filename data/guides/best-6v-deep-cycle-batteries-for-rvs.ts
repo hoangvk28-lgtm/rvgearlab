@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/417Gb6lM6xL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B082TXYX11?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B082TXYX11?tag=rvgearlab-amz-20",
     "description": "The Trojan T-125 is a 6V 240Ah flooded lead-acid battery in BCI GC2 size, sold here as a pack of 4. Each one measures 10.30 by 7.13 by 11.15 inches and weighs 66 pounds, and the listing recommends it for RVs, homes, cabins and renewable energy systems.\n\nIt offers the most capacity of the four, 15Ah above the T-105 and about 20Ah above the Crown. The listing also names golf cars, marine, solar and wind, floor machines and man lifts as uses.\n\nIt suits campers who want the largest GC2 capacity and are prepared to handle 66 lb batteries. Four batteries wire into a 12V bank with two parallel strings.",
     "specs": [
       "6V 240Ah flooded, GC2",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Ifr+t9yLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DZR7T5R2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DZR7T5R2?tag=rvgearlab-amz-20",
     "description": "The Trojan T-105 is a 6V 225Ah flooded battery rated at the 20-hour rate with 1.50 kWh of energy output, sold in a pack of 4. The listing names a rugged polypropylene case and Alpha Plus paste with T2 Technology.\n\nIt sits just below the T-125 on capacity, with the same GC2 size, and is the only listing that publishes a kWh figure. Compared with the Crown and US Battery sets, it is the one that states its energy in kWh instead of amp-hours alone.\n\nIt suits RVers who want a GC2 house bank with a clear energy figure. The listing also names golf carts, renewable energy and floor scrubbers.",
     "specs": [
       "6V 225Ah at 20-hour rate",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51YSQnTNjcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G3CNXTD8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G3CNXTD8?tag=rvgearlab-amz-20",
     "description": "The Crown CR-220 is a 6V 220Ah flooded battery described as a premium long-life GC2 replacement, sold here as a set of 4. The listing names U.S.-engineered heavy-duty plates and grids, easy-access caps and uses for golf carts, RV house banks, solar and industrial equipment.\n\nIt is priced below both Trojan packs and carries 220Ah, within 5Ah of the T-105. Easy-access caps are named in the listing for routine watering and service.\n\nIt suits RVers who want a Crown-built GC2 set at a lower pack price. A 6-battery set is also sold under the same product name.",
     "specs": [
       "6V 220Ah flooded, GC2",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51xC0K2CZTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DNTPH78H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DNTPH78H?tag=rvgearlab-amz-20",
     "description": "The US Battery US1800XC2 is a 6V flooded GC2 battery rated 208Ah at the 20-hour rate and 157Ah at the 5-hour rate, sold here as a set of 4. The listing says it replaces the T-605 and T-105 and names golf cart, solar, marine, RV and industrial uses.\n\nIt is the lowest-priced set here and the only one that publishes both 5-hour and 20-hour capacities. Against the Crown it gives up a few amp hours and against the Trojans it costs notably less.\n\nIt suits budget-minded RVers who want a GC2 set and a clear capacity rating. A set of 6 is also sold under the same product name.",
     "specs": [
       "6V 208Ah (20-hour), 157Ah (5-hour)",

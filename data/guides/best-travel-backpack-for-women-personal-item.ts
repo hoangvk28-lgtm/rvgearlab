@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41WrR5YeyeL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FPX2T3R9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FPX2T3R9?tag=rvgearlab-amz-20",
     "description": "The Taygeer Personal Item bag is described as meeting size limits for Frontier, Spirit and EasyJet. It has four large main compartments and nine inner and side pockets, a TSA friendly laptop compartment and a shoe pouch.\n\nIt is the one here that directly names the strict-airline sizes it targets. Compared with the HXLGMD, it adds a shoe pouch and extra compartments, and against the LOVEVOOK pair, it is built smaller.\n\nIt suits budget-flight travelers who want to stay in the free-bag size. Multiple carrying options convert it between a backpack and a handbag.",
     "specs": [
       "Sized for Frontier, Spirit, EasyJet",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51mncsMdfzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C9D436B3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C9D436B3?tag=rvgearlab-amz-20",
     "description": "The HXLGMD measures 17 by 12.5 by 6.5 inches and weighs 1.87 pounds. A separate laptop compartment holds a 15.6 inch laptop, an elastic strap at the base holds slippers or low-top sneakers and a built-in USB port connects a power bank.\n\nIts 6.5 inch depth is slimmer than the LOVEVOOK bags, which helps under cramped seats. Compared with the Capolo, it is larger and carries a laptop up to 15.6 inches.\n\nIt suits travelers who want a firm size they can check against an airline. The water-repellent fabric handles light rain.",
     "specs": [
       "17 x 12.5 x 6.5 in, 1.87 lb",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41yTIfdBSZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CJV8H421?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CJV8H421?tag=rvgearlab-amz-20",
     "description": "The Capolo is a 20L bag with a breathable mesh back panel, padded shoulder straps and eleven pockets. A side handle turns it from a backpack into a carry-on style bag, and four side compression buckles secure the load.\n\nIt is the smallest bag here, so it is the safest under-seat option. Against the HXLGMD, it holds less and compresses tighter.\n\nIt suits day trips and short flights where a personal item is all you pack. The double zipper keeps the contents secure.",
     "specs": [
       "20L, 11 pockets",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/414L6lsUlTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CLVBFRX1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CLVBFRX1?tag=rvgearlab-amz-20",
     "description": "The LOVEVOOK Business bag is a 40L pack measuring 14 by 8.3 by 18.5 inches, with three big compartments and room for a 17 inch laptop. It adds two packing cubes, a wet pocket and explosion-proof zippers in a tear-resistant, water-resistant fabric.\n\nIt carries far more than the Taygeer or Capolo, and at 8.3 inches deep it runs near the limit. The packing cubes help it stay compact.\n\nIt suits travelers on airlines with a more generous personal item size. A 17 inch laptop sleeve suits workers.",
     "specs": [
       "40L, 14 x 8.3 x 18.5 in",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41AY5RSWsfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CJY9LHK4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CJY9LHK4?tag=rvgearlab-amz-20",
     "description": "This LOVEVOOK 40L bag measures 18 by 14 by 8 inches and ships with three packing cubes, including two storage bags and a shoe bag. It has four compartments, a built-in wet compartment and tear-resistant, water-resistant fabric.\n\nIt is more complete than the LOVEVOOK Business bag, with a third cube and a stated airline approval. Compared with the Taygeer, it carries more and is less strict-airline friendly.\n\nIt suits travelers who want to organize a longer trip in cubes. The four compartments split work and leisure gear.",
     "specs": [
       "40L, 18 x 14 x 8 in",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41+1F47eDML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09MQWWP87?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09MQWWP87?tag=rvgearlab-amz-20",
     "description": "The Taygeer Carry-On is a slim 7 inch deep bag listed at 1.74 pounds. Three large compartments and nine smaller pockets come with a bonus shoe bag, a wet pocket and a zipper that opens 180 degrees.\n\nNext to the Taygeer Personal, it has fewer compartments and a lighter feel. It is lighter than the HXLGMD and shares the padded handles.\n\nIt suits light packers who want a handbag-style carry. The padded adjustable straps handle airport miles.",
     "specs": [
       "16.8 x 11 x 7 in, 1.74 lb",

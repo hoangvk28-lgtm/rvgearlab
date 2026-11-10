@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51DDon+rtoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BP7DCD9F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BP7DCD9F?tag=rvgearlab-amz-20",
     "description": "The Timber Ridge is a 4-5 person instant hub cabin measuring 96 by 121 by 78 inches. The listing puts setup at 1 minute for 2 people, and it has 150d fabric with a 2000mm coating, a fully taped rainfly and sealed seams.\n\nIt has a stand-up 78 inch center. Against the ADSMART it adds a documented rain rating and a vestibule, and compared with the Rivenlo it offers a far taller center.\n\nChoose it if you want a quick pitch and a stand-up cabin. One skylight, four mesh windows and two D-shaped doors help airflow.",
     "specs": [
       "4-5 person, 96 x 121 x 78 in",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41iHeo0-McL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GJS9TCQ2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GJS9TCQ2?tag=rvgearlab-amz-20",
     "description": "The ADSMART is a 4/5 person instant tent measuring 126 by 108 by 68 inches and folding to 8.6 by 8.6 by 36.6 inches. A pre-attached pole frame sets up in 60 seconds, six steel leg poles add stability and three large mesh windows move air.\n\nIt is the least expensive instant tent here, with a 15 lb carry weight. Against the Timber Ridge it gives a bigger footprint and a lower roof, and it lists no millimeter rating.\n\nIt suits families who want a fast pitch and a big floor at a low price. An expandable storage bag helps with packing.",
     "specs": [
       "4/5 person instant tent",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zCjX5xJXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GQGT17KY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GQGT17KY?tag=rvgearlab-amz-20",
     "description": "The Rivenlo is a 5-6 person pop-up tent measuring 142 by 96 by 51.2 inches. It lists up to 6 people in sleeping bags or 4 to 5 with lots of gear, 190T polyester with PU 3000 waterproofing and a removable rainfly over a skylight.\n\nThe floor runs 142 inches, longer than every pick except the 12 ft Vidalido, and it opens automatically. Against the ADSMART it adds a skylight and a PU 3000 rating, and its center is lower at 51.2 inches.\n\nIt suits families who want a pop-up with a long floor and an honest gear note. Four mesh windows and two doors help ventilation.",
     "specs": [
       "5-6 person pop-up tent",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41+-WbSdGLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GV24HP59?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GV24HP59?tag=rvgearlab-amz-20",
     "description": "The Outvita is a 3-5 person inflatable tent measuring 116.1 by 81.1 by 78.3 inches, with about 65 square feet of floor. It uses 420D Oxford cloth with PU3000mm, PVC air beams with a repair kit and a skylight with a privacy shade.\n\nIt is the only inflatable in the group, and one person can pitch it in 10 to 15 minutes. Against the Timber Ridge it needs a pump and more time, and it trades the instant frame for air beams.\n\nIt suits families of four who want a glamping-style tent with a stand-up center. The listing includes a repair kit for the beams.",
     "specs": [
       "3-5 person inflatable",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ZqaK539ML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GCH8VK23?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GCH8VK23?tag=rvgearlab-amz-20",
     "description": "The Vidalido is a 5-6 person dome measuring 12 ft by 10 ft by 8 ft, with a conical shape that lets people stand inside without restriction. It uses 190T patterned polyester and 150D Oxford fabric with reinforced steel poles and mesh doors and roof.\n\nIt has the tallest peak of the group at 8 ft and the roomiest floor at 12 by 10 ft. Against the Timber Ridge it costs less and lists a taller peak, while the Timber Ridge adds a documented seam rating.\n\nIt suits families who want standing room for changing and a big floor. The listing says setup takes 5 minutes or less.",
     "specs": [
       "5-6 person, 12 x 10 x 8 ft",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31lbFBXxP+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08RJ92BGM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08RJ92BGM?tag=rvgearlab-amz-20",
     "description": "The CAMEL CROWN is a 2/3/4/5 person size family dome with a polyester shell, 8.5mm glass fiber poles and a 150D Oxford PU2000 floor. Four windproof ropes, eight iron stakes and double-layer mesh screens complete the kit.\n\nIt is the cheapest of the six, and as a size family it is not a single 5-person tent. Against the Rivenlo it lists a PU2000 floor and no pop-up frame.\n\nIt suits budget campers who need a basic 5-person dome. Setup takes a few minutes with the carrying bag included.",
     "specs": [
       "2/3/4/5 person size family",

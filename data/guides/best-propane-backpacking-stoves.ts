@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41PHUHg9-WL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0009PUR5E?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0009PUR5E?tag=rvgearlab-amz-20",
     "description": "The Coleman Bottletop is a single-burner propane stove with up to 10,000 total BTUs listed, a pressure regulator, wind baffles and a PerfectHeat design. It screws onto a 16.4 oz propane cylinder, which is sold separately, for a stated runtime of up to 2.5 hours on high.\n\nIt is the only stove here built around a propane cylinder from the start, and its adjustable burner fits an 8 inch pan. Compared with the adapter-based stoves, it has better simmer control and a 3-year limited warranty.\n\nIt suits car-based backpackers and base campers who fry and simmer. The burner and base separate from the bottle for compact storage.",
     "specs": [
       "7,650 BTU propane burner",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41RLLaCJDxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09C5WKDM8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09C5WKDM8?tag=rvgearlab-amz-20",
     "description": "The Sagafly stove ships with an extra 1 lb propane tank adapter, so it works with both 7/16 thread butane-propane canisters and a propane cylinder. It adds a piezo igniter, a rotary valve, a thick stainless-and-copper pot support and a hard-shell carry case.\n\nIt is the lightest-priced way to run propane on a backpacking burner. Compared with the Coleman, it packs smaller and gives up the regulator and wind baffles.\n\nIt suits budget hikers who switch between canisters and a cylinder. Foldable pot supports fit it into its case.",
     "specs": [
       "Works with canister or 1 lb propane",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/416fyyshv9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09QXN96DF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09QXN96DF?tag=rvgearlab-amz-20",
     "description": "The SEADESKY stove comes with an adapter so it works with 7/16 thread butane-propane canisters (EN 417) and 16 oz propane tanks. A honeycomb mesh cover and a windproof shield help the flame, with push-button piezo ignition and three legs.\n\nIts three legs and serrated pot arms give a low, stable stance that the Sagafly lacks on the page. The foldable body comes with a carrying case.\n\nIt suits hikers who want a wind shield built in and a fuel choice. Low ground height adds stability.",
     "specs": [
       "Adapter for propane tanks and canisters",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41oxFcZEApL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0829RKQXZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0829RKQXZ?tag=rvgearlab-amz-20",
     "description": "The Odoland stove lists up to 3,500 watts, a windshield design, piezo ignition, a flame controller and two kinds of connector. It works with 7/16 thread propane and butane-propane canisters, and the page says it boils 1 liter in about 3 minutes under good conditions.\n\nThat is the quickest boil time stated here, and the listing notes it varies with weather, fuel and cookware. A carry case and an adapter are included.\n\nIt suits hikers who want fast kettle boils and a fuel adapter. The windshield helps on breezy mornings.",
     "specs": [
       "Up to 3500W output",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41JavTsgoZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01HQRD8EO?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01HQRD8EO?tag=rvgearlab-amz-20",
     "description": "The Gas One GS-3400P runs on an 8 oz butane cartridge or a 16.4 oz propane cylinder, and a propane converter regulator is included. Ignition is automatic piezo, heat is set by a dial, and a pressure sensor ejects the butane cartridge and cuts the gas flow.\n\nIt is the only pick that lists both fuels by name with a converter, which makes it flexible. It is larger than the hiking stoves, so it suits car trips more than long carries.\n\nIt suits families who keep both fuels around. A carrying case comes with it.",
     "specs": [
       "Butane or propane dual fuel",

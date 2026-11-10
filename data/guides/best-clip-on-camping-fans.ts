@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51RSwrVkwkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GL1S2NY7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GL1S2NY7?tag=rvgearlab-amz-20",
     "description": "The AVAVO is a clip-on fan with a 40,000mAh battery and a listed 150 hours of continuous use. It has a 3.1 inch clamp with an extra screw-tightening mechanism, a portable handle, 3 speeds, a 1 to 5 hour timer, night mode and a 720 degree adjustable head.\n\nIt has the biggest battery and the longest listed runtime here, ahead of the 10,000mAh Koonie and Gentsvip. The screw clamp is also more secure than a spring clip.\n\nIt suits campers who want a fan that runs for days from a cot or camp chair. The listing names golf cart and treadmill use.",
     "specs": [
       "40,000mAh, 150 hours",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/514ihAXofPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H9KW3XX2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H9KW3XX2?tag=rvgearlab-amz-20",
     "description": "The Gentsvip is an 8-inch clip fan with a 10,000mAh battery listed for up to 30 hours, 9 speeds and a brushless motor. It has a 3 inch anti-slip clamp with a weighted base, a built-in LED light and a 360 degree rotating head.\n\nIt lists 9 speeds against the Koonie's 3, with a longer runtime than the Koonie's 24 hours. It also adds an LED light that the Koonie lacks.\n\nIt suits campers who want fine speed control and quiet nights from a cot or chair. The weighted base lets it stand on a table.",
     "specs": [
       "8-inch, 10,000mAh, 30 hours",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51VBJ4N0oKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08866RDYK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08866RDYK?tag=rvgearlab-amz-20",
     "description": "The Koonie is an 8-inch clip fan with a 10,000mAh battery that lasts up to 24 hours and charges in 6 hours at 5V 2A. It has three 8-inch blades, a 3 inch clamp, 3 speeds plus an energy saving setting and a 360 degree head, and it is sold in black and blue.\n\nIt names a 6 hour charge time and Type-C charging, where the Gentsvip lists no charge time. It has fewer speeds and no light.\n\nIt suits campers who want a simple, strong clip fan for a cot or desk. The 3 inch clamp attaches to desk edges and treadmill frames.",
     "specs": [
       "8-inch, 10,000mAh, 24 hours",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41LAFAZQCrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CQN1RNTC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CQN1RNTC?tag=rvgearlab-amz-20",
     "description": "The Gaiatop lantern clip fan has 8 LED beads, 360 degree vertical and horizontal rotation and a clip with soft pads. It lists 14 hours on low, 7.5 hours in sleep mode and 4.5 hours on high, and it measures 7.17 by 2.59 by 7.95 inches.\n\nIt gives named hours at three settings, which the AVAVO does not. It is smaller than the 8-inch fans and costs less.\n\nIt suits tent campers who want light and air from a clip, desk or hook. The soft pads protect the surface it grips.",
     "specs": [
       "8 LEDs, 360 degree rotation",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411dYxyUMyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BKQ7MY3L?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BKQ7MY3L?tag=rvgearlab-amz-20",
     "description": "The Gaiatop mini has a 2000mAh battery rated for 2.5, 5 or 10 hours by speed and works while charging. It has a brushless motor, 5.5mm gaps that block small fingers and a clamp that opens to 1 inch with a sponge pad, and it weighs 0.71 lb at 5.11 by 1.54 by 6.77 inches.\n\nIt is the cheapest and lightest here, with a clamp that fits thin edges only. It runs for a night on low, and it also runs on USB.\n\nIt suits stroller, desk and bunk use where space is tight. The finger guard suits families.",
     "specs": [
       "2000mAh, 2.5 to 10 hours",

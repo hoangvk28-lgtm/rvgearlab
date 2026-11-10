@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41EH-da0UdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F87T361D?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F87T361D?tag=rvgearlab-amz-20",
     "description": "The GENMAX GM7250iEDC is a dual-fuel inverter generator rated 7,250 starting and 6,000 running watts on gasoline, and 6,000 starting and 5,500 running watts on propane. Its listing says the 50A socket delivers full power at 120V through a voltage transfer switch, and it adds a digital display for hours, load, fuel level and amps, an electronic fuel gauge and an outlet for an automatic transfer switch. Carbon monoxide detection shuts the engine off, and the warranty is three years with lifetime technical support.\n\nIt is first because it publishes the most usable numbers and is the only one here that states both fuels' running watts together with a 3-year warranty. It costs $600 more than the EFURDEN and the AIVOLT, and $500 more than the Powerhorse. The AIVOLT claims more running watts on paper (6,300), but with a shorter warranty and no inverter claim. The extra money buys inverter output, a 50A outlet and a longer support promise.\n\nPick this if you have a 50-amp coach and want a documented running figure close to the 7000 label with the best paperwork behind it. The caveat is that the listing gives no weight, dBA or runtime figure, so check the dimensions and weight before you plan on lifting it into a truck bed.",
     "specs": [
       "7,250 peak, 6,000 running",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/415pBLk5K4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FFMTW2YH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FFMTW2YH?tag=rvgearlab-amz-20",
     "description": "The AIVOLT 7500 uses a 322cc OHV engine with a cast iron sleeve and is rated 7,500 peak and 6,300 rated watts on gasoline, or 6,800 peak and 5,800 rated watts on propane. It carries a 120/240V 50A NEMA 14-50R outlet, a 120V 30A twist-lock and standard 20A household outlets, plus a digital panel with voltage, frequency and run time and a CO Watch-Guard that shuts the engine down. The kit includes oil, an LPG hose and tools, and the warranty is two years.\n\nIt ranks second because its 6,300 running watts is the highest figure in this group and it costs only $699.99, the same as the EFURDEN and $600 below the GENMAX. It gives up the inverter-style clean power and light weight of the EFURDEN, and it has one year less warranty than the GENMAX. Against the Powerhorse it adds a stated running rating for $100 less.\n\nChoose it when you want the most running watts per dollar and a 50A plug for a motorhome or a transfer switch. The caveat is that the listing does not claim inverter output or give a weight or noise level, so a conventional generator may be louder than the inverter units here.",
     "specs": [
       "7,500 peak, 6,300 running",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4160dpQTxgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HC1W23YY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HC1W23YY?tag=rvgearlab-amz-20",
     "description": "The EFURDEN 7000W is a gas-only inverter generator with a 223cc OHV engine, rated 7,000 peak and 5,500 running watts. Its listing gives numbers the others skip: less than 2 percent THD, 89 pounds, 23.81 by 16.92 by 22.04 inches, a 3.5 gallon tank, up to 11 hours at 25 percent load in Eco Mode, and 69 dB measured from 23 feet. The RV outlet is a 30A TT-30R.\n\nIt ranks third because 5,500 running watts is the lowest stated figure here, 800 watts under the AIVOLT at the same $699.99 price, and it is $600 below the GENMAX. Its edge over both is the published weight and noise data, since 89 pounds and 69 dB at a stated distance are things you can plan around. Against the Powerhorse it costs $100 less and publishes a running rating.\n\nThis suits owners of 30-amp trailers who want clean power for electronics and a noise figure they can compare. The caveat is the 30A outlet: at 120V it tops out near 3,600 watts, which is simple arithmetic from 30 amps, so it will not feed a 50-amp coach without an adapter and a plan for splitting loads.",
     "specs": [
       "7,000 peak, 5,500 running",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Twaslf85L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F3CP4RV5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F3CP4RV5?tag=rvgearlab-amz-20",
     "description": "The Powerhorse 7,000 Watt generator has a 298cc engine with a cast iron cylinder sleeve and dual-fuel technology that lets it switch between gasoline and propane without shutting down. The listing also names CO detection with an indicator light, an automatic voltage regulator with a multimeter, and a control panel showing run time, voltage and frequency. It does not publish running watts, outlet types, weight or warranty.\n\nIt sits last because the 7,000 figure cannot be tied to a running rating, which is the exact boundary this guide cares about. It costs $100 more than the EFURDEN and the AIVOLT, both of which state running watts, and $500 less than the GENMAX, which also lists its outlets and warranty. The switch-without-shutdown feature is its distinct selling point.\n\nPick this only if you value changing fuels mid-run, and you will confirm the running watts and outlet layout from the manual before buying. The caveat is that the listing leaves out the details an RV owner most needs, so treat the 7,000 as a peak figure until proven otherwise.",
     "specs": [
       "7,000 watts, 298cc engine",

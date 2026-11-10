@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41LQwQHeCHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H35YLPBS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H35YLPBS?tag=rvgearlab-amz-20",
     "description": "The Vrygle is a portable wood-burning hot tent stove that doubles as a cooking surface. Its kit holds the stove body, six detachable chimney pipes that reach 73.23 inches, a spark arrestor, a fire grate net, an ash scraper, ash hook, gloves, tent stakes and ropes.\n\nUnlike the propane heaters here, it vents smoke and exhaust through a chimney, so it is the one pick built to stay running through a long cold night. It is built from reinforced iron and stainless steel, and the pipe sections let you match chimney height to the tent.\n\nIt suits a camper with a hot tent or a stove-jack tent. Wood heat and a cooking top come in one unit.",
     "specs": [
       "Wood stove with chimney",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51+0y24X+0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FFGRHXPV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FFGRHXPV?tag=rvgearlab-amz-20",
     "description": "The HEYDUOTON is a cordless radiant propane heater with an adjustable control knob and a foldable gas tank holder. A windproof lighter comes in the box, and the listing positions it for camping, hunting, tailgates and ice fishing.\n\nIt costs the same as the GasCalorix and brings the tank holder and lighter in the package. Against the Hisencn it works from a tank holder instead of mounting straight to a bottle.\n\nIt suits a car camper who wants simple radiant warmth near a seating area. Heat is adjustable by a single knob.",
     "specs": [
       "Cordless propane radiant heater",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/413iaJZoriL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FF9W8WCW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FF9W8WCW?tag=rvgearlab-amz-20",
     "description": "The GasCalorix is a portable propane radiant heater that the listing says heats up to 200 square feet. It runs on 1 lb propane tanks, which are not included, and has two heat settings on a control knob.\n\nA protective front grill and a cylinder stand set it apart from the Hisencn's direct-mount design. It is priced the same as the HEYDUOTON.\n\nIt suits a camper who wants a compact heater with quick warm-up. The listing advises use in well-ventilated areas.",
     "specs": [
       "200 sq ft radiant output",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41nRwkbPyBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GDG7WKF5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GDG7WKF5?tag=rvgearlab-amz-20",
     "description": "The Hisencn mounts straight to a butane bottle or, with the included adapter, to a 1 lb propane tank. It makes up to 4,300 BTU on propane and 2,000 BTU on butane, and it ships in a nylon-and-ABS carry case.\n\nIt is the only heater in this set that lists both outputs, and the electronic ignition adds a high-altitude assist button that the others do not name. It costs a little less than the HEYDUOTON and GasCalorix.\n\nIt suits a camper at elevation who wants a compact heater. Either fuel works with it.",
     "specs": [
       "4,300 BTU propane, 2,000 butane",

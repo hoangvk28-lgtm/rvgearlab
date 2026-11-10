@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41dd66LykhL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BR3RCM9C?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BR3RCM9C?tag=rvgearlab-amz-20",
     "description": "The Raynic lists 650 lumens with smooth rotary dimming from 0 to 650, and about 200 hours at 50 lumens on a full charge. It charges mainly by 5V 2A micro USB, with a solar panel and a hand crank as backups.\n\nIt is the only pick with a hand crank, a third route the Lichamp 4-Pack and XTAUTO do not list. At 6.4 x 4.1 x 4.1 inches and 0.83 lb with a metal handle, it is a sturdy table-top unit.\n\nIt suits households building an outage kit who want the most backup routes and a strong, dimmable light. The warm-to-white transition helps in a living room.",
     "specs": [
       "650 lumens, rotary dimming",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410w1AkpevL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DW47WDML?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DW47WDML?tag=rvgearlab-amz-20",
     "description": "The Lichamp 4-Pack gives four pop-up lanterns that each run on USB, solar or AA batteries. It lists military-grade ABS, overcharge protection, three light modes and a power bank function.\n\nIt has three power routes per lantern, where the Raynic has three on one unit. Four lanterns cover four rooms, and each collapses to about smartphone size.\n\nIt suits families who want a light in every room plus a spare AA route. The overcharge protection is a plus for long storage.",
     "specs": [
       "Four pop-up lanterns",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41U5j1DLWpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09WN3TNSV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09WN3TNSV?tag=rvgearlab-amz-20",
     "description": "The XTAUTO is a two-pack of collapsible solar lanterns with 6+1 LED chips and a 1600mAh battery in each. It lists more than 25 hours of light, solar and USB charging, and an automatic power-off.\n\nIt costs the least of the five per pair and gives two lanterns. It folds to about the size of a phone.\n\nIt suits households that want inexpensive backups for two spaces. The folding handle hangs on a hook or tent loop.",
     "specs": [
       "Two lanterns, 1600mAh each",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41rc3BHlyWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DW48CVCY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DW48CVCY?tag=rvgearlab-amz-20",
     "description": "The Lichamp Collapsible combines a flashlight with a 360 degree lantern at 300 lumens. It charges by solar or USB, has overcharge protection and a USB output port for Android devices.\n\nNo other lantern here names a phone output port. Unlike the Lichamp 4-Pack, it is one light, so it fits a day pack.\n\nIt suits people who want a light and a phone top-up in one body. The ABS body is described as military grade.",
     "specs": [
       "300 lumens, flashlight handle",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31bDvDLLx3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0716JV1SG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0716JV1SG?tag=rvgearlab-amz-20",
     "description": "Inflated, the LuminAID Nova gives 75 lumens in several brightness steps from a sealed IP67 shell. It claims up to 24 hours per charge and uses no spare cells at all.\n\nIt has the highest water rating of the five and packs flattest when deflated. Output is lower than the Raynic's 650 lumens.\n\nIt suits flood-prone homes, boat kits and kayak trips where waterproofing matters most. Its shatterproof body is safe around children.",
     "specs": [
       "75 lumens, 24 hours",

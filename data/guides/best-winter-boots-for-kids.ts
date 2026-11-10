@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ROZoTgtfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B92JFRRZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B92JFRRZ?tag=rvgearlab-amz-20",
     "description": "The BOGS Grasp is a 100 percent waterproof kids' boot made from Yulex natural rubber, with 5 mm Neo-Tech insulation and a comfort rating of -22 degrees Fahrenheit. Easy-on handles on both sides help children pull the boots on.\n\nIt is the only pick with a stated cold rating and a fully rubber, no-seam waterproof build, which makes it the warmest and driest of the group. The side handles give it easier entry than the lace-up BODATU Faux Fur and bungee CIOR Reflective.\n\nIt suits kids who stomp through slush and spend long days outdoors in deep cold. It also works for school recess in wet snow.",
     "specs": [
       "Comfort rated to -22 F",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41a92iebxlL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B87RYQJC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B87RYQJC?tag=rvgearlab-amz-20",
     "description": "The BODATU Faux Fur is a boys' snow boot with a waterproof textile and synthetic upper, a warm faux fur lining and a textured slip-resistant outsole. An adjustable lace-up closure customizes the fit around the foot.\n\nA lace-up closure holds the foot more securely than the pull-on style of the PolarPals Bungee, and the faux fur lining is warmer in feel than the DREAM PAIRS Drawstring. Its price is roughly half that of the BOGS Grasp Rubber.\n\nIt suits an older child who can tie laces and wants a classic snow boot look for school and outdoor play. The size chart on the listing helps get the length right.",
     "specs": [
       "Waterproof textile upper",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Xbfvfq8TL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FH2HCNF8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FH2HCNF8?tag=rvgearlab-amz-20",
     "description": "The DREAM PAIRS Drawstring is a unisex kids' snow boot with a thick textile upper, a waterproof PVC shell and an adjustable drawstring that cinches the top. A grippy bottom is listed for snowy ground.\n\nThe drawstring top blocks snow better than the open collar on the PolarPals Bungee, and the PVC shell makes it more waterproof than the fabric CIOR Reflective. It costs slightly less than the BODATU Faux Fur.\n\nIt suits a child who plays in deep snow and needs a snug cuff to keep powder out. The unisex styling works for any child.",
     "specs": [
       "Waterproof PVC shell",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31eEzyprJeL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B099YDC6KF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B099YDC6KF?tag=rvgearlab-amz-20",
     "description": "The Western Chief Freestyle is a seamless waterproof TPE and neoprene boot with 5 mm insulated neoprene, a soft fleece lining and a fleece-lined EVA insole. A durable traction outsole is listed for wet sidewalks and mud.\n\nSeamless construction gives it more waterproofing than the stitched CIOR Reflective, and the fleece and neoprene give it a warmer lining than the PolarPals Bungee. It costs less than the BODATU Faux Fur.\n\nIt suits an active child who plays in puddles and snow on the same day. Sold in toddler, little kid and big kid sizes, so siblings can share the model.",
     "specs": [
       "Seamless TPE and neoprene",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Bc-qYfJUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B089LR93VY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B089LR93VY?tag=rvgearlab-amz-20",
     "description": "The CIOR Reflective is a kids' winter boot with a bungee-cord topline, a fur lining, a waterproof oxford upper and hook-and-loop closure. Reflective piping at the back of the shaft maintains visibility in the dark, and the sole is non-slip rubber.\n\nReflective piping is unique in this group and a safety plus on dark winter afternoons, while the hook-and-loop makes it easier than the BODATU Faux Fur laces. It costs less than the Western Chief Neoprene.\n\nIt suits a school-age child who walks to the bus in the dark. The bungee cord seals cold air out at the top.",
     "specs": [
       "Reflective back piping",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41doHOab-+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DK916SQC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DK916SQC?tag=rvgearlab-amz-20",
     "description": "The PolarPals Bungee is a toddler-to-kids snow boot with insulation described as advanced, waterproof materials, a slip-resistant outsole and bungee laces with a wide opening. It is offered in many colors and patterns.\n\nPriced below the rest, it also has the widest opening, which makes entry easier than on the BODATU Faux Fur. It gives fewer lining details than the Western Chief Neoprene.\n\nIt suits a child who needs a cheap, easy-on boot for short snow days. The bungee laces mean no tying.",
     "specs": [
       "Bungee laces, wide opening",

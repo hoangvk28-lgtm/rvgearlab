@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51imnE8ajJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H5W4L4BH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H5W4L4BH?tag=rvgearlab-amz-20",
     "description": "The AEDI is a triple-motor zero gravity power recliner that adjusts the headrest and lumbar area electrically. It uses top grain leather, solid wood armrests, and a spring-free medium-firm high-density foam cushion, and it is recommended for adults up to 6 feet tall.\n\nNext to the Suteck 33-Inch XXL, it is the only pick with motorized lumbar control, trading portability for precise support. It suits motorhome owners who want a permanent indoor seat with UL-certified motor components.",
     "specs": [
       "Triple-motor adjustment",
@@ -56,7 +56,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41iX6Gz93eL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DHZL96B8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DHZL96B8?tag=rvgearlab-amz-20",
     "description": "The Suteck 33-Inch XXL is rated for 500 pounds on a 40mm (1.6 inch) steel frame, with a 4th-generation aluminum lock. Its 60 by 24.5 inch cushion has 4 inches of padding, and the ergonomic shape is described as relieving pressure on the shoulders and back.\n\nCompared with the ZENPETIO 29-Inch, it offers a wider seat and thicker padding rather than a lower price. It suits larger campers who want a thick pad behind the lower back in a chair that folds.",
     "specs": [
       "500 lb capacity",
@@ -86,7 +86,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/417Ij6-oozL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CRB6R1F1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CRB6R1F1?tag=rvgearlab-amz-20",
     "description": "The ZENPETIO 29-Inch XL is rated for 440 pounds and uses a high-strength aluminum alloy lock with a reinforced steel frame and dual-layer elastic ropes. Its plush removable cushions are described as breathable and give a soft touch against the back.\n\nAgainst the Suteck 33-Inch XXL, it is narrower and rated lower, but costs less and still carries a thick removable pad. It suits mid-size campers who want back comfort and a firm lock at a lower price.",
     "specs": [
       "440 lb capacity",
@@ -116,7 +116,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41kuUQXyA6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H8S4S8PL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H8S4S8PL?tag=rvgearlab-amz-20",
     "description": "The Slendor Heated XXL has heating pads built into the cushion and a 33 inch XXL frame with a third-generation aluminum lock. Double-layer bungee cords and a 1 mm aluminum alloy steel tube frame hold it together, with a removable 3.1 pound back cushion.\n\nCompared with the ZENPETIO 29-Inch, it adds heat to ease a tight lower back on cool evenings. It suits campers who camp in cooler weather and find warmth helps sore muscles.",
     "specs": [
       "Built-in heating pads",
@@ -146,7 +146,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41DcOpVU9EL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GTQ9SBNN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GTQ9SBNN?tag=rvgearlab-amz-20",
     "description": "The NEWBULIG recliner has a heavy-duty metal frame rated for 440 pounds and recline between 90 and 170 degrees using replaceable elastic cords. It includes a removable padded cushion and a cup holder pillow, and it folds for transport.\n\nAgainst the Slendor Heated XXL, it skips heat and width to cost less, yet keeps a wide recline range. It suits budget campers who want a basic padded folding chair with a lockable recline.",
     "specs": [
       "440 lb capacity",

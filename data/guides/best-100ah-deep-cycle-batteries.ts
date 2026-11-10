@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31nwzLZB-TL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FL72KPBZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FL72KPBZ?tag=rvgearlab-amz-20",
     "description": "The RVLithTime packs 100Ah of LiFePO4 at 12V into a mini Group 24 case that is 10.2 inches long, 6.65 wide and 8.39 tall. The listing claims it is 35 percent smaller than a standard Group 24 and 80 percent lighter than lead-acid, with a 100A BMS, 1280Wh and 15,000 cycles.\n\nIt is the lowest-priced battery in the list and undercuts the CHITOLI by a clear margin. Compared with the AGM batteries, it offers a built-in BMS and a long cycle claim at a fraction of the weight.\n\nIt suits campers who need 100Ah in a tight space, such as a van or small trailer. The listing recommends it for 30 to 70 lb thrust trolling motors and solar systems.",
     "specs": [
       "12V 100Ah LiFePO4, mini Group 24",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41bRdVjy7kL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DY72MKZ2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DY72MKZ2?tag=rvgearlab-amz-20",
     "description": "The CHITOLI is a Group 24 lithium iron phosphate battery rated at 100Ah with a 100A smart BMS. The listing claims 4000+ cycles at 100 percent depth of discharge, 6000 at 80 percent and 15,000 at 60 percent, plus a 10-year lifespan and a charge in about 5 hours at 14.6V and 20A.\n\nIt lists a fuller set of cycle numbers than any other pick, covering three depths of discharge. Compared with the RVLithTime it uses the standard Group 24 size, which fits more existing boxes, and it costs a bit more.\n\nIt suits campers swapping lead-acid for lithium who want published cycle data at different depths. The listing positions it as a drop-in for lead-acid conversion.",
     "specs": [
       "12V 100Ah Group 24 LiFePO4",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31soCn59teL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B075RFXHYK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B075RFXHYK?tag=rvgearlab-amz-20",
     "description": "The Renogy 100Ah is a sealed AGM battery that supports unlimited series and up to four parallel connections. The listing names a 1100A 5-second maximum discharge, operation from -4 to 140 degrees F and enough output to run a fridge, microwave and similar appliances.\n\nIt has the wider temperature range of the two AGM batteries and a price just under the WEIZE. It also publishes a clearer expansion rule, with unlimited series and up to four in parallel.\n\nIt suits campers who want sealed lead-acid without lithium's charger demands. The listing stresses stable chemistry and minimal troubleshooting.",
     "specs": [
       "12V 100Ah sealed AGM",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41bqV6Wt2oL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07SW353M8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07SW353M8?tag=rvgearlab-amz-20",
     "description": "The WEIZE is a maintenance-free 12V 100Ah AGM battery with a 12.99 inch body. The listing names a 1-3 percent monthly self-discharge, 1100A max discharge for 5 seconds, a charge range of 14 to 122 degrees F and a discharge range of 5 to 122 degrees F.\n\nIt is the only pick that spells out separate charge and discharge temperature limits, with a 1-year warranty. Against the Renogy it covers a narrower temperature window at a nearly identical price.\n\nIt suits campers who want a basic maintenance-free AGM for an RV, solar setup or trolling motor. The listing also names wheelchairs, scooters and golf carts as uses.",
     "specs": [
       "12V 100Ah AGM",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51PGM1FfMUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GXXNZHG1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GXXNZHG1?tag=rvgearlab-amz-20",
     "description": "The Everfire is a 7.2 by 5.4 by 5.9 ft shelter with reinforced 4 inch PVC air frames, PU3000 waterproofing and a detachable zippered rear awning. It inflates with the included manual pump in about 2 minutes and is designed for 5.5 to 8 ft beds.\n\nAgainst the WildFinder and ziziella it matches the size and adds a zip-on awning for shade and entry cover. The floor is built to keep dust and debris out through bed gaps. Its securing system adjusts across short and long beds.\n\nIt suits solo truck campers who want shade at the tailgate and a pole-free setup. The awning zips off for a cleaner profile when parked.",
     "specs": [
       "Detachable zippered rear awning",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4131aGUUIaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GX6DMLH1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GX6DMLH1?tag=rvgearlab-amz-20",
     "description": "The WildFinder inflatable uses 10 cm TPU air columns, 150D Oxford cloth and a PU3000mm rating in a 7.2 by 5.4 by 5.9 ft layout. It weighs 8.1 kg net, folds into a 65 by 37 by 35 cm bag and holds 2 to 3 adults under a 180 cm peak.\n\nNext to the Everfire it drops the awning and weighs a stated 8.1 kg, so it is the one to choose for a bag that fits behind the seat. Its TPU beams are the only ones in the group described as high-strength 10 cm columns.\n\nIt suits campers with small cab storage and a short packing list. Large windows and a panoramic skylight help airflow.",
     "specs": [
       "10 cm TPU air columns",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51hj5IqbEiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H9KQ2299?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H9KQ2299?tag=rvgearlab-amz-20",
     "description": "The ziziella fits 5.5 to 8 ft beds, sets up in about two minutes with a manual pump and sleeps two to three people. It includes a skylight, two ventilation side windows, a dedicated air conditioning vent and a data cable channel.\n\nWhere the Everfire adds an awning, this model adds a cable and air-conditioner pass-through. Its PU3000mm double waterproof layer matches the premium models.\n\nIt suits campers who run a power cord or a portable AC unit into the tent. Any AC unit must be sized to your power source, and keep fuel-burning equipment out of the tent.",
     "specs": [
       "Dedicated AC vent",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41owmtbH+vL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GKNSYPL2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GKNSYPL2?tag=rvgearlab-amz-20",
     "description": "The OPL5 combines tent and air mattress, with a built-in wireless rechargeable pump that inflates in about three minutes at the press of a button. It measures 79 by 59 by 53 inches inflated and uses 210D Oxford cloth with a PU2000mm rating.\n\nNo other pick here has a flocked inflatable mattress built into the floor, so there is no separate pad to buy. It sets up on the truck bed or on the ground, unlike the beam-only models.\n\nIt suits campers who want one system for bed and shelter. The ergonomic pillows come attached to the flocked surface.",
     "specs": [
       "Tent plus mattress in one",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41SzB5UVoUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DRXX4X77?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DRXX4X77?tag=rvgearlab-amz-20",
     "description": "The Niphean lists a 2-minute solo setup and fits 5.5 to 8 ft beds, with room for two adults plus a child under a 72 inch peak. It uses PU3000mm fabric with a built-in UPF 50+ awning canopy, a dedicated truck air conditioning vent, side windows and a panoramic skylight.\n\nNext to the Everfire it integrates the awning rather than zipping it on, and it adds a truck air conditioning vent. The seller states a 30-day return and a 1-year warranty.\n\nIt suits a couple with a child who wants standing-height headroom. The skylight and the vent expand its seasons.",
     "specs": [
       "2+1 people, 72 in peak",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41URmdHWIuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CYLXGNKY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CYLXGNKY?tag=rvgearlab-amz-20",
     "description": "The JOYTUTUS is made for 5.5 to 5.8 ft beds and lists a 30-second inflation with its supplied manual pump. It uses 210D Oxford with a 1200PU coating and waterproof tape at every seam, plus an extra truck roof shade and mesh double-door curtains.\n\nNo inflatable here costs less, and it is the only one tuned to a short bed. Next to the Niphean it skips the awning and adds a roof shade that guards the cab gap.\n\nIt suits short-bed truck owners who want dual-use truck or ground camping for the lowest price. Three windows including one that opens toward the cab provide airflow.",
     "specs": [
       "Made for 5.5 to 5.8 ft beds",

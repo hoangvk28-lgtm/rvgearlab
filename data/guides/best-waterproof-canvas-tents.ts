@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51adFVPp-CL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CRHPM5LS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CRHPM5LS?tag=rvgearlab-amz-20",
     "description": "The WHITEDUCK Regatta is a bell tent in breathable performance canvas with a PFC-free finish that the maker calls completely water resistant. A sewn-in groundsheet, mesh windows, roof vents, a stove jack, poles, a tool kit and a weatherproof bag are in the kit.\n\nAgainst the VANFOND it has a PFC-free finish and a tool kit, at a higher price. Compared with the WaldZimmer it states a water-resistant finish with no long-rain warning.\n\nIt suits glampers who want a complete, weather-ready bell tent. Two-layer doors and windows add protection, and a cable outlet keeps devices powered.",
     "specs": [
       "Performance canvas bell",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/319uuK7PBmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CRVQVY3N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CRVQVY3N?tag=rvgearlab-amz-20",
     "description": "The VANFOND bell tent is 13.1 ft across with an 8.2 ft top, a 5 ft door and 23.6 inch sidewalls and fits a queen bed plus two blow-up mattresses. It has a sewn-in PVC groundsheet, a 5 inch stove jack, mesh door, 4 windows and roof vents.\n\nIt costs less than the WaldZimmer wall tent and the WHITEDUCK and is called waterproof and breathable. Against the Dream House it has a rounder, taller shape.\n\nIt suits families who want a large bell tent with a rainproof description. Roll-up walls and a detachable floor give flexibility.",
     "specs": [
       "13.1 ft, 8.2 ft top",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/61JSn3qwlOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B06XWXQ94Z?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B06XWXQ94Z?tag=rvgearlab-amz-20",
     "description": "The Dream House cotton canvas tent is called waterproof and four-season and is listed for 10 persons. It has two large doors, four triangle windows with mesh, double stitching and a PVC ground sheet attached with zippers, with 14 large and 14 small stakes and 14 wind ropes.\n\nIt is the largest tent here by capacity and costs less than the wall tent. Against the VANFOND it is a ridge style with a non-removable floor.\n\nIt suits groups who want a large cotton tent. The listing says it needs a lawn of at least 26 ft by 23 ft.",
     "specs": [
       "Cotton canvas, 10 persons",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41SxFCObM5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G4C313P6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G4C313P6?tag=rvgearlab-amz-20",
     "description": "The WaldZimmer wall tent is polycotton canvas with a steel frame, a PVC floor and a rainfly, listed for 6 to 8 people. Rainproof eaves, four steel wires, a double-layer door, 21 wind ropes and 33 pegs are included.\n\nIts price is the highest of the five, and it adds a rainfly and eaves. Against the bell tents it has straight walls on a steel frame.\n\nIt suits campers who want a wall tent with extra rain features. The listing includes mittens and all poles and angle kits.",
     "specs": [
       "Polycotton, steel frame",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51kWwU5iPQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07NSWS6W1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07NSWS6W1?tag=rvgearlab-amz-20",
     "description": "The Dream House pyramid tent is a square cotton canvas tent measuring 215 by 215 by 200 cm that fits 3 people. It uses 285 gsm cotton canvas with a PU coating on galvanized steel poles, with two doors and four ventilation holes.\n\nIt is the cheapest and smallest tent in the guide, and its PU coating is clearly stated. Against the bell tents it has a simpler pyramid design.\n\nIt suits solo campers and small groups who want a quick canvas shelter. The kit includes 4 steel poles, 8 pegs and a carry bag.",
     "specs": [
       "215 x 215 x 200 cm pyramid",

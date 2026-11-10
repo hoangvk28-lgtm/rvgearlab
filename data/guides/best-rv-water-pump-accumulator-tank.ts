@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31KTP1FgSLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B082DKMYLT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B082DKMYLT?tag=rvgearlab-amz-20",
     "description": "The SEAFLO 2 Gallon accumulator is a pre-pressurized 8 liter tank rated to 87 PSI with a 3/4 inch MNPT connection. It is described as reducing pump cycling and absorbing pressure fluctuations and water hammer.\n\nAgainst the 0.75 liter tanks, it holds far more water so the pump rests longer between cycles. Against the Kohree Combo, it is a tank only and has a lower pressure ceiling than the 125 PSI units.\n\nBest for owners who want the biggest cushion in the group. Check the available space and that your pump pressure is under 87 PSI.",
     "specs": [
       "2 gallon, 8L volume",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zA329Nq8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D3DXCRKS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D3DXCRKS?tag=rvgearlab-amz-20",
     "description": "The Kohree set pairs a 12V four-chamber diaphragm pump rated at 5.5 GPM and 55 PSI with a 0.75 liter pre-pressurized accumulator rated to 125 PSI. It uses anti-vibration rubber feet and a shock-proof iron plate to reduce noise.\n\nCompared with the SEAFLO 2 Gal, it is a pump plus tank rather than a tank alone, so it costs more. Compared with the Nilight, it bundles the pump.\n\nBest for owners replacing both a worn pump and a missing tank. If you only need a tank, a standalone model costs less.",
     "specs": [
       "12V pump, 5.5 GPM, 55 PSI",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41EBgyHsdOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F8QP5C92?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F8QP5C92?tag=rvgearlab-amz-20",
     "description": "The maXpeedingrods tank is a 1 liter, 33.8 ounce accumulator with a stated pressure range of 10 to 125 PSI. It includes two barbed fittings for straightforward plumbing and is described as compatible with most pumps.\n\nAgainst the 0.75 liter tanks, it gives about a third more volume. Against the SEAFLO 2 Gal, it is smaller and costs less.\n\nBest for owners who want a bit more volume than a 0.75 liter tank. Check the barbed fitting size on your plumbing.",
     "specs": [
       "1L, 33.8 oz volume",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411Rt0PoQpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FDW361MG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FDW361MG?tag=rvgearlab-amz-20",
     "description": "The Nilight RV Accumulator Tank is a 0.75 liter pre-pressurized unit rated to 125 PSI with gas-water separation and a 1/2 inch MNPT port. It measures about 7.87 by 5 by 4.5 inches and uses an adjustable pressure bladder.\n\nVersus the Hapivida, it lists a smaller size and a lower price. Versus the GOTOTOP, it gives more detail at a slightly higher price.\n\nBest for tight spaces where 1/2 inch MNPT fits your plumbing. Check pre-charge before fitting.",
     "specs": [
       "0.75L, 125 PSI max",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/416EK3YSW4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G7SHTTHR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G7SHTTHR?tag=rvgearlab-amz-20",
     "description": "The Hapivida accumulator tank has a 0.75 liter internal bladder and a 125 PSI maximum operating pressure, with a detachable sealed design measuring about 8.1 by 4.5 by 4.8 inches. It is described as reducing pump cycling.\n\nCompared with the Nilight, it is a bit larger and costs more. Compared with the SEAFLO 2 Gal, it holds far less water.\n\nBest for owners who want a detachable design. Confirm the fitting type before ordering.",
     "specs": [
       "0.75L, 125 PSI max",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Asrrt5ZvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H7F69R8F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H7F69R8F?tag=rvgearlab-amz-20",
     "description": "The GOTOTOP is a 0.75 liter, 25 fluid ounce pre-pressurized tank with a 10 PSI factory charge and a 125 PSI maximum operating pressure. It uses a 1/2 inch MNPT connection and a tire-style valve for air filling.\n\nVersus the Nilight, it is cheaper with similar specs. Versus the maXpeedingrods, it holds less water.\n\nBest for a low-cost smoothing tank. Check the pre-charge against your pump.",
     "specs": [
       "0.75L, 25 fl oz",

@@ -21,7 +21,7 @@ export const products = withAmazonUrls([
     badge: "Best overall",
     name: "Aceup Energy 4000 Watt Gas Inverter Generator Portable Quiet",
     amazonQuery: "Aceup Energy 4000 Watt Gas Inverter Generator Portable Quiet",
-    amazonUrl: "https://www.amazon.com/dp/B0CWN8C57T?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0CWN8C57T?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/518Yw7q0hgL._SL500_.jpg",
     specs: ["Continuous output: 3,200W","Surge output: 4,000W","Runtime claim: Up to 5 hours","Fuel format: Gasoline"],
     specList: [{"label":"Continuous output","value":"3,200W"},{"label":"Surge output","value":"4,000W"},{"label":"Runtime claim","value":"Up to 5 hours"},{"label":"Fuel format","value":"Gasoline"}],
@@ -36,7 +36,7 @@ export const products = withAmazonUrls([
     badge: "Best heavy-duty option",
     name: "WEN Quiet and Lightweight 3600-Watt Dual Fuel RV-Ready Portable Inverter Generator",
     amazonQuery: "WEN Quiet and Lightweight 3600-Watt Dual Fuel RV-Ready Portable Inverter Generator",
-    amazonUrl: "https://www.amazon.com/dp/B0D3WR4CFR?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0D3WR4CFR?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41KdBRQJSQL._SL500_.jpg",
     specs: ["Continuous output: 2,900W","Surge output: 3,600W","Fuel format: Dual fuel","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Continuous output","value":"2,900W"},{"label":"Surge output","value":"3,600W"},{"label":"Fuel format","value":"Dual fuel"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -51,7 +51,7 @@ export const products = withAmazonUrls([
     badge: "Best compact option",
     name: "PowerSmart 3800 Watt Dual Fuel Inverter Generator",
     amazonQuery: "PowerSmart 3800 Watt Dual Fuel Inverter Generator",
-    amazonUrl: "https://www.amazon.com/dp/B0FSD2SJJP?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0FSD2SJJP?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41pN78FIAdL._SL500_.jpg",
     specs: ["Continuous output: 3,300W","Runtime claim: Up to 8 hours","Noise claim: 59 dBA","Fuel format: Dual fuel"],
     specList: [{"label":"Continuous output","value":"3,300W"},{"label":"Runtime claim","value":"Up to 8 hours"},{"label":"Noise claim","value":"59 dBA"},{"label":"Fuel format","value":"Dual fuel"}],
@@ -66,7 +66,7 @@ export const products = withAmazonUrls([
     badge: "Best value pick",
     name: "Oxseryn Power Equipment 4400 Watts Inverter Generator Gas Powered, Portable Open Frame Generator, Low Noi",
     amazonQuery: "Oxseryn Power Equipment 4400 Watts Inverter Generator Gas Powered, Portable Open Frame Generator, Low Noi",
-    amazonUrl: "https://www.amazon.com/dp/B0FQ5BB6SS?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0FQ5BB6SS?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/51q0ZK+ixwL._SL500_.jpg",
     specs: ["Continuous output: 3,400W","Surge output: 4,400W","Listed weight: 56 lb","Runtime claim: Up to 14 hours"],
     specList: [{"label":"Continuous output","value":"3,400W"},{"label":"Surge output","value":"4,400W"},{"label":"Listed weight","value":"56 lb"},{"label":"Runtime claim","value":"Up to 14 hours"}],
@@ -81,7 +81,7 @@ export const products = withAmazonUrls([
     badge: "Best backup pick",
     name: "WEN 6800-Watt Dual Fuel RV-Ready Electric Start Portable Inverter Generator",
     amazonQuery: "WEN 6800-Watt Dual Fuel RV-Ready Electric Start Portable Inverter Generator",
-    amazonUrl: "https://www.amazon.com/dp/B0DVF1RPCJ?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0DVF1RPCJ?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/413AI-l4XIL._SL500_.jpg",
     specs: ["Continuous output: 5,100W","Surge output: 6,800W","Fuel format: Dual fuel","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Continuous output","value":"5,100W"},{"label":"Surge output","value":"6,800W"},{"label":"Fuel format","value":"Dual fuel"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -171,7 +171,7 @@ export const relatedGuides = [
 export const sources = [
   {
     "title": "Aceup Energy 4000 Watt Gas Inverter Generator Portable Quiet product page",
-    "href": "https://www.amazon.com/dp/B0CWN8C57T?tag=rvgearlab-20&linkCode=osi&th=1&psc=1"
+    "href": "https://www.amazon.com/dp/B0CWN8C57T?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1"
   },
   {
     "title": "CPSC carbon monoxide safety center",

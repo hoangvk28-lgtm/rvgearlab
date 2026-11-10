@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31tASX7-CHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GRV6WZDT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GRV6WZDT?tag=rvgearlab-amz-20",
     "description": "The BORULL is a 92 by 63 inch double bag with a printed comfort range of 40 to 65 degrees F and a limit of 30 degrees F. It fits adults up to 7 feet, includes two pillows, an adjustable hood and anti-snag zippers, and unzips flat or splits into two singles.\n\nIt is the only pick here that prints both a comfort and a limit figure, which makes its true range easy to read. It is also the largest of the three, with room for taller sleepers.\n\nIt suits couples and tall campers who want one roomy bag for spring to summer car camping. The adjustable hood helps on cooler mornings.",
     "specs": [
       "92 x 63 in double",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51z0CN852PL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B077TC9NS5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B077TC9NS5?tag=rvgearlab-amz-20",
     "description": "The AGEMORE is a queen-size double with a brushed cotton flannel lining and a 210T water-resistant polyester exterior. The listing says it is designed for 41 to 59 degrees F, compresses into an included bag, and has zippers on both sides so it splits into two singles.\n\nThe flannel lining is something the oaskys and BORULL listings do not describe. One version of the listing states a wider 32 to 59 degree range, so the printed range varies between listings.\n\nIt suits couples who prize a cozy lining for cool nights and want the option to split the bag. The water-resistant shell handles dew.",
     "specs": [
       "Brushed cotton flannel lining",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41xnUFD9y4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BZRQZFTN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BZRQZFTN?tag=rvgearlab-amz-20",
     "description": "The oaskys is a queen XL double measuring about 220 by 145 cm, sold with two pillows. The listing gives a design range of 10 to 20 degrees C, a 210T anti-tearing polyester shell, a 190T pongee lining and a compression sack with straps.\n\nIt is priced about the same as the BORULL and prints its range in Celsius, which works out to roughly 50 to 68 degrees F. It is smaller than the BORULL and does not print a limit rating.\n\nIt suits couples on a tight budget who camp on mild summer nights. The compression sack helps it pack down.",
     "specs": [
       "220 x 145 cm double",

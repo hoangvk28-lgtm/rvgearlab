@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ahatSjeML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B003YJLIW8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B003YJLIW8?tag=rvgearlab-amz-20",
     "description": "The Dicor 551LSW-1 is a 10.3 oz non-leveling lap sealant in white for watertight seals along roof edges, air vents, vent pipes and screw heads. It is formulated for EPDM roofing and listed as compatible with most other roofing, and is sun-ray stabilized.\n\nAgainst Lippert 1010, it is the roof-focused non-leveling option, while the Lippert is rated for vertical sidewalls and rails. Against the self-leveling tubes, it holds its shape on edges and screw heads.\n\nBest for roof edges, vents and fasteners where a self-leveling bead would run. A single tube covers limited length, so buy more for a full roof.",
     "specs": [
       "Non-leveling lap sealant",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31k8Bz6NJ8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B084DW8RBD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B084DW8RBD?tag=rvgearlab-amz-20",
     "description": "The Lippert Components 1010 Non-Sag Sealant is described as great for vertical, uneven areas like sidewalls, end rails and roof edging. It helps prevent water and air leaks and is available in beige, gray, almond and white.\n\nAgainst Dicor 551LSW Non-Leveling, it explicitly covers vertical areas and offers color matching, but names no roof membranes. Against Geocel Pro Flex, it is a more RV-specific formula.\n\nBest for sidewall and end-rail joints and for matching a colored trim. Check the roof membrane compatibility before using on the roof.",
     "specs": [
       "Non-sag sealant",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41xeBgmD-EL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B004RCP49O?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B004RCP49O?tag=rvgearlab-amz-20",
     "description": "Geocel Pro Flex 28101V is a 10 oz white flexible RV sealant described as crack resistant, highly flexible and UV resistant. The listing says it adheres well to many surfaces, even when damp.\n\nAgainst Lippert 1010, it is a general flexible sealant with fewer RV-specific uses named. Against Dicor 551LSW Non-Leveling, it adds damp adhesion but gives no EPDM statement.\n\nBest for a quick joint repair when a surface is not perfectly dry. Do not seal over standing water or wet decking.",
     "specs": [
       "10 oz flexible sealant",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51d3vF6nweL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GTM2VYRK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GTM2VYRK?tag=rvgearlab-amz-20",
     "description": "FEATRITY RV Roof Sealant is a 2-pack of 10.3 oz self-leveling white lap sealant that flows into horizontal cracks and joints. The listing names EPDM, TPO, vinyl and fiberglass compatibility and says it is made for vents and screws.\n\nAgainst Dicor 551LSW Non-Leveling, it levels on flat laps but will not stay on vertical joints. Against Gociean 2 Pack, it names membranes plus fasteners.\n\nBest for flat laps around vents and screw heads on a level roof. Keep it off vertical surfaces.",
     "specs": [
       "2 x 10.3 oz self-leveling",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51tjPNf4KwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GQSD6H6H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GQSD6H6H?tag=rvgearlab-amz-20",
     "description": "The CUKWUYBY 2 Pack is a self-leveling RV roof sealant said to level within 30 seconds after extrusion. It lists bonding to EPDM, TPO, aluminum, brass, steel, glass, mortar and wood, and calls itself low odor.\n\nAgainst FEATRITY 2-Pack, it is cheaper with a similar list but no fastener note. Against Gociean 2 Pack, it names a 30 second level time.\n\nBest for budget flat-lap sealing. It is self-leveling, so it is not for vertical joints.",
     "specs": [
       "2-pack self-leveling",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41-TIX3BpbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CRDYC5LP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CRDYC5LP?tag=rvgearlab-amz-20",
     "description": "The Gociean 2 Pack is a white self-leveling lap sealant for camper repair that says it is compatible with different roof coatings and roof tape. It lists bonding to EPDM, TPO, aluminum, brass, steel, glass, mortar, wood and PVC, and has no pungent smell.\n\nAgainst CUKWUYBY 2-Pack, it adds a coating and tape compatibility note at a higher price. Against Dicor 551LSW Non-Leveling, it self-levels, so it belongs on flat joints only.\n\nBest for repairs that will be combined with tape or coating later. Test the combination on a small area.",
     "specs": [
       "2-pack self-leveling",

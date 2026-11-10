@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51X1o7Oyv7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H8S2RGT9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H8S2RGT9?tag=rvgearlab-amz-20",
     "description": "The ABORON 8-10 Person tent has an air-beam frame, a removable divider that switches between one big space or two private rooms, and a versatile awning on support poles. It uses PU3000mm waterproof Oxford and accommodates 8 to 10 people.\n\nThe awning is the difference from the other ABORON, since the pricier model lists a larger interior and a floor-to-ceiling window instead. It also costs about half as much, with the same divider concept.\n\nIt suits families who want a flexible room layout and shaded outdoor space at a moderate price. Weekend car campers with cooks and kids will use the awning most.",
     "specs": [
       "8-10 person, removable divider",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51buyf4h1QL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H6PTWD5Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H6PTWD5Q?tag=rvgearlab-amz-20",
     "description": "The pricier ABORON 8-10 Person tent lists about 136 sq ft of usable space for 6 to 8 people. It features a removable divider curtain, double doors and a large floor-to-ceiling mesh window.\n\nIt trades the awning for a bigger documented floor and 360 degree mesh ventilation, which the awning model does not describe. The air-beam structure inflates in minutes with the included pump.\n\nPick it when airflow and a stated amount of room matter most. A family of six that wants one glamping room able to split in two is the target buyer.",
     "specs": [
       "136 sq ft usable space",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51t5LsC07AL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FW53CGND?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FW53CGND?tag=rvgearlab-amz-20",
     "description": "The WaldWander is an 8 to 12 person inflatable tent that measures 15.75 x 11.81 x 7.2 ft. It has a chimney window for an outdoor stove, a PVC air column frame and an extra rainfly.\n\nWinter heating is the difference, since neither ABORON lists a stove jack. The door curtain also opens fully on both sides for gear and winter clothing.\n\nIt fits big families and small groups who camp past summer. The listing quotes a 5 to 10 minute setup.",
     "specs": [
       "15.75 x 11.81 x 7.2 ft",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51TjjIrkVIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HGNQ1KJR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HGNQ1KJR?tag=rvgearlab-amz-20",
     "description": "This BravArrk model sleeps 4 to 6 people and measures 16.4 x 7 x 7 ft. The front is a floorless living room stabilized by poles, and the rear holds two bedrooms with integrated floors.\n\nThat is the only true two-bedroom layout in this group, where the ABORONs and WaldWander use dividers. It also lists 3 doors, 4 mesh windows and a stove jack.\n\nIt suits smaller families who want real bedrooms and a living room without hauling an 8 to 12 person tent. Four to six people is its sweet spot.",
     "specs": [
       "16.4 x 7 x 7 ft, 3 doors",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41R8KCK94EL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F4D67J3L?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F4D67J3L?tag=rvgearlab-amz-20",
     "description": "The BROWEY 1600W combines 1,024Wh of LiFePO4 with 1,600W pure sine wave output and 3,200W peak, and folds a solar panel into the body. It won the iF Design Award 2022 and lists 3,000 or more cycles to 80% capacity with a protective BMS.\n\nIt is the only pick with the panel built in, which removes cable and panel storage, and it has several times the energy of the other kits. AC and a 100W PD USB-C port together recharge 80% in about 3 hours.\n\nIt suits campers who want a fridge-capable station in one piece. The listing says it can run refrigerators, CPAP machines and tools.",
     "specs": [
       "1,024Wh LiFePO4, 1,600W / 3,200W",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Rfqfec41L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CZDX262N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CZDX262N?tag=rvgearlab-amz-20",
     "description": "The MARBERO M823 pairs a 237Wh, 64,000mAh lithium-ion battery with 300W rated output and 375W peak through two pure sine wave AC outlets. A foldable panel with a 21.5 to 23.5% conversion rate comes in the box, along with a smart DC adapter set for connecting.\n\nIt has a stronger 60W panel than the 40W kits and carries more battery than the 100W stations. An LED flashlight with strobe and SOS modes is built in.\n\nIt suits campers who want a lighter kit for lights, phones and a laptop. A how-to sequence for the adapters is in the listing.",
     "specs": [
       "237Wh lithium-ion, 300W AC",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51N0Qi-dPkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CHFM3V8Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CHFM3V8Q?tag=rvgearlab-amz-20",
     "description": "The ZeroKor 300W kit includes a 60W monocrystalline solar panel with a 20.5% conversion rate, plus two 300W max AC outlets, a DC port, three 5V 3A USB ports and a QC port. A built-in MPPT accepts 13V to 23V DC5521 panels, and the battery management system lists several shutdown protections.\n\nIt costs less than the MARBERO for the same 60W panel and 300W class output. The same line also sells a 40W kit and a 100W station, which count as one family here.\n\nIt suits budget buyers who want a panel and a 300W box in one purchase. A 40W plus 100W bundle exists for those who want two stations.",
     "specs": [
       "300W station, 60W panel",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41QABmA8V1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G24B6VW6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G24B6VW6?tag=rvgearlab-amz-20",
     "description": "The Apowking kit includes 40W solar panels with 20.5% conversion and a 146Wh, 39,600mAh power station with seven outputs. Two 110V AC outlets handle devices up to 100W with a 200W peak, and a dual LED flashlight has flashlight, strobe and SOS modes.\n\nPriced under every other kit here, it also carries the smallest panel. Next to the ZeroKor 300W kit it gives less AC output.\n\nIt suits solo campers who charge phones, a tablet and lights. Cooling vents on the back and a BMS manage temperature.",
     "specs": [
       "146Wh, 100W AC, 200W peak",

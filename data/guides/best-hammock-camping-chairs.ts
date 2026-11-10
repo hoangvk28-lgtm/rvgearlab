@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41MST623a4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G2SDDD61?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G2SDDD61?tag=rvgearlab-amz-20",
     "description": "The Romswi 2-Pack gives you two aluminum and steel hammock chairs, each rated for 440 lbs and weighing about 13.1 lbs. Each chair has a removable footrest, a breathable oversized seat and an adjustable back and seat, and the seat clicks into place when it is ready to use.\n\nNext to the single-chair picks it is the only set that outfits two people at once, and its 440 lb rating is higher than the 400 lb KingCamp and Timber Ridge 400 chairs. The included carry bags and click-lock setup keep it simpler to pack than the padded Timber Ridge 350. It suits couples and friends who want matching seats for a campsite or a lakeside trip, and anyone who wants the highest weight rating in this group.",
     "specs": [
       "440 lb rating",
@@ -56,7 +56,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31pJQGWmX2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BS3WCM55?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BS3WCM55?tag=rvgearlab-amz-20",
     "description": "The KingCamp Footrest is a 400 lb hammock chair with a detachable footrest and a backrest that adjusts by tweaking its straps. The frame uses aircraft-grade 6061 aluminum alloy with high-strength steel, which keeps it portable.\n\nCompared with the KingCamp Classic, it adds the leg rest, so you can stretch out rather than keep your feet on the ground. It is a step up in comfort from the Timber Ridge 350, which has padding but no listed footrest. It is best for campers who read or nap in a chair and want the legs raised, without paying for the two-chair Romswi set.",
     "specs": [
       "400 lb capacity",
@@ -86,7 +86,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41jXT4VeYSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09NR3C9BV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09NR3C9BV?tag=rvgearlab-amz-20",
     "description": "The KingCamp Classic rates 400 lbs and builds its frame around a reinforced triangular cross-frame. It has a freely adjustable reclining backrest and a 31.5 inch wide seat, which is wider than most standard camp chairs.\n\nIt gives up the footrest that the KingCamp Footrest adds, but the cross-frame structure and wide seat make it feel planted. Against the Timber Ridge 400 it offers the same seat width with a simpler, firm-frame layout. It suits larger campers and anyone who values a sturdy frame over extra accessories.",
     "specs": [
       "400 lb capacity",
@@ -116,7 +116,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41S7ah6sBEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DHWV58ML?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DHWV58ML?tag=rvgearlab-amz-20",
     "description": "The Timber Ridge 400 has a 31.5 inch seat width and a 31.1 inch high back, with a 400 lb rating. The backrest and seat height both adjust, ground clearance is 20.5 inches, and the seat and headrest are padded.\n\nIt adds a cup holder, a side pocket and non-slip foot pads, which the KingCamp pair leave off. An automatic locking system clicks when the frame is secure, so setup is quick. It is a strong choice for campers who want a lounge-style chair with storage pockets at hand.",
     "specs": [
       "31.5 inch seat, 31.1 inch back",
@@ -146,7 +146,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/517fEm1Di6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G39MQGJM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G39MQGJM?tag=rvgearlab-amz-20",
     "description": "The Timber Ridge 350 is a padded steel hammock chair with a pillow, rated for 350 lbs and weighing about 14 lbs. It comes with a carry bag and unfolds in seconds by extending the steel stand and hanging the seat.\n\nIt is the lowest-capacity chair on the list, which is the trade for its lower price compared with the Timber Ridge 400. The included pillow and padded fabric add comfort that the bare-seat KingCamp Classic does not offer. It fits lighter campers and casual weekend trips where a budget swing seat is enough.",
     "specs": [
       "350 lb rating",

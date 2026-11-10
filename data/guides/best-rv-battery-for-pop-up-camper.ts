@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41wHJq+TbjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DXPX82SF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DXPX82SF?tag=rvgearlab-amz-20",
     "description": "The GRNOE set is two 12V 100Ah LiFePO4 batteries at $345, each 12.9 x 6.7 x 8.6 inches and 22.48 lb. The listing quotes a built-in 100A BMS, IP65 rating and UL/UN38.3 certification, and a 300A surge for 3 seconds. It earns the top spot because weight is the pop-up owner's constant enemy.\n\nAgainst the Renogy AGM at $174.99, the pair costs $170.01 more but gives you two batteries, so per battery it is $172.50, slightly cheaper than the AGM. Pick this if you want lightweight capacity that can be split between a tongue box and a second spot. Caveat: the BMS stops charging below 32F, so winter trips need a warmer mounting spot.",
     "specs": [
       "12V 100Ah x2, 22.48 lb each",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31soCn59teL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B075RFXHYK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B075RFXHYK?tag=rvgearlab-amz-20",
     "description": "The Renogy is a plain 12V 100Ah deep-cycle AGM at $174.99, with a 1100A 5-second maximum discharge and a stated working range of -4 to 140F. It supports parallel banks of up to four units. The listing does not give weight or dimensions, so check the spec table before buying.\n\nIt sits $170.01 under the GRNOE pair and $15.00 under the Weize 24M, and unlike the Weize it is a true deep-cycle unit rather than a starter hybrid. Pick this if you camp in cold shoulder seasons and want simple lead-acid charging behavior. Caveat: AGM batteries are heavy for their capacity, and the weight is not listed here.",
     "specs": [
       "12V 100Ah AGM deep cycle",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41fj1LvTddL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CRQSKG3G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CRQSKG3G?tag=rvgearlab-amz-20",
     "description": "The Weize is a BCI Group 24M dual-purpose AGM at $189.99, listed at 12V 90Ah with 550CCA and 150RC. It claims 20x more vibration resistance than flooded batteries, useful on rough campsite roads. Charging should be a constant 14.4V per the listing.\n\nIt costs $15.00 more than the Renogy and gives up 10Ah, but adds cranking power, and sits $9.50 above the UPLUS 24M while offering 11Ah more. Pick this if the battery may also start a tow vehicle or generator in a pinch. Caveat: dual-purpose plates handle deep cycling less gracefully than the Renogy's.",
     "specs": [
       "BCI Group 24M, 12V 90Ah",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ErUzfS4yL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FDQRKM25?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FDQRKM25?tag=rvgearlab-amz-20",
     "description": "The UPLUS is a Group 24M dual-purpose AGM at $180.49, listed at 12V 79Ah with 550CCA and 150RC. It is marketed as a marine battery, with vibration-resistant construction and thicker cast plates, which also suits towed trailers. Weight is not listed.\n\nIt is $9.50 cheaper than the Weize 24M but offers 11Ah less capacity, and it costs $5.50 more than the Renogy while having 21Ah less. Pick this if you want a Group 24M starter-capable unit and will only run small loads. Caveat: for a pop-up with a fridge or heater fan, 79Ah runs out fast.",
     "specs": [
       "BCI Group 24M, 12V 79Ah",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31f0z9m7jML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CLQB2PB3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CLQB2PB3?tag=rvgearlab-amz-20",
     "description": "The Columbia Storm Surge II carries Omni-Tech fabric, which the listing pitches at long stretches in moderate rain and snow. The exterior is waterproof-breathable over a mesh lining, and the waist drawcord, adjustable cuffs and easy regular fit are all listed.\n\nCompared with the iCreek Packable, it adds a branded multilayer fabric and a comfortable mesh lining. Against the 33,000ft Packable, it is built for longer exposure instead of minimum weight.\n\nIt suits hikers who need prolonged rain protection and a dependable fit. The line comes in extended sizes.",
     "specs": [
       "Omni-Tech waterproof-breathable",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31K1c7LO6xL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CXPX72T6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CXPX72T6?tag=rvgearlab-amz-20",
     "description": "The 33,000ft Packable Pants list 100% waterproof and windproof fabric that is soft and non-shedding, with a weight of only 195g and a storage bag. An elastic waist and two zipped pockets with flaps are listed, and Velcro closures adjust the leg width.\n\nCompared with the iCreek Packable, they are lighter by about 35g and omit reflective trims. Against the Columbia Storm Surge II, they are far lighter and simpler.\n\nThey suit hikers counting grams who want a pack-and-forget layer. The listing says they fit different occasions.",
     "specs": [
       "195g, storage bag included",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31boyD8oWIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F5VV8MXV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F5VV8MXV?tag=rvgearlab-amz-20",
     "description": "The iCreek Packable list fully seam-sealed, welded TPU membrane fabric that weighs only 230 grams and comes with a storage bag. Two zippered pockets, an elastic waistband with an invisible drawstring and hook-and-loop leg adjustments are included, plus reflective trims.\n\nCompared with the 33,000ft Packable Pants, they add sealed seams and reflective trim for about 35g more. Against the Columbia Storm Surge II, they are much lighter.\n\nThey suit hikers who want sealed seams at a very low price. The listing names hiking, mountaineering and walking.",
     "specs": [
       "Sealed TPU membrane, 230g",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31QqQNhZ7BL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F5X4V83N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F5X4V83N?tag=rvgearlab-amz-20",
     "description": "The COPYLEAF Parachute is a baggy cargo pant with a waterproof, quick-dry fabric, four spacious pockets and an adjustable waistband and cuffs. The mid-waist parachute cut pairs with moisture-wicking tops.\n\nCompared with the iCreek Packable, it wears as a trail and city pant. Against the Columbia Storm Surge II, it is a trouser instead of a rain overpant.\n\nIt suits hikers who want a casual, waterproof-treated pair for light conditions. The listing says it works for travel and shopping too.",
     "specs": [
       "Waterproof, quick-dry fabric",

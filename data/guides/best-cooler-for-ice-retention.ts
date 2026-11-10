@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Y3juvqG5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D5DVLSW1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D5DVLSW1?tag=rvgearlab-amz-20",
     "description": "RTIC's 22 quart ultra-light hard cooler has up to 2.4 inches of closed-cell foam and a freezer-style gasket. The listing says it holds cold for up to 6 days when following RTIC cooling tips, and silicone T-latches pull the lid tight.\n\nThat wall thickness is the deepest of any cooler in this guide, and the single plug rapid drain empties it hands free. It is also 30 percent lighter than comparable rotomolded coolers per the listing.\n\nChoose it if ice life is the priority and you can live with 22 quarts. It fits 30 cans or 8 wine bottles.",
     "specs": [
       "Up to 2.4 inch closed-cell foam",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/414f5DONOcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GHSYQKM4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GHSYQKM4?tag=rvgearlab-amz-20",
     "description": "Igloo's Trailmate 25 quart has extra-thick 1.5 inch foam-insulated walls and an insulated lid, plus Cool Riser technology that raises the body off hot surfaces. A locking plate and gasket keep the lid secure.\n\nIt offers a stated wall thickness at a mid price, well under the RTIC. The elevated base is a small design edge on hot sand or pavement.\n\nChoose it for weekend trips where you want a well-insulated cooler. It costs far less than a premium chest.",
     "specs": [
       "1.5 inch foam walls and lid",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31BFEVFERlL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GFPKL8NQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GFPKL8NQ?tag=rvgearlab-amz-20",
     "description": "This Coleman Chiller holds 30 quarts and uses TempLock foam insulation rated up to 48 hours. It fits 25 cans with 15 pounds of ice, or up to 42 cans empty of ice, and the lid seats up to 200 pounds.\n\nIts claim is shorter than the RTIC and Igloo ratings, yet it is the cheapest of the thick-wall style here. The capacity figures are spelled out, which helps planning.\n\nChoose it for a weekend of food for a small group. It is simple and sturdy.",
     "specs": [
       "TempLock foam, up to 48 hours",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/319gspsGy+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GFPSKVVT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GFPSKVVT?tag=rvgearlab-amz-20",
     "description": "The Coleman Chiller 16 quart lists TempLock foam that holds cold up to 36 hours. It carries 11 cans with 8 pounds of ice or up to 25 cans empty of ice, with a lid that supports up to 200 pounds.\n\nIt is the lowest-priced cooler here and has the shortest claim, which matches its size. It works as a seat too.\n\nChoose it for a night away or a day at the lake. It slips behind a car seat.",
     "specs": [
       "TempLock foam, up to 36 hours",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41bcLpXAcML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07CTXRKH8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07CTXRKH8?tag=rvgearlab-amz-20",
     "description": "Fit & Fresh's XL slim packs measure 7 x 4.75 x 0.5 inches and come as a set of 4. They are reusable and described as quick to freeze.\n\nSlim packs slide between food where block ice will not fit, which extends how long a cooler stays cold. They add cold without adding meltwater.\n\nAdd them to any cooler here to extend its hold. They cost almost nothing.",
     "specs": [
       "Four slim 7 x 4.75 inch packs",

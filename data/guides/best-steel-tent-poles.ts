@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41PJqyYGSUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B097GWTM2G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B097GWTM2G?tag=rvgearlab-amz-20",
     "description": "The KOMCLUB set is made of stainless steel with the wall thickness upgraded from 0.3 mm to 0.6 mm. Each pole has 6 segments and extends from 17 inches to 94.5 inches, and a removable rubber tip cap tops the pole.\n\nIt reaches farther than the 75 inch poles from SANLIKE telescoping and Hibinew, and the thicker wall is the stated reason it carries more weight. Next to the SANLIKE threaded set it gives you a push-button release instead of turning the threads.\n\nIt suits campers who want one steel pair to cover door canopies, awnings and tall tarp ridges. The tip cap protects the fabric at the contact point.",
     "specs": [
       "6 segments, 17 to 94.5 in",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41uBXpSApxS._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B097PG8P1Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B097PG8P1Y?tag=rvgearlab-amz-20",
     "description": "The SANLIKE telescoping poles are stainless steel and adjust from under 16 inches to 75 inches. They fold to 16 inches, so the pair fits into a small bag or a corner of a tent bag.\n\nAgainst the KOMCLUB set it extends about 20 inches less, and in exchange it folds smaller. Compared with the SANLIKE threaded poles it telescopes in one motion instead of requiring threaded sections to be turned.\n\nIt is a good match for a tarp shelter or a hammock rain fly that needs a pole up to about 6 ft. Hikers who have a vehicle at camp can carry it easily.",
     "specs": [
       "16 to 75 in, stainless",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51B-OqOuHIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08SR3S58X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08SR3S58X?tag=rvgearlab-amz-20",
     "description": "The SANLIKE threaded set has stainless steel poles with a 0.63 inch diameter and an adjustable height from 2.7 to 6.6 ft. Threaded ends let you set the height by turning, and the listing names tarps, sunshades, rooftop tents, trailers and campers as uses.\n\nIt lists the widest tube diameter here at 0.63 inches, just above the 0.6 inch Hibinew and BATDIYOW. Against the KOMCLUB it runs shorter at 6.6 ft and gives continuous height adjustment without fixed section steps.\n\nIt fits owners of camper trailers and rooftop tents who want a sturdy door or awning pole. The sold-as-two-sets listing gives the extra poles for a wider awning.",
     "specs": [
       "0.63 in stainless tube",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41OtHvGYSGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C2MX7WTK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C2MX7WTK?tag=rvgearlab-amz-20",
     "description": "The Hibinew set is steel with a spring hook, and each pole has sections that are 15 inches long and 0.6 inch wide. One assembled pole reaches 75 inches, the two weigh 1.98 lb together, and you can join them for a pole of about 10 ft.\n\nThe package includes 2 top poles, 6 center poles, 2 leg poles and a carry pouch, which makes it the most modular of the picks. It costs less than the KOMCLUB and the SANLIKE sets, and it is a step above the BATDIYOW in what is in the box.\n\nIt is a sound choice for temporary tarps, awnings and rainfly support at a budget price. Add or remove sections to match the ridge height.",
     "specs": [
       "15 in sections, 75 in pole",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41oHyQ5QrTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08ZMJY5ZP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08ZMJY5ZP?tag=rvgearlab-amz-20",
     "description": "The BATDIYOW pair is the cheapest pick here, a set of 2 steel poles that each assemble to 75 inches from 15 inch sections 0.6 inches wide. You assemble by pressing the spring and pushing in, and take it apart by pulling.\n\nIt matches the Hibinew pole length and section size, and it drops the pouch and the long section count in return for a lower price. Against the stainless sets it is the plain steel option.\n\nIt suits a weekend camper who needs two cheap poles for an awning, tent headroom or a beach shelter. Combine the two poles if you need extra length.",
     "specs": [
       "Set of 2, 75 in each",

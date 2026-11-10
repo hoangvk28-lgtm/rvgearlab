@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31akJ-PoWJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B092ZGPKKD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B092ZGPKKD?tag=rvgearlab-amz-20",
     "description": "Katadyn built this set around a 10 liter collapsible bag and an EZ-Clean hollow fiber element rated at 0.1 micron. Maker figures are 2 L/min for flow and 1,000 L of filter life.\n\nFlow edges past the MSR AutoFlow XL, and cleaning means swishing the element in water. Both bags hold ten liters, so the call rests on filter care and speed.\n\nA natural fit for base camps where several people drink and cook from one hanging bag. Folded flat when empty, it takes little pack room.",
     "specs": [
       "10 L collapsible bag",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31q4944iDAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07NKNSY9D?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07NKNSY9D?tag=rvgearlab-amz-20",
     "description": "MSR's AutoFlow XL holds ten liters and runs on gravity at 1.75 liters per minute. The reservoir is film with RF welded seams, and it can hang from a strap or stand upright.\n\nBeside the Katadyn BeFree Gravity 10L the flow is a touch lower, while the box adds a bottle adapter, strap and pocket clip. Standing upright helps wherever no branch is handy.\n\nGuides and expedition parties get a sturdy bag that sits on the ground when trees are scarce. Field cleaning needs no tools.",
     "specs": [
       "10 L film reservoir",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41VY51vsm7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09285L8JL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09285L8JL?tag=rvgearlab-amz-20",
     "description": "Waterdrop sells this as a straw filter plus a 1.5 gallon gravity bag, with the membrane rated at 0.1 micron. Listed life is 1,400 gallons, flow reaches 700 ml/min, and the straw can be backwashed.\n\nPrice is the draw, since it costs well below the 10 liter systems while keeping the hang-and-wait routine. The straw also hooks up to bottles, which neither 10 liter set advertises.\n\nTwo or three campers can haul water in the bag and filter it back at the tent. On the trail the straw works alone.",
     "specs": [
       "1.5 gallon gravity bag",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21IR+c4dkLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09SBPPFW2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09SBPPFW2?tag=rvgearlab-amz-20",
     "description": "LifeStraw's Peak Compact Gravity is a 3 liter system with a reworked membrane and a custom backwash accessory. Claims on the listing: 99.999999% of bacteria and 99.999% of parasites.\n\nIt sits one size down from the 10 liter pair and trades capacity for a pack-friendly kit that doubles as a squeeze bottle or straw. The backwash accessory keeps flow up against sand and silt.\n\nA lone hiker or a couple gets one filter for gravity, squeezing and sipping direct. Pick it when ten liters would be dead weight.",
     "specs": [
       "3 L gravity bag",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zASVVW96L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07Y4XX65M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07Y4XX65M?tag=rvgearlab-amz-20",
     "description": "SimPure supplies a 3 L TPU bag and a three-layer filter: 0.1 micron ultrafiltration, coconut shell carbon and a 0.2 micron fiber layer. Stated life is 5,000 L and flow is 27 L/h.\n\nCompared with the LifeStraw Peak Gravity 3L it lists far longer filter life at a lower price, and the filter weighs 2.8 ounces. Bag size trails the Katadyn and MSR sets by a wide margin.\n\nCost-conscious campers wanting a long-lived filter for a small party will like it. A tree strap keeps the bag hanging hands-free.",
     "specs": [
       "3 L bag, 2.8 oz filter",

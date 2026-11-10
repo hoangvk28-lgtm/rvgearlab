@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/314Wnh95bML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08L8CQPPL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08L8CQPPL?tag=rvgearlab-amz-20",
     "description": "The Coast XPH30R lists 1200 lumens on turbo, 500 on high, 160 on medium and 46 on low, with runtimes of 6.75 hours on high, 10 on medium and 28 on low. A twist focus beam, USB-C charging, magnetic detachable body and an IP54 rating come in a 4.37 ounce package.\n\nIt is the only pick that gives a full lumen and runtime table and a lifetime warranty. The IP54 rating is lower than the svsviio's IPX6, while the focusing optic avoids halos and hot spots.\n\nCampers who want a trusted brand with honest numbers near the top of the budget should look here first. The headlamp body detaches into a handheld light.",
     "specs": [
       "1200 lumens turbo, 6.75 h high",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41PFkhPh0aL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09KMB4GBJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09KMB4GBJ?tag=rvgearlab-amz-20",
     "description": "The svsviio PRO+ has a 7,500mAh battery, a 230-degree wide beam from 31 LEDs, three modes, an IPX6 rating and a 90-degree tilt. The listing claims up to 8 hours and a rear battery indicator, plus a 180-day quality assurance and 60-day money back.\n\nIt pairs a 7,500mAh battery with IPX6 protection, a stronger weather rating than the Coast's IP54. Its 1500-lumen headline is a marketing peak for this type of lamp.\n\nIt suits campers who want lots of runtime and a floodlight beam. The warranty terms are generous.",
     "specs": [
       "7,500mAh, 230-degree beam",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41jG-mABM-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09MS489TF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09MS489TF?tag=rvgearlab-amz-20",
     "description": "This 230-degree headlamp has 31 LEDs, a 5,000mAh battery with USB-C charging, an IPX6 rating and a white front with a red rear taillight. Three modes (high, low, strobe) work for both the front and the taillight, and clips are included.\n\nIt adds a red taillight that none of the others have, handy for night walks and group trips. The 5,000mAh battery is smaller than the svsviio's 7,500mAh.\n\nIt suits night walkers and runners who want to be seen from behind. It is also useful for hiking groups.",
     "specs": [
       "230-degree beam, 5,000mAh",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41GjVRf1vFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DGXHWWSV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DGXHWWSV?tag=rvgearlab-amz-20",
     "description": "The AKNEAR lists a 10,500mAh battery with a 95-hour maximum runtime, a tactical telescopic zoom, five modes each in flood and spot, and USB-C fast charging in 3 to 5 hours. A lifetime product service is promised, and the headlamp works as a power bank.\n\nIt has the biggest stated battery and the only telescopic zoom. The 99,000 lumen title is a marketing number and should be ignored.\n\nIt suits campers who like adjusting between flood and spot. The power bank function charges a phone in a pinch.",
     "specs": [
       "10,500mAh, up to 95 hours",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41SRt-V-DcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FC2M2NCK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FC2M2NCK?tag=rvgearlab-amz-20",
     "description": "The MIOISY has eight lighting modes, a long-press function and four LED indicators that show the remaining charge. A USB-C port recharges it, the head tilts 90 degrees and an IPX4 rating covers rain, with 4 to 10 hours of use per charge.\n\nIt adds a four-LED battery gauge and a red warning light, and it is the second cheapest. The listing quotes a modest 4 to 10 hours.\n\nIt suits budget campers who want to know how much charge is left. The 90-degree tilt keeps the beam where it is needed.",
     "specs": [
       "Eight modes, USB-C",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41l3WPyp8TL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B4KJ3MWK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B4KJ3MWK?tag=rvgearlab-amz-20",
     "description": "This single headlamp throws a 230-degree wide beam with a COB LED and a spotlight across six modes, with a motion sensor that works within about 10 cm. The soft silicone and elastic design weighs 2.47 ounces and is rated IPX4.\n\nIt is the cheapest in the group and has the lightest stated weight, with the motion sensor working through gloves. A 2-pack version exists for the same line.\n\nIt suits budget campers who want one light with a wide beam. The silicone is comfortable on the forehead.",
     "specs": [
       "230-degree beam, six modes",

@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51l3LtshqzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GY4G198F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GY4G198F?tag=rvgearlab-amz-20",
     "description": "The Ziwshom 5-Stage RV Water Filter System uses UF membrane filtration at 0.01 micron with a transparent impact-resistant housing so you can check the filter at a glance. It delivers 4.5 gallons per minute and ships with brass threads, 1 inch to 3/4 inch adapters, a wrench and an O-ring.\n\nCompared with the VEVOR Dual Stage, it adds an ultrafiltration membrane and the clearest housing, which keeps particles away from any treatment stage downstream. The accessory kit means it can be connected without a separate hardware trip.\n\nBest for travelers who want a complete, visible pre-filter to protect a nitrate treatment unit. It also suits full-timers who want high flow.",
     "specs": [
       "0.01 micron UF membrane",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51sOnZtY0cL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GZNLK7TY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GZNLK7TY?tag=rvgearlab-amz-20",
     "description": "The VEVOR RV Water Filter System is a 5 micron dual-stage system with two cartridges and a 3/4 inch fitting. The listing gives 4,500 gallons of capacity, a 3 GPM flow and stable pressure from 20 to 125 PSI.\n\nIt costs about half of the Ziwshom and states a wide pressure range, which is helpful at high-pressure campgrounds. The two-cartridge design separates sediment from carbon.\n\nA great pick for buyers who want a capable system without a premium price. It also suits campers who fill from varied sources.",
     "specs": [
       "5 micron dual stage",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41qgo9uU5UL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DZ6MRL94?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DZ6MRL94?tag=rvgearlab-amz-20",
     "description": "The PUREPLUS RV Dual Stage Water Filter System uses a 5 micron PP10 sediment cartridge and a second stage described for heavy metals reduction. A set of cartridges handles about 13,000 gallons, or roughly 3 to 6 months.\n\nIt has the longest stated capacity on the list and stainless steel 3/4 inch ports, which resist corrosion. The reinforced bracket lets you place it on the ground or mount it on a wall.\n\nIdeal for long-stay campers who want fewer cartridge changes. It also suits uneven campsites thanks to the anti-slip bracket.",
     "specs": [
       "5 micron PP10 stage",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51UHT56HLAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08QMC54XK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08QMC54XK?tag=rvgearlab-amz-20",
     "description": "The RVGUARD Inline RV Water Filter 4-Pack has an IAPMO R&T certification to NSF/ANSI 42 and uses KDF and GAC. The listing gives a 0.5 gpm service flow, a 15,000 gallon capacity, 60 psi pressure and a three-month life per filter.\n\nIt is the most affordable way to protect plumbing and improve taste, and it installs without a bracket. A four-pack covers a year.\n\nGreat for weekenders who treat nitrates elsewhere and only need a basic pre-filter. It also suits spare storage.",
     "specs": [
       "NSF/ANSI 42 certified",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41HLIcYCHtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CBJZ4238?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CBJZ4238?tag=rvgearlab-amz-20",
     "description": "The Hourleey 2-Pack RV Inline Water Filter uses GAC in food-grade housings and includes two flexible hose protectors. It lasts up to three months per filter and installs without tools.\n\nIt is the least expensive pack on this list and suits a first filter. Compared with the RVGUARD 4-Pack, you buy fewer filters with less certification detail.\n\nRight for first-time buyers who want to protect plumbing. It also works as a short-season spare.",
     "specs": [
       "GAC filtration",

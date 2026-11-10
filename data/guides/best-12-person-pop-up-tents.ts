@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41JT64z+27L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DHXD4C7K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DHXD4C7K?tag=rvgearlab-amz-20",
     "description": "The Fanttik Zeta C12 Pro Max is an instant cabin tent measuring 216 by 120 inches, large enough for 12 people by industry standards. It fits three queen air mattresses, sets up in about 90 seconds with two people, and has a removable canopy, window mesh on four sides, vents at the floor and a mesh ceiling.\n\nIt costs about a fifth less than the CORE 12 instant cabin and far less than the CORE 3-room. The CORE models add room dividers and guylines, which this one does not list.\n\nIt suits large families who want a quick pitch at a lower price. Pre-installed poles and body let two people extend and anchor it.",
     "specs": [
       "216x120 in, 12-person size",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41K7jXz6G1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07DRQH7RQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07DRQH7RQ?tag=rvgearlab-amz-20",
     "description": "The CORE 12-Person Instant Cabin has an 18 by 10 foot footprint, an 80 inch peak and room for four queen air beds. Poles come pre-attached and lock in about two minutes, and the 1200mm H20 Block fabric pairs with a taped rainfly, sealed seams, guylines and steel stakes.\n\nIt holds one more queen bed than the Fanttik and adds two room dividers for up to three spaces. The CORE 3-room costs roughly 45 percent more.\n\nIt suits groups who want privacy zones and stronger weather listing. The listing says it fits six comfortably with gear.",
     "specs": [
       "18x10 ft, 80 in center",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31gBvVhXzvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G54DFXY3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G54DFXY3?tag=rvgearlab-amz-20",
     "description": "The CORE 3-Room Instant Cabin covers an 18 by 10 foot footprint with three queen air beds inside. Its H20 Block fabric is rated 1200mm, and the full rainfly forms a vestibule for gear storage outside the sleeping space.\n\nIt has the same footprint as the other CORE model with a vestibule from the full fly, and it costs the most of the three. The Fanttik gives similar space for far less.\n\nIt suits groups with a lot of luggage who want it out of the sleeping area. Pre-attached poles set it up in two minutes or less.",
     "specs": [
       "18x10 ft, three-room layout",

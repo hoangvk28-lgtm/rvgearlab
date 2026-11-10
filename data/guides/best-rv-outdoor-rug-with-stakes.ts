@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41NoDKKkPSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07KP63BQY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07KP63BQY?tag=rvgearlab-amz-20",
     "description": "The EEZ RV Products mat is a 9x18 ft heavy-duty reversible rug in 100% virgin polypropylene with a UV stabilizer. It ships with a large storage bag and six sets of stakes and washers, tied down through nylon loops at each corner.\n\nCompared with the 9x12 Kohree and CircleRoad, it covers far more ground and brings more stakes, with a textured surface for traction. It suits owners who want a full awning mat that holds firm in wind.",
     "specs": [
       "9x18 ft virgin polypropylene",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/610QPtgZwSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DJLMHN4C?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DJLMHN4C?tag=rvgearlab-amz-20",
     "description": "The Kohree is a 9x12 ft diamond-pattern rug with four corner loops and four heavy-duty stakes for wind resistance and non-slip stability. Heat-treated edging prevents fraying, and a UV-coated surface protects against fading.\n\nNext to the CircleRoad 9x12, it is described as soft and pet friendly and folds into a storage bag. It suits owners of mid-size rigs who want stakes and a soft, hair-free surface.",
     "specs": [
       "9x12 ft diamond pattern",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/510eXty2isL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BWY1T3HY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BWY1T3HY?tag=rvgearlab-amz-20",
     "description": "The CircleRoad is a 9x12 ft reversible rug in 100% virgin polypropylene with a UV-resistant coating and thermoplastic-bound edging. It comes with four stakes and is described as breathable and soft, safe for children and grass.\n\nIt costs slightly less than the Kohree and matches its four-stake setup, which makes it the budget pick of the set. It suits buyers who want a stake-ready 9x12 at the lowest price.",
     "specs": [
       "9x12 ft virgin polypropylene",

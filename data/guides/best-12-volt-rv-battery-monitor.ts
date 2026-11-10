@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51wD3--zMsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CXP8RRNR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CXP8RRNR?tag=rvgearlab-amz-20",
     "description": "The ANCEL BM300 Pro clamps onto one battery and reports voltage, estimated state of charge and temperature through its app, over Bluetooth 5.3. Its listing says that on supported 12 and 24 volt vehicle systems it also reviews cranking and charging voltage tests, that it stores 72 days of history while disconnected and syncs when you reconnect, and that one phone can view up to four monitors. It draws about 1 milliamp and has an IP67 housing with reverse-polarity and short-circuit protection.\n\nIt ranks first at $47.99 because it is the most documented: a stated idle draw, a stored history, a temperature reading and clear limits. It costs $8.00 more than the BM7, which lists similar functions with less precision on what it does not do, and $22.51 more than the BM200. The listing is unusually honest that it is Bluetooth only, not Wi-Fi or cellular, and that it does not contain a GPS tracker.\n\nPick this if you want a clip-on monitor with a record of the last 72 days for a house or chassis battery. The caveat is that state of charge is an estimate from voltage, and one monitor watches only one battery.",
     "specs": [
       "Voltage, SOC estimate, temperature",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/319Oq-N420L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F4D3ZLLP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F4D3ZLLP?tag=rvgearlab-amz-20",
     "description": "The BM7 is a Bluetooth monitor for 6, 12 and 24 volt batteries that reports power, temperature, voltage, cranking and charging system tests, trip records and 72 days of data storage. Its listing says it can monitor four batteries at once in its app, claims accuracy over 99.6 percent, has an IP67 fireproof ABS shell with reverse-connection and short-circuit protection, and draws about 1 milliamp. It sends an app alarm if a battery behaves abnormally within about 10 meters.\n\nIt ranks second at $39.99, $8.00 below the ANCEL BM300 Pro and $14.51 above the BM200. It matches the BM300 Pro on storage and idle draw but states a lower-detail Bluetooth range and a bolder accuracy claim without a method. The 10 meter alarm range means no warning if you are further from the rig.\n\nChoose it for the same clip-on function as the BM300 Pro at a lower price. The caveat is the accuracy claim, which is a seller figure, and that state of charge is still a voltage estimate.",
     "specs": [
       "6V, 12V, 24V Bluetooth",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51vvqxAKTAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BZ8D71NY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BZ8D71NY?tag=rvgearlab-amz-20",
     "description": "The ANCEL BM200 is a 12 volt only Bluetooth tester that checks voltage, cranking and charging systems, and records data every 2 minutes. Its listing says it monitors up to four devices in the app, has an IP67 laser-finished case with reverse-polarity and short-circuit protection, draws about 1.5 milliamps and works within 15 to 30 feet. It supports lead acid and lithium 12 volt batteries.\n\nIt ranks third at $25.48, $22.51 below the BM300 Pro and $14.51 below the BM7. It lacks the temperature stated by the others, and its listing frames it as a car tool, so the cranking and charging tests apply to engine-starting batteries rather than house banks. It costs $7.99 more than the DROK panel meter, which has no app.\n\nPick this if you only need a cheap Bluetooth health check on a motorhome chassis battery. The caveat is the car focus and the higher 1.5 milliamp draw.",
     "specs": [
       "12V Bluetooth tester",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41lVXt8gIoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B085DYZV3S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B085DYZV3S?tag=rvgearlab-amz-20",
     "description": "The DROK is a wired LCD meter for 10 to 100 volt batteries that reads battery voltage and capacity percent and shows the meter's own internal temperature in Fahrenheit. The listing says it works with lithium, lead acid, lithium iron phosphate and Ni-MH batteries, lets you program the percentage that corresponds to each voltage, and defaults to a 12 volt lead acid curve. It costs $17.49.\n\nIt ranks fourth because it is a plain, permanent display, $7.99 below the ANCEL BM200 and $1.51 above the Linkstyle. Its useful feature is the programmable voltage-to-percent table, which lets you adjust for a lithium battery, but the temperature shown is the meter's internal temperature, not the battery's or the air. It has no app, no history and no wireless link.\n\nChoose it if you want a permanent readout inside the rig with a custom voltage-to-percent map. The caveat is that the percentage is a voltage guess and the temperature reading is not the battery temperature.",
     "specs": [
       "10 to 100V LCD meter",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/3192eAAaJNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DG7TWZBG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DG7TWZBG?tag=rvgearlab-amz-20",
     "description": "The Linkstyle meter reads DC 8 to 30 volts and shows battery capacity from 20 to 100 percent with a stated accuracy of plus or minus 1 percent and a 500 millisecond refresh. Its listing adds dual USB ports, 18 watt USB-A and 18 watt Type-C, a customizable low-voltage alarm where the number flashes, and power-off memory. The working current is under 15 milliamps when it is not charging.\n\nIt ranks fifth at $15.98, $1.51 below the DROK and $5.99 above the DaierTek. The USB ports make it a useful panel in a van or bunk. The idle draw of up to 15 milliamps is far higher than the 1 milliamp Bluetooth monitors, so it is better wired through a switch than left on over a winter.\n\nPick this if you want a combined voltage display and charge port in one panel. The caveat is that 15 milliamps adds up over weeks, so wire it through a switched circuit.",
     "specs": [
       "8 to 30V, 20-100% capacity",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41D98+2NfxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CF22LR2X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CF22LR2X?tag=rvgearlab-amz-20",
     "description": "The DaierTek is a round 29 millimeter panel voltmeter with a three-digit blue LED display, rated DC 8 to 48 volts and 0.1 volt resolution. Its listing says it is waterproof and ships with wires, two mounting screws, a panel and a nylon nut for mounting in a 29 millimeter hole. It costs $9.99.\n\nIt ranks last because it shows voltage only: no percent, no temperature, no alarm and no memory, which is less than any other pick. It is $5.99 below the Linkstyle and $38.00 below the ANCEL BM300 Pro. For a single glance at the house battery from a switch panel, voltage resolution of 0.1 volt is enough to see a lead acid battery sag.\n\nChoose it for a simple panel readout at the lowest price. The caveat is that voltage alone cannot tell you how full a lithium battery is, and the listing states no idle draw.",
     "specs": [
       "8 to 48V, 0.1V resolution",

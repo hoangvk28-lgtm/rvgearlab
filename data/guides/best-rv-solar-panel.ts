@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410Q6zprjTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F4QHCFY3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F4QHCFY3?tag=rvgearlab-amz-20",
     "description": "The Renogy 400W is a rigid N-type panel with 16BB cells and a stated 25% cell efficiency. The listing calls it a 24V panel that works with 12V and 24V battery systems, says it is 7.5% smaller and 11.7% lighter than the earlier model, and quotes at most 1% degradation in year one and 0.4% per year after, with 80% output guaranteed at 25 years. It costs $288.81, about $0.72 per watt.\n\nIt is the cheapest per watt here. A Newpowa 180W costs $0.86 per watt and the ShadowFlux 200W $0.92, so a single 400W panel does the work of two 200W panels for a little less money and fewer connections. The tradeoff is size: the listing gives no dimensions in its features, so check the product page before assuming it fits between your vents.\n\nPick this if you have a long, clear roof stretch and want the most watts per dollar and per roof area. The caveat is that one large panel is all-or-nothing in shade, since a single shadow can drag down a bigger share of the output than it would on two smaller panels.",
     "specs": [
       "400W N-type, 16BB cells",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/310PuU3YOmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DMT2WTC8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DMT2WTC8?tag=rvgearlab-amz-20",
     "description": "The ShadowFlux 200W uses N-type 16BB cells at 25% efficiency and adds Renogy's ShadowFlux anti-shading design, which the listing says keeps more power in shade from buildings, plants or stains and lowers hot-spot risk. It carries an IP67 rating, a 5-year output and workmanship warranty and a 25-year commitment to 80% output, and costs $184.67, or about $0.92 per watt.\n\nIt costs $0.20 more per watt than the Renogy 400W and $0.11 more than the Callsun 200W, which also targets shade with a split-cell design. The listing does not publish a shade-loss percentage, so the benefit is described rather than quantified, and it gives no weight or dimensions beyond saying it is 7% smaller than a PERC panel.\n\nChoose it if your roof has vents, an air conditioner and an antenna that put moving shadows across the panels. The caveat is that you pay a premium for a feature you only need if shade is a real problem, and on an open roof the cheaper panels give more watts per dollar.",
     "specs": [
       "200W N-type, anti-shade",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41lRVcDQfrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DC6TLF9S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DC6TLF9S?tag=rvgearlab-amz-20",
     "description": "The Callsun 200W is a bifacial N-type panel with a transparent backsheet, 16BB cells, 25.6% cell efficiency and a TwinCell design that splits it into two halves wired in parallel so one shaded half does not shut the other down. It measures 51.3 by 30.3 by 1.4 inches, weighs 23.8 pounds, has an IP68 junction box, a -0.3%/K temperature coefficient and a 25-year commitment of at least 84.5% output. The price is $161.99.\n\nAgainst the ShadowFlux 200W it is $22.68 cheaper and lists exact size, weight and temperature behavior, which makes planning easier, although its bifacial gain only appears with a reflective surface behind it, and a flush roof mount gives the back little to collect. At 18.5 watts per square foot of roof it is slightly less compact than the Newpowa 180W at 18.9.\n\nPick it if you want published dimensions and a low temperature coefficient for hot roofs. The caveat is that the listing's \"up to 30 percent\" bifacial boost is a best case for ground or tilted mounts, so do not count on it on a flat roof.",
     "specs": [
       "200W bifacial, TwinCell",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41kGoQdcrAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DYD5G542?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DYD5G542?tag=rvgearlab-amz-20",
     "description": "The Renogy 175W is an N-type panel with 16BB cells at 25% efficiency, low-iron tempered glass, a corrosion-resistant aluminum frame with polyamide corner supports and the same degradation figures as the 400W: at most 1% in year one and 0.4% per year after, with 80% output at 25 years. The listing says it is 3.9% smaller and 4% lighter than its predecessor and suits Class B vans. It costs $158.99.\n\nIt sits between the Newpowa 180W at $154.99 and the ShadowFlux 200W at $184.67. For $4 more than the Newpowa you get N-type cells and a stated low temperature coefficient but five fewer watts. It costs about $0.91 per watt, so it is not the value leader, but it is the smallest rigid panel here from a name-brand maker.\n\nChoose it if you have a narrow van roof and want a small brand-name rigid panel. The caveat is that the listing gives no dimensions or weight in numbers, so check the product page against your roof space.",
     "specs": [
       "175W N-type, 16BB cells",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41xQHRm6iTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0772PD96K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0772PD96K?tag=rvgearlab-amz-20",
     "description": "The Newpowa 180W is a conventional 10BB monocrystalline panel rated 18.62V at 9.44A at maximum power, which makes it a straightforward 12V-class panel. It measures 45.47 by 30.12 by 1.38 inches, withstands 2400Pa wind and 5400Pa snow loads, comes with 3 foot pre-attached cables and pre-installed diodes, and carries a 2-year workmanship assurance with 90% output at 10 years and 80% at 25. It costs $154.99.\n\nIt is the cheapest rigid panel here in dollars, and at 18.9 watts per square foot it is slightly more compact than the Callsun 200W. The tradeoffs are 10BB cells instead of the 16BB N-type cells in the Renogy panels, a shorter 2-year workmanship term than the 5-year ShadowFlux 200W warranty, and about $0.86 per watt, worse than the Renogy 400W's $0.72.\n\nPick it if you need one affordable rigid panel with published voltage, current and dimensions for a controller match. The caveat is that the short workmanship warranty and no anti-shade design make it the plain-vanilla choice.",
     "specs": [
       "180W, Vmp 18.62V, Imp 9.44A",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zmkmE-4cL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07BMNGVV3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07BMNGVV3?tag=rvgearlab-amz-20",
     "description": "The Renogy Flex 100W is a flexible panel that the listing says bends 240 degrees, weighs 70% less than a conventional panel, lies about a tenth of an inch tall and withstands 2400Pa wind and 5400Pa snow. It is aimed at curved surfaces like an Airstream roof, marine decks and other places where a rigid frame cannot sit. It costs $104.49, or about $1.04 per watt.\n\nIt is the most expensive per watt here, $0.32 more than the Renogy 400W, and it makes the least power per panel. The reason to pay for it is shape and weight, not output: a rigid panel cannot follow a curved roof, and adhesive-mounted flexible panels add almost no height. Flexible panels also run hotter because air cannot circulate behind them, which the listing does not quantify.\n\nChoose it if the roof is curved or weight-limited. The caveat is that one 100W panel gives only about 375Wh per day at 5 sun hours with typical losses, so plan for several.",
     "specs": [
       "100W flexible, 240 degree bend",

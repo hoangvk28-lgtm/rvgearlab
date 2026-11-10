@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21amLxu6yfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FH6NGNJN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FH6NGNJN?tag=rvgearlab-amz-20",
     "description": "The Tonree is a gazebo-style ceiling fan light with a 15600mAh rechargeable battery, a brushless motor and a bright LED light. The blades detach for storage, and the unit hangs without tools.\n\nIts battery is more than three times the XTAUTO's and nearly double the AMACOOL's, which is what you need to run all night. It is built from high-strength PC panels, and the remote lets you adjust it from your sleeping bag.\n\nIt suits car campers with a family tent or a gazebo who want an overhead fan and light in one. The blades fold away for the trunk.",
     "specs": [
       "15600mAh battery",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51bQXe7lyvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HBB5CLNB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HBB5CLNB?tag=rvgearlab-amz-20",
     "description": "The Hoklen is a portable fan with a built-in solar panel, USB and Type-C charging, a digital power display and a timer of 2, 4 or 8 hours. It runs below 30 decibels, has a 90 degree adjustable head and a hidden hook.\n\nIt is the only pick that charges in sunlight, which helps on long stays far from power. The Tonree has a bigger battery, while this one keeps going with a sunny day.\n\nIt suits off-grid campers who want a fan they can recharge by hanging it in the sun. The power display shows the battery level.",
     "specs": [
       "Solar panel plus USB and Type-C",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41w2RSVoOML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GRZR8HB9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GRZR8HB9?tag=rvgearlab-amz-20",
     "description": "The USONE is a 5-in-1 misting fan with a 300ml tank, a 10000mAh battery, an LED light, a timer and a USB-A output that charges phones. At full power with fan, mist and light it runs 9 to 10 hours, and on low fan only it runs more than 24 hours.\n\nIt adds cooling mist, which helps in dry heat, and the power-bank output is a bonus. It is not waterproof, so keep the charging port dry.\n\nIt suits car campers in hot, dry climates and families who want a fan, light and phone charger in one. A 360 degree hook hangs it from the tent ceiling.",
     "specs": [
       "300ml mist tank, 10000mAh",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41JI6cPwc9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07TCLB39D?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07TCLB39D?tag=rvgearlab-amz-20",
     "description": "The AMACOOL combines a tent fan, a camping light and an aroma diffuser in a 2.4 by 5.3 by 7.1 inch body that weighs 11.3 ounces. A 5000mAh battery lasts from 5.5 to 35 hours depending on speed, and 12 LEDs give light.\n\nIt rotates by hand through 360 degrees vertically and horizontally, and it hangs from a built-in hook or sits on a table. It is smaller than the Tonree and a better fit for a tent that needs a lantern as well.\n\nIt suits campers who want one device for light and air. It runs from a USB cable when the battery is low.",
     "specs": [
       "5000mAh, up to 35 hours",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41MjsmjlI+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B1J7NM38?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B1J7NM38?tag=rvgearlab-amz-20",
     "description": "The XTAUTO is a camping fan with an LED lantern, 54 LED chips giving 500 lumens and three fan speeds. A 4000mAh battery runs 6 to 8 hours and the unit has a hook and magnets.\n\nIt is the cheapest pick, and it adds a bright lantern. Its battery is the smallest, so it runs shorter than the Tonree.\n\nIt suits campers who want the lowest price and a bright light. The magnets let you stick it to metal.",
     "specs": [
       "500 lumens, 54 LEDs",

@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31WQpYZg24L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BX9VF5T8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BX9VF5T8?tag=rvgearlab-amz-20",
     "description": "The Progressive Industries EMS-PT50X is a 50 amp portable unit rated 120V/240V and 12,000 watts, with a 5-mode, 3,580 joule surge rating. Its listing names open ground, open neutral and reverse polarity detection, over and under voltage protection, miswired pedestal and surge failure indicators, and accidental 240V protection. This bundle adds a Camco 40055 brass inline water pressure regulator.\n\nIt ranks first because it names the full EMS fault set and a locking bracket in one listing. The Progressive PT50X Filter below is the same protector with a Camco TastePURE filter instead, and it costs a little more.\n\nBest for a 50 amp motorhome or fifth wheel that parks in crowded sites. The listing does not name a reconnect delay, so ask the seller if you run multiple air conditioners.",
     "specs": [
       "50A, 120V/240V, 12,000W",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41LcCejQNxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BX9RR26F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BX9RR26F?tag=rvgearlab-amz-20",
     "description": "The Progressive PT50X Filter bundle pairs the same EMS-PT50X, with identical 50 amp, 5-mode, 3,580 joule specs and the same fault list, with a Camco TastePURE RV and marine water filter. The listing says the GAC filter reduces taste, odor, chlorine and sediment.\n\nCompared with the Progressive PT50X Regulator above, the protector is identical, so the choice is only the accessory: a filter here and a regulator there. It costs a little more, which pays for the filter.\n\nBest for a 50 amp owner who needs a drinking water filter and prefers the same brand's EMS. If you already have a filter, buy the regulator version or compare the Power Watchdog picks below.",
     "specs": [
       "50A, 120V/240V, 12,000W",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/312sQGCcUnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DC17V4WJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DC17V4WJ?tag=rvgearlab-amz-20",
     "description": "The Power Watchdog PWD50W is a 50 amp smart protector with WiFi and Bluetooth, an IP65 body and wireless fault alerts. The listing adds voltage meter data in the app, a replaceable surge module, and compatibility with dogbone adapters.\n\nCompared with the Progressive PT50X Filter above, it adds phone monitoring and a replaceable module but the listing does not name voltage cutoffs or a fault list. It costs less than the Power Watchdog PWD50EPOW below, which lists the same features.\n\nBest for a 50 amp owner who wants phone alerts and a module you can swap after a spike. Ask the seller exactly which faults trigger a shutoff before you rely on it for brownout protection.",
     "specs": [
       "50A, WiFi and Bluetooth, IP65",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41LZd-zeJJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GT13LFG4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GT13LFG4?tag=rvgearlab-amz-20",
     "description": "The GEARGO 2026 Smart 50A is a 20,000 joule unit with a circuit analyzer that detects open ground, reverse polarity, high and low voltage and overheating. The listing says it disconnects when unsafe voltage is detected, resets automatically, and shows live voltage, frequency and wiring status on an LED display.\n\nIt is the only pick here under $110 that describes shutoff and reset, which is why it outranks the GEARGO 3rd-Gen 50A below. Next to the Power Watchdog PWD50W above it has no app or replaceable module, and the listing does not name a restart delay.\n\nBest for a 50 amp owner who wants an affordable shutoff and live voltage display. Confirm how long it waits before restoring power, since the listing does not say.",
     "specs": [
       "50A, 20,000 joules, IP68",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31OJukA1iCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DC17VXTL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DC17VXTL?tag=rvgearlab-amz-20",
     "description": "The Power Watchdog PWD50EPOW is a 50 amp smart protector with WiFi and an IP65 heavy-duty body. Its listing mentions wireless fault alerts, voltage meter data, a replaceable surge module and dogbone compatibility, the same wording used for the PWD50W.\n\nIt is the most expensive pick here, and the listing does not explain what the EPOW model adds over the Power Watchdog PWD50W. It has WiFi but does not mention Bluetooth.\n\nBest only if the seller confirms what the EPOW adds, such as an emergency power off feature. Otherwise the Power Watchdog PWD50W gives the same listed features for much less.",
     "specs": [
       "50A, WiFi, IP65",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411DIUD1nNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F2F3DN8T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F2F3DN8T?tag=rvgearlab-amz-20",
     "description": "The GEARGO 3rd-Gen 50A is an 18,000 joule surge protector with a circuit analyzer, red and green LED indicators, IP68 waterproofing and a plug-and-play design. The listing says the lights help identify wiring problems such as an open ground, and it carries a three-year warranty.\n\nCompared with the GEARGO 2026 Smart 50A above, it costs more but does not describe shutoff or a display, so it is a surge protector with a tester, not an EMS. It has no app or reset function.\n\nBest for a 50 amp owner who wants a pedestal tester and a large joule rating. Do not rely on it to disconnect during a brownout.",
     "specs": [
       "50A, 18,000 joules",

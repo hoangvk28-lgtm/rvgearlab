@@ -21,7 +21,7 @@ export const products = withAmazonUrls([
     badge: "Best overall",
     name: "BLUETTI Elite 300 Portable Power Station",
     amazonQuery: "BLUETTI Elite 300 Portable Power Station",
-    amazonUrl: "https://www.amazon.com/dp/B0GKRTX336?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0GKRTX336?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/415Ex6a1IZL._SL500_.jpg",
     specs: ["Capacity: 3,014Wh","Continuous output: 2,400W","Surge output: 4,800W","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Capacity","value":"3,014Wh"},{"label":"Continuous output","value":"2,400W"},{"label":"Surge output","value":"4,800W"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -36,7 +36,7 @@ export const products = withAmazonUrls([
     badge: "Best heavy-duty option",
     name: "Jackery Explorer 2000 Plus Portable Power Station, 2042Wh, 3000W AC Output",
     amazonQuery: "Jackery Explorer 2000 Plus Portable Power Station, 2042Wh, 3000W AC Output",
-    amazonUrl: "https://www.amazon.com/dp/B0C6DHK68Q?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0C6DHK68Q?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/31U-xkAN1wL._SL500_.jpg",
     specs: ["Capacity: 2,042Wh","Continuous output: 3,000W","Runtime claim: Up to 2 hours","Battery chemistry: LiFePO4"],
     specList: [{"label":"Capacity","value":"2,042Wh"},{"label":"Continuous output","value":"3,000W"},{"label":"Runtime claim","value":"Up to 2 hours"},{"label":"Battery chemistry","value":"LiFePO4"}],
@@ -51,7 +51,7 @@ export const products = withAmazonUrls([
     badge: "Best compact option",
     name: "ABOK Ark3600 Portable Power Station 3600W, 3840Wh LiFePO4 Battery",
     amazonQuery: "ABOK Ark3600 Portable Power Station 3600W, 3840Wh LiFePO4 Battery",
-    amazonUrl: "https://www.amazon.com/dp/B0F47JVR5B?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0F47JVR5B?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41C+1aHks5L._SL500_.jpg",
     specs: ["Capacity: 3,840Wh","Continuous output: 3,600W","Surge output: 4,500W","Runtime claim: Up to 1.29 hours"],
     specList: [{"label":"Capacity","value":"3,840Wh"},{"label":"Continuous output","value":"3,600W"},{"label":"Surge output","value":"4,500W"},{"label":"Runtime claim","value":"Up to 1.29 hours"}],
@@ -66,7 +66,7 @@ export const products = withAmazonUrls([
     badge: "Best value pick",
     name: "PECRON Portable Power Station F3000LFP, 3072Wh Solar Generator, 3600W LiFePO4 Battery Home Backup, Fast C",
     amazonQuery: "PECRON Portable Power Station F3000LFP, 3072Wh Solar Generator, 3600W LiFePO4 Battery Home Backup, Fast C",
-    amazonUrl: "https://www.amazon.com/dp/B0F6YCRKTJ?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0F6YCRKTJ?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41MyGmNjEFL._SL500_.jpg",
     specs: ["Capacity: 3,072Wh","Runtime claim: Up to 2 hours","Battery chemistry: LiFePO4","AC waveform: Pure sine wave"],
     specList: [{"label":"Capacity","value":"3,072Wh"},{"label":"Runtime claim","value":"Up to 2 hours"},{"label":"Battery chemistry","value":"LiFePO4"},{"label":"AC waveform","value":"Pure sine wave"}],
@@ -81,7 +81,7 @@ export const products = withAmazonUrls([
     badge: "Best backup pick",
     name: "GROWATT INFINITY 2000 Pro Portable Power Station, 2048Wh Solar Generator",
     amazonQuery: "GROWATT INFINITY 2000 Pro Portable Power Station, 2048Wh Solar Generator",
-    amazonUrl: "https://www.amazon.com/dp/B0DMVVN28Z?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0DMVVN28Z?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41Bq5cST7lL._SL500_.jpg",
     specs: ["Capacity: 2,048Wh","Battery chemistry: LiFePO4","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Capacity","value":"2,048Wh"},{"label":"Battery chemistry","value":"LiFePO4"},{"label":"Buyer check","value":"Verify current model compatibility"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -171,7 +171,7 @@ export const relatedGuides = [
 export const sources = [
   {
     "title": "BLUETTI Elite 300 Portable Power Station product page",
-    "href": "https://www.amazon.com/dp/B0GKRTX336?tag=rvgearlab-20&linkCode=osi&th=1&psc=1"
+    "href": "https://www.amazon.com/dp/B0GKRTX336?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1"
   },
   {
     "title": "CPSC carbon monoxide safety center",

@@ -21,7 +21,7 @@ export const products = withAmazonUrls([
     badge: "Best overall",
     name: "Case Club Waterproof Gaming Station Fits Xbox One X/S, Monitor",
     amazonQuery: "Case Club Waterproof Gaming Station Fits Xbox One X/S, Monitor",
-    amazonUrl: "https://www.amazon.com/dp/B07SJXLR2Q?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B07SJXLR2Q?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/51li9tYIj1L._SL500_.jpg",
     specs: ["Listed weight: 26 lb","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Listed weight","value":"26 lb"},{"label":"Buyer check","value":"Verify current model compatibility"},{"label":"Buyer check","value":"Verify current model compatibility"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -36,7 +36,7 @@ export const products = withAmazonUrls([
     badge: "Best heavy-duty option",
     name: "Case Club 18.5\" Station Fits Xbox Series X/S",
     amazonQuery: "Case Club 18.5\" Station Fits Xbox Series X/S",
-    amazonUrl: "https://www.amazon.com/dp/B0C6WT7N7N?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0C6WT7N7N?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/51f7RjVyFrL._SL500_.jpg",
     specs: ["Listed weight: 26 lb","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Listed weight","value":"26 lb"},{"label":"Buyer check","value":"Verify current model compatibility"},{"label":"Buyer check","value":"Verify current model compatibility"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -51,7 +51,7 @@ export const products = withAmazonUrls([
     badge: "Best compact option",
     name: "DARAN Portable Power Station, 288Wh LiFePO4 Battery, 350W (600W Peak) Power Bank",
     amazonQuery: "DARAN Portable Power Station, 288Wh LiFePO4 Battery, 350W (600W Peak) Power Bank",
-    amazonUrl: "https://www.amazon.com/dp/B0DN9QHGG8?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0DN9QHGG8?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41P62EDaNTL._SL500_.jpg",
     specs: ["Capacity: 288Wh","Continuous output: 350W","Surge output: 600W","Listed weight: 8.2 lb"],
     specList: [{"label":"Capacity","value":"288Wh"},{"label":"Continuous output","value":"350W"},{"label":"Surge output","value":"600W"},{"label":"Listed weight","value":"8.2 lb"}],
@@ -66,7 +66,7 @@ export const products = withAmazonUrls([
     badge: "Best value pick",
     name: "EnginStar Portable Power Station 300W 296Wh Solar Generator",
     amazonQuery: "EnginStar Portable Power Station 300W 296Wh Solar Generator",
-    amazonUrl: "https://www.amazon.com/dp/B0FJD7LCY4?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0FJD7LCY4?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41gapbcAKVL._SL500_.jpg",
     specs: ["Capacity: 296Wh","Continuous output: 300W","Listed weight: 6.5 lb","Runtime claim: Up to 2 hours"],
     specList: [{"label":"Capacity","value":"296Wh"},{"label":"Continuous output","value":"300W"},{"label":"Listed weight","value":"6.5 lb"},{"label":"Runtime claim","value":"Up to 2 hours"}],
@@ -81,7 +81,7 @@ export const products = withAmazonUrls([
     badge: "Best backup pick",
     name: "MARBERO 200W Portable Power Station 148Wh Camping Solar Generator Laptop Power Bank",
     amazonQuery: "MARBERO 200W Portable Power Station 148Wh Camping Solar Generator Laptop Power Bank",
-    amazonUrl: "https://www.amazon.com/dp/B0B8HMDRYZ?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0B8HMDRYZ?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41H27zmeiLL._SL500_.jpg",
     specs: ["Capacity: 148Wh","Surge output: 270W","Listed weight: 3.3 lb","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Capacity","value":"148Wh"},{"label":"Surge output","value":"270W"},{"label":"Listed weight","value":"3.3 lb"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -171,7 +171,7 @@ export const relatedGuides = [
 export const sources = [
   {
     "title": "Case Club Waterproof Gaming Station Fits Xbox One X/S, Monitor product page",
-    "href": "https://www.amazon.com/dp/B07SJXLR2Q?tag=rvgearlab-20&linkCode=osi&th=1&psc=1"
+    "href": "https://www.amazon.com/dp/B07SJXLR2Q?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1"
   },
   {
     "title": "CPSC carbon monoxide safety center",

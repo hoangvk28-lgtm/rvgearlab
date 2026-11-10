@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41pfvgzHX0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G5YM7K6D?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G5YM7K6D?tag=rvgearlab-amz-20",
     "description": "The SAMUUN two-pack lists 2000 lumens, a 5000mAh 3.85V 19.25Wh battery and a 1W monocrystalline solar panel. It has five light modes with a red light, four battery-indicator levels and IP65 water resistance.\n\nIt is the brightest pick here and carries an IP65 rating. Against the XTAUTO, it carries a battery three times larger.\n\nIt suits campers who need real light and a phone-charging backup. The listing states over 6 hours of continuous light at maximum.",
     "specs": [
       "2000 lumens, 5000mAh",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41rc3BHlyWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DW48CVCY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DW48CVCY?tag=rvgearlab-amz-20",
     "description": "The Lichamp Collapsible has solar and USB charging, a USB output port to charge a phone and overcharge protection. It combines a flashlight with a collapsible 360 degree lantern in military-grade ABS.\n\nIt states a USB output port for charging a phone, which the XTAUTO and DIBMS listings do not. Compared with the DIBMS, it offers a heavier-duty build.\n\nIt fits campers who want one tool for hiking and tent lighting. The folding handle doubles as a flashlight grip.",
     "specs": [
       "Solar and USB charging",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41N+rXFADJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FCRM9BY2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FCRM9BY2?tag=rvgearlab-amz-20",
     "description": "The Mesqool four-pack gives each lantern a 1600mAh battery, an oversized solar panel and USB-C charging. It lists up to 35 hours of lighting and switches between lantern and flashlight modes.\n\nEach unit carries a larger battery than the DIBMS and costs less per lantern than the SAMUUN. It folds to palm size for storage.\n\nIt suits families who want a lantern per person. The USB-C port charges quickly when the weather is poor.",
     "specs": [
       "1600mAh, up to 35 hours",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41U5j1DLWpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09WN3TNSV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09WN3TNSV?tag=rvgearlab-amz-20",
     "description": "The XTAUTO two-pack uses 6+1 high-intensity LED chips and a 1600mAh battery with solar and USB charging. It folds to phone size and doubles as a flashlight.\n\nIt costs less than any other pick and shares the 1600mAh battery size with the Mesqool. Against the DIBMS, it offers a larger battery.\n\nIt suits casual campers who need an inexpensive, packable light. The ABS body is described as water resistant.",
     "specs": [
       "6+1 LED chips, 1600mAh",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41XDsahMaaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BZRZ6N7Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BZRZ6N7Q?tag=rvgearlab-amz-20",
     "description": "The DIBMS weighs 4.47oz and folds to palm size with a built-in 800mAh battery. It charges in 2.5 hours by USB and has IP44 protection.\n\nAt 4.47oz it is a very light pick, with a battery half the size of the Mesqool's. The accordion design works as lantern or flashlight.\n\nIt suits backpackers who count ounces. Solar charging needs direct exposure to work well.",
     "specs": [
       "4.47oz, 800mAh",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31bDvDLLx3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0716JV1SG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0716JV1SG?tag=rvgearlab-amz-20",
     "description": "The LuminAID Nova is an inflatable solar lantern with 75 lumens, IP67 waterproofing and multiple brightness settings. It lists up to 24 hours of light on a full charge and needs no other batteries.\n\nIt is the only inflatable pick and the most waterproof, at IP67. Compared with the collapsible lanterns, it packs flat and inflates.\n\nIt suits kayakers, beach campers and families with kids. Its shatterproof body is described as safe for children.",
     "specs": [
       "75 lumens, 24 hours",

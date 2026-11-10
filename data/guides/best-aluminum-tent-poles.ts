@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41HX4RnqikL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CS31NYF1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CS31NYF1?tag=rvgearlab-amz-20",
     "description": "The AVOFOREST 8.7FT pair is built from aviation aluminum at a 32mm diameter, extending to 8.7 feet and collapsing to 2.9 feet. A second anti-collapse lock layer, a lightning cap and a woven bag are included.\n\nIt gives two thick 32mm poles with a second lock layer where the XINCAMPING gives four. That trade favors strength per pole over pole count.\n\nIt suits a camper who props a large tarp or awning and values a stiff aluminum tube. The listing promises lifetime service.",
     "specs": [
       "8.7 ft max, 32mm tube",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41D7Kqee79L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DT97B8NK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DT97B8NK?tag=rvgearlab-amz-20",
     "description": "The XINCAMPING set has four 4-section aluminum poles that extend from 2.6 to 7.6 feet and weigh 1.3 lbs each. The rust-proof tubes have protection caps and reinforced joints listed for up to 8-grade wind.\n\nIt gives four poles where the AVOFOREST gives two, so it can support a larger tarp or two shelters. The max height is a foot lower than the AVOFOREST.\n\nIt suits a camper who pitches several shade structures or a gazebo-style shelter. It collapses to 2.6 feet, which fits a bag or trunk.",
     "specs": [
       "7.6 ft max, 2.6 ft collapsed",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/418lDwtQ79L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BFDWSD3H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BFDWSD3H?tag=rvgearlab-amz-20",
     "description": "The BRILLIANCE4U 14ft 8.7 in pole is a pre-assembled 7001 T6 aluminum rod with an 8.5mm outer diameter. It weighs 0.66 lb and folds to 17.4 inches.\n\nIt is a frame-pole replacement, unlike the two telescoping sets. The listing positions it as an upgrade from fiberglass that can crack and splinter.\n\nIt suits an owner of a dome tent with a broken fiberglass pole who wants aluminum. Measure the old pole first.",
     "specs": [
       "14 ft 8.7 in, 8.5mm",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41xhdJ2Q32L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B096S86KVL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B096S86KVL?tag=rvgearlab-amz-20",
     "description": "The BRILLIANCE4U 12ft 1.4 in pole is a pre-assembled 7001 T6 aluminum rod with an 8.5mm outer diameter. It weighs 0.54 lb, folds to 17.48 inches and includes male tips.\n\nIt is the shorter and lighter sibling of the 14.7FT pole, and the lowest price of the four. The listing tells you to measure the original pole's length and diameter first.\n\nIt suits a backpacking tent with a short main pole. Choose a pole not shorter than the original.",
     "specs": [
       "12 ft 1.4 in, 8.5mm",

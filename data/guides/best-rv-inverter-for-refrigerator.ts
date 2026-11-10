@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41rrhdI6ExL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GKGDH65W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GKGDH65W?tag=rvgearlab-amz-20",
     "description": "The ALLWEI 3000W is a pure sine inverter with an 8 fold protection set and an LCD that shows real-time status. At $199.99 it gives plenty of surge capacity for a compressor start, and the display lets you watch the load cycle on and off during the night.\n\nIt costs $90.00 less than the ZETAWALE 3000W for the same listed 3000W rating, and $10.00 more than the ZETAWALE 2000W. Pick this if you want maximum headroom for a fridge plus a few extras at the lowest price per watt. Caveat: the excerpt does not state idle draw, and a 3000W unit may burn more idle power than a smaller one, so switch it off when not needed.",
     "specs": [
       "3000W pure sine wave",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41uR35+VPKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DDWPM8NH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DDWPM8NH?tag=rvgearlab-amz-20",
     "description": "The ZETAWALE 2000W is a pure sine 12V inverter with four AC outlets, a USB port, Type-C fast charging and a remote with LCD. At $189.99 it is the cheapest of the three and right-sized for a compressor refrigerator, which usually needs well under 1000W to start.\n\nIt is $10.00 below the ALLWEI 3000W and $100.00 below the ZETAWALE 3000W, giving up a full 1000W of headroom you likely will not use on a fridge alone. Pick this if the fridge and a few small devices are your only AC loads. Caveat: if you later add a microwave, 2000W will feel tight.",
     "specs": [
       "2000W pure sine wave",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41suSTCOQ2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DDX5ZG51?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DDX5ZG51?tag=rvgearlab-amz-20",
     "description": "The ZETAWALE 3000W is a pure sine inverter with four AC outlets, USB and Type-C ports, and a remote LCD, built with overload and low voltage protection. At $289.99 it is the priciest of the three and brings the same outlet set as its 2000W sibling at a higher rating.\n\nIt costs $100.00 more than the ZETAWALE 2000W and $90.00 more than the ALLWEI 3000W, with no extra capacity over the ALLWEI. Pick this if you prefer the remote and port layout the ZETAWALE family offers. Caveat: for a fridge alone you are paying for headroom you do not use.",
     "specs": [
       "3000W pure sine wave",

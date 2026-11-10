@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31uLlEH3nvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D9N9FW3L?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D9N9FW3L?tag=rvgearlab-amz-20",
     "description": "The Castle Unicorn is a two-room family cabin with a floor near 10.3 ft long and 6.9 ft wide and a 69 inch peak. It uses 150D Oxford with a 1500mm polyurethane coating, and poles can lift the front and side doors into a porch that rolls away when not needed.\n\nTwo separate rooms give kids or friends their own sleeping area, which none of the single-room domes offer. Against the BravArrk 6-Person it trades a little headroom for the divider and the extendable porch.\n\nIt works for families of four to six who want a bedroom split and a shaded entry for chairs. Two big doors, two mesh windows and a mesh roof keep warm nights airy.",
     "specs": [
       "Two rooms, porch from door flaps",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51c34Dn6EjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H1N15P7J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H1N15P7J?tag=rvgearlab-amz-20",
     "description": "The BravArrk is a cabin with a 10 by 9 ft floor and a 78 inch center height, enough for two air mattresses or six sleeping bags. A large mesh door, several mesh windows and a mesh roof drive airflow.\n\nIt stands taller than the Castle Unicorn and is simpler to pitch, with two people finishing in about five minutes. Compared with the Portal 8-Person it gives up the porch and the second room in return for a lower price.\n\nIt fits couples with kids who want standing room and a straightforward setup. One person can also assemble it with a little extra time.",
     "specs": [
       "10 by 9 ft floor, 78 in peak",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51XG5y8Lw0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F5WKZDS6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F5WKZDS6?tag=rvgearlab-amz-20",
     "description": "The Vidalido is a three-to-four person tent with a 1500mm PU coating and an extended rainfly that forms a vestibule over the door. Its poles use anti-corrosion joints to resist snapping, and it adds ceiling hooks for a lamp plus adjustable roof vents.\n\nIts tall vestibule keeps boots dry, which the BravArrk and Castle Unicorn do not do as neatly. The floor is smaller than either cabin, so it suits fewer people.\n\nIt suits a couple with one child or two adults who want weather cover over comfort. Dual-layer mesh and a skylight keep the interior bright.",
     "specs": [
       "1500mm PU, extended rainfly",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31j+pwSvDuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DFCFR5VG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DFCFR5VG?tag=rvgearlab-amz-20",
     "description": "The Portal is an 8-person cabin about 14 ft long and 8 ft wide with an 80 inch peak, enough for three full-size air beds. It adds a second room, two D-shaped doors, a porch of roughly 14 by 7.5 ft, six mesh windows and two ground vents.\n\nIt is the roomiest tent here, ahead of the UNP 8-Person on porch size and room split. A PU coating, fully taped seams and a fly handle rain, and fiberglass and steel poles hold the frame.\n\nIt fits big families or two couples who want a living area. The wide porch works as a bug-free lounge.",
     "specs": [
       "About 14 ft x 8 ft, 80 in peak",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41dtsSzOPmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C4H1LJ9H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C4H1LJ9H?tag=rvgearlab-amz-20",
     "description": "The UNP cabin has a 12 by 9 ft floor with an 80 inch peak and room for two air mattresses or eight sleeping bags. It uses a 1000mm PU coating, four steel leg poles, two mesh doors, six mesh windows and a mesh top.\n\nIt is lighter on features than the Portal 8-Person, with no second room, so it costs less while still carrying the wall ventilation of a larger tent. At 26.8 lb with a 25 inch carry bag, it is easy to move.\n\nIt fits groups that care more about sheer capacity than about extras. Two people can pitch it in around ten minutes.",
     "specs": [
       "12 by 9 ft, 80 in peak",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41QhQdeJlfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FVLLTDPG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FVLLTDPG?tag=rvgearlab-amz-20",
     "description": "The Night Cat is a two-person tent with a door and vestibule on each side, two aluminum poles, a welded floor and taped seams. It gives roughly 6.8 ft of length, 4.6 ft of width and pitches in about three minutes.\n\nAt this ceiling it is the only compact pick, so it makes sense when you do not need family space. Against the Vidalido it offers a lighter pack and aluminum poles.\n\nA couple who camp close to the car and occasionally hike in will find it a fit. The rainfly covers the whole shell.",
     "specs": [
       "Two aluminum poles",

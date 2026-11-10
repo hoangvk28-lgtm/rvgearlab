@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51UnXnkVOrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G8JJHL4X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G8JJHL4X?tag=rvgearlab-amz-20",
     "description": "RVSHARK is a 50 foot, 5/8 inch hose whose listing says it is certified to NSF/ANSI/CAN 372 and holds under 0.25 percent lead content. It uses a hybrid polymer body and brass plated aluminum fittings with reinforced strain relief.\n\nAgainst RVGUARD, it names a specific standard rather than a general lead-free line. Against CircleRiver 25ft, it offers double the reach and a stated -4 to 176 degree F range.\n\nThe strongest choice for a long fill run where the certification language matters most. Think of it as the pick for certified long fills.",
     "specs": [
       "NSF/ANSI/CAN 372 certified",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51VoAse9iWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B003E1O9ZE?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B003E1O9ZE?tag=rvgearlab-amz-20",
     "description": "Camco TastePURE 50ft is a 5/8 inch PVC hose whose listing cites NSF/ANSI 61 certified hose and CSA lead-free certification to NSF/ANSI 372. It is made in the USA and uses diamond-hatch reinforcement for kink resistance.\n\nCompared with RVSHARK, it carries two named standards and a lower price. Compared with Camco TastePURE 25ft, it is the same hose with twice the length.\n\nA dependable choice for owners who want named certifications and a classic PVC hose. Buyers focused on named-standard buyers will find it a sensible match.",
     "specs": [
       "NSF/ANSI 61 and 372 cited",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51x1kHuAnYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B004ME11FS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B004ME11FS?tag=rvgearlab-amz-20",
     "description": "Camco TastePURE 25ft is the compact version of the same certified drinking water hose, with a 5/8 inch inner diameter and CSA lead-free certification to NSF/ANSI 372. It adds the same diamond-hatch reinforcement.\n\nAgainst the 50ft version, it is lighter to coil and store. Against CircleRiver 25ft, it names more certifications.\n\nIdeal for sites where the spigot sits close to the RV. It earns its slot for close spigots.",
     "specs": [
       "25 ft, 5/8 inch ID",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/511NceEhDyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BXWS7BCS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BXWS7BCS?tag=rvgearlab-amz-20",
     "description": "RVGUARD is a 50 foot hose with a three layer hybrid polymer build and a 5/8 inch inner diameter. The listing says the hose and connectors are lead and phthalate free and the fittings use 3/4 inch garden thread.\n\nCompared with RVSHARK, it costs less and uses a plain lead-free statement. Compared with CircleRiver 25ft, it doubles the length.\n\nA smart option for buyers who want 50 feet of flexible hose at a modest price. It is a natural fit for budget long runs.",
     "specs": [
       "3-layer hybrid polymer",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/416uKLABdmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G4TNXTZQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G4TNXTZQ?tag=rvgearlab-amz-20",
     "description": "CircleRiver 25ft is a 5/8 inch hose described as NSF 372 tested lead-free, with BPA free and no odor or rubber taste. It uses 3/4 inch aluminum fittings with a sealing ring and a three layer hybrid polymer build.\n\nAgainst RVGUARD, it adds a named NSF reference at half the length. Against the Camco TastePURE 25ft, it adds a wide stated range of -22 to 158 degrees F.\n\nA good pick for cold-weather weekends with a close spigot. Think of it as the pick for cold weekends.",
     "specs": [
       "NSF 372 tested lead-free",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41N3fCd3FhL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B083BXW2XW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B083BXW2XW?tag=rvgearlab-amz-20",
     "description": "Minimprover is a 12 inch flexible hose adapter with brass certified to contain less than 0.25 percent lead and an EPDM rubber hose. The listing gives 300 PSI maximum pressure and a -22 to 250 degree F range.\n\nUnlike the other picks, it is a blowout adapter for winterizing, so it complements any drinking hose here. Unlike RVSHARK, it carries a brass lead-content statement for the adapter itself.\n\nA handy add-on for owners who winterize plumbing with compressed air. Buyers focused on winterizing add-on will find it a sensible match.",
     "specs": [
       "Brass, under 0.25% lead",

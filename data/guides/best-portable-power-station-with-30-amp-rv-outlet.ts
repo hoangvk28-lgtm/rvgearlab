@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41F6UY6DsTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GCHMBVCJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GCHMBVCJ?tag=rvgearlab-amz-20",
     "description": "The ABOK Ark3600 pairs a 3,840Wh LiFePO4 battery with 3,600W of rated output and a 7,200W peak, and its 15 ports include one TT-30 RV outlet rated at 30A. Because 30A at 120V is 3,600W, this is the only unit in the guide besides the Pecron whose rated output lines up with the full capacity of the plug. The cells are listed as EVE LiFePO4, and the unit can be expanded to 11,520Wh with add-on batteries.\n\nAgainst the Pecron E3600LFP it costs $600 more ($1,599 versus $999) and stores 768Wh more, which is 25 percent extra energy, so the Pecron is cheaper per watt-hour at about $0.33 versus $0.42. The ABOK lists faster combined charging, up to 3,500W of AC plus solar with 0 to 80 percent in about 1.1 hours under optimal conditions. Compared with the BLUETTI Elite 300 bundles it delivers 1,200W more continuous power than the Elite's 2,400W, for about $160 more than the Alternator Bundle ($1,599 versus $1,438.99).\n\nPick this if you want to run a 30 amp trailer's air conditioner and other loads together with the plug's full 3,600W available, and you value the extra battery size. The caveat is that the main feature text does not publish weight or dimensions, so check the spec table for liftability before buying, and some settings are managed through the ABOK app.",
     "specs": [
       "3,840Wh LiFePO4",
@@ -55,7 +55,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41b1QdWQKaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D83QYRDS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D83QYRDS?tag=rvgearlab-amz-20",
     "description": "The Pecron E3600LFP holds 3,072Wh in a LiFePO4 battery and lists pure sine wave output rated at 3,600W, with a TT30-R RV receptacle among its 16 outputs (four AC sockets, four USB-A, two 100W USB-C, an XT60 port, a cigarette lighter port and a DC5525 port). Like the ABOK, its rated output matches the 3,600W a 30A plug can carry. The box includes both a 15A and a 30A AC charging cable.\n\nAt $999 it is the cheapest pick, $600 below the ABOK Ark3600 and $439.99 below the BLUETTI Alternator Bundle, which works out to roughly $0.33 per watt-hour, the lowest in this guide. In exchange it stores 768Wh less than the ABOK. Its listed recharge is quick, a full charge in 1.3 hours from 3,200W of AC input or 2 hours from 1,800W, against the ABOK's 2.3-hour full-charge figure that relies on up to 3,500W of combined AC and solar.\n\nPick this if you want the plug's full 3,600W for the least money and expect to charge from a wall outlet or a generator. The caveat is a shorter feature list, with no app or bundled solar panel mentioned in the listing text, and weight and dimensions that you will need to confirm on the spec table. The listing states a 2 plus 3 year warranty.",
     "specs": [
       "3,072Wh LiFePO4",
@@ -84,7 +84,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41YF-n2JswL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GKSKGKLX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GKSKGKLX?tag=rvgearlab-amz-20",
     "description": "This bundle pairs the BLUETTI Elite 300 (3,014.4Wh LiFePO4, 2,400W continuous and 4,800W surge) with the 1,200W Charger 2 alternator charger, which the listing says ships separately. The Elite has a dedicated TT-30 RV outlet and a 12V/30A DC port, plus a UPS switchover under 10 milliseconds. BLUETTI describes it as nearly 59 percent smaller than traditional large power stations, a claim it attributes to Frost & Sullivan.\n\nThe 2,400W continuous rating is the key tradeoff. Divide 2,400W by 120V and you get 20A, so the TT-30 plug fits a 30A trailer but the station supports about two thirds of the 3,600W the plug can carry. It costs $461 less than the same station with a 500W solar panel ($1,899.99 versus $1,438.99), and it recharges from a vehicle in 3.2 hours while driving. Against the ABOK Ark3600 it is about $160 cheaper but stores about 826Wh less.\n\nPick this if your loads fit inside 2,400W, such as a fridge, lights, electronics and one appliance at a time, and you drive most days so the tow vehicle can refill it. The caveat is that anything pulling more than 2,400W, such as an air conditioner and microwave together, is beyond its continuous rating.",
     "specs": [
       "3,014.4Wh LiFePO4",
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411W+D74EkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F47HQVC5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F47HQVC5?tag=rvgearlab-amz-20",
     "description": "This is the same Ark3600 as the top pick (3,840Wh, 3,600W rated, 7,200W peak, one TT-30 RV port among 15 outputs) sold with a 400W solar panel. The listing also describes a smart app that can schedule charging for off-peak electricity rates. The panel adds $350 over the $1,599 base unit ($1,949 versus $1,599).\n\nAgainst the BLUETTI Solar Bundle it costs $49.01 more ($1,949 versus $1,899.99) and brings a larger battery (3,840Wh versus 3,014.4Wh) and the full 3,600W output, but a smaller panel, 400W versus 500W. A rough estimate with no losses is 3,840Wh divided by 400W, about 9.6 hours of ideal sun for one charge, where the BLUETTI's 3,014.4Wh from 500W is about 6 hours. Real recharge will be slower than both.\n\nPick this if you camp stationary with open sky and want the full-power station plus a panel in one purchase. The caveat is the highest price in the guide, and the listing text does not give the panel's voltage and current window, so confirm it matches the station's solar input before adding a second panel.",
     "specs": [
       "3,840Wh with 400W panel",
@@ -142,7 +142,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41QX0dx1pkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GYXQ2KMG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GYXQ2KMG?tag=rvgearlab-amz-20",
     "description": "The BLUETTI Solar Bundle combines the Elite 300 (3,014.4Wh LFP battery, 2,400W output, TT-30 outlet and 12V/30A DC port) with a 500W solar panel that the listing says ships separately. BLUETTI lists a 0 to 100 percent solar recharge in about 7 to 10 hours, and states the unit is nearly 59 percent smaller than traditional large power stations.\n\nIt is $461 more than the Alternator Bundle ($1,899.99 versus $1,438.99), and that buys a 500W panel in place of a 1,200W alternator charger. It also costs $900.99 more than the Pecron E3600 ($1,899.99 versus $999), which stores more energy (3,072Wh) and supplies 3,600W. Against the ABOK Solar Bundle it is $49.01 cheaper, with a bigger panel but 826Wh less storage and the same 2,400W ceiling as its sibling.\n\nPick this if you plan to charge mainly from the sun and your loads stay under 2,400W. The caveat is that its price is hard to justify against the cheaper stations unless the 500W panel is what you wanted, and the 7 to 10 hour figure is a best case that needs open, unshaded sun.",
     "specs": [
       "3,014.4Wh with 500W panel",

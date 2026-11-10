@@ -30,7 +30,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/315xl5Xfq8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D17ZBP2D?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D17ZBP2D?tag=rvgearlab-amz-20",
     "description": "The Safoner Aluminum RV Roof Vent Cover is a 14 by 14 inch replacement lid built from corrosion-resistant aluminum and rated for wind, rain and UV protection. It arrives as a kit with a hinge, a crossbar and 7 screws plus an installation guide, and the listing states fit for Ventline vents made before 2008 and for Elixir vents from 1994 on. It costs $49.99.\n\nAgainst the Heng's lid below it, the Safoner is the only pick sold as a complete kit, so you do not hunt for a hinge or a crossbar when the old ones are worn or missing. The stated fit for older Ventline and Elixir vents gives you a named match instead of a general promise of universal fit. Aluminum also stays rigid under sun and wind load.\n\nThis is the pick for owners replacing a cracked lid on an older Ventline or Elixir vent and who want every piece in one box. It suits anyone with a vent whose original hinge has failed, because replacing the lid and the hardware together avoids a second trip to the roof.",
     "specs": [
       "14 by 14 inch aluminum",
@@ -57,7 +57,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Z6tidN4gL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0027XGMK0?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0027XGMK0?tag=rvgearlab-amz-20",
     "description": "The HENG'S INDUSTRIES 90114-C1 Universal Roof Vent Lid is a 14 by 14 inch metal lid that comes with a vent bag and a slide bar. It is made to fit a range of 14 inch roof vents instead of one model, which makes it the flexible option in this lineup. It costs $31.38.\n\nCompared with the Safoner above it, the Heng's lid costs about $18 less and keeps the package simple, with a bag to protect the lid in storage and a slide bar for the opening mechanism. Compared with the Ventline below it, the Heng's brings the extra pieces and a universal 14 inch design for owners whose vent is not a V2110. The lower price makes it an easy repair for a vent that has lost its cover.\n\nIt suits owners with a standard 14 inch Heng's style vent or any other vent that matches the common 14 inch opening. It suits budget-minded RVers who want a metal lid that lasts longer than plastic and who are comfortable matching the lid to their existing vent base.",
     "specs": [
       "14 by 14 inch metal lid",
@@ -84,7 +84,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/313l2mvmBuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0038AJNT8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0038AJNT8?tag=rvgearlab-amz-20",
     "description": "The Ventline BV0534-00 Mill Dome Assembly is an aluminum vent lid made for the V2110 Ventadome, and it measures 14.25 by 14.25 inches. It is the original-equipment style lid for that vent, built with aluminum construction. It costs $30.78.\n\nAgainst the Heng's lid above it, the Ventline is priced about the same and targets one vent exactly, so the fit is a direct factory-style match instead of a universal approximation. That means the lid lines up with the V2110 base and its original mounting pattern. Compared with the Safoner kit, it is the choice for owners who already have the rest of the hardware in good condition.\n\nThis is the pick for Ventline V2110 owners who want to restore the vent to its original look with an aluminum lid. It suits anyone who prefers an OEM-style part, anyone who cares about an exact fit on a vent that is otherwise in good shape, and owners who value matching the original part number.",
     "specs": [
       "14.25 inch aluminum lid",

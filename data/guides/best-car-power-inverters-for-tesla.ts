@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Y2G2IR5qL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F28NF376?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F28NF376?tag=rvgearlab-amz-20",
     "description": "This BESTEK is described as designed for the Tesla Model Y's 16V accessory socket, with an 11 to 17V input range and a design patent number in the listing. It gives 300W continuous and 700W peak, two US AC outlets, PD 30W USB-C and QC 18W USB-A ports and a metal housing.\n\nIt is the only pick whose listing names a specific Tesla model, the Model Y, and lists a 700W peak, a figure the other listings do not state. Against the Blubluman it offers a metal case and a named PD and QC charging pair.\n\nIt suits Model Y owners who want a small inverter that targets their socket. Protections named include short circuit, overload, overvoltage and overheating.",
     "specs": [
       "300W, 700W peak",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41UhPyrMCrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H5C6KTNW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H5C6KTNW?tag=rvgearlab-amz-20",
     "description": "The Blubluman is a 300W inverter upgraded to an 11 to 17V window for Tesla, with two 110V AC outlets, a 30W USB-C port and a 24W USB-A port. It measures 5 by 2.68 by 1.4 inches, weighs 9.03 oz and includes a Starlink Mini adapter in the title.\n\nIt pairs a 24W USB-A port with a smart fan that only starts when the load passes 50W or the temperature rises past 45 degrees C. Compared with the BESTEK pair it adds the Starlink Mini adapter as a differentiator.\n\nIt suits Tesla owners who travel with a Starlink Mini and want a small inverter that stays quiet at idle. The listing says to avoid hair dryers, heaters and drills.",
     "specs": [
       "300W, 11 to 17V for Tesla",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hEeE+OZhL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B004MDXS0U?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B004MDXS0U?tag=rvgearlab-amz-20",
     "description": "This BESTEK has an 11 to 17V window described as Tesla compatible, with 300W continuous and a pair of 110V sockets alongside 4.8A USB charging. A built-in 40 amp fuse sits inside an aluminum shell, and the cord measures 32 inches.\n\nIt is the pick that spells out a fuse rating, while the Model Y version and the Blubluman do not. The longer cord also helps when the outlet sits low in the cabin.\n\nIt suits Tesla owners who want a named protection and the lowest price among the 300W options. A smart cooling fan keeps it quiet.",
     "specs": [
       "300W, 40A fuse, 11 to 17V",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41dZ9E8egSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07VV29T4M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07VV29T4M?tag=rvgearlab-amz-20",
     "description": "The BESTEK 150W has a single 150W AC outlet, an 18W USB-A port and a 30W USB-C PD port. The listing claims 11 to 17V compatibility, including Tesla, and describes a 4.2 by 2.8 inch body with a back clip and a detachable cable.\n\nIt is the smallest unit and has the lowest wattage, which is closer to what an accessory socket can deliver. Compared with the 300W models it favors lower draw over headline numbers.\n\nIt suits owners who charge a laptop, tablet and phone together. The aluminum casing and 10-layer protection set are named in the listing.",
     "specs": [
       "150W AC outlet",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31kM3DGeR+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GH6D643B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GH6D643B?tag=rvgearlab-amz-20",
     "description": "The HANSSHOW is a 200W inverter listed as 16V compatible for Tesla Model Y, 3, S and X. It has two US AC outlets, a 30W USB-C port, an 18W USB port, an LED display and a cooling fan.\n\nIt names the most Tesla models of any listing, covering Y, 3, S and X, and it is the only one with an LED display. Compared with the 150W BESTEK it adds a second AC outlet.\n\nIt suits owners with more than one Tesla model in the family. The display shows status during road trips and camping.",
     "specs": [
       "200W, 16V Tesla compatible",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/3184VsUgmEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D3VCQV6W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D3VCQV6W?tag=rvgearlab-amz-20",
     "description": "The EcoFlow 160W N-Type lists N-type cells, an IP68 rating, ETFE coating and a weight of 12.3 lbs. It has a 30 to 60 degree adjustable bracket with a solar angle guide.\n\nIt weighs 3 lbs less than the other EcoFlow 160W and carries a stated IP68 rating instead of a seamless-body claim. It costs about the same.\n\nIt suits EcoFlow station owners who want the lighter, better-rated panel. The angle guide takes the guesswork out of aiming.",
     "specs": [
       "N-type cells, IP68",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41r-7tK00BL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08R5JWL74?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08R5JWL74?tag=rvgearlab-amz-20",
     "description": "The classic EcoFlow 160W lists a weight of 15.4 lbs, a seamless one-piece waterproof design and a kickstand carrying case. It ships with a solar to XT60i charging cable.\n\nThe case doubles as a kickstand, which the N-Type model handles with a bracket. It weighs 3 lbs more than the N-Type and costs slightly more.\n\nIt suits owners who want the case protection for travel. It pairs with EcoFlow stations for maximum charging.",
     "specs": [
       "15.4 lbs, one-piece waterproof",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41LrqwK1i1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FVSHMZRK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FVSHMZRK?tag=rvgearlab-amz-20",
     "description": "The ZOUPW is sold as a 320W set of two 160W panels using N-type 16BB cells at 25 percent efficiency. Each panel weighs 11.2 lbs, has 3 kickstands and magnetic handles, and the kit includes a 5-in-1 connector with bypass diodes for shade.\n\nIt costs less than either EcoFlow and delivers twice the total watts when both panels are used. It is the only pick here sold as a pair.\n\nIt suits RV campers who want 320W for a larger station. The IP67 ETFE coating handles rain.",
     "specs": [
       "320W set of 2 x 160W",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/514OZ3GwnLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H44PDV2T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H44PDV2T?tag=rvgearlab-amz-20",
     "description": "The ALLPOWERS SE160 lists monocrystalline cells with an 18V, 8.89A working output and a flat size of 46.24 x 31.61 x 0.39 inches. It has a seamless waterproof one-piece design for ALLPOWERS station series.\n\nIt costs about a third of an EcoFlow 160W and fits 12V and 18V systems. It is built for ALLPOWERS stations first.\n\nIt suits ALLPOWERS owners and anyone with an 18V input. The slim 0.39 inch profile packs flat.",
     "specs": [
       "18V, 8.89A, 160W",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51SyNN01llL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07WX6L3V6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07WX6L3V6?tag=rvgearlab-amz-20",
     "description": "The DOKIO is a 150W panel, the nearest budget fit to 160W, folding to 20 x 21 x 1.1 inches at 7.3 lbs. It includes a standalone PWM controller for 12V systems and a 9.85 ft cable, with USB ports for small devices.\n\nIt weighs well under either EcoFlow and costs a fraction of them. It offers 10W less than the 160W picks.\n\nIt suits budget campers charging a 12V battery. The long cable puts the controller in shade.",
     "specs": [
       "150W, 7.3 lbs, 1.1 in thick",

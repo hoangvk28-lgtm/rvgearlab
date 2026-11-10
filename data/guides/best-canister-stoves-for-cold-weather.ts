@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/415zICKwZbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0098P71UK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0098P71UK?tag=rvgearlab-amz-20",
     "description": "The Optimus Vega is a remote canister stove built for cold, and its listing says flipping the cartridge upside down switches it to liquid fuel feed. It weighs 6.3 oz and accepts pots up to 22 cm (8.7 in) wide.\n\nThat inverted feed is the cold-weather feature the SOTO Fusion Trek replaces with a regulator, and it runs on propane, butane or isobutane EN417 cartridges. It is lighter and simpler than the Polaris Optifuel.\n\nIt suits winter hikers and climbers who cook in freezing conditions. Wide pot supports make snow melting steadier.",
     "specs": [
       "Inverted liquid feed",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411-axA8Y4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09NXWKRR5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09NXWKRR5?tag=rvgearlab-amz-20",
     "description": "The SOTO Fusion Trek is a detachable canister stove with a micro regulator valve system that weighs 6.4 oz. A concave burner head and short individual flames make it wind resistant, and a flame control knob adjusts heat.\n\nWhere the Vega relies on flipping the canister, the SOTO uses a regulator to keep the flame steady as fuel gets low. It also detaches from the canister for easy storage.\n\nIt suits campers who want steady output and wind resistance without inverting a canister. It works with most outdoor gas canisters.",
     "specs": [
       "Micro regulator valve",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41MkppCFt-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00SVD6368?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00SVD6368?tag=rvgearlab-amz-20",
     "description": "The Optimus Polaris Optifuel is a multifuel stove with a 4-season mode that boosts output and shortens boil times in the cold. It runs on butane, isobutane, propane, white gas, kerosene, diesel and jet fuel through one jet.\n\nIt ships with a FLIPSTOP pump, multitool, windscreen, heat reflector and stuff sack. That kit and the self-cleaning magnetic jet go beyond what the Vega and SOTO offer.\n\nIt suits expedition users and mountaineers who need a stove that works on whatever fuel is available. It also handles canister fuel.",
     "specs": [
       "4-season mode",

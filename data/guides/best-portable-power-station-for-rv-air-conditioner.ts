@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/415Ex6a1IZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GKRTX336?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GKRTX336?tag=rvgearlab-amz-20",
     "description": "The Bluetti Elite 300 lists 3,014.4Wh and 2,400W of AC output, a TT-30 RV outlet and a 12V/30A DC output for items like fridges, water pumps and diesel heaters. The listing also claims a 10ms UPS switchover, app control, and recharging by AC, solar or car charger. It is priced at $1,098.99.\n\nIt ranks first because it combines the TT-30 outlet a standard RV cord plugs into with roughly 3kWh of storage at a price below the Jackery and ABOK. Against the Anker C2000 Gen 2, it holds about 960Wh more for $199 more, which is the difference between roughly 50 percent more runtime on the same load. It gives up the Anker's lighter, wheel-free format, and the listing does not publish a weight in its feature text.\n\nPick this if you want the most stored energy per dollar in a station with an RV outlet and plan to run a rooftop air conditioner for a few hours at a time. The caveat is that 2,400W of output sets the ceiling on start-up load, so check your air conditioner's start-up draw before relying on it.",
     "specs": [
       "3,014.4Wh, 2,400W AC output",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41caMbsZjuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F2TKY83D?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F2TKY83D?tag=rvgearlab-amz-20",
     "description": "The Dabbsson 3000L lists 3,072Wh, 3,000W of rated AC output and a 3,600W Power Boost mode for compatible appliances, along with a built-in TT-30 outlet for RV hookups. The listing says to keep connected loads within the station's total and per-outlet output. It includes an AC cable, a car charging cable and a 5-year warranty, and costs $1,029.\n\nIt ranks second because it offers more rated output than the Bluetti Elite 300 (3,000W versus 2,400W) for $70 less, with about 58Wh more capacity. The tradeoff is that the 3,600W Power Boost is a short-term mode, not a sustained rating, so use the 3,000W number for planning. Compared with the Jackery HomePower 3000, you get the same 3,072Wh at $320 less, but the Jackery publishes its UPS time and recharge speeds.\n\nChoose it if you want headroom for an air conditioner's start-up surge and the longest warranty here. The caveat is that the listing publishes no weight or recharge time in its feature text, so confirm both.",
     "specs": [
       "3,072Wh, 3,000W AC output",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31nIt8F0o1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FFSLG3WZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FFSLG3WZ?tag=rvgearlab-amz-20",
     "description": "The Jackery HomePower 3000 lists 3,072Wh, 3,600W of AC output with 7,200W surge, a built-in TT-30 RV port, a UL-certified UPS that switches in 20ms or less, and LiFePO4 cells rated at 4,000 cycles. The listing says it recharges fully in 1.7 hours using AC and DC together or 2.2 hours by AC alone, and charges to 80 percent in 9 hours with two 200W SolarSaga panels. It costs $1,349.\n\nIt ranks third because it has the strongest published output and the most complete recharge numbers, but it costs $250 more than the Bluetti and $320 more than the Dabbsson for similar capacity. It carries more surge than anything else in this guide at 7,200W. The extra money buys fast, documented recharging and a UL-certified UPS, not more stored energy.\n\nPick this if you plan to recharge quickly between uses, such as from a generator or campground outlet at lunch. The caveat is cost, since the same 3kWh is available for about $1,030 to $1,100 from two competitors.",
     "specs": [
       "3,072Wh, 3,600W, 7,200W surge",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41C+1aHks5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F47JVR5B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F47JVR5B?tag=rvgearlab-amz-20",
     "description": "The ABOK Ark3600 lists 3,840Wh, expandable to 11,520Wh, with 3,600W rated and 4,500W peak output. Its outputs include one 30A AC outlet, four 20A AC outlets and multiple USB ports, and it charges by AC at 1,500W, solar at 2,000W or car at 120W. It has a telescoping handle and wheels and sells for $1,139.05.\n\nIt ranks fourth even though it has the most capacity because the listing describes a 30A AC outlet but does not name a TT-30 RV receptacle, so you may need an adapter, and AC charging tops out at 1,500W, the slowest of the large stations. Against the Bluetti, it holds about 825Wh more for $40 more, which is about 27 percent more energy. Wheels help with the weight, though the listing gives no pounds figure.\n\nChoose it if you want the most runtime now and room to add expansion batteries later. The caveat is the outlet question: confirm the 30A outlet type and cable before plugging in an RV cord, and plan for slower recharging.",
     "specs": [
       "3,840Wh, expandable to 11,520Wh",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41iJKYxROtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FVFGL38H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FVFGL38H?tag=rvgearlab-amz-20",
     "description": "The Anker SOLIX C2000 Gen 2 lists 2,048Wh, 2,400W rated and 4,000W peak output, 41.7 pounds and 18.1 by 9.8 by 10.1 inches. The listing says it can run most window and RV air conditioners, charges from 0 to 100 percent in 58 minutes with AC and solar, and charges to 100 percent from a vehicle in 3 hours using 800W alternator charging. Capacity expands to 4kWh with an expansion battery. It costs $899.99.\n\nIt ranks fifth because it holds about 1,000Wh less than the Bluetti Elite 300 and offers 33 percent less runtime on the same load, but it is the only unit here with a published weight and the lowest price. It also publishes the strongest claim for air conditioners, and its 4,000W peak is higher than the Bluetti's rated output. Against the Bluetti AC200PL, it weighs 41.7 pounds and costs $49.99 less, though the listing does not state a TT-30 outlet.\n\nPick this if you can lift 41.7 pounds, want fast recharging, and plan short air conditioner sessions or an expansion battery later. The caveat is that 2,048Wh is roughly 2 hours at an illustrative 1,000 watt air conditioner load, so expect short runtimes.",
     "specs": [
       "2,048Wh, 2,400W, 4,000W peak",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zQ10TNbdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D17CW6KK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D17CW6KK?tag=rvgearlab-amz-20",
     "description": "The Bluetti AC200PL lists 2,304Wh, 2,400W AC output, a TT30 port, a 48V/8A DC port and 11 total ports. The listing says it recharges from 0 to 80 percent in 60 minutes with up to 2,400W AC input, takes up to 1,200W of solar, and uses LiFePO4 cells with 3,000 or more cycles. Capacity expands from 2kWh to as much as 8,448Wh with add-on batteries. It costs $949.98.\n\nIt ranks last because it holds about 710Wh less than the Elite 300 and costs less, and the Anker undercuts it by $49.99 with a published weight. It beats the Anker on storage by 256Wh and includes the TT30 port the Anker listing does not mention. Its AC input is the fastest published among the six at 2,400W, which narrows the recharge gap.\n\nChoose it if you want a TT30 outlet at a lower price than the 3kWh units and plan to add batteries later. The caveat is that the base unit gives only about 2.3kWh, so one air conditioner session is short before you recharge.",
     "specs": [
       "2,304Wh, 2,400W AC output",

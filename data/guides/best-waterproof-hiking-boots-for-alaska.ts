@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4136cyUoIaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D4BWNFNX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D4BWNFNX?tag=rvgearlab-amz-20",
     "description": "The Columbia Transverse Waterproof pairs a seam-sealed, multilayer Omni-Tech build rated for prolonged moderate rain and snow with Techlite cushioning and Omni-Grip tread. The upper is leather and mesh with a cushioned collar and metal hardware.\n\nA named rain and snow construction gives it a clearer weather story than the NORTIV 8 Women's Arch Support and the Athlefit Combat Boot. It costs more than every NORTIV boot here.\n\nIt suits a woman who spends long days in drizzle and wants cushion that returns energy underfoot. The leather and mesh upper stays comfortable over many hours.",
     "specs": [
       "Omni-Tech seam-sealed waterproof",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31JNLIO+JnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CLW6H2NM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CLW6H2NM?tag=rvgearlab-amz-20",
     "description": "The Columbia Newton Ridge Plus II is a men's lace-up waterproof hiker with a full-grain leather and mesh bootie build, a durable mesh tongue and a lightweight midsole for cushion and energy return. Its Omni-Grip system includes a dual-zone winter tread pattern for snow and ice.\n\nThe winter tread zone gives it more cold-ground grip than the NORTIV 8 Men's Ankle High, which lists only a general rubber sole. It costs more than the NORTIV pair and less than the Columbia Transverse.\n\nIt suits a man who hikes cold, wet trails and wants a leather boot with a classic lace-up fit. The mesh tongue adds breathing room on long climbs.",
     "specs": [
       "Full-grain leather and mesh",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41AVGmhQDwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B5DMBTM5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B5DMBTM5?tag=rvgearlab-amz-20",
     "description": "The NORTIV 8 Men's Ankle High is a waterproof hiking boot with removable shock-absorbent insoles and lightweight, flexible EVA midsoles. High-quality rubber soles with advanced traction are described as slip-proof on wet and muddy ground.\n\nIt costs far less than the Columbia Newton Ridge Plus II while keeping an ankle-high cut. The EVA midsole is stated to reduce foot fatigue, which the Athlefit Combat Boot does not claim.\n\nIt suits a man who wants an ankle-high waterproof boot for muddy trails on a mid-low budget. The removable insole can be swapped for a custom one.",
     "specs": [
       "Ankle-high waterproof boot",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31hf5R6j3hL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F2DYMGQ3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F2DYMGQ3?tag=rvgearlab-amz-20",
     "description": "The NORTIV 8 Women's Arch Support boot has a supportive midsole, an anti-slip outsole and a gusseted tongue that keeps dirt, sand and debris out. The listing states it was tested to keep the inside dry after standing in water for up to 4 hours.\n\nA gusseted tongue and a stated standing-water claim give it more specific waterproof wording than the NORTIV 8 Women's Suede or the Athlefit Combat Boot. It costs a bit more than the Women's Suede.\n\nIt suits a woman crossing creeks and wet meadows who wants debris kept out of the shoe. The listing advises ordering a half size up.",
     "specs": [
       "Gusseted tongue keeps debris out",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31EWppSg6BL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C9JDR5MJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C9JDR5MJ?tag=rvgearlab-amz-20",
     "description": "The NORTIV 8 Women's Suede is lined with a waterproof membrane and wrapped in wear-resistant suede with rubber accents. Up front sits a protective toe cap, underneath a grippy textured sole, and inside a cushioned footbed with a heel cup and gentle arch support.\n\nThe protective toe cap is a feature the NORTIV 8 Arch Support and Columbia Transverse do not name. It costs less than the Columbia boots.\n\nIt suits a woman who scrambles over roots and rocks and wants her toes covered. The padded collar keeps the ankle comfortable.",
     "specs": [
       "Waterproof membrane lining",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41i29w54WFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DTHJDTSS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DTHJDTSS?tag=rvgearlab-amz-20",
     "description": "The Athlefit Combat Boot is a women's lace-up ankle boot with durable waterproof leather, a padded collar, metal eyelets and a non-slip design. A firm 1.2 inch heel adds a little height.\n\nIt is the cheapest boot here, and the only one styled as a work or combat boot, so it doubles as a town boot. The 1.2 inch heel sits higher than the flatter hiking soles on the NORTIV 8 pair.\n\nIt suits a woman who needs a waterproof boot for short wet walks, camp chores and travel, not full-day hikes. The padded collar keeps the ankle comfortable in town.",
     "specs": [
       "Waterproof leather upper",

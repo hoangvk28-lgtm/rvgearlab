@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51bLwF6SfbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DPCZM9QM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DPCZM9QM?tag=rvgearlab-amz-20",
     "description": "Light My Fire Spork is a stainless steel (18/8) spork built as a 3-in-1 spoon, fork and knife edge in an unbreakable design. The listing names 304 stainless steel and highlights a planet-friendly approach to the product.\n\nIt is the most refined reusable option here, and a step above the bare-bones Alata for the knife edge. It handles meals from oatmeal to chicken.\n\nBackpackers and car campers who want one dependable utensil for years will like it. It survives drops and dishwashers.",
     "specs": [
       "18/8 stainless steel spork",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/414B0xGCfDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CRRNHKC8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CRRNHKC8?tag=rvgearlab-amz-20",
     "description": "Alata gives you four food-grade stainless steel sporks, each 7.4 inches long. They feature smooth edges, a curved bowl and a heavy, solid feel.\n\nThe 4-pack covers a family, which the single Light My Fire cannot, and the long handle reaches into deep pouches and pots. They look good enough to use at home too.\n\nFamilies and couples who want to outfit the whole campsite will like the set. It is the best value among the metal picks.",
     "specs": [
       "Four stainless sporks",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31cr7Zc752L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07S6LD6Z7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07S6LD6Z7?tag=rvgearlab-amz-20",
     "description": "PSKOOK 5-in-1 is a stainless steel and titanium-coated utility spork that combines a spoon, fork, knife, bottle opener and can opener. It clips to a pack with an S ring.\n\nIt does more than any other pick here, which makes it more of a camp tool than a plain utensil. It is also among the cheapest metal options.\n\nSurvival-minded hikers and tinkerers will like the extras. It hangs off a pack and stays ready.",
     "specs": [
       "5-in-1 stainless steel tool",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41g3IdQ3sCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BRVC987T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BRVC987T?tag=rvgearlab-amz-20",
     "description": "timoqi supplies eight 3-in-1 sporks with a spoon, fork and knife in lightweight polypropylene. The listing calls the plastic safe, non-toxic and durable.\n\nIt is lighter than any metal pick and the 8-pack suits large families or scout groups. It is cheaper than the Alata set.\n\nGroups and schools will like having plenty on hand. They can be washed and reused.",
     "specs": [
       "Eight polypropylene sporks",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51RHK70+xKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09VVGV1Q2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09VVGV1Q2?tag=rvgearlab-amz-20",
     "description": "Stock Your Home offers 50 heavy-weight disposable plastic sporks that are BPA free. The slender handle fits comfortably, and they skip the dishes.\n\nA 50-count box is easier to store than the 1000-count bulk, and it suits a single big picnic. They are sturdy for a disposable.\n\nPicnic hosts and campground gatherings will like the easy cleanup. Toss the box in a bin and you are set.",
     "specs": [
       "50 disposable sporks",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41YeVVBP+NL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DPMV1HXQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DPMV1HXQ?tag=rvgearlab-amz-20",
     "description": "FOCUSLINE sells 1000 disposable white plastic sporks made from food-grade plastic. The surface is smooth and scratch-resistant, and each spork combines fork and spoon.\n\nAt 1000 count it is the best fit for events, camps and large parties. It also costs the least per spork of any pick.\n\nCamp organizers, scout leaders and event hosts will like the bulk pack. One box can stock a whole season of group meals.",
     "specs": [
       "1000 disposable sporks",

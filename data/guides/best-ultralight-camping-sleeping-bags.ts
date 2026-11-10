@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ITLrJK8JL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F83BP6VQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F83BP6VQ?tag=rvgearlab-amz-20",
     "description": "NewDoar gives this bag a 1.5 lb weight and an 11.8 by 6.5 inch packed size, with a 380T ripstop nylon shell and a heavy-duty compression sack. Two-way zippers let two bags link into a double, and the listing puts the useful range at 50 to 70F.\n\nSmallest and lightest of the three, it is a touch trimmer than the ECOOPRO Warm Weather and in a different warmth class from the TETON Tracker 5F. The ripstop shell resists tears better than a plain nylon one.\n\nBest for backpackers on warm routes who want to save pack space. It also works for couples who want to link bags.",
     "specs": [
       "1.5 lb, small packed bundle",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41fu3se401L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B011AZ3O9W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B011AZ3O9W?tag=rvgearlab-amz-20",
     "description": "ECOOPRO builds this envelope bag at 83 x 30 inches and 1.7 lb, with a waterproof nylon shell and a 100% polyester lining. It compresses to an 11 inch height and the maker pegs its working range at 55 to 60F.\n\nIt costs less than the NewDoar and keeps the weight under two pounds, with a slimmer 30 inch cut and a warmer-weather range. The listing treats it as an alternative to a down bag for summer.\n\nA fit for scouts, warm-night hikers and festival campers who want the lowest price on a light bag. Two near-identical listings were merged here.",
     "specs": [
       "83 x 30 inch envelope",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31A2IOmtyyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00DDP3DZ8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00DDP3DZ8?tag=rvgearlab-amz-20",
     "description": "TETON's Tracker is a 5F mummy sold as lightweight and warm, with added insulation in the footbox. The three-piece hood pulls in tight, and a full-length draft tube holds warm air in.\n\nIt is the only bag here that handles real cold, which makes it the practical choice when the NewDoar and ECOOPRO run out of range. The listing prints no weight, so judge it as a warm bag first and a light bag second.\n\nGood for cold-weather campers who want a mummy with an insulated footbox and a hood that cinches. Hang loops preserve loft in storage.",
     "specs": [
       "5F mummy, insulated footbox",

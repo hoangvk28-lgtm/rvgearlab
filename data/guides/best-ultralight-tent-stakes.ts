@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410yziKatCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B001OPKGAO?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B001OPKGAO?tag=rvgearlab-amz-20",
     "description": "The Vargo set contains six titanium shepherd's hook stakes at 0.3 oz (8 g) each, 6.5 inches long and 0.14 inch (3.5 mm) in diameter. Fluorescent orange powder-coated heads make them easy to spot.\n\nIt is the lightest per stake in this list, ahead of the 14 g All one tech and the 12 to 13 g Keovoker. Titanium also does not rust.\n\nIt suits an ultralight backpacker pitching a tarp or a small tent. The orange head helps find them in grass.",
     "specs": [
       "0.3 oz (8 g) titanium",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31xaHN5qX3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B006ZC5KLG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B006ZC5KLG?tag=rvgearlab-amz-20",
     "description": "The MSR Groundhog kit holds six stakes in 7000-series aluminum, each 0.46 oz and 7.5 inches long. A three-sided Y-beam shape, a guy line notch and an attached reflective pull loop come with each stake.\n\nIt is longer than the 7-inch sets and steadier in loose soil because of the Y-beam. It weighs about the same as the Keovoker per stake.\n\nIt suits a backpacker who camps in varied soil. A pull loop makes removal easy.",
     "specs": [
       "0.46 oz, 7.5 inch aluminum",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51tXQHCevbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B087XCR7S4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B087XCR7S4?tag=rvgearlab-amz-20",
     "description": "The Wise Owl pack contains 16 rust-resistant 7075 aluminum stakes, each 7.25 inches long and under an ounce. Red paracord loops on top make them easy to spot and pull.\n\nIt gives more stakes than the Vargo or MSR and longer stakes than the 7-inch All one tech. The listing names high-wind use, gravel and packed ground.\n\nIt suits a group or family setup. Sixteen light stakes cover a large tent.",
     "specs": [
       "16 stakes, 7.25 inch",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51k79uUvE5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01I0X9UQ8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01I0X9UQ8?tag=rvgearlab-amz-20",
     "description": "The All one tech set holds 12 stakes in 7075 aluminum, each 7 inches long and 14 g (0.5 oz). A three-sided Y-shape deep groove, pull cords and a storage bag come in the pack.\n\nIt lists a precise per-stake weight and a storage bag, which the Wise Owl does not. It costs less than the Vargo, MSR and Wise Owl sets.\n\nIt suits a weekender who wants clear specs. A storage bag keeps the dozen together.",
     "specs": [
       "14 g (0.5 oz), 7 inch",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Lt8Bf7plL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CSBDB9FW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CSBDB9FW?tag=rvgearlab-amz-20",
     "description": "The Keovoker pack contains 12 anodized aluminum stakes weighing 12 to 13 g (0.46 oz) each, 7 inches long, with a Y-shaped design. Reflective ropes make them easy to spot at dusk and lower the risk of tripping.\n\nIt matches the MSR's 0.46 oz per stake for far less money. Reflective rope on each stake helps at night.\n\nIt suits a night-time packer who often strikes camp in the dark. The ropes also make the stakes easy to find in grass.",
     "specs": [
       "12-13 g, 7 inch aluminum",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51cQB96PrhL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08H85RKH4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08H85RKH4?tag=rvgearlab-amz-20",
     "description": "The BIFUNIE set contains 12 7075 aluminum stakes, 7 inches long, with three-sided extruded rods, three notches at the top and reflective pull cords. A carrying pouch comes in the pack.\n\nIt is the cheapest set here and the same size as the All one tech and Keovoker. The listing includes a ground caution, so it is not meant for every soil.\n\nIt suits a budget packer. The pouch keeps the dozen together in a pack.",
     "specs": [
       "12 stakes, 7 inch 7075 aluminum",

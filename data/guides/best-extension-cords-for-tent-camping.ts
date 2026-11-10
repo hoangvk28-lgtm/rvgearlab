@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/516IyObb00L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00NY40TBE?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00NY40TBE?tag=rvgearlab-amz-20",
     "description": "The GoGreen Power cord is a contractor-grade 16/3 SJTW cord, 25 ft long, with molded plugs and a lighted end that shows when power is on. The listing calls it moisture and abrasion resistant and durable in sunlight, rated for tools up to 13 amps.\n\nIts lighted end is a night-time visibility feature that the BN-LINK and Kasonic do not name. It costs more than the Amazon Basics cord.\n\nIt suits tent campers who walk to the cord in the dark. The glow also confirms the post has power.",
     "specs": [
       "25 ft, 16/3 SJTW, lighted end",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Qcx92LtrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FPDVW8Z4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FPDVW8Z4?tag=rvgearlab-amz-20",
     "description": "The HUANCHAIN is a 25 ft, 16/3 cord with a lighted power indicator, extra-size NEMA 5-15 ends, strain relief and a jacket described as flame resistant, waterproof and cold resistant to -50 degrees C. Strain relief is built into both the plug and the socket end.\n\nIt matches the GoGreen's lighted end at a lower price, and it names strain relief and cold resistance. It is the cheapest cord here, and the cold rating suits winter trips.\n\nIt suits tent campers who want the glowing end at the lowest cost. Cold-weather campers will like the flexible jacket.",
     "specs": [
       "25 ft, 16/3, lighted end",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41pgn-tAWIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DWLVHSDS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DWLVHSDS?tag=rvgearlab-amz-20",
     "description": "The BN-LINK set includes two 25 ft, 16/3 SJTW cords with three grounded outlets each, a pure copper core and a total load of 13 amps, 125 volts and 1625 watts. The cord resists tangling.\n\nIt gives two cords with three outlets each for about the price of one GoGreen plus a little more. It has more outlets than any single cord here.\n\nIt suits groups with two tents or a tent and a kitchen shelter. The cords can run two separate areas.",
     "specs": [
       "Two 25 ft cords, 3 outlets each",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51NDcKbVlWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07M7PXDHV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07M7PXDHV?tag=rvgearlab-amz-20",
     "description": "The K KASONIC is a 50 ft, 16/3 cord in green with a three-outlet pigtail design, UL listed at 13 amps. The SJTW vinyl jacket resists moisture and stays flexible in weather.\n\nIt combines the reach of a 50 ft cord with three outlets at the end, which none of the other picks match. Green makes it easy to spot in grass.\n\nIt suits tent campers whose site is far from the post and who need several outlets at the tent. The pigtails let you add another tool or light.",
     "specs": [
       "50 ft, 3 outlets, 16/3",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41xWAvmKkCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07N4L1F9Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07N4L1F9Q?tag=rvgearlab-amz-20",
     "description": "The Amazon Basics cord is a 50 ft, 16 gauge, three-prong indoor and outdoor cord rated 13 amps, 1625 watts and 125 VAC, ETL certified. It has all-copper wire and a vinyl cover that protects against moisture, abrasion and sunlight.\n\nIt matches the KASONIC's 50 ft reach at a lower price, and its listing names ETL certification. It has a single outlet.\n\nIt suits tent campers who need the length and want a certified, plain cord. The green color stands out.",
     "specs": [
       "50 ft, 16 gauge, ETL certified",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/515UQaVfuuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09378TV75?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09378TV75?tag=rvgearlab-amz-20",
     "description": "The Jgstkcity is an outdoor power strip with 4 outlets, 3 USB ports, an IPX4 rating, overload protection and surge protection of up to 1,700 joules. A safety switch with a red indicator lets you cut power when not in use.\n\nIt is a strip, not a long cord, so it pairs with a plain extension cord from this list. It adds surge protection and USB ports that none of the cords have.\n\nIt suits tent campers who want a splash-resistant hub at the tent door. The listing frames it for camping and gardens.",
     "specs": [
       "4 outlets, 3 USB, IPX4",

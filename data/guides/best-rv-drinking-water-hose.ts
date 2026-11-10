@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51x1kHuAnYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B004ME11FS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B004ME11FS?tag=rvgearlab-amz-20",
     "description": "The Camco TastePURE 25 ft hose has a 5/8 inch inner diameter and says it is built from NSF/ANSI 61 certified hose with CSA lead-free content certified to NSF/ANSI 372. It uses diamond-hatch reinforcement for kink resistance.\n\nAgainst Kohree 25ft, it names the standard rather than CA65, but has plastic grip fittings. Against Camco TastePURE 10ft, it has the wider 5/8 inch bore.\n\nBest for buyers who want the clearest drinking-water wording at a low price. Check the connection fittings, since the standard describes the hose.",
     "specs": [
       "25 ft, 5/8 inch ID",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41QFPlNU6bL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0006JLSNI?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0006JLSNI?tag=rvgearlab-amz-20",
     "description": "The Camco TastePURE 10 ft hose is named in the listing as NSF/ANSI 61 certified drinking water hose with CSA lead-free certification. It has a 1/2 inch inner diameter, narrower than the 5/8 inch hoses.\n\nCompared with Camco TastePURE 25ft, it has the same certification wording but less flow and reach. Compared with CircleRiver 50ft, it is a short jumper.\n\nBest as a filter-to-inlet jumper or a supplement. A 1/2 inch bore is not ideal for a main supply.",
     "specs": [
       "10 ft, 1/2 inch ID",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41eI3mVKRyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DL9HJHXK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DL9HJHXK?tag=rvgearlab-amz-20",
     "description": "The CircleRiver 50 ft hose has a 5/8 inch diameter and states that it is an NSF 372 tested lead-free drinking water hose, made of rubber with lead and BPA free materials. It has 3/4 inch male and female aluminum fittings with a sealing rubber ring.\n\nAgainst Kohree 50ft, it names a tested standard instead of only a lead-free claim. Against Camco TastePURE 25ft, it gives double the reach with metal fittings.\n\nBest for long runs where a named test and aluminum fittings both matter. NSF 372 addresses lead content, not the full hose.",
     "specs": [
       "50 ft, 5/8 inch ID",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51-XRtUH80L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09BZ91WDJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09BZ91WDJ?tag=rvgearlab-amz-20",
     "description": "The Kohree 50 ft hose is a 5/8 inch, three-layer hybrid polymer hose that says it is lead-free, food grade and phthalate free, with solid aluminum fittings and a large rubber grip. The listing says it is UV stabilized for summer and winter.\n\nCompared with CircleRiver 50ft, it makes material claims but no named test. Compared with Kohree 25ft, it has less detail on thickness.\n\nBest for buyers who want solid aluminum fittings on a long hose. Ask the seller for a named drinking-water standard.",
     "specs": [
       "50 ft, 5/8 inch ID",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51aRSH7ve8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CY4PR6Z1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CY4PR6Z1?tag=rvgearlab-amz-20",
     "description": "The Kohree 25 ft hose is described as 20 percent thicker than standard hoses, with brass-plated aluminum fittings, strain relief ends and a storage bag. It states CA65 compliance and lead-free, BPA-free and phthalate-free materials.\n\nCompared with Kohree 50ft, it is shorter and adds strain relief and a bag. Compared with Camco TastePURE 25ft, it cites CA65 rather than NSF/ANSI 61.\n\nBest for owners who want a sturdier 25 ft hose and a bag. The certification wording is a material claim.",
     "specs": [
       "25 ft, 5/8 inch ID",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41KGjxdz6wL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CHTTGQSD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CHTTGQSD?tag=rvgearlab-amz-20",
     "description": "The rVandtt kit includes a drinking hose, an RV water pressure regulator with gauge, a multi-stage filter, hose connectors, a leak repair kit and a hard carrying case. The listing says the filter removes chlorine and bad odors.\n\nIt is a hookup kit, not a hose alone, so it costs far more than any other pick here. Compared with Camco TastePURE 25ft, you buy parts you may already own.\n\nBest for first-time RVers who want everything in one case. The hose certification wording is not detailed here.",
     "specs": [
       "Hose, regulator, filter kit",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Du9GjHEPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7W1VXGX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7W1VXGX?tag=rvgearlab-amz-20",
     "description": "The MIYCOO 35L is a water-resistant daypack with IPX4-rated fabric and three compartments, including a separate wet compartment. It folds into its own inner pocket, and the listing adds clips that lock zipper pulls together plus a survival whistle.\n\nCompared with the SKYSPER 15L, it more than doubles the volume for a full day of layers and lunch. Against the WATERFLY 20L, it adds a wet compartment and a larger capacity for shopping and souvenirs.\n\nIt suits travelers who want one bag for city days and trail days. It folds small enough to slip into a pocket or suitcase.",
     "specs": [
       "35L, folds into own pocket",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41wrQiHkGzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B087R2YQCF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B087R2YQCF?tag=rvgearlab-amz-20",
     "description": "The WATERFLY 20L weighs 10.2 ounces in recycled nylon with a polyester lining. It unfolds to 16.9 by 11.4 by 5.5 inches, folds to 8.7 by 6.3 inches, and offers a main pocket, two front pockets and a zippered pocket.\n\nCompared with the MIYCOO 35L, it is smaller and lighter and sits better on the back. Against the SUIKIHUM 20L, it has more pockets and a lined interior.\n\nIt suits travelers and day hikers who want a tidy 20L bag made of recycled material. It is a good everyday carry.",
     "specs": [
       "20L, 10.2 oz recycled nylon",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41aKuWB8bKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CYFHVC7P?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CYFHVC7P?tag=rvgearlab-amz-20",
     "description": "The SKYSPER 15L measures 16.9 by 10.8 by 4.7 inches and folds to 7.9 by 6.7 inches. It weighs about 0.75 pounds in abrasion-resistant polyester and adds an upgraded chest strap with a safety feature.\n\nCompared with the SUIKIHUM 20L, it has a chest strap and more padding for trail comfort. Against the WATERFLY 20L, it folds smaller and weighs a bit more.\n\nIt suits leisurely hikers and travelers who want a stable small bag. Multiple compartments keep a phone and water organized.",
     "specs": [
       "15L, 0.75 lb polyester",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Yum1jvebL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07T5D98RW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07T5D98RW?tag=rvgearlab-amz-20",
     "description": "The WATERFLY Sling is a crossbody bag measuring 7 by 3.5 by 15 inches, with a front zipper pocket and buckle pocket that hold an iPad mini or a phone. A reversible strap uses three D-rings, and a hidden earphone hole and water-resistant fabric complete the build.\n\nCompared with the other packs here, it keeps essentials close at the front without removing the bag. Against the SKYSPER 15L, it is far smaller and sits on one shoulder.\n\nIt suits travelers who want quick access on city walks and short trail hikes. The strap can go on the left or right side.",
     "specs": [
       "7 x 3.5 x 15 inch sling",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41-6gpc6+uL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DYVBR9RX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DYVBR9RX?tag=rvgearlab-amz-20",
     "description": "The SUIKIHUM 20L weighs only 2.3 ounces and folds to 8.6 by 3.1 by 1.06 inches. It uses scratch-resistant polyester and breathable mesh shoulder straps with adjustable buckles.\n\nIt is the lightest and lowest-cost bag here by a wide margin. Compared with the WATERFLY 20L, it saves roughly 8 ounces and takes almost no space.\n\nIt suits travelers who want a backup daypack in their luggage. It also works as an emergency day bag.",
     "specs": [
       "20L, 2.3 oz",

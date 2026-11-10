@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Fga-dOmXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D12RJXBQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D12RJXBQ?tag=rvgearlab-amz-20",
     "description": "The Renogy lists 25 percent N-type 16BB cells, 8.86 lbs and a folded size of 20.6 x 24.6 x 1.6 inches. It carries an IP67 rating with an ETFE coating, plus a USB-C PD port at 45W max and two USB-A ports for direct device charging.\n\nCompared with the Renogy 100W Station listing, it costs about $20 less and spells out weight, IP67 and the USB ports. Next to the FlexSolar it is heavier, and it adds parallel wiring that keeps output going under partial shade.\n\nIt suits campers who want a brand-name panel with USB ports and shade tolerance. The USB-C PD port can charge a phone or tablet without any power station.",
     "specs": [
       "25% N-type, 8.86 lbs",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51oUlsFNdcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DX6W8HM4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DX6W8HM4?tag=rvgearlab-amz-20",
     "description": "The FlexSolar lists 24 percent efficiency, a weight of 4.1 lbs and a folded size of 12.99 x 10.43 x 2.17 inches, which it calls laptop-sized. It carries an IP67 rating with ETFE lamination, a 4-in-1 smart cable and QC3.0 USB-A, USB-C and DC outputs.\n\nIt weighs less than half the Renogy 100W N-Type and about the same as the SOKIOVOLA. The kit adds carabiners and a storage bag that the other picks do not list.\n\nIt is for backpackers and bike campers who count every ounce. The 2 m cable reaches a station left in shade.",
     "specs": [
       "24% efficiency, 4.1 lbs",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51vk1xwa6LL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DK6HRDPR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DK6HRDPR?tag=rvgearlab-amz-20",
     "description": "The Twelseavan lists 24 percent A+ monocrystalline cells, a 2-fold design and two kickstands. It adds a Type-C port at 60W PD max, an 18W QC3.0 USB port and a 5V/3A USB port, with a 5-in-1 MC4 cable and 3 DC adapters.\n\nIts 60W USB-C port is the strongest USB-C rating listed here, ahead of the Renogy 100W N-Type at 45W. It costs less than the Renogy and a little more than the SOKIOVOLA.\n\nIt suits campers who charge a laptop or tablet directly from the panel. The kickstands mean you can angle it without a prop.",
     "specs": [
       "24% cells, 2-fold design",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Jq3ZcWPBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CRB3DFRV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CRB3DFRV?tag=rvgearlab-amz-20",
     "description": "The SOKIOVOLA lists 4.6 lbs and a folded size of 14.69 x 8.67 x 1.78 inches, with an 18V output, IP68 rating and ETFE lamination. It ships with a 7.2 ft 4-in-1 extension cable and 3 adapters.\n\nIt costs less than the Twelseavan and weighs only a little more than the FlexSolar. The longer cable gives more placement freedom than the FlexSolar's 2 m lead.\n\nIt fits budget campers who want a light panel with a good cable. The IP68 rating shows in the listing.",
     "specs": [
       "4.6 lbs, 14.7 in folded",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/313siJMGP2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F624GJC4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F624GJC4?tag=rvgearlab-amz-20",
     "description": "This Renogy 100W panel lists 25 percent efficiency and names compatible stations including the Jackery Explorer 300, EcoFlow RIVER 3 Max, Anker SOLIX C300 and BLUETTI Elite 30 V2. It is the newer, higher-priced Renogy listing here.\n\nWhere the Renogy 100W N-Type spells out weight and IP67, this listing leans on the long compatibility list. It costs about $20 more than that sibling.\n\nIt suits owners of one of the named stations who want a match they can read on the page. The brand name gives it a support edge.",
     "specs": [
       "25% efficiency claim",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51qFGApIH+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0748FYFSK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0748FYFSK?tag=rvgearlab-amz-20",
     "description": "The DOKIO lists 6 lbs and folds to 19 x 26 x 0.5 inches, with a 9.84 ft cable and a separate PWM controller that guards against reverse polarity, overcharge and short circuit. It has USB ports for phones and small gadgets when tied to a 12V battery.\n\nIt is the only pick here that comes with a standalone controller, so it can charge a 12V battery directly. It is also the lowest-priced pick.\n\nIt suits van and trailer campers topping up a 12V battery. The long cable keeps the controller in the shade.",
     "specs": [
       "6 lbs, folds to 0.5 inch",

@@ -74,7 +74,7 @@ const IMG = {
 };
 
 function amz(asin) {
-  return `https://www.amazon.com/dp/${asin}?tag=theofficejournal-20`;
+  return `https://www.amazon.com/dp/${asin}?tag=rvgearlab-amz-20`;
 }
 
 const guides = {

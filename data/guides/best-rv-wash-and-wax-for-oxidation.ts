@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41L+SUmbMQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0023UM58U?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0023UM58U?tag=rvgearlab-amz-20",
     "description": "Gel Gloss RV Professional Grade One-Step Carnauba Cleaner Wax is a 1 gallon cleaner wax. The listing says it restores color and shine to fiberglass and painted surfaces and removes scuff marks, oxidation, black streak and haze, applied by hand or with a buffer.\n\nAgainst 303 Wash and Seal, it is the only pick that names oxidation removal. Against Gel Gloss Gallon, it is a cleaner wax rather than a soap.\n\nIt is the best match for oxidized fiberglass that needs a one-step cleaner and wax. Think of it as the pick for oxidized fiberglass.",
     "specs": [
       "1 gallon cleaner wax",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41SXDW51+tS._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0971KD799?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0971KD799?tag=rvgearlab-amz-20",
     "description": "303 RV Wash and Seal is a pH neutral, high-foaming wash that leaves a streak-free shine and a layer of protection. The listing says it has UV protection and a non-abrasive formula.\n\nAgainst Gel Gloss Cleaner Wax, it cleans and seals but does not claim oxidation removal. Against Meguiar's M63, it is a wash rather than a wax.\n\nIt suits owners who want to protect a finish that is not yet oxidized. Buyers focused on preventing oxidation will find it a sensible match.",
     "specs": [
       "pH-neutral high-foam wash",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41yKYvnpvkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0027M3A1U?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0027M3A1U?tag=rvgearlab-amz-20",
     "description": "Gel Gloss RV Wash and Wax is a concentrated carnauba formula in a gallon bottle, mixed at 2 ounces per 5 gallons. It cleans, polishes and protects with UV protection.\n\nAgainst Gel Gloss Cleaner Wax, it is a soap and not a corrective wax. Against 303 Wash and Seal, it is a carnauba concentrate.\n\nIt suits owners who wash often and want UV protection. It earns its slot for routine protection.",
     "specs": [
       "Concentrated carnauba, 1 gallon",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41m+iKYqzyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0007TR47G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0007TR47G?tag=rvgearlab-amz-20",
     "description": "Meguiar's M63 Flagship Premium Marine Wax is a 32 ounce marine wax with polymer protection against UV damage and wear. The listing says it is easy to use and suits a variety of uses.\n\nAgainst Gel Gloss Cleaner Wax, it is a protective wax and not a cleaner. Against 303 Wash and Seal, it is a leave-on wax.\n\nIt suits owners with clean, unoxidized fiberglass who want a protective wax. It is a natural fit for clean fiberglass.",
     "specs": [
       "32 oz marine wax",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41+twlyWN9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B001FCE5AI?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B001FCE5AI?tag=rvgearlab-amz-20",
     "description": "Gel Gloss RV Wash and Wax in a 32 ounce bottle is the smaller size of the carnauba concentrate. The listing carries almost no description beyond the brand and size.\n\nAgainst Gel Gloss Gallon, it is the smaller, cheaper bottle. Against Gel Gloss Cleaner Wax, it is a wash.\n\nIt suits owners who want to try the Gel Gloss wash before a gallon. Think of it as the pick for small trials.",
     "specs": [
       "32 oz Gel Gloss concentrate",

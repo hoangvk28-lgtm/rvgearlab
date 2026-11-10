@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41DtYwemcSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00BDEPJ1W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00BDEPJ1W?tag=rvgearlab-amz-20",
     "description": "Two collapsible 10 foot hoses with rotating ends form the Valterra Dominator 20 foot kit, which adds a clear 90 degree sewer adapter and drip caps. Each hose collapses from 10 feet to 39 inches, and the adapter fits six different sewer types.\n\nIt costs more than the 15 foot Dominator and doubles the length. The six-type adapter is broader than the four-inlet elbows from Camco.\n\nBest for owners who want a complete hose before adding a flush cap. A strong base for a flush setup.",
     "specs": [
       "2 x 10 ft, collapses to 39 in",
@@ -53,7 +53,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zNrPBuNNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B002N5J7YA?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B002N5J7YA?tag=rvgearlab-amz-20",
     "description": "The Valterra Dominator 15 foot kit has one collapsible 15 foot hose with rotating fittings and a 90 degree universal adapter. It collapses from 15 feet to 57 inches.\n\nIt costs less than the 20 foot Dominator and gives up five feet. The same adapter keeps the six-type fit.\n\nBest for mid-length runs. A practical middle choice.",
     "specs": [
       "15 ft, collapses to 57 in",
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ZrqCHgxGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DZ74NG6L?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DZ74NG6L?tag=rvgearlab-amz-20",
     "description": "The Camco Rhino Sewer Adapter PRO is a sewer hose elbow with a drain lock adapter and an easy connect handle. It expands to fit 3.5 inch and 4 inch NPT fittings and forms an airtight seal for odor control.\n\nIt costs about twice the Camco clear elbow and adds a handle and an expanding seal. Compared with the DUMPMAN rinser, it handles the dump connection rather than rinsing.\n\nBest for owners who want a faster, cleaner connection at the dump port. A good upgrade for frequent dumpers.",
     "specs": [
       "Elbow with drain lock adapter",
@@ -107,7 +107,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41M09qmZYCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G3ZX98FH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G3ZX98FH?tag=rvgearlab-amz-20",
     "description": "The DUMPMAN tank rinser sprays directly into the sewer pipe and black tank to reduce clogs. It has a swivel bayonet and lug fitting for 3 inch hoses, a leak-free gasket and an on/off switch.\n\nIt is the only part that rinses the tank, and it costs less than the Camco adapter. The switch gives flow control the TonGass cap lacks in this guide.\n\nBest for owners who want to rinse the tank while dumping. A useful part for black tank care.",
     "specs": [
       "Sprays into pipe and tank",
@@ -134,7 +134,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41c7bWsLP3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01N5H2FCE?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01N5H2FCE?tag=rvgearlab-amz-20",
     "description": "The Camco RhinoFlex clear elbow with a 4-in-1 adapter gives an odor-tight link and a 360 degree swivel bayonet. It accommodates 4 inch NPT, 3.5 inch NPT and 3 inch dump inlets, and the clear body shows when draining is done.\n\nIt costs half the price of the Adapter PRO and offers four inlet sizes. The clear elbow lets you see flow, which the Valterra adapters also offer.\n\nBest for a basic elbow at a low price. A plain, reliable part.",
     "specs": [
       "Clear 90 degree elbow",
@@ -161,7 +161,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4149Eat8oaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FLKH4G9X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FLKH4G9X?tag=rvgearlab-amz-20",
     "description": "The TonGass rinse cap includes a cap with a shut-off valve and a roll of PTFE tape. It has a 3/4 inch female garden hose thread and fits 3 inch sewer bayonets, with a 6-way water jet for flushing.\n\nIt is the lowest priced item and adds a six-way spray that the plain Camco cap lacks. The PTFE tape in the box is a small extra.\n\nBest for rinsing a hose cheaply. A very low cost flush option.",
     "specs": [
       "3/4 inch garden hose thread",

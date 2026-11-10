@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41IMjqIeXwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G7J25N49?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G7J25N49?tag=rvgearlab-amz-20",
     "description": "The Alpha C6 Pro is a 6-person pop-up cabin with an integrated fiberglass frame and a 90.5 inch stand-up height. It pitches in about 60 seconds and folds to a 41.7 inch package that slides into a trunk.\n\nNext to the EVER ADVANCED it adds three independent doors, nine interior-operated vents and windows, and a reinforced 140gsm PE floor. Against the Alpha C4 Ultra it raises the headcount from four to six and the roof by several inches.\n\nIt is the pick for a family that wants a tall room, quick pitching and storm-ready details in one box. Taped seams and a rainfly are part of the standard kit.",
     "specs": [
       "6 person, 90.5 in headroom",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41qtFPpYBlL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D2W12RYZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D2W12RYZ?tag=rvgearlab-amz-20",
     "description": "The Alpha C4 Ultra is a 94 inch by 94 inch cabin with four vertical walls and a pop-up X-frame. A removable rain cover, sealed seams at doors and windows and a 300D bottom fabric make up the weather kit.\n\nThe packing length is 57.8 inches, which the listing calls 9.8 inches shorter than typical tents. Each side carries three double-paned windows with rollable eaves, a ventilation setup the EVER ADVANCED does not match.\n\nIt suits couples and small families who want a square, tall room that stores easily. Setup is listed at 60 seconds.",
     "specs": [
       "94 x 94 in square floor",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410w6Eos1zL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CH81KHF8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CH81KHF8?tag=rvgearlab-amz-20",
     "description": "This EVER ADVANCED cabin opens to 9 ft by 9 ft by 73 inches and packs to 7.9 by 7.9 by 47.6 inches. Blackout fabric, three zippered mesh roll-up windows, an overhead net window and a skylight sit alongside a 60-second setup that one person can handle.\n\nCompared with the Fanttik pair it is the only dark-interior option, and it is also the lowest priced. Inside it adds storage bags, a woven belt for lights or clothes and a pass-through for external power.\n\nIt is best for sleepers, kids who nap and families who arrive after dark. Daylight stays out until you choose to open the skylight.",
     "specs": [
       "9 x 9 ft, 73 in peak",

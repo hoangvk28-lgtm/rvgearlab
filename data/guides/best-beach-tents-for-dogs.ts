@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51U74JSvWAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FFGTFV92?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FFGTFV92?tag=rvgearlab-amz-20",
     "description": "The MiToBeLe Extra Large dog beach tent measures 47 by 39 by 30 inches and pops open automatically. It comes with three iron stakes and is described as blocking sun, wind and sand.\n\nIt is the largest pop-up tent here, ahead of the Koaizhsen and YCConcept minis. Compared with the Lesguyor cot it covers the dog on all sides.\n\nIt suits owners of medium to large dogs who want a covered hideout. The tent also works for cats.",
     "specs": [
       "47 x 39 x 30 in",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51eb1-7hgmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GK1916ZM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GK1916ZM?tag=rvgearlab-amz-20",
     "description": "The Lesguyor is a raised dog cot with a removable UV-proof canopy, sold in sizes from 70 lb to 90 lb support. The 90 lb version sits 9.3 inches off the ground on a steel frame with non-slip rubber feet.\n\nIt raises the dog off hot sand, which the pop-up tents do not. Compared with the MiToBeLe it is open on the sides, so air flows through.\n\nIt suits large dogs that run warm and need a cooling spot. The frame assembles without tools.",
     "specs": [
       "Raised 9.3 in, up to 90 lb",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4145IrZmlbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F651BWZC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F651BWZC?tag=rvgearlab-amz-20",
     "description": "The Koaizhsen mini dog tent is a UV-resistant pop-up that opens automatically and folds in half. It ships with four iron stakes, one for each corner.\n\nIt uses four stakes where the MiToBeLe has three. Compared with the YCConcept it adds corner stakes.\n\nIt suits smaller dogs, cats and puppies. It also works as head shade for a person.",
     "specs": [
       "UV-resistant fabric",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31mYHFVrycL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CHDXQ1LK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CHDXQ1LK?tag=rvgearlab-amz-20",
     "description": "The YCConcept mini tent unfolds to 27.5 by 19.6 by 17.7 inches and opens automatically. It has a UV protection fabric and a zipper section on top for using a touchscreen phone.\n\nIt is the lowest priced tent here. Against the Koaizhsen it adds a phone compartment.\n\nIt suits puppies, small dogs and cats on a short beach trip. The top zipper lets you check your phone without moving the dog.",
     "specs": [
       "27.5 x 19.6 x 17.7 in",

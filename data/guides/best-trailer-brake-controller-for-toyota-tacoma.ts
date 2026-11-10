@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31UcTPBulLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D45QPK48?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D45QPK48?tag=rvgearlab-amz-20",
     "description": "The Rizz-Man 8508211 Tacoma kit is a brake controller bundled with a wiring harness, and its listing says the harness fits 2016 to 2023 Tacoma and 2015 to 2017 Tundra. It describes brake control for 1 to 4 axes with a compact, dash-hugging design.\n\nIt ranks first because it is the only pick that gives you both the controller and a harness that names the Tacoma and its years in a single purchase. The Rizz-Man 8508211 Multi listing below carries the same controller number but a longer vehicle list, while the CURT and CARROFIX picks are harnesses only.\n\nBest for a 2016 to 2023 Tacoma owner who wants one box and a plug-in install. The listing does not say whether the controller is proportional or time-delayed, so confirm that before you buy.",
     "specs": [
       "Tacoma 2016 to 2023 listed",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31V8t4+WuRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D45VPMYM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D45VPMYM?tag=rvgearlab-amz-20",
     "description": "The Rizz-Man 8508211 Multi is the same 8508211 controller with a harness listing that spans Lexus GX460, GX470, LX470, LX570, Toyota 4Runner, Land Cruiser, Sequoia, Tacoma and Tundra. The bullet points describe a complete package for 1 to 4 axes.\n\nCompared with the Rizz-Man 8508211 Tacoma above, the controller is the same, but this listing's fitment line is broader and the Tacoma years sit inside a long list, so it is harder to confirm at a glance. That is why it ranks second.\n\nPick it if you own another Toyota or Lexus from that list and might share the controller. The caveat is reading the fitment text closely, since your Tacoma year has to appear in it.",
     "specs": [
       "Lexus and Toyota fitment list",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/412GmfffjZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B001GN1KCW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B001GN1KCW?tag=rvgearlab-amz-20",
     "description": "The CURT 51363 is a Quick Plug harness built with 12-gauge wires and a slit-loom sleeve, and its listing names Toyota 4Runner, Land Cruiser, Sequoia, Tacoma, Tundra and Lexus GX and LX models. It works with CURT controllers that have a quick plug connector.\n\nIt is a harness only, so it sits below the two Rizz-Man kits for convenience. Against the CURT 51362 it carries an almost identical listing description, which means the choice between them comes down to the exact connector your truck has.\n\nBest for a Tacoma owner who already has a CURT quick-plug controller or plans to buy one. Check the vehicle fitment chart for your year, because the listing text does not break out Tacoma years.",
     "specs": [
       "12-gauge wires",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/412GmfffjZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B001GN6S8I?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B001GN6S8I?tag=rvgearlab-amz-20",
     "description": "The CURT 51362 is another Quick Plug harness with the same 12-gauge wire and slit-loom sleeve, again naming Tacoma and Tundra among Toyota and Lexus models. Its listing description matches the CURT 51363 closely.\n\nThe two numbers likely exist because Toyota trucks use more than one connector layout, so the decision is physical rather than a feature difference. Neither listing says which Tacoma years use which number, which is why both sit mid-list.\n\nChoose between the 51362 and 51363 by matching the connector under your dash, not by price. A caveat is that the listing text alone cannot settle it, so use CURT's fitment lookup first.",
     "specs": [
       "12-gauge wires",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410WcOK08CL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BF9N4G9Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BF9N4G9Q?tag=rvgearlab-amz-20",
     "description": "The CARROFIX harness is titled for the Toyota Tacoma 2016 to 2023 and Tundra 2015 to 2017, with dual plug connectors and a 4-flat plug that its listing says fits Draw-Tite Activator and other controllers. It is made of ABS plastic with tin-plated copper terminals.\n\nUnlike the CURT harnesses, it states clear Tacoma years in its title, though it is a third-party part rather than the controller brand. It ranks above the Nilight adapter because the years are explicit.\n\nGood for a 2016 to 2023 Tacoma owner on a budget who needs a harness that plugs into a standard 4-pin controller. It comes with zip ties and instructions, but confirm your port first.",
     "specs": [
       "Tacoma 2016 to 2023",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41VHwew0lNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GGR62DLT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GGR62DLT?tag=rvgearlab-amz-20",
     "description": "The Nilight Toyota adapter lists select years from 2003 to 2022 across Tundra, Tacoma, 4Runner, Sequoia, Land Cruiser and Lexus GX and LX. Its standard 4-pin plug matches Draw-Tite Activator and Tekonsha PowerTrac controllers, with nylon mesh around the wires.\n\nIts range is the widest here, which is also its weakness: the listing sends you to a picture for specifics, so it is less precise than the CARROFIX for a Tacoma. That is why it ranks last.\n\nA fit for owners of an older Tacoma who want the lowest-friction harness for a 4-pin controller. Confirm the exact year in the fitment image before purchase.",
     "specs": [
       "Select years 2003 to 2022",

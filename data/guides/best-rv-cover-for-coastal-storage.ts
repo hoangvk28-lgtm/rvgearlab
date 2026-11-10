@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/514GPeG3CsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DLL3JHMH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DLL3JHMH?tag=rvgearlab-amz-20",
     "description": "The Umbrauto Class A cover fits 34 to 37 ft motorhomes and layers a 9-layer sun-resistant top panel over a breathable body. It adds 4 adjustable fixing straps, 7 wind ropes, 3 extra windproof straps and 6 air vents.\n\nAgainst the RVMasking Class A, it ships with 4 tire covers and a weighted toss bag, which makes it the more complete package. It suits large coastal motorhome owners who want maximum wind restraint and airflow.",
     "specs": [
       "9-layer top, 6 air vents",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/414HBYk3DzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D1VCHF8C?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D1VCHF8C?tag=rvgearlab-amz-20",
     "description": "The RVMasking Class A cover is sized 38 ft 1 inch to 42 ft and built from genuine 9-layer non-woven fabric with 4 percent anti-UV composite. It adds two over-roof straps plus an extra-long horizontal strap, and reinforces 8 bottom corners.\n\nCompared with the Umbrauto, it handles longer rigs and puts more emphasis on corner reinforcement, with 3 zippered roll-up side panels for access. It suits owners of very long diesel pushers.",
     "specs": [
       "38'1\" to 42' fit",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31f49Vnz24L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GF11NCXH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GF11NCXH?tag=rvgearlab-amz-20",
     "description": "The KING BIRD Premium Class A cover fits 30 to 33 ft rigs with a 600D Oxford top over 300D sides and a 3500mm PU waterproof coating. Double-stitched top, edges and corners carry an 800 lb rip-stop rating and rollable zippered doors open side and rear access.\n\nWhere the Umbrauto relies on multi-layer fabric, the KING BIRD uses tightly woven Oxford that suits wet fog and rain. It suits mid-size Class A owners who want a durable woven shell.",
     "specs": [
       "600D Oxford top",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41MHGsT6NzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F993XBVK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F993XBVK?tag=rvgearlab-amz-20",
     "description": "The Fonzier Class C cover fits 23 to 26 ft rigs with a 9-ply top and 3-ply sides. It has 4 air vents balancing pressure along the roofline, redesigned straps and buckles at the bottom, and toss sticks that help tie the hem.\n\nIt brings gutter spout covers to the kit, which the KING BIRD omits, and it suits Class C owners who need airflow and extra restraint on a coastal lot.",
     "specs": [
       "9-ply top, 3-ply sides",
@@ -133,7 +133,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41BwdsF9L9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FS1D29RJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FS1D29RJ?tag=rvgearlab-amz-20",
     "description": "The Mayrhofen cover pairs 600D Oxford fabric with 6 layers of reinforced stitching for travel trailers, and it advertises fits from 14 to 44 ft depending on the size you order. It includes 6 to 14 vents depending on size and a roll-up rear access door.\n\nAgainst the motorhome covers above, it serves towables at a lower price and spreads vents across the size range. It suits coastal trailer owners who need breathable Oxford at a modest budget.",
     "specs": [
       "600D Oxford, 6 layers",

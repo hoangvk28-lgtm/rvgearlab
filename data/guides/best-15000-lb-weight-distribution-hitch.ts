@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31+4rScA1wL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B000HDI42Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B000HDI42Q?tag=rvgearlab-amz-20",
     "description": "Blue Ox's BXW1500 SwayPro states 15,000 lb gross towing and 1,500 lb tongue weight with a 2-inch receiver and a 7-hole shank. Blue Ox's BXW1500 SwayPro is a weight distributing hitch rated 15,000 lb gross towing and 1,500 lb tongue weight with a 2-inch receiver and a 7-hole shank. The listing says this model works when the coupler is welded to the top of the frame and the trailer tongue has no cross-members or equipment blocking.\n\nIt states both ratings, unlike CURT 17333, and includes the shank, unlike the Reese kit. It needs a top-welded coupler with no tongue cross-members.\n\nBest for a 15,000 lb trailer with a top-mounted coupler and a tongue weight near 1,500 lb. Check your coupler style and tongue clearance first, since the listing limits this model to top-welded couplers.",
     "specs": [
       "15,000 lb, 1,500 lb tongue weight",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31zdBiiJz6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00DUX1OAO?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00DUX1OAO?tag=rvgearlab-amz-20",
     "description": "CURT's 17333 is a short trunnion bar hitch rated up to 15,000 lb with a 2-inch shank and 28-3/8 inch forged bars. CURT's 17333 is the heavy-duty short trunnion bar weight distribution hitch, rated up to 15,000 lb with a 2-inch shank and 28-3/8 inch forged steel bars. The heavy-duty formed head adjusts for precise leveling.\n\nIt costs less than Blue Ox BXW1500 but states no tongue weight and has no sway control. It includes the shank.\n\nBest for a 15,000 lb trailer owner who will confirm tongue weight capacity. It is a plain weight distribution kit, so confirm tongue weight capacity and add a sway solution if needed.",
     "specs": [
       "15,000 lb, 2-inch shank",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31n383VKNvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0008G5EO8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0008G5EO8?tag=rvgearlab-amz-20",
     "description": "Reese's kit is titled 6,000 lb but its body text cites 15,000 lb GTW and 1,500 lb tongue weight. Reese's kit is titled as 6,000 lb capacity without a shank, while the body text cites up to 15,000 lb gross trailer weight and 1,500 lb tongue weight. It uses a raised hitch ball platform and serrated washers for head adjustment.\n\nIf the body text is right it matches Blue Ox BXW1500, but the title disagrees and it needs a shank. Confirm before buying.\n\nBest only after the rating is confirmed. The two listed ratings disagree, so use the lower figure until the seller confirms which applies, and buy a shank separately.",
     "specs": [
       "Titled 6,000 lb, no shank",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21ecGfpY-aL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B001GMTKUW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B001GMTKUW?tag=rvgearlab-amz-20",
     "description": "CURT's 17124 is a replacement shank with an 8-3/4 inch drop rated 15,000 lb GTW and 1,500 lb tongue weight. CURT's 17124 is a replacement shank for 2-inch receivers with an 8-3/4 inch drop, rated 15,000 lb GTW and 1,500 lb tongue weight. It provides multiple holes for adjusting head height on CURT weight distribution hitches.\n\nIt is a part, not a hitch, and helps an owner who needs more drop for a CURT head. It costs far less than any kit.\n\nBest for adding drop to an existing CURT head. It is only the shank, so it helps a buyer who already owns a head and bars and needs more drop.",
     "specs": [
       "Replacement shank, 2-inch receiver",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31nkdhy2GSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B084SB8LZQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B084SB8LZQ?tag=rvgearlab-amz-20",
     "description": "Camco's R6 states a 15,000 lb ball rating but a 1,000 lb maximum tongue weight. Camco's Eaz-Lift ReCurve R6 is a weight distribution hitch with adaptive sway control that the listing says adjusts to road conditions and disengages for tight turns. The kit includes a 2-5/16 inch ball rated 15,000 lb and a 1,000 lb maximum tongue weight.\n\nThat tongue weight is below what a 15,000 lb trailer usually needs, so it cannot be the primary choice despite adaptive sway control.\n\nBest only for a 15,000 lb trailer with a tongue weight under 1,000 lb, which is unusual. It is a premium option for owners who want sway control that can be switched off for backing.",
     "specs": [
       "15,000 lb ball, 1,000 lb tongue",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31y88-deBSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01NBP7XT8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01NBP7XT8?tag=rvgearlab-amz-20",
     "description": "XtremepowerUS's kit states 1,000 lb tongue weight with sway control and a 2-inch shank. XtremepowerUS sells a 1,000 lb weight distribution hitch with sway control and a 2-inch shank. The listing states support for up to 1,000 lb of tongue weight and describes use with travel trailers, campers and utility trailers.\n\nIt states no gross trailer weight and a tongue weight too low for a 15,000 lb trailer. It is the least matched pick here.\n\nBest avoided for 15,000 lb. Verify the gross trailer weight and hardware grade with the seller before using it on a heavy trailer.",
     "specs": [
       "1,000 lb tongue capacity",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31-g3iW2PyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FDFFRVK2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FDFFRVK2?tag=rvgearlab-amz-20",
     "description": "The Gonex cot is 31.5 inches wide with 7075 aluminum bars and legs, a dual-tube design and a lever-locking system. A pillow pocket in soft fabric holds a pillow in place.\n\nCompared with the Sportneer, it is wider and lighter in metal. Against the Suteck, it adds a pillow pocket.\n\nIt suits side sleepers who want room to turn. The lever lock speeds up setup.",
     "specs": [
       "31.5 inch wide surface",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41KFZa4H8tL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CKXRPFCC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CKXRPFCC?tag=rvgearlab-amz-20",
     "description": "The Sportneer cot is 78.3 by 28.7 by 14.6 inches and sets up in 30 seconds. It has a side pocket and is wider than most competitors.\n\nCompared with the Suteck, it is slightly wider and lower. Against the Gonex, it costs less.\n\nIt suits side sleepers on a moderate budget. The 28.7 inch width gives some turn room.",
     "specs": [
       "78.3 x 28.7 x 14.6 inch cot",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41eBJbCQrwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GFD2Y4X2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GFD2Y4X2?tag=rvgearlab-amz-20",
     "description": "The Suteck cot has a removable 3.5 lb cushion and a slight elevation at the head. It uses a 25mm square anti-rust steel frame with 1200D double-layer Oxford fabric.\n\nAgainst the Sportneer, it includes the cushion. Compared with the Kingfun pad, it is a complete cot.\n\nIt suits side sleepers who want a cot with a cushion in the box. The head slope helps neck alignment.",
     "specs": [
       "3.5 lb removable cushion",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51bLpe51-0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C7Z8BN32?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C7Z8BN32?tag=rvgearlab-amz-20",
     "description": "The Kingfun pad is a 3 inch CertiPUR-US memory foam camping mattress with a velboa cover with TPU coating. The bottom is anti-slip and the pad rolls up with a travel bag.\n\nCompared with the CYMULA pad, it is thicker at 3 inches. Against the cots, it adds the cushioning side sleepers need.\n\nIt suits side sleepers on any cot or floor. The waterproof cover handles damp tents.",
     "specs": [
       "3 inch memory foam",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41MOyefMDYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DKJ9FNF7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DKJ9FNF7?tag=rvgearlab-amz-20",
     "description": "The CYMULA pad is a memory foam cot pad sold in 2, 3 and 4 inch options, with a soft removable cover. It has a water-resistant bottom with rubberized dots.\n\nCompared with the Kingfun, it lets you pick the thickness. Against the Suteck, it is just the pad.\n\nIt suits side sleepers who want to pick their own thickness. The 4 inch option suits heavier sleepers.",
     "specs": [
       "2, 3 or 4 inch options",

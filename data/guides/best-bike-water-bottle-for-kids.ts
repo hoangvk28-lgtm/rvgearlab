@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41tF+DbvOmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B095BVP5GV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B095BVP5GV?tag=rvgearlab-amz-20",
     "description": "The Active Adventure combo pairs a 20 oz BPA-free squeeze bottle with a bike mount, so one purchase covers the bottle and the holder. The mount clamps on without screws, and a 90 degree adjustable adapter lets it sit horizontally or vertically.\n\nNext to the ROCKBROS cage, it adds the bottle and a no-hole mount, so it works on small bikes with no drilled bosses. Against the woom Glug, it trades a stainless bottle for a mount that adjusts to many handlebar bikes.\n\nIt suits parents setting up a first kid bike with no bottle mounts. The no-pull Jet Valve means a child squeezes and drinks without pulling a cap open.",
     "specs": [
       "20 oz BPA-free squeeze bottle",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/313WQ3p6XhL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09XBMY7T3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09XBMY7T3?tag=rvgearlab-amz-20",
     "description": "The woom Glug is a 17 oz bottle in 18/8 stainless steel, built with a side-load shape that slides into the cage on woom bike frames. It is leak-proof and dishwasher safe up to 149F.\n\nCompared with the Active Adventure kit, it skips the mount and focuses on a clean steel bottle that matches the bike. It carries less than that 20 oz bottle, which suits a child who sips rather than gulps.\n\nIt is the right pick for families already riding a woom 2 or larger model. Steel construction stays clean-tasting and handles drops better than thin plastic.",
     "specs": [
       "17 oz stainless steel, side-load",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41vjo2jiwOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09KTFVNK1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09KTFVNK1?tag=rvgearlab-amz-20",
     "description": "The CamelBak Eddy+ Kids is a 12 oz stainless steel bottle with double-wall vacuum insulation and a flip, bite and sip straw. It is leak-resistant when closed and spill-resistant when open, with an integrated carry handle.\n\nCompared with the Volhoply, it uses a smaller bottle with a bite valve that is easier for a young child to manage. Against the woom Glug, it adds insulation to keep water cold for hours.\n\nIt suits younger kids who ride short neighborhood loops and carry the bottle in a backpack or basket. The handle makes it easy to hand over at a snack stop.",
     "specs": [
       "12 oz double-wall stainless steel",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Df76lFksL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CYLQFK34?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CYLQFK34?tag=rvgearlab-amz-20",
     "description": "The Volhoply is a 20 oz double-wall 18/8 stainless steel bottle with a straw lid, rated on the listing for cold drinks up to 24 hours. The sweat-proof surface keeps a dry grip, and the listing says it fits car cup holders and bike racks.\n\nIt beats the CamelBak Eddy+ on capacity and carries no mount, since it relies on a holder the bike already has. It does not include a cage.\n\nIt fits older kids on longer rides who want cold water all afternoon. A straw lid works for a child who can drink without tipping the bottle.",
     "specs": [
       "20 oz double-wall stainless steel",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/417NYokpfYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B1J2Q5WD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B1J2Q5WD?tag=rvgearlab-amz-20",
     "description": "The ROCKBROS cage is a polycarbonate holder that weighs only 35g and arrives with screws and a 3mm Allen wrench. The listing says it installs in under a minute on bikes with pre-drilled holes.\n\nIt is the lightest item here and the cheapest, and it fits any standard bottle you already own. Against the Active Adventure kit, it suits bikes that already have frame bosses and a bottle in the kitchen cupboard.\n\nIt is the pick for a parent who wants a secure cage on a kid bike without paying for a new bottle. The finish does not scratch or mark the bottle.",
     "specs": [
       "35g polycarbonate cage",

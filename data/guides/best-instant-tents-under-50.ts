@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41SL9FtoG1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GLGNWTZ3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GLGNWTZ3?tag=rvgearlab-amz-20",
     "description": "The Golabs CT3 pitches in about 60 seconds by lifting a center pole and pressing it down, then staking four corners. Inside it measures about 6.4 ft long, 4.6 ft wide and 3.6 ft high, with four side mesh panels and door ventilation.\n\nIt is the best-organized frame here, with a taffeta shell and a PE woven floor that feel sturdier than the hub tents. Compared with the anngrowy, it trades a stated PU rating for a cleaner floor plan.\n\nCouples and solo campers who want shelter in a minute will like the simple routine. Four side mesh panels keep the interior breezy.",
     "specs": [
       "Lift-the-pole 60-second pitch",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ARpS9nG2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BKRGG113?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BKRGG113?tag=rvgearlab-amz-20",
     "description": "The anngrowy opens to roughly 6.9 ft by 4.9 ft with a 47 inch peak, built from 190T polyester and 210D Oxford over a fiberglass frame. It states a PU 1500mm waterproof rating and uses a hydraulic-pressure mechanism for pitching.\n\nIt is the only pick here that publishes a rain rating, which sets it ahead of the Golabs on weather confidence. Two door layers and two mesh windows give cross airflow that the Generic 3-4P cannot match.\n\nWeekend campers who may see rain will value the numbers. Dual-side zippers let you switch between mesh and fabric.",
     "specs": [
       "PU 1500mm, 190T polyester",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31KRDuy9QdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0831HH4QC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0831HH4QC?tag=rvgearlab-amz-20",
     "description": "The Mobihome sleeps two or three adults in about 6.9 ft by 6.2 ft of interior with a 43 inch peak. A hub system lets one person roll it out, lift the hub and pull a drawstring, and the 190T shell comes with taped seams, a PE floor and a rainfly.\n\nIt offers the largest floor in the list and the only taped seams, and it weighs 8.5 lb in a 40 inch bag. The Golabs is lighter and quicker, while the Mobihome fits a third camper.\n\nFamilies with one child and anyone who dislikes threading poles will appreciate it. Large mesh panels reduce condensation.",
     "specs": [
       "Hub pop-up, 8.5 lb",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31DjDdmn0BL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H3KMDQLT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H3KMDQLT?tag=rvgearlab-amz-20",
     "description": "This pop-up measures about 6.9 ft long, 6.2 ft wide and 4.4 ft high and opens automatically. Waterproof fabric with sealed seams and large mesh panels give it a tidy, ventilated body.\n\nIt holds 2 to 3 adults with basic gear, which is more than most pop-ups at this price. The anngrowy publishes a rain rating and the Mobihome includes a rainfly, so this tent suits the driest outings.\n\nBeach days, backyard sleepovers and kids' camps are its home turf. It folds down quickly after use.",
     "specs": [
       "About 6.9 by 6.2 ft footprint",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41V6XlN6HWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G8D8TJQ8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G8D8TJQ8?tag=rvgearlab-amz-20",
     "description": "The Wind Tour is an automatic pop-up with thickened metal brackets, a waterproof-coated outer layer and mesh windows with vent holes. The double-layer build separates rain protection from insect screening.\n\nIt costs the least and pairs that price with thickened metal brackets on the frame. Against the Mobihome it gives up size and taped seams.\n\nSolo festival-goers and weekend campers who want shelter for pocket money will like it. The vents reduce stuffiness.",
     "specs": [
       "Automatic pop-up frame",

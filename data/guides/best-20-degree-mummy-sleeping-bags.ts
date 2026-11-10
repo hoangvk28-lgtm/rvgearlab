@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/316CFmR-OuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DWVF4RXP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DWVF4RXP?tag=rvgearlab-amz-20",
     "description": "TETON's Trailhead is a 20 degree mummy insulated with microfiber. The hood narrows the opening at your face, zipper draft tubes seal the line, and the vaulted footbox carries extra insulation. A compression sack and hang loops ship with it.\n\nIt balances brand support and price better than the others, and its vaulted footbox gives more toe room than the narrower Wakeman. The Amazon Basics is cheaper, while the Trailhead names more construction details.\n\nA smart first mummy for campers who want a recognized label at a fair price. Hang it by the loops between trips.",
     "specs": [
       "20F mummy, microfiber insulation",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/3177pWrjfXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G62HZL33?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G62HZL33?tag=rvgearlab-amz-20",
     "description": "Amazon Basics rates this mummy to 20F and 90 x 34 inches, with an integrated hood, synthetic fill and a compression carry sack. The shell is recycled polyester, integrated loops help bundle it, and it can be machine washed.\n\nBeside the TETON Trailhead, it offers more length and a wider shoulder cut at a lower price. It also unzips fully to work as a blanket, which the Wakeman does not state.\n\nChoose it for budget campers who want 20F on paper with generous length. Keep the loops tied after rolling.",
     "specs": [
       "20F rated, synthetic fill",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4140srSsjFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CJSSQYDG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CJSSQYDG?tag=rvgearlab-amz-20",
     "description": "Wakeman calls this a 3-season mummy rated to 25F and gives a second figure of 10 to 20F in the product details. It weighs 2.98 lb, rolls to 17 x 8 inches and measures 83 x 28 inches. The shell is 210T water-resistant polyester over polyester fiber cotton fill.\n\nIt is the lightest and smallest of the four in print and the lowest in price. The 28 inch width is narrower than the Amazon Basics, so it suits sleepers who like a close fit.\n\nA good fit for light-duty hikers and cabin campers who watch weight and cost. The drawstring hood cinches against drafts.",
     "specs": [
       "25F rated, 2.98 lb",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41OdlULxekL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D643KDKN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D643KDKN?tag=rvgearlab-amz-20",
     "description": "Coleman rates the North Rim to 0F and cuts it 82 x 32 inches for campers as tall as 6 ft 2 in. Named features include Coletherm hollow polyester, Thermolock tubing behind the zipper, an adjustable hood and a no-snag zipper.\n\nIts label is 20 degrees colder than the others, which gives margin on cold nights. The Thermolock tube is a named feature the Amazon Basics and Wakeman do not list.\n\nChoose it for campers who expect nights below 20F and prefer a known brand. Adjust the hood on warmer evenings.",
     "specs": [
       "0F rated mummy",

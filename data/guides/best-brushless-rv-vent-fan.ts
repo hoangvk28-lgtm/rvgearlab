@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31DFhRiLB3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D53WX712?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D53WX712?tag=rvgearlab-amz-20",
     "description": "This 14-inch fan pairs a commercial-grade brushless DC motor with a three-blade design, a rain sensor that closes the lid, and a timed auto-off. It runs on 12V or 24V and offers four speeds with a smooth ramp, plus reversible intake and exhaust.\n\nCompared with the Airtaxi below, it adds a 5-year motor warranty and a lid built with a stated extra millimeter of thickness. It suits owners who want a single fan to run every night for years.",
     "specs": [
       "Brushless DC motor",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4135Jd4kcvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09X3BSRR2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09X3BSRR2?tag=rvgearlab-amz-20",
     "description": "The listing states noise at 25 dB or less, uses a brushless motor said to last five times longer, and adds remote control with four speeds and a rain sensor. Four timer modes cover 60 to 240 minutes, and the housing is ASA plus PC rated from -30 to 100 degrees Celsius.\n\nNext to the Enhanced fan, it gives a clearer decibel number and a longer timer menu for a lower price. It suits bedroom and bathroom vents where noise matters most.",
     "specs": [
       "25 dB or less",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41T849NbBNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CYZX718T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CYZX718T?tag=rvgearlab-amz-20",
     "description": "The Airtaxi has a brushless motor, 25 dB operation and just 0.15 W standby draw, with a rain sensor claiming 0.05-second response. It uses a 304L stainless steel transmission, runs on 12V or 24V and carries a 3-year warranty.\n\nIt beats the Starvent below on rain sensing and remote control, while undercutting the Enhanced on price. It suits solar and lithium owners who count every idle watt.",
     "specs": [
       "0.15 W standby draw",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41sOcE6bwZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GLG6SS2K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GLG6SS2K?tag=rvgearlab-amz-20",
     "description": "The Starvent delivers up to 1100 CFM on its sixth speed and drops to 1 W at 200 CFM on level 1. It uses a brushless motor, reverses to intake mode, and has a smoke-colored 14x14 dome that fits roof thickness from 1.16 to 5.5 inches.\n\nCompared with the Airtaxi, it moves more air per watt at the low end and uses a simple manual knob with no remote to lose. It suits owners who want strong cooking-odor removal and a wide roof-thickness range.",
     "specs": [
       "1100 CFM peak",

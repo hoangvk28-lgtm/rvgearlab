@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31VB3R1TQYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CP8LTD7F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CP8LTD7F?tag=rvgearlab-amz-20",
     "description": "The Shocker Sway Control Friction Arm Bar and Ball Kit is a friction bar assembly with a 1-1/4 inch trailer-mounted ball, a 1-1/4 inch mini hitch ball for a sway control tab ball mount, and install hardware. The listing says to use one system for trailers under 10,000 lb and two systems for trailers over 10,000 lb.\n\nIt ranks first because it states weight guidance and what is in the box, which the Nilight Sway Kit and RVGUARD Right-Hand do not. It is designed for use with Shocker sway control hitches with bar mounting tabs, or other mounts with sway bar tabs, so your ball mount needs a tab.\n\nBest for a camper, cargo or enclosed trailer on a plain tab ball mount. The listing says to set it up to 24 inches from the tab ball to the center point, so measure before drilling.",
     "specs": [
       "Adjustable friction arm bar",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zupLuNYAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DJVVLLQK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DJVVLLQK?tag=rvgearlab-amz-20",
     "description": "The Nilight Adjustable Trailer Sway Control Kit has on and off control with double friction pads and a crank handle. The listing says it can be turned completely off on icy roads and detaches quickly for storage.\n\nCompared with the Shocker Friction Bar it costs about $38 less and adds the crank on and off control, but the listing gives no trailer weight guidance. Against the RVGUARD Right-Hand below, it lists double friction pads, while the RVGUARD lists the same package parts.\n\nBest for a travel trailer owner who wants to switch the bar off easily on slick roads. Confirm how the bar attaches to your ball mount, since the listing does not name a hitch-side fitting.",
     "specs": [
       "On and off control",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31zdljn-nwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CL65P2C9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CL65P2C9?tag=rvgearlab-amz-20",
     "description": "The RVGUARD Adjustable Sway Control Kit Right Handed lists a slide bar, crank handle, spring clips, friction plate, tongue ball plate, self-tapping screws and a tongue ball. Its listing also says the system can be turned completely off in dangerous or icy road conditions.\n\nIt costs less than the Nilight Sway Kit and has near-identical wording, but the listing does not state double friction pads. It is made for the right side only.\n\nBest for a buyer who wants an adjustable bar for the lowest price and mounts on the right. Confirm the hitch-side attachment, since the listing does not name one.",
     "specs": [
       "Right-handed sway kit",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/2111sWSYyFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7HLYJZH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7HLYJZH?tag=rvgearlab-amz-20",
     "description": "The JIANBENKJ 26003 is a single-sided anti sway adapter plate that replaces part 26003 and fits Class III and IV 2 inch square ball mounts. The listing says no welding is needed.\n\nUnlike the bar kits above, it is a plate that gives a bar a place to attach on a plain ball mount, not a sway bar. It is slightly pricier than the SHUJUKU 26003 below.\n\nBest for adding a sway bar attachment point to a plain ball mount. You still need a bar and a trailer-side ball.",
     "specs": [
       "Replaces part 26003",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31QGI2fJP2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GKRC2SZ5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GKRC2SZ5?tag=rvgearlab-amz-20",
     "description": "The SHUJUKU 26003 is a single-sided adapter plate for Class III and IV 2 inch square ball mounts, with a 1.02 inch main hole, a 0.66 inch secondary hole and a black anti-rust layer. The listing says it provides more support points for the rear of the vehicle.\n\nIt costs a bit less than the JIANBENKJ 26003 and states a rust coat and dimensions. Both are plates, not bars.\n\nBest for a buyer who wants hole sizes and a coating named. It still needs a bar and a trailer-side ball.",
     "specs": [
       "Single-sided 26003 plate",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41sdPwzXzML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B000HLU8IG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B000HLU8IG?tag=rvgearlab-amz-20",
     "description": "The CURT 17201 is a trailer-mounted sway control ball that attaches directly to the trailer frame for CURT sway control unit 17200. The listing says it comes with four self-tapping bolts, strong steel construction and a powder coat finish, and that some drilling is required.\n\nIt is the trailer end of a friction bar system and costs far less than the kits above. It does not do anything without a bar and a hitch-side ball.\n\nBest for replacing or adding the trailer-side ball on a CURT 17200 system. Plan for drilling into the trailer frame.",
     "specs": [
       "Trailer-mounted sway ball",

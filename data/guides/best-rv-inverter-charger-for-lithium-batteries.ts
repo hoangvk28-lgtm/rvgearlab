@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31WgyBcNC1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BZV91KW4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BZV91KW4?tag=rvgearlab-amz-20",
     "description": "The Victron MultiPlus-II is our top pick for lithium RV builds because it is fully configurable and integrates with the rest of a Victron system. It pairs a 3000VA pure sine inverter with a 120 amp charger, takes over loads within 20ms when shore or generator power drops, and its Power Assist feature tops up a weak shore or generator feed from the battery to prevent tripping a 30 amp pedestal.\n\nCompared with the Renogy REGO ranked next, the Victron costs more but gives finer control of charge voltages through Victron's configuration tools and pairs with Victron battery monitors and lithium systems. Against the Xantrex Freedom SW 3012, it is lighter and offers Power Assist, while Xantrex counters with a temperature sensor in the box and UL458 listing.\n\nThis suits owners building a serious lithium system who want it done properly. The caveat is that setup typically needs a Victron interface cable and some learning, and pricing varies widely by seller.",
     "specs": [
       "3000VA inverter, 120A charger",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Nn2EpHPLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C73F293B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C73F293B?tag=rvgearlab-amz-20",
     "description": "The Renogy REGO is the most complete plug-and-configure option for lithium. It outputs 3000W continuous with 9000W peak at over 90 percent efficiency, includes a dedicated LI mode for lithium iron phosphate plus a USER mode for custom voltages, uses 4-stage charging, and offers built-in Bluetooth monitoring through the Renogy app.\n\nNext to the Victron above it, the REGO is easier to set up from a phone and comes with FCC certification, but it lacks Power Assist and Victron's ecosystem depth. Compared with the cheaper ECO-WORTHY below, it adds built-in Bluetooth and a selectable lithium mode instead of needing an optional display.\n\nPick it if you want lithium charging done right without learning Victron software. The caveat is cost, close to double the value units for similar inverter output.",
     "specs": [
       "3000W / 9000W peak, >90% efficient",
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41LJ1OVFlvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DK98ZXQT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DK98ZXQT?tag=rvgearlab-amz-20",
     "description": "ECO-WORTHY's 3000W unit stands out for charging speed. Its charger is adjustable from 25 to 100 amps, it is compatible with 12V LiFePO4 as well as AGM and gel, includes UPS backup and priority settings, and has six protection types with peak efficiency at or above 90 percent.\n\nIts 100 amp charger outpaces the LiTime and ExpertPower below, which matters for large lithium banks recharged from a generator. Against the Renogy above it, it is cheaper but the LED display is optional and sold separately, so monitoring costs extra.\n\nChoose it if you recharge a 200Ah or larger bank from a generator and want short run times. The caveat is that the display is an add-on purchase.",
     "specs": [
       "25 to 100A adjustable charger",
@@ -108,7 +108,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ZRirshOML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08J6PW6J3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08J6PW6J3?tag=rvgearlab-amz-20",
     "description": "ExpertPower's 3000W inverter charger offers eight battery profiles including LiFePO4, an 80 amp adjustable charger, and a built-in 30 amp transfer switch with UPS. An LED display shows priority mode, frequency, error codes, and battery status, and the steel case uses copper terminals and a double ball-bearing fan.\n\nAgainst the ECO-WORTHY above it, the charger is 20 amps slower but the display is included, and the 30 amp transfer switch rating is clearly stated, which suits 30 amp RV panels. It is very close in price to the LiTime below, with more charger current.\n\nThis suits 30 amp RV owners wanting a direct converter replacement with lithium support. The caveat is a heavier steel case that needs a solid mounting spot.",
     "specs": [
       "80A charger, 8 battery profiles",
@@ -136,7 +136,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/416jMu63IUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CT8QBJVR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CT8QBJVR?tag=rvgearlab-amz-20",
     "description": "LiTime's 3000W hybrid unit combines the inverter with a 5 to 45 amp battery charger, 9000W surge, and a 10ms UPS switchover. It ships with an LCD remote control panel on a 23 foot cable and works with LiFePO4, AGM, gel, SLA, and calcium batteries.\n\nIt ranks below ExpertPower because the 45 amp maximum charge rate is slow for a large lithium bank. Its strengths are a fast 10ms switchover and a long remote cable so you can mount the unit in a bay and monitor it from inside. Compared with the VEVOR below, it adds 1000W more inverter output.\n\nPick it for smaller lithium banks around 100 to 200Ah where 45 amps is enough. The caveat is slow recharging for bigger banks.",
     "specs": [
       "3000W / 9000W surge",
@@ -163,7 +163,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41YA9D7AxgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B006VELG7A?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B006VELG7A?tag=rvgearlab-amz-20",
     "description": "The Xantrex Freedom SW 3012 is premium, certified hardware. It outputs 3000W true sine wave continuous at 40 degrees C, has a 150 amp charger, supports LiFePO4, flooded, gel, and AGM, includes a battery temperature sensor, transfers loads in under 10 milliseconds, and is approved to UL458 with marine supplement, CSA, ABYC, and FCC Class B.\n\nIt offers the strongest certification and biggest charger here, and split-phase input options suit 50 amp coaches. It ranks below the value picks only because of price and weight at 73.7 pounds. Against the Victron at the top, it is more certified out of the box but less flexible to configure.\n\nChoose it for a coach where certified, inspector-friendly hardware matters. The caveat is a price above $2,000 and serious mounting weight.",
     "specs": [
       "3000W, 150A charger",
@@ -190,7 +190,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hggzgXB6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DY7MLY9B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DY7MLY9B?tag=rvgearlab-amz-20",
     "description": "The VEVOR 2000W is the budget entry. It offers five working modes (unattended, grid priority, battery priority, energy-saving, and generator mode), supports LiFePO4, lithium-ion, AGM, sealed, and flooded batteries, and ships with a detachable controller on a 32.8 foot remote cable.\n\nIts 2000W output is lower than every 3000W pick above, so it suits a microwave or coffee maker but not both with other loads. The generator mode and long remote cable are useful extras. Compared with the LiTime, it costs about $170 less.\n\nPick it for smaller rigs with modest AC needs. The caveat is that charger current is not specified in the listing, so confirm it suits your bank size.",
     "specs": [
       "2000W pure sine",

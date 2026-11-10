@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31EePpwi53L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F52BNCN3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F52BNCN3?tag=rvgearlab-amz-20",
     "description": "The OneTigris Stella uses a 20D nylon outer with a single-layer silicone coating, a 40D nylon bottom and a 3000mm waterproof rating. It weighs 4.8 lb, sets up at 6.9 by 4.1 by 3.7 ft and includes 10 stakes and four guy lines.\n\nIt is the lightest tent here, about 2 lb under the GEERTOP Backpacking, and it adds a removable blackout outer tent. Compared with the GEERTOP Blackout it is much lighter to carry and has a smaller floor.\n\nIt suits backpackers who want a two-person tent with a mesh inner for airflow. Poles cross at the top of the dome and anchor at the four corners.",
     "specs": [
       "4.8 lb, 6.9 x 4.1 x 3.7 ft",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31n2AyjI--L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B016QS5NEC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B016QS5NEC?tag=rvgearlab-amz-20",
     "description": "The GEERTOP backpacking tent has a 210T ripstop polyester fly with a PU3000mm coating, fully taped seams and an extended snow skirt. Inside it measures 82.6 by 55 by 45 inches with dual vestibules, and it weighs 6.9 lb packed to 17 by 7 by 7 inches.\n\nIt names a snow skirt and taped seams, which the Stella does not, at 2.1 lb more weight. Compared with the GEERTOP Blackout it is 0.8 lb lighter and costs less.\n\nIt suits couples who need snow-ready skirt coverage and room for boots in the vestibules. The two-pole clip-on frame pitches quickly.",
     "specs": [
       "6.9 lb, 82.6 x 55 x 45 in",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31UyFh5K4kL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GJRZB7JT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GJRZB7JT?tag=rvgearlab-amz-20",
     "description": "The GEERTOP Blackout adds blackout fabric with a heat-insulating layer to a 4-season freestanding design with a full-coverage snow skirt. It measures 82.6 by 55 by 45 inches, weighs about 7.7 lb and packs to 17.3 by 6.7 by 6.7 inches.\n\nIt is the only blackout design here, which helps with shift work and bright summer mornings. Compared with the GEERTOP Backpacking it adds fabric weight and cost in exchange for darkness.\n\nIt suits campers who sleep during the day or in long daylight. Two small vestibules and two aluminum poles complete the layout.",
     "specs": [
       "7.7 lb, 82.6 x 55 x 45 in",

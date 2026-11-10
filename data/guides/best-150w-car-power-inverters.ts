@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/417ymsYnNQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GJZP3PD8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GJZP3PD8?tag=rvgearlab-amz-20",
     "description": "This BESTEK gives 150W continuous AC plus a 30W PD USB-C and an 18W QC USB-A port that charge independently for 48W of fast charging. The listing names ETL certification, a smart fan and six-layer protection.\n\nAgainst the UEIUA it lacks the pure sine claim yet adds a certification mark and a second USB output. Compared with the older BESTEK 11-17V it prioritizes independent USB ports.\n\nIt suits campers who charge a laptop and phone together from the car socket. The 18-month replacement warranty is also listed.",
     "specs": [
       "150W continuous AC",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410hipLKGjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CFXGJ3WB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CFXGJ3WB?tag=rvgearlab-amz-20",
     "description": "The UEIUA outputs 150W of pure sine wave through one AC outlet, a 20W USB-C PD port and two QC 3.0 USB-A ports. Passive cooling with fanless heat sinks makes it silent, and low-voltage protection shuts it off at 11.5V.\n\nIt is the only pick here that pairs pure sine with silent cooling. Compared with the BESTEK PD it trades USB-C speed for a damped clip and a magnetic back patch.\n\nIt suits campers who run a CPAP-class or motor-driven small device and want no fan whine overnight. Rear-seat devices stay powered through the USB hub.",
     "specs": [
       "150W pure sine, fanless",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Q0P+xfQBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07DVXNSDH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07DVXNSDH?tag=rvgearlab-amz-20",
     "description": "This BESTEK delivers 150W with a 30W USB-C PD and 18W USB-A port. It carries an 11 to 17V input range, a detachable cable, an aluminum alloy casing and a patented 10-layer safety system in a 4.2 by 2.8 inch body.\n\nAgainst the BESTEK PD it adds a detachable cable and a wider voltage range, while the PD version adds a certification mark. Compared with the FOVAL it swaps basic USB for fast ports.\n\nIt suits drivers of electric and newer vehicles, since the listing names Tesla compatibility. The back clip keeps it tidy in tight consoles.",
     "specs": [
       "150W, 11 to 17V input",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41LUVtg542L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01KT26D68?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01KT26D68?tag=rvgearlab-amz-20",
     "description": "The FOVAL measures 3.2 by 2.5 by 1.5 inches and weighs about 8 oz in an aluminum shell. It supplies 150W continuous AC and two USB ports with 3.1A total output.\n\nIt is smaller than the BESTEK units yet it only has plain USB, not USB-C. Compared with the PiSFAU pair it matches the size and adds a stated fuse and metal housing.\n\nIt suits budget campers who want a tiny adapter in the glovebox. The silent fan and built-in fuse give reasonable peace of mind.",
     "specs": [
       "150W continuous AC",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51y9n9nNq7S._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B092TXDJZX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B092TXDJZX?tag=rvgearlab-amz-20",
     "description": "This PiSFAU gives 150W continuous with one AC socket and two USB ports in a metal shell sized 3.2 by 2.5 by 1.5 inches. Listing details include a built-in fuse, an intelligent fan and protection from overload and overcharge.\n\nIt matches the FOVAL on size and specs and costs slightly less. Against the other PiSFAU it adds dual USB output in the listing.\n\nIt suits road-trip families who need a spare charger for a phone and a laptop. Metal construction helps it survive being tossed in a bag.",
     "specs": [
       "150W with one AC socket",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41B1E3RQAKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08YTH66FN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08YTH66FN?tag=rvgearlab-amz-20",
     "description": "This PiSFAU lists 150W continuous and 300W peak, with two USB ports in a metal housing of 3.4 by 2.5 by 1.5 inches and about 8 oz. The listing names a smart chip plus fuse that shuts output off on a fault.\n\nIt is the cheapest here and the only one that states a peak figure of 300W. Compared with the FOVAL it adds that peak rating and fault-detecting shut-off.\n\nIt suits campers with a CPAP, breast pump or nebulizer-class small device named on the listing. Auto shut-off keeps a short from spreading.",
     "specs": [
       "150W continuous, 300W peak",

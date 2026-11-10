@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31U+J5WC1yL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FRS8PDZ9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FRS8PDZ9?tag=rvgearlab-amz-20",
     "description": "Husky's 33301 is a trunnion hitch rated 8,000 lb gross trailer weight and 400 to 800 lb tongue weight with built-in sway control. Husky's 33301 is a trunnion bar weight distribution hitch rated 400 to 800 lb tongue weight and 8,000 lb gross trailer weight, with a 2 inch shank and factory-installed ball.\n\nIt covers 7,000 lb with modest margin, unlike Fastway e2 92-00-0450, and costs about the same as Fastway e2 92-00-0800. The 800 lb tongue weight ceiling is tight for a heavily loaded 7,000 lb trailer.\n\nBest for a 7,000 lb trailer with a tongue weight under about 800 lb. It is a good match for trailers with a tongue weight in the middle of its range, so check the frame width limit in the listing.",
     "specs": [
       "8,000 lb GTW, 400 to 800 lb TW",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ZjOf+aK6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0071L4BAG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0071L4BAG?tag=rvgearlab-amz-20",
     "description": "The Fastway e2 92-00-0800 states 8,000 lb and 800 lb tongue weight with built-in two-point sway control. The Fastway e2 92-00-0800 is a trunnion-style weight distribution hitch with built-in two-point sway control, rated 8,000 lb trailer weight and 800 lb tongue weight.\n\nIt matches Husky 33301's ceiling and adds integrated sway that stays attached when backing. It costs about the same.\n\nBest for a 7,000 lb trailer wanting integrated sway control. Match your loaded tongue weight to the 800 lb rating, and step up to the 10K model if it sits near the limit.",
     "specs": [
       "8,000 lb trailer rating",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Vfn1TfeUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DT1KPYRX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DT1KPYRX?tag=rvgearlab-amz-20",
     "description": "CURT's 17355 TruTrack 2P is listed for 8,000 to 12,000 lb with integrated sway control. CURT's 17355 TruTrack 2P is a trunnion bar weight distribution hitch with integrated sway control, listed for 8,000 to 12,000 lb with a 2-inch shank and 2-5/16 inch ball.\n\nIt has a higher range than the first two and states no tongue weight. It costs less than Fastway e2 92-00-0800 but spans a wide range.\n\nBest for a 7,000 lb trailer that may be upgraded. It spans a wide trailer range, so confirm the tongue weight rating that applies to your trailer.",
     "specs": [
       "TruTrack 2P trunnion, 8K to 12K",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/315vyI2ducL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0085IJ6E0?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0085IJ6E0?tag=rvgearlab-amz-20",
     "description": "Husky's 31997 is an 800 lb weight distribution hitch with sway control whose listing gives few specs. Husky's 31997 is an 800 lb weight distribution hitch with sway control and a ball listed as 2.32 inch. The listing gives shipping dimensions and little else.\n\nIt states 800 lb but no gross trailer weight, unlike Husky 33301. Ask the seller for the full ratings.\n\nBest only after the seller confirms the gross rating. Confirm the ball size and gross trailer weight with the seller before ordering.",
     "specs": [
       "800 lb weight distribution hitch",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41HcjlZDQyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B010MEHYB6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B010MEHYB6?tag=rvgearlab-amz-20",
     "description": "CURT's 17076 is a hardware kit for CURT round bar hitches. CURT's 17076 is a replacement hardware kit for CURT round bar weight distribution hitches with a yellow zinc finish.\n\nIt is a part, not a hitch, and costs a fraction of any kit. It adds no rating.\n\nBest for repairing a CURT round bar hitch. Buy it only as a replacement part.",
     "specs": [
       "Replacement hardware kit",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31+rZ-qkNpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00JRYHGRK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00JRYHGRK?tag=rvgearlab-amz-20",
     "description": "The Fastway e2 92-00-0450 states 4,500 lb and 450 lb tongue weight, below a 7,000 lb trailer. The Fastway e2 92-00-0450 is a trunnion-style weight distribution hitch with built-in two-point sway control, rated 4,500 lb trailer weight and 450 lb tongue weight. It is the lightest e2 here.\n\nIt is a good hitch for a 4,500 lb trailer, but it is not suitable for 7,000 lb and is ranked last for that reason. Choose Fastway e2 92-00-0800 instead.\n\nBest avoided for a 7,000 lb trailer. It suits only small trailers with a tongue weight under 450 lb.",
     "specs": [
       "4,500 lb trailer rating",

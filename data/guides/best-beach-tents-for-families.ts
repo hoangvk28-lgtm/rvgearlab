@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41u2IVYI4-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07ML5SCJH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07ML5SCJH?tag=rvgearlab-amz-20",
     "description": "The Easthills Instant Shader is an XL pop-up with a 99 x 53 x 57 inch interior and a 53 inch front porch. A double silver coating blocks 97.5% of UVA and UVB, and it lists large mesh windows with double guyout points.\n\nIt has the widest interior in the list and a patent-pending opening mechanism for faster setup, ahead of the MoKo and Elegear. It costs the most of the five, so it sits above the cheaper extended-mat tent.\n\nIt works for four-person families who want a roomy pop-up and a changing space. A zip-up front gives privacy for changing into dry clothes.",
     "specs": [
       "99 x 53 x 57 inch interior",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51dYGvIhFRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HJW3Q1GL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HJW3Q1GL?tag=rvgearlab-amz-20",
     "description": "The MoKo is an 8 x 8 ft canopy with a removable side wall and more than 64 square feet of shade. Its alloy steel support poles replace common fiberglass, the height adjusts from 6.5 to 9 ft and it folds to about 43 x 7 x 7 inches.\n\nIt differs from the Easthills and Elegear by being an umbrella-style canopy with a taller, adjustable roof. The extended-mat tent gives a floor where the MoKo gives standing room.\n\nIt suits families that want to stand and move under cover, with top vents and mesh to release pressure. One person can assemble it.",
     "specs": [
       "8 x 8 ft, 64+ sq ft shade",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41PyMuyrb0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GGZJF982?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GGZJF982?tag=rvgearlab-amz-20",
     "description": "The Elegear CumbreX uses an arched roof for 40% more usable interior than an A-frame, according to its listing, and an extended canopy mode that doubles the shaded area. It is 190T polyester with a dual silver coating, UPF 50+ and PU2000 waterproofing.\n\nIt is the one tent here with a 3-in-1 mode that switches between extended and standard layouts. The Easthills gives more interior width, while the Elegear offers more flexible porch space for less money.\n\nIt suits families of four to six who want lounging room outside the tent body. A hybrid pole system helps one person pitch it.",
     "specs": [
       "40% more interior space",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51LBaKqsBsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FT33P8L8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FT33P8L8?tag=rvgearlab-amz-20",
     "description": "This tent has an 86.6 x 59.6 inch interior and a 82 x 114 inch waterproof front mat for 3 to 6 people. It uses 190T polyester with dual sun and water coatings that block 98% of UV rays, and two 8 mm fiberglass rods.\n\nIts mat gives the largest floor area on this page, ahead of the Wolfwise, at around half the Easthills spend. The Easthills and MoKo list more standing height.\n\nIt suits parents who need a safe, sand-free area for toddlers and picnics. Three large mesh windows and an open side give cross-ventilation.",
     "specs": [
       "82 x 114 inch front mat",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41W1vASxuKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GGHB5WZ6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GGHB5WZ6?tag=rvgearlab-amz-20",
     "description": "The Wolfwise 3-4 person cabana opens to 94.5 x 65 x 55.1 inches and fits up to four beach chairs. It has 8 mm poles, 190T fabric with UPF 50+, three adjustable mesh windows and three sandbags.\n\nAt the lowest price of the five, it still lists sandbags and adjustable mesh windows. The Extended Mat Tent adds a larger floor, while this one concentrates on a fitted interior for chairs.\n\nIt suits budget-minded families of three or four who want chairs under shade. The storage bag keeps the pack compact.",
     "specs": [
       "94.5 x 65 x 55.1 inches",

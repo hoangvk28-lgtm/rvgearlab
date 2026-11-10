@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41HPhgBraUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D1VDC8LN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D1VDC8LN?tag=rvgearlab-amz-20",
     "description": "The RVMasking covers 37-40 ft trailers with 9-layer non-woven fabric and a 4% anti-UV composite, plus two over-roof straps and an extra-long horizontal strap that wraps the base to block wind. Eight corners are protected with extra-long reinforced patches.\n\nCompared with the YITAHOME, it has two more fabric layers and a belly strap, with three zippered roll-up side panels and a rear zipper panel. It suits owners of a true 40 ft rig who need serious wind handling.",
     "specs": [
       "37 to 40 ft range",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41dxyD54URL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G2RLG2X1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G2RLG2X1?tag=rvgearlab-amz-20",
     "description": "The Umbrauto 38-40 ft cover is built from bi-component 9-layer fabric with 30% enhanced tear resistance, UPF50+ sun block and a 15% improved waterproof performance claim. The fabric weighs 20% less and takes 25% less volume than standard.\n\nAgainst the RVMasking, it is easier to handle and fold, and the soft-touch face is made for modern paint. It suits owners who set up the cover themselves and park in strong sun.",
     "specs": [
       "38 to 40 ft range",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41wu1nsAhAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CH36BY9F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CH36BY9F?tag=rvgearlab-amz-20",
     "description": "The YITAHOME cover fits 38-40 ft and uses a 7-layer anti-UV top, with two extra-long windbreak straps, four side tension panels and three front tension panels. Six air vents on both sides, a roll-up zipper door, four tire covers, a storage bag and six gutter covers are included.\n\nIt is the lowest-priced option for 40 ft, giving full accessories and ventilation where the others lean on more layers. It suits owners who want a complete kit without the 9-layer price.",
     "specs": [
       "38 to 40 ft range",

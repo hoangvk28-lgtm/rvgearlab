@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51cFgqolV6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B092W9LKB2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B092W9LKB2?tag=rvgearlab-amz-20",
     "description": "The RecPro 75 Amp converts 120VAC shore power to usable 12VDC, charges the RV battery and runs low-voltage lights and appliances at the same time. It uses four-stage charging and the listing says it works with both lead and lithium batteries. It is one of several RecPro sizes, from 35 up to 100 amps, so you can match a larger or smaller model later.\n\nIt ranks first because the listing combines a brand-name range, four-stage charging and lithium compatibility at $179.95. That is $30.95 more than the PowerMax PM4-75A, whose listing has no stage count, and $60.95 more than the Generic 75A, which publishes more voltage detail but from an unnamed brand. It is $110.06 above the EXMIATOV WF-9875.\n\nPick it if you want a recognizable brand with a lithium claim and a stage count. The caveat is that the listing gives no voltages, no wattage and no warranty term, so confirm the lithium profile in the manual.",
     "specs": [
       "75A, four-stage charging",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41c4PQc+S+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01ER3LH6Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01ER3LH6Q?tag=rvgearlab-amz-20",
     "description": "The PowerMax PM4-75A is a standalone deck-mount converter delivering up to 75 amps of regulated 12V DC, with multi-stage charging and an adjustable output the listing says supports properly configured lithium charging. It also lists current limiting, reverse-polarity and thermal safeguards. The price is $149.\n\nIt ranks second because it undercuts the RecPro 75A by $30.95 but is vaguer: adjustable output means you set it rather than selecting a profile. Against the Generic 75A it costs $30 more, yet that unit publishes mode choices and a warranty, which this one does not.\n\nChoose it if you have a deck-mount spot near the bank and can set or verify voltage. The caveat is that the listing gives no wattage, voltage or warranty figures, so request the manual before ordering.",
     "specs": [
       "75A deck mount",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/413cafF6y-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C4X1S218?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C4X1S218?tag=rvgearlab-amz-20",
     "description": "This 75 amp converter lists lead-acid and LiFePO4 charging modes plus fixed-voltage modes at 13.0V, 14.6V and 16.5V, with a maximum 1000W. It states a direct fit for the PM3-75 series with identical mounting holes and terminal position, a temperature-controlled fan, six protections, a wiring manual, a 1-year replacement warranty and 24-hour online support.\n\nIt ranks third because it is the most documented budget option at $119, $30 under the PowerMax PM4-75A and $60.95 under the RecPro 75A. The tradeoff is a 16.5V fixed mode: that voltage is meant for specific battery needs and can harm 12V electronics left connected. At 75A and 13.6V the output is 1,020W, slightly over the stated 1000W maximum.\n\nPick it when you want lithium and a written warranty at a low price. The caveat is the unnamed brand and the 16.5V mode, which you should avoid unless a battery maker tells you to use it.",
     "specs": [
       "Lead-acid, LiFePO4, fixed modes",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41SZEAvqqSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GD6PVLVD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GD6PVLVD?tag=rvgearlab-amz-20",
     "description": "The EXMIATOV WF-9875 is the cheapest unit here at $69.89. It replaces the WF-9875, WF-9875-MBA, WF-9875-AD-MBA, WF-9875AN and WF-9875-LIS and delivers 75A at 13.6V from a 105 to 130V AC input, with a stated 950-watt power rating. The listing adds a silent fan upgrade, interference prevention for TV and radio, electronic current limiting and a maintenance sleep mode once the battery is full.\n\nIt ranks fourth because it is lead-acid oriented and lists no lithium mode, but it comes with a stated 5-year warranty, the longest here, at $49.11 less than the Generic 75A. It costs $17.06 less than the RUIANOMG WF-9875. Note that 75A at 13.6V is 1,020W, above the 950W printed, so treat the 75A as a peak or ask the seller.\n\nChoose it for a low-cost WF-9875 swap with a long warranty on a lead-acid bank. The caveat is the unclear amp versus wattage figures and no lithium profile.",
     "specs": [
       "75A at 13.6V",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hFDXe27GL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F3CNB1WX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F3CNB1WX?tag=rvgearlab-amz-20",
     "description": "The RUIANOMG WF-9875 lists three output stages: 13.2V float, 13.6V absorption and 14.4V bulk. It carries overload, short-circuit, over-voltage, over-current and high-temperature protection and fits WF-9875, WF-9875-AD, WF-9875-MBA and WF-9875-LIS, plus a WF-9865-AD-CB code. The built-in fan is described as silent.\n\nIt ranks fifth because the voltage table is nice at $86.95 but no warranty or lithium mode is listed. It costs $17.06 more than the EXMIATOV WF-9875, which gives the same series fit plus a five-year warranty, and $32.05 less than the Generic 75A, which adds lithium modes and a one-year warranty.\n\nPick it if you want stated voltages for lead-acid or AGM charging in a WF-9800 series swap. The caveat is a listing that also mentions the 65 amp code, so check your old label.",
     "specs": [
       "13.2V, 13.6V, 14.4V",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41pUAv2DzqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FB2WB413?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FB2WB413?tag=rvgearlab-amz-20",
     "description": "The EYPDARL WF-8975-AD is a power center, meaning the converter plus the breaker and distribution panel, not a loose deck-mount unit. It is rated 75 amps nominal at a constant 13.6V DC from 105 to 130 VAC, 60Hz, with 1280W stated and three-stage charging. The listing says it monitors current for lead-acid and lithium batteries.\n\nIt ranks last because it costs $319, which is $139.05 over the RecPro 75A and $249.11 over the EXMIATOV WF-9875. That price only makes sense if your rig has an old combined converter and distribution panel and you want to replace the whole assembly rather than just the converter board.\n\nChoose it if you are replacing a full 8900 series style power center. The caveat is that, for a unit sold as lithium-friendly, the listing gives no lithium voltage and no warranty term, so verify before relying on it for LiFePO4.",
     "specs": [
       "75A power center",

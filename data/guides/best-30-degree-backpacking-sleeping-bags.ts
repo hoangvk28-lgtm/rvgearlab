@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/412MHL+E9DL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B096SXWTCP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B096SXWTCP?tag=rvgearlab-amz-20",
     "description": "Kelty fills the Galactic with 21 oz of 550 fill power RDS-traceable down and rates it 30 degrees. The listing gives 2 lb 14 oz, a 15 x 8 inch stuffed size, a fit up to 6 ft and an included stuff sack.\n\nNext to the VENTURE 4TH, it packs much smaller and gives a stated down fill, which is what backpackers pay for. Two-way zippers allow foot venting, a mid-section cinch cord tailors the fit, and two bags zip together into a double.\n\nA reliable choice for trail-focused campers who want a name-brand down bag at a mid price. PFC-free fabrics are a plus for the environmentally minded.",
     "specs": [
       "550FP RDS down, 21 oz fill",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51-jLsd7A7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B081VTZH2F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B081VTZH2F?tag=rvgearlab-amz-20",
     "description": "VENTURE 4TH states a 30 to 70F comfort range for this XXL 3-season bag, which measures 90 x 39 inches. A lifetime replacement guarantee, an included compression sack, a water-resistant polyester shell and anti-snag zippers are all listed.\n\nIt costs a fraction of the Kelty and gives far more room, while packing larger and aiming at camping more than trail weight. The 30F lower end of its range makes it a fit for the brief on mild nights.\n\nA good fit for tall campers on a budget who walk short distances to camp. The compression sack shrinks the bag enough for a short carry.",
     "specs": [
       "30 to 70F stated range",

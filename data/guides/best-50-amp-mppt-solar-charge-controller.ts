@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41cYcQtUxGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B081JWGQXT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B081JWGQXT?tag=rvgearlab-amz-20",
     "description": "EPEVER's Tracer 50A states 150V PV, tracking of 99.5% or better and includes an MT50 meter and temperature sensor. EPEVER's 50A MPPT controller lists tracking efficiency of 99.5% or better, 150V maximum PV input and auto identification of 12V, 24V, 36V and 48V systems. The listing includes an MT50 remote meter and a temperature sensor (RTS) and uses an adaptive three-stage charge.\n\nIt is the premium, fully equipped unit and costs more than RICH SOLAR Bravo 50 and the rest. The install is heavier than plug-and-play.\n\nBest for a serious build that wants a remote meter and sensor. It is the premium, fully equipped 50A choice.",
     "specs": [
       "50A MPPT, 12V to 48V",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41acS7+0gLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DHGK9Y5K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DHGK9Y5K?tag=rvgearlab-amz-20",
     "description": "RICH SOLAR's Bravo 50 has an inset LCD with a black bezel, Bluetooth app monitoring and up to 99.5% tracking. RICH SOLAR's Bravo 50 is a 50A MPPT controller with 12V/24V auto-detect, an inset LCD with a black bezel and Bluetooth app monitoring. The listing lists up to 99.5% tracking and 98% conversion, data memory and lithium and lead-acid support.\n\nIt costs less than EPEVER Tracer 50A and adds charge history. Its PV cap is not in the headline.\n\nBest for an RV interior install with app monitoring. It targets RV interiors with its flush display, so confirm the PV limit before ordering.",
     "specs": [
       "50A MPPT, 12V/24V auto",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41lsjt90XlL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CJMMQLSF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CJMMQLSF?tag=rvgearlab-amz-20",
     "description": "VEVOR's 50A MPPT includes a built-in Bluetooth module and lists efficiency up to 98%. VEVOR's 50A MPPT controller auto-detects 12V or 24V, lists conversion efficiency of up to 98% and includes a built-in Bluetooth module for remote monitoring. It is aimed at home solar and mobile photovoltaic systems.\n\nIt costs less than RICH SOLAR Bravo 50 and states a lower efficiency figure. Ask for the PV limit.\n\nBest for a mid-price app-ready 50A. It is the mid-price Bluetooth 50A choice.",
     "specs": [
       "50A MPPT, 12V/24V auto",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41rhRi7SVnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CN72DM88?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CN72DM88?tag=rvgearlab-amz-20",
     "description": "iSunergy's 50A 100V MPPT states a 100V PV input, 99% tracking and dual 5V/3A USB. This iSunergy 50A MPPT controller states a 100V PV input in its title, tracking efficiency of 99% or better and dual 5V/3A USB ports. It auto-recognizes 12V or 24V and the listing names LiFePO4, lithium, TL, gel, flooded and AGM batteries.\n\nIt costs less than VEVOR 50A MPPT and adds a defined PV cap. It names LiFePO4, lithium and lead-acid.\n\nBest for a 100V string budget. It is the higher-voltage iSunergy 50A, so it fits small series strings.",
     "specs": [
       "50A MPPT, 12V/24V auto",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51oByWxcz7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B088LNVLW9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B088LNVLW9?tag=rvgearlab-amz-20",
     "description": "Yosoo's MPPT listing covers 30A, 50A and 70A models with photocell control and dual USB. Yosoo's MPPT controller listing covers 30A, 50A and 70A versions, so check which size you are buying. It auto-recognizes 12V or 24V, offers photocell control and work time settings, and has dual USB ports with protection against over-voltage, short circuit and overload.\n\nIt costs less than iSunergy 50A 100V MPPT but is one listing for several sizes. Confirm the rating you order.\n\nBest for a budget buyer who verifies the amp size. Treat it as a budget unit and verify the amp rating at checkout.",
     "specs": [
       "MPPT, 12V/24V auto",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51paw4y1PgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08GCKHSQQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08GCKHSQQ?tag=rvgearlab-amz-20",
     "description": "iSunergy's 50A MPPT lists 99.5% efficiency but a 23V PV cap on 12V. The 50A iSunergy carries the same 99.5%-or-better efficiency claim and large LCD as its 40A sibling, with generation totals and light-control timing. The listing gives a 23V maximum panel input for a 12V battery and mentions dual USB outputs.\n\nIt is the cheapest here and cannot take a series string. It is framed for lead-acid.\n\nBest for the lowest price when panels run in parallel. That input limit makes it a match for parallel panels on a lead-acid bank only, so plan wiring around it.",
     "specs": [
       "50A MPPT, 12V/24V auto",

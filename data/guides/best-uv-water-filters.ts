@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41DZK9w3G1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07YJT6GBT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07YJT6GBT?tag=rvgearlab-amz-20",
     "description": "Geekpure sells a 55 watt, 12 GPM unit with a 304 stainless chamber and 1 inch NPT connections. The box includes an electronic ballast with audible and visual alarm, plus three UV lamps, three quartz sleeves and three clamps.\n\nIt lists the lowest price in the group and the most spares, which cuts the cost of the first two lamp changes. The maker is ISO9001:2015 certificated and a Water Quality Association member, according to the listing.\n\nA smart buy for a cabin owner who wants the unit and several years of spares in one box. The alarm warns when the lamp fails.",
     "specs": [
       "55W, 12 GPM, 1 inch NPT",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41AE1zr3n0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01N2YMU3O?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01N2YMU3O?tag=rvgearlab-amz-20",
     "description": "The HQUA-OWS-12 is a 40 watt, 12 GPM system with a 304 stainless chamber measuring 37.2 by 2.5 inches. Connections are 3/4 inch MNPT, and a spare UV bulb comes in the box.\n\nIt draws less power than the 55 watt Geekpure and costs a little more, while the long thin chamber suits a wall run in a utility closet. The listing recommends horizontal installation with metal connectors.\n\nChoose it for a small cabin where a 3/4 inch line and low power draw matter more than a pile of spares. Setup needs no plumber according to the listing.",
     "specs": [
       "40W, 12 GPM, 3/4 inch MNPT",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41rmAY7xGsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07JLNYH49?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07JLNYH49?tag=rvgearlab-amz-20",
     "description": "The HQUA-TWS-12 is a 55 watt, 12 GPM unit that measures 21 inches long and 3.5 inches wide. It is listed with 3/4 inch MNPT connections, a 9,000 hour UV lamp and an extra lamp and quartz sleeve in the box.\n\nIt is the shortest body of the group, drawn after a Big Blue style design, which helps in a cramped utility space. It costs more than the Geekpure and OWS-12 and ships with fewer spares than the Geekpure.\n\nA good fit where wall space is short, such as an RV park pump house or a camp bathhouse. It also comes with a manual for installation.",
     "specs": [
       "55W, 12 GPM, 21 inch body",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41vZDCPBBxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08HW1VRJC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08HW1VRJC?tag=rvgearlab-amz-20",
     "description": "The iSpring UVF55FS has a 37.5 inch 304 stainless reactor chamber, a 12 GPM flow rating and 1 inch MNPT connections. An upgraded ballast adds a flow sensor switch, and mounting clips are included.\n\nAgainst the HQUA models it has the longer dwell time in a larger reactor and a sensor that treats only when water flows. The listing recommends changing the lamp annually and cleaning the quartz sleeve every 6 to 12 months.\n\nRight for a main supply line of 1 inch where you want the sensor. Low power consumption keeps generator load down.",
     "specs": [
       "37.5 inch 304SS reactor",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41mdPQXnGhL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GS1F5831?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GS1F5831?tag=rvgearlab-amz-20",
     "description": "The iSpring UVF20 uses a mercury-free LED UV module rated for up to 8,000 hours, which the listing ties to about two hours of daily use per year of life. It has a built-in automatic flow sensor, a 3/4 inch MNPT connector and a flow rate up to 12 GPM.\n\nNext to the lamp-based units it starts instantly, makes no ozone or odor and skips yearly bulb swaps. The LED design is the newest here and the priciest.\n\nA strong choice for part-time cabins where the unit only runs a couple of hours each day. Fits a standard 3/4 inch line.",
     "specs": [
       "LED UV module, 8,000 hours",

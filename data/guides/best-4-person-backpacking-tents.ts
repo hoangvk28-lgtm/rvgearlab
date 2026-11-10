@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31JEQtKPiAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B083QX3D3Z?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B083QX3D3Z?tag=rvgearlab-amz-20",
     "description": "The Forceatt has an internal size of 102 by 94.5 by 63 inches for four people, with PU3000 to PU5000 coated polyester on the rainfly, groundsheet and bathtub floor. It uses 7001 aluminum poles, two D-shaped doors and two side vestibules.\n\nIt is the most expensive tent here and the one that pairs aluminum poles with a high-coating waterproof listing. Compared with the Clostnature, it offers more floor length and a taller 63 inch peak.\n\nIt suits groups who want a four-person tent with aluminum poles and storage space for packs. Its listing claims set up in about three minutes.",
     "specs": [
       "102 x 94.5 x 63 in inside",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41XP3ccIaiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B082GT1BVZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B082GT1BVZ?tag=rvgearlab-amz-20",
     "description": "The Clostnature has a 7 ft 3 in by 7 ft 8 in floor with a 4 ft 7 in center height and two lightweight aluminum poles in a freestanding design. X-shaped cross-braces strengthen the structure, and PU 5000 coated polyester covers the fly, floor and bathtub.\n\nIts two-pole freestanding frame is simpler than the Forceatt, and at roughly two thirds of the price it provides a similar waterproof coating. The kit adds an emergency pole repair splint and 14 aluminum stakes.\n\nIt suits backpackers who value a fast pitch and a pole repair kit. Full mesh walls help in warm weather.",
     "specs": [
       "7'3\" x 7'8\" floor, 4'7\" peak",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21cPM2UU5LL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F2TFHYC2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F2TFHYC2?tag=rvgearlab-amz-20",
     "description": "This 4-person tent is described as ultralight and packs to 16.5 by 5.1 by 5.1 inches. Its listing claims a coating rating above 2000 mm PU, waterproof seams, rust-resistant zippers and aluminum poles over 8.4 mm thick.\n\nIt publishes its packed size and is marketed as a four-season design. Compared with the Clostnature, it lists a lower coating figure.\n\nIt suits budget backpackers who want a compact pack and aluminum poles. The tent is a generic-brand listing.",
     "specs": [
       "16.5 x 5.1 x 5.1 in packed",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41TOKPvd7ZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F7J4WP6H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F7J4WP6H?tag=rvgearlab-amz-20",
     "description": "The Wakeman is a 4-person dome tent measuring 8 ft 6 in by 7 ft by 4 ft 8 in with a 59 inch center height. It has fiberglass poles, a large D-style door, a removable rainfly, mesh walls and a built-in organizer pocket.\n\nIts fiberglass poles are heavier than aluminum, and the 600MM coating is lower than the Clostnature. In exchange it costs much less and offers a roomy floor.\n\nIt suits car-to-trail campers who want a roomy dome for a low price. The listing mentions backpacking and beach use.",
     "specs": [
       "8'6\" x 7' x 4'8\" floor",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31lbFBXxP+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08RJ92BGM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08RJ92BGM?tag=rvgearlab-amz-20",
     "description": "The CAMEL CROWN is sold in 2, 3, 4 and 5-person sizes with a polyester shell, 8.5 mm glass fiber poles and a 150D Oxford floor with PU2000. The kit includes four windproof ropes and eight stakes, and the top is double-layered with mosquito-proof screens.\n\nIts price is the lowest in this comparison, and the listed PU2000 coating sits below the Forceatt and Clostnature. That makes it a casual-camping tent rather than a serious trail tool.\n\nIt suits first-time campers on a tight budget. Select the 4-person size when ordering.",
     "specs": [
       "Sizes 2 to 5 person",

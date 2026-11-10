@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31-uwB2IQ8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B072T34MZY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B072T34MZY?tag=rvgearlab-amz-20",
     "description": "The Skechers On-the-Go 600 Brilliancy is a women's sport sandal with a lightweight cushioning midsole, a contoured comfort footbed and a soft woven mesh upper. An adjustable hook-and-loop closure and a multi-directional traction outsole add fit and grip, and it is machine washable.\n\nCompared with the Clarks Arla Shore, it is a sportier build with a strap you can tighten. Against the ODOLY Cork Slide, it adds a hook-and-loop closure and a woven upper.\n\nIt suits walkers who want a secure, washable sport sandal. The listing names all-day support.",
     "specs": [
       "Cushioned midsole, contoured footbed",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31IRKrirM4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CSMN1X4W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CSMN1X4W?tag=rvgearlab-amz-20",
     "description": "The ODOLY Cork Slide is a unisex slide with a contoured cork footbed and arch support, plus dual adjustable buckle straps. The listing says the straps suit narrow, regular and wider feet, and a slip-resistant outsole provides traction.\n\nCompared with the KuaiLu Flip Flops, it adds buckle straps and a cork footbed. Against the Skechers On-the-Go, it is an open slide with simpler lines.\n\nIt suits walkers who want arch support at a low price. It works for both men and women.",
     "specs": [
       "Contoured cork footbed",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21reHpzAmQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B4WXRP8K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B4WXRP8K?tag=rvgearlab-amz-20",
     "description": "The Clarks Arla Shore is a women's flat sandal with a textile upper and a high-rebound Cushion Soft foam inlay hidden inside the shoe. The sole is lightweight and flexible with a 1.57 inch heel height.\n\nAgainst the Clarks Breeze Sea, it adds a cushion inlay and an upper with more coverage. Compared with the Aomigoct Dressy, it is simpler in design and brand-backed.\n\nIt suits walkers who want a soft, light dressy sandal. The listing says it absorbs the impact of every step.",
     "specs": [
       "Cushion Soft foam inlay",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41+hob0nkSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F59TLSPK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F59TLSPK?tag=rvgearlab-amz-20",
     "description": "The Aomigoct Dressy is a women's flat sandal with a lightweight padded insole, an adjustable buckle and elastic ankle strap, and non-slip TPR soles. Layered woven leather straps give it a minimalist look.\n\nCompared with the Clarks Arla Shore, it adds an adjustable buckle and an elastic ankle strap. Against the KuaiLu Flip Flops, it offers more strap hold and a dressier look.\n\nIt suits office, travel and beach outings where style matters. The listing says it works for shopping and beach weddings.",
     "specs": [
       "Padded insole, TPR soles",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31qITiHkA0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07GJS8NHR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07GJS8NHR?tag=rvgearlab-amz-20",
     "description": "The Clarks Breeze Sea is a flip-flop style sandal with a blue-gray synthetic upper, a subtle strap closure and a super-lightweight sole. The listing gives a 30mm heel height.\n\nCompared with the Clarks Arla Shore, it uses a thong style with no cushion inlay mention. Against the KuaiLu Flip Flops, it is a brand-backed, lightweight option.\n\nIt suits casual beach and pool-side walks. The listing keeps details minimal.",
     "specs": [
       "Synthetic upper, subtle closure",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41gJ+uuSkxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7V6KLKF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7V6KLKF?tag=rvgearlab-amz-20",
     "description": "The KuaiLu Flip Flops have a cushioned yoga-mat footbed made of memory foam EVA, arch support and a non-slip rubber sole with deep texture. A soft cloth bow strap gives them a dressy-casual look.\n\nCompared with the Aomigoct Dressy, it adds arch support and memory foam at a lower price. Against the Clarks Breeze Sea, it lists cushioning and arch support.\n\nIt suits budget travelers, resort visitors and cruise walkers. The listing names resort, cruise and travel.",
     "specs": [
       "Memory foam EVA footbed",

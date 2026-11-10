@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/313vISEayhL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B007RYMT7O?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B007RYMT7O?tag=rvgearlab-amz-20",
     "description": "PENTAIR SHURFLO 4048-153-E75 is a high-flow RV fresh water pump delivering up to 4.0 GPM at 55 PSI. The listing says it has a four-chamber diaphragm, self-primes to 6 feet and runs dry safely, with a Santoprene diaphragm, EPDM seals and an integrated check valve.\n\nAgainst Klanata, it has more flow and a longer track record. Against Triumilynn, it moves more water at the same pressure.\n\nIt is the best match for fifth wheels with several fixtures. Think of it as the pick for multi-fixture fifth wheels.",
     "specs": [
       "12V, 4.0 GPM, 55 PSI",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41up0RNCKPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GH6B59JS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GH6B59JS?tag=rvgearlab-amz-20",
     "description": "WASSERMANN 12 volt pump delivers 3.5 GPM at 45 PSI and is sold to replace 2088-554-144 pumps. The listing says it uses a three-chamber diaphragm with an automatic pressure switch and overheating protection.\n\nAgainst SHURFLO 4048, it has lower flow and lower shut-off pressure. Against Klanata, it names the model it replaces.\n\nIt suits owners replacing a 2088 series pump. Buyers focused on 2088 replacements will find it a sensible match.",
     "specs": [
       "12V, 3.5 GPM, 45 PSI",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411xp+l2WyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CQL2KCP3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CQL2KCP3?tag=rvgearlab-amz-20",
     "description": "Triumilynn is a 12 volt pump compatible with 4008-101-E65 and 4008-101-A65 with the same mounting footprint, port size and wiring. The listing says it gives 3.0 GPM at 55 PSI, primes to 9 feet and has thermal and dry-run protection.\n\nAgainst WASSERMANN 2088, it targets 4008 pumps. Against SHURFLO 4048, it has less flow.\n\nIt suits owners replacing a 4008 series pump. It earns its slot for 4008 replacements.",
     "specs": [
       "12V, 3.0 GPM, 55 PSI",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41l0-Bb7jOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BVMDL77Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BVMDL77Y?tag=rvgearlab-amz-20",
     "description": "ECO-WORTHY 12V is a 3.5 GPM pump with a 45 PSI pressure switch, self-priming to 9.8 feet and a lift of about 9 feet. The listing says it has thermal overload protection and can run dry without damage.\n\nAgainst WASSERMANN 2088, it costs less and states priming height. Against Klanata, it states thermal protection.\n\nIt suits budget buyers who need 3.5 GPM at 45 PSI. It is a natural fit for budget replacements.",
     "specs": [
       "12V, 3.5 GPM, 45 PSI",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41MdNnwrM7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HFFRWY7Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HFFRWY7Y?tag=rvgearlab-amz-20",
     "description": "Klanata is a 12 volt self-priming pump with 3 GPM flow and a 50 PSI maximum, described as a direct replacement for similar demand pumps. The listing says it is engineered for reduced operating noise.\n\nAgainst WASSERMANN 2088, it has less flow and a bit more pressure. Against Triumilynn, it names no model.\n\nIt suits owners who care about noise in living areas. Think of it as the pick for quiet cabins.",
     "specs": [
       "12V, 3 GPM, 50 PSI",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41TvzFNAbcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0006JJ588?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0006JJ588?tag=rvgearlab-amz-20",
     "description": "Camco Permanent Pump Converter Winterizing Kit has a brass 3-way valve and a siphon tube so the RV pump circulates antifreeze through the plumbing. The listing says it installs inline with a pump that has 1/2 inch 14 NPT or NPSM ports.\n\nAgainst the pumps, it is a winterizing part. Against Triumilynn, it works with many pumps.\n\nIt suits fifth wheel owners who winterize each season. Buyers focused on winterizing will find it a sensible match.",
     "specs": [
       "Brass 3-way valve kit",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ucXpPwdaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CL8L5RPQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CL8L5RPQ?tag=rvgearlab-amz-20",
     "description": "The Platypus QuickDraw is a 1 liter ultralight filter system that squeezes at 3 liters per minute and runs at 1.75 liters per minute as a gravity filter. A ConnectCap threads onto any 28mm bottle and the wide-mouth reservoir has a handle for quick filling.\n\nIts flow rate is the fastest here, well beyond the 1 liter per minute of the Katadyn pump. Compared with the gravity bags, it packs smaller and works as a squeeze filter in seconds.\n\nIt suits backpackers and thru-hikers who want speed and low pack space. It cleans by shaking or backflushing with no tools.",
     "specs": [
       "3 L/min squeeze, 1.75 gravity",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31JUVa+MtUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B075TTTX2R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B075TTTX2R?tag=rvgearlab-amz-20",
     "description": "The Katadyn Hiker Pro is an 11.2 ounce hand pump microfilter delivering 1 liter per minute. It uses a 0.2 micron glass fiber cartridge rated to 1,150 liters, activated carbon for taste, a filter protector and a pre-filter on the intake hose.\n\nIt is the most durable and clear to service of the group, with a transparent body that shows the cartridge. Compared with the Platypus QuickDraw, it filters straight into a bottle or hydration pack with no squeezing.\n\nIt suits backpackers who filter silty or murky water and like a pump that reaches into shallow sources. The three-step setup is simple.",
     "specs": [
       "11.2 oz, 1 L/min pump",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41bUntigrYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B086QNLBB4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B086QNLBB4?tag=rvgearlab-amz-20",
     "description": "The Waterdrop Gravity set pairs a 0.1 micron ultrafiltration straw with a 1.5 gallon gravity-fed bag. The straw filter is rated for up to 1,400 gallons (5,300 liters) at a flow rate up to 700 ml per minute, with a backwash function and both ends detachable.\n\nIt filters hands-free once the bag is hung, which suits camp chores. Compared with the MultiSavePuls, it lists a longer lifespan and a faster flow rate.\n\nIt suits groups and base-camp cooks who want filtered water without effort. The straw can also connect to bottles.",
     "specs": [
       "0.1 micron, 5,300 L rating",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41iqcbKxsxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FD7D186Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FD7D186Q?tag=rvgearlab-amz-20",
     "description": "The MultiSavePuls gravity system has a 3 liter bag and a built-in 0.1 micron hollow fiber filter, listed as removing 99.9999 percent of harmful substances plus microplastics, sand and sediment. It states FDA, food-grade and BPA-free materials and includes a sediment collector at the bottom.\n\nIt holds more per fill than the Waterdrop set and costs less. The sediment collector needs time to settle before filtering.\n\nIt suits cooks and groups who need a large water supply at the lowest price. The 3 liter bag covers cooking and hydration.",
     "specs": [
       "3L bag, 0.1 micron",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31p4o4RSGzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B006QF3TW4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B006QF3TW4?tag=rvgearlab-amz-20",
     "description": "The LifeStraw Personal filter removes 99.999999 percent of waterborne bacteria and 99.999 percent of waterborne parasites, and filters down to 1 micron for microplastics. It lists a 4,000 liter lifespan and laboratory tests following EPA, NSF and ASTM protocols.\n\nIt is the lightest and cheapest of the five, and it has no moving parts. Compared with the Platypus QuickDraw, it filters only by sipping, with no bottle fill.\n\nIt suits backpackers who carry a backup or travel light. It also works for emergency kits.",
     "specs": [
       "Bacteria and parasite removal",

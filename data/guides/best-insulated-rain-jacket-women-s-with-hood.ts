@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41e759+LtqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GJ4LVKVL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GJ4LVKVL?tag=rvgearlab-amz-20",
     "description": "The iCreek 3-Layer is a long softshell rain jacket with an outer waterproof layer, a TPU membrane in the middle and an inner fleece lining. The hood is fixed, the collar is high, and the full zip, button placket and hook-and-loop cuffs seal out wind and rain.\n\nAgainst the MoFiz Softshell, it adds a membrane and a longer cut. Compared with the Diamond Candy Velvet, it uses fleece for the lining and a placket seal that suits colder rain.\n\nIt suits women who hike or commute in cold rain and want a jacket that stays warm without a mid layer. The invisible drawstring waist adjusts the shape.",
     "specs": [
       "Waterproof shell, TPU membrane",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31MnbJoFb4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BJCYMZ6Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BJCYMZ6Q?tag=rvgearlab-amz-20",
     "description": "The 33,000ft Removable Hood is a long softshell with a three-layer fabric, described as waterproof and windproof, and a polar fleece lining. It has two outside zippered security pockets, two large inner patch pockets, an adjustable detachable hood and a stand collar with adjustable waist drawstrings.\n\nCompared with the iCreek 3-Layer, it adds a detachable hood and more pockets. Against the 33,000ft Fixed Hood, it lists a stronger waterproof claim.\n\nIt suits women who want to take the hood off for town or heat. The long cut covers the hips.",
     "specs": [
       "Waterproof 3-layer softshell",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41qK4nTAcFS._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08XW29P3X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08XW29P3X?tag=rvgearlab-amz-20",
     "description": "The Diamond Candy Velvet is a lightweight waterproof and windproof rain jacket with a 180g mercerized velvet lining. It has a large removable hood, a high collar, adjustable cuffs, two zippered hand pockets, a chest pocket and an inner pocket.\n\nCompared with the iCreek 3-Layer, it is lighter and lacks bulky padding. Against the URBAN REPUBLIC Slicker, it adds a waterproof claim and a lined interior.\n\nIt suits women who want light warmth for layering and wet days in spring and fall. The listing recommends it as an outer layer over shirts and sweaters.",
     "specs": [
       "Waterproof, windproof shell",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31BSlotJ62L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H94T24Z1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H94T24Z1?tag=rvgearlab-amz-20",
     "description": "The MoFiz Softshell is a fleece-lined softshell with water-repellent, breathable outer fabric and a polyester lining. It has a removable hood, a high zipper collar, two outside zippered pockets with reflective pullers, two inside pockets and a hideaway drawcord at the waist.\n\nCompared with the iCreek 3-Layer, it is water repellent rather than waterproof and costs similar. Against the Diamond Candy Velvet, it adds fleece warmth and reflective zipper pullers.\n\nIt suits women who want a flexible, breathable softshell for drizzle and wind. The 2-way zipper helps with movement.",
     "specs": [
       "Water-repellent, breathable fleece softshell",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41k3qde8lhL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09WDGMWJG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09WDGMWJG?tag=rvgearlab-amz-20",
     "description": "The 33,000ft Fixed Hood is a hooded softshell with spandex in the shell for flexibility and a polar fleece lining. It has a water-resistant and windproof shell, a fixed adjustable hood, double storm flaps with snap closure, a chin guard and two zippered hand pockets.\n\nCompared with the 33,000ft Removable Hood, it has a fixed hood and fewer pockets. Against the MoFiz Softshell, it adds spandex stretch and storm flaps.\n\nIt suits women who want a stretchy, fleece-lined jacket for sudden light rain. The 2-way front zipper helps with motion.",
     "specs": [
       "Spandex-blend softshell, fleece lining",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41lv20MwpfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B078YYT56W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B078YYT56W?tag=rvgearlab-amz-20",
     "description": "The URBAN REPUBLIC Slicker is a lightweight, water-resistant rain jacket with a hood, deep pockets and an easy layering fit. The listing describes a lightweight shell and a clean silhouette.\n\nIt is simpler and lighter than the softshell picks, and the insulation is minimal. Compared with the Diamond Candy Velvet, it has no waterproof claim and a plainer lining.\n\nIt suits walkers who need a light, hooded layer for damp days. The pockets are deep and the cut is relaxed.",
     "specs": [
       "Lightweight water-resistant shell",

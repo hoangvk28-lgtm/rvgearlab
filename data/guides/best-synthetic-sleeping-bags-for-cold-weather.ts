@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31HdmVIMi0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09QDQGHDM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09QDQGHDM?tag=rvgearlab-amz-20",
     "description": "The Browning Denali is a mummy titled -30 degrees with TechLoft Silver synthetic fill in a two-layer offset build. It carries 122 oz of fill, weighs 9 lb 9 oz in total and measures 86 by 38 inches, with a 210T nylon ripstop shell.\n\nNo other bag in this guide approaches its cold margin, and the chest baffle helps stop heat from escaping at the zipper. Against the WKFAMOUT it is built for winter, where the WKFAMOUT is built for space.\n\nIt suits winter campers who haul gear by sled or park beside camp. The internal mesh pocket holds small items overnight.",
     "specs": [
       "-30 degree titled mummy",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/417NnOhOHzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GHXVMR19?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GHXVMR19?tag=rvgearlab-amz-20",
     "description": "The WKFAMOUT opens to 90 by 39 inches for campers up to 6 ft 7 in. Its quilted dual-layer synthetic fill is machine washable, and the page states a 30F comfort rating.\n\nCompared with the Browning, it is far lighter to carry and cheaper, and it can zip to a second bag for couples. It is the better fit for chilly rather than freezing nights.\n\nIt suits big and tall campers and couples who camp from a vehicle in fall. The wide cut leaves room for layers.",
     "specs": [
       "90 x 39 in, comfort 30F",

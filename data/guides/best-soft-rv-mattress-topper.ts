@@ -27,7 +27,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41fiJ3oQMqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FVY5JGFD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FVY5JGFD?tag=rvgearlab-amz-20",
     "description": "The Niagara Queen RV topper is made from rayon derived from bamboo fiber and fits mattresses 8 to 20 inches deep. It has a deep pocket and extra long stretchy sides, so it wraps around the mattress like a fitted sheet and stays where you put it, even on a bed that gets made and unmade often.\n\nAgainst the Linenspa Plush 3 Inch, it is a cushion pad rather than foam, so it adds softness without much height. That makes it the best fit when a bed sits close to an overhead cabinet or a slide-out. Compared with the Sweetcrispy toppers, the stretch fit and RV-specific sizing mean you spend less time wrestling a rectangle of foam over a short bed.\n\nIt suits RV owners who want a soft, fluffy surface without raising the bed. If your mattress is not painfully firm and you mainly want the camper bed to feel more like a home bed, this is the easiest upgrade, and it also handles a deep mattress up to 20 inches thick.",
     "specs": [
       "Bamboo fiber rayon",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41NtDhiv15L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07MY34QH7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07MY34QH7?tag=rvgearlab-amz-20",
     "description": "The Linenspa 3 inch topper is plush gel infused memory foam with cooling gel. It conforms to curves for pressure relief, which means shoulders and hips sink in while your spine stays supported, a quality a thin fiber pad cannot match.\n\nCompared with the Sweetcrispy 3 Inch, it adds gel cooling and a known brand, at a price about $5 higher. Against the Niagara pad at the same $69.99, it trades the stretch fit for real contouring depth, so it is the pick when the main complaint is a hard bed rather than a flat one. The 3 inch height also gives it more cushion than the 2 inch Sweetcrispy.\n\nIt suits side sleepers needing deep cushion, and anyone whose camper mattress feels like a board. If you have the clearance for three extra inches and want the plushest feel in this guide, this is the strongest choice, particularly for warm campsites where cooling gel is a real comfort.",
     "specs": [
       "3 inch gel memory foam",
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41UyokOaqtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H2VN5LDG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H2VN5LDG?tag=rvgearlab-amz-20",
     "description": "The Sweetcrispy 3 inch queen topper has a removable breathable polyester cover and is marketed for sofa beds and RV beds. It has a non slip bottom, which helps it stay in place on a mattress that gets jostled when the camper moves.\n\nNext to the Linenspa Plush 3 Inch, it costs less and has a removable cover that can be washed, which is a practical advantage in a small camper where spills and dust happen. It gives you the same 3 inch height for deep cushioning, and against the 2 inch Sweetcrispy it offers more contour for side sleepers.\n\nIt suits budget buyers who want soft memory foam for a sofa bed, guest bed or weekend RV mattress. If gel cooling is not a priority and you value an easy-to-wash cover and a low price, this topper gives most of the comfort of the pricier foam.",
     "specs": [
       "3 inch memory foam",
@@ -108,7 +108,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41DWXqGwbnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H8P4J8S1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H8P4J8S1?tag=rvgearlab-amz-20",
     "description": "The Sweetcrispy 2 inch queen topper has the same removable soft cover as the 3 inch model. It is the thinnest memory foam here, so it adds a layer of comfort while raising the bed by a small amount.\n\nCompared with Sweetcrispy 3 Inch, it adds less height and saves about $15. Against the Niagara pad it brings real foam contouring, which the fiber pad does not, and it stays lower than the Linenspa, which makes it easier to fit under cabinets, bunk frames and low ceilings. The washable cover is a shared feature with the 3 inch model.\n\nIt suits low bunks, loft beds and cabs-over where every inch of headroom counts. If you want a moderate softness boost without losing clearance, and you want to spend as little as possible on foam, this is the right topper to try first.",
     "specs": [
       "2 inch memory foam",

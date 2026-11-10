@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31oL+bXefCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09HN1VQFD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09HN1VQFD?tag=rvgearlab-amz-20",
     "description": "The Coleman Cascade 328 is a three-burner propane stove with 28,000 total BTU, push-button InstaStart ignition and Even-Temp burners. It has two wind guards, a removable chrome-plated grate and a built-in carry handle.\n\nIt is the only stove here that pairs three burners with matchless lighting and a carry-friendly size. The Camp Chef Explorer 14 lists far more heat, and the FineFlame lists fewer features.\n\nIt suits families and campers who want a portable three-burner they can put on a picnic table. The even burners heat pans across the whole surface.",
     "specs": [
       "28,000 total BTU, 3 burners",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41QNWNr+D3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00AYU8BUC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00AYU8BUC?tag=rvgearlab-amz-20",
     "description": "The Camp Chef Explorer 14 is a three-burner propane stove with 90,000 total BTU, from three 30,000 BTU blue flame aluminum burners. It has a three-sided windscreen, appliance-style knobs and a 3 foot hose and regulator.\n\nIt lists more than three times the heat of the Cascade 328 and works with Camp Chef 14 inch accessories such as grill boxes and griddles. That makes it a modular camp kitchen, not just a stove.\n\nIt suits big family camps, hunting camps and scout groups cooking in large pots. It also connects to a bulk tank.",
     "specs": [
       "90,000 BTU, 3 burners",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41wQ+dngt0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CSJQHW9J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CSJQHW9J?tag=rvgearlab-amz-20",
     "description": "The ROVSUN is a cast iron propane cooker with a stand, windpanel, carrying bag and CSA-listed regulator. Its legs and windscreen come off, and it measures 34.3 by 17.7 by 35 inches assembled.\n\nThe listing title states 225,000 BTU, far more than the Cascade 328, and the legs bolt on without tools. It sits at standing height, unlike the table-top stoves.\n\nIt suits tailgaters and home-brew or backyard cookers who need serious heat for big pots. Cast iron holds heavy cookware without flexing.",
     "specs": [
       "Title states 225,000 BTU",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51pBJgelDoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09FHYY9J7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09FHYY9J7?tag=rvgearlab-amz-20",
     "description": "The FineFlame is a three-burner propane stove rated at 20,400 BTU that weighs about 10 pounds. Two outer burners with piezo ignition are rated 6,600 BTU each, and a drip tray catches spills.\n\nIt undercuts the Coleman Cascade 328 by a wide margin and connects straight to a 16 ounce propane cylinder with no extra hose. The tradeoff is lower output than the other three.\n\nIt suits budget campers and emergency kits that want three burners without paying brand premiums. Light kitchen duty is its sweet spot.",
     "specs": [
       "20,400 BTU across 3 burners",

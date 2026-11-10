@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41m5w3uKlQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07MVMJDQL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07MVMJDQL?tag=rvgearlab-amz-20",
     "description": "The AIMS 4000W 24V is a low-frequency pure sine inverter charger rated 4000W continuous and 12000W surge, with a 50 amp automatic transfer switch that typically switches in 10ms. It also charges LiFePO4, AGM, gel and lead batteries, so one box replaces a separate converter in a fifth wheel bay. At $1,687 it is the balanced pick here.\n\nIt costs $799 less than the AIMS 6000W and $1,407.01 more than the Sunivora 5000W, and the premium buys the transfer switch and charger rather than raw watts. Pick this if you want shore power and inverter power through one panel with a 24V bank. Caveat: the 24V design needs batteries wired for 24V, and the listing excerpt does not give its weight or footprint, so measure your bay first.",
     "specs": [
       "4000W, 12000W surge",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4160Y-PTrPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07MVMNM44?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07MVMNM44?tag=rvgearlab-amz-20",
     "description": "The AIMS 6000W 24V steps up to 6000W continuous with a listed 18000W surge, plus the same three-in-one inverter, charger and transfer switch layout. At $2,486 it is the only pick here with enough headroom to run a roof air conditioner while a microwave is on.\n\nIt costs $799 more than the AIMS 4000W, and you are paying for the extra 2000W of capacity and a larger surge buffer. Pick this if your fifth wheel has two air conditioners or you want to cover the whole coach during an outage. Caveat: that capacity needs a very large 24V lithium bank to run for more than a few minutes, and the excerpt does not list weight.",
     "specs": [
       "6000W, 18000W surge",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51FI8-VdBTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DNW39T4V?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DNW39T4V?tag=rvgearlab-amz-20",
     "description": "The Sunivora 5000W is a 12V pure sine inverter rated 5000W continuous with 10000W surge, four AC outlets, a 5V 4A USB port and a remote with LCD. At $279.99 it is the cheapest route to big wattage, and it is a stand-alone inverter with no charger or transfer switch listed.\n\nIt is $1,407.01 below the AIMS 4000W, which is the gap between a plain inverter and a full inverter charger system. Pick this if you already have a separate converter charger and just want strong AC in a bay. Caveat: 5000W at 12V is roughly 417 amps, so the cable and fuse upgrade can cost more than the unit.",
     "specs": [
       "5000W, 10000W surge",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51cHSA1391L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FW54M994?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FW54M994?tag=rvgearlab-amz-20",
     "description": "The Jlouneo 3500W is a 12V pure sine inverter with 7000W surge, built for AGM, gel and LiFePO4 batteries, with a remote and LCD. At $249.99 it covers a fifth wheel's lighter loads, such as a microwave, TV and coffee maker, without a 24V conversion.\n\nIt is $30.00 less than the Sunivora 5000W with 1500W less capacity, and $1,437.01 below the AIMS 4000W. Pick this if you want simple 12V backup for small appliances. Caveat: it will not start a 13,500 BTU air conditioner reliably, and the listing excerpt gives no transfer switch, weight or dimensions.",
     "specs": [
       "3500W, 7000W surge",

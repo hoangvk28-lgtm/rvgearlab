@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41kuJws8TwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F2MR9CF6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F2MR9CF6?tag=rvgearlab-amz-20",
     "description": "The Xynover pairs a 20,000mAh power hub with an oscillating fan and six lighting modes, from warm white and cool daylight to emergency strobe. Three wind speeds start at a gentle 28 dB breeze, and a remote adjusts it all.\n\nAgainst the DUKUSEEK, it holds far more energy and adds oscillation. It also hangs magnetically on metal surfaces, sits on a desk or hangs in a tent.\n\nIt suits campers who want a fan, a light and a charging bank in one hanging unit. The 20,000mAh cell can charge a phone via the USB and Type-C ports.",
     "specs": [
       "20,000mAh, 28 dB low speed",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41GJK-GMfoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09WXZYT87?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09WXZYT87?tag=rvgearlab-amz-20",
     "description": "The DUKUSEEK combines a camping lantern, a hanging fan and an emergency power bank in one small unit. It uses a brushless motor, a remote with timer mode and a high-strength ABS body, and lists CE and FCC certification.\n\nCompared with the Xynover, it is smaller, lighter and simpler. It gives up the oscillation and the large battery for compact hanging.\n\nIt suits solo tents and hammocks where a small fan that doubles as a lantern is enough. The remote and timer make bedtime simple.",
     "specs": [
       "3-in-1 fan, lantern, power bank",

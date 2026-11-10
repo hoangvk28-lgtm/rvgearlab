@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41FK9EfjVBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DP4LTRMG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DP4LTRMG?tag=rvgearlab-amz-20",
     "description": "The ECO-WORTHY Cubix100 is a 48V (51.2V) 100Ah rack battery whose listing says it carries UL9540, UL1973 and CEC listing after Intertek testing. It has CAN and RS485 ports for closed-loop communication with integrated solar inverters, built-in Bluetooth and WiFi, and ships with parallel cables, communication cables, grounding wires and terminal covers. Up to 32 units can be paralleled, and the listing states a ten-year limited warranty.\n\nIt ranks first because the safety listings are the most complete here. It costs $220 more than the NebuQuic and $330 more than the DATOUBOSS, which is the price of the three named certifications and the WiFi. It is $10 cheaper than the Wattcycle, which adds an LCD touchscreen and named Victron compatibility but has fewer stated listings.\n\nChoose it for a fixed or coach installation where an inspector or insurer may ask for UL listings. The caveat is that the listing text does not state weight or dimensions, so check the product drawing before building a mount.",
     "specs": [
       "51.2V 100Ah, 5.12kWh",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41yJrF+ut5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FPWTMFLC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FPWTMFLC?tag=rvgearlab-amz-20",
     "description": "The NebuQuic is a 51.2V 100Ah, 5.12kWh battery in a standard 3U rack case with a 100A BMS, a Bluetooth app showing voltage, current, capacity and temperature, and CAN and RS485 ports for inverter communication. The listing cites 6,000 plus cycles, UL9540A safety certification and CEC efficiency certification. It names RVs among its uses and supports parallel expansion.\n\nIt ranks second: it is $110 more than the DATOUBOSS but adds the Bluetooth app and the stated UL9540A and CEC certifications, and it is $220 cheaper than the ECO-WORTHY, which has fuller UL listings. At $669.99 it is about $131 per kilowatt-hour.\n\nPick it for the cheapest route to a certified, app-monitored 48V battery. The caveat is that the listing gives no weight or dimensions, and its 100A BMS means about 5,120W maximum, so a 6,000W inverter would need two.",
     "specs": [
       "51.2V 100Ah 3U rack",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41DSsc-p0pL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G5YFJQH1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G5YFJQH1?tag=rvgearlab-amz-20",
     "description": "The Wattcycle 51.2V 100Ah is a 3U rack battery measuring 19.09 by 17.72 by 5.24 inches and weighing 91.9 pounds. It delivers 5,120Wh with up to 5,120W of output from 102Ah EV-grade A+ cells rated for 15,000 plus cycles at 60 percent depth of discharge, and its full-metal case operates from minus 4°F to 149°F. An LCD touchscreen and Bluetooth 5.0 show status, and CAN, RS485 and RS232 ports are listed, with Victron and Schneider named as compatible inverter brands.\n\nIt ranks third because at $899.99 it costs $230 more than the NebuQuic and $340 more than the DATOUBOSS, and is the most expensive pick. In return it gives the clearest weight and size data, the explicit temperature range and a named inverter-compatibility statement. It is $10 above the ECO-WORTHY, which has more safety listings.\n\nChoose it if you plan a Victron or Schneider inverter system and need exact dimensions to build a mount. The caveat is the highest price per kilowatt-hour here, about $176, and that the listing does not name UL listings.",
     "specs": [
       "19.09 x 17.72 x 5.24 inches",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41twDoLTyKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HJ2NZV9Z?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HJ2NZV9Z?tag=rvgearlab-amz-20",
     "description": "The NewtiPower 48V 100Ah is a 5,120Wh rack battery with a 200A BMS and a maximum continuous load of 10.2kW according to its listing. It supports up to six identical units in parallel for 600Ah, lists a ten-year activable warranty, and describes Grade-A cells and a compact case. The listing names RVs, travel trailers and caravans among its uses.\n\nIt ranks fourth. It costs $60 more than the NebuQuic and $170 more than the DATOUBOSS, but is the only pick other than TEMGO with a 200A BMS, so one battery can feed about 10kW instead of 5kW. Against the TEMGO it is $39.50 cheaper and comes in a rack format rather than a golf cart case.\n\nPick it when a single battery has to feed a large inverter, for instance a 8,000W unit. The caveat is that the listing does not give weight, dimensions or named safety listings, and parallel expansion stops at six units.",
     "specs": [
       "51.2V 100Ah, 200A BMS",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41agQf1kavL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HJZ5QD4Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HJZ5QD4Q?tag=rvgearlab-amz-20",
     "description": "The DATOUBOSS 48V 100Ah is the cheapest battery here at $559.99, about $109 per nominal kilowatt-hour. It is a 3U rack unit weighing 94.8 pounds with a 100A smart BMS, RS232, RS485 and CAN communication, and a claim of over 15,000 cycles from automotive-grade A cells. The listing says it ships with parallel wires, communication cables, grounding wires and terminal screws.\n\nIt ranks fifth only because the listing is lighter on certifications: it does not name any UL listing, and monitoring is described only as a mobile app. It costs $110 less than the NebuQuic and $330 less than the ECO-WORTHY, so the saving is large enough to buy a monitor.\n\nChoose it for a protected, heated space where price is the main concern and the inverter supports the listed communication protocols. The caveat is the thinner documentation, so ask the seller for the BMS current and certification paperwork before you buy.",
     "specs": [
       "51.2V 100Ah, 94.8 lb",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51GHUFoQfJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F23HZ1DQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F23HZ1DQ?tag=rvgearlab-amz-20",
     "description": "The TEMGO 48V 100Ah is sold as a golf cart upgrade kit, with a 58.4V 18A charger, a 2.8-inch LCD touch display and a retention strap in the box. It has a Bluetooth 200A BMS rated for 200A continuous and 600A for three seconds, up to 10.24kW, and the listing says up to four units can be paralleled for 20.48kWh. It uses an ABS case and claims 5,000 plus cycles at 80 percent depth of discharge.\n\nIt ranks last because it is a golf-cart-format battery with a charger included, not a rack battery with inverter communication ports. It costs $39.50 more than the NewtiPower and $209.50 more than the DATOUBOSS, but is the only one here that includes a charger. The listing names RVs and home storage among uses, though it is aimed at 48V golf carts and utility carts.\n\nPick it if you have a 48V controller or inverter that does not need CAN or RS485 communication and you want a charger in the box. The caveat is that the listing does not mention inverter communication ports at all, so check compatibility before you use it with a solar inverter.",
     "specs": [
       "51.2V 100Ah, 200A BMS",

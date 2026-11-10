@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ssARTHuWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FZB637Q1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FZB637Q1?tag=rvgearlab-amz-20",
     "description": "Renogy's REGO is a 50A DC-DC MPPT charger rated IP67 that takes alternator and optional solar input and delivers 720W. The REGO is a 50A DC-DC MPPT battery charger rated IP67 with dual input from the alternator and optional solar. It delivers 720W, starts when it senses 13.2V or more for 15 seconds, and needs no ignition wire.\n\nIt is more rugged than Renogy 50A Smart DC-DC and ATEM POWER 60A and starts by sensing voltage, so no ignition wire is needed. The price of that sealing is the highest cost in this list.\n\nBest for a rig that wants a sealed, high-power alternator charger. Choose it when you want a waterproof, high-power alternator charger and can accept a premium price.",
     "specs": [
       "50A DC-DC, 720W",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Q4vUaQqrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C5LXB92B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C5LXB92B?tag=rvgearlab-amz-20",
     "description": "Renogy's 50A Smart DC-DC adds an RJ45 port for monitoring and lists compatibility with traditional and smart alternators. This Renogy 50A unit is a DC-DC charger with built-in MPPT and dual input, charging a service battery from an alternator or solar. The listing cites up to 99% efficiency, a three-phase profile (bulk, boost, float), compatibility with traditional and smart alternators and an RJ45 monitoring port.\n\nIt costs less than Renogy REGO 50A but is not listed as IP67 waterproof. Compared with Renogy 50A MPPT Dual it adds the monitoring port.\n\nBest for a trailer or camper wanting alternator charging at 50A. It is the straightforward 12V pick for a trailer or camper that needs alternator charging.",
     "specs": [
       "50A DC-DC with MPPT",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/412NkvfNcOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BY7TGX7C?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BY7TGX7C?tag=rvgearlab-amz-20",
     "description": "ATEM POWER's 60A charger has an Anderson plug solar input and MPPT. ATEM POWER's 60A charger is a DC-DC unit with an Anderson plug solar input and MPPT, using the vehicle alternator to charge house batteries. The listing aims it at caravans, trailers and 4WDs.\n\nIt has the highest listed current here, 10A above Renogy 50A Smart DC-DC, and it needs matching heavy cable and an Anderson-style plug on the solar side.\n\nBest for caravans and 4WD builds that need the most current. It is the highest-amp option, so budget for heavy cable and a properly sized fuse.",
     "specs": [
       "60A DC-DC, Anderson solar plug",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41EBamubY3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B093BB5JKF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B093BB5JKF?tag=rvgearlab-amz-20",
     "description": "Renogy's 50A MPPT Dual has a soft-start circuit and removable side covers for a cleaner install. This Renogy 50A DC-DC charger with MPPT has a dual-charging input and a soft-start circuit that raises voltage gradually at the input. Removable side covers protect the terminals from contact and static during installation.\n\nIt is close to Renogy 50A Smart DC-DC but is described around its soft start rather than a monitoring port. It is 12V only.\n\nBest for a first-time DC-DC install. It is a close sibling of the Smart 50A, so choose the one that matches your monitoring needs.",
     "specs": [
       "50A DC-DC MPPT, 12V",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/413OpqhmqcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F6V4DPZG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F6V4DPZG?tag=rvgearlab-amz-20",
     "description": "VEBU's 40A DC-DC is fanless and silent, with labeled solar, alternator and battery terminals. VEBU's 40A DC-DC charger with MPPT is fanless and silent and takes dual input from the alternator and solar panels. The listing gives profiles for STD, Gel, AGM, Cal and LiFePO4 batteries and clearly labels the solar input, alternator input and battery terminals.\n\nIt sits between VEBU 20A and the 50A Renogy units, with the same fanless design. It lists STD, Gel, AGM, Cal and LiFePO4 profiles.\n\nBest for a mid-size trailer where silence matters. It is the middle pick for a mid-size trailer with a modest house bank.",
     "specs": [
       "40A DC-DC, MPPT",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41cuzZus6GL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F6TXYPQG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F6TXYPQG?tag=rvgearlab-amz-20",
     "description": "VEBU's 20A DC-DC is the smaller fanless unit with the same dual input. The VEBU 20A is the smaller sibling of the 40A: a fanless DC-DC charger with MPPT and dual input from the alternator and solar panels. It supports STD, Gel, AGM, Cal and LiFePO4 batteries.\n\nIt costs less than VEBU 40A and charges more slowly, which suits a small house battery better than a large bank.\n\nBest for a small camper or van. Choose it for a small camper where a 20A output matches a small house battery.",
     "specs": [
       "20A DC-DC, MPPT",

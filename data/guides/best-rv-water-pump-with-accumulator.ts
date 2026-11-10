@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4181W3BQpHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07QN8D18H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07QN8D18H?tag=rvgearlab-amz-20",
     "description": "The SEAFLO 55 Series system pairs a 12V pump at 5.5 GPM and 60 PSI with a 2 gallon pre-pressurized accumulator tank. It self-primes to 6 feet, can run dry and carries a 4-year warranty.\n\nIt carries the largest tank and the best documentation in the group. The listing says the tank works with the five-chamber pump to reduce cycling.\n\nA strong choice for full-timers who want a complete, documented pump station. Worth noting on the listing: run-dry capable.",
     "specs": [
       "5.5 GPM at 60 PSI, 12V",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/416R2vSntEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GBWT52JG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GBWT52JG?tag=rvgearlab-amz-20",
     "description": "The Kohree set pairs a five-chamber 110V pump at 7.5 GPM and 70 PSI with a 1 L pre-pressurized accumulator tank at 125 PSI. Rubber feet and a shock-proof plate reduce noise.\n\nIt has the highest flow and the AC supply, which suits hookup rigs. The MRGVFLO kit offers similar parts.\n\nBest for shore-power owners wanting high flow with cycling relief. Worth noting on the listing: 1 L accumulator included.",
     "specs": [
       "7.5 GPM at 70 PSI, 110V",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41AR+FnjMgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FX3LMH73?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FX3LMH73?tag=rvgearlab-amz-20",
     "description": "The MRGVFLO kit pairs a five-chamber 110V pump delivering 7 GPM with a 1 L, 125 PSI accumulator tank. A copper motor, ball bearings and anti-vibration mounts are listed.\n\nIt matches the Kohree system closely at a lower price. The tank is the same size as the Kohree's.\n\nGood for budget-minded shore-power owners. Another reason it earns a slot: 1 L accumulator included.",
     "specs": [
       "7 GPM, 110V, five chambers",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41NZm61PrqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FPCY35PB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FPCY35PB?tag=rvgearlab-amz-20",
     "description": "The GRahckv kit pairs a 12V pump at 6 GPM and 70 PSI with a 0.2 gallon, 125 PSI accumulator tank. It includes hose barbs, PTFE tape, three clamps and a 9.8 foot self-priming lift, with NSK bearings in the pump.\n\nIt has the most complete parts list among the 12V kits. The tank is small beside the SEAFLO 55 system.\n\nA good fit for dry campers who want everything in one box. Another reason it earns a slot: 12V battery operation.",
     "specs": [
       "6 GPM at 70 PSI, 12V",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41MqfBcmo2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DWNCPPB8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DWNCPPB8?tag=rvgearlab-amz-20",
     "description": "The SEAFLO 33 Series system pairs a 115V pump at 3.3 GPM and 45 PSI with a 0.2 gallon accumulator tank. It self-primes to 6 feet, can run dry and uses EPDM valves and a Santoprene diaphragm.\n\nIt is the gentle, lower-flow AC kit, suited to a single-bath trailer. Its pressure is the mildest in the group.\n\nA good fit for hookup owners wanting gentle pressure. Buyers also get this: named valve and diaphragm materials.",
     "specs": [
       "3.3 GPM at 45 PSI, 115V",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41fdh3F7BML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GYVQ4NKC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GYVQ4NKC?tag=rvgearlab-amz-20",
     "description": "The AxleyHub system pairs a 12V pump at 3.0 GPM and 45 PSI with a 0.75 L accumulator tank, full fittings and an inlet strainer. The listing says it lowers noise and water hammer.\n\nIt is the cheapest kit and the gentlest 12V option. It trails the GRahckv in flow.\n\nBest for small trailers replacing a pump on a budget. On the plus side, 12V battery operation.",
     "specs": [
       "3.0 GPM at 45 PSI, 12V",

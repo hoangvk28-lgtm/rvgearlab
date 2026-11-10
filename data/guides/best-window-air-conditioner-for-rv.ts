@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21sRfpjnhGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F2NB88MB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F2NB88MB?tag=rvgearlab-amz-20",
     "description": "The Coleman-Mach Mach 8 Plus is a 15,000 BTU low-profile rooftop unit with a fiberglass base pan and R32 refrigerant. Two motors deliver the same BTUs of cooling on high and low speeds.\n\nWhere the window units need an open sash, the Mach 8 Plus sits on the roof and leaves every window free. It is the most permanent answer here, and the Arsenda is the only other pick that plays in a similar capacity class.\n\nIt fits owners who decided the window route is not for them and want a conventional rooftop solution. The low profile helps on-road efficiency.",
     "specs": [
       "15,000 BTU rooftop",
@@ -53,7 +53,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41VZUAsyvSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GS922THH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GS922THH?tag=rvgearlab-amz-20",
     "description": "The Arsenda 18,000 BTU unit lists 10,236 BTU of heating from a heat pump and is rated for outdoor temperatures from 23°F to 115°F. It operates at 50 dB on a rooftop mount.\n\nIt lists far more cooling than the Midea window units, and it keeps windows free just like the Mach 8 Plus. Unlike the Mach 8, it adds a heat pump for spring and fall.\n\nIt is best for full-timers who want one rooftop system for all seasons. The UV-resistant housing is built for travel.",
     "specs": [
       "18,000 BTU cooling",
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31qf-Bs9QQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CVVQWGH2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CVVQWGH2?tag=rvgearlab-amz-20",
     "description": "The Midea 8,000 BTU Smart Inverter window unit adds heat and a dehumidifier, is Energy Star rated and runs as low as 45 dBA. It fits double hung windows with openings of 24 to 38.5 inches.\n\nNext to the cheaper Midea 8K it adds heating, inverter operation and a smart feature set. Against the 12V and rooftop picks, it needs no roof work at all.\n\nIt suits stationary campers and park models with a standard double hung window. Quiet running makes it a good bedroom unit.",
     "specs": [
       "8,000 BTU window unit",
@@ -109,7 +109,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41pBR4M40WL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GS4R995M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GS4R995M?tag=rvgearlab-amz-20",
     "description": "The Josbuynls is a 12V mini split kit with indoor and outdoor units, a remote and a listed cooling range of 500W to 2200W. The indoor evaporator fan moves 600 cubic meters per hour.\n\nIt is the only complete 12V kit in this list, and it is priced close to the GIZMIT and Midea window units. Unlike them it needs no open window.\n\nIt is made for vans and small rigs running on batteries. The remote lets you adjust it from the bunk.",
     "specs": [
       "12V DC mini split kit",
@@ -136,7 +136,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41s2j1efPAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H9Y822FG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H9Y822FG?tag=rvgearlab-amz-20",
     "description": "The GIZMIT is a compact 4,800 BTU unit that is plug-and-play and listed with a sub 45 dB noise level. It combines cooling, dehumidifying and three fan speeds with a 24-hour timer.\n\nIt has no complicated installation, which sets it apart from the Midea 8K Smart and the rooftop picks. The size is aimed at a small sleeping area rather than a whole coach.\n\nIt works for small campers and vans that need quick relief. Setup is the easiest of any pick here.",
     "specs": [
       "4,800 BTU compact unit",
@@ -163,7 +163,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41-9hmy2B+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FZMD1L1B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FZMD1L1B?tag=rvgearlab-amz-20",
     "description": "The Midea 8,000 BTU window unit is the lowest priced pick here. It offers cooling, dehumidifying and fan modes, a 24-hour timer, sleep mode and a washable filter.\n\nIt adds control from a smart home app, smart watch or voice assistant, which the GIZMIT does not list. Compared with the Midea 8K Smart, it drops the heating function and inverter.\n\nIt is a good fit for shoulder-to-summer use in a stationary camper. The washable filter keeps upkeep simple.",
     "specs": [
       "8,000 BTU window unit",

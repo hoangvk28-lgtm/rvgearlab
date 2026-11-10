@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41UpLGHbTOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HHNDW2JJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HHNDW2JJ?tag=rvgearlab-amz-20",
     "description": "The MWKHZIL lists the Telluride from 2020 to the present and is made of Oxford cloth with a waterproof finish. It attaches around the open rear hatch, with large openings for entry and airflow and a foldable build for storage.\n\nIt is the only Telluride listing that describes both a waterproof coating and a rear hatch sleeve in detail, and it carries the smallest price tag of the five. Against the LSJDNASHD it drops the large door and adds the stronger fabric wording.\n\nIt suits owners who care about rain protection and a lower price. Family trips are the use the listing points at.",
     "specs": [
       "Fits Telluride 2020 to present",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41eP6NG28mL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HHW7WZFR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HHW7WZFR?tag=rvgearlab-amz-20",
     "description": "This unbranded arch tent lists the Telluride 2019 to 2026, the earliest start year of the group. It uses water-resistant fabric and a removable rainfly over a sturdy frame, and it sets up attached or independent.\n\nIts 2019 start year covers an extra model year that the others do not. The removable rainfly gives it a layered option none of the other four mention.\n\nIt suits owners of a 2019 Telluride and campers who want cover they can take off. It is the middle of the price range.",
     "specs": [
       "Fits Telluride 2019 to 2026",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41re95GDTtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HDJ3M487?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HDJ3M487?tag=rvgearlab-amz-20",
     "description": "The XDGDHSH names the Telluride 2020 to 2026 and has two side doors and a front door. It can attach to the rear hatch or stand alone, in a lightweight foldable design with water-resistant fabric.\n\nThree doors give better airflow than the single-door LSJDNASHD and make entry easier for a big family. It costs less than the LSJDNASHD and the unbranded 389.99 listing.\n\nIt suits families that want several ways in and out. Packing is light for a tent that covers a three-row hatch.",
     "specs": [
       "Fits Telluride 2020 to 2026",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41p0SqnEexL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HK7DCZZ6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HK7DCZZ6?tag=rvgearlab-amz-20",
     "description": "The LSJDNASHD lists the Telluride 2020 to the present and has a generously sized entrance for coolers, luggage and sleeping gear. A full-coverage structure protects against sun, wind and light rain, and it has two setup modes, attached or freestanding.\n\nIts single large door is the loading-focused choice, which the three-door XDGDHSH does not match. It is priced in the upper part of the group.\n\nIt suits families who move a lot of gear through the tent. The freestanding mode lets the Telluride leave while the tent stays up.",
     "specs": [
       "Fits Telluride 2020 to present",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41m6NosRjXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HD5XJ1X9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HD5XJ1X9?tag=rvgearlab-amz-20",
     "description": "This tailgate tent lists the Telluride 2020 to the present and describes a large interior for sleeping, relaxing and changing clothes. It is designed for a variety of rear hatch vehicles including SUVs, trucks and vans.\n\nIt has the highest price of the five and says the most about interior space for family and friends. Compared with the others it does not name doors or a rainfly.\n\nIt suits family campers who prioritize room to sleep over extras. The listing asks buyers to check fitment before ordering.",
     "specs": [
       "Fits Telluride 2020 to present",

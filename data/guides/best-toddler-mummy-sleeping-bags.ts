@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/513jVZDZFxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08NWSP8WN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08NWSP8WN?tag=rvgearlab-amz-20",
     "description": "KidzAdventure sells this mummy-shaped kids' bag for 32 to 59F, with the kids size fitting children up to 4 ft 3 in. It weighs about 2 lb, has a pillow sleeve and comes with a backpack-style sack that little ones can carry.\n\nThe 32F low end is the lowest printed on any of the three, and the pillow sleeve keeps a pillow from sliding away in the night. The REDCAMP Kids Mummy is heavier and the AZITREK Walkable is meant for a younger age group.\n\nA good match for preschool and early school-age campers who want a real mummy bag and a four-season label. The mummy shape cuts down the empty space a child must warm.",
     "specs": [
       "32 to 59F mummy",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41t0bvRFblL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07GB1S5BY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07GB1S5BY?tag=rvgearlab-amz-20",
     "description": "REDCAMP measures this kids' mummy at 67 x 25.5 x 19.6 inches, weighs 2.4 lb and prints a 41 to 59F range. It can be folded and zipped to 4 ft 6 in so a smaller child can use it now and a bigger one later.\n\nThe shorten-by-zipping trick is what separates it from the KidzAdventure Mummy 32-59F, which has fixed sizes. A single pull string and Velcro covers over the outer zipper add safety, and the liner will not catch in the zipper.\n\nA fit for parents who want one bag to last a few years. The packed size is 9.8 x 13.3 inches in a bag with carry straps.",
     "specs": [
       "67 inches long, 2.4 lb",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Wxbipv9ML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DHVF5Z2C?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DHVF5Z2C?tag=rvgearlab-amz-20",
     "description": "AZITREK makes this puffy bag for kids aged 2 to 4 (2T to 4T), measuring 42 inches tall, with a PFAS-free, machine-washable, waterproof outer. Sleeves with adjustable cuffs, a draft-tube-protected 2-way zipper and a bottom zipper let a toddler walk around in it.\n\nIt uses a down-like synthetic fiber fill and weighs just over 1 lb, far lighter than the KidzAdventure Mummy 32-59F and REDCAMP Kids Mummy. It is the only bag here made for the 2 to 4 age range.\n\nBest for toddlers who wander at the campsite or need a safer, wearable bag. It suits parents who want a lightweight option.",
     "specs": [
       "Fits ages 2T to 4T, 42 inch",

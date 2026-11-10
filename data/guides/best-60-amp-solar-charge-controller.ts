@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31OgiksE9cL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07SWVPXWM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07SWVPXWM?tag=rvgearlab-amz-20",
     "description": "Ampinvt's 60A MPPT states 150V PV, 900W at 12V up to 3400W at 48V and tracking of 99% or better. Ampinvt's 60A MPPT controller lists a 150V maximum PV input with 900W at 12V, 1700W at 24V, 2700W at 36V and 3400W at 48V, plus an MPPT best working voltage range for each. Tracking is 99% or better with conversion above 98%, and the LCD shows daily generation with several load control modes.\n\nIt is better documented than POWLAND 60A and PowMr 60A DSP and lists MPPT working windows per voltage. It costs more than both.\n\nBest for a 12V to 48V build that wants clear specs. It is one of the better-documented 60A MPPT units, though a 36V bank needs manual adjustment.",
     "specs": [
       "60A MPPT, 12V to 48V",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31wD3gnh2RL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CJNMD32F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CJNMD32F?tag=rvgearlab-amz-20",
     "description": "POWLAND's 60A MPPT covers 12V to 48V with a 150V PV input and a four-level charge. POWLAND's 60A MPPT controller covers 12V to 48V systems with a four-level charge (bulk, boost, float and equalizing) and a 150V PV input limit. Protections include short circuit, open circuit, reverse and overload.\n\nIt costs far less than Ampinvt 60A but lists no tracking figure. It names flooded, AGM, gel and lithium-ion.\n\nBest for a mid-price 150V 60A. It is a mid-price 60A MPPT that suits a larger roof array.",
     "specs": [
       "60A MPPT, 12V to 48V auto",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Jh9aCVRZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08LZDZ6GP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08LZDZ6GP?tag=rvgearlab-amz-20",
     "description": "PowMr's 60A DSP MPPT lists tracking above 98.1% and states PV limits by system voltage. PowMr's 60A MPPT controller lists tracking above 98.1% from a DSP controller and states the maximum PV input per system (80VDC on a 12V system). It is negative ground, auto-detects 12V to 48V and uses a three-stage charge for sealed, gel, flooded and LiFePO4 batteries.\n\nIt costs about the same as POWLAND 60A and publishes more detail, including the 80V cap on 12V. It uses a three-stage charge.\n\nBest for a builder who wants the PV table. Read the system-specific PV table on the listing before you design your string.",
     "specs": [
       "60A MPPT, 12V to 48V",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41rGuVDHxgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DK4LHDSV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DK4LHDSV?tag=rvgearlab-amz-20",
     "description": "PowMr's parallel-version 60A MPPT supports up to 12 units and a charge current set from 2A to 60A. This PowMr 60A MPPT listing is the parallel version, supporting up to 12 units in parallel and a user-set charging current from 2A to 60A. It uses die-cast aluminum with dual cooling and auto-detects 12V, 24V, 36V and 48V systems.\n\nIt matches PowMr 60A DSP on price and adds expansion. Parallel setups add wiring work.\n\nBest for a system you will grow. Pick it if you expect to scale the system later, since you can add controllers instead of replacing one.",
     "specs": [
       "60A MPPT, 12V to 48V",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51paw4y1PgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08GC34CQ5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08GC34CQ5?tag=rvgearlab-amz-20",
     "description": "iSunergy's 60A MPPT lists efficiency of 99.5% or better but a 23V PV cap on 12V. At 60A, iSunergy repeats the same listing pattern: efficiency of 99.5% or better, a large LCD with cumulative generation and two USB ports at up to 2.5A. The stated panel input limit on a 12V battery is only 23V.\n\nIt is far cheaper than POWLAND 60A but cannot take a series string. It is framed for lead-acid batteries.\n\nBest for a cheap 60A MPPT with short, parallel strings. Treat it as a high-current, low-voltage design for parallel wiring rather than a long-string controller.",
     "specs": [
       "60A MPPT, 12V/24V auto",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41kay5KB6GL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B085VQN5RK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B085VQN5RK?tag=rvgearlab-amz-20",
     "description": "PowMr's 60A PWM handles 12V or 24V with a four-stage charge and 780W at 12V. PowMr's 60A PWM controller handles 12V or 24V with a four-stage charge (boost, absorption, equalization, float), 780W at 12V and 1560W at 24V of input and dual USB ports. The listing says it fits lead-acid batteries (open, AGM, gel) and includes adjustable float voltage, low-voltage disconnect and load timers.\n\nIt is the only PWM here and is lead-acid only. It undercuts every MPPT in this list.\n\nBest for a low-cost 60A PWM on a lead-acid bank. It is a low-price answer to 60A of PWM current for a lead-acid bank.",
     "specs": [
       "60A PWM, 12V/24V",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41k3RLPjcnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D81PZWBS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D81PZWBS?tag=rvgearlab-amz-20",
     "description": "The Cofiyard folds to 9.5 by 9 by 4.6 inches and opens into a hexagonal two-burner stove totaling 17,000 BTU. The listing says it fits two 10 inch frying pans, with an independent knob and built-in igniter on each side.\n\nCompared with the Coleman Triton+ it is far more compact and cheaper, and it includes a connector and woven carry bag. Output is lower than the high-pressure burners.\n\nA fine choice for families who want to pack a double burner into a smaller bin. The stove rack comes off for cleaning.",
     "specs": [
       "17,000 BTU, two burners",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31LMK9kWIUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09HN1YW6V?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09HN1YW6V?tag=rvgearlab-amz-20",
     "description": "The Coleman Triton+ is a 22,000 BTU two-burner with push-button InstaStart ignition and independent PerfectFlow knobs. Wind guards flank the burners, the chrome grate lifts out, and a handle plus a stout latch make it carry like a case.\n\nIt fits 12 inch and 10 inch pans and gives up to an hour of high heat on a 16 oz propane cylinder. Against the Cofiyard it takes more space, and the latch and handle make it easy to carry as a case.\n\nA trusted shape for family campers who want a stove that sets up in seconds. The wind guards help at open sites.",
     "specs": [
       "22,000 total BTU",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hFqNf6cbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B079KXVN6J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B079KXVN6J?tag=rvgearlab-amz-20",
     "description": "The COOKAMP delivers 110,000 BTU in total from two 55,000 BTU cast iron burners and comes with a CSA listed 0-20 PSI adjustable regulator and a steel braided hose. Detachable legs help with transport.\n\nIt outguns every other pick on heat, which suits large pots for boils, stir fries and griddles. A heat-resistant paint finish is meant to stop peeling.\n\nA strong match for outdoor cooks with a stockpot or a wok who need real heat. It is more of a camp cooker than a small stove.",
     "specs": [
       "110,000 BTU total",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41t0XfUrwIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B093N8JYTR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B093N8JYTR?tag=rvgearlab-amz-20",
     "description": "The Gas One B-4545 is a propane double burner with two individual heat dials, a 4 foot hose and an adjustable 0-5 PSI regulator. Its legs detach for transport, and the regulator monitors gas flow and stops it if it detects a problem.\n\nCompared with the COOKAMP it is the more modest high-pressure option, aimed at tailgating and catering. It has no built-in windscreen.\n\nA good fit for cooks who want a rugged frame and precise control for simmering meat or boiling water. A full-size propane supply is needed.",
     "specs": [
       "Two burners, individual dials",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41vSMFMrB4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CSS115R6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CSS115R6?tag=rvgearlab-amz-20",
     "description": "The HuaShuani is a butane double burner with two 3,924 BTU burners, a piezo ceramic igniter and a baking pan with a switchable grill tray. The listing claims 50 percent heat efficiency and 166 grams of gas per hour.\n\nIt is the one butane pick, a compact kit for RVs and apartments rather than a big propane cooker. Its iron shell has a sprayed finish for insulation.\n\nA neat option for balcony and RV cooks who do not want a propane tank. The tray handles grilling.",
     "specs": [
       "2 x 3,924 BTU butane",

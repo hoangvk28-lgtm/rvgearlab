@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41lEVeZ3eIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00U9BHKM6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00U9BHKM6?tag=rvgearlab-amz-20",
     "description": "The GCI Slim-Fold Cook Station is a one-piece folding kitchen with a heat-resistant aluminum tabletop and four fold-out side tables. It has a storage rack and a paper towel holder, and the whole table pops up and slides down for packing.\n\nIt is more of a full kitchen than the DAFRUM, which has a smaller wing-panel layout. The designated rack and hooks keep tools within reach, so you are not hunting through bins while a pan is on.\n\nChoose it if you cook most meals at camp and want a dedicated station. It suits groups who want a stove on the tabletop.",
     "specs": [
       "Heat-resistant aluminum tabletop",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51rPdmEOyDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C3QFWQST?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C3QFWQST?tag=rvgearlab-amz-20",
     "description": "VEVOR is a powder-coated aluminum cook station with a heat-resistant aluminum countertop, four iron side tables, two shelves and a carrying bag. A reinforced triangular structure supports heavy loads.\n\nIt folds to a slim profile, around 5.5 inches, and comes apart in under a minute without tools. That matches the GCI for layout at a lower cost.\n\nIt suits budget-minded campers who want station-style storage. A shelf on each end holds fuel and spices.",
     "specs": [
       "Powder-coated aluminum tubes",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/512QcOJbwFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DPWN8JX9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DPWN8JX9?tag=rvgearlab-amz-20",
     "description": "DAFRUM is a 3x2 foot metal table with two wing panels, a paper towel holder, a garbage holder, a mesh net with side pockets and utensil hooks. It comes with a protective cover carry bag and has a height-adjustable design.\n\nThe listing describes a heat-resistant and water-resistant surface. It has more accessory hooks than the Raynesys, and it is cheaper than the full stations.\n\nIt suits campers who want a compact cook table with organization. Wing panels expand the workspace when you need it.",
     "specs": [
       "3x2 foot metal table",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51er01zthQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G2LSKF4X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G2LSKF4X?tag=rvgearlab-amz-20",
     "description": "Raynesys has telescoping legs with three heights of 10, 20 and 27.56 inches, an aluminum frame and an iron mesh tabletop with a rust-resistant coating. The legs disassemble and the top folds for carrying.\n\nThe three heights are what set it apart from the GCI and VEVOR, with a seated cooking position at 10 inches and a standing one at 27.56. A mesh top suits hot cookware.\n\nPick it if you cook at different heights, or sit low around a fire. It also doubles as a grill table.",
     "specs": [
       "Three heights, 10 to 27.56 inches",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41HNKy998WL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F9YNDPT9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F9YNDPT9?tag=rvgearlab-amz-20",
     "description": "Leteuke is a grill table made to fit Blackstone griddles, Ninja grills, Ooni ovens, tabletop grills and propane camp stoves. It has collapsible fabric shelves for tools and seasonings and folds into a carry case.\n\nIt is built around a specific job, which the GCI and VEVOR cover more generally. The expanded prep area stands next to the cooker.\n\nChoose it if you cook on a flat-top griddle or portable oven. It sits at the top of the price range.",
     "specs": [
       "Fits Blackstone and Ninja grills",

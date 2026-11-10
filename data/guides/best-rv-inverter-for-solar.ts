@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41WZr+MgBUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GY437K8K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GY437K8K?tag=rvgearlab-amz-20",
     "description": "The LANDERPOW 4000W is a 24V hybrid solar inverter charger with pure sine output, a built-in 140A MPPT solar charge controller and PV, battery and utility AC inputs. At $359.99 it combines the inverter and controller into one box, which saves wiring and space in an RV bay.\n\nIt costs $20.00 less than the SRGFTS 4000W and $295.44 below the Renogy 2000W inverter charger. The 140A MPPT figure means roughly 3,300W of charging power at a 24V bank, so a large array can be fully used. Pick this if you plan a 24V lithium bank. Caveat: PV voltage limits are not listed, so verify them against your panel string before ordering.",
     "specs": [
       "4000W pure sine, 24V",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31cF0-z9JrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FH9VVD93?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FH9VVD93?tag=rvgearlab-amz-20",
     "description": "The SRGFTS SUMRY is a 24V hybrid pure sine inverter rated 4000W with 8000W peak, a 6.25 inch glass-cover LCD with touch buttons, and the ability to run from PV without a battery in daytime. At $379.99 it matches the LANDERPOW on output and adds a large readable screen.\n\nIt costs $20.00 more than the LANDERPOW 4000W and $275.44 less than the Renogy 2000W. The PV-without-battery feature is useful if the bank is down but sunshine is strong. Pick this if you value the display and daytime PV running. Caveat: the excerpt does not state the MPPT amp rating or PV voltage window, so confirm both with the seller.",
     "specs": [
       "4000W rated, 8000W peak",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41iv-ro4N0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07PQR8HVQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07PQR8HVQ?tag=rvgearlab-amz-20",
     "description": "The Renogy 2000W is a 12V pure sine inverter charger with 6000W surge and a 4-stage battery charger covering GEL, AGM, SLA and flooded batteries. At $655.43 it is the most expensive pick per watt, but it is a 12V solution that fits an existing RV with a 12V bank and a separate solar controller.\n\nIt costs $275.44 more than the SRGFTS 4000W and $425.44 more than the OLTEANP 2500W, and it has no built-in solar controller. Pick this if you want a 12V inverter charger that also charges from shore power and pairs with a Renogy controller. Caveat: 2000W limits you to one big appliance.",
     "specs": [
       "2000W, 6000W surge",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41YnjfEt7yL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DF7BTYKP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DF7BTYKP?tag=rvgearlab-amz-20",
     "description": "The OLTEANP 2500W is a 12V pure sine inverter with a 12ms automatic transfer switch, rated 2500W continuous and 5000W peak. At $229.99 it handles AC loads in a solar RV when paired with a separate charge controller.\n\nIt is $130.00 under the LANDERPOW 4000W and $425.44 below the Renogy 2000W, but it has no solar controller or listed charger. Pick this if your solar controller is already installed and you just need inverter power. Caveat: 2500W at 12V draws about 208 amps, so cabling is the hidden cost.",
     "specs": [
       "2500W, 5000W peak",

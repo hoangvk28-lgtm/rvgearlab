@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/414uO65bbPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H4TBTFZW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H4TBTFZW?tag=rvgearlab-amz-20",
     "description": "The BravArrk is sold as a hot tent for cold-weather excursions and winter snow camping, with a safe integrated stove jack. It is 157 by 118 by 79 inches, with PU3000mm Oxford, UPF30+ and anti-condensation ventilation.\n\nAgainst the Qeroo it prints exact dimensions and a waterproof number at about 150 dollars less. Compared with the WaldWander it prints a PU rating and adds a skylight.\n\nIt suits large families who want a documented winter tent with a stove-ready port. Setup takes about 7 minutes with the air beams.",
     "specs": [
       "Jack, snow camping, 157 x 118 in",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51ybhyM1G-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G3HF8RCL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G3HF8RCL?tag=rvgearlab-amz-20",
     "description": "The Qeroo is built from technical cotton canvas described as waterproof and breathable. It has an integrated stove jack for a small wood stove, multiple ventilation windows and an 8 minute hand-pump setup.\n\nAgainst the BravArrk it uses cotton canvas instead of Oxford and costs about 150 dollars more. Compared with the WaldWander it adds a stated level-7 wind claim and a cotton canvas build.\n\nIt suits campers who want a breathable fabric for repeated winter stays. The listing says it stands strong against steady rain and level-7 winds.",
     "specs": [
       "Technical cotton canvas",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51oeeX9Gk7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FYFGQB1R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FYFGQB1R?tag=rvgearlab-amz-20",
     "description": "The WaldWander stretches 15.75 ft by 11.81 ft with a 7.2 ft peak and holds up to 12 people. A dedicated chimney window handles an outdoor stove, and the tent has a middle curtain, a pressure-relief valve and a PVC repair kit.\n\nAgainst the catnaoa it is much larger and costs about 190 dollars more. Compared with the BravArrk it is cheaper and has a chimney window rather than a jack.\n\nIt suits big groups who want to heat a shared tent in winter. A hand pump and an air column make setup 5 to 10 minutes.",
     "specs": [
       "15.75 ft long, 11.81 ft wide",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41LGDS8jVyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GLFJS134?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GLFJS134?tag=rvgearlab-amz-20",
     "description": "The catnaoa unfolds to 118 by 87 by 75 inches and is built from 210D Oxford with reinforced PVC poles, 3000mm PU waterproofing and a stove jack. It packs into a 24 by 13.8 by 18.9 inch bag and has 2 mesh doors and 6 mesh windows.\n\nPriced lowest in this group, it states a packed size and a PU number. Against the WaldWander it fits fewer people and sets up in about 5 minutes.\n\nIt suits small families who want a winter-ready air tent that fits a smaller car. A safety-valve pump is in the kit.",
     "specs": [
       "118 x 87 x 75 in, packs 24 in",

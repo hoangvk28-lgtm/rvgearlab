@@ -21,7 +21,7 @@ export const products = withAmazonUrls([
     badge: "Best overall",
     name: "1000W Portable Power Station 999Wh, Solar Generator",
     amazonQuery: "1000W Portable Power Station 999Wh, Solar Generator",
-    amazonUrl: "https://www.amazon.com/dp/B0GD12Z4S3?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0GD12Z4S3?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41bHa8I86iL._SL500_.jpg",
     specs: ["Capacity: 999Wh","Continuous output: 1,000W","Surge output: 2,000W","AC waveform: Pure sine wave"],
     specList: [{"label":"Capacity","value":"999Wh"},{"label":"Continuous output","value":"1,000W"},{"label":"Surge output","value":"2,000W"},{"label":"AC waveform","value":"Pure sine wave"}],
@@ -36,7 +36,7 @@ export const products = withAmazonUrls([
     badge: "Best heavy-duty option",
     name: "BLUETTI Elite 10 Mini Portable Power Station, 128Wh 200W Solar Generator",
     amazonQuery: "BLUETTI Elite 10 Mini Portable Power Station, 128Wh 200W Solar Generator",
-    amazonUrl: "https://www.amazon.com/dp/B0FS6CBVZG?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0FS6CBVZG?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/31hwYU94RjL._SL500_.jpg",
     specs: ["Capacity: 128Wh","Continuous output: 200W","Listed weight: 4 lb","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Capacity","value":"128Wh"},{"label":"Continuous output","value":"200W"},{"label":"Listed weight","value":"4 lb"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -51,7 +51,7 @@ export const products = withAmazonUrls([
     badge: "Best compact option",
     name: "BLUETTI Elite 10 Mini Portable Power Station, 128Wh 200W Solar Generator",
     amazonQuery: "BLUETTI Elite 10 Mini Portable Power Station, 128Wh 200W Solar Generator",
-    amazonUrl: "https://www.amazon.com/dp/B0FS6429MD?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0FS6429MD?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/31VvYAA+NUL._SL500_.jpg",
     specs: ["Capacity: 128Wh","Continuous output: 200W","Listed weight: 4 lb","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Capacity","value":"128Wh"},{"label":"Continuous output","value":"200W"},{"label":"Listed weight","value":"4 lb"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -66,7 +66,7 @@ export const products = withAmazonUrls([
     badge: "Best value pick",
     name: "Goal Zero Yeti 1500 Portable Power Station, Solar Generator Ready, LiFePO4",
     amazonQuery: "Goal Zero Yeti 1500 Portable Power Station, Solar Generator Ready, LiFePO4",
-    amazonUrl: "https://www.amazon.com/dp/B0GMKKGQCY?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0GMKKGQCY?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/51ANAjfl3eL._SL500_.jpg",
     specs: ["Continuous output: 2,000W","Surge output: 3,600W","Battery cycle claim: 4,000 cycles","Battery chemistry: LiFePO4"],
     specList: [{"label":"Continuous output","value":"2,000W"},{"label":"Surge output","value":"3,600W"},{"label":"Battery cycle claim","value":"4,000 cycles"},{"label":"Battery chemistry","value":"LiFePO4"}],
@@ -81,7 +81,7 @@ export const products = withAmazonUrls([
     badge: "Best backup pick",
     name: "Jackery Explorer 300 Portable Power Station,292Wh",
     amazonQuery: "Jackery Explorer 300 Portable Power Station,292Wh",
-    amazonUrl: "https://www.amazon.com/dp/B082TMBYR6?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B082TMBYR6?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41-Ey75o-WL._SL500_.jpg",
     specs: ["Capacity: 292Wh","Continuous output: 300W","Surge output: 600W","Listed weight: 7.5 lb"],
     specList: [{"label":"Capacity","value":"292Wh"},{"label":"Continuous output","value":"300W"},{"label":"Surge output","value":"600W"},{"label":"Listed weight","value":"7.5 lb"}],
@@ -171,7 +171,7 @@ export const relatedGuides = [
 export const sources = [
   {
     "title": "1000W Portable Power Station 999Wh, Solar Generator product page",
-    "href": "https://www.amazon.com/dp/B0GD12Z4S3?tag=rvgearlab-20&linkCode=osi&th=1&psc=1"
+    "href": "https://www.amazon.com/dp/B0GD12Z4S3?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1"
   },
   {
     "title": "CPSC carbon monoxide safety center",

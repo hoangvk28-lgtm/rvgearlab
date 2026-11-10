@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/512kv3yD7WL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F47ZX3FP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F47ZX3FP?tag=rvgearlab-amz-20",
     "description": "The LANDERPOW lists 1000W continuous and 2000W surge pure sine power with efficiency above 91 percent. It has 3 AC outlets, a 5V/3.1A USB port and a 30W PD port, a 15 ft wired remote with an LED screen and two 7AWG 2 ft battery cables.\n\nIt is the only pure sine pick here, which sets it apart from the BESTEK 1000W and the modified sine group. It also ships with cables and a remote, while the BESTEK is built for a compact plug-in use.\n\nIt suits a camper who runs laptops, camera chargers and a small appliance from a battery bank. The remote screen tracks battery level and output from inside the camper.",
     "specs": [
       "1000W pure sine, 2000W surge",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51jA53oDG2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D3LH57XT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D3LH57XT?tag=rvgearlab-amz-20",
     "description": "The BESTEK lists 1000W continuous and 2000W surge with 2 AC outlets and PD 30W plus QC 18W fast-charge ports. It measures 9.13 x 4.72 x 2.71 inches and uses two internal cooling fans, with an AI chip and built-in fuse.\n\nAgainst the LANDERPOW 1000W, it skips the remote and cables and packs fast-charge ports into a small body. Compared with the VEVOR 1000W, it adds PD 30W for laptop charging.\n\nIt suits a road-tripper who wants a compact inverter that tucks under a seat. The PD port charges a laptop without a brick.",
     "specs": [
       "1000W, 2000W peak surge",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51b1rNvYu-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FXLJHR7F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FXLJHR7F?tag=rvgearlab-amz-20",
     "description": "The VEVOR lists 1000W modified sine wave output with USB, Type-C and 2 AC outlets. It works with GEL, SLA, lithium, flooded and AGM batteries, includes a cigarette lighter cable, and lists overvoltage, undervoltage, overload, short circuit and reverse polarity protection.\n\nCompared with the LANDERPOW 1000W, it costs less and uses modified sine. Next to the StrenrmGO 1000W, it adds a clear battery chemistry list and an aluminum alloy housing.\n\nIt is the choice for campers whose battery bank mixes chemistry or who may upgrade later. The aluminum case is built for outdoor use.",
     "specs": [
       "1000W modified sine",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/513xViVmbDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GY8K12TS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GY8K12TS?tag=rvgearlab-amz-20",
     "description": "This modified sine wave inverter lists 1000W continuous and 2000W peak with 3 AC outlets, two 24W USB ports, a 30W PD port and dual 12V sockets. The kit includes alligator clips and two 16 in cables with 4mm wire gauge, and the listing names CE, FCC and RoHS certification.\n\nIt offers more AC outlets than the VEVOR 1000W and includes its own clips and cables. The silent cooling fan is bigger than on the basic units here.\n\nIt suits a car camper charging six devices at once from one unit. The LCD helps you watch load while the family plugs in.",
     "specs": [
       "1000W modified sine, 2000W peak",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ctUZeiwqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CQY798SV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CQY798SV?tag=rvgearlab-amz-20",
     "description": "This inverter lists 1000W continuous and 2000W peak, with 2 AC outlets, 36W USB-C and a 5V/3A USB port. Its LCD shows input voltage, output voltage and battery status plus protection codes such as overload.\n\nNext to the BESTEK 1000W it offers higher USB-C wattage and a code display on the LCD. The cooling fan is temperature controlled, so it stays quiet at light loads.\n\nIt suits van and truck sleepers who want a quick glance at battery state and protection codes. The 36W Type-C port charges laptops quickly.",
     "specs": [
       "1000W continuous, 2000W peak",

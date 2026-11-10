@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41CgT-h0ChL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CLR7V452?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CLR7V452?tag=rvgearlab-amz-20",
     "description": "The Columbia Kruser Ridge III is a zip-up softshell with Omni-Shield treatment that repels rain and resists stains. The listing calls the shell water and wind resistant, with a regular fit, zippered hand pockets and a drawcord hem, and it is offered in extended sizes.\n\nCompared with the baleaf Fleece Softshell, it is simpler and less insulated. Against the MoFiz Hybrid Softshell, it is a true softshell rather than a puffer hybrid.\n\nIt suits women who want a trail jacket from a trusted outdoor brand with the widest size range. It handles errands and mountain trails equally.",
     "specs": [
       "Omni-Shield rain and stain repellent",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31fk72KXa9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09H32L45K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09H32L45K?tag=rvgearlab-amz-20",
     "description": "The 33,000ft Women's Softshell has a three-layer fabric: a 96 percent polyester and 4 percent spandex shell, a membrane and a fleece lining. It includes a hood, a stand-up collar, an elastic inner cuff and three security pockets, two outside hand zippers and one left arm pocket.\n\nNext to the Columbia Kruser Ridge III, it adds a hood and fleece warmth. Against the G Gradual 3-Layer Softshell, it has fewer pockets and a simpler cuff design.\n\nIt suits women who hike in spring, fall and winter weather. The elastic inner cuff keeps the wrist protected from wind.",
     "specs": [
       "96% polyester, 4% spandex shell",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31eFXVQF9CL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CHJRFSCY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CHJRFSCY?tag=rvgearlab-amz-20",
     "description": "The MoFiz Hybrid Softshell mixes a stretch softshell with a puffer-style down look and weighs only 390 grams in size S. The listing names 100 percent windproof, with adjustable drawcord hood and hem, two zippered hand pockets and two inside pockets.\n\nCompared with the MoFiz Warm Softshell, it is lighter and more packable. Against the G Gradual 3-Layer Softshell, it is better as a mid-layer in very cold conditions.\n\nIt suits women who want a warm layer that does not feel bloated for hiking. The listing says it works as a mid-layer or a three-season jacket.",
     "specs": [
       "390 g in size S",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/313YExbKY-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H5WCTF3G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H5WCTF3G?tag=rvgearlab-amz-20",
     "description": "The baleaf Fleece Softshell has a fleece lining under a windproof, water-resistant level 4 fabric. An active women's fit with underarm gusset panels increases mobility, and large hand pockets, a sleeve pocket and two interior pockets hold essentials.\n\nCompared with the Columbia Kruser Ridge III, it adds a hood and fleece lining and a gusseted cut. Against the 33,000ft Women's Softshell, it adds a sleeve pocket and anti-static fleece.\n\nIt suits women who want a tailored feminine fit that does not restrict reaching or climbing. An adjustable hood with a raised collar adds weather coverage.",
     "specs": [
       "Fleece lined, level 4 water resistant",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/314APOsnfLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FCY9ZN7D?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FCY9ZN7D?tag=rvgearlab-amz-20",
     "description": "The MoFiz Warm Softshell sheds water and blocks wind with a soft fleece backing and weighs 585 grams in size S. Ribbed cuffs, a soft chin guard, an adjustable hood and a drawstring hem seal out the cold, and five pockets include two inside and one left arm.\n\nCompared with the MoFiz Hybrid Softshell, it is heavier and more weather-resistant. Against the G Gradual 3-Layer Softshell, it brings a chin guard and ribbed cuffs.\n\nIt suits women who hike in cold, windy weather and want warmth without much bulk. The modern classic slim fit and clean feminine cut suit town wear too.",
     "specs": [
       "585 g in size S",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31oYzzAvMGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DDL22R87?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DDL22R87?tag=rvgearlab-amz-20",
     "description": "The G Gradual 3-Layer Softshell combines TPU film and lamination technology with a fleece lining. Six pockets include arm zippers for small items and side zippers for daily items, and an adjustable hood and hem fit the cut to conditions.\n\nNext to the 33,000ft Women's Softshell, it offers twice the pockets in a similar build. Against the baleaf Fleece Softshell, it prioritizes storage over tailoring.\n\nIt suits women who carry a phone, wallet and headphones on a hike and want each in its own pocket. The listing names hiking, travel, camping and work.",
     "specs": [
       "TPU film laminated 3-layer fabric",

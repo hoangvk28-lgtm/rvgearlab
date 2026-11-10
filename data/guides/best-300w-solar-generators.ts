@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/519M0Y5tHeL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FKMK7RX5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FKMK7RX5?tag=rvgearlab-amz-20",
     "description": "The EnginStar kit pairs a 296Wh lithium pack with a 60W foldable solar panel and two 110V pure sine wave AC outlets rated at 300W. The body measures 9 by 5.5 by 7.5 inches and weighs 6.5 pounds, and the listing names a battery management system with voltage and temperature control.\n\nIt has the largest battery and the largest panel of the three, so the sun refills it faster than the 40W panels in the ZeroKor and Apowking kits. It weighs more than the Apowking at 5 pounds.\n\nIt suits tent campers and car travelers who want the most stored energy and solar input in a small kit. Three charging routes cover wall, car and the panel.",
     "specs": [
       "296Wh, 300W pure sine AC",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51vwGtV2bXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DHC51QJV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DHC51QJV?tag=rvgearlab-amz-20",
     "description": "The Apowking kit has a 220Wh (60000mAh) Li-ion pack in a 5 pound body measuring 8.5 by 6.7 by 4.1 inches, with a 40W monocrystalline panel rated at 24 percent efficiency. It offers 6 outputs, 2 AC, 3 USB and 1 USB-C, a fanless design and a large LED light that covers about 100 square feet.\n\nIt is the lightest and lowest priced of the three, giving up 76Wh of battery next to the EnginStar. The built-in LED backlight gives it a camp-light role that the other kits lack.\n\nIt suits hikers, backpackers and car campers who put weight and price first. The BMS shuts down in under 0.1 seconds on a fault.",
     "specs": [
       "220Wh Li-ion, 300W",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51OSwyfZg2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F8J39B45?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F8J39B45?tag=rvgearlab-amz-20",
     "description": "The ZeroKor kit includes a 300W station with a 280Wh lithium pack, a 40W foldable solar panel and a second 100W portable power pack with its own AC outlet. The main station has two 110V/300W max AC outlets, a DC port, three 5V/3A USB ports, a QC3.0 port and an SOS flashlight.\n\nThe extra 100W pack gives it two power sources in one box, which neither the EnginStar nor the Apowking offer. Its 280Wh sits between those two.\n\nIt suits families who want a second small pack for a tent or car. A built-in BMS guards against short circuits, over-current, over-voltage and overload.",
     "specs": [
       "300W station, 280Wh",

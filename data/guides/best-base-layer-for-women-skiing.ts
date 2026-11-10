@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31+Le86FWXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FJRT4S24?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FJRT4S24?tag=rvgearlab-amz-20",
     "description": "The LEADHALO Merino 250gsm is a 100 percent merino wool set in a 250gsm midweight knit with superfine 17.5 micron fibers. The crew-neck top and long bottoms sit close to the body under ski gear, and the fabric wicks moisture and resists odor.\n\nAgainst the Merino.tech Midweight, it is the same fabric weight at a lower price. Compared with the Cuddl Duds Heavyweight, it is breathable and temperature regulating rather than fleece lined.\n\nIt suits skiers who want natural fibers and a slim layering fit. Machine washing with wool detergent is listed.",
     "specs": [
       "100% merino, 250gsm",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411E-bWprkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09C4K26BS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09C4K26BS?tag=rvgearlab-amz-20",
     "description": "The Merino.tech Midweight is a 100 percent merino set at 250 g/m² with superfine 17.5 micron fibers. The package includes a free pair of merino hiking socks and carries a brand satisfaction promise.\n\nAgainst the LEADHALO, it adds socks and a satisfaction promise at a higher price. Compared with the Ekouaer 3 Pack, it uses natural fibers instead of fleece-lined polyester.\n\nIt suits skiers who want a premium set that also serves hikes and travel. Lightweight and heavyweight versions exist in the family.",
     "specs": [
       "100% merino, 250 g/m²",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ViQfULMkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CJWLFTZZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CJWLFTZZ?tag=rvgearlab-amz-20",
     "description": "The Cuddl Duds Heavyweight is a fleece-lined set at a stated 235 GSM, with stretch fabric, a modern-rise waistband and a smooth outer finish. The brushed interior adds softness and warmth for colder days.\n\nAgainst the LEADHALO, it uses a brushed fleece rather than merino. Compared with the ATTRACO, it is a more traditional top and leggings set.\n\nIt suits skiers who run cold. The smooth outside slips under outerwear.",
     "specs": [
       "235 GSM heavyweight",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41psbWPNBLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HC9J8KVW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HC9J8KVW?tag=rvgearlab-amz-20",
     "description": "The ATTRACO Quarter-Zip is a thermal set with a quarter-zip front, nylon-blend fabric and mesh zones at the chest, back and underarms. It adds 3D compression and four-way stretch, with seamless knitting to reduce friction.\n\nAgainst the Cuddl Duds, it offers venting via the zip and mesh. Compared with the merino sets, it is a synthetic with compression feel.\n\nIt suits skiers who want ventilation control. The zip eases on and off.",
     "specs": [
       "Quarter-zip front",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41pUA55YXaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FX3XBW4D?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FX3XBW4D?tag=rvgearlab-amz-20",
     "description": "The Ekouaer 3 Pack is a set of fleece-lined long johns in 87 percent polyester and 13 percent spandex. The listing describes fast wicking, four-way stretch and ski, hiking and curling as uses.\n\nAgainst the Cuddl Duds, it gives three sets for a similar price. Compared with the merino sets, it uses synthetic fabric.\n\nIt suits skiers who want a layer for several days. The sets can also double as pajamas.",
     "specs": [
       "87% polyester, 13% spandex",

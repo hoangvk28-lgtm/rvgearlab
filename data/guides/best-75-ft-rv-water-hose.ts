@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51SzjaZPyHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G1LZ8YTB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G1LZ8YTB?tag=rvgearlab-amz-20",
     "description": "The Kohree NSF 372 Certified 75-ft hose is independently tested to NSF/ANSI/CAN 372. It lists precision-machined fittings, a large rubber grip and a no odor build.\n\nIt carries NSF 372 wording that the Kohree with bag and RVMATE hoses do not. It matches the other top picks on price.\n\nIt suits owners who want documented testing on a long hose. The grip makes tight connections easy.",
     "specs": [
       "5/8 inch, 75 ft",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41LSht+T0oL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C2HJVTRJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C2HJVTRJ?tag=rvgearlab-amz-20",
     "description": "CircleRiver's 75FT hose is NSF 372 tested lead-free, fitted with 3/4 inch aluminum ends and a rubber sealing ring for the long haul. It lists a temperature range starting at -22°F.\n\nIt is priced the same as the Kohree NSF 372 and lists a cold range. It is a 3-layer hybrid polymer hose.\n\nIt suits owners who camp in cooler weather. The sealing ring helps with tight fittings.",
     "specs": [
       "5/8 inch, 75 ft",
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41gtacuYzAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CNT38C5J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CNT38C5J?tag=rvgearlab-amz-20",
     "description": "The Cupohus 75FT is a 5/8 inch extra thick wall hose that claims 25 percent faster filling than 1/2 inch hoses. It lists a rigid one-piece rubber grip and 3-year after-sales service.\n\nIt is stiffer than the Kohree hoses and priced the same as the top picks. The service period is longer than others list.\n\nIt suits RVs with big tanks. The stiff wall resists kinks.",
     "specs": [
       "5/8 inch extra thick wall",
@@ -108,7 +108,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51VTxo40HiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DPZKM1C8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DPZKM1C8?tag=rvgearlab-amz-20",
     "description": "The Kohree 75 FT is a 5/8 inch hose with a storage bag, a 20 percent thicker build and brass-plated aluminum fittings. It lists strain relief ends and CA65 compliance.\n\nIt is the lowest priced pick and adds a bag the others lack. It is lighter on the wallet.\n\nIt suits owners who want a bag and a sturdy build for less. The strain relief ends protect the fittings during hauling.",
     "specs": [
       "5/8 inch, 75 ft",
@@ -136,7 +136,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41vSRlp4rVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CC7T9572?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CC7T9572?tag=rvgearlab-amz-20",
     "description": "The RVMATE 75FT lists 3/4 inch GHT fittings, 3 layers of hybrid polymer and CA65 compliance. It uses compression technology with a sealing ring.\n\nIt is priced slightly above the other RVMATE. It names GHT threads directly.\n\nIt suits owners who want explicit thread labeling. The UV-resistant material suits long sunny stays.",
     "specs": [
       "5/8 inch, 75 ft",
@@ -163,7 +163,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51kZpRCYv0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BQVDMJNP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BQVDMJNP?tag=rvgearlab-amz-20",
     "description": "The RVMATE 75FT lists 3/4 inch male and female fittings, CA65 compliance and lead-free aluminum connectors. It has the same 3-layer polymer as its sibling.\n\nIt is priced below the GHT version and above the Kohree with bag. It includes a rubber ring and PTFE tape.\n\nIt suits owners who want a plain 75 ft hose. The male and female ends daisy-chain easily.",
     "specs": [
       "5/8 inch, 75 ft",

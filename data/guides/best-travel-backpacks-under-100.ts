@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41+XhkwDzRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GVJXY54W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GVJXY54W?tag=rvgearlab-amz-20",
     "description": "The EZUOLA measures 16.9 by 11.4 by 7.5 inches and packs a wet compartment, a waterproof shoe bag and a separate padded laptop compartment. A built-in USB port, an anti-theft back zipper pocket and a trolley sleeve round out the list.\n\nIt is the most feature-complete pick here for the money. Against the coowoz, it adds a trolley sleeve, and against the HOTOR, it adds the USB port and a dedicated shoe bag.\n\nIt suits weekend travelers who want one bag to ride on a roller and under a seat. The side-opening main compartment keeps packing tidy.",
     "specs": [
       "16.9 x 11.4 x 7.5 in",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41YHMhfJVCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B1882GT3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B1882GT3?tag=rvgearlab-amz-20",
     "description": "The coowoz offers 25L in waterproof durable polyester, with two main pockets and two laptop compartments that fit a 13 inch tablet and a 14 inch laptop. It also carries a separate shoe compartment, a wet bag, a USB port and an anti-theft pocket.\n\nIt gives you a clear liters figure, which the EZUOLA does not. Next to the Taygeer, it trades a lighter hand-carry look for a stated capacity.\n\nIt fits travelers who bring both a laptop and a tablet. The airy back panel adds ventilation on long walks to the gate.",
     "specs": [
       "25L waterproof polyester",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41+1F47eDML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09MQWWP87?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09MQWWP87?tag=rvgearlab-amz-20",
     "description": "The Taygeer measures 16.8 by 11 by 7 inches and weighs 1.74 pounds, with three large main compartments and nine inner and side pockets. A 180 degree zipper opening speeds security checks, and a bonus shoe bag and wet pocket are included.\n\nAt 1.74 pounds it is among the lighter bags here and lists its exact weight, which coofay rounds up to 2 pounds. Compared with the EZUOLA, it adds two padded handles so the bag doubles as a handbag.\n\nIt suits travelers who carry by hand through airports and want deep organization. Padded adjustable straps keep the load comfortable.",
     "specs": [
       "16.8 x 11 x 7 in, 1.74 lb",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41kWWRgv4SL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B76G1SZF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B76G1SZF?tag=rvgearlab-amz-20",
     "description": "The coofay measures 16.5 by 11.9 by 7.9 inches and weighs 2 pounds by manual measurement. Its clothes pocket takes four to six thin tops or pants, and a separate shoe compartment fits slippers or low-top sneakers beside a wet pocket.\n\nIt has a looser, roomier shape than the Taygeer and costs less. Against the HOTOR, it adds the separate shoe compartment and thick multi-panel back padding.\n\nIt fits short trips and business overnights where a pair of shoes needs its own pocket. The ventilated back keeps heat down.",
     "specs": [
       "16.5 x 11.9 x 7.9 in, 2 lb",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/414gN2L5ZOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DHKZD6Y2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DHKZD6Y2?tag=rvgearlab-amz-20",
     "description": "The HOTOR measures 11.8 by 7.9 by 17.3 inches and opens like a suitcase for easy packing. It uses Oxford fabric that resists water and abrasion, with a padded 15.6 inch laptop compartment and a stated weight near 1.2 pounds.\n\nIt carries a larger laptop than the coowoz, with a 15.6 inch sleeve. Compared with the EZUOLA, it skips the USB port and costs less.\n\nIt suits travelers with a bigger laptop who want a clean, simple bag. A flight-approved size fits overhead bins and under seats.",
     "specs": [
       "11.8 x 7.9 x 17.3 in",

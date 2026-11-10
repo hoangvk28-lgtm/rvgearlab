@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51RakULc07L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DM5SNPPC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DM5SNPPC?tag=rvgearlab-amz-20",
     "description": "The JOYINRUTE uses aircraft-grade aluminum with four hydraulic support rods for smooth opening. A removable winter thermal liner adds insulation, a flocked floor limits condensation and the 320G polyester has 5000 mm water resistance and 99 percent sun protection.\n\nIt brings four windows and a blackout finish at a price below the elevated-rear and SanHima tents. A removable liner means it works in both summer and winter, which the elevated-rear Skyview tent does not make as easy.\n\nIt suits campers who want cold-weather capability without premium-brand pricing. The liner comes out in warm months.",
     "specs": [
       "Aircraft-grade aluminum shell",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51tZKgXRAVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GGQVK3SS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GGQVK3SS?tag=rvgearlab-amz-20",
     "description": "This aluminum hard shell has an elevated rear for more legroom and interior volume, a dedicated stargazing sky-view window, a 360 degree LED strip and an integrated luggage rack. The shell is aluminum alloy with 320G polyester and fully sealed seams.\n\nIt offers more standing and sitting room than the JOYINRUTE and adds a luggage rack that carries kayaks or surfboards. It costs about $250 more than the JOYINRUTE.\n\nIt suits taller campers and couples who spend time inside. The sky-view window makes the tent a stargazing spot.",
     "specs": [
       "Elevated rear for legroom",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41BR5-8BKSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FX962HBT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FX962HBT?tag=rvgearlab-amz-20",
     "description": "The SanHima CapeTop is a fold-out aluminum shell that weighs 131.5 pounds and uses a Snap Fold System. A digital panel offers USB-C, USB-A and cigarette-lighter outputs, a tri-color LED strip lights the interior, and the 600D Oxford body has a blackout lining and 2000mm waterproofing.\n\nIt is the lightest and most connected tent at the cap, with weight well under many hard shells. Dual side windows, a rear window and a mesh front door provide ventilation.\n\nIt suits campers with lower roof ratings who still want a modern interior. The light-shielding canopy keeps mornings dark.",
     "specs": [
       "131.5 lb fold-out aluminum shell",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51c397ssPNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D5VRMYKV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D5VRMYKV?tag=rvgearlab-amz-20",
     "description": "This shell carries a 12V 216W solar panel, a USB outlet, a luggage bar and an LED strip. It sleeps two adults and one child or pet in an 85 by 52 by 59 inch interior and uses 320g polyester with W/R 5000.\n\nIt costs well under the Skyview and SanHima tents and offers the only built-in solar panel here besides the premium variant. Three windows with awnings provide ventilation.\n\nIt suits campers who want device power without a generator. Air rods raise it in about 10 seconds.",
     "specs": [
       "12V 216W solar panel",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41HQFL6DYJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GVJ5NVWN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GVJ5NVWN?tag=rvgearlab-amz-20",
     "description": "This aluminum hard shell has an aluminum bottom plate, top cover and four corners, plus a dismountable winter thermal layer. Air pressure rods pop it up in about 10 seconds, and ripstop canvas with wide eaves handles level 7 winds.\n\nIt is the cheapest tent with a removable winter liner here, cheaper than the JOYINRUTE. Two luggage poles and a 6 cm mattress come in the kit.\n\nIt suits campers who want a liner for cold trips at the lowest price. The liner removes in summer.",
     "specs": [
       "Aluminum plate, cover, corners",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51JxeS2jg0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DJSPL1KZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DJSPL1KZ?tag=rvgearlab-amz-20",
     "description": "The VEVOR sleeps 2 adults and 1 child with inflatable poles, a 420D Oxford rainfly at 2000mm and a polyester-cotton body at 1500mm. Aluminum support poles, a base plate, a 7.5 foot telescoping ladder to 330 pounds and a thick foam mattress come in the box.\n\nIt costs about half of the premium shells and has a three-point support system that helps in wind. It is a softer build than the aluminum hard shells.\n\nIt suits families who want a low-cost way to try a rooftop tent. A mesh window and vents give ventilation.",
     "specs": [
       "Inflatable poles, 2 adults + 1 child",

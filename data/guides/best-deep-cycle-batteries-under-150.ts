@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410B4ygtH9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FT9Z1PGK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FT9Z1PGK?tag=rvgearlab-amz-20",
     "description": "This Group 31 LiFePO4 battery stores 100Ah and carries a 100A smart BMS. It weighs 24 lb, which is about 70 percent lighter than comparable lead-acid, and its cells claim 15,000+ cycles when discharge is held to 60 percent.\n\nAt about $139 it holds twice the amp-hours of the Feuruetc or Power Queen 50Ah and nearly three times the 35Ah Interstate. It recharges about three times faster than lead-acid and fills in roughly 5 hours on a 14.6V charger.\n\nIt suits campers who want a real house battery for lights, a fridge and a fan on a weekend. It fits the Group 31 tray in many boats and RVs.",
     "specs": [
       "12V 100Ah LiFePO4",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41KCiB1-dlL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G6ZRF8MF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G6ZRF8MF?tag=rvgearlab-amz-20",
     "description": "Feuruetc is a 12V 50Ah LiFePO4 battery built from Grade A+ cells that weighs 10.58 lb. Its cells are rated for 4000 full-drain cycles and 6000 when held to 80 percent, with overload detection and recovery.\n\nAt about $110 it costs about $29 less than the 100Ah and stores half as much while weighing less than half as much. It weighs about a pound less than the Power Queen 50Ah.\n\nIt suits a small solar kit or a lightweight camper. It fits a tight battery box.",
     "specs": [
       "12V 50Ah LiFePO4",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/417vT+sZK8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CLG378WV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CLG378WV?tag=rvgearlab-amz-20",
     "description": "Power Queen is a 12V 50Ah LiFePO4 battery that weighs 11.57 lb, about one sixth the weight of a 12V 100Ah lead-acid. It claims 4000+ full-depth cycles, with voltage staying above 12.8V and smart protection against overcharge and overheating.\n\nAt about $144 it is the priciest of the three lithium picks, and it adds a trolling-motor focus that the Feuruetc does not claim. It stores the same energy as the Feuruetc.\n\nIt suits a small boat, kayak or camper where weight matters. The BMS protects against overcharge.",
     "specs": [
       "12V 50Ah LiFePO4",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41BA3mroz7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09CFK3KC6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09CFK3KC6?tag=rvgearlab-amz-20",
     "description": "ExpertPower is a sealed 12V 55Ah gel battery with an impact-resistant case. It carries ISO 9001, 14001 and 45001 certifications and can be mounted in several orientations because the electrolyte is gelled.\n\nAt about $130 the 100Ah lithium holds nearly twice as much for about $9 more. It tolerates shocks and vibration better than a flooded battery.\n\nIt suits a solar kit or a mobility setup where a spill-proof sealed battery matters. It needs a charger with a gel setting.",
     "specs": [
       "12V 55Ah sealed gel",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41JwbB+rDjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CVX7BHJ8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CVX7BHJ8?tag=rvgearlab-amz-20",
     "description": "VEVOR is a 12V 40Ah sealed AGM battery with a 400A discharge for 5 seconds, measuring 7.8 by 6.5 by 6.7 inches. The marine-style AGM design resists spills and needs no maintenance.\n\nAt about $73 it is the lowest-priced pick and stores roughly 40 percent of the 100Ah lithium. It is the entry point for a tiny camp light and phone setup.\n\nIt suits a small trolling motor or a light-duty camp lamp. Do not expect it to run a fridge overnight.",
     "specs": [
       "12V 40Ah AGM",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41YTlYD1AML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B005CLPOQM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B005CLPOQM?tag=rvgearlab-amz-20",
     "description": "Interstate offers a 12V 35Ah sealed AGM battery with insert terminals. It is spill-proof and valve-regulated, so it needs no watering and can sit in several positions.\n\nAt about $114 it costs more than the VEVOR 40Ah and stores less, which makes it the weakest value here. It leans on the Interstate name and a tidy spill-proof design.\n\nIt suits a mobility or small backup setup where the brand matters. It is not a main camp house battery.",
     "specs": [
       "12V 35Ah sealed AGM",

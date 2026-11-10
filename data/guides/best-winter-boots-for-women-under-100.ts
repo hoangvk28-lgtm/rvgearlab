@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41rmkJl8z4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F8TK6ZSP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F8TK6ZSP?tag=rvgearlab-amz-20",
     "description": "The STQ Duck Boot has a soft fabric upper on a waterproof TPR shell, a reinforced lace-up with a toe cap, a micro-fleece Thermolite lining and a deep 4 mm lug pattern on the sole. The listing gives a suitable range of -15 to +5 degrees Celsius.\n\nA stated temperature range and Thermolite lining give it more warmth detail than the ziitop Fur Lined and the SHIBEVER pair. The 4 mm lugs are deeper than the polyurethane sole of the SHIBEVER Lace-Up.\n\nIt suits a woman who shovels snow, commutes in winter and walks in slush. The lace-up fit adjusts to thick socks.",
     "specs": [
       "Waterproof TPR shell",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51dEFZl5aAS._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09C8KKV1G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09C8KKV1G?tag=rvgearlab-amz-20",
     "description": "The ziitop Fur Lined Boot is a high-top with a full fur lining, a waterproof cloth and leather upper, a large-tooth non-slip sole and an adjustable lace-up with a duck tongue. The listing calls it windproof and cold-proof for walking, hiking and school runs.\n\nThe taller cut gives more shin and ankle cover than the SHIBEVER Zip Bootie and SHIBEVER Lace-Up. The full lining and tall cut make it a warm daily boot, a step below the STQ Duck Boot for stated cold detail.\n\nThis one is for a woman who wants a warmer, taller boot for dog walks and yard work at a mid price. The laces keep snow from sneaking in.",
     "specs": [
       "Full fur lining, high-top",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41B8e4pK-FL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F5GQ7J9H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F5GQ7J9H?tag=rvgearlab-amz-20",
     "description": "The SHIBEVER Zip Bootie is a fur-lined ankle boot with a metal side zipper, a waterproof breathable upper and a rugged deep-tread, shock-absorbing sole. It is styled for work, errands and winter outings.\n\nA metal zip gives faster entry than the ziitop Fur Lined or the SHIBEVER Lace-Up. The deep treads grip better than the flat sole of the LongBay Bootie Slipper.\n\nIt suits a woman who wants an easy-on ankle boot for the commute and snowy errands. The sleek shape works with jeans and skirts.",
     "specs": [
       "Metal side zipper, fur-lined",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41MMeftvMEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FHWPN94N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FHWPN94N?tag=rvgearlab-amz-20",
     "description": "The SHIBEVER Lace-Up is a faux fur-lined ankle boot with a lace-up design, a polyurethane non-slip sole and a water-resistant upper. Sizes from 5.5 to 10 are offered, described as true to size, with wide-width flat fit.\n\nThe true-to-size range and lace-up adjust more than the zipped SHIBEVER Zip Bootie, and it costs slightly less. It has a water-resistant rather than waterproof upper, below the STQ Duck Boot.\n\nIt suits a woman who wants an affordable lace-up bootie for snow and daily wear, with a fit that adjusts for thick socks. The faux fur lining keeps ankles warm on walks.",
     "specs": [
       "Faux fur lined, lace-up",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41z2WnW-BpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08C725R8D?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08C725R8D?tag=rvgearlab-amz-20",
     "description": "The LongBay Bootie Slipper is a chenille knit and micro suede bootie with a fluffy faux fur lining, an 80D memory foam insole and a flexible rubber sole for indoor and outdoor use. It is sold as a cozy gift with nine colors and four size ranges.\n\nIt is the cheapest pair here and the softest underfoot, with a memory foam insole that the other four do not name. It is a slipper-style bootie, so it is not in the same class as the STQ Duck Boot for snow.\n\nChoose it as a warm bootie for the house, the porch and short trips to the car, not for shoveling or slush. The memory foam insole suits long hours on the couch too.",
     "specs": [
       "Chenille knit and micro suede",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410NiHFvn1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DRYCHLG1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DRYCHLG1?tag=rvgearlab-amz-20",
     "description": "The Ciays 43 inch propane table lists 60,000 BTU of heat, CSA certification, blue glass beads, two cup holders and a detachable hanging shelf. The tabletop lid covers the stainless steel burner for daytime use.\n\nIt is the most finished pit here, with the push-and-twist ignition rated for 100,000 ignitions and adjustable feet for uneven pavers. Next to the 28 inch Ciays, it adds a bigger table and the shelf.\n\nIt is the best match for a patio where the fire pit is the centerpiece and smoke is not welcome. The lid turns it into a coffee table in minutes.",
     "specs": [
       "43 inch, 60,000 BTU propane",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31or-1Qqv9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7ZVDYHX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7ZVDYHX?tag=rvgearlab-amz-20",
     "description": "This rectangular 43 inch propane pit lists 60,000 BTU and solid steel construction with a lid and a waterproof cover included. The lid lets it serve as a dining, coffee or bar table, and the flame runs from low to high with a knob.\n\nIt matches the Ciays 43 on BTUs, costs noticeably less and skips the glass beads, cup holders and shelf. That makes it the stretch pick for buyers who want propane at a lower price.\n\nChoose it for patios where you want smoke-free heat without paying for extras. The waterproof cover keeps the steel dry through winter.",
     "specs": [
       "43 inch rectangle, 60,000 BTU",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41d1pKiOxoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09GXJTTDN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09GXJTTDN?tag=rvgearlab-amz-20",
     "description": "The Ciays 28 inch propane pit is listed at 50,000 BTU, CSA-listed and comes with a lid and lava rocks. The 28 inch table is spaced for drinks and snacks.\n\nIt gives most of the gas benefits of the 43 inch models in a smaller footprint that fits balconies and narrow patios. It is lower priced than both gas tables above.\n\nChoose it for small patios where smoke is a problem and the guest list is short. The lava rocks give the flame a more finished look.",
     "specs": [
       "28 inch, 50,000 BTU propane",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41WwSCSSLXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01DF7MKQG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01DF7MKQG?tag=rvgearlab-amz-20",
     "description": "The Pure Garden is a 32 inch round wood-burning pit measuring 32 x 32 x 18 inches and weighing 22 lbs, with powder-coated steel and star cutouts. A spark cover, log grate, poker and weather-resistant PVC cover are included.\n\nIt is the only wood pit here with a log grate and a cover in the box, and it weighs less than the gas tables. The 26.5 inch fire bowl, 9.4 inches deep, holds a real fire.\n\nChoose it for patios where real wood smell and crackle matter more than clean burning. At 22 lbs, one person can still shift it for sweeping.",
     "specs": [
       "32 x 32 x 18 inch, 22 lbs",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41aOqxYDdPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09VS4NGQC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09VS4NGQC?tag=rvgearlab-amz-20",
     "description": "The Gas One is a 22 inch wood-burning pit in rust-resistant alloy steel with a high-temperature paint and a mesh lid with a fire picker. The bowl is 21.5 inches wide and the pit stands about 20 inches tall with the lid.\n\nIt is the least expensive and most portable pit in the group, and it is smaller than the Pure Garden. The mesh lid keeps sparks in while letting airflow through.\n\nChoose it for small patios and first-time buyers who want an inexpensive wood fire. The fire picker helps move logs without reaching in.",
     "specs": [
       "22 inch wood-burning, alloy steel",

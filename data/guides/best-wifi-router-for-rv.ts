@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21M6L3qSD6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GTRL4WRS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GTRL4WRS?tag=rvgearlab-amz-20",
     "description": "The TravlFi JourneyGo 5G is a 5G RV hotspot with automatic 4G LTE fallback, a touchscreen, up to 24 hours of battery and TowerSync, which connects to the strongest signal across multiple networks. It is sold with no contract.\n\nIt is the only pick that brings its own cellular data, so it works where no campground Wi-Fi exists. A data plan is still needed.\n\nBest for travelers who want a cellular router with a screen. Worth noting on the listing: no contract.",
     "specs": [
       "5G with 4G fallback",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31QHELLa2EL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FJSJC8KX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FJSJC8KX?tag=rvgearlab-amz-20",
     "description": "The KUMA Connect PLAY is a 4G LTE RV router in a metal case with 12V power, a window MIMO antenna, four LAN ports and one WAN port. It accepts a nano SIM and lists up to 32 devices.\n\nIt is the 12V-wired option and the one with Ethernet ports, which suit a permanent install. The listing mentions T-Mobile and AT&T support.\n\nA fit for owners wiring a router into the coach. Buyers also get this: metal case for rough roads.",
     "specs": [
       "4G LTE, 12V metal case",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31vfCX-04BL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FHZGXZH7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FHZGXZH7?tag=rvgearlab-amz-20",
     "description": "The TP-Link Roam 7 BE3600 is a dual-band Wi-Fi 7 travel router with up to 2882 Mbps on 5 GHz, a 2.5 Gbps WAN port, a 1 Gbps LAN port and a USB 3.0 port. It supports up to 90 devices and offers router, hotspot and extender modes.\n\nIt has the fastest radio and the most ports of the TP-Link models. It does not include cellular.\n\nBest for owners who join campground Wi-Fi and want the highest speed class. Among its strengths, multiple operating modes.",
     "specs": [
       "BE3600 Wi-Fi 7",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31T3eIAHRCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D41G5N95?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D41G5N95?tag=rvgearlab-amz-20",
     "description": "The TP-Link Roam 6 AX1500 is a portable Wi-Fi 6 travel router with dual-band speeds and a pocket-sized body. It connects to public Wi-Fi and creates a private network behind it.\n\nIt sits below the Roam 7 in speed and price and above older Wi-Fi 5 models. It offers router, hotspot and extender modes.\n\nGood for mid-budget travel setups. It also stands out because multiple connection modes.",
     "specs": [
       "AX1500 Wi-Fi 6 dual band",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ggt4irpML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GLP6QL6R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GLP6QL6R?tag=rvgearlab-amz-20",
     "description": "This Roam 6 AX1500 listing highlights Wi-Fi 6 speeds up to 1201 Mbps, a pocket-sized durable design and USB-C 3.0. It offers several ways to connect, including router mode and hotspot mode.\n\nIt is the same class as the 5N95 listing and points to USB-C power from a battery bank. The price is the same.\n\nA fit for owners who power from USB-C. It also stands out because secure on public Wi-Fi.",
     "specs": [
       "AX1500 Wi-Fi 6, 1201 Mbps 5 GHz",

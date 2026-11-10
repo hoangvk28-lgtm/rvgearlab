@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31bPCXq3cOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G2LBTWWV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G2LBTWWV?tag=rvgearlab-amz-20",
     "description": "The Naturehike Star Trail weighs 2.76 pounds in the two-person version and packs to 17.7 by 5.1 inches. Its 10D nylon outer tent has a PU1500mm+ rating, while the 20D nylon inner floor and footprint carry PU3000mm.\n\nIt is the lightest tent here by a wide margin, ahead of the 5.29 pound Clostnature 2P and the 6.28 pound Clostnature 4-season. It also pitches in about 3 minutes and has a full-coverage mesh inner with elevated clearance for airflow.\n\nHikers who want a true two-person ultralight and are ready to pay for the weight savings will like it. The 82.7 by 51.2 inch inner space has room to sit up.",
     "specs": [
       "2.76 lb two-person tent",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41XP3ccIaiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07D4J3J2R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07D4J3J2R?tag=rvgearlab-amz-20",
     "description": "The Clostnature 2P weighs 5.29 pounds total or 4.52 pounds at minimum trail weight with fly, inner tent and poles. Its 220 by 150 cm floor sits under a PU 5000 fly and bathtub groundsheet, with factory-sealed seams.\n\nNext to the Naturehike it weighs about twice as much and costs about half as much, with a stronger PU rating on the fly. Compared with the Clostnature 4-season it is a full pound lighter and fully mesh, so it favors warm-weather hiking.\n\nHikers who want a two-person, two-door, two-vestibule tent without the highest price will like it. A pole repair kit and 14 aluminum stakes are included.",
     "specs": [
       "5.29 lb, 4.52 lb trail weight",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/311SmL-vilL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0813M3VWZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0813M3VWZ?tag=rvgearlab-amz-20",
     "description": "The camppal one-person tent has an inner tent 8.2 ft long and under 3 ft wide and tall, a 3500 to 4000mm waterproof outer and CPAI-84 fire-retardant fabric. A single aluminum pole pitches it in about 3 minutes, and the zipper, corners and velcro wraps carry seam taping.\n\nIt offers the longest floor of any pick here for tall hikers, and the strongest stated waterproof range at 3500 to 4000mm. Against the Night Cat it is a solo shelter with more length and a single pole in place of two.\n\nTall solo hikers who want length and a strong rain rating at a low price are the target. The single-pole structure keeps parts to a minimum.",
     "specs": [
       "8.2 ft long, 1 person",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41QhQdeJlfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FVLLTDPG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FVLLTDPG?tag=rvgearlab-amz-20",
     "description": "The Night Cat is a two-person tent about 6.8 ft long, 4.6 ft wide and 3.6 ft tall inside, with two aluminum poles and dual vestibules. Rain is handled by a full-coverage fly, a welded floor and taped seams, and full mesh inner walls with dual ceiling vents manage airflow.\n\nPrice is the lowest of the five, and one person can pitch it in about 3 minutes. Against the Clostnature 2P the floor is smaller and the weight is not listed, while the dual vestibules and welded floor match it.\n\nBudget hikers who want a tent for two with a full fly will like it. Two D-shaped doors and inner pockets make camp life easier.",
     "specs": [
       "About 6.8 x 4.6 ft floor",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zmdz++XFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08JSMQ1KF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08JSMQ1KF?tag=rvgearlab-amz-20",
     "description": "The Clostnature 4-season tent weighs 6.28 pounds, or 5.33 pounds at minimum trail weight, with PU 5000 coating on the fly, floor and bathtub. Snow flaps keep spindrift out, and mesh and fabric double-layer doors let you choose airflow or warmth.\n\nIt is the heaviest tent here and the only one with snow flaps for cold-weather use. Against the Clostnature 2P it adds a pound of weight and a winter-ready door layer.\n\nHikers who also camp shoulder-season cold will get a light-enough tent that can handle it. A one-year guarantee is listed.",
     "specs": [
       "6.28 lb, 5.33 lb trail weight",

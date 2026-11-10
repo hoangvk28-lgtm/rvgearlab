@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51oxxXzHvsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01HPHR30U?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01HPHR30U?tag=rvgearlab-amz-20",
     "description": "Camco RhinoFLEX 20 ft is a kit with two 10 foot hoses (a 20 foot total), a clear elbow with a 4-in-1 adapter and four sewer caps. The hose is 23 mil polyolefin reinforced with steel wire, the fittings swivel 360 degrees and the adapter fits 3 inch slip or 3, 3 and a half and 4 inch threaded pipes.\n\nAgainst Camco RhinoEXTREME 15ft, it gives two hose sections so you can use one or both. Against DUMPMAN 15ft, it adds four caps and a steel-wire build.\n\nIt is the best match for dual-tank rigs that want modular length and caps for each end. Think of it as the pick for modular dual-tank dumping.",
     "specs": [
       "Two 10 ft hoses, 20 ft total",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31I7H97O0SL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B004804NWE?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B004804NWE?tag=rvgearlab-amz-20",
     "description": "Camco RhinoEXTREME 15 ft uses TPE technology with pre-attached Rhino swivel fittings, a bayonet and a transparent elbow with a 4-in-1 dump station fitting. The listing says it has superior abrasion and crush protection and will not dent or rust.\n\nAgainst Camco RhinoFLEX 20ft, it is a single 15 foot hose with a tougher wall claim. Against DUMPMAN 15ft, it carries a brand abrasion story and snap-glue fittings.\n\nIt suits owners who drag the hose over rough ground at dumping stations. Buyers focused on rough dump stations will find it a sensible match.",
     "specs": [
       "15 ft TPE hose kit",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51y+l3BX3HL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D46DTNF8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D46DTNF8?tag=rvgearlab-amz-20",
     "description": "DUMPMAN 15 ft kit has rotating fittings, a removable transparent elbow with a 4-in-1 adapter and two end caps. The listing describes TPE and a 24 mil vinyl wall with 4-prong bayonet fittings and a built-in rubber seal.\n\nAgainst Camco RhinoEXTREME 15ft, it gives the same length at a much lower price. Against SheeChung 3ft, it is a full-length hose.\n\nIt suits dual-tank owners who want a clear elbow and a leak-proof seal on a budget. It earns its slot for budget dumping.",
     "specs": [
       "15 ft TPE sewer hose",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51LEZ+2+w-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GGGR93XB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GGGR93XB?tag=rvgearlab-amz-20",
     "description": "SheeChung 3 ft hose has a female to female clear elbow, a 360 degree swivel fitting and a high-strength TPE build with a 24 mil vinyl wall. The listing says it connects an RV sewer valve to a portable tote tank.\n\nAgainst DUMPMAN 15ft, it is a short connector, not a full run. Against Camco RhinoFLEX 20ft, it adds a female end for tote connections.\n\nIt suits a short hop to a tote or as a second hose for a gray tank. It is a natural fit for short tote connections.",
     "specs": [
       "3 ft TPE connector hose",

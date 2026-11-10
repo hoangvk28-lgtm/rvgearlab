@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41aHNV-6VbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09WY2SDW8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09WY2SDW8?tag=rvgearlab-amz-20",
     "description": "Inside a 400T tear-resistant nylon shell, the QEZER Ultralight holds 9.17 oz of 600 fill power duck down. The listing gives a weight of 1.3 lb, an 84.65 by 32.28 inch cut and a pack size of 9.84 by 5.51 inches in its own compression bag.\n\nIt states both weight and packed size, which the Naturehike CW295 only half-matches. The cut is longer than the short CW295, and the price lands at the same level.\n\nIt suits warm-weather hikers who want real down at 1.3 lb. The wide trapezoidal footbox gives toes room.",
     "specs": [
       "9.17 oz of 600FP down",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41um4BWRCYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DBVL1CRC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DBVL1CRC?tag=rvgearlab-amz-20",
     "description": "The QEZER Mummy is a 600+ fill power duck down mummy measuring 84.65 by 31.89 inches with a wide trapezoidal footbox. The 2.2 lb down version weighs 3.64 lb and stores at 14.96 by 7.48 inches, and the 1.1 lb version weighs 2.34 lb and stores at 13.78 by 6.3 inches.\n\nTwo fill tiers let you buy the warmth you need, which the single-weight QEZER Ultralight does not offer. Zippers can attach to a second bag for a couple.\n\nIt suits hikers who want more down for cooler nights and a bag that can zip to a partner. Pick the tier by your lowest night.",
     "specs": [
       "600+ FP duck down",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41VKYwWFcNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DR8BS2L4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DR8BS2L4?tag=rvgearlab-amz-20",
     "description": "Naturehike's CW range uses RDS-certified 650 fill power down inside 400T 20D ripstop, closed with YKK zippers. Two sizes are listed, a 2.37 lb medium and a 2.9 lb large, and the models carry ISO comfort ratings of 29F for the CW700 and 12F for the CW1000.\n\nIt prints more temperature detail than any other bag here, including an extreme of minus 2F for the CW1000. A mummy top with a roomy lower body gives knee space the QEZER cuts lack.\n\nIt suits lightweight hikers who plan cold trips and want ISO figures. Choose the CW1000 for the coldest nights.",
     "specs": [
       "Medium 2.37 lb, large 2.9 lb",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51+ABMsV1EL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F8BDT2V1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F8BDT2V1?tag=rvgearlab-amz-20",
     "description": "Weighing 1.3 lb, the CW295 is a short ultralight bag whose 295 g of duck down sits in individual channels. A CWM400 medium is also listed, a little longer and wider than the 74.8 inch short.\n\nIt matches the QEZER Ultralight on weight and stows to a 4.7 by 10.2 inch bundle, with channels that keep the down from migrating. It costs less than either QEZER bag.\n\nIt suits shorter hikers who count grams. The water-repellent nylon fabric handles dew.",
     "specs": [
       "295 g duck down, 1.3 lb",

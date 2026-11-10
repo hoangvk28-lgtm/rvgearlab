@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31fbBj+H8BL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B593ZLYY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B593ZLYY?tag=rvgearlab-amz-20",
     "description": "The MAGCOMSEN Full-Zip Jacket is a UPF 50+ lightweight athletic jacket in high-density mesh fabric that the listing says wicks moisture and dries quickly. A stand-up collar, thumb holes, two hidden side zipper pockets and two deep inner pockets make it the most feature-rich option here.\n\nThe full zip lets you vent on climbs, which the pullover tees cannot do. Against the Soothfeel Hoodie Jacket, it swaps the hood for a stand-up collar that shades the neck.\n\nIt is the right match for women who hike, run and cycle in the same layer. The fit is described as fitted without being too tight.",
     "specs": [
       "UPF 50+, high-density mesh",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41+zOZ2rACL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09657C6YN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09657C6YN?tag=rvgearlab-amz-20",
     "description": "The Soothfeel Hoodie Jacket is a UPF 50+ lightweight sun hoodie that the listing calls cool to the touch and soft next to the skin. It has a hood, thumb holes, two side zippered pockets and two inner deep pockets.\n\nCompared with the MAGCOMSEN Full-Zip Jacket, it adds a hood instead of a stand-up collar. Next to the G Gradual Hoodie, it brings zip pockets and a casual fit that also suits driving and kayaking.\n\nIt suits women who want a hooded sun jacket for hiking and beach trips. Pockets keep the phone and keys close.",
     "specs": [
       "UPF 50+, lightweight fabric",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31WqUwzPWbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B087X8XVQC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B087X8XVQC?tag=rvgearlab-amz-20",
     "description": "The MAGCOMSEN Crew Tee is a lightweight polyester long sleeve with UPF 50+ protection that the listing says blocks 99 percent of UV rays. Raglan sleeves and a classic crew neck are named for a full range of motion and less chafing.\n\nIt is simpler than the MAGCOMSEN Full-Zip Jacket, with no zip or pockets, and costs less. Against the G Gradual Tee, it has a straight classic cut with no high-low hem.\n\nIt suits women who want an easy long sleeve for hikes, runs and yoga. The cut keeps layering simple.",
     "specs": [
       "UPF 50+, blocks 99% UV",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/318TvKSFYLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DSBPHFVY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DSBPHFVY?tag=rvgearlab-amz-20",
     "description": "The G Gradual Hoodie is a UPF 50+ hooded shirt in ultra-soft, lightweight, quick-dry fabric that wicks sweat. It has hidden thumb holes, a high-low rounded hem with side slits, and a ponytail opening in the hood.\n\nThe ponytail opening and side slits give it details the Soothfeel Hoodie Jacket lacks. The hem covers more of your lower back than the MAGCOMSEN Crew Tee, which helps under a pack belt.\n\nIt is a good match for women with long hair who want a hood for scalp cover. It is also priced well under the zip jackets.",
     "specs": [
       "UPF 50+ quick-dry fabric",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31RZmUEBv8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CSDHKNB3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CSDHKNB3?tag=rvgearlab-amz-20",
     "description": "The G Gradual Hem Tee is a UPF 50+ long sleeve in super lightweight, breathable fabric that wicks moisture for quick drying. The high-low hem has side slits for movement, and elastic thumb holes hold the sleeve in place.\n\nIt shares the high-low hem of the G Gradual Hoodie and skips the hood, which keeps it cooler. Compared with the MAGCOMSEN Crew Tee, it adds thumb holes and a relaxed fit.\n\nIt suits women who want a roomy, cool tee for warm hikes. The longer back hem helps under a pack.",
     "specs": [
       "UPF 50+, lightweight fabric",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31mwVAlNOlL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GSZ3BL3X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GSZ3BL3X?tag=rvgearlab-amz-20",
     "description": "The Pudolla Fishing Shirt is a UPF 50+ long sleeve tailored to the female form with thumb holes that cover the back of the hand. The fabric is lightweight and moisture-wicking for hot weather, with printed designs that draw on natural themes.\n\nIt costs less than every other pick here and has the most distinctive prints. Hiking is one of several listed activities, along with fishing, surfing and beach swims.\n\nIt suits women who want a low-cost layer with some personality. Short day hikes are the best use.",
     "specs": [
       "UPF 50+, tailored fit",

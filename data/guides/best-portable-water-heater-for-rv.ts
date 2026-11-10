@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31goIYOMJVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HCBMN5QC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HCBMN5QC?tag=rvgearlab-amz-20",
     "description": "The Baococo 18L Tankless Water Heater runs on propane with a maximum output of 115,425 BTU per hour and 4.76 GPM. It has a digital display and six protections including overheat and dry combustion prevention.\n\nIt has the most heating power on this list and a lightweight, carryable build for camping or pet washing. Compared with the 8L model, it supports more than one outlet.\n\nBest for campsite showers with family. It also suits outdoor use.",
     "specs": [
       "115,425 BTU propane",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31SDNw+qcmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HCBJB8YJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HCBJB8YJ?tag=rvgearlab-amz-20",
     "description": "The Baococo 8L Tankless Water Heater has 40,824 BTU per hour output and 2.11 GPM. It has six safety settings including overheat, dry combustion, anti-freeze and low-flow protection.\n\nIt is smaller and cheaper than the 18L, which suits solo or two-person use. Its build is easy to carry, move and store.\n\nA good pick for solo campers and beach trips. It also suits car washing.",
     "specs": [
       "40,824 BTU propane",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Mu5NdMaUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H28VT1P6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H28VT1P6?tag=rvgearlab-amz-20",
     "description": "The Ganggend 2.5 Gallon Electric Water Heater is a 1500W 110V mini tank with a pressure release valve and digital display. Its compact 11.4 by 11.4 by 10.4 inch body fits under a sink or on a shelf.\n\nIt stores hot water, so you do not need propane. It costs about $100.\n\nBest for RV sinks with shore power. It also suits small spaces.",
     "specs": [
       "2.5 gallon, 1500W",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41UpybM2vIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FW4N1MCB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FW4N1MCB?tag=rvgearlab-amz-20",
     "description": "The BJLIFE 3000W 110V Electric Tankless Hot Water Heater has a stainless steel heating tube and an LCD display. It lists over temperature protection and an electric shock prevention wall.\n\nIt costs about $52 and is made for RV camping. It heats rapidly with intelligent temperature control.\n\nA good pick for budget showers where power is available. It also suits workshops.",
     "specs": [
       "3000W 110V tankless",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41c81PHCq1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GT1WLCF2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GT1WLCF2?tag=rvgearlab-amz-20",
     "description": "The xwdzswgs 3000W Tankless Electric Water Heater is a 110V on-demand unit with an LED display and a compact lightweight design. The listing includes set screw holes and 1/2 inch connections.\n\nIt is the lowest priced option here. Compared with the BJLIFE, it has fewer safeties named.\n\nBest for the tightest budgets. It also suits small installs.",
     "specs": [
       "3000W 110V tankless",

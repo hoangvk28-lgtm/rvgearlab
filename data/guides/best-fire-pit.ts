@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/61pZEVS54oL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C64VCSKN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C64VCSKN?tag=rvgearlab-amz-20",
     "description": "OutVue is a 36 inch wood-burning fire pit with two cooking grills, a lid and a tabletop. The grills are height adjustable and swivel 360 degrees, and the pit holds up to 20 lb of wood.\n\nIt offers more cooking flexibility than the smaller bowls and sits between the 32 inch tables and the 43 inch FansaFurn. The lid and tabletop turn it into a table when not burning.\n\nFamilies who want to cook and sit around the fire will like the 3-in-1 design. It makes a strong centerpiece.",
     "specs": [
       "36 inch, 2 swivel grills",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51fESmtewjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G35GL4WW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G35GL4WW?tag=rvgearlab-amz-20",
     "description": "FansaFurn is a 43 inch 3-in-1 fire pit with two removable grill plates that rotate 360 degrees. A high-temperature protective coating guards against rust.\n\nAt 43 inches it is the biggest in the group, with room for a larger crowd than the 36 inch OutVue. It is also the second most affordable of the large pits.\n\nGroup gatherings and backyard parties will like the space. The grills let you cook for a crowd.",
     "specs": [
       "43 inch fire pit",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51ZG-dmZBPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F8Q363R5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F8Q363R5?tag=rvgearlab-amz-20",
     "description": "Quilushey is a 32 inch square fire pit table that works as a wood-burning fire pit, a BBQ grill or an ice bucket cooler. It includes a spark screen mesh cover and a fire poker.\n\nIt is the one that ships with the safety accessories, which the OutVue does not list. Heavy-duty iron with a powder-coated black finish stands up to weather.\n\nPatio and campsite hosts who care about stray sparks will like the screen and poker. The poker keeps hands away from the coals.",
     "specs": [
       "32 inch square fire pit table",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51GGvpuufxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DBKNMD89?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DBKNMD89?tag=rvgearlab-amz-20",
     "description": "EcoNook is a 32 inch square fire pit table with a fire bowl 24 inches wide and 4.6 inches deep. The frame uses thicker iron, with triangular reinforcements on each leg.\n\nThe deeper bowl holds more wood than shallower pits like the Quilushey. It includes a spark screen.\n\nCampers who burn bigger logs will like the capacity. The reinforced legs add stability.",
     "specs": [
       "24 in wide, 4.6 in deep bowl",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41aOqxYDdPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09VS4NGQC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09VS4NGQC?tag=rvgearlab-amz-20",
     "description": "Gas One 22 inch wood-burning fire pit has a durable alloy steel build with a mesh lid and a fire picker. Rust-resistant construction is built to last.\n\nIt is the most portable of the pits here, and it is smaller and cheaper than the 32 inch tables. The mesh lid helps contain sparks.\n\nCampers who want a compact fire for a small site will like it. The fire picker makes tending logs easy.",
     "specs": [
       "22 inch alloy steel pit",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41mk8-cBqwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CZM51SW5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CZM51SW5?tag=rvgearlab-amz-20",
     "description": "Gas One 23 inch wood-burning fire pit uses durable alloy steel and keeps the same simple construction as the 22 inch. It is a small fire pit meant to create a welcoming atmosphere.\n\nIt is the cheapest pit here and a hair larger than the 22 inch model. It is the simplest choice for casual fires.\n\nBudget campers and backyard users will like the price. It is a good starter pit for a first season of fires.",
     "specs": [
       "23 inch alloy steel pit",

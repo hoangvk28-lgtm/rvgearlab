@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51oz5qqJUPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CCV443D2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CCV443D2?tag=rvgearlab-amz-20",
     "description": "The OULEME Adjustable is our top all-rounder because it combines tool-free handle adjustment with a gauge and a factory setting of about 45 psi. It regulates up to 160 psi and uses 3/4 inch fittings.\n\nCompared with the AOLINK Gauge below it, the OULEME adds a silicone oil gauge that the listing says gives a steadier reading. Against the preset Valterra Fixed, you gain the ability to change pressure per campground, at a higher cost.\n\nIt suits owners who camp at many different parks and want one regulator that handles both weak and strong spigots. The caveat is that the listing does not cite an NSF or CSA mark, only a lead content figure under 0.13 percent.",
     "specs": [
       "Tool-free handle adjustment",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41p2Yz8bT+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F3236B8K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F3236B8K?tag=rvgearlab-amz-20",
     "description": "The AOLINK Gauge is a straightforward adjustable regulator with an easy-to-read 0 to 160 psi gauge and lead-free brass construction. It uses standard 3/4 inch garden hose threads.\n\nIt sits just below the OULEME Adjustable because the listing says less about gauge damping and factory setting. It costs a little less and does the same core job of letting you see what you are feeding the coach.\n\nPick it if you want to monitor pressure but do not need extras. The listing is light on detail, so check the box for washers and test for leaks on first use.",
     "specs": [
       "0 to 160 psi gauge",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51-q2NnCtxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CX94BGG7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CX94BGG7?tag=rvgearlab-amz-20",
     "description": "The Gickbusus Hand-Twist is built for people who dislike using a screwdriver at the spigot. Its gauge is filled with silicone oil, which the listing says reduces pointer vibration and improves reading stability.\n\nCompared with the AOLINK Gauge, it leans harder on ease of adjustment and a calmer gauge. It is also a little cheaper than the OULEME Adjustable, though the listing offers less detail on factory setting.\n\nIt fits hand-adjusting campers who dial pressure often. The brass is described as leadless, so look for a clear certification statement in the final listing before relying on it for drinking water.",
     "specs": [
       "No screwdriver needed",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41HY8jVXnTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B006JRJ5L8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B006JRJ5L8?tag=rvgearlab-amz-20",
     "description": "The Valterra Fixed is a preset 40 to 50 psi regulator in lead-free brass. The listing calls it ideal for older RVs and attaches directly to the campground spigot.\n\nUnlike the adjustable picks above, it has no dial or gauge, so there is nothing to bump or misread. In exchange you cannot raise pressure when the park supply is already low, a gap the CircleCord Hi-Flow partly fills.\n\nIt is best for weekend campers who want protection without fuss. The caveat is that fixed units can feel weak in showers when spigot pressure is marginal.",
     "specs": [
       "Preset 40 to 50 psi",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41tPmoFPjqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B094HTRZ4Z?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B094HTRZ4Z?tag=rvgearlab-amz-20",
     "description": "The CircleCord Hi-Flow is a preset regulator with a factory setting of 50 to 55 psi and, per the listing, 15 to 20 percent more water flow for better showers. It also has an inlet screen to catch particles.\n\nIt sits above the Valterra Fixed for owners who find 40 to 50 psi too gentle, since it targets the higher end of the safe range. It still has no gauge, so you cannot confirm its output without adding one.\n\nChoose it if your priority is a stronger shower at an affordable price. Clean the inlet screen when flow drops, because sediment can choke it.",
     "specs": [
       "Preset 50 to 55 psi",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41yR0wvHkOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B088KQ5TMK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B088KQ5TMK?tag=rvgearlab-amz-20",
     "description": "The MEASUREMAN Preset is the lowest-cost way to protect your hose and plumbing, with a factory preset of 40 to 50 psi in lead-free brass. The listing says it suits campers, trailers and garden use.\n\nIt trades the 50 to 55 psi push of the CircleCord Hi-Flow for a more conservative output and skips the inlet screen mention. Against the Valterra Fixed it offers a similar preset and a slightly lower price.\n\nIt works well as a spare or a first regulator. Expect the same limits as any fixed unit: no adjustment and no visible pressure reading.",
     "specs": [
       "Preset 40 to 50 psi",

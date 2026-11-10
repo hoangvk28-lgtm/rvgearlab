@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41tpv-RADWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DSD11FNH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DSD11FNH?tag=rvgearlab-amz-20",
     "description": "The EVER ADVANCED XXL opens to 84.3 by 41.9 by 19.7 inches and folds to 48.6 by 4.9 by 9.1 inches. A steel X-leg frame supports up to 550 pounds, and only two end tension rods need to be fitted, then it all packs into the carry bag.\n\nIt costs about $114, which is $36 less than the TETON Outfitter and $25 less than the Coleman ComfortSmart Big & Tall, and it is wider than either. Only the 600D-class cots in this group come close to its 550 pound rating, and the side pocket adds storage that the Coleman cots lack.\n\nIt suits big and tall campers, couples who want to share a wide deck and anyone who tosses and turns. A pad on top makes it a comfortable bed.",
     "specs": [
       "84.3 x 41.9 inch deck",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31GYyCJudDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01GLGRVU8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01GLGRVU8?tag=rvgearlab-amz-20",
     "description": "The TETON Outfitter is a larger-than-twin cot with a patented pivot arm that levers the fourth corner into place, a reinforced steel S-leg frame and a 600 pound rating. It weighs 26 pounds.\n\nAt about $150 it fills the whole budget, $36 above the EVER ADVANCED XXL, and it has the highest weight rating and the pivot arm that removes the toughest step of setup. It is much heavier than the DUMOS 3-in-1 Cot.\n\nIt suits heavy-duty campers, hunters and anyone who sets up a cot daily. It handles two adults on its extra-wide deck for sitting.",
     "specs": [
       "600 lb capacity",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31VV778j8BL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0073WJACW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0073WJACW?tag=rvgearlab-amz-20",
     "description": "The Coleman ComfortSmart Big & Tall has a coil suspension system, a thick foam mattress pad and a steel frame rated to 300 pounds. It accommodates campers up to 6 feet 6 inches and folds to fit a car trunk.\n\nIt costs about $140, nearly $26 above the EVER ADVANCED XXL, and it alone adds a mattress pad plus coil suspension. It carries a 1-year limited warranty, which shorter-warranty cots lack.\n\nIt suits campers who want the bed feel without a separate pad. It is built for cabin and car camping.",
     "specs": [
       "Coil suspension and foam pad",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/316Y-sLoO8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0043AK0O4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0043AK0O4?tag=rvgearlab-amz-20",
     "description": "The Coleman Pack-Away is an extra-wide cot with a removable side table and cup holder. It measures 80 by 44 by 17 inches, has a steel frame rated to 300 pounds and fits campers up to 6 feet 6 inches.\n\nIt costs about $111, nearly the same as the EVER ADVANCED XXL, and it adds a side table that the XXL lacks. At 17 inches high it sits lower than the EVER ADVANCED, which is easier to climb onto.\n\nIt suits campers who want a place for a lamp and a drink. The 44 inch width suits two small adults.",
     "specs": [
       "80 x 44 x 17 inches",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31vjPemXsdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G3P5J385?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G3P5J385?tag=rvgearlab-amz-20",
     "description": "The TIMBER RIDGE is a 32.5 inch wide cot built from metal tube in an X-shape structure with a 450 pound rating and a 600D polyester deck. It has a padded headrest and comes with a carry bag.\n\nIt costs about $76, about $38 less than the EVER ADVANCED XXL, and it is still rated to 450 pounds. It is narrower than the XXL by about 9 inches, which is the trade for the lower price.\n\nIt suits solo campers who want a roomy single without paying XXL money. The padded headrest is a small comfort.",
     "specs": [
       "32.5 inch wide",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41GjHVbrx5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HKW1HG49?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HKW1HG49?tag=rvgearlab-amz-20",
     "description": "The DUMOS 3-in-1 Cot converts between an upright chair, a reclined lounger and a flat bed using 6 backrest positions. It comes pre-fitted with a sponge-bonded cotton mattress and pillow, sits on a carbon steel frame rated to 450 pounds and folds to 26.4 by 22 inches.\n\nIt costs about $48, the lowest of the group by about $28, and it alone ships with a mattress and also works as a chair. It folds far smaller than the EVER ADVANCED XXL.\n\nIt suits small tents, vans and guest rooms where one piece of gear must do three jobs. It also works at the campsite as a lounger.",
     "specs": [
       "3-in-1 chair, lounger, bed",

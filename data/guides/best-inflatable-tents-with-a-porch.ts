@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51TjjIrkVIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HGNQ1KJR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HGNQ1KJR?tag=rvgearlab-amz-20",
     "description": "The BravArrk is a 16.4 by 7 by 7 ft tent with a floorless living room in front and two bedrooms behind. It has 3 doors, 4 mesh windows, a built-in fire-retardant stove jack and a PU3000 Oxford fabric.\n\nAgainst the awning tents it offers an actual screened living room with a stove jack, and costs the most here at about 140 dollars above the PulseFay. Compared with the Aoxun it separates sleeping from living space.\n\nIt suits families who want a porch they can sit in all season. Heavy-duty anti-burst PVC air beams hold up the bedroom section.",
     "specs": [
       "16.4 x 7 x 7 ft, 2 rooms",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41uT2kvOixL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HC1YXNXY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HC1YXNXY?tag=rvgearlab-amz-20",
     "description": "The Aoxun has a 13.1 by 9 ft footprint, a 6.5 ft center and about 118.4 sq ft of living space. It uses 420D Oxford with taped seams and a 3000mm hydrostatic rating, plus a fixed awning held by 2 awning poles.\n\nAgainst the Soboyo it states more numbers and a 7-level wind rating. Compared with the PulseFay it has the stated size and a quicker 1-minute inflation claim.\n\nIt suits families who want a permanent awning and clear specs. The kit includes a manual pump, 14 steel stakes, wind ropes and a repair kit.",
     "specs": [
       "13.1 x 9 ft, 6.5 ft peak",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4145D1z1OAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HB31DHVR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HB31DHVR?tag=rvgearlab-amz-20",
     "description": "The Soboyo sleeps 4 to 6 people and has a skylight window, a stove jack and a removable awning. It uses 420D Oxford and ships with a pump for quick inflation.\n\nAgainst the Aoxun it has the removable awning and a stove jack. Compared with the PulseFay it adds the skylight and costs about 100 dollars more.\n\nIt suits families who want a removable awning, stargazing and heat in one tent. The listing sells it as a hot tent.",
     "specs": [
       "Detachable awning, skylight",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41tXOY41leL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FN43SWPN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FN43SWPN?tag=rvgearlab-amz-20",
     "description": "The PulseFay inflates in about 5 minutes with an included pump and a one-way valve system. A detachable awning serves as a porch, a shaded lounge or a vestibule for muddy gear, with dual doors and mesh windows.\n\nIt is the cheapest of the four at about 140 dollars below the BravArrk. Compared with the Aoxun it offers a detachable awning and a shorter spec list.\n\nIt suits budget campers who want an air-beam tent with a removable porch. The kit has reflective guylines, heavy-duty stakes and a pump.",
     "specs": [
       "Detachable awning as porch",

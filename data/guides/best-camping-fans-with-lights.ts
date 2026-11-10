@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51oSMtSv+ZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CQ2CGVL8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CQ2CGVL8?tag=rvgearlab-amz-20",
     "description": "The Odoland lists a 30,000mAh pack with up to 136 hours of fan runtime, 4 speeds to 15 ft/s and a lantern with 3 brightness settings. It supports working while charging, reverse charging for phones, 90 or 45 degree auto swing and 270 degree swivel, with a remote and a stand-and-hook design.\n\nIt has the biggest battery here and the longest listed runtime, ahead of the 20,000mAh ADUST and 10,000mAh AJVV. It also fully charges in 7 to 8 hours.\n\nIt suits campers on multi-night trips who want a bright lantern and strong airflow in one. The reverse charging keeps a phone alive.",
     "specs": [
       "30,000mAh, up to 136 hours",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31CLXsxMhvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CSK3XP5R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CSK3XP5R?tag=rvgearlab-amz-20",
     "description": "The ADUST is a 3-in-1 fan, light and power bank with a 20,000mAh battery, four wind speeds listed for 12, 19, 32 and 58 hours, and 45 or 90 degree auto oscillation. It has a 270 degree manual pivot, a 360 degree hook, a remote or base buttons and a sleep mode that silences the beeps.\n\nIt trails the Odoland on capacity and gives named runtime per speed, which reads clearer than a single claim. It also adds a sleep mode that turns off indicator lights.\n\nIt suits campers who sleep light and want a silent night mode. The power bank function tops up a phone.",
     "specs": [
       "20,000mAh, 12 to 58 hours",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/519wTaepqnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DSRVRY54?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DSRVRY54?tag=rvgearlab-amz-20",
     "description": "The AJVV is a 10,000mAh hanging tent fan with a dual brushless motor that pushes air 23 ft, automatic oscillation and 3-level LED lights. It lists up to 60 hours of runtime, a remote, a 1, 2 or 3 hour sleep timer, stepless speed control and 4 to 5 hour charging while still working.\n\nIt has the fastest named charge here and a hidden folding hook. It carries a smaller pack than the ADUST and costs less.\n\nIt suits RV and tent campers who want a remote and a timer in a compact fan. The listing also names emergency phone charging.",
     "specs": [
       "10,000mAh, up to 60 hours",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51fuC7He8AL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HCBFW1ZK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HCBFW1ZK?tag=rvgearlab-amz-20",
     "description": "The FRIZCOL lists a 24,000mAh battery for 11 to 60 hours, 4 speeds, a 3950 rpm motor and noise under 30 dB. It has 3 timers, 2 LED light levels, vertical adjustment and an ABS body with non-slip pads.\n\nIt carries more battery than the ADUST at a lower price. Its light has 2 levels against the Odoland's 3.\n\nIt suits campers who want a quiet, mid-size fan with a basic light. The timers help overnight.",
     "specs": [
       "24,000mAh, 11 to 60 hours",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41WiiNQqhBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B1J7K569?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B1J7K569?tag=rvgearlab-amz-20",
     "description": "The XTAUTO is a compact fan and lantern with a 4000mAh battery, 54 high-intensity LED chips rated at 500 lumens and three fan speeds. It lists 6 to 8 hours of runtime, 4 indicators, a foldable hook, magnets and a waterproof ABS body.\n\nIts listing alone names a lumen figure, 500, and it has a magnet for hanging on a vehicle. Its battery is a fraction of the Odoland, so it is a short-trip unit.\n\nIt suits campers who want strong light and a small fan for a night out. It also lists survival-kit use.",
     "specs": [
       "4000mAh, 6 to 8 hours",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/415YWnvsftL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B016HM7QRE?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B016HM7QRE?tag=rvgearlab-amz-20",
     "description": "The Odoland D-cell lantern with ceiling fan has 18 ultra-bright LEDs, a 2-speed brushless fan at up to 10 ft/s and runs on 2 D batteries that are not included. The listing says up to 20 hours of light and 15 hours of fan, with a collapsible body and hanging hook.\n\nIt is the cheapest and the only one using replaceable D cells, so there is no charging. Compared with the XTAUTO it runs longer on a fresh pair of cells.\n\nIt suits campers who want a no-charge backup light and fan. The collapsible body slips into a pack.",
     "specs": [
       "2 D batteries, 18 LEDs",

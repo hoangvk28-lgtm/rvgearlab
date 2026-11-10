@@ -21,7 +21,7 @@ export const products = withAmazonUrls([
     badge: "Best overall",
     name: "BLUETTI Portable Power Station AC180, 1152Wh LiFePO4 Battery Backup w/ 2 1800W (2700W peak) AC Outlets, 0",
     amazonQuery: "BLUETTI Portable Power Station AC180, 1152Wh LiFePO4 Battery Backup w/ 2 1800W (2700W peak) AC Outlets, 0",
-    amazonUrl: "https://www.amazon.com/dp/B0C1SMJTDT?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0C1SMJTDT?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41Bklv+8yZL._SL500_.jpg",
     specs: ["Capacity: 1,152Wh","Continuous output: 1,440W","Surge output: 2,700W","Runtime claim: Up to 1 hours"],
     specList: [{"label":"Capacity","value":"1,152Wh"},{"label":"Continuous output","value":"1,440W"},{"label":"Surge output","value":"2,700W"},{"label":"Runtime claim","value":"Up to 1 hours"}],
@@ -36,7 +36,7 @@ export const products = withAmazonUrls([
     badge: "Best heavy-duty option",
     name: "BLUETTI Solar Generator Elite 100 V2",
     amazonQuery: "BLUETTI Solar Generator Elite 100 V2",
-    amazonUrl: "https://www.amazon.com/dp/B0FD3V9LF9?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0FD3V9LF9?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41Ts7U2lIHL._SL500_.jpg",
     specs: ["Capacity: 1,024Wh","Continuous output: 1,800W","Included panel: 200W","Runtime claim: Up to 4 hours"],
     specList: [{"label":"Capacity","value":"1,024Wh"},{"label":"Continuous output","value":"1,800W"},{"label":"Included panel","value":"200W"},{"label":"Runtime claim","value":"Up to 4 hours"}],
@@ -51,7 +51,7 @@ export const products = withAmazonUrls([
     badge: "Best compact option",
     name: "BLUETTI Elite 30 V2 Portable Power Station 288Wh 600W LFP Solar Generator",
     amazonQuery: "BLUETTI Elite 30 V2 Portable Power Station 288Wh 600W LFP Solar Generator",
-    amazonUrl: "https://www.amazon.com/dp/B0F42HLLSC?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0F42HLLSC?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41YTEqBbTsL._SL500_.jpg",
     specs: ["Capacity: 288Wh","Continuous output: 600W","Surge output: 1,500W","Listed weight: 9.4 lb"],
     specList: [{"label":"Capacity","value":"288Wh"},{"label":"Continuous output","value":"600W"},{"label":"Surge output","value":"1,500W"},{"label":"Listed weight","value":"9.4 lb"}],
@@ -66,7 +66,7 @@ export const products = withAmazonUrls([
     badge: "Best value pick",
     name: "BLUETTI AC200PL Portable Power Station 2304Wh 2400W LiFePO4 Solar Generator",
     amazonQuery: "BLUETTI AC200PL Portable Power Station 2304Wh 2400W LiFePO4 Solar Generator",
-    amazonUrl: "https://www.amazon.com/dp/B0D17CW6KK?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0D17CW6KK?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41zQ10TNbdL._SL500_.jpg",
     specs: ["Capacity: 2,304Wh","Continuous output: 2,400W","Runtime claim: Up to 3.8 hours","Battery chemistry: LiFePO4"],
     specList: [{"label":"Capacity","value":"2,304Wh"},{"label":"Continuous output","value":"2,400W"},{"label":"Runtime claim","value":"Up to 3.8 hours"},{"label":"Battery chemistry","value":"LiFePO4"}],
@@ -81,7 +81,7 @@ export const products = withAmazonUrls([
     badge: "Best backup pick",
     name: "BLUETTI Solar Generator Elite 300 & 2x200W Solar Panel 3014.4Wh LFP Battery",
     amazonQuery: "BLUETTI Solar Generator Elite 300 & 2x200W Solar Panel 3014.4Wh LFP Battery",
-    amazonUrl: "https://www.amazon.com/dp/B0GKRPD6GL?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0GKRPD6GL?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41mZSGuEV7L._SL500_.jpg",
     specs: ["Capacity: 3,014.4Wh","Continuous output: 2,400W","Surge output: 4,800W","Included panel: 200W"],
     specList: [{"label":"Capacity","value":"3,014.4Wh"},{"label":"Continuous output","value":"2,400W"},{"label":"Surge output","value":"4,800W"},{"label":"Included panel","value":"200W"}],
@@ -183,7 +183,7 @@ export const relatedGuides = [
 export const sources = [
   {
     "title": "BLUETTI Portable Power Station AC180, 1152Wh LiFePO4 Battery Backup w/ 2 1800W (2700W peak) AC Outlets, 0 product page",
-    "href": "https://www.amazon.com/dp/B0C1SMJTDT?tag=rvgearlab-20&linkCode=osi&th=1&psc=1"
+    "href": "https://www.amazon.com/dp/B0C1SMJTDT?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1"
   },
   {
     "title": "CPSC carbon monoxide safety center",

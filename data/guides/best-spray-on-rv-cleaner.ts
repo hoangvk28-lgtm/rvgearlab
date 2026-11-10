@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51fqHZ5jiaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CPFXNVJK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CPFXNVJK?tag=rvgearlab-amz-20",
     "description": "The Walex Premium RV and Marine Black Streak Remover is an exterior cleaner for RVs, campers and boats. It is applied, left to penetrate and wiped away, and it comes in multiple sizes.\n\nAgainst the Microban foam, it targets black streaks rather than mold. Against the 303 wash and seal, it removes stains without adding a protective layer.\n\nBest for black streaks on sidewalls. A quick fix for runoff stains.",
     "specs": [
       "Black streak remover for RVs and boats",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31UwZ+bG4EL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B000BRJURG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B000BRJURG?tag=rvgearlab-amz-20",
     "description": "The Dicor Deep Cleaning Rubber RV Roof Cleanser is a 32 oz spray that cleans dirt and grime off RV roofs. It is applied by spraying, brushing with a medium bristle brush and rinsing.\n\nAgainst the Microban foam, it is for roofs and prepares them for coating. Against the Walex, it works on rubber roofs.\n\nBest for roof prep before coating or a regular roof wash. A good partner for Dicor Roof Guard.",
     "specs": [
       "32 oz rubber roof spray",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41-Nkh9uKGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GYJ7DD7X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GYJ7DD7X?tag=rvgearlab-amz-20",
     "description": "The BERIOVE is a 19 oz foaming RV AC evaporator coil cleaner that expands into narrow coil fins to lift dust, pollen and grease. It is an odor eliminator for DIY maintenance.\n\nAgainst the roof and sidewall sprays, it is for the AC coils. Against the other picks, it solves airflow problems.\n\nBest for dusty AC coils that restrict airflow. A seasonal maintenance spray.",
     "specs": [
       "19 oz foaming coil cleaner",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41e0KB2g7NL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CV8M59ZJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CV8M59ZJ?tag=rvgearlab-amz-20",
     "description": "MICROBAN Outdoor Surface Care is a multi-purpose foaming cleaner that removes mold, mildew and algae stains. It lists use on siding, decks, fences, painted, sealed or stained brick, wood, stone, stucco, vinyl and gutters, and it clings to surfaces for a spray and wait process.\n\nAgainst the Walex, it is for green and black organic stains. Against the 303, it cleans with a 10 minute wait and rinse.\n\nBest for green or black organic stains on vinyl and siding. A low-cost pick for campsite mold marks.",
     "specs": [
       "Foaming cleaner for mold and algae",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41SXDW51+tS._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0971KD799?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0971KD799?tag=rvgearlab-amz-20",
     "description": "303 RV Wash and Seal is a pH neutral, high-foam wash that lists a deep gloss finish, UV protection and a non-abrasive formula. Directions call for 1 ounce of wash to 5 gallons of water, scrubbing with a mitt, rinsing and drying.\n\nAgainst the Walex, it washes and leaves a protective layer. Against Spray & Forget style sets, it is a bucket wash.\n\nBest for owners who want a gentle wash with UV protection. A good seasonal wash.",
     "specs": [
       "pH neutral high-foam wash",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41fbChRixqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00SL2NF10?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00SL2NF10?tag=rvgearlab-amz-20",
     "description": "The Camco Pro-Strength Awning Cleaner is a 32 oz formula that lifts stains, dirt, tree sap and road grime. It lists safety for vinyl, acrylic, nylon and fabric awnings.\n\nAgainst the roof cleaner, it is safe for fabric. Against the MICROBAN, it lists tree sap removal.\n\nBest for vinyl and fabric awnings. A budget-friendly seasonal cleaner.",
     "specs": [
       "32 fl oz awning cleaner",

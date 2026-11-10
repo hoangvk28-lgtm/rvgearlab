@@ -21,7 +21,7 @@ export const products = withAmazonUrls([
     badge: "Best overall",
     name: "EF ECOFLOW Portable Power Station RIVER 2, 256Wh 300W",
     amazonQuery: "EF ECOFLOW Portable Power Station RIVER 2, 256Wh 300W",
-    amazonUrl: "https://www.amazon.com/dp/B0B8MXPRDB?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0B8MXPRDB?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/31oJJr5KzCL._SL500_.jpg",
     specs: ["Capacity: 256Wh","Continuous output: 300W","Listed weight: 7.7 lb","Runtime claim: Up to 1 hours"],
     specList: [{"label":"Capacity","value":"256Wh"},{"label":"Continuous output","value":"300W"},{"label":"Listed weight","value":"7.7 lb"},{"label":"Runtime claim","value":"Up to 1 hours"}],
@@ -36,7 +36,7 @@ export const products = withAmazonUrls([
     badge: "Best heavy-duty option",
     name: "EF ECOFLOW Portable Power Station RIVER 2 Pro, 768Wh 800W",
     amazonQuery: "EF ECOFLOW Portable Power Station RIVER 2 Pro, 768Wh 800W",
-    amazonUrl: "https://www.amazon.com/dp/B0BVLPGS79?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0BVLPGS79?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/31fGKfidOAL._SL500_.jpg",
     specs: ["Capacity: 768Wh","Continuous output: 800W","Listed weight: 17.2 lb","Runtime claim: Up to 3.5 hours"],
     specList: [{"label":"Capacity","value":"768Wh"},{"label":"Continuous output","value":"800W"},{"label":"Listed weight","value":"17.2 lb"},{"label":"Runtime claim","value":"Up to 3.5 hours"}],
@@ -51,7 +51,7 @@ export const products = withAmazonUrls([
     badge: "Best compact option",
     name: "EF ECOFLOW RIVER 2 240 Portable Power Station, 243Wh 300W",
     amazonQuery: "EF ECOFLOW RIVER 2 240 Portable Power Station, 243Wh 300W",
-    amazonUrl: "https://www.amazon.com/dp/B0CMQYK2KW?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0CMQYK2KW?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/31QoGA82PfL._SL500_.jpg",
     specs: ["Capacity: 243Wh","Continuous output: 300W","Listed weight: 7.7 lb","Runtime claim: Up to 1 hours"],
     specList: [{"label":"Capacity","value":"243Wh"},{"label":"Continuous output","value":"300W"},{"label":"Listed weight","value":"7.7 lb"},{"label":"Runtime claim","value":"Up to 1 hours"}],
@@ -66,7 +66,7 @@ export const products = withAmazonUrls([
     badge: "Best value pick",
     name: "EF ECOFLOW Portable Power Station RIVER 3, 245Wh 550W",
     amazonQuery: "EF ECOFLOW Portable Power Station RIVER 3, 245Wh 550W",
-    amazonUrl: "https://www.amazon.com/dp/B0DB1S36YP?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0DB1S36YP?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/31g9Ywirx6L._SL500_.jpg",
     specs: ["Capacity: 245Wh","Listed weight: 7.8 lb","Runtime claim: Up to 1 hours","Battery chemistry: LiFePO4"],
     specList: [{"label":"Capacity","value":"245Wh"},{"label":"Listed weight","value":"7.8 lb"},{"label":"Runtime claim","value":"Up to 1 hours"},{"label":"Battery chemistry","value":"LiFePO4"}],
@@ -81,7 +81,7 @@ export const products = withAmazonUrls([
     badge: "Best backup pick",
     name: "EF ECOFLOW Portable Power Station River 2 Max 500, 499Wh 500W",
     amazonQuery: "EF ECOFLOW Portable Power Station River 2 Max 500, 499Wh 500W",
-    amazonUrl: "https://www.amazon.com/dp/B0CVZQ5RN1?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0CVZQ5RN1?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/31xXsyUVFbL._SL500_.jpg",
     specs: ["Capacity: 499Wh","Continuous output: 300W","Listed weight: 13.3 lb","Runtime claim: Up to 1 hours"],
     specList: [{"label":"Capacity","value":"499Wh"},{"label":"Continuous output","value":"300W"},{"label":"Listed weight","value":"13.3 lb"},{"label":"Runtime claim","value":"Up to 1 hours"}],
@@ -183,7 +183,7 @@ export const relatedGuides = [
 export const sources = [
   {
     "title": "EF ECOFLOW Portable Power Station RIVER 2, 256Wh 300W product page",
-    "href": "https://www.amazon.com/dp/B0B8MXPRDB?tag=rvgearlab-20&linkCode=osi&th=1&psc=1"
+    "href": "https://www.amazon.com/dp/B0B8MXPRDB?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1"
   },
   {
     "title": "CPSC carbon monoxide safety center",

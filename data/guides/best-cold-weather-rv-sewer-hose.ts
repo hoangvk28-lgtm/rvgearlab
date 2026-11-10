@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51swamtruDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D5B7WBXJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D5B7WBXJ?tag=rvgearlab-amz-20",
     "description": "The Kohree 15 foot heated sleeve has a self-regulating internal thermostat and an external thermostat that starts heating below 41 degrees F. The listing says an internal protector cuts power if the temperature spikes to 194 degrees F, and the cover is waterproof.\n\nAgainst Kohree 10ft Sleeve, it covers five more feet. Against Scilulu, it states its thermostat range and overheat protection.\n\nIt is the best match for owners with a 15 foot gravity hose who need freeze protection. It earns its slot for 15 ft hoses.",
     "specs": [
       "15 ft heated sleeve",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51vRaMuyTBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FBW68ZFY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FBW68ZFY?tag=rvgearlab-amz-20",
     "description": "The Kohree 10 foot heated sleeve uses the same self-regulating thermostat, external thermostat and internal overheat cutoff as the 15 foot model. It is waterproof.\n\nAgainst Kohree 15ft Sleeve, it covers ten feet at a lower price. Against REHOSEUP, it states thermostat protection.\n\nIt suits short hose runs near the dump port. It is a natural fit for short hose runs.",
     "specs": [
       "10 ft heated sleeve",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41fCuE70b8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CH9HY8L1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CH9HY8L1?tag=rvgearlab-amz-20",
     "description": "Scilulu Heated Cover is offered in 15 and 20 foot lengths with freeze protection stated down to -20 degrees F. The listing describes a self-regulating thermostat and a high-density Oxford fabric exterior.\n\nAgainst Kohree 15ft Sleeve, it adds a 20 foot option and a stated -20 degree rating. Against REHOSEUP, it states the thermostat type.\n\nIt suits owners in very cold camps who need a 20 foot cover. Think of it as the pick for very cold camps.",
     "specs": [
       "15 or 20 ft heated cover",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41d0UalMXqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CH2KTWH4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CH2KTWH4?tag=rvgearlab-amz-20",
     "description": "REHOSEUP 15 foot heated sleeve uses an electric heating wire and thick heating cotton to keep waste from freezing. The plug has an indicator light, and the listing says the product does not include a sewer hose.\n\nAgainst Kohree 15ft Sleeve, it adds a plug light but states no thermostat range. Against Scilulu, it is a 15 foot only option.\n\nIt suits owners who want a simple powered sleeve with an indicator. Buyers focused on simple heated sleeves will find it a sensible match.",
     "specs": [
       "15 ft electric heated sleeve",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Ww+2Rop9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B002UC4WOG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B002UC4WOG?tag=rvgearlab-amz-20",
     "description": "Valterra Dominator 5 foot sewer hose extension uses 23 mil poly with UV protection and holds its position for drainage. The listing says it stays flexible down to -20 degrees F and collapses from 5 feet to 12.5 inches.\n\nAgainst the heated sleeves, it is an unheated hose with a cold flexibility rating. Against Amazon Basics 20 ft, it is a short extension rather than a full kit.\n\nIt suits owners who need an extra short hose that stays flexible in the cold. It earns its slot for cold-flexible extension.",
     "specs": [
       "5 ft poly extension",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Z1inPKJ-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F651C4GZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F651C4GZ?tag=rvgearlab-amz-20",
     "description": "Amazon Basics RV Sewer Hose Kit 20 ft includes two 10 foot hoses, four covers and a 90 degree four-in-one ground converter. The listing gives no cold rating.\n\nAgainst the heated sleeves, it is a hose kit that can sit under a sleeve. Against Valterra Dominator 5ft, it is a full 20 foot kit.\n\nIt suits owners who need a gravity hose to pair with a heated sleeve. It is a natural fit for hose to pair with a sleeve.",
     "specs": [
       "20 ft total, two 10 ft hoses",

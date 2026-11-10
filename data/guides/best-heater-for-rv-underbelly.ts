@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41KGH5U8UzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H673XCX2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H673XCX2?tag=rvgearlab-amz-20",
     "description": "The Xtreme Heaters 1000 watt heater is a forced-air unit built to protect tanks, valves and plumbing under RVs, campers, trailers and skirted rigs. It mounts in any direction and fits large pump bays, tank bays and storage bays.\n\nIt costs far more than the portable heater and pad kits. It is the only pick designed specifically for the underbelly and skirted RV use.\n\nBest for full-time winter campers who need dependable freeze protection. A purpose-built bay heater.",
     "specs": [
       "1000W forced-air heater",
@@ -53,7 +53,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41lcn26x3uL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GBPF4F8F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GBPF4F8F?tag=rvgearlab-amz-20",
     "description": "The Xtreme Heaters portable heater has 750 and 1500 watt settings and is UL tested. It draws air from the top so it can sit against walls, and a low profile stable base prevents tipping.\n\nIt costs about a quarter of the underbelly model and moves between uses. It is aimed at boat cabins, RVs and small spaces.\n\nBest for owners who want a movable heater for a bay or cabin. A flexible portable pick.",
     "specs": [
       "750W and 1500W settings",
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41BfYwj1g1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DB7DSH5H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DB7DSH5H?tag=rvgearlab-amz-20",
     "description": "The Facon 2-pack gives two 7 by 12 inch 12 volt heater pads for 3 inch pipe with 3 mm self-adhesive foam insulation. The pads are hardwired with two wires and switched on when temperatures near freezing.\n\nIt costs about the same as the Volcode and is rated at 12 volts. The pads protect a specific pipe rather than a whole bay.\n\nBest for protecting a 3 inch drain pipe or tank outlet. A targeted freeze protection pick.",
     "specs": [
       "Two 7 x 12 inch pads",
@@ -107,7 +107,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41rfG-ozjDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FKFSR8YT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FKFSR8YT?tag=rvgearlab-amz-20",
     "description": "The Volcode 2-pack provides two 7 by 12 inch pipe heater pads for 3 inch pipe at 13.5 volts. They use 3 mm self-adhesive foam insulation and a two-wire hardwired design.\n\nIt costs slightly less than the Facon and is rated at a higher voltage. The 13.5 volt rating suits a charging system.\n\nBest for a hardwired install on a pipe that runs near a charger. A slightly cheaper pad pair.",
     "specs": [
       "Two 7 x 12 inch pads",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ce510v9lL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0754SP75F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0754SP75F?tag=rvgearlab-amz-20",
     "description": "The Marmot Crane Creek 2P offers 32 sq ft of floor, a seam-taped floor, a seam-taped polyester fly and 7000 series aluminum poles. Two large D-shaped doors and two overhead vestibules are listed, and the tent is made without PFAS.\n\nIt carries the most trusted brand name and the most storage here, with a vestibule for each person. Compared with the Kelty Grand Mesa it adds a PFAS-free claim and a second door, while the Kelty lists a precise packed weight.\n\nIt suits backpackers who want proven two-person features and good gear storage. A footprint is not included.",
     "specs": [
       "32 sq ft, 2 D-shaped doors",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41830Z1JijL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B082P6RMBC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B082P6RMBC?tag=rvgearlab-amz-20",
     "description": "The Kelty Grand Mesa 2P has an 85 by 57 inch floor, 30 sq ft of interior and a 44 inch peak. It packs to 16 by 7 by 7 inches at 4 lb 7 oz, with 68D polyester floor and fly, fully seam-taped, and Quick Corners for easy poles.\n\nIt states a precise packed weight, which the Marmot omits. Compared with the Naturehike it has a taller peak and a freestanding aluminum pole design.\n\nIt suits trail hikers who want a freestanding, 3 season tent from a known brand. An EZ-Zip vestibule provides covered storage.",
     "specs": [
       "85 x 57 in floor, 44 in peak",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31f8O5c9RhL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B096SYW1KP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B096SYW1KP?tag=rvgearlab-amz-20",
     "description": "The Kelty Discovery Trail line lists 2P at 4 lb 5 oz minimum weight, 33 sq ft of floor and a 42 inch peak. It has a taped seam, single door and single vestibule, two poles, a fly vent and DWR/PFC-free fabrics.\n\nIt undercuts the Grand Mesa on price and states a lower minimum weight. Compared with the Night Cat it has a more established brand and a fly vent.\n\nIt suits first-time backpackers who want a name-brand tent at a modest price. Pre-attached guylines and Quick Corners ease setup.",
     "specs": [
       "2P: 4 lb 5 oz, 33 sq ft",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31CI68aYl9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DJX7RT3H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DJX7RT3H?tag=rvgearlab-amz-20",
     "description": "The Naturehike Cloud Up Base is a double-layer two-person tent weighing 4.25 lb without footprint and packing to 15.7 by 5.1 by 5.1 inches. Its 210T polyester carries a PU3000mm+ rating with all corners and seams taped, and a ventilation window was added above the front door.\n\nIt includes a footprint and a ventilation upgrade over the base Cloud Up. Compared with the Kelty Grand Mesa it has a lower 41.3 inch peak and costs a bit less.\n\nIt suits hikers who want a light double-wall tent with a footprint included. The B3 mesh inner gives airflow.",
     "specs": [
       "4.25 lb, 82.7 x 49.2 x 41.3 in",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41QhQdeJlfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FVLLTDPG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FVLLTDPG?tag=rvgearlab-amz-20",
     "description": "Night Cat's two-person model sleeps two inside roughly 6.8 ft of length, on two aluminum poles, with a door and a vestibule on each side. Its rainfly covers the whole tent, the floor is welded and the seams are taped.\n\nIt gives two doors and two vestibules at a price near the solo tents. Compared with the Naturehike it adds a second vestibule and leaves weight unlisted.\n\nIt suits budget hikers who want two doors for two people. Dual ceiling vents and full mesh walls help ventilation.",
     "specs": [
       "About 6.8 ft long, two doors",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31uxxwrBNWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07WR1V29Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07WR1V29Y?tag=rvgearlab-amz-20",
     "description": "Night Cat's one-to-two person dome is a 4.4 lb single-wall design about 7 ft long. Taped seams and a PU 3000mm polyester shell keep out rain, and pole cases protect the fiberglass frame.\n\nIt is the cheapest tent here and fits one hiker with gear. Compared with the Night Cat 2-person it is narrower and uses fiberglass instead of aluminum.\n\nIt suits solo hikers or a parent with a child. Setup takes about 1 to 2 minutes, per the listing.",
     "specs": [
       "4.4 lb solo dome",

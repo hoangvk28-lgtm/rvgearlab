@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/412TphHKyuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BXRJJXND?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BXRJJXND?tag=rvgearlab-amz-20",
     "description": "The SEAFLO 56A 12V pump is a variable-speed unit rated 5.0 GPM at a 70 PSI shut-off, with a 10 amp maximum draw, self-priming to 6 feet and a 140°F maximum temperature. The listing names constant-pressure control, a bypass for quiet operation and a 4-year limited warranty.\n\nAgainst the Jabsco, it is a 12V RV-friendly unit at about a third of the price. Against the SEAFLO 24V, it uses 10 amps for the same flow where the 24V draws 5.\n\nBest for a 12V RV that wants steady pressure and quiet running. Check that 70 PSI suits your fixtures.",
     "specs": [
       "5.0 GPM, 70 PSI, 12V",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31De4K2vaVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DC77V4H1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DC77V4H1?tag=rvgearlab-amz-20",
     "description": "The Jabsco V50AJ Sensor-Max II is a 115V variable-speed freshwater pump rated 5 GPM that senses pressure and adjusts motor speed. The listing says it removes the need for an accumulator tank and supplies up to five outlets.\n\nAgainst SEAFLO 56A 12V, it is a 115V unit, so it needs AC power, and it costs about three times as much. Against the Aqua Tec, it lists clearer feature detail.\n\nBest for systems that already have 115V available. It does not suit a 12V-only RV.",
     "specs": [
       "5 GPM variable speed, 115V",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/412TphHKyuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BXRRFT4P?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BXRRFT4P?tag=rvgearlab-amz-20",
     "description": "The SEAFLO 56A 24V is a variable-speed pump rated 5.0 GPM at 70 PSI shut-off, with a 5 amp maximum draw, self-priming to 6 feet and run-dry capability. It uses the same constant-pressure control and bypass as the 12V version.\n\nAgainst SEAFLO 56A 12V, it needs a 24V system but draws half the current. It is the right pick only for 24V coaches, boats or conversions.\n\nBest for a 24V electrical system. Do not connect it to 12V.",
     "specs": [
       "5.0 GPM, 70 PSI, 24V",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51oRoOCflJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B007HRPYLY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B007HRPYLY?tag=rvgearlab-amz-20",
     "description": "The Aqua Tec ARV is titled as a variable-speed RV and motorhome water pump with a 5.3 GPM rating. The listing gives no feature bullets, voltage or pressure details beyond the title.\n\nAgainst SEAFLO 56A 12V, it offers 5.3 GPM but with no stated pressure, amp draw or warranty. It costs more than the SEAFLO.\n\nBest only if you already know the Aquatec line. Confirm voltage and pressure with the seller before buying.",
     "specs": [
       "Variable speed RV pump",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Ugk5fuJhL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CNL2YFLF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CNL2YFLF?tag=rvgearlab-amz-20",
     "description": "The IPW Industries pump is listed as a variable-speed pump at 1.0 GPM and 60 PSI on 115 volts. The listing gives no other detail.\n\nAt 1.0 GPM it cannot supply an RV shower and needs AC power, so it is a weak match against the SEAFLO units. It is the lowest-flow pick here.\n\nBest only for a very low-demand system with 115V. Confirm what it is meant for before buying.",
     "specs": [
       "1.0 GPM, 60 PSI",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41xSLct2z1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F4LWCQSR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F4LWCQSR?tag=rvgearlab-amz-20",
     "description": "The New Balance 410 v9 is a men's trail runner built around Fresh Foam cushioning with a BIO Foam midsole and an AT tread outsole. The listing describes it as suited to both trail runs and hiking, with reinforced overlays on a breathable mesh upper.\n\nAgainst the NORTIV 8 Men's Wide, it carries a more established cushioning setup and a traditional lace-up lockdown for steep descents. Next to the ASICS Gel-Venture 11, it trades the rearfoot gel pad for a softer, foam-only ride.\n\nIt is the safest all-rounder for someone who wants one shoe for weekend hikes, dog walks and gravel paths. Buyers who walk more than they run will appreciate the plush midsole.",
     "specs": [
       "Fresh Foam and BIO Foam midsole",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/310v5FlwCiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FV7DWK76?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FV7DWK76?tag=rvgearlab-amz-20",
     "description": "The ASICS Gel-Venture 11 pairs Rearfoot GEL cushioning with AMPLIFOAM PLUS midsole foam and an OrthoLite Hybrid Max Lite sockliner. This women's listing uses a mesh upper over a molded rubber outsole.\n\nCompared with the New Balance 410 v9, it adds a gel insert at the heel for extra shock absorption on hard-packed paths. Against the NORTIV 8 Women's, it brings a brand-name sockliner and softer foam.\n\nIt suits walkers who spend hours on firm trails and want impact relief at the heel. The listing notes that this women's version runs large.",
     "specs": [
       "Rearfoot GEL cushioning",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31v1tP5M1RL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H7BVZYSW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H7BVZYSW?tag=rvgearlab-amz-20",
     "description": "The NORTIV 8 Women's has a flexible EVA midsole, a full rubber outsole with 4mm traction lugs and a reinforced TPU toe cap. Its mesh upper is described as breathable enough for morning runs and weekend hikes.\n\nAgainst the ASICS Gel-Venture 11, it swaps the gel heel pad for a reinforced toe cap. Compared with the WaiWaiGo Barefoot, it offers a proper cushioned midsole and a more conventional fit.\n\nIt suits women who want a trail shoe that also works for trekking and everyday wear. The all-black colorway pairs easily with casual clothes.",
     "specs": [
       "EVA midsole, 4mm lugs",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41S1HZp5sQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FG2LP6H1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FG2LP6H1?tag=rvgearlab-amz-20",
     "description": "The NORTIV 8 Men's Wide has a roomy toe box, a Jacquard mesh upper and an arch support insole over a lightweight EVA midsole. A rubber outsole with 4mm lugs sheds mud and grips dirt.\n\nCompared with the New Balance 410 v9, it gives toes more space to splay on long downhills. Against the FENLERN Waterproof, it leans on breathability rather than a weather-resistant claim.\n\nIt suits men with broader forefeet who find standard trail runners pinch after a few miles. The listing also points to heavier runners benefiting from the insole.",
     "specs": [
       "Wide toe box",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41kk-8MRMML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GZVBLWY7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GZVBLWY7?tag=rvgearlab-amz-20",
     "description": "The FENLERN Waterproof is a men's trail runner with a reinforced mesh upper, abrasion-resistant overlays and a 5mm multi-directional lug outsole. The listing also offers wide width sizes.\n\nAgainst the NORTIV 8 Men's Wide, it uses deeper 5mm lugs for loose gravel and wet rock. Next to the New Balance 410 v9, it costs less and puts grip ahead of cushioning.\n\nIt suits budget-minded hikers who want a deeper lug and the option of a wide fit. The tongue is integrated to keep debris out.",
     "specs": [
       "5mm multi-directional lugs",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41EVjK-fTJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HFWCGF9T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HFWCGF9T?tag=rvgearlab-amz-20",
     "description": "The WaiWaiGo Barefoot is a zero-drop shoe with a wide toe box, a flexible rubber sole and a slightly arched insole. The upper combines suede leather patches with a minimalist profile.\n\nCompared with the cushioned picks, it sits closest to the ground and lets the foot move more freely. It costs the least in this list by a wide margin.\n\nIt suits walkers who like barefoot-style shoes and keep to smooth trails. Buyers moving to zero-drop should ease in gradually.",
     "specs": [
       "Zero-drop flexible sole",

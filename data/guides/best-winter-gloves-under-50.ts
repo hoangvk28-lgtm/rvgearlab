@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411HozrFKSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H8R6XBGH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H8R6XBGH?tag=rvgearlab-amz-20",
     "description": "The Pixel Panda Thinsulate glove has 3M Thinsulate insulation with a plush short-pile fleece lining, a water-repellent outer shell with a sealed waterproof inner bag and a drawcord cuff. An anti-loss snap clip keeps the pair together.\n\nA waterproof inner bag and named insulation give it more weather protection than the Aerynx 3-Layer and SIMARI Fleece Liner, which rely on repellent fabric. The 270-degree index-finger touch zone is larger than the three-finger zone on the Aerynx.\n\nIt suits a commuter or snow shoveler who wants real insulation and waterproofing at a low price. The reinforced thumb and silicone palm add durability.",
     "specs": [
       "3M Thinsulate, fleece lining",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41oBcTV9n0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FG32Y1Y9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FG32Y1Y9?tag=rvgearlab-amz-20",
     "description": "The Deemii C40 glove uses 3M C40 insulation, touchscreen PU on the thumb and index fingertips and a water-resistant, windproof outer coating. Sizes run from S to XXL, and the listing offers a 30-day trial.\n\nA wide size run gives a better fit than the one-size REACH STAR Knit and the two-size Tough Outdoors, and the C40 insulation is named. It costs about the same as the Pixel Panda Thinsulate.\n\nIt suits a runner, driver or walker who wants a close, insulated glove that fits true. The touchscreen tips handle phone use.",
     "specs": [
       "3M C40 insulation",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41mtB8scRiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FM45QM5B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FM45QM5B?tag=rvgearlab-amz-20",
     "description": "The Aerynx 3-Layer glove has a wind-blocking mid-layer and 320 gsm fleece, a water-repellent outer and a silicone palm. A three-finger touchscreen zone covers the thumb, index and middle fingers, and the listing gives a best-use range of 32 to 50 degrees Fahrenheit.\n\nThe listing tells you how it performs, with a best-use range and a layering tip below 25 degrees, which the other pairs do not state. The three-finger touch zone is wider than the two-finger tips on the Deemii C40 and SIMARI Fleece Liner.\n\nIt suits a cool-weather commuter, cyclist or runner and anyone who wants a clear range, and it layers well under a shell in colder weather. The silicone palm helps on handlebars.",
     "specs": [
       "3 layers, 320 gsm fleece",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31SGLTIWRQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07WSCSMR1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07WSCSMR1?tag=rvgearlab-amz-20",
     "description": "The SIMARI Fleece Liner is a thermal glove made of 95 percent polyester and 5 percent spandex with a warm fleece lining, 4-way stretch and high-sensitivity conductive fabric on the thumb and index finger. Silicone particles on the palm and fingers add grip, and reflective details are listed.\n\nIt is thinner and more flexible than the Pixel Panda Thinsulate, which suits driving and cycling. The reflective detail is a safety plus the Deemii C40 does not name.\n\nIt suits a driver, cyclist or runner who wants a close, stretchy glove or a liner under a bigger glove. It comes with 12-month quality support.",
     "specs": [
       "95/5 polyester-spandex, fleece",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41d1hmt-3DL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01KSLDRRI?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01KSLDRRI?tag=rvgearlab-amz-20",
     "description": "The Tough Outdoors One-Touch is a lightweight thermal glove with patented One-Touch touchscreen technology, 4-way stretch fabric and a water-resistant, windproof build. The listing says it works as a standalone glove for moderate cold or a liner for colder days.\n\nIt costs among the lowest here and layers under a heavier glove more easily than the Pixel Panda Thinsulate. The 4-way stretch gives better dexterity than the knit REACH STAR.\n\nIt suits a driver, cyclist or hiker who needs a thin glove for moderate cold and a liner in deep cold. The stretch fabric slides under a shell easily.",
     "specs": [
       "One-Touch touchscreen tech",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51rqvmnzyzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08FLXG4DY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08FLXG4DY?tag=rvgearlab-amz-20",
     "description": "The REACH STAR Knit is a women's winter glove with a skin-friendly acrylic lining, three-finger touchscreen fingertips, a 3D knit pattern and an elastic one-size fit for most women's palms. The knit design is meant for everyday cold.\n\nIts three touchscreen fingers match the Aerynx 3-Layer and give more reach than the two-finger Deemii C40, and its stylish knit pattern is unique here. It is among the lowest priced.\n\nIt suits a woman who wants a light, stylish glove for commutes, errands and phone use in mild cold. The knit pattern gives it a dressier look than a sports glove.",
     "specs": [
       "Acrylic lined knit gloves",

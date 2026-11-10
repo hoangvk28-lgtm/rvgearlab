@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Z9KoltmdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DGKQ4PLJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DGKQ4PLJ?tag=rvgearlab-amz-20",
     "description": "The PowerSmart is the only pick listing 3600 running watts, with 4400 peak and a 30A RV ready outlet that the listing says covers an air conditioner and microwave. It weighs 61 lbs and costs $337.83.\n\nIt is the cheapest here, $68.16 below the SIOKIUU, yet it carries the highest continuous rating. The trade is weight, since 61 lbs is the heaviest of the four. Pick this if you need real 3600W running power; the caveat is the lift.",
     "specs": [
       "4400W peak, 3600W running",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41v48x8PTeL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C1Q4K2G7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C1Q4K2G7?tag=rvgearlab-amz-20",
     "description": "The WEN 56360i uses a 149cc engine for 3600 surge and 2900 rated watts, at 46 pounds with RV ready outlets and a fuel shutoff. It sells for $498.\n\nIt costs $160.17 more than the PowerSmart and rates 700 watts lower, but it weighs 15 pounds less. Pick this if carrying weight matters more than raw output; the caveat is that you pay a premium for the brand and lighter body.",
     "specs": [
       "3600W surge, 2900W rated",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41KdBRQJSQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D3WR4CFR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D3WR4CFR?tag=rvgearlab-amz-20",
     "description": "The WEN dual fuel runs on gasoline at 3600 surge and 2900 rated watts, or propane at 3500 surge and 2600 rated, with a CO warning feature. It costs $594.60 and is RV ready.\n\nIt is $96.60 above the 56360i, and propane drops output by 300 rated watts. The benefit is fuel that stores for years. Pick this if you want propane for storms; the caveat is the highest price and the lower propane ceiling.",
     "specs": [
       "Gas 2900W rated, propane 2600W",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41E3dU14myL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GC5PB5KJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GC5PB5KJ?tag=rvgearlab-amz-20",
     "description": "The SIOKIUU lists 3600 peak and 3000 running watts, a 1.85 gallon tank for up to 18 hours of operation, and under 66.9 dBA from 23 feet. It sells for $405.99 with CO protection.\n\nIt is $188.61 below the WEN Dual Fuel and gives 100 more rated watts than the gasoline WEN. It is also the loudest listed. Pick this if long runtime matters most; the caveat is the 66.9 dBA ceiling and an unfamiliar brand.",
     "specs": [
       "3600W peak, 3000W running",

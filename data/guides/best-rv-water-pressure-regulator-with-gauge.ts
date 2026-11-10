@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51eBgOIoiSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CHC2QX6Z?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CHC2QX6Z?tag=rvgearlab-amz-20",
     "description": "The Renator Liquid Gauge pairs a liquid-filled gauge with brass construction and a lead content stated as under 0.13 percent per batch. The listing also mentions a 1-year warranty and US-based support.\n\nLiquid fill damps needle bounce, an advantage over a dry gauge. It costs more than the HipEpic Oil Dial, but the listing is more specific about lead testing and support than the Bukeer Preset 45 or the Hourleey Screw Gauge.\n\nIt suits owners who want a steady needle and a company they can contact. The catch is that the gauge range is not clearly stated on the listing.",
     "specs": [
       "Liquid-filled gauge",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41vR29RKmSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B085HCXPQL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B085HCXPQL?tag=rvgearlab-amz-20",
     "description": "The Hourleey Screw Gauge adjusts from 0 to 160 psi with a screw and uses lead-free brass with less than 0.13 percent lead. It has an inlet screened filter and 3/4 inch threads.\n\nA wide range gives you headroom, but the scale is tight around 50 psi compared with the 0 to 100 psi dial on the MEASUREMAN Compact. The listing warns that a missing gasket may cause leakage and that bubbles can appear in the gauge with temperature change.\n\nIt fits campers who want a screw-adjusted unit with a screen. Confirm the gasket is present before first use.",
     "specs": [
       "0 to 160 psi adjustable",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41JO1UDmVCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H6VWS6TQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H6VWS6TQ?tag=rvgearlab-amz-20",
     "description": "The HipEpic Oil Dial is adjusted by hand with no tool, and its dial is filled with silicone oil (0 to 140 psi) to prevent fogging and rust. The body is a fiber-enhanced PA6T material rather than brass, and a numeric scale sits above the button.\n\nAgainst the brass Renator Liquid Gauge, it is lighter and avoids brass cross-threading but is less familiar and has fewer details on lead statements. Its 0 to 140 psi scale reads slightly easier than a 0 to 160 dial.\n\nIt suits buyers who want a hand-turn unit with an anti-fog gauge. The listing notes it only reduces pressure, so do not expect it to boost a weak spigot.",
     "specs": [
       "Silicone oil filled 0 to 140 psi",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41iI0rimVjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B000EDQQD8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B000EDQQD8?tag=rvgearlab-amz-20",
     "description": "The Camco PSI Guard is a brass regulator with a gauge and a built-in PSI Guard preset at 40 to 50 psi. The listing calls it drinking water safe and certified lead-free through a CSA mention.\n\nUnlike the adjustable Hourleey Screw Gauge, it holds one preset range, which means you read the gauge to confirm rather than to adjust. It is priced close to the adjustable models, so you are paying for the name and certification mention.\n\nIt suits campers who want a preset with a gauge as a check on the supply. The catch is you cannot dial pressure if the spigot is low.",
     "specs": [
       "Preset 40 to 50 psi",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41P+OdIVbIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FD3PNNL6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FD3PNNL6?tag=rvgearlab-amz-20",
     "description": "The Bukeer Preset 45 comes preset to 45 psi and adjusts by an easy handle. It uses lead-free brass processed by heat casting and ships with 2 additional inlet filters and a roll of water tape.\n\nCompared with the Camco PSI Guard, it is adjustable and cheaper, and the spare filters make it more practical for dirty water. It names no certification mark as the Camco does.\n\nIt suits buyers who want a gauge unit with spares included. The listing gives little detail on the gauge range.",
     "specs": [
       "Preset 45 psi, handle adjust",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41oEIbJduHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B423PCQH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B423PCQH?tag=rvgearlab-amz-20",
     "description": "The MEASUREMAN Compact uses a 0 to 100 psi gauge on a 1.5 inch dial with a 1/8 inch NPT back connection, reducing pressure to a preset 40 to 50 psi. The listing describes a lead-free brass body and a stainless steel gauge design.\n\nIts 0 to 100 psi range spaces the numbers more widely around 50 psi than the 0 to 160 dial on the Hourleey Screw Gauge, though the small dial limits readability. It is the cheapest here and, like the Camco PSI Guard, is a preset.\n\nIt suits budget buyers who want a quick check on a preset. Expect approximate gauge accuracy of a few psi.",
     "specs": [
       "0 to 100 psi, 1.5 inch dial",

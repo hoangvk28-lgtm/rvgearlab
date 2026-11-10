@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51z6WGt3HJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FN3TVVD8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FN3TVVD8?tag=rvgearlab-amz-20",
     "description": "The Super Empower is a 12.8V 100Ah LiFePO4 battery in BCI Group 24 size, measuring 6.49 by 10.24 by 8.98 inches and weighing 21.6 lb. It has M8 terminals, Grade A cells and a built-in low-temperature function that pauses charging below 32 degrees F.\n\nIt is the lightest pick and the only one that is a drop-in Group 24 fit. Compared with the VEMDIA it is smaller in footprint and carries named charging options for solar, generator and alternator.\n\nIt suits RV owners swapping a tired lead-acid battery for lighter lithium without rebuilding the box. Discharge stops at -4 degrees F and resumes above 41 degrees F.",
     "specs": [
       "12.8V 100Ah LiFePO4, Group 24",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41IQBJwAjvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FPYNK8WW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FPYNK8WW?tag=rvgearlab-amz-20",
     "description": "The VEMDIA is a 12V 100Ah LiFePO4 battery in Group 31 size, weighing 24 lb. A 100A smart BMS guards against overcharge, over-discharge, over-current and short circuits, with 15,000 cycles at 60 percent DoD listed.\n\nIt costs less than the Super Empower and the AGM Weize. Compared with the Renogy AGM it weighs a fraction and lists a much longer cycle life.\n\nIt suits RV and trolling motor users who want lithium at a lower price. Fast charging in about 5 hours at 14.6V and 20A is listed.",
     "specs": [
       "12V 100Ah LiFePO4, Group 31",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41bqV6Wt2oL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07SW353M8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07SW353M8?tag=rvgearlab-amz-20",
     "description": "The Weize 12V 100Ah AGM measures 12.99 by 6.73 by 8.43 inches, with 1 to 3 percent monthly self-discharge and a 1150A maximum discharge current. Charging works from 14 to 122 degrees F.\n\nIt is higher priced than the VEMDIA and Renogy and lists the highest discharge current of the AGM pair. Compared with the lithium picks it uses a plain AGM charge profile and gives up the weight savings.\n\nIt suits RV owners who want a sealed, low-maintenance battery without a lithium charger. Low self-discharge helps when the rig sits in storage.",
     "specs": [
       "12V 100Ah AGM",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31soCn59teL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B075RFXHYK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B075RFXHYK?tag=rvgearlab-amz-20",
     "description": "The Renogy 12V 100Ah AGM supports series connections without limit and parallel connections up to four batteries. It works from -4 to 140 degrees F and lists a 1100A five-second discharge.\n\nIt costs less than the Weize 100Ah and works in a wider temperature range than the lithium picks' charge limits. Compared with the Super Empower it weighs more and lacks a BMS.\n\nIt suits campers who build a larger bank from several identical batteries. The listing says it can run a fridge, microwave and CPAP.",
     "specs": [
       "12V 100Ah AGM",

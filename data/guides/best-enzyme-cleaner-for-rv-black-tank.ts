@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31XzWgpOxCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BP8698N4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BP8698N4?tag=rvgearlab-amz-20",
     "description": "Unique Clean-It is a 32 oz liquid for deep cleaning a black and holding tank, described as using billions of enzymes and probiotics to break down solid waste, toilet paper and residue. The listing says it works in 48 to 72 hours with no driving and is septic safe.\n\nAgainst the ACTIVE treatment, it is a reset product for periodic use rather than a per-flush dose. Against Unique Restore-It, it targets buildup on tank walls rather than sensor probes.\n\nBest for a tank that smells even after regular treatment. It is a reset, so it does not replace a routine dose.",
     "specs": [
       "Enzymes and probiotics blend",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/519wsJd6UpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C8W5ZXQ8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C8W5ZXQ8?tag=rvgearlab-amz-20",
     "description": "The ACTIVE treatment is a concentrated 32 oz liquid sold as 16 uses, with a dose of 2 oz poured into the toilet. It lists enzymes and bacteria that digest toilet paper, waste, grease and sludge.\n\nCompared with Unique Clean-It, it is meant for each tank cycle rather than a one-off reset, and its per-use cost is easy to calculate. Compared with Clean Camper EcoBlast, it makes fewer odor-chemistry claims.\n\nBest for steady weekend use with a simple dose. It is not a substitute for a deep clean of an already fouled tank.",
     "specs": [
       "16 treatments per 32 oz",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51wXOS05e4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GXMT3HQ5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GXMT3HQ5?tag=rvgearlab-amz-20",
     "description": "Clean Camper EcoBlast is a 32 oz liquid with a multi-enzyme blend that breaks down waste and toilet paper, plus odor-capture chemistry aimed at sulfur and sewage smells. It carries an ocean breeze scent and says it keeps sensors clean.\n\nVersus Unique Restore-It, it combines odor and sensor language in one dose rather than treating an existing sensor problem. Versus the ACTIVE treatment, it leads with odor chemistry and a scent.\n\nBest for owners whose main complaint is smell. The sensor claim is a maintenance claim, not a repair.",
     "specs": [
       "Multi-enzyme formula",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/318OoPLKA1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BP86QPX4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BP86QPX4?tag=rvgearlab-amz-20",
     "description": "Unique Restore-It is a 32 oz sensor cleaner that uses an enzyme and bacteria formula to dissolve waste and toilet paper clinging to sensor probes. The listing states it is not intended to repair damaged or faulty sensors.\n\nCompared with Unique Clean-It, it targets probe film instead of a whole-tank reset. Compared with Clean Camper EcoBlast, it is a corrective product for existing misreads.\n\nBest when readings are wrong because of stuck waste. If a sensor has failed, this will not fix it.",
     "specs": [
       "Enzyme and bacteria formula",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Td-obDv4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08WR3G99Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08WR3G99Q?tag=rvgearlab-amz-20",
     "description": "This Biokleen listing is a 1 gallon concentrated black streak remover and degreaser for exterior surfaces, described as removing streaks, oil stains and grease. It is sold for RV and marine use, not for holding tanks.\n\nIt ranks below the four tank treatments because it does nothing for waste breakdown. Compared with Biokleen Streak A, it is the same product on a different listing at a lower price.\n\nBest for exterior streaks only. Do not pour it into a toilet or tank.",
     "specs": [
       "Exterior streak remover",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41lWFiD8UHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B007H2RJ80?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B007H2RJ80?tag=rvgearlab-amz-20",
     "description": "This Biokleen listing is a 128 fl oz multi-purpose cleaner and degreaser for removing black streaks from boats, trailers and RVs. It says to spray on and wipe off for a streak-free finish.\n\nCompared with Biokleen Streak B, it is the same family of product at a higher price. It also has no relevance to tank waste.\n\nBest for exterior streak work and nothing inside the plumbing. Read the label for dilution before use.",
     "specs": [
       "Exterior streak remover",

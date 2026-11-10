@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hMI-M1k6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H4KV71CX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H4KV71CX?tag=rvgearlab-amz-20",
     "description": "The Edovaf 50A is rated IP67 with a sealed dust tight cover and a flame retardant housing. It lists 22,000J of surge protection, auto shutoff and reset, a built in circuit analyzer, and Bluetooth app monitoring of voltage, current, wattage and frequency. The plug is a standard NEMA TT-50P and the listing says UL listed.\n\nIt costs $50.00 more than the Toujreo 50A, and the extra money buys the app with remote cutoff and the IP67 sealed cover. Pick this if you want to watch the pedestal from inside the rig during a storm. The caveat is that the listing gives no cutoff voltages, so check the manual for exact trip points.",
     "specs": [
       "50A, 22,000J",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51a0zZ7x1lL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FJ62JD6C?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FJ62JD6C?tag=rvgearlab-amz-20",
     "description": "The Toujreo 50A lists 20,000J of surge protection, an IP68 weatherproof cover and a LED circuit analyzer with error codes. Housing is V-1 flame retardant, and the unit is FCC tested. It plugs in with no tools and works with campers, motorhomes and travel trailers.\n\nAt $69.99 it is $22.00 more than the RVRVHOMM 50A and $50.00 less than the Edovaf 50A. You give up the app, keeping a screen readout with real time voltage. Pick this if you want a rugged cover and diagnostics without Bluetooth. The caveat is that the listing does not state auto reset behavior or a warranty.",
     "specs": [
       "50A, 20,000J",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41VzE7mbjTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F6K3YCWG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F6K3YCWG?tag=rvgearlab-amz-20",
     "description": "The RVRVHOMM 50A lists 30,000J of absorption with MOV, GDT and TVS layers, and a rating of 50A, 125V and 6250W. It carries an IP68 waterproof cover, a 3 year warranty and a circuit analyzer that flags open neutral, open ground, reverse polarity and missing L1 or L2.\n\nAt $47.99 it is $22.00 under the Toujreo 50A, and it states the most fault types of any 50A pick here. The flag styled housing is cosmetic. Pick this if you want the lowest 50A price with a real warranty. The caveat is that a brand with little track record means support is less proven than Progressive's.",
     "specs": [
       "50A/125V/6250W, 30,000J",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41T7u17wX+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B015Y9MX38?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B015Y9MX38?tag=rvgearlab-amz-20",
     "description": "The Progressive Industries SSP-30XL is a 30A, 120V portable unit rated at 3,600W and 825 joules. It warns on high and low voltage, open ground and neutral, reverse polarity, surge failure and frequency problems. It includes an all weather shield assembly, thermal protection and a Lexan housing, and is made in the USA.\n\nAt $51.55 it costs $21.56 more than the PlugSaf 30A and lists far fewer joules. Progressive's EMS style behavior is the draw, since it cuts power on bad conditions. The shield is not given an IP rating, so use it in sheltered spots. Pick this if you have a 30A rig and value cutoffs over big joule numbers. The caveat is no app.",
     "specs": [
       "30A, 120V, 3,600W",
@@ -133,7 +133,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41mZGZOSiEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GDF44K4L?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GDF44K4L?tag=rvgearlab-amz-20",
     "description": "The PlugSaf 30A lists 22,000J, an LED display of voltage, current and power, and auto shutoff for over voltage, under voltage and over temperature. It resets after conditions recover, and its oversized waterproof cover is described as roomy enough for the plug. The listing says ETL and FCC certified.\n\nAt $29.99 it is $21.56 under the Progressive SSP-30XL, the cheapest pick here. The cover is called waterproof but no IP rating is given. Pick this if you have a 30A trailer and want protection plus a readout cheaply. The caveat is that cutoff voltages and warranty are not stated.",
     "specs": [
       "30A, 22,000J",

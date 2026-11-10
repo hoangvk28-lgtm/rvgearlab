@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41KXc1116fL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BXBKHCBK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BXBKHCBK?tag=rvgearlab-amz-20",
     "description": "Camco's pre-filter is a pure sediment stage that captures particles larger than 20 microns and is meant to sit ahead of an existing inline filter. The listing says it extends the life of the downstream filter by trapping dirt and debris, and it fits standard Camco-style inline filters.\n\nAgainst the Camco combo filters below, it does one job and costs far less. It is also the only pick that is not a drinking water filter on its own.\n\nIt suits anyone who already owns a carbon filter and wants it to last. It does not reduce chlorine or taste, so pair it with another filter.",
     "specs": [
       "20-micron sediment stage",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41SP0q7QmYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00BEDNXTW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00BEDNXTW?tag=rvgearlab-amz-20",
     "description": "This four-pack uses GAC and KDF with a 20-micron sediment filter in a wide-body inline design. Each filter is rated to last about three months, so the set covers about a year.\n\nCompared with Camco Sediment Pre-Filter above, you get carbon and KDF too, at a higher price. Against Camco Tastepure below, it is a multi-pack sold for a year of use.\n\nBest for full-timers who want a year of combined sediment and taste filtering. The wide-body design means more bulk at the spigot.",
     "specs": [
       "20-micron sediment filter",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51snwG3Z8zL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0006IX87S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0006IX87S?tag=rvgearlab-amz-20",
     "description": "Tastepure is an inline GAC and KDF filter listed to NSF/ANSI 42 and 53, with CSA lead-free certification to 372. The listing says it reduces taste, odor, chlorine and sediment.\n\nAgainst Camco Wide-Body 4-Pack above, it has named certifications but you buy one at a time. Compared with Hourleey 2-Pack below, you pay more for the standards listing.\n\nA good all-round pick when sediment is only part of the story. The listing does not give a micron rating, so check it if grit is your main concern.",
     "specs": [
       "NSF/ANSI 42 and 53",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41HLIcYCHtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CBJZ4238?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CBJZ4238?tag=rvgearlab-amz-20",
     "description": "Hourleey offers two inline filters with GAC and KDF that reduce taste, odor, chlorine and sediment, with reinforced food-grade housings and flexible hoses. Each lasts up to three months.\n\nAgainst Camco Tastepure above, you get two filters and swivel hoses at a lower cost but no named certification. Compared with Camco Sediment Pre-Filter, it filters more than particles.\n\nGood for occasional campers with moderately gritty water. No micron rating appears on the listing, so verify before depending on it for fine silt.",
     "specs": [
       "GAC and KDF media",

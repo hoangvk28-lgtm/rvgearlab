@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21Lqewm4RzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GNTHRMHL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GNTHRMHL?tag=rvgearlab-amz-20",
     "description": "The LIQUISHINE Black Streak Remover targets black streaks from rain runoff, oxidation and pollution on fiberglass and painted RV sidewalls. The listing says it is safe for fiberglass, painted surfaces, decals and other exterior components when used as directed, and works wet or waterless with a 30 to 60 second dwell.\n\nAgainst the Thetford Black Streak and Bug Remover, it names decals directly. Against the STAR BRITE Ultimate Vinyl Clean, it targets sidewall streaks rather than upholstery and trim.\n\nBest for owners who want a streak cleaner that states decal safety. Spray, wait, then wipe.",
     "specs": [
       "Black streak remover",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ZYi0RMy1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00KARB5V6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00KARB5V6?tag=rvgearlab-amz-20",
     "description": "The Thetford Premium RV Black Streak and Bug Remover is a 64 ounce spray-and-wipe formula that needs no rinsing. The listing says it removes black streaks, bugs and tough stains and is non-toxic, non-flammable and 100 percent biodegradable.\n\nAgainst the LIQUISHINE, it needs no rinse and costs about the same for double the volume. Against the Spray and Forget kit, it is a single spray cleaner.\n\nBest for quick cleanups on a large rig. It works on RVs, boats, cars and more.",
     "specs": [
       "64 oz spray-and-wipe",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41tm8fkffTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01CZ2ZW4O?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01CZ2ZW4O?tag=rvgearlab-amz-20",
     "description": "The STAR BRITE Ultimate Vinyl Clean Multi-Surface Cleaner removes dirt, grime and greasy stains from vinyl, plastic, rubber and leather. The listing says to spray, rub in a circular motion and wipe or rinse, and names RV upholstery, trim and outdoor cushions.\n\nAgainst the LIQUISHINE, it is a vinyl cleaner rather than a streak remover. Against the Thetford Black Streak and Bug, it is a vinyl and trim cleaner.\n\nBest for vinyl trim, upholstery and graphics that are not near heavy streaks. The listing notes stubborn stains may need a repeat.",
     "specs": [
       "Vinyl, plastic, rubber cleaner",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41iQQgCMCzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CWVN7VRV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CWVN7VRV?tag=rvgearlab-amz-20",
     "description": "The Spray and Forget RV and Camper Wash and Wax Combo bundles a 1 quart wash and a 1 quart wax with hose-end adapters. The listing says the wash foams for a streak-free shine and the wax offers water-beading and protection from acid rain.\n\nAgainst the LIQUISHINE, it washes and waxes the whole rig. Against the Thetford Black Streak and Bug, it is a hose-end system.\n\nBest for owners who want a wash-and-wax routine with hose-end ease. Wash first, then follow with the wax.",
     "specs": [
       "Wash and wax combo, 1 quart each",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41+lSQcpRTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BP86NFPY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BP86NFPY?tag=rvgearlab-amz-20",
     "description": "The Unique Scrub-It Liquid RV Toilet Bowl Cleaner is a 24 ounce hybrid liquid-gel with a squirt-top applicator. It is safe for porcelain, ceramic and plastic RV toilets and will not damage seals, valves or gaskets.\n\nAgainst the decal-safe cleaners here, it is a bathroom product. Against the Spray and Forget kit, it is a toilet cleaner.\n\nBest for RV bathrooms and not for graphics. It appears in results but does not clean decals.",
     "specs": [
       "24 oz RV toilet bowl cleaner",

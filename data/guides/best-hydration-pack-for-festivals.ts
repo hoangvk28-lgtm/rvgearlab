@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41BQP+yrleL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DXLDMVCK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DXLDMVCK?tag=rvgearlab-amz-20",
     "description": "The Blue Quartz pack has a 2L BPA-free bladder inside an insulated compartment to help keep water cool longer. A zippered shoulder pocket holds a phone or snacks, and an L-shaped wide-opening zipper makes packing a jacket easy.\n\nCompared with the Unigear, it adds insulation and a shoulder pocket. Against the Roptat, it offers an L-shaped opening with breathable mesh straps and a ventilated back panel.\n\nIt suits festival-goers who want cold water and quick phone access. The listing names music festivals, cycling and hiking.",
     "specs": [
       "2L bladder, insulated compartment",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51HMvmAxb6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CYBMML5P?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CYBMML5P?tag=rvgearlab-amz-20",
     "description": "The Zavothy Holographic weighs 0.92 pounds and has an iridescent finish, a BPA-free and PVC-free 2L bladder and a wide-mouth opening for ice. Multi-directional reflective accents and a reflective bungee cord boost visibility at night, and the front bungee holds a light layer.\n\nCompared with the other Zavothy, it adds reflective detail and a no-bounce fit. Against the Blue Quartz, it stands out in a crowd.\n\nIt suits evening festivals and after-dark events. Side tube routing works for left- or right-handed use.",
     "specs": [
       "0.92 lb, 2L bladder",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51MOdmcmoxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CB5WFDPK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CB5WFDPK?tag=rvgearlab-amz-20",
     "description": "The Zavothy Rave offers bright colors and patterns, with fully adjustable shoulder and chest straps, a PVC- and BPA-free 2L bladder and high-density notched foam stabilizers. It is built for men and women, with cushioned breathable mesh and quick-drain details.\n\nCompared with the holographic Zavothy, it offers more color choice. Against the KUYOU, it has a stabilizer foam for a no-bounce feel.\n\nIt suits festival-goers who want a standout, comfortable pack. The bladder removes through the main pocket.",
     "specs": [
       "2L PVC- and BPA-free bladder",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51bkDwBZkGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B088M1132Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B088M1132Y?tag=rvgearlab-amz-20",
     "description": "The KUYOU Rave pack has a thick insulated layer and a thermal compartment that the listing says keeps liquids cold or hot for up to 4 hours. It includes a 2L BPA-free bladder, an adjustable chest strap and bright colors.\n\nCompared with the Roptat, it is cheaper with similar insulation. Against the Zavothy packs, it adds a thermal layer.\n\nIt suits festivalgoers on a budget who want cold water. The soft bite valve works with a bite and suck motion.",
     "specs": [
       "2L BPA-free bladder",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/417T02GlQpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FQTRN5MD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FQTRN5MD?tag=rvgearlab-amz-20",
     "description": "The Roptat pack has fully adjustable shoulder and chest straps plus a waist adjuster, a waterproof nylon build and an insulation compartment that keeps drinks cool for up to 4 hours. It includes a 70 ounce bladder with a soft high-flow mouthpiece.\n\nCompared with the Blue Quartz, it adds a waist adjuster for a tighter fit. Against the KUYOU, it adds waist adjustment.\n\nIt suits festival-goers who want a snug, stable fit. The listing names music festivals, kayaking and walking.",
     "specs": [
       "2L (70 oz) bladder",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51zkUfpwNXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07CWMMGLT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07CWMMGLT?tag=rvgearlab-amz-20",
     "description": "The Unigear pack measures 16.5 by 8 by 6 inches and weighs 1.1 pounds with its 2L bladder. Adjustable shoulder, chest and waist straps fit chest sizes from 27 inches up to adults, in splash-resistant nylon with a small front pocket for keys and snacks.\n\nCompared with the Roptat, it fits a wider range of sizes including teens. Against the Blue Quartz, it is simpler with a smaller pocket.\n\nIt suits families and teens at festivals. It carries a bladder with an airflow system that keeps water fairly cool.",
     "specs": [
       "16.5 x 8 x 6 inches, 1.1 lb",

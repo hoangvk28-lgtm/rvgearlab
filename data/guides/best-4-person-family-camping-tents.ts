@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41JfiYDHchL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CTMH7MXK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CTMH7MXK?tag=rvgearlab-amz-20",
     "description": "The Loyeahcamp is a 4-person dome that measures 92.5 by 84.6 by 59 inches and uses blackout fabric with a 3000mm waterproof coating. Three roof vents and a low side vent create a chimney effect, and nearly vertical walls give the family more headroom than a standard dome.\n\nAgainst the Rivenlo it swaps the pop-up frame for a pole dome and adds blackout fabric and a 3000mm rating. Compared with the Wakeman it adds blackout fabric and a 3000mm rating.\n\nIt is the pick for families with kids who nap or wake at sunrise. Two people set it up in about 5 minutes.",
     "specs": [
       "92.5 x 84.6 x 59 in",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41i8mZje6dL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GJRPRNXY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GJRPRNXY?tag=rvgearlab-amz-20",
     "description": "The Rivenlo pops up automatically and is listed as 9.5 by 6.6 by 4.3 feet. The listing says it takes up to 4 people in sleeping bags or 2 to 3 people with lots of gear, and a removable waterproof rainfly sits over an overhead skylight.\n\nAgainst the Loyeahcamp it unfolds without poles to thread and costs less, and it lists no millimeter rating. It has four mesh windows and two doors for cross ventilation, plus storage pockets and a lantern hook.\n\nIt suits families who arrive late or who dislike pole sleeves. A skylight lets you see the stars from your bag.",
     "specs": [
       "Automatic pop-up setup",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41TOKPvd7ZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F7J4WP6H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F7J4WP6H?tag=rvgearlab-amz-20",
     "description": "The Wakeman is a 4-person dome measuring 8 ft 6 in by 7 ft by 4 ft 8 in with a 59 inch center. It has a large D-style door, durable fiberglass poles, a removable rainfly and a built-in organizer pocket, and the fabric is 600MM 190T poly taffeta.\n\nPriced under the other three, it ships with a carrying bag. Against the Loyeahcamp it has no blackout fabric, and compared with the Coleman it is lighter on features and cost.\n\nIt fits families on a small budget who want a basic four-person dome with a big door. Mesh walls help airflow and the view.",
     "specs": [
       "8 ft 6 in x 7 ft floor",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31NsFyuHaWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7QK1N81?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7QK1N81?tag=rvgearlab-amz-20",
     "description": "The Coleman 4/6/8/10 is an instant tent with an 8 ft by 7 ft footprint, an integrated rainfly and double-thick Polyguard 2X fabric. Setup is listed in as fast as 1 minute, and the listing mentions a pitch of under 5 minutes thanks to pre-attached poles.\n\nIt costs the most of the four and sits in a size family, so the 4-person option is the one to pick. Against the Rivenlo it adds an integrated fly and a recognized brand.\n\nIt suits families who want a fast pitch and a name they trust. The integrated rainfly adds protection and airflow.",
     "specs": [
       "4/6/8/10 size family",

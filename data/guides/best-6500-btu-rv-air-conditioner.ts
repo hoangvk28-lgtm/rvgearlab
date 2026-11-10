@@ -30,7 +30,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41wQdGVM1OL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HHRWX6N4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HHRWX6N4?tag=rvgearlab-amz-20",
     "description": "The ARLIME is a 6,500 BTU ETL-certified RV window air conditioner with 118 CFM airflow, WiFi app control and Alexa and Google Home voice control. It offers cooling, fan, dry and sleep modes. At $489.99 it is the best overall match for a truly small space.\n\nAgainst the SIMOE, it adds a conventional window-style install and the ETL certification noted in the listing, which makes it a simple choice for anyone with a suitable window opening. Compared with the larger rooftop units, it uses far less power and does not need a roof cutout, which keeps installation simple and reversible.\n\nIt is the pick for owners of vans, campers and small trailers who want smart controls, a certified design and a unit sized to the space.",
     "specs": [
       "6,500 BTU window unit",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41g9-SSSrXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H69MDVYL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H69MDVYL?tag=rvgearlab-amz-20",
     "description": "The SIMOE is a 6,500 BTU over-the-sill RV air conditioner with a split design, a compact indoor blower and an outdoor unit, and 118 CFM airflow. It works with app and voice control. At $479.99 it costs about ten dollars less than the ARLIME.\n\nThe split design separates the indoor blower from the outdoor unit, which saves window space and lets you keep the window usable. Compared with the ARLIME, it needs a sill opening rather than a full window and gives a neater interior look.\n\nIt is the pick for owners who want to keep a window clear, have a sill opening and like the idea of a compact indoor unit with app and voice control.",
     "specs": [
       "6,500 BTU over-the-sill",
@@ -86,7 +86,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/514-RzYkKSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CWXZS1GR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CWXZS1GR?tag=rvgearlab-amz-20",
     "description": "The COOLIGO is a 12V DC, 6,500 BTU rooftop unit with inverter cooling, a 20cc scroll compressor and R-134A refrigerant. At $417.99 it is the lowest priced unit in this comparison and runs on a battery.\n\nAgainst the ARLIME and SIMOE, which use household-style power, it runs from 12V DC, which suits vans and small RVs with a battery bank and no shore power. The inverter cooling reduces energy use, and the fast-cooling motor helps in a small cabin.\n\nIt is the pick for van builders, light RV owners and off-grid campers who want air conditioning from a battery system and a low price.",
     "specs": [
       "12V DC, 6,500 BTU rooftop",
@@ -114,7 +114,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41NUyHPn7HL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D73GJ6ZW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D73GJ6ZW?tag=rvgearlab-amz-20",
     "description": "The TURBRO is a 15,000 BTU, 115V rooftop unit with 1,500W electric heating, 52 dB operation, a remote and a smart app. It also has fan and dry modes and an atmosphere lamp feature. It costs $799.99.\n\nIt is far larger than 6,500 BTU and costs about 380 dollars more than the COOLIGO. The 1,500W heater adds winter use, which the three 6,500 BTU units do not offer, and the smart app allows remote control.\n\nIt is the pick for owners of a mid-size trailer who need real cooling capacity, want built-in electric heat and can supply strong shore or generator power.",
     "specs": [
       "15,000 BTU, 1,500W heat",
@@ -142,7 +142,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41TZPU4QTSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B22WCYKR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B22WCYKR?tag=rvgearlab-amz-20",
     "description": "The RecPro 13.5K non-ducted unit is a cooling-only rooftop air conditioner with a low amp draw, 59.7 dB operation, a wireless remote with an LED display and a UV-resistant plastic shroud. It costs $959.95.\n\nIt is twice the size of 6,500 BTU and costs about 160 dollars more than the TURBRO. The low amp draw makes it easier on a 30 amp supply or a generator than many larger units, and the non-ducted install suits many roofs.\n\nIt is the pick for owners replacing a standard 13,500 BTU rooftop unit who want a low amp draw and a simple remote and have no need for heat.",
     "specs": [
       "13,500 BTU non-ducted",
@@ -170,7 +170,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41YDVqPAaqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FGQB41SF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FGQB41SF?tag=rvgearlab-amz-20",
     "description": "The TOSOT is a 16,000 BTU rooftop unit with a 12,500 BTU heat pump, 43 dB operation and an operating range from 23 to 115 degrees Fahrenheit, in a 14.25 inch roof fit. At $972.80 it is the most feature-rich option.\n\nIt is the quietest of the six and the highest priced, and it is much larger than 6,500 BTU. The heat pump gives efficient winter heating down to the stated 23 degree limit, which separates it from the cooling-only RecPro.\n\nIt is the pick for owners of large trailers and fifth wheels who want quiet operation, a heat pump and a wide temperature range.",
     "specs": [
       "16,000 BTU, 12,500 BTU heat pump",

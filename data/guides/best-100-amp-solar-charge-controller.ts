@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41363XtW6dL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F8VS8WX6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F8VS8WX6?tag=rvgearlab-amz-20",
     "description": "LiTime's 100A lists 150V PV, 99% tracking and built-in Bluetooth with password pairing. LiTime's 100A MPPT controller lists 99% tracking efficiency, 150V maximum PV input and built-in Bluetooth with password-protected pairing and a range of about 50 feet in open space. The listing warns it is not waterproof and not suitable for marine use.\n\nIt is far better documented than ELUSH 100A and EpRec 100A and costs the most. The listing warns it is not waterproof.\n\nBest for a large indoor-mounted system that wants an app. It is the premium, app-ready 100A, best installed indoors.",
     "specs": [
       "100A MPPT, 12V to 48V",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31CjB8kwRbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H28TFT8P?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H28TFT8P?tag=rvgearlab-amz-20",
     "description": "PowMr's 100A MPPT lists 99.9% tracking, 150V PV and eight layers of protection. PowMr's 100A MPPT controller lists 99.9% tracking efficiency, a 150V maximum PV input and DSP control with an LCD. It works with 12V, 24V, 36V and 48V batteries and lists eight layers of protection.\n\nIt costs less than half of LiTime 100A and lacks Bluetooth. Efficiency is a brand claim.\n\nBest for most 100A builds. It is a strong, documented 100A for large RV or off-grid arrays.",
     "specs": [
       "100A MPPT, 12V to 48V",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41BCPBpGI9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CYC435HG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CYC435HG?tag=rvgearlab-amz-20",
     "description": "PowMr's parallel-version 100A supports 12V, 24V and 48V and up to 12 units. This PowMr 100A MPPT listing supports 12V, 24V and 48V batteries and up to 12 units in parallel. It uses die-cast aluminum with dual cooling and a negative-ground design.\n\nIt costs more than PowMr 100A 150V but adds parallel expansion. It is negative ground with dual cooling.\n\nBest for a modular off-grid system. It is the scalable 100A for large off-grid builds.",
     "specs": [
       "100A MPPT, 12V/24V/48V",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41XlYti2J2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CX1534BP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CX1534BP?tag=rvgearlab-amz-20",
     "description": "ELUSH's 100A lists 100V PV, a backlit LCD with a clock and seven modes. ELUSH's 100A MPPT controller accepts up to 100V of PV input and handles 12V, 24V, 36V and 48V systems. A backlit LCD with a clock shows data across seven operating modes, and voltage and current protections are listed.\n\nIt is far cheaper than PowMr 100A 150V but has a lower PV cap. It covers 12V to 48V.\n\nBest for a smaller string under 100V. It is a budget-priced high-amp unit, so confirm warranty terms with the seller.",
     "specs": [
       "100A MPPT, 12V to 48V",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41oVcYUrePL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08R2PB3KS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08R2PB3KS?tag=rvgearlab-amz-20",
     "description": "EpRec's 100A MPPT auto-adapts to 12V or 24V with an LCD and dual USB. EpRec's 100A MPPT controller auto-adapts to 12V or 24V, with a multi-function LCD and dual USB ports. The listing says to connect the battery first and describes a tracking method that detects the maximum charging current.\n\nIt undercuts ELUSH 100A but gives no PV cap. Ask the seller.\n\nBest for a 12V or 24V budget build where you verify specs. It is a budget 100A, so verify PV limits and warranty with the seller.",
     "specs": [
       "100A MPPT, 12V/24V auto",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41xs3+5ZM3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C6JTFF8D?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C6JTFF8D?tag=rvgearlab-amz-20",
     "description": "JahyShow's 100A listing mixes PWM and maximum power point tracking terms and gives few specs. JahyShow's 100A controller lists 12V/24V auto parameters, an adjustable LCD, dual USB ports and timer settings. The listing mixes the terms PWM and maximum power point tracking in its copy and claims a 10% to 30% efficiency gain.\n\nIt is the cheapest unit here and the least clear. Ask what charging method it uses.\n\nBest only if you can verify specs with the seller. Ask the seller to confirm the charging method and PV voltage limit before buying.",
     "specs": [
       "100A, 12V/24V auto",

@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/512kv3yD7WL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F47ZX3FP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F47ZX3FP?tag=rvgearlab-amz-20",
     "description": "The LANDERPOW 1000W is a pure sine wave inverter with 2000W surge and a listed efficiency above 91 percent. It has three AC outlets, a 5V/3.1A USB port, a 30W USB-C PD port, a 15ft wired remote with an LED screen, and two 7AWG battery cables about 2 feet long in the box. At $99.99 it is the second cheapest pick here.\n\nIt ranks first because it covers the loads most travelers actually run, and it is $10 cheaper than the ALLWEI 1000W while including a remote and cables. It does less than the TOPBULL 3000W, which costs $50 more, but it also asks for far less from your battery. Next to the $41.99 BESTEK 300W it adds roughly 700W more continuous output for $58 more.\n\nPick it if you want one inverter for a TV, laptops, CPAP and chargers and you have a single 12V battery or a small bank. The caveat is that nothing in the listing mentions a transfer switch, a GFCI outlet or a warranty length, so look at the manual before you rely on it for anything beyond plug-in loads.",
     "specs": [
       "1000W continuous, 2000W surge",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/414jpbca9vL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GKG3CXNF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GKG3CXNF?tag=rvgearlab-amz-20",
     "description": "The ALLWEI 1000W is another pure sine unit with 2000W surge, but its listing leads with a safety claim: it is ETL listed to UL 458, the standard for inverters used on vehicles. It adds eight protections covering low and high voltage, over and under temperature, and overload, along with load and temperature controlled fans in an aluminum alloy housing. The text also describes ultra low no-load loss.\n\nIt ranks second because it costs $10 more than the LANDERPOW 1000W for the same output class, and what you gain is the documented listing rather than extra features. Compared with the TOPBULL 3000W it is $40 cheaper and a much lighter demand on the battery. It is a better fit than the Cantonape 3000W when waveform and certification matter more than raw wattage.\n\nChoose it if an insurer, campground or your own caution makes a listed product worth ten dollars. The caveat is that the listing shows no remote and no exact no-load figure, so verify the control layout and idle draw on the full listing.",
     "specs": [
       "1000W, 2000W surge",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51J-KtOqqzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C8HSTD6N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C8HSTD6N?tag=rvgearlab-amz-20",
     "description": "The TOPBULL 3000W lists 3000W continuous and 6000W peak, two 20A 120V outlets, a 3.4A USB port, a 30W Type-C port, ten protection mechanisms and thick pure copper battery cables. Its standout feature is a 200ft wireless remote with a color LED display and one-button shutdown, which is unusual at this price.\n\nIt ranks third because 3000W is only useful if your battery bank, cable and fuse can feed it. At full load a 3000W inverter pulls roughly 250A from a 12V battery before conversion losses, which is more than a single typical lithium battery's battery management system will allow. It is $40 above the ALLWEI 1000W and $10 above the Cantonape 3000W, and the extra $10 is what separates it from a modified sine unit if the waveform is pure sine, which the listing does not state, so confirm it.\n\nPick it if you have a large lithium bank and want to run a high-draw tool or a window air conditioner on a short run. The caveat is the waveform wording and the lack of a listed warranty length, so ask before connecting expensive electronics.",
     "specs": [
       "3000W continuous, 6000W peak",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411FqrNufmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DLKP7BNY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DLKP7BNY?tag=rvgearlab-amz-20",
     "description": "The Cantonape 3000W is a modified sine wave inverter with 3000W continuous and 6000W surge, four AC outlets, four USB ports, an LCD showing input and output voltage, battery and load, and a remote controller. The listing notes the remote needs its own 12V 23A battery, and it mentions an isolated ground neutral design, a durable aluminum body and a temperature controlled fan.\n\nIt ranks fourth because modified sine wave output is the cheaper compromise. At $139.99 it is $10 below the TOPBULL 3000W and $40 above the ALLWEI 1000W, and it is the only pick that states modified sine plainly. Resistive loads such as heaters, incandescent lights and many chargers tolerate it, while motors, CPAP machines and some power supplies run hotter or noisier.\n\nPick it only for simple loads such as work lights and basic tools, and when budget decides. The caveat is the waveform, so do not connect medical equipment, newer TVs with sensitive power supplies or variable speed tools without checking each device's manual.",
     "specs": [
       "3000W, 6000W surge",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/412rMoe7qxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07KQ4Q2L5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07KQ4Q2L5?tag=rvgearlab-amz-20",
     "description": "The BESTEK 300W is a small pure sine wave inverter with 300W continuous and 700W peak output, two AC outlets and two smart USB ports that deliver up to 2.4A each. The upgraded version accepts 11 to 17V input, includes a 40A fuse, and ships with a manual and an 18-month warranty, which is the only warranty length stated for any pick in this guide.\n\nIt ranks fifth only because it is the smallest. At $41.99 it is $58 below the LANDERPOW 1000W and a good match for a laptop, camera batteries and phones. It cannot run a TV with a soundbar plus a laptop at the same time, and a CPAP with a heated humidifier is better served by the 1000W units.\n\nChoose it if you only charge devices and want the lowest cost and smallest cable. The caveat is capacity, so measure the watts on every plug before assuming 300W is enough.",
     "specs": [
       "300W, 700W peak",

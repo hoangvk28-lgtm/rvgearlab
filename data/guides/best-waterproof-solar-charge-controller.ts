@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41qtEoFMKVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07YXZMKD2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07YXZMKD2?tag=rvgearlab-amz-20",
     "description": "Renogy's Voyager is a 20A IP67 PWM aimed at marine use, with four-stage charging and 12V/24V auto-sensing. Renogy's Voyager is a 20A four-stage PWM controller rated IP67 and aimed at marine use. It senses 12V or 24V systems on its own and lists protection against reverse polarity, overcharge and short circuit for gel, AGM or flooded batteries.\n\nIt has more capacity than HUINE 10A and LNEX 10A but costs more than most of the group. It lists gel, AGM and flooded batteries rather than lithium.\n\nBest for exposed mounting with a moderate array. It suits exposed mounting on a boat or an RV bumper compartment, but it costs more than basic IP67 units.",
     "specs": [
       "20A PWM, 12V/24V auto",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4154EirB+-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BF99KX5C?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BF99KX5C?tag=rvgearlab-amz-20",
     "description": "UPNE-TECH's 15A model is IP68 with a potted aluminum shell and a five-LED state of charge display. UPNE-TECH's SLAC-MH is a 15A IP68 controller with a 55V maximum solar input and automatic 12V/24V adaptation. It uses an aluminum shell with epoxy potting and a five-LED state-of-charge display, plus a programmable nightlight function.\n\nIt offers more capacity than HUINETUL 10A but limits solar input to 55V. Against Renogy Voyager 20A it has fewer amps.\n\nBest for harsh mounting where epoxy potting helps. It is a rugged choice for exposed mounting, though the five LEDs give approximate rather than exact readings.",
     "specs": [
       "15A, 12V/24V auto",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51jZ8al8UUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07TX5S3ML?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07TX5S3ML?tag=rvgearlab-amz-20",
     "description": "HUINETUL's 10A PWM is IP68 and covers lithium, LiFePO4 and lead-acid with an IR remote. HUINETUL's 10A PWM controller has an IP68 aluminum alloy shell with cables and four mounting holes, plus an IR remote that offers 24-hour and dusk-to-dawn working modes. The listing says it fits 3S/6S lithium-ion, 4S/8S LiFePO4 and all lead-acid batteries and senses 12V or 24V.\n\nIt names more battery types than HUINE 10A and adds load modes, but its 10A rating limits array size. Compared with UPNE-TECH 15A it has fewer amps.\n\nBest for mixed chemistries and timed loads. It is the most flexible waterproof pick on battery chemistry, but 10A limits array size.",
     "specs": [
       "10A PWM, IP68 aluminum shell",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41RYnSYYVyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07Q79TC2L?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07Q79TC2L?tag=rvgearlab-amz-20",
     "description": "HUINE's 10A model is IP68 with three-stage PWM charging and three status LEDs for 12V or 24V lead-acid batteries. HUINE's 10A model is a small waterproof PWM controller rated IP68 with three-stage charging and short-circuit, overcharge and over-discharge protection. The listing aims it at 12V or 24V lead-acid batteries, and three LEDs show charging, battery and load status.\n\nIt is simpler than HUINETUL 10A and lists lead-acid only. It fits a basic RV trailer battery.\n\nBest for a lead-acid trailer battery with one panel. It fits a lead-acid trailer or boat battery with a small panel, not a lithium bank.",
     "specs": [
       "10A PWM, 12V/24V",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41T0BQ378DL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B59TMGT9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B59TMGT9?tag=rvgearlab-amz-20",
     "description": "LNEX's 10A controller is a thin waterproof PWM with a backlit LCD and five-stage charging. LNEX's 10A controller is a thin waterproof PWM unit with a backlit LCD and LED indicators, detecting 12V or 24V automatically. The listing describes a five-stage PWM charge.\n\nIt adds an LCD that HUINE 10A lacks but is less specific about its waterproof rating. Confirm the IP number before mounting outside.\n\nBest for tight spaces that need a readable display. Use it where a thin profile and a readable display matter, and look up the exact waterproof rating with the seller since the listing does not give a number.",
     "specs": [
       "10A PWM, 12V/24V auto",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51A6a+mWdEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07F85CDM6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07F85CDM6?tag=rvgearlab-amz-20",
     "description": "POWOXI's 8A model is an all-weather waterproof 12V unit for panels up to 130W. POWOXI's 12V 8A controller is an all-weather waterproof unit with green and red LEDs. The listing says it suits panels above 20W with a maximum 130W input, 22V maximum voltage and 12V batteries only.\n\nIt is the smallest here and gives up 24V support. Compared with LNEX 10A it has less capacity and no LCD.\n\nBest for a single small panel on a boat or trailer tongue. It is for a single small panel, such as a portable one on a boat or trailer tongue.",
     "specs": [
       "8A, 12V only",

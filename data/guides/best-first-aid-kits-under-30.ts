@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51gh8Ygj8ML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07C7K5PHQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07C7K5PHQ?tag=rvgearlab-amz-20",
     "description": "The Swiss Safe is a two-in-one kit with 348 pieces in an impact-absorbing hard case that opens from the front or the back. It also includes a 32-piece mini kit that fits a backpack or glove box.\n\nIt costs about $28, near the top of the budget and $1 less than the Everlit, and it has twice the piece count of the metal job-site kits. The extra mini kit lets you split supplies between a tent and a day pack.\n\nIt suits campers, families and road trippers who want one kit for the car and one for the trail. The dual access design speeds up finding supplies.",
     "specs": [
       "348 pieces plus 32-piece mini kit",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/314Sb+1HmfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B006RNSPYM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B006RNSPYM?tag=rvgearlab-amz-20",
     "description": "The First Aid Only 25-Person Contractor kit holds 178 supplies including bandages, antibiotic ointment, BZK antiseptic wipes, burn cream packets, gauze, gloves, scissors and tweezers. It comes in a wall-mountable metal case with a carry handle and an easy-release latch.\n\nIt costs about $30, a dollar more than the Everlit 185, and it comes from a long-time first aid maker. It is bulkier and heavier than the Swiss Safe 348 Pc.\n\nIt suits trailers, work trucks and base camps where the kit lives on a wall or in a cab. It is also FSA and HSA eligible.",
     "specs": [
       "178 supplies, metal case",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41NkFGoQUcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FNVSVP54?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FNVSVP54?tag=rvgearlab-amz-20",
     "description": "The Everlit is a 185-piece kit in a wall-mountable metal cabinet that measures 11 by 7.5 by 2.5 inches and weighs 3.85 pounds, with a carry handle and dual latches. It is described as OSHA 1910.151(b) compliant and covers cuts, burns and minor wounds.\n\nIt costs about $30, a dollar more than the Swiss Safe 348 Pc, and it has seven more pieces than the First Aid Only 25-Person. It is a bit heavier than the plastic cases.\n\nIt suits work sites, RV bays and campgrounds hosts who need a robust box. Mount it inside a cabinet.",
     "specs": [
       "185 pieces, metal cabinet",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31qJN+4f64L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FM3JHMYT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FM3JHMYT?tag=rvgearlab-amz-20",
     "description": "The Premium 305 Piece kit is a dual-color hard shell with a fluorescent interior that holds wound care bandages, gauze pads, tweezers, safety pins, gloves and burn gel, all latex free. It measures 8.3 by 5.5 by 2.6 inches.\n\nIt costs about $17, nearly half the Swiss Safe 348 Pc, and it carries 305 pieces in a size that fits a large backpack. It has no bonus mini kit.\n\nIt suits hikers and families who want a bigger kit that still fits in a backpack. The bright interior helps you find items at night.",
     "specs": [
       "305 pieces, hard shell",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51uWuN0lFrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00CYBXH7G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00CYBXH7G?tag=rvgearlab-amz-20",
     "description": "The Be Smart Get Prepared kit packs 110 pieces in a rugged, impact-resistant plastic case measuring 7.5 by 2.5 by 6.8 inches. It has organized compartments and easy-slide latches.\n\nIt costs about $8, less than a third of the Swiss Safe 348 Pc, and it is from a large first aid maker with an FDA medical device listing. It carries fewer pieces than any other kit here.\n\nIt suits glove boxes, desk drawers and short trips. It tucks under a car seat.",
     "specs": [
       "110 pieces in a rugged case",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411tLyA56aL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DB794BKQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DB794BKQ?tag=rvgearlab-amz-20",
     "description": "The Mini 150pc kit is a waterproof EVA hard shell about 6.4 inches long and 2.7 inches deep, with 150 pieces in separate sleeves and carabiner clips. It weighs 0.73 pounds.\n\nIt costs about $10, a third of the Swiss Safe 348 Pc, and it clips to a pack. It carries few large dressings.\n\nIt suits day hikers, kayakers and bikers who want something small. It fits a hip belt pocket.",
     "specs": [
       "150 pieces, EVA hard shell",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31f3WKJuk9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FG4P1Q7D?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FG4P1Q7D?tag=rvgearlab-amz-20",
     "description": "The ALPS Mountaineering Blaze 0 XL measures 86 x 36 inches and weighs 6 lb 7 oz, with 76 oz of TechLoft Silver synthetic insulation in a two-layer offset design. A polyester ripstop shell, a contoured hood, an insulated chest baffle and #8 separating zippers complete the build.\n\nThe offset layers are designed to eliminate cold spots, and the printed fill weight and stuffed size of 20 x 13 inches give it more detail than the TETON Celsius XL 0F. A standard stuff sack is included.\n\nA great fit for tall winter campers who want a mummy shape and a documented fill weight. It suits car camping and short carries.",
     "specs": [
       "86 x 36 inch XL mummy",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31FDTatuWJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B006J7ZMTM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B006J7ZMTM?tag=rvgearlab-amz-20",
     "description": "TETON offers the Celsius XL at 90 x 36 inches with a 0F class label, a flannel-style polyester interior and a rounded mummy hood. Double-layer fiber fill and draft tubes work together, and it unzips at the top or bottom for venting.\n\nIt is longer than the ALPS Blaze 0 XL by four inches and costs less, and it comes in left-zip and right-zip versions that can be paired for a double. The listing prints no fill weight or total weight.\n\nA reasonable pick for tall campers who want a long mummy at a lower price. Hang loops preserve loft in storage.",
     "specs": [
       "90 x 36 inch XL mummy",

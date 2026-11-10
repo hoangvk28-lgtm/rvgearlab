@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51lfUdR5pNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01GPK4LVW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01GPK4LVW?tag=rvgearlab-amz-20",
     "description": "Potable Aqua ships two bottles of 50 tablets. The listing says the tablets make water bacteriologically suitable to drink and work against Giardia lamblia when used as directed.\n\nOf the three picks it is the cheapest per tablet and the only one split across two bottles, so a damp bottle ruins half the supply at most. The listing leaves the active ingredient unnamed, yet this brand is traditionally the iodine option, so read the bottle label for dose and wait time.\n\nA classic for hiking kits and glove boxes where cost and small packaging matter. Clear water works best.",
     "specs": [
       "Two bottles of 50 tablets",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41PR4yq3z3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09FFQN924?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09FFQN924?tag=rvgearlab-amz-20",
     "description": "The Aquatabs 397mg tablet comes in a pack of 100, and one tablet treats 4 gallons in 30 minutes according to the listing. The maker says the taste, color and odor are not like iodine tablets.\n\nWhere Potable Aqua is sized for bottles, one Aquatabs tablet is sized for a tank or a big jug, so it stretches much farther. It is an iodine-free chlorine tablet, which is the main reason to pick it over the Potable Aqua.\n\nIdeal for van or RV tanks, group trips and emergency barrels where a bottle-sized dose would be fiddly. A hundred tablets last a long time.",
     "specs": [
       "397mg tablet, 100 count",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31rpFfzSKgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H8XVSZ5Z?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H8XVSZ5Z?tag=rvgearlab-amz-20",
     "description": "Fastimals sells 100 tablets of 500mg NaDCC (sodium dichloroisocyanurate) in a fast-dissolving effervescent form. Directions call for the tablet count that matches your water volume, then a 30 minute rest.\n\nIt is a direct alternative to the Potable Aqua for buyers avoiding iodine, and its dose scales from bottles to larger storage containers. The effervescent tablets are meant to keep taste and odor changes small.\n\nIt suits travelers and families who dislike the taste of iodine and want a single bottle for many uses. The 30-minute wait is spelled out on the listing.",
     "specs": [
       "500mg NaDCC, 100 count",

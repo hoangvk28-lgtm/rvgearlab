@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41O4XSnk1TL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BJFM63TN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BJFM63TN?tag=rvgearlab-amz-20",
     "description": "The ALLWEI is an 18V, 200W foldable panel with built-in M20 XT60 and Anderson connectors and a 2 meter cable. It has four adjustable kickstands, a magnetic buckle fold and a TPE rubber handle, 23 percent monocrystalline cells and over-current, overload and short-circuit protection.\n\nIt weighs 14 pounds and plugs straight into stations with XT60 inputs, with no adapter set. Against the MHPOWOS, it has half the watts and a lower 18V rating, and the plug sits on the panel instead of on a separate cable.\n\nIt suits owners of mid-size stations that accept XT60, such as the models named in the listing. The listing gives charge-time examples for two station sizes.",
     "specs": [
       "200W, 18V, built-in XT60 and Anderson",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hjpOSgVVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DP21CZ7J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DP21CZ7J?tag=rvgearlab-amz-20",
     "description": "The MHPOWOS is a 400W, 31V foldable panel using A+ monocrystalline cells rated at 23.5 percent and an IP67 body. A solar extension cable with Anderson, XT60, DC7909, DC5521, DC8020, DC5525 and DC35135 ends comes in the box, along with a zippered accessory pouch and an 18 month warranty.\n\nIt has double the watts of the ALLWEI and the widest connector set, which suits larger stations and series charging. Compared with the ALLWEI, it costs more and the XT60 is on the cable, not the panel.\n\nIt suits campers with large power stations who want faster daily recharges. The IP67 rating handles rain and dust.",
     "specs": [
       "400W, 31V, 23.5% efficiency",

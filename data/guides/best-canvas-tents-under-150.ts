@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/516ZWePCOjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H3TR5QBW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H3TR5QBW?tag=rvgearlab-amz-20",
     "description": "The SPECRAFT is a 10 foot canvas bell tent with a 9.8 foot diameter and 6.6 foot peak, sold for 3 to 4 people. It has mixed TC cotton fabric, aluminum poles, double doors with mesh and fabric layers and a full mesh base.\n\nIt is the roomiest pick here by a wide margin, with space for a family where the TIYASTUN fits one. It also has real canvas, which the Canvas Cabin Dome does not clearly state.\n\nIt suits small families trying canvas for the first time. The doors roll up for airflow, and a carry bag and steel stakes are in the box.",
     "specs": [
       "9.8 ft diameter, 6.6 ft peak",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/317H0oTVm6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CYKYYRJK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CYKYYRJK?tag=rvgearlab-amz-20",
     "description": "The TIYASTUN is a one person four-season tent in poly-cotton canvas with an anti-splash coating rated to 3000mm. It is roughly 142 inches wide and 75 inches deep with a 43 inch ridge, includes a mesh inner tent and sets up in about 15 minutes.\n\nIt is built for bushcraft and hot-tent camping rather than family use, which separates it from the SPECRAFT. Its poly-cotton resists condensation better than the polyester Canvas Cabin Dome.\n\nIt suits hunters, bushcrafters and solo winter campers who want a low shelter that breathes. The front curtain opens for airflow and a stove-friendly build suits cold camps.",
     "specs": [
       "Poly-cotton, 3000mm coating",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/5145OWkjyFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H4ZXMKCK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H4ZXMKCK?tag=rvgearlab-amz-20",
     "description": "The Canvas Cabin Dome sleeps 2 to 4 people on a roomy dome frame with a wrap-around bathtub floor and fully taped seams. A large D-shaped door and big vent windows round out the build.\n\nIt is the least expensive tent in the group and the only one with a sewn-in floor. The SPECRAFT bell is a more authentic canvas build, while the TIYASTUN offers more cold-weather capability.\n\nIt suits family campers who prefer a standard dome layout and a sealed floor in mild weather. Pair it with a footprint for extra floor protection.",
     "specs": [
       "2 to 4 person dome",

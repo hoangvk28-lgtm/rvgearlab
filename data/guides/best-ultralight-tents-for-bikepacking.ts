@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41YIt93MFRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08MX2B1MJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08MX2B1MJ?tag=rvgearlab-amz-20",
     "description": "The Big Agnes Copper Spur HV UL1 is sold as an ultralight bikepacking tent with two doors and two vestibules. A compression stuff sack with daisy-chain webbing is designed for several bike-frame attachment options, and an elastic web holds a helmet on top of the tent body.\n\nIt is the only tent here built around bike carry, where the Naturehike Giling and Cloud-Up Pro simply happen to pack small. The 4-way high-volume hub design is listed as increasing strength by 25 percent and usable interior volume by 20 percent over earlier versions.\n\nIt suits serious riders who want a tent made for the frame bag and pannier-free setups. An oversized ceiling pocket and low vents add comfort.",
     "specs": [
       "Bikepack stuff sack, daisy-chain webbing",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31nfGqmwuML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GBVS7FHQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GBVS7FHQ?tag=rvgearlab-amz-20",
     "description": "The Naturehike Giling is a 1 or 2 person tent with a total weight of 3.53 lb and a packed size of 4.7 by 15.4 inches. The 15D double-ripstop fly and floor carry a 3000 mm or higher rating, with a 210T footprint and two 8.5 mm aluminum poles in an X-cross structure.\n\nIt has the narrowest packed diameter in this guide at 4.7 inches, which lets it slide into a handlebar roll or seat bag more easily than the 5.1 inch Cloud-Up Pro. Against the Big Agnes Copper Spur, it gives full dimensions and a footprint.\n\nIt suits riders who need a compact roll and a stated weight at a mid-range cost. The inner space of 82.7 by 35.4 by 39.4 inches leaves room for a bike-lean gear pile.",
     "specs": [
       "3.53 lb, 4.7 x 15.4 inch pack",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21+VHgWszhL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DJX9TGVS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DJX9TGVS?tag=rvgearlab-amz-20",
     "description": "The Naturehike Cloud-Up Pro is a one person tent in 20D silicone-coated nylon with a PU4000 mm or higher waterproof rating. It weighs 3.57 lb, packs to 15.3 by 5.1 by 5.1 inches, and uses 7075 aluminum poles.\n\nIt has the highest stated rain rating in the guide, ahead of the 3000 mm class of the Giling and Cloud-Up Base. It weighs only about 0.04 lb more than the Giling while giving a window vent above the front door.\n\nIt suits riders who go out in uncertain weather and want stronger fabric. A footprint, bag, poles, guy ropes and stakes are all included.",
     "specs": [
       "3.57 lb, 15.3 x 5.1 x 5.1 inch pack",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Hf8fykshL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D9LV3ZBG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D9LV3ZBG?tag=rvgearlab-amz-20",
     "description": "The MC TOMOUNT 2P is a tent with an 86.6 inch long interior and a 53 inch width, made from 20D nylon with a PU3000 mm rating. It weighs 4.4 lb, stores at 17.3 by 7.5 inches, and uses two crossed aluminum poles.\n\nAt 53 inches wide it gives more elbow room than the one person Naturehike picks, which suits riders who share or bring a lot of kit. The listing calls it easy to carry on a bike, and its roll is the thickest here.\n\nIt suits tall riders or couples who prioritize length and width over the tightest pack. Doors extend extra space at both ends.",
     "specs": [
       "4.4 lb, 17.3 x 7.5 inch pack",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41RKpRfcJsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DJ921Q71?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DJ921Q71?tag=rvgearlab-amz-20",
     "description": "The Naturehike Cloud-Up Base is a one person tent weighing 3.66 lb that packs to 15.3 by 5.1 by 5.1 inches. It uses 210T polyester with a PU3000 mm or higher rating, 7075 aluminum poles and includes a footprint.\n\nIt matches the Cloud-Up Pro on pack size and gear included, while using a heavier polyester fabric and a lower rain rating. It is simpler than the Naturehike Giling, with two poles in a standard dome design.\n\nIt suits riders who want the Cloud-Up shape and a stated weight at a lower cost. The window vent above the front door helps with condensation.",
     "specs": [
       "3.66 lb, 15.3 x 5.1 inch pack",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Eh0jKFQkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09CT17FKB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09CT17FKB?tag=rvgearlab-amz-20",
     "description": "The Clostnature 1P is a freestanding one person tent with a total weight of 4 lb and a minimum trail weight of 2.97 lb. The rain fly and bathtub floor use PU5000 polyester, two aluminum poles hold the frame, and the box includes 14 aluminum stakes.\n\nIt is the heaviest of the one person tents at 4 lb, and dropping the stakes and bag gets it to 2.97 lb, close to the Naturehike Giling. It has the highest stated coating rating on a polyester fly, at PU5000.\n\nIt suits budget riders who want a light solo tent and are happy to trim weight by leaving some parts home. Interior mesh walls and adjustable guy lines add stability.",
     "specs": [
       "4 lb total, 2.97 lb minimum",

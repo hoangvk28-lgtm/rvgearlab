@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51ZHPcHxF4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01ABONB0A?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01ABONB0A?tag=rvgearlab-amz-20",
     "description": "The Camco 25 foot heated hose is made with NSF/ANSI 61 certified hose for drinking water and is lead, BPA and phthalate free. The listing states CSA lead-free certification to NSF/ANSI 372, freeze protection down to -20 degrees F and a thermostat-controlled heating cable on 120VAC.\n\nAgainst the other heated hoses, it is the only one naming NSF/ANSI 61 and CSA certification. Against the Ficstar and Cupohus, it costs more and lists a milder -20 degree F rating.\n\nBest for owners who prioritize documented drinking-water certification. A top pick for full-time winter use.",
     "specs": [
       "NSF/ANSI 61 drinking water hose",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51+PNXnznNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FCXYMK67?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FCXYMK67?tag=rvgearlab-amz-20",
     "description": "The Cupohus 30 foot heated hose lists protection down to -45 degrees F with a self-regulating thermostat and an external LED digital controller for adjustable settings. It is food-grade, BPA-free and lead-free, uses 3/4 inch GHT fittings with thickened rubber washers and carries a 3-year warranty.\n\nAgainst the RVGUARD hoses, it offers a digital controller and a lower freeze rating. Against the Camco, it costs less and lists a 3-year warranty.\n\nBest for owners who want adjustable control and a long warranty. A strong tech pick.",
     "specs": [
       "30 ft, -45F self-regulating",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41478YaOFgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GBV1JKJM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GBV1JKJM?tag=rvgearlab-amz-20",
     "description": "The Ficstar 50 foot heated hose lists -45 degree F freeze protection with a self-regulating thermostat. It is food-grade, has a reinforced outer jacket and a 5/8 inch inner diameter.\n\nAgainst the shorter hoses, it reaches 50 feet and costs less than the Camco. Against the Cupohus, it is longer without a digital controller.\n\nBest for sites where the spigot is far from the RV. A solid long hose for winter camps.",
     "specs": [
       "50 ft, -45F self-regulating",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51LLo5W5xPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D6Z395GF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D6Z395GF?tag=rvgearlab-amz-20",
     "description": "The RVMATE 35 foot heated hose has a UL Listed heating cable with a thermostat rated at 7 watts per foot and freeze protection down to -20 degrees F. It uses lead-free copper nickel plated connectors in place of aluminum and compression fittings for a tight connection.\n\nAgainst the RVGUARD hoses, it lists UL cable and a higher wattage per foot. Against the Camco, it costs much less and is 10 feet longer.\n\nBest for buyers who want a UL listed cable and durable brass-style connectors. A fair value at 35 feet.",
     "specs": [
       "35 ft, -20F protection",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41aGZ5NdxQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C6LXDD7T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C6LXDD7T?tag=rvgearlab-amz-20",
     "description": "The RVGUARD 25 foot heated hose has a thermostat with a turn-on temperature of about 47 degrees F and freeze protection down to -20 degrees F. It has a five-layer hose, stainless steel connectors and a 3/4 inch GHT adapter, and it is lead and BPA free.\n\nAgainst the Cupohus, it states thermostat turn-on temperature and costs less. Against the RVMATE, it is shorter and lists a stainless steel connector.\n\nBest for buyers who want to know when the hose turns on. A clear spec sheet at a moderate price.",
     "specs": [
       "25 ft, -20F protection",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41aGZ5NdxQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C6LX1WR8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C6LX1WR8?tag=rvgearlab-amz-20",
     "description": "The RVGUARD 15 foot heated hose carries the same thermostat, 47 degree F turn-on point, five-layer hose and stainless steel connectors as the 25 foot model. It is a lead and BPA free hose that includes a 3/4 inch GHT adapter.\n\nAgainst the RVGUARD 25FT, it is shorter and cheaper. Against the longer hoses, it fits short distances.\n\nBest for a spigot close to the RV. A lowest-cost way to get heated hose protection.",
     "specs": [
       "15 ft, -20F protection",

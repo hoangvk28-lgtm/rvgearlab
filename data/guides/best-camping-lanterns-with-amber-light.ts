@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Jq7S6XpcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H5K48YD6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H5K48YD6?tag=rvgearlab-amz-20",
     "description": "The SUNREI Starfield 5 is a 300 lumen lantern with a 1300K amber glow and a dual-light design. It has a 4500mAh lithium battery rated up to 105 hours, hover-to-dim control, a weight of 200g and an IPX5 rating.\n\nIt states the warmest color temperature in the group, 1300K, and is the only one with touch-free dimming. Against the lazyneko, it trades some brightness for a long runtime and a vintage look.\n\nIt suits campers who want a campfire-colored glow in the tent or at the table. The hanging hook and compact size suit a pack.",
     "specs": [
       "300 lumens, 1300K amber glow",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Rclr9otML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G1ZJH763?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G1ZJH763?tag=rvgearlab-amz-20",
     "description": "The lazyneko offers a 3-in-1 light with 1000 lumen white, warm amber and an SOS mode, in a USB-C rechargeable body with a 12-hour runtime. It weighs 0.21 lbs, carries an IPX4 rating and clips on with a foldable hook and carabiner.\n\nIt is the brightest lantern here and also states an amber mode, which the SUNREI also does with far lower total output. Compared with the KINUR, it recharges and offers far more light for a higher price.\n\nIt suits campers who want one lantern that is bright for cooking and amber for sleeping. The hook and carabiner free both hands.",
     "specs": [
       "1000 lumens white, warm amber",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41F-iKA4FAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H3KQRKZ6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H3KQRKZ6?tag=rvgearlab-amz-20",
     "description": "The Nova Ridge charges by solar panel in about 10 hours or by USB-C in about 5 hours. It has a warm light with a dial that runs 4 hours on high and 40 hours on low, plus a white flashlight button, and weighs 7.76 oz.\n\nIt is the only solar-charging lantern in the group, and its warm light gives a soft glow near amber. Against the SUNREI, it adds solar charging and loses the stated amber temperature.\n\nIt suits campers who want to recharge by sun and use a warm light at night. A clip hangs it from a pack or tent.",
     "specs": [
       "Solar and USB-C charging",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41yAcqkBBiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H4VVPT2W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H4VVPT2W?tag=rvgearlab-amz-20",
     "description": "The Bsdgeclogy Retro lantern has three color modes with stepless dimming and a detachable lampshade for a vintage glow. It weighs 199g with the shade, charges by USB-C and uses an aluminum alloy frame with a splash-resistant design.\n\nIt is designed for mood lighting rather than high output, and costs less than the SUNREI. Against the Nova Ridge, it adds a color choice and stepless dimming.\n\nIt suits campers who want a table lantern for ambience in a tent or on a picnic table. The shade comes off for a bare-bulb look.",
     "specs": [
       "3 color modes, stepless dimming",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31rdQEb5oVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08611Y7V8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08611Y7V8?tag=rvgearlab-amz-20",
     "description": "The KINUR is a soft amber yellow lantern using three blue-light-blocking LED chips, with full, half and SOS modes. It runs on three AAA batteries and weighs 75g with them in, with a rubber button and a hanging hook.\n\nIt is the cheapest lantern here by a wide margin and the lightest. Against the SUNREI, it skips rechargeable power and brightness numbers.\n\nIt suits kids, tent nights and anyone who wants a very low-cost amber light. A 30-day money-back and 2-year warranty are stated.",
     "specs": [
       "Soft amber, 3 AAA batteries",

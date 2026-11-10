@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41D3YSreqKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09QW9Z6FX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09QW9Z6FX?tag=rvgearlab-amz-20",
     "description": "The Inspireyes set gives three rechargeable radios with a built-in lithium polymer battery, 22 channels and a listed range of up to 3 miles in open areas. Each weighs 80 grams, has a backlit LCD and includes VOX hands-free mode.\n\nThree radios cover a family of three kids or two kids plus a parent. The backlit screen is useful in tents at night, and the rechargeable battery saves buying AAAs.\n\nIt suits kids ages 3 to 12 at campsites and in neighborhoods. The light 80 gram body fits small hands.",
     "specs": [
       "3 radios, rechargeable Li-Po",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51cmDGTh6XL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07RWVTHQH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07RWVTHQH?tag=rvgearlab-amz-20",
     "description": "This kids set lists compliance with US ASTM F963 toy standards, non-toxic ABS and survival of 1.5 meter drops. Each radio weighs 90 grams, uses noise reduction and offers a 3 km range.\n\nThe safety standard is the standout against the Holiky and Paw Patrol models, which do not list it. It suits ages 3 to 12 and shrugs off drops on rocky camp ground.\n\nIt fits parents who want safety claims and a sturdy shell. The noise reduction helps kids hear each other outdoors.",
     "specs": [
       "US ASTM F963 compliant",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/415ekb3yCxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00OXLY49A?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00OXLY49A?tag=rvgearlab-amz-20",
     "description": "The Retevis RT628 kids radio has VOX hands-free calling, an 8-level volume control and a key lock that prevents accidental channel switching. It measures 6.2 x 2.1 x 1.1 inches with a rounded ABS and PC body.\n\nIt has more control than the toy-style radios and a key lock the Paw Patrol model lacks. It suits ages 6 to 12 who want a real radio feel.\n\nIt fits older kids who like gadgets and parents who want to lock the channel. The larger body suits bigger hands.",
     "specs": [
       "VOX, 8 volume levels, key lock",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51EZiCes4rL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D6BL16TP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D6BL16TP?tag=rvgearlab-amz-20",
     "description": "The Holiky pair is only 55 grams each and measures 1.93 x 1.20 x 4.8 inches with two channels and a left-side push-to-talk. It lists a 1,000 foot range and non-toxic ABS plastic with smooth edges.\n\nIt is the lightest and smallest pick, which suits ages 3 and up. A pair is easy to hand out to two kids.\n\nIt fits toddlers and young kids who want a simple radio. The left-side button is easy for small thumbs.",
     "specs": [
       "55 g each, 1.93 x 1.20 x 4.8 inches",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41j5SW5T0rL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B012GUL13G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B012GUL13G?tag=rvgearlab-amz-20",
     "description": "The Paw Patrol set has graphics inspired by Chase and Marshall, an easy push-to-talk button and a listing aimed at ages 3 and up. It is light and durable for indoor and outdoor games.\n\nIt is the only licensed-character pick, which suits fans of the show. It is simpler than the Retevis model.\n\nIt fits young Paw Patrol fans who want a toy radio for camp games. The graphics make the radios easy to find in a pile of gear.",
     "specs": [
       "Paw Patrol Chase and Marshall",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51psRE8JbRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D8QG23HQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D8QG23HQ?tag=rvgearlab-amz-20",
     "description": "The Unicorn set is a two-pack that measures 2.8 x 1.57 x 4.4 inches with two hanging ropes and drop resistance listed up to 5 feet. A red light shows when it is on, and you hold the horn button to talk.\n\nIt is among the lowest priced pairs and the lanyards make it easy to wear on a camp walk. It is simple with a minimal button design.\n\nIt fits young kids who want a unicorn-themed radio. The lanyards keep it from being dropped on a trail.",
     "specs": [
       "2-pack, 2.8 x 1.57 x 4.4 inches",

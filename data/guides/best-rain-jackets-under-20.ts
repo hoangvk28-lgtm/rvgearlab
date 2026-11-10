@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41697aDvRNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F34LMXP4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F34LMXP4?tag=rvgearlab-amz-20",
     "description": "The Amazon Essentials Long is a women's hooded rain jacket in waterproof stretch nylon with sealed seams, a full lining and a zip-and-snap front. The adjustable hood and waist, front pockets and 30.5 inch body length add real coverage.\n\nIt costs about $13, which is less than the UIQUR Hooded and Uposiut Windbreaker, and it is the only jacket here with a full lining and sealed seams together. That lining makes it warmer and quieter than the bare shells and also bulkier in a pack.\n\nIt suits women who want a rain layer for camp, commuting and trail days at a bargain price. The long cut keeps your hips dry on wet walks.",
     "specs": [
       "Waterproof stretch nylon",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/311NvBlZBpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D2DWKV58?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D2DWKV58?tag=rvgearlab-amz-20",
     "description": "The ProHydra Vented is a long rain coat in heavy-duty polyester with a PVC coating, advertised at 8000mm and above, with taped seams. Back air vents, reflective stripes front and back and an adjustable drawstring hood come with it.\n\nIt costs about $20, the top of this budget, and it carries the highest waterproof rating of the group, well above the Uposiut Windbreaker. The coated fabric is stiffer and warmer, so it trades packability for sustained rain protection.\n\nIt suits anyone standing or working in steady rain, such as a campground host, a fisher or a dog walker at dusk. The reflective stripes also help on roadside walks.",
     "specs": [
       "8000mm+ coated polyester",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31RjvX55HHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F32TF1B1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F32TF1B1?tag=rvgearlab-amz-20",
     "description": "The UIQUR Hooded is a men's lightweight shell with an extra-wide adjustable hood, elastic cuffs and a relaxed athletic fit. It is advertised as waterproof and windproof and is cut for hiking, golf, cycling and fishing.\n\nIt costs about $18, only a few dollars above the Uposiut Windbreaker. The wide hood is the reason to choose it, because it clears a ball cap or helmet better than the Uposiut hood and keeps rain off the face.\n\nIt suits men who wear a cap or beanie under the hood and want a simple, light shell for day hikes. Hand wash only keeps the coating intact.",
     "specs": [
       "Extra-wide adjustable hood",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41qof-YcTRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H9G2327Z?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H9G2327Z?tag=rvgearlab-amz-20",
     "description": "The Uposiut Windbreaker is a men's soft shell jacket in high-density fabric that weighs about 0.58 lb. It has an elastic-cuff sleeve, a drawstring hood and a drawstring hem, and it packs into its own pocket.\n\nIt costs about $15, roughly $5 less than the UIQUR Hooded, and it is lighter than every other jacket in this group. It gives up the heavier waterproofing of the ProHydra Vented for easy carry.\n\nIt suits hikers who carry a shell on every outing in case the sky turns and want it to disappear in a pack. It doubles as a wind layer at camp.",
     "specs": [
       "About 0.58 lb",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41s5Dqe24GL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BJ799WDN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BJ799WDN?tag=rvgearlab-amz-20",
     "description": "The Zando Plus Size is a women's packable hooded raincoat tailored with extra room through the shoulders, arms and hips. It weighs about 0.68 lb, stuffs into its own pouch and is built for light rain on trails and commutes.\n\nIt costs about $20, the highest in the group alongside the ProHydra Vented, and it is the only jacket here designed from the start for a plus-size cut rather than scaled up from a standard one. It stays lighter than the ProHydra Vented.\n\nIt suits plus-size hikers and travelers who struggle to find a roomy shell under $20. Wear it as a windbreaker on cool days.",
     "specs": [
       "Designed plus-size cut",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41fEjQUQNpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H83GN2MK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H83GN2MK?tag=rvgearlab-amz-20",
     "description": "The FPMLUXLL Packable is a women's lightweight jacket in 100% polyester with an adjustable hood and a drawstring hem. It is sold as waterproof and windproof and folds small for a bag.\n\nIt costs under $9, less than every other jacket here and about $4 less than the Amazon Essentials Long. It has no lining or sealed seams, so it is a showerproof layer for a glove box, not a hard-rain jacket.\n\nIt suits campers who want a spare cover for the car or tent and treat it as disposable gear. It also works as a light windbreaker.",
     "specs": [
       "100% polyester shell",

@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51RzJ9E7DqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B099KR841H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B099KR841H?tag=rvgearlab-amz-20",
     "description": "The Westinghouse 2800 is a gas inverter rated 2,200 running and 2,800 peak watts with a TT-30R, a 20A duplex and two USB ports. It lists up to 12 hours at 25% load and an Eco Mode that Westinghouse says cuts fuel use up to 50% versus conventional units.\n\nAt $499 it costs $48.93 more than the Pulsar 4000 and gives up 1,000 running watts, but its listed 12 hour runtime beats the Pulsar's 4 hours at half load. Against the Honda EU2200i it is $700 cheaper for the same 2,200 running watts. Pick this if the AC stays off. Caveat: running a 30A AC needs a second compatible unit in parallel.",
     "specs": [
       "2200W running, 2800W peak",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41217Z50LIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BS7B3YMG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BS7B3YMG?tag=rvgearlab-amz-20",
     "description": "The Pulsar 4000 is a 4,000 peak and 3,200 rated watt gas inverter stated at 59 dB, with a 1 gallon tank good for 4 hours at half load. The listing says it suits air conditioning units up to 13,500 BTU.\n\nIt is $48.93 under the Westinghouse 2800 and adds 1,000 running watts, but the tank gives roughly a third of the runtime per fill. It is $748.93 below the Honda EU2200i. Pick this if hot-weather boondocking with an AC is the plan. Caveat: the small tank means a refuel every 4 to 8 hours of real use.",
     "specs": [
       "3200W rated, 4000W peak",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51VD+BT-qDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07J5HD8L9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07J5HD8L9?tag=rvgearlab-amz-20",
     "description": "The Pulsar 2200 is an 80cc dual-fuel inverter at 1,800 rated watts on gasoline and 1,600 on propane, with 60 dB, two 15A outlets, USB and a parallel connector. It is the only pick here that lets you swap to a propane tank during a trip.\n\nIt costs $429, which is $70 under the Westinghouse 2800 but 400 running watts lower. Against the Honda EU2200i it is $770 cheaper and lists no app or CO monitor. Pick this if you want propane as the backup fuel. Caveat: no RV 30A outlet is listed, so it needs an adapter for the coach cord.",
     "specs": [
       "1800W gas, 1600W propane",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41dlV5ggY1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08GTZ4ZJ8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08GTZ4ZJ8?tag=rvgearlab-amz-20",
     "description": "The Honda EU2200i produces 48 to 57 dB(A), runs 3.2 to 8.1 hours on a 0.95 gallon tank and includes the My Generator app with CO-MINDER monitoring. It is rated 2,200 watts and weighs less than the others here.\n\nAt $1,199 it is $700 over the Westinghouse 2800 for the same 2,200 running watts, which buys the quietest rating and Honda's engine reputation. Against the Pulsar 4000 it costs $748.93 more and cannot run an AC alone. Pick this if neighbors or campground rules demand silence. Caveat: the listing does not name a TT-30R outlet.",
     "specs": [
       "2200W, 48 to 57 dB(A)",

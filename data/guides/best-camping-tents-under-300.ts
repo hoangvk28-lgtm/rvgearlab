@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41jeGruFaUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FQ5PVS2X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FQ5PVS2X?tag=rvgearlab-amz-20",
     "description": "The Leisure Impact is an instant 6-person cabin with a floor near 10 by 9 ft and a 66 inch center. A pre-attached quick-pitch frame goes up in under 60 seconds, and 1200mm water-resistant fabric, a rainfly and a front awning protect the shell.\n\nCompared with the LANGWILL Blackout it fits more people and adds an awning, while the LANGWILL is the one that holds back light. Against the Vidalido it is the faster and larger tent.\n\nIt fits families who dread pole assembly and want shade at the door. Mesh on all four sides keeps the interior airy.",
     "specs": [
       "10 by 9 ft floor, 66 in center",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41LxS1ilOpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H1HTK7RF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H1HTK7RF?tag=rvgearlab-amz-20",
     "description": "The LANGWILL is a pop-up tent for 2 or 4 people with a high-density blackout coating that blocks sun. A hydraulic system sets it up in under a minute, and the shell uses 210D Oxford with a 3000mm PU coating and a taped rainfly.\n\nIt is the only blackout tent in this group, which sets it apart from the brighter Leisure Impact. The 110 by 94 inch floor is smaller than the cabins, so it favors couples over families.\n\nIt fits light sleepers, shift workers and anyone who camps for a few nights and wants morning darkness. The taped fly gives dependable rain cover.",
     "specs": [
       "Blackout coating, 3000mm PU",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31COGJizQ3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B085WV6HJR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B085WV6HJR?tag=rvgearlab-amz-20",
     "description": "The TETON Mountain Ultra is a four-person backpacking dome with a full mesh top for stargazing and a micro-mesh inner tent. A waterproof rainfly with a 360-degree ventilation system covers the mesh when weather turns.\n\nIt is the only true dome here and the lightest on sleeping footprint per person, with a design closer to backpacking models than the Leisure Impact. The footprint is sold separately, so price in a ground cloth.\n\nIt fits campers who want views at night and a rainfly in the morning. The micro-mesh inner keeps insects out.",
     "specs": [
       "Full mesh top for stargazing",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51LW5CiutzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GTVGYPSC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GTVGYPSC?tag=rvgearlab-amz-20",
     "description": "The inflatable measures roughly 157.5 by 118 inches with an 82.7 inch peak and 129 sq ft of interior. PVC air ribs and two inflation ports let it go up in about five minutes with no poles, and a 360-degree panoramic skylight and stove jack are included.\n\nIt dwarfs every other pick on space, with a dual-layer door that splits privacy from airflow. The stove jack suits a compatible wood stove, which the Leisure Impact lacks.\n\nIt fits large groups and winter campers who want a hot tent. Only use a stove rated for tents, keep it outside the fabric clearance and run a CO alarm.",
     "specs": [
       "129 sq ft, 82.7 in peak",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51XG5y8Lw0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F5WKZDS6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F5WKZDS6?tag=rvgearlab-amz-20",
     "description": "The Vidalido is a three-to-four person tent with a 1500mm PU coating, an extended fly and reinforced fiberglass poles with anti-corrosion joints. Ceiling hooks, adjustable roof vents and a skylight round out the interior.\n\nIt is the least expensive weather-focused tent here, with a vestibule that keeps boots dry. Its footprint is smaller than the Leisure Impact, so it suits fewer people.\n\nIt fits couples who camp in rain-prone regions and want ventilation control. Two hooks hold a lamp over the sleeping area.",
     "specs": [
       "1500mm PU, extended rainfly",

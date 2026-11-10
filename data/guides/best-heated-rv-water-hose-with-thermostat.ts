@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41aGZ5NdxQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C6LX1WR8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C6LX1WR8?tag=rvgearlab-amz-20",
     "description": "Thermostat control is the headline: the RVGUARD 15FT switches on near 47°F, with -20°F protection and stainless steel connectors. That 47°F trigger point means the heat stays off until the temperature drops near freezing.\n\nIt is the only pick here with a clearly stated turn-on temperature. It rates 25 degrees warmer than the -45°F hoses but adds metal hardware.\n\nIt includes a five-layer hose, stainless steel connectors, a 3/4 inch GHT adapter and lead and BPA free water. It suits milder winters where a known switch-on point matters.",
     "specs": [
       "15 ft, -20°F protection",
@@ -53,7 +53,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41s6yJJfPPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H6WBY1GZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H6WBY1GZ?tag=rvgearlab-amz-20",
     "description": "The RVshark 15FT in light blue has intelligent temperature control, -40°F protection and NSF/ANSI/CAN 372 lead-free certification. Built-in intelligent temperature control sits alongside a -40°F rating and NSF/ANSI/CAN 372 lead-free certification on the RVshark 15FT.\n\nIt adds a certification the Scilulu and FAHKNS do not mention. The light colour is easy to spot in snow.\n\nIt comes in four lengths and the light blue color is easy to spot in snow. It suits owners who want a certified, visible hose.",
     "specs": [
       "15 ft, -40°F protection",
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41H0VqTmPDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H6WDCR4J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H6WDCR4J?tag=rvgearlab-amz-20",
     "description": "The dark blue RVshark 15FT has a smart thermostat, -40°F protection and NSF/ANSI/CAN 372 certification. This dark blue RVshark 15FT hose has a smart thermostat, -40°F freeze protection and NSF/ANSI/CAN 372 certification.\n\nIt is the same build as the light blue for a couple of dollars less. Four sizes are offered.\n\nFour sizes are offered, including a 28FT upgrade over the standard 25FT. It suits buyers who prefer a darker hose.",
     "specs": [
       "15 ft, -40°F protection",
@@ -107,7 +107,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51-3oEQoGTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BPC6HRVV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BPC6HRVV?tag=rvgearlab-amz-20",
     "description": "The Scilulu 15FT has smart self-regulating heat, 120V power, -45°F protection and automatic overheat protection. Scilulu's 15FT hose has smart self-regulating heat, 120V power and -45°F protection.\n\nIt costs more than the RVshark and carries the deeper -45°F rating. It also comes in lengths from 15 to 100 feet.\n\nAutomatic overheat protection and a heavy-duty jacket come with a food-grade, lead-free, BPA-free hose. It suits owners in colder regions who want an overheat cutoff.",
     "specs": [
       "15 ft, -45°F protection",
@@ -134,7 +134,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41iG3h+SEQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FYFLB72N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FYFLB72N?tag=rvgearlab-amz-20",
     "description": "The FAHKNS 15 ft hose has an energy saving thermostat, a -45°F rating and a leakage protection device. FAHKNS lists this 15 ft hose with fittings, an energy saving thermostat and a -45°F antifreeze rating.\n\nIt is the cheapest of the six. The 77°F water temperature claim shows the thermostat is meant to keep water above freezing.\n\nThe PVC drinking water pipe is lead and BPA free, and a leakage protection device is built in. It suits budget buyers who want a thermostat and a leak safety feature.",
     "specs": [
       "15 ft, -45°F antifreeze",
@@ -161,7 +161,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41lXTAoTrdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HGQJPQ42?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HGQJPQ42?tag=rvgearlab-amz-20",
     "description": "The Ficstar 30FT has a self-regulating thermostat that adjusts heating output and a -45°F rating. Ficstar's 30FT hose carries a self-regulating thermostat that adjusts heating output and a -45°F rating.\n\nIt doubles the reach of the 15 ft picks and is the most expensive of the six. The food-grade hose suits drinking water.\n\nThe food-grade drinking water hose is built for winter RV camping. It suits owners who need 30 feet of thermostat-controlled hose.",
     "specs": [
       "30 ft, -45°F protection",

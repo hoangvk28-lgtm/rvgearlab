@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/516UqJJn48L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00CAO9ITS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00CAO9ITS?tag=rvgearlab-amz-20",
     "description": "The AMES Maximum-Stretch is a white, elastomeric, acrylic rubberized coating with 650 percent elongation, designed to resist cracking, flaking and peeling. It adheres to metal roofing, tar and rolled roofs and is described as low VOC and made in the USA.\n\nAgainst the Tenee, the AMES lists lower elongation but a known acrylic chemistry and a lower price. Against the Ziollo, it is a different chemistry and is not silicone.\n\nBest for metal and rolled roofs where a clear acrylic system is wanted. Confirm adhesion to your membrane type before application.",
     "specs": [
       "Acrylic elastomeric coating",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51hiM9wB1OL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D87GRN43?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D87GRN43?tag=rvgearlab-amz-20",
     "description": "The Tenee is a one-gallon white liquid rubber coating listed with 1000 percent plus elongation and 88 percent solar reflectivity. It is described as working on TPO and, with proper prep, EPDM and fiberglass, and covering up to 50 square feet per gallon.\n\nCompared with the AMES, it adds elongation and reflectivity figures for a similar price. Compared with the Wadities, it is cheaper but lists less detail on thickness.\n\nBest for budget buyers with a TPO roof. Measure your roof, because one gallon rarely covers a whole rig.",
     "specs": [
       "1000%+ elongation",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51vkQT7KLyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D965XGGW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D965XGGW?tag=rvgearlab-amz-20",
     "description": "The Wadities is a white solar-reflective, flexible coating claiming 1000 percent flexibility. The listing says to apply a minimum thickness equal to one gallon per 50 square feet, requiring two to three heavy coats.\n\nVersus the Tenee, it costs far more for a similar single gallon. Versus the CUKWUYBY kit, it is a pure pail with no tape or tubes.\n\nBest for buyers who want a clear coverage rule and a flexible coating. Check how many gallons your roof needs before ordering.",
     "specs": [
       "1000% flexibility claim",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51mZqNZllpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GPX7L6YV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GPX7L6YV?tag=rvgearlab-amz-20",
     "description": "The CUKWUYBY kit bundles one gallon of white waterproof coating, two 10.5 oz self-leveling sealant tubes and a 4 inch by 20 foot roll of tape. It is a water-based, solvent-free coating with a white reflective finish.\n\nCompared with the Wadities, it includes sealant and tape for a lower price. Compared with the AMES, it is a bundle for patching rather than a pure coating.\n\nBest for owners who need a repair kit and a coat. Check the tape type and sealant compatibility with your roof.",
     "specs": [
       "1 gal coating plus sealant",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41PxbmOjHAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0877DWQCX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0877DWQCX?tag=rvgearlab-amz-20",
     "description": "The Ziollo is a self-leveling liquid rubber described as 100 percent silicone, with a highly reflective white finish. The listing says it flexes from desert heat to cold.\n\nCompared with the AMES acrylic, silicone sheds water differently but may reject later coatings. Compared with the E-SDS, it is more of a leveling coating than a sealant.\n\nBest for flat roofs where silicone is the chosen chemistry. Check recoat rules, because many products will not stick to silicone.",
     "specs": [
       "100% silicone liquid rubber",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41i6f9mj3nL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H2CRRPW6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H2CRRPW6?tag=rvgearlab-amz-20",
     "description": "The E-SDS is an MS polymer sealant listed with a 10 plus year service life. One gallon covers 40 square feet, and two to three coats build a 0.8 to 1 mm film.\n\nVersus the Tenee, it covers less area per gallon but names a polymer chemistry. Versus the Ziollo, it adheres to rubber, metal and concrete.\n\nBest for mixed-material repairs. Confirm the roof membrane compatibility.",
     "specs": [
       "MS polymer sealant",

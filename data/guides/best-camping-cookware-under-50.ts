@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41FIHmh00lL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D2KF98MC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D2KF98MC?tag=rvgearlab-amz-20",
     "description": "This THTYBROS kit bundles a 1.70L pot with a 1.15L kettle, a 7 inch pan, stainless cups and plates. The hard anodized aluminum is wire drawn and oxidized to spread heat evenly and resist scratches.\n\nPriced near $32, it carries more cookware than the $16 DINITHRON and nearly as much as the $40 ALOCS. The kettle is the feature that separates it from the plain pot-and-pan sets lower down.\n\nTwo campers who cook real meals at the site get the most from it. One kit covers coffee, pasta and eggs.",
     "specs": [
       "17 pieces, hard anodized aluminum",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41P6y5cJIXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H1Q1BF2X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H1Q1BF2X?tag=rvgearlab-amz-20",
     "description": "The ALOCS set has 19 pieces for one or two people, including a kettle and a stainless folding utensil set with a slide-lock soup ladle. The cookware is hard-anodized aluminum with thermally insulated folding handles, and everything nests into a mesh bag.\n\nNear $40, it is the priciest here and the only one with proper stainless utensils, so you skip buying a ladle and spatula. The 17-piece THTYBROS costs about $8 less and leaves the utensils to you.\n\nFirst-time campers get cooking and serving gear in one box. The insulated handles help when pots come off the stove hot.",
     "specs": [
       "19 pieces for 1 to 2 people",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41tGYFRWBYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DJ78B3KG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DJ78B3KG?tag=rvgearlab-amz-20",
     "description": "This 18-piece kit adds a mini stove with piezo ignition and a storage box to a 2L pot, a 7 inch non-stick pan and a kettle. The cookware is hard-anodized aluminum and nests so the accessories fit inside the largest pot.\n\nOnly this pick includes a burner, which saves roughly $15 to $20 against buying a stove separately. The ALOCS 19-Piece has more utensils, while this kit gives you the heat source.\n\nTwo or three campers who want a grab-and-go set will like it. Use the stove outdoors only, never inside a tent.",
     "specs": [
       "Mini stove with piezo ignition",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ec5J220pL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H1V835HZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H1V835HZ?tag=rvgearlab-amz-20",
     "description": "This THTYBROS set combines a large pot with a multi-hole steamer rack, a boiling kettle, a frying pan, two silicone bowls and a rice spatula. The anodized aluminum is wire drawn for even heat, and the pot, rack, kettle and pan stack into one carry bag.\n\nIt costs about $2 less than the stove kit and about $2 less than the THTYBROS 17-Piece, and its steamer rack is the main difference from both. Rice, dumplings and vegetables cook without a second pot.\n\nCampers who like steamed meals get bowls and a spatula in the box. It works as a compact car-camping kitchen for two.",
     "specs": [
       "Pot with steamer rack",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Ofh19I5pL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BXCPFNBG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BXCPFNBG?tag=rvgearlab-amz-20",
     "description": "The CAMPWOLF pot holds 2.5L and has silicone side walls that fold down to 1.4 inches tall for transport. It uses 304 stainless steel with food-grade silicone, weighs 1.08 lb and has a strainer lid that doubles as a colander.\n\nIt costs about the same as the ALOCS 19-Piece, and the money goes into packed size rather than extra pieces. No other pick here packs anywhere near as flat.\n\nBackpackers and van campers with little cookware space benefit most. It pairs well with a small stove you already own.",
     "specs": [
       "2.5L, 1.08 lb",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41++PpANu5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H9DZ6QNS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H9DZ6QNS?tag=rvgearlab-amz-20",
     "description": "The DINITHRON set is an 8-piece hard-anodized aluminum kit for one or two people with a medium pot, a frying pan, plastic bowls and a cleaning sponge. The pieces nest together for storage.\n\nAt about $16 it costs well under half of the ALOCS 19-Piece, and the saving shows up as no kettle, no utensils and plastic bowls. It is the one to buy when the budget is tight and the trip is short.\n\nWeekend campers and scouts building a first camp kitchen on a small budget are the natural buyers. The set covers the basics and little more.",
     "specs": [
       "8 pieces, hard-anodized aluminum",

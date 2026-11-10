@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41L6j3lVH1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FDMQY1MF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FDMQY1MF?tag=rvgearlab-amz-20",
     "description": "The Micro-Air EasyStart Breeze 399 Bluetooth is listed for most RV rooftop units up to 18,000 BTU and a single 2200W inverter generator. The Micro-Air EasyStart Breeze 399 Bluetooth is listed for most RV rooftop units up to 18,000 BTU and a single 2200W inverter generator.\n\nNext to the Flex 398 it is built specifically for RV shroud space, while the Flex covers home systems from 2 to 6 tons. It costs about 44 dollars less than the Flex and adds a 40-inch harness.\n\nIt reduces locked-rotor amperage by up to 75 percent in a four-part ramp-up and adds Bluetooth monitoring with a 40-inch harness. It suits RV owners who want app monitoring and a compact, RV-fit unit.",
     "specs": [
       "Rooftop units up to 18,000 BTU",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51DKcJLhtcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H2KYGWRS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H2KYGWRS?tag=rvgearlab-amz-20",
     "description": "The TURBRO S72 Pro adds Bluetooth monitoring to a soft starter listed for units up to 7 tons (84,000 BTU), with magnetic latching relays and dual SCR control. The TURBRO S72 Pro Bluetooth soft starter is listed for RV and HVAC units up to 7 tons (84,000 BTU), with magnetic latching relays and dual SCR control.\n\nIt costs about 95 dollars less than the Breeze Bluetooth while covering a far wider tonnage range. Its IP6 waterproof and dustproof enclosure suits rooftop mounting.\n\nIt adds Bluetooth monitoring, an IP6 waterproof and dustproof enclosure and current detection for compressor protection. It suits buyers who want Bluetooth and big-unit headroom without paying the top price.",
     "specs": [
       "Up to 7 ton (84,000 BTU)",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/313HCthBpvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CK8NJQ9R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CK8NJQ9R?tag=rvgearlab-amz-20",
     "description": "The ActiveStart ACS20PIM-S lists programmable startup power and a Bluetooth app for iOS and Android. The ActiveStart ACS20PIM-S lists starting current reduction, programmable startup power and a Bluetooth app for iOS and Android.\n\nIt gives more control than the TURBRO and costs less than either Micro-Air. Built-in surge protection adds a second layer of defense.\n\nBuilt-in surge protection and a waterproof, UV-proof module suit outdoor RV use, and the listing calls it a 50 Amp plug and play unit. It suits owners who want to tune startup behaviour from a phone.",
     "specs": [
       "Programmable startup power",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/418WkcDXqXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DKQN4XRJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DKQN4XRJ?tag=rvgearlab-amz-20",
     "description": "For Bluetooth monitoring, the Micro-Air EasyStart Flex 398 reduces inrush current by up to 75 percent. It pairs a 4-wire hookup with install videos.\n\nIt is the premium pick of the group, spanning 2 to 6 ton single-stage, two-stage and heat pump systems. The Breeze Bluetooth is the RV-specific alternative.\n\nApp diagnostics make it the choice for owners who want live data. The same soft start can work on a home system.",
     "specs": [
       "Up to 75% inrush reduction",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31hhoFWBTyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BSDKRFJM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BSDKRFJM?tag=rvgearlab-amz-20",
     "description": "The ActiveStart 40 Amp SoftStarter uses a four-wire connection and ramps power gradually so an air conditioner can run on one generator. The ActiveStart 40 Amp SoftStarter is a four-wire unit sold to upgrade an air conditioner so it can run from one generator or a limited supply.\n\nIt costs less than the Micro-Air units and skips the app. It is a plainer pick than the Bluetooth ActiveStart.\n\nIts listing promises quiet, gradual ramp-up that eases strain on the electrical system. It suits owners who want a simple four-wire kit without an app.",
     "specs": [
       "40 amp rating",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/416gBH0Ss6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BZXSJ1Q4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BZXSJ1Q4?tag=rvgearlab-amz-20",
     "description": "Starting current drops 65 to 70 percent with the Briidea, and it is the lowest priced kit here. The listing says a 15,000 BTU AC can start from a 2200W generator.\n\nOverload and short circuit protection are built in. The cost works out to roughly a fifth of the Micro-Air units.\n\nOne unit serves an air conditioner on a 20A household hookup, and two units cover a pair on 30A. Budget buyers who only want the soft start and can skip the app will like it.",
     "specs": [
       "Cuts start current 65 to 70%",

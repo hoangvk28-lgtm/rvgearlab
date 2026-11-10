@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hmcr5QMmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09B2TVKGB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09B2TVKGB?tag=rvgearlab-amz-20",
     "description": "The Aquatabs 49mg 100-Pack lists 99.9999 percent removal of bacteria and 99.99 percent of viruses, with each tablet individually sealed in a foil strip. The listing says treated water has no unpleasant taste, color or odor, unlike iodine-based products.\n\nVirus removal is stated for this pack and not for the Potable Aqua, and the foil strips protect each tablet from humidity in a disaster kit or bug-out bag. The line also comes in a 50 count pack at a lower price.\n\nIt suits backpackers, travelers and kit builders who want a tablet that states virus removal and does not taste of iodine. The sealed strips tear open one at a time.",
     "specs": [
       "99.99% virus claim",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51lfUdR5pNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01GPK4LVW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01GPK4LVW?tag=rvgearlab-amz-20",
     "description": "The Potable Aqua pack includes two bottles of 50 tablets each. The listing says they make water bacteriologically suitable to drink and are effective against Giardia lamblia when used as directed.\n\nNext to the Aquatabs 49mg 100-Pack it carries the same 100 tablets at roughly half the price, which makes it the cheap bulk choice. The listing names Giardia and says nothing about viruses.\n\nIt suits budget campers and emergency kits where cost matters most and the water is likely clear. Splitting the tablets between two bottles spreads the risk of spoilage.",
     "specs": [
       "Two bottles of 50 tablets",

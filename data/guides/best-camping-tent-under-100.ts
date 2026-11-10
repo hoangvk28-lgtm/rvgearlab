@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41i0yAesF5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GD6Z2HCS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GD6Z2HCS?tag=rvgearlab-amz-20",
     "description": "The Purebox 4 person instant tent has pre-attached poles and sets up in about 50 seconds. It measures 8.04 by 8.04 feet with a 59 inch center height, and uses 2000mm PU-coated fabric with taped seams.\n\nCompared with the CAMEL CROWN, it offers a faster pitch and a cabin-like shape. Against the Wakeman, it sleeps four and has a mesh ceiling.\n\nIt suits families and groups who value quick setup at the car. Mesh windows and a mesh ceiling improve airflow.",
     "specs": [
       "4 person, 8.04 x 8.04 ft",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31lbFBXxP+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08RJ92BGM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08RJ92BGM?tag=rvgearlab-amz-20",
     "description": "The CAMEL CROWN dome is sold in 2, 3, 4 and 5 person sizes, with a polyester outer shell, 8.5mm glass fiber poles and a PU2000 150D Oxford floor. It has a double-layer dual-purpose top and mosquito-proof screens.\n\nCompared with the Purebox, it is a standard dome with a choice of sizes. Against the Wind Tour, it adds guy ropes and a double layer.\n\nIt suits campers who want to match tent size to group size. Easy assembly takes only a few minutes.",
     "specs": [
       "2 to 5 person sizes",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41VmjAIuWrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FNPVH7DB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FNPVH7DB?tag=rvgearlab-amz-20",
     "description": "The TGpao is a one-person bivy tent that weighs 2.2 pounds, with 7001 aluminum poles and a compact carry bag. The outer tent lists 2000 to 3000mm waterproofing and the floor PU2000, with a freestanding 7-section pole frame.\n\nCompared with the other tents, it is a solo shelter and much lighter. Against the Wind Tour, it adds freestanding aluminum poles and more waterproofing detail.\n\nIt suits solo campers who want a very light shelter. The listing says it fits people under 6 ft 4 in.",
     "specs": [
       "2.2 lb, 7001 aluminum poles",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/315z9lTAP+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FJ9DYMXT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FJ9DYMXT?tag=rvgearlab-amz-20",
     "description": "The Wind Tour is a two-person tent that weighs 2.56 pounds and measures 77 by 57 by 41 inches. It uses 190T polyester and a 150D Oxford floor, with fiberglass poles and an included storage bag.\n\nCompared with the Wakeman, it is lighter and more compact. Against the TGpao, it fits two people.\n\nIt suits warm-weather campers who want a light two-person for festivals or hikes. A mesh design keeps airflow strong.",
     "specs": [
       "2.56 lb, 77 x 57 x 41 inches",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41V04YYaPYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07YP7JWRN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07YP7JWRN?tag=rvgearlab-amz-20",
     "description": "The Wakeman two-person tent has a D-style door, two fiberglass poles, a removable rain fly and an interior storage pocket. The dual-layer door has an inner screen and an outer zipped layer.\n\nCompared with the Wind Tour, it adds a removable fly and a storage pocket. Against the Purebox, it is for two and carries well in a bag.\n\nIt suits casual campers who want a simple, cheap shelter. Setup and takedown are quick.",
     "specs": [
       "D-style door, removable fly",

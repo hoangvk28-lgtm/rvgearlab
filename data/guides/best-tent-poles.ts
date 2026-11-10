@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/5175mBYsldL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D82XGSR8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D82XGSR8?tag=rvgearlab-amz-20",
     "description": "The AVOFOREST set of four reaches 8.7 feet (2.65 m) on aviation aluminum tubes that are 1.26 inches (32 mm) across. A second lock layer is added to the standard lock to stop the pole sliding down, and the storage length is 2.9 feet.\n\nAgainst the HIKERBRO's 7.67 ft reach and the AYAMAYA's 91 inch limit, it goes the tallest and has the thickest tubes. A woven carry bag is included, and the listing offers the same pole in a set of two at a lower price.\n\nIt suits a family with a large awning or a high tarp ridge who wants height and a stiffer pole. A lifetime service promise is stated.",
     "specs": [
       "8.7 ft, 1.26 inch tubes",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51trruJGuoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F2D4Z13N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F2D4Z13N?tag=rvgearlab-amz-20",
     "description": "The HIKERBRO set holds four 6061 aluminum poles that adjust from 2.67 ft to 7.67 ft in four sections with twist locks. Eight 13.3 ft reflective guy lines and eight 8 inch stakes come in the box with a shoulder-strap pouch.\n\nIt is the only pick that includes guy lines and stakes, so it works out of the bag, unlike the AVOFOREST and AYAMAYA sets. A rubber cap holds the rainfly to the tip, and two loops at the top take guy lines.\n\nIt suits a car camper pitching a tarp shelter for the first time. Everything for the pitch is in one set.",
     "specs": [
       "2.67 to 7.67 ft, 6061 aluminum",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ejeHKPppL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CZ71JK6W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CZ71JK6W?tag=rvgearlab-amz-20",
     "description": "The AYAMAYA poles are aluminum alloy tubes that weigh 1.1 lbs each yet carry up to 60 lbs per pole by the listing. They adjust from 31 to 91 inches in four sections and lock by a twist.\n\nCompared with the HIKERBRO they list a load rating, and compared with the AVOFOREST they weigh little and give a lower maximum height. A rubber cap sits on top to stop the tarp sliding.\n\nIt suits a hammock or beach-shade camper who wants a light pole that is easy to lock. No tools are needed.",
     "specs": [
       "31 to 91 inches, 4 sections",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41+xTxO1-UL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08CSKJHXK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08CSKJHXK?tag=rvgearlab-amz-20",
     "description": "The SANLIKE poles are made from stainless steel and extend from 32 to 95 inches. The listing names rubber caps, a non-slip base, a removable silicone tip cover and a press-buckle assembly.\n\nCompared with the aluminum AYAMAYA and HIKERBRO sets, they trade weight for a steel build and the longest reach below the AVOFOREST at 95 inches. They cost much less than the aluminum sets.\n\nIt suits a car camper who wants a sturdy pole. The price is modest next to the aluminum sets.",
     "specs": [
       "32 to 95 inches, stainless",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41z7BSn7tCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F9R2KTP8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F9R2KTP8?tag=rvgearlab-amz-20",
     "description": "The Wind Tour pole uses a steel tube and spring hook, with a 0.6 inch diameter and 80.7 inch length. A rubber cap sits on the top, and the listing says it adjusts from 32 to 95 inches.\n\nIt has the lowest price here and a stated 0.6 inch diameter. Next to the SANLIKE it is thinner and shorter in its stated length, with a spring hook instead of a press buckle.\n\nIt suits a beach or picnic shade. Light duty is all it is meant for.",
     "specs": [
       "0.6 inch steel tube",

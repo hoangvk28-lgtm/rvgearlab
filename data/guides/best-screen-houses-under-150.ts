@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/61qaL7aHtxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B9LCR8V1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B9LCR8V1?tag=rvgearlab-amz-20",
     "description": "The East Oak is a 10 by 10 foot pop-up with four-sided D33 fine mesh, a reinforced steel main structure and UPF 50+ protection. A heavy-duty fiberglass top prevents water from accumulating and adds interior space.\n\nIt pops up much faster than the pole-assembled TAILGATERZ and DMH, and it costs less than the DMH. It leaves out the sunshade panels some canopies include.\n\nIt suits 4 to 6 people who want a sturdy-framed room for patio meals. The rating leaves space for a table.",
     "specs": [
       "10 x 10 ft pop-up",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51q6o5NbKNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CVXLBBRR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CVXLBBRR?tag=rvgearlab-amz-20",
     "description": "The DMH screen house is 13 by 9 by 7.5 feet and covers nearly 120 square feet with all-around mesh. Two self-closing magnetic doors and a projection screen come in the box.\n\nIt matches the TAILGATERZ on 7.5 foot headroom and adds a projection screen. It costs the most in the group.\n\nIt suits families who use the room for outdoor movies. Magnetic doors help when carrying snacks.",
     "specs": [
       "13 x 9 x 7.5 ft",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41+2lGoWjRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00KJNLYFS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00KJNLYFS?tag=rvgearlab-amz-20",
     "description": "This TAILGATERZ model gives 99 square feet under a 7.5 foot roof, with magnetic doors at both ends and big mesh walls. Its edge-only floor goes around a picnic table, a mud mat covers the entry and the poles are color-coded.\n\nIt costs about $50 less than the DMH and offers the same headroom. It is smaller than the DMH and has no projection screen.\n\nIt suits tailgaters and campers who dine outside. The color-coded poles guide setup.",
     "specs": [
       "99 sq ft under 7.5 ft roof",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zuxIMY8uL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F247JGQ3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F247JGQ3?tag=rvgearlab-amz-20",
     "description": "This 12 by 12 foot pop-up gazebo has an awning, zipper ventilation and wind panels that roll up, lower or pull out on traction ropes. The 300D polyester top is rated to 5000mm waterproof.\n\nIt gives the biggest floor of the four and the strongest waterproof rating, at a price below the East Oak. The East Oak has a steel frame and the DMH has a projection screen.\n\nIt suits groups who want shade, a screen and wind cover in one big pop-up. Zippers make entry easy.",
     "specs": [
       "12 x 12 ft pop-up gazebo",

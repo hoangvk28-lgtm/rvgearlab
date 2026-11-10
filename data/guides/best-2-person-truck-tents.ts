@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Gd5EMgkkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DXL4PZ4Z?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DXL4PZ4Z?tag=rvgearlab-amz-20",
     "description": "The Umbrauto 6.4-6.7 is listed for 6.3 to 6.8 ft full-size beds with a 78.7 inch length and room for 2 to 3 sleepers. The fabric is 210T polyester rated PU3000, and it adds a full-size door, two side mesh windows and a roof vent.\n\nIts 78.7 inch length is the longest interior stated here, ahead of the JOYTUTUS 2.0 and the VEVOR. It costs the most of the six, which reflects the larger tent body.\n\nIt suits couples with a standard-length bed who want spare floor space for gear. Color-coded poles speed the pitch.",
     "specs": [
       "78.7 inch length, 6.3-6.8 ft",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51i4zXdLOHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08XH7TK3M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08XH7TK3M?tag=rvgearlab-amz-20",
     "description": "The JOYTUTUS 2.0 is a 90.5 x 62.9 x 66.9 inch tent for two, stated to suit 5.5 to 5.8 ft beds. The kit includes four fiberglass poles plus two spares, a rainfly and a carry bag, and the fabric is 210D polyester Oxford with PU2000.\n\nIt ships spare poles where the other five picks list none. It also sits above the Tecoom and Bosvell on price while staying well under the Umbrauto.\n\nIt suits couples with a short or mid-length bed who worry about a snapped pole on the road. Three windows give ventilation and views.",
     "specs": [
       "90.5 x 62.9 x 66.9 inches",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41mNymRWSQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D1C1RLVY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D1C1RLVY?tag=rvgearlab-amz-20",
     "description": "The VEVOR 6.4-6.7 fits beds of 6.4 to 6.7 ft and accommodates 2 to 3 people. The listing names 9 mm fiberglass poles, a PU2000 double layer, a 5.58 ft peak height and a skylight with a 120g sewn floor.\n\nIt costs about the same as the Bosvell and the Tecoom, and it undercuts the Umbrauto for the same bed length. Its stated peak height is the only one listed in feet and gives clear standing room.\n\nIt suits couples with a standard-length bed who want stout poles at a middle price. The tent also lists compatibility with Ford F150 and Dodge Ram.",
     "specs": [
       "6.4-6.7 ft bed range",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51698xZt57L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GL7Y3JX7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GL7Y3JX7?tag=rvgearlab-amz-20",
     "description": "The Bosvell truck tent covers 5.0 to 5.8 ft beds with 210D polyester Oxford, a PU3000 coating and a rainfly. A connection tunnel supports power access and airflow, and the listing adds storage pockets and ventilation windows.\n\nIt has the widest bed range on the list and the only tunnel among these six. It undercuts the VEVOR slightly and costs less than the JOYTUTUS 2.0.\n\nIt suits couples who want truck power or a fan feed with a short or mid bed. Color-coded poles keep setup quick.",
     "specs": [
       "Fits 5.0-5.8 ft beds",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ClvpewbHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G1LKKBMT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G1LKKBMT?tag=rvgearlab-amz-20",
     "description": "The Tecoom pop-up truck tent uses an automatic frame that opens like an umbrella for a stated 5-minute setup. The listing gives a 5.5 to 5.8 ft bed range, with an 86.6 x 65 x 66.9 inch interior, taped seams and a 210D polyester Oxford double layer at PU3000.\n\nWhere the JOYTUTUS 2.0 threads poles, the Tecoom unfolds in one motion. It undercuts the JOYTUTUS 2.0 on price and adds a 1-year warranty with lifetime technical support.\n\nIt suits couples who set up every night on a road trip and want the fastest pitch. The rainfly is included.",
     "specs": [
       "Pop-up frame, 5-minute setup",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41xv7GRz9DL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DQSHN4FV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DQSHN4FV?tag=rvgearlab-amz-20",
     "description": "The CROSSHIP is a 2-person truck bed tent in 210D Oxford with a PU3000 coating, sold in sizes for 5.5 to 5.8 ft, 6.4 to 6.7 ft and 8 to 8.2 ft beds. Mesh panels give airflow and keep insects out, and the listing calls the fabric anti-tear.\n\nPriced under every other tent here, it still keeps a PU3000 coating, which several costlier tents lack. The listed size choices cover more bed lengths than any other pick here.\n\nIt suits couples who want a dry sleeping spot at the lowest outlay. The title lists the 6.5 ft size, so check the size option before adding it to the cart.",
     "specs": [
       "PU3000 Oxford canopy",

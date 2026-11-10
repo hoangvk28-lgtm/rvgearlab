@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31nfGqmwuML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GBVS7FHQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GBVS7FHQ?tag=rvgearlab-amz-20",
     "description": "The Naturehike Giling is a four-season tent sold in 1 and 2 person versions. The 1 person weighs 3.53 lb and packs to 4.7 x 15.4 inches, while the 2 person weighs 4.85 lb and packs to 5.9 x 16.1 inches.\n\nIts upgraded 15D double-ripstop nylon fly and floor carry a 3000mm+ waterproof rating, and a 210T polyester footprint is included. Its solo size is the lightest tent in this list, and the X-cross pole structure of 8.5 mm aluminum alloy adds stability.\n\nIt suits solo and duo hikers who want a documented light four-season tent with a footprint. The sleeve-pole system speeds up setup in rain.",
     "specs": [
       "3.53 lb solo, 4.85 lb duo",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31EePpwi53L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F52BNCN3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F52BNCN3?tag=rvgearlab-amz-20",
     "description": "The OneTigris Stella is a 2 person four-season tent that uses 20D silicone nylon, a 40D nylon floor and a 3000mm waterproof rating. It sets up 6.9 ft long, 4.1 ft wide and 3.7 ft high, weighs 4.4 to 4.8 lb depending on the listing and packs to about 21.7 x 6.3 inches.\n\nIt offers a removable blackout outer tent and a mesh inner for airflow, a feature the Giling listing does not mention. The Giling is lighter in the solo size, and the Stella suits couples wanting a blackout shell.\n\nIt suits two campers who want a four-season rated tent with a blackout option. The cross pole design anchors at all four corners.",
     "specs": [
       "Weighs 4.4 to 4.8 lb",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41+vnq+iUiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D6YG7YV4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D6YG7YV4?tag=rvgearlab-amz-20",
     "description": "The ATEPA Voyage 1-2 person tent has a 20D silicone nylon rainfly with a 4000mm waterproof rating and fully taped seams. It uses a 7001 aluminum frame, B3 mesh, dual D-shaped mesh doors, side storage panels and an expandable vestibule.\n\nIt carries the highest stated waterproof rating of the four, with no weight on the listing. The Giling documents weight, while the ATEPA documents the rating and the interior features.\n\nIt suits solo hikers who occasionally share and want a four-season shelter with extra storage. Reflective details help at night.",
     "specs": [
       "20D silicone nylon, 4000mm",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/417k6Q1Z6WL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FJF94YLH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FJF94YLH?tag=rvgearlab-amz-20",
     "description": "The iClimb solo tent has a snow skirt, 210T ripstop polyester taffeta fly and bathtub floor with PU3000mm, fully taped seams and 7001 aluminum poles. It weighs about 5 lb with a setup size of 80 x 28 x 43 inches.\n\nPrice is the lowest of the four, and it is the only listing that names a snow skirt and cot compatibility. At 5 lb it is heavier than the Giling solo.\n\nIt suits solo campers who want a four-season tent for use on a cot or the ground. Two elastic straps fix the inner to a cot.",
     "specs": [
       "Snow skirt, PU3000mm",

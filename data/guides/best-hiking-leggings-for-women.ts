@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31tE3wdv9TL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D66RJDK9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D66RJDK9?tag=rvgearlab-amz-20",
     "description": "The Ewedoos Hiking Leggings combine a durable water repellent finish with UPF 50+ sun protection and a compression fit. They carry 2 large zip pockets plus 5 cargo pockets, a high waistband and a gusseted crotch for freer stride.\n\nAgainst the Carhartt Force, they add a weather finish and far more storage. Next to the fleece-lined Heathyoga, they suit milder days because the listing describes a non-see-through technical fabric rather than a thick lining.\n\nThey suit hikers who want one pair for sun, light mist and a phone plus snacks. The zip pockets keep valuables secure on scrambles.",
     "specs": [
       "DWR finish, UPF 50+",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31r+qgH+7dL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08PPVC5D6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08PPVC5D6?tag=rvgearlab-amz-20",
     "description": "The Carhartt Force Lightweight is an 8.5 ounce ponte knit of 95 percent nylon and 5 percent spandex. It uses FastDry wicking technology and Rugged Flex stretch, and the listing says it fights odors.\n\nCompared with the Ewedoos, it is a simpler, lighter pair with no pocket list or weather finish. Against the fleece-lined options, it works across more of the year.\n\nIt suits hikers who sweat and want a quick-drying, durable pair for long days. Regular and plus sizes are offered.",
     "specs": [
       "95% nylon, 5% spandex knit",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31K8RMm1N5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DDLCV1XY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DDLCV1XY?tag=rvgearlab-amz-20",
     "description": "The Heathyoga Fleece is a thermal legging with a heat-reflective fleece lining, a water-resistant outer and a 4.5 inch waistband. It has 3 pockets plus a waist loop and reflective details for early or late hikes.\n\nAgainst the Ewedoos, it trades the compression feel for warmth and visibility details. Next to the NexiEpoch, it adds water resistance and reflective trim.\n\nIt suits women hiking in cold air who want snow and drizzle protection. Reflective details help on dawn starts.",
     "specs": [
       "Fleece lining, water resistant",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41CtgJavBOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C7GFK353?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C7GFK353?tag=rvgearlab-amz-20",
     "description": "The WE FLEECE 3 Pack gives you three pairs of high-waist, fleece-lined black leggings with two outer pockets. The waistband offers tummy control and the pockets are described as flat and stable.\n\nCompared with the Heathyoga, it focuses on quantity, with three pairs per order. Against the CHRLEISURE, it adds a thermal lining.\n\nIt suits those who want a rotation of warm layers for camp, hikes and casual days. Three pairs cover laundry days on a trip.",
     "specs": [
       "3-pack, fleece interior",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Fi-g1G15L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HDPHL1ZW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HDPHL1ZW?tag=rvgearlab-amz-20",
     "description": "The NexiEpoch Fleece uses a brushed fleece interior in a 92 percent polyester, 8 percent spandex blend with a 5.3 inch compression waistband. The listing names hiking, cycling, skiing and camping among its uses.\n\nAgainst the Heathyoga, it skips weather protection and reflective details. Compared with the WE FLEECE 3 Pack, it is a single pair with a wider waistband.\n\nIt suits budget-minded hikers who want warmth for autumn and winter. The four-way stretch moves with the legs.",
     "specs": [
       "Brushed fleece interior",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31nvTb6vheL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FDG4657B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FDG4657B?tag=rvgearlab-amz-20",
     "description": "The CHRLEISURE Pocket is a high-waist legging made from 78 percent polyester and 22 percent spandex with two deep side pockets. The fabric is described as moisture-wicking, non-see-through and four-way stretch.\n\nAgainst the NexiEpoch, it has pockets and a lighter, unlined fabric that fits warmer days. Next to the Ewedoos, it has fewer pockets and no weather finish.\n\nIt suits hikers who want a simple, low-cost legging with pockets for a phone. The listing names hiking and climbing among uses.",
     "specs": [
       "78% polyester, 22% spandex",

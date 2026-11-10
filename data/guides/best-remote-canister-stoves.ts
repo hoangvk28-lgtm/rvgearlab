@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41fjIVr2TuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07V2P2WF2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07V2P2WF2?tag=rvgearlab-amz-20",
     "description": "The Fire-Maple Blade 2 weighs 135 g (4.76 oz) and folds to fit inside a 1 liter pot. The jet burner is rated at 2800 W (9500 BTU), and folding titanium legs and pot rests keep it stable.\n\nIts remote cable lets you invert the canister for cold performance, and a preheat tube helps vaporize fuel. The Fire-Maple Petrel is lighter, yet the Blade 2 adds that cold-weather design.\n\nIt suits hikers who want a light remote stove for cold mornings. It also works with an LPG adapter.",
     "specs": [
       "135 g (4.76 oz), remote cable",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/517qb6Saj7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GNPS7PBG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GNPS7PBG?tag=rvgearlab-amz-20",
     "description": "The CAMPJOURNEY is a spider-style stove with a 2900 W (9900 BTU) burner that weighs 0.77 lb and folds to 5.5 by 2.7 by 4.3 inches. Four spring-loaded legs lock into a wide footprint, and the listing says a quart boils in under 3 minutes.\n\nIt includes an adapter hose for remote propane tanks and works with butane and mixed gas canisters, which the Glacier and Blade 2 do not describe. The wide base supports large pots.\n\nIt suits groups and car campers who want a stable remote stove with propane tank flexibility. It comes with an EVA case and a 1-year warranty.",
     "specs": [
       "2900 W, 9900 BTU",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41OaiVPuQfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DJPR9LYR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DJPR9LYR?tag=rvgearlab-amz-20",
     "description": "The GSI Glacier Remote is a foldable stove rated at 11,000 BTU that weighs 8.0 oz and folds to 2.8 by 3.5 by 3.3 inches. It has built-in piezo ignition and works with isobutane canisters through a remote control.\n\nIt lists the highest BTU of the group and is the only one with the stainless, brass and rPET cloth construction details spelled out. The Fire-Maple models weigh less.\n\nIt suits campers who want a remote stove with built-in ignition. The remote fuel control is meant to improve safety and stability.",
     "specs": [
       "11,000 BTU, 8.0 oz",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21KHp8H5h4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FS7QWCGT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FS7QWCGT?tag=rvgearlab-amz-20",
     "description": "The Fire-Maple Petrel weighs 95.5 g (3.4 oz) and folds to 3.7 by 3.4 by 1.3 inches, with a titanium body and a foldable aluminum windscreen. It is rated at 2.7 kW (9213 BTU/h) and boils 0.5 L of water in 1 minute 48 seconds.\n\nIt is the lightest remote stove in this group, and the low center of gravity keeps the canister and valve away from the flame. The Blade 2 adds inverted canister use.\n\nIt suits thru-hikers and fast-packers counting grams. Short treks and quick meals are where it shines.",
     "specs": [
       "95.5 g (3.4 oz), titanium",

@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41sAoWk5OCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B003XELTTG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B003XELTTG?tag=rvgearlab-amz-20",
     "description": "The iSpring RCC7 is a five-stage under-sink RO system rated at 75 GPD with a lead-free faucet, food-grade tubing and a transparent first-stage housing. The listing says it is NSF/ANSI 58 certified and uses a patented top-mounted faucet fastener.\n\nCompared with the iSpring RCC7AK below, it skips the remineralization stage and is simpler. Next to the Waterdrop G3P600, it needs a storage tank and more cabinet space but has a lower output.\n\nA good fit for full-timers parked on a full hookup who want a proven RO setup. It needs an under-sink spot, a drain line and at least city-water pressure, so it is not for boondocking.",
     "specs": [
       "NSF/ANSI 58 certified",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/414uNf9apWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07P1XFYJP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07P1XFYJP?tag=rvgearlab-amz-20",
     "description": "The Waterdrop G3P600 is a tankless RO system listed as 600 GPD with eight filter stages and a smart faucet that shows TDS and filter life. It lists NSF/ANSI 58 for TDS reduction and NSF/ANSI 372 for lead-free material, and a 2:1 drain ratio. The listing says the tankless design saves about 70 percent of under-sink space.\n\nCompared with the iSpring RCC7, it is far more compact and quicker, but costs more than twice as much. Against the APEC ROES-50, it has no tank, which saves space; the listing does not state power needs, so check before buying.\n\nBest for a rig with limited cabinet space on full hookups. The 2:1 drain ratio is better than many tank systems, but it is still a drain-connected system.",
     "specs": [
       "NSF/ANSI 58 for TDS",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41bhV4ql12L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B005LJ8EXU?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B005LJ8EXU?tag=rvgearlab-amz-20",
     "description": "The iSpring RCC7AK is a six-stage 75 GPD RO system with an added alkaline mineral stage that restores minerals and lifts pH. It carries the same NSF/ANSI 58 certification for the whole system and the top-mounted faucet design.\n\nIt costs a little more than the iSpring RCC7 for the mineral stage, and that is the only real difference. Against the PureDrop RTW5, it lists reduction percentages for several contaminants.\n\nA good pick for owners who dislike the flat taste of RO water. It has the same drain and space needs as any tank system.",
     "specs": [
       "NSF/ANSI 58 certified",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ACgvEErcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B079P875FQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B079P875FQ?tag=rvgearlab-amz-20",
     "description": "The PureDrop RTW5 is a five-stage RO system with a top-mount faucet, acoustic dampening on the tank refill, and three extra pre-filters to extend membrane life. It includes fridge and ice maker adapters and a modular filter design. The listing says it was tested by SGS against NSF/ANSI 58.\n\nNext to the iSpring RCC7, it adds fridge adapters and quieter refilling at a lower price. Against the APEC ROES-50, the listing is less specific on daily output.\n\nBest for owners who want a quiet system in a small space and need an ice maker connection.",
     "specs": [
       "5-stage RO",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41lYIBrW3rL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00I0ZGOZM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00I0ZGOZM?tag=rvgearlab-amz-20",
     "description": "The APEC ROES-50 is a five-stage under-sink RO system rated at 50 GPD, with quick-connection fittings, colored tubing, a brushed nickel faucet, a water tank and a filter set. APEC recommends replacing filters every 6 to 24 months.\n\nCompared with the iSpring RCC7, it produces less water per day, and the highlights do not name NSF/ANSI 58. Against the PureDrop RTW5, it costs more and comes with fewer extras.\n\nA fair choice for a DIYer who wants everything in the box. The listing claims removal of up to 99.99 percent of impurities, so confirm a certification on the product page.",
     "specs": [
       "5-stage, 50 GPD",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41qrrk-OEjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FGZB2ZZ1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FGZB2ZZ1?tag=rvgearlab-amz-20",
     "description": "The South Bend is not a reverse osmosis system, despite the letters RO in its title. It is a 20 micron, six-stage Hex-Flow hose filter listed to NSF/ANSI 42, 53 and 372, with KDF and GAC layers and a flexible hose protector, and it is Camco filter compatible.\n\nIt works at a hose connection with no drain line or pressure pump, unlike every RO pick above, and filters nothing like an RO membrane. It is far cheaper and portable.\n\nPick it only if you want an inline carbon filter. It reduces chlorine, taste and odor, not dissolved solids.",
     "specs": [
       "NSF/ANSI 42, 53 and 372",

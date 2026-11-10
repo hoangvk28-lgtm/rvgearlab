@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41QsS9uRFaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F9F8BFLF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F9F8BFLF?tag=rvgearlab-amz-20",
     "description": "The WEIDIORME Heavy-Duty set includes two chairs rated to 400 lb, with a reinforced steel frame and X-bracket, 600D heat-resistant Oxford fabric and pearl cotton padding. Each chair has a contoured backrest with neck support, wide non-slip armrests, a side pocket, a cup holder and a cooler bag.\n\nAt about $62 for two chairs it works out to roughly $31 each, which is less than the Wildhiker or Naturehike. The steel frame makes it heavier than every aluminum pick here and pushes it toward car camping.\n\nIt suits larger campers, couples and families who want padded, supportive chairs for the fire ring. The cooler bag and cup holder keep drinks close.",
     "specs": [
       "400 lb rating, X-bracket steel",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41LUCc3ymkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F4QT9TXD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F4QT9TXD?tag=rvgearlab-amz-20",
     "description": "The Naturehike YL08 weighs 2.12 lb alone and 2.43 lb with its detachable anti-sink feet. It uses a 7075 aluminum frame with breathable 600D Oxford fabric and side mesh panels, and sets up in 15 seconds with an internal bungee cord.\n\nAt about $40 it is the lightest chair of the five by a clear margin. It also costs more than the CAMEL CROWN by about $15 and adds anti-sink feet that the CAMEL CROWN lacks.\n\nIt suits backpackers and beach campers who want one chair for sand, trail and campsite. The carry bag doubles as a pouch.",
     "specs": [
       "2.12 lb, 7075 aluminum",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Xe6ug4KTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DW8YRCLM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DW8YRCLM?tag=rvgearlab-amz-20",
     "description": "The Wildhiker SteadyMode weighs 2.8 lb, holds 330 lb and packs to 5.5 by 6 by 13 inches. It uses a reinforced triangular frame, thickened legs and large detachable anti-sinking feet, with a breathable mesh back and a deep seat.\n\nAt about $40 it matches the Naturehike YL08 on price and weighs 0.7 lb more. In return it offers larger feet and a deep seat that feels steadier on soft ground.\n\nIt suits campers who ride, hike and drive with the same chair. The packed size fits a pack pocket.",
     "specs": [
       "2.8 lb, 330 lb capacity",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41+J3CA2szL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FR4FPWSQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FR4FPWSQ?tag=rvgearlab-amz-20",
     "description": "The CAMEL CROWN weighs 2.51 lb on an aluminum frame, rated for 265 lb, with a 30 second quick-lock setup and a detachable seat. It folds to 13.5 by 5 by 4.5 inches and has two airflow zones and a 108 degree backrest angle.\n\nAt about $24 it costs $15 less than the Naturehike or Wildhiker while still using an aluminum frame. The lower 265 lb rating and lack of anti-sink feet keep the price down.\n\nIt suits lighter backpackers who want aluminum at the lowest price. It is a good second chair.",
     "specs": [
       "2.51 lb aluminum, 265 lb",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31T6mYUjRLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CQJR8NLW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CQJR8NLW?tag=rvgearlab-amz-20",
     "description": "The Tigerblade weighs 2.9 lb on a 7075 aluminum frame with a triangle structure and 600D polyester fabric rated for 330 lb. It packs down to a bottle-sized bundle about 13 inches long.\n\nAt about $40 it matches the Naturehike YL08 and Wildhiker on price and lacks their anti-sink feet. In return it has a detachable fabric seat and a clean triangle layout.\n\nIt suits backpackers on hard ground who want a strong, simple frame. The packed size fits a bottle pocket.",
     "specs": [
       "2.9 lb, 330 lb capacity",

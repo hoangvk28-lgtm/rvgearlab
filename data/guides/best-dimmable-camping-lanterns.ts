@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/418kNTIIurL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FJLQ5TC3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FJLQ5TC3?tag=rvgearlab-amz-20",
     "description": "The M.Y.Z. Wanderer lists 1200 lumens covering 215 square feet, a 3600mAh battery for up to 36 hours on low and warm and white modes with stepless dimming through a rotary knob. It has a metal handle and a built-in hook, measures 4.3 by 4.3 by 5.9 inches and is weather-resistant to light rain.\n\nIt has the most listed light and the smoothest dial here, with the rotary knob ahead of the preset buttons on the Amazon Basics. It costs more than the PopoIron pair and less than the ZOOOBELIVES.\n\nIt suits campers who want to dim from a bright work light to a soft glow. The retro knob is easy to find in the dark.",
     "specs": [
       "1200 lumens, 215 sq ft",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51z9ufLdrQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F896D723?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F896D723?tag=rvgearlab-amz-20",
     "description": "The ZOOOBELIVES is a handcrafted aluminum lantern with a 2100K glow, smooth dimming with a 3-second fade and up to 72 hours of runtime on USB-C charging. It measures 2.36 inches across by 3.94 inches tall, weighs 11 oz, has an IPX4 rating and a 1-year warranty.\n\nIt has the warmest glow and the best build here, in metal not plastic. It costs the most, and its output is softer than the Wanderer.\n\nIt suits glampers and table campers who want atmosphere and long runtime. The cotton rope hangs from a branch.",
     "specs": [
       "2100K warm glow, dimmable",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41o366VQekL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GR3NKRPH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GR3NKRPH?tag=rvgearlab-amz-20",
     "description": "The PopoIron comes as a 2-pack, each with a 4000mAh battery, 300 lumens, 3 color modes and stepless dimming, with a 360 degree rotatable stand and a built-in elastic clip. It folds flat, has a side LED for handheld flashlight use and lasts a long time even on high.\n\nIt gives a second lantern for the same money range as one, and a side flashlight that the Wanderer lacks. It has fewer lumens than the Wanderer.\n\nIt suits two-tent campers or couples who want a light each. The elastic clip fits a belt loop or tent seam.",
     "specs": [
       "2 lanterns, 4000mAh each",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51kfzX3GHFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FKMX37Z8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FKMX37Z8?tag=rvgearlab-amz-20",
     "description": "The LETMY set has 4 lanterns with 12 AA batteries included, 65 energy-saving LED chips each, up to 18 hours of light and 3 modes: cold white, warm and natural. It lists dimming with memory, an IP65 seal and a collapsible build.\n\nIt is the only pick with batteries included and the strongest weather rating here, IP65. It is lower priced than the single lanterns above.\n\nIt suits families and emergency kits who want a ready-to-run set. The memory function recalls the last setting.",
     "specs": [
       "4 lanterns, 12 AA included",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31o3CcqjavL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DYTN9H6W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DYTN9H6W?tag=rvgearlab-amz-20",
     "description": "The Amazon Basics lantern lists 1000 lumens with 360 degree output, 4 lighting modes including dimmable and strobe, an IPX4 rating and 3 D-cell power with the batteries not included. It is a lightweight lantern in black.\n\nIt is the cheapest here and lists 1000 lumens, with large D cells as the power source. Next to the Wanderer it offers fewer color options.\n\nIt suits campers who want a plain, bright lantern at the lowest price. D cells keep working in cold weather.",
     "specs": [
       "1000 lumens, 360 degrees",

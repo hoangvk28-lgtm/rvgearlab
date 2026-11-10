@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/412ncsbx7oL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F8H5YCFF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F8H5YCFF?tag=rvgearlab-amz-20",
     "description": "The BINTA is a true shunt monitor at $34.03. It counts amp-hours in and out, reports state of charge, remaining capacity up to 999Ah, voltage and current, and handles 100A continuous with a 150A peak. That current counting is what makes a lithium percentage believable.\n\nAgainst the Quicklynks BM7 at $39.99, it costs $5.96 less and measures real current instead of inferring charge from voltage. Pick this if you want a percentage you can plan around. Caveat: it is a wired display with a 10 ft shielded cable, and a 100A continuous limit is tight for a big inverter.",
     "specs": [
       "Shunt, 100A continuous, 150A peak",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/319Oq-N420L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F5W8MHJQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F5W8MHJQ?tag=rvgearlab-amz-20",
     "description": "The Quicklynks BM7 is a clip-on Bluetooth monitor at $39.99 that lists LiFePO4 among supported chemistries on 6V, 12V and 24V banks. It reports voltage, temperature, cranking and charging checks, and carries an IP67 rating with reverse-connection protection.\n\nIt costs $5.96 more than the BINTA Shunt and $8.00 less than the ANCEL BM300, which sits in between on features. Pick this if you want phone alerts without cutting a cable. Caveat: the listing describes voltage and health readings, not amp counting, so treat its percentage as an estimate.",
     "specs": [
       "Bluetooth, 6V/12V/24V",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51wD3--zMsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CXP8RRNR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CXP8RRNR?tag=rvgearlab-amz-20",
     "description": "The ANCEL BM300 Pro costs $47.99 and covers 6V, 12V and 24V systems over Bluetooth 5.3. Each unit watches one battery, up to four in one app, and it stores 72 days of history while out of range. Idle draw is listed at about 1mA.\n\nIt is $8.00 above the Quicklynks BM7 and $13.96 above the BINTA Shunt, and the extra money buys history and multi-battery views, not current counting. Pick this if you track a chassis battery and a house bank. Caveat: the listing never mentions lithium or LiFePO4, so confirm voltage curve support first.",
     "specs": [
       "Bluetooth 5.3, 72 days history",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4154GwiMTwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B085DKR34W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B085DKR34W?tag=rvgearlab-amz-20",
     "description": "The DROK is a $17.49 panel meter listing 10-100V lithium, LiFePO4, lead-acid and NiMH packs. It shows voltage, a temperature reading and a capacity percentage you program against voltage points.\n\nIt is $16.54 below the BINTA Shunt, and the gap is the shunt: this meter reads voltage, so its percentage is only as good as the voltage table you enter. Pick this if you want a cheap live voltage readout. Caveat: the default is a 48V lead-acid profile and the temperature shown is the meter body, not the battery.",
     "specs": [
       "10-100V, LiFePO4 listed",

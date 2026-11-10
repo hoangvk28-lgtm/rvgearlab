@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41enhb63WdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H697KBZX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H697KBZX?tag=rvgearlab-amz-20",
     "description": "The optrcn lists the Sportage across a span that starts at 1995 and runs through 2026, with a three-door arch that has side entries and a front entry. It can join the rear hatch for extra cover or set up on its own.\n\nIts year span is far wider than the other two, which start at 2022 and 2023. It is also the lowest priced of the three.\n\nIt suits owners of older Sportage models, who have the fewest choices on the market. Water-resistant fabric covers light rain and dust.",
     "specs": [
       "Sportage 1995 through 2026",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41UpLGHbTOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HHN8Z2BD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HHN8Z2BD?tag=rvgearlab-amz-20",
     "description": "The MWKHZIL lists the Sportage from 2023 to the present and is made of waterproof-coated Oxford cloth. It wraps around the open rear hatch to join the cargo area to the tent, and large openings help with entry and airflow.\n\nIt is the only pick that calls out a waterproof coating, where the others say water-resistant. It folds down compactly for travel.\n\nIt suits owners of a current Sportage who expect rain on trips. It costs less than the arch tent with the rainfly.",
     "specs": [
       "Sportage 2023 to present",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41OGwc0mJML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HHXLM2C3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HHXLM2C3?tag=rvgearlab-amz-20",
     "description": "This unbranded arch tent lists the Sportage 2022 to 2026 and adds a removable rainfly over water-resistant fabric and a sturdy frame. It has two side doors and a front door, and it works attached or freestanding.\n\nThe removable rainfly is not offered by the other two listings, which gives it adjustable coverage. Its 2022 start year also covers one extra model year compared with the MWKHZIL.\n\nIt suits campers who want layered cover that they can strip off in fair weather. It is the most expensive of the group.",
     "specs": [
       "Sportage 2022 to 2026",

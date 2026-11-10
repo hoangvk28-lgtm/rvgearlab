@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51KAmIs3llL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BLHC5RWG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BLHC5RWG?tag=rvgearlab-amz-20",
     "description": "The TUMELLA Compact is a folding umbrella that the listing says resists winds up to 100 MPH. It uses nine full fiberglass ribs, a one-handed auto open and close, a weight under 1 pound and a folded length of 11.5 inches.\n\nAgainst the SY COMPACT and Seniny, it adds a named nine-rib frame and a stated wind figure. Compared with the TUMELLA Golf, it is smaller and fits in a backpack or car door pocket.\n\nIt suits hikers and travelers who need dependable wind handling in a portable size. The brand also lists lifelong care and support.",
     "specs": [
       "9 fiberglass ribs, 100 MPH wind claim",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51EnhZPCnVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GH21PT89?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GH21PT89?tag=rvgearlab-amz-20",
     "description": "The TUMELLA Golf is a 62 inch auto-open umbrella with a vented double canopy built to let wind pass through. High-density pongee fabric repels rain and dries quickly, and the listing mentions sun protection too.\n\nAgainst the Baraida Golf, it concentrates on a single 62 inch size and a vented double canopy. Compared with the TUMELLA Compact, it covers two people instead of one.\n\nIt suits campers who want a sheltered spot at the picnic table or beside a tent. A one-button open starts it in an instant.",
     "specs": [
       "62 inch vented double canopy",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41CLtXTVUkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08FX1Y9Z8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08FX1Y9Z8?tag=rvgearlab-amz-20",
     "description": "The Baraida Golf comes in 54, 62, 68 and 72 inch sizes, with the 54 inch fitting one or two people and the 68 inch four. It has a double canopy, a fiberglass frame, auto open and a 210T water-repellent pongee fabric.\n\nCompared with the TUMELLA Golf, it offers more size choice and a one-year guarantee. Against the compact models, it gives much more cover for a family or group.\n\nIt suits families and groups that want a shared rain shelter at the campsite or tailgate. The canopy can be spun to dry.",
     "specs": [
       "54 to 72 inch size choices",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41XTWYcmwbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01403HDO8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01403HDO8?tag=rvgearlab-amz-20",
     "description": "The EEZ-Y Windproof is a 42 inch compact folding umbrella with premium fiberglass and stainless steel parts in its frame system. It opens and closes in one second at the press of a button.\n\nCompared with the TUMELLA Compact, it costs less and omits the named rib count and wind speed. Against the Seniny, it is a simpler design with stainless components for lasting use.\n\nIt suits commuters and hikers who want a reliable compact windproof umbrella without paying extra. It is a middle ground between tiny and gigantic models.",
     "specs": [
       "42 inch auto folding umbrella",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41GGKvRzAUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DKJCYZKL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DKJCYZKL?tag=rvgearlab-amz-20",
     "description": "The Seniny Windproof uses an upgraded aluminum shaft with fiberglass ribs, a 42.5 inch canopy and a folded length of 12 inches at 0.75 pounds. It offers UPF 50+ protection and auto open and close.\n\nCompared with the SY COMPACT, it adds a UPF 50+ coating, making it useful on both sunny and rainy days. Against the EEZ-Y, it is lighter at a lower price.\n\nIt suits campers who want rain and sun cover from one lightweight umbrella. The listing mentions a lifetime service.",
     "specs": [
       "42.5 inch canopy, 0.75 lb",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41awbZq6COL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B071SBKLF6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B071SBKLF6?tag=rvgearlab-amz-20",
     "description": "The SY COMPACT Travel has a black aluminum frame with eight fiberglass ribs and a 210T pongee canopy that repels water and dries quickly. It opens and closes automatically for fast entry into a car or tent.\n\nIt is the least expensive pick and keeps to the essentials. Against the EEZ-Y, it lists a specific rib count, and next to the Seniny it keeps things simple.\n\nIt suits budget shoppers who want a backup umbrella for the car or pack. The aluminum frame resists rust.",
     "specs": [
       "8 fiberglass ribs, aluminum frame",

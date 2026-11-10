@@ -27,7 +27,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51mKfzKlJcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H1L96D64?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H1L96D64?tag=rvgearlab-amz-20",
     "description": "The MEANCHEN 10 by 10 ft mat uses 280GSM HDPE mesh with reinforced rust-resistant aluminum grommets and heavy-duty metal stakes with protective washers. It folds into an included carry bag and is reversible with the same blue-gray pattern on both sides, so you can flip it when one face gets dirty.\n\nCompared with the Vocray and Witbthry at 240GSM, it is the heaviest fabric here, so it lies flatter and resists curling at the edges. The washers on the stakes protect the grommet edges from tearing under tension, and the rust-resistant grommets suit a mat you leave out through rain and morning dew for weeks at a time.\n\nIt suits owners who want the sturdiest mat for long stays, seasonal sites and full-timers who set up once and leave the mat down. If you value a flat, durable surface that holds its shape and comes with a bag for tidy storage, this is the best overall pick.",
     "specs": [
       "280GSM HDPE mesh",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/5131X0tr4eL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GZNMLT7P?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GZNMLT7P?tag=rvgearlab-amz-20",
     "description": "The Vocray 10 by 10 ft mat uses 240GSM HDPE mesh that lets water and air pass through, with no puddles and faster drying. It is described as grass friendly, and four reinforced aluminum grommets plus metal stakes hold it on grass, dirt or gravel, which makes it adaptable to a range of campsite surfaces.\n\nAgainst the MEANCHEN, it is lighter to handle, and the permeable weave keeps grass breathing underneath. Compared with the Witbthry it brings a simpler grommet-based anchoring plan, which makes setup quick when you only need the mat down for a night or two, and it folds smaller thanks to the lighter fabric.\n\nIt suits campers who move often and want a mat that is easy to unroll, stake down and pack up. If your trips are short, you stay on grass most of the time and you care about the lawn staying healthy, this breathable mat is a practical pick.",
     "specs": [
       "240GSM HDPE mesh",
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51HXxBwpsBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H13XL91W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H13XL91W?tag=rvgearlab-amz-20",
     "description": "The Witbthry 10 by 10 ft mat uses 240GSM virgin HDPE in a warp-knitted construction for durability and flexibility. It includes 9 galvanized carbon steel stakes with wide flat heads and plastic washers, so the stakes are ready to hold the edges and corners against a breeze.\n\nNext to the Vocray, it ships with a generous set of nine stakes, which helps in wind, and it costs $10 less. Compared with the MEANCHEN, it gives up some fabric weight, yet the warp-knitted mesh stays flexible and drains quickly, and the lower price makes it easy to replace after a season.\n\nIt suits campers who camp in breezy spots, in open fields, lake shores and desert sites, where a mat needs plenty of anchor points. If you want the lowest price in this guide along with a full set of stakes, this is the best value mat.",
     "specs": [
       "240GSM virgin HDPE",

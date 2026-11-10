@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31vt05B6PwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GXKR95T2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GXKR95T2?tag=rvgearlab-amz-20",
     "description": "The 1TG Tactical is a three-season mummy with tested ratings of 43F comfort and 34F limit under ISO 23537-1:2022, plus a 9F extreme figure. It measures 85 x 35 inches, fits adults up to 6 ft 1 in and weighs about 3.15 lb with a compression sack.\n\nIt is the only bag here that cites an ISO test, which makes it the best summer-night guide against the Wakeman and Nature Link labels. A zippered footbox opens to vent the feet, and the hood and draft collar cinch for cooler dawns.\n\nA great fit for summer and shoulder-season campers who want a number they can trust. It also suits short backpacking trips and cabins.",
     "specs": [
       "43F comfort, 34F limit ISO",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/416GGqol2fL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0721FG3WL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0721FG3WL?tag=rvgearlab-amz-20",
     "description": "Stansport fills the Glacier with 3.1 lb of Poly-Therm hollow synthetic insulation, which the listing says keeps its efficiency if wet. The shell is a waterproof diamond ripstop polyester and the bag measures 86 x 34 inches.\n\nAn insulated draft collar and taped zippers set it apart from the Wakeman 25F and Nature Link, and the ripstop is quieter than a smooth shell when you shift. It weighs more than the Nature Link.\n\nA good match for summer campers in humid or showery places. The synthetic fill handles damp better than cotton blends.",
     "specs": [
       "3.1 lb Poly-Therm synthetic fill",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4140srSsjFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CJSSQYDG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CJSSQYDG?tag=rvgearlab-amz-20",
     "description": "Wakeman rates this mummy to 25F in spring, summer and early fall, with a 210T water-resistant shell and polyester-fiber-cotton fill. The listing gives 2.98 lb, a rolled size of 17 x 8 inches and dimensions of 83 x 28 inches.\n\nIt carries the lowest printed rating of the four and costs less than the Stansport Glacier. The 28 inch width is narrow, so it hugs the body more than the Nature Link.\n\nA smart buy for summer campers who expect cold mornings at altitude. A drawstring hood cinches the face on chilly nights.",
     "specs": [
       "25F rated, 2.98 lb",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/319F9kyHxgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D12GY1RL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D12GY1RL?tag=rvgearlab-amz-20",
     "description": "Nature Link prints a comfort range of 42 to 55F for this mummy, with 300 g/m2 imitation silk cotton fill and a 20D ripstop nylon shell and lining. It weighs 2.87 lb, measures 86.6 x 29.5 inches and has an insulated foot box.\n\nLightest of the four and also the cheapest, it gives tall sleepers more length than the Wakeman 25F. The 20D nylon feels thinner than polyester shells and is machine washable.\n\nBest for summer backpackers who want a printed range and a light bag. It suits spring through early fall.",
     "specs": [
       "2.87 lb, 20D ripstop nylon",

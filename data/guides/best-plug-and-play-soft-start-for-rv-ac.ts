@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31CPN8eiFtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BL1N2BZD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BL1N2BZD?tag=rvgearlab-amz-20",
     "description": "The ActiveStart 30 Amp Plug and Play kit pairs with the ActiveStart app by Bluetooth for real-time power monitoring and carries a 2100-joule surge module. The ActiveStart 30 Amp Plug and Play kit has built-in Bluetooth that pairs with the ActiveStart app for real-time power monitoring.\n\nIt sits between the 20 amp and 50 amp models and adds the app the 20 amp does not list. It costs about 265 dollars less than the 50 amp.\n\nA 2100-joule surge module and watertight outdoor-ready connections suit campground and generator power. It suits owners of 30 amp travel trailers who want monitoring.",
     "specs": [
       "30 amp plug and play",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41kyDH7IcYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BL2HX9GV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BL2HX9GV?tag=rvgearlab-amz-20",
     "description": "The ActiveStart 20 Amp Plug and Play unit is a simple upgrade, and the listing says it can run up to 4 RV air conditioners on one generator. The ActiveStart 20 Amp Plug and Play unit is a simple upgrade, and the listing says it can run up to 4 RV air conditioners on one generator.\n\nIt costs about 120 dollars less than the 30 amp model and lists fewer features. Its quiet, gradual start is the same approach.\n\nIt ramps power gradually for a quiet, smooth start. It suits owners who want the lowest-priced true plug-and-play.",
     "specs": [
       "20 amp plug and play",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31+u7ZJem-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CCK6DRQD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CCK6DRQD?tag=rvgearlab-amz-20",
     "description": "The ActiveStart 50 Amp Plug and Play kit is a true plug-and-play design with no permanent modification and Bluetooth connectivity. The ActiveStart 50 Amp Plug and Play kit is a true plug-and-play design that needs no permanent modification.\n\nIt is the highest rated of the three ActiveStart models and suits larger rigs. It costs much more than the 30 amp.\n\nIt lowers the initial power surge on startup and cuts noise and vibration with a gradual ramp. It suits owners of 50 amp motorhomes or fifth wheels.",
     "specs": [
       "50 amp plug and play",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51-KdP1RcvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DF2SS14J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DF2SS14J?tag=rvgearlab-amz-20",
     "description": "Ready-to-install design is the Wodli kit's pitch, and it is listed to start a 15,000 BTU air conditioner from a 2200W generator. Starting current drops by 65 to 70 percent, so a small generator handles the surge.\n\nA single kit serves a 20-amp hookup, and two kits cover a 30-amp setup. The cost is a fraction of the ActiveStart units.\n\nOwners comfortable wiring a kit for a big saving get the best return. Compact size keeps the install tidy.",
     "specs": [
       "65 to 70% startup cut",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41J13kJxg5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FX9HRJP7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FX9HRJP7?tag=rvgearlab-amz-20",
     "description": "The PETCHOR kit has a flame-retardant ABS housing and oxidation-resistant cables, and a 2200W generator can power a 15,000 BTU AC with it. The PETCHOR kit has a flame-retardant, dust-resistant ABS housing, oxidation-resistant cables and a precision circuit board.\n\nIt undercuts the Wodli by about 35 dollars and runs one AC on a 20A connection. It lists fewer details.\n\nA standard 2200W portable generator can power a 15,000 BTU air conditioner, and one unit runs on a standard 20A household connection. It suits owners who want the cheapest working kit.",
     "specs": [
       "Flame-retardant ABS housing",

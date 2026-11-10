@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51xr+Ln-YiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D9KBQ3PG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D9KBQ3PG?tag=rvgearlab-amz-20",
     "description": "The DREO Space Heater with Remote uses a Hyperamics 1500W PTC system with an NTC chipset for precise temperature control and a tilt-detection sensor. The listing says it runs quietly on a brushless DC motor.\n\nAgainst DREO Atom One, it has a remote and tilt sensor and costs less. Against WINHL, it has fewer power steps but tighter control.\n\nBest for a main cabin heater where steady temperature and low noise matter. The 1500W draw needs attention on a 30-amp rig.",
     "specs": [
       "1500W PTC with remote",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Z4LdvtMwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B097RG67QB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B097RG67QB?tag=rvgearlab-amz-20",
     "description": "The DREO Atom One heater uses Hyperamics technology for up to 1500W, with a thermostat, ECO mode that adjusts heat automatically and 70 degree oscillation. The listing says it is ETL-listed with tip-over and overheat protection.\n\nAgainst DREO Remote 1500W, it adds oscillation and ECO but has no tilt sensor and no remote on this listing. Against WINHL, it automates the output rather than offering fixed steps.\n\nBest for a living area where heat should spread and adjust. ECO savings are a listing claim.",
     "specs": [
       "Up to 1500W, ECO mode",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41bM3qRD-lL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F8VH3TKQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F8VH3TKQ?tag=rvgearlab-amz-20",
     "description": "The WINHL heater offers three power levels of 700, 1000 and 1500W with PTC ceramic heating, a thermostat that detects room temperature, and tip-over and overheat auto shutoff. A fan spreads the heat across the room.\n\nAgainst DREO Remote 1500W, it gives three fixed steps for easy load planning. Against GiveBest, it has an extra mid step.\n\nBest for planning a shore-power budget with a mid step. Keep clearance from fabric.",
     "specs": [
       "700, 1000, 1500W levels",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51D-ToD0J4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07XRQ7GHJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07XRQ7GHJ?tag=rvgearlab-amz-20",
     "description": "The GiveBest heater has 1500W and 750W heat levels plus a cool-air fan mode, so it works in winter and summer. The listing says it is flame retardant, with automatic shutoff and noise below 45 dB.\n\nAgainst WINHL, it has two heat steps and a fan-only mode. Against Teioe Mini, it is a larger 1500W unit.\n\nBest for a year-round fan and heater in one box. The thermostat detail is thin.",
     "specs": [
       "1500W, 750W, fan mode",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51hVs79g6VL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08DNYLJRS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08DNYLJRS?tag=rvgearlab-amz-20",
     "description": "The Teioe Mini heater offers 800W high, 400W low and a natural wind mode, with flame-retardant materials and tip-over and overheat protection. It measures 8.3 by 5.5 by 3.1 inches and weighs 1.6 pounds.\n\nAgainst GiveBest 1500W, it uses about half the power at its top step and heats less area. Against YOUCIDI Mini, it lists clear wattage steps and protections.\n\nBest for a bunk or desk on a small supply. It will not warm a whole cabin.",
     "specs": [
       "800W, 400W, wind mode",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31h71+aAjuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07573FKSG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07573FKSG?tag=rvgearlab-amz-20",
     "description": "The YOUCIDI Mini is a PTC aluminum-element fan heater that powers off automatically if it gets too hot. It has a rotatable anti-slip support and a disconnect-type power supply, and the listing gives no wattage.\n\nAgainst Teioe Mini, it lacks wattage steps and a tip-over note. Against the 1500W units, it is a small personal warmer.\n\nBest only as a low-cost personal heater. Ask the seller for the wattage before relying on it.",
     "specs": [
       "PTC aluminum fan heater",

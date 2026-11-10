@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31lQHUUgWnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B06XPMNP76?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B06XPMNP76?tag=rvgearlab-amz-20",
     "description": "The Bluewave Ultra Slim stands just 2.75 inches high and is made for stomach and back sleepers. It uses a 3.25 lb high-density gel-infused foam with built-in ventilation channels.\n\nNext to the CAMPNREST air pillow, it gives a fixed, predictable low height that never needs adjusting. Against the 1 MIDDLE ONE foam pillow, it is flatter and aimed squarely at neck alignment on the stomach.\n\nIt suits stomach sleepers who car camp or hike short distances and want a real flat pillow. The zip-off cover goes in the washer and dryer after a dusty trip.",
     "specs": [
       "2.75 inch flat profile",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41aZsCSsqEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G5751CY8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G5751CY8?tag=rvgearlab-amz-20",
     "description": "The CAMPNREST pillow uses a thickened TPU bladder with a one-way valve that inflates in 3 to 5 breaths. A removable washable cover softens the surface and cuts the plastic crinkle.\n\nCompared with the Bluewave Ultra Slim, it trades fixed foam for loft you set yourself, and it weighs less than a phone. Against the Trekology Aluft 2.0, it adds a soft cover and an ergonomic shape sold for back, side and stomach sleepers.\n\nIt fits ultralight stomach sleepers who want to inflate only partway for a low, flat pillow. Pack size is smaller than a soda can.",
     "specs": [
       "TPU bladder, one-way valve",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/414+vMJ8O2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07MQJPVWD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07MQJPVWD?tag=rvgearlab-amz-20",
     "description": "The Trekology Aluft 2.0 folds to 5 by 2 inches, which is smaller than a soda can. It has elastic TPU fabric and rubber anti-slip dots on the back, with a latch that holds it to a sleeping pad.\n\nWhere the CAMPNREST adds a soft cover, the Aluft 2.0 stays leaner and uses a click valve filled in about 5 to 8 breaths. Versus the Hikenture, it is the more compact design, with rubber dots instead of a strap.\n\nIt works for stomach sleepers who sleep on a pad that tends to slide. Partial inflation gives a low profile.",
     "specs": [
       "Folds to 5 x 2 inches",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51YIkqa30eL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DZHLNM69?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DZHLNM69?tag=rvgearlab-amz-20",
     "description": "The 1 MIDDLE ONE pillow is filled with shredded memory foam mixed with polyester fiber and measures 15.5 by 12 inches. It comes with a travel bag and a breathable microfiber cover.\n\nAgainst the Bluewave Ultra Slim, it is smaller and compresses into a pack. Compared with the air pillows, it needs no inflating and stays quiet.\n\nIt fits stomach sleepers who like a soft, squishy pillow and can press out some loft by hand. The cover washes in cold water.",
     "specs": [
       "15.5 x 12 inch shredded foam",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41qXNYRM8qL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DNHJV4YS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DNHJV4YS?tag=rvgearlab-amz-20",
     "description": "The Hikenture inflatable pillow has a reinforced, thickened TPU inner bladder and a curved ergonomic shape. A one-click valve handles inflation, and it weighs no more than a cola can.\n\nNext to the Aluft 2.0, it adds a removable cover and a detachable elastic strap for pads. Compared with the CAMPNREST, it costs less.\n\nIt is the right choice for budget-minded stomach sleepers who can control loft with each breath. The strap keeps it from drifting overnight.",
     "specs": [
       "Reinforced TPU bladder",

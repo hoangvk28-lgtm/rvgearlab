@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31TeCn8bD-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FHPYLV2B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FHPYLV2B?tag=rvgearlab-amz-20",
     "description": "The M.Y.Z. Wanderer has a 13,200mAh battery and 4500 lumens, with stepless dimming, 3 colour temperatures and an SOS mode. A strong magnet and hanging hook let it mount on canopy poles or hang upside down.\n\nIt carries the biggest battery here, almost three times the Blukar, and lists 8 hours of continuous light on high. The Amkulop states a higher lumen figure with no battery size.\n\nIt suits campers who run a canopy over a camp kitchen or table. Sturdy ABS handles light rain and bumps.",
     "specs": [
       "13,200mAh, 4500 lumens",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Qk+lI4PFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DXV3JN86?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DXV3JN86?tag=rvgearlab-amz-20",
     "description": "The Amkulop lists 5000 lumens with infinite dimming and three colour temperatures of 3300K, 4600K and 7500K. A magnetic hook and IPX5 protection let it hang or cling outdoors.\n\nIt states the highest lumens in the group, ahead of the M.Y.Z. at 4500. A transparent shell shows off the LEDs.\n\nIt suits campers who need maximum light for a large site. A transparent shell shows off the LEDs.",
     "specs": [
       "5000 lumens, IPX5",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31RwcpGDvBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CBV87CYX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CBV87CYX?tag=rvgearlab-amz-20",
     "description": "The Blukar uses 116 LED beads, a 4800mAh battery and seven modes including high and low side light and red SOS. It lists 10 to 48 hours of illumination, and its four side lights unfold with 90 degree adjustment.\n\nIt lists a longer stated runtime than the Jarxin, and its side panels let it fold into a focused lantern. The M.Y.Z. carries a bigger battery.\n\nIt suits campers who want side and bottom light at a modest price. The sealed battery is not replaceable.",
     "specs": [
       "4800mAh, 10 to 48 hours",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41o366VQekL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GR3NKRPH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GR3NKRPH?tag=rvgearlab-amz-20",
     "description": "The PopoIron pair has a 4000mAh battery in each lantern, 300 lumens, a 360 degree rotating stand and a built-in elastic clip. Stepless dimming runs across 3 colour modes, with a side LED for handheld flashlight use.\n\nIt is a pair, so one lantern goes in the tent and one on the table, unlike the single M.Y.Z. or Amkulop. The Lepro pair is lighter, while this pair lists a 4000mAh battery per lantern.\n\nIt suits couples who read in the tent. The 2-in-1 design folds flat for storage.",
     "specs": [
       "Two lanterns, 4000mAh each",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31webKIf8BL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C7V96TB4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C7V96TB4?tag=rvgearlab-amz-20",
     "description": "The Lepro pair gives seven modes: three white and four RGB. A built-in battery lists 10 hours on white and 20 hours on RGB after 2.5 to 3 hours of charging, and each weighs 75g.\n\nIt is the lightest pair in the group and charges faster than the Jarxin. Its small body gives less light than the PopoIron.\n\nIt suits families who want kid-friendly colour lights. A hook top hangs it from a tent loop.",
     "specs": [
       "75g, 7 modes",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41aOByX6JPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CKDJ257D?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CKDJ257D?tag=rvgearlab-amz-20",
     "description": "The Jarxin set has four small lights and two USB cables, so two lights charge at once. A full charge takes 3 to 5 hours, high light runs 3.5 to 4 hours, low light 10 to 12 hours, and the lights are designed for 300 to 500 charges.\n\nIt gives the most lights in one purchase. The runtime on high is the shortest in the group.\n\nIt suits large groups who want a light per tent. Each unit measures about 4 inches high.",
     "specs": [
       "Four lights, two USB cables",

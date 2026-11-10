@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41JmzLs-hzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D6416YYW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D6416YYW?tag=rvgearlab-amz-20",
     "description": "The Coleman Brazos is rated for 30 degrees F and suits campers to 5 ft 11 in. It has a Thermolock draft tube along the zipper, Fiberlock construction to keep insulation in place and a no-snag zipper.\n\nIt carries a colder rating than the other singles here and is the only one from a well-known camping brand. It is smaller in fit than the FARLAND.\n\nIt suits average-height campers on cool nights. Tall campers should look elsewhere.",
     "specs": [
       "Rated to 30F",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41EgTwc8-eL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FJS2CVCK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FJS2CVCK?tag=rvgearlab-amz-20",
     "description": "The FARLAND is an 86.6 by 32.68 inch bag with a 290T nylon shell, a microplush fleece lining and 400 g of fill. The shell is described as waterproof and windproof, and it fits sleepers up to 6 ft.\n\nIt is the plushest bag in the group and costs a little more than the Coleman Brazos. It prints no temperature rating.\n\nIt suits campers who want a soft, cozy bag for chilly camps. Fleece linings feel warm quickly.",
     "specs": [
       "86.6 x 32.68 inch size",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31tASX7-CHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GRV6WZDT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GRV6WZDT?tag=rvgearlab-amz-20",
     "description": "The BORULL is a 92 by 63 inch double bag with a stated comfort of 40 to 65 degrees F and a limit of 30 degrees F, fitting adults up to 7 ft. It includes two pillows, an adjustable hood and anti-snag zippers, and it unzips flat or splits into two singles.\n\nIt costs less than the FARLAND single while covering two sleepers and prints both a comfort and a limit figure. The oaskys is smaller and cheaper.\n\nIt suits couples and tall campers who want one roomy bag. The 40F comfort floor means cool spring to mild summer.",
     "specs": [
       "92 x 63 inch double",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41xnUFD9y4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BZRQZFTN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BZRQZFTN?tag=rvgearlab-amz-20",
     "description": "The oaskys is a queen XL double measuring about 220 by 145 cm, sold with two pillows. The listing gives a design range of 10 to 20 degrees C, a 210T anti-tearing polyester shell, a 190T pongee lining and a compression sack.\n\nIt is cheaper than the BORULL and prints a temperature range in Celsius. It splits into two singles when unzipped.\n\nIt suits couples on a tight budget on mild nights. A wipe-clean shell eases cleanup.",
     "specs": [
       "220 x 145 cm double",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ZcOYqq3fL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GSVJ3Z8Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GSVJ3Z8Y?tag=rvgearlab-amz-20",
     "description": "The YANLIFY lists a comfort temperature of 50 to 68 degrees F, a 190T polyester shell, a two-way zipper and a compression sack. It is sold as a 3-season waterproof bag.\n\nIt is the cheapest in the list by a wide margin and prints a clear range. The shell is thinner than the Coleman Brazos.\n\nIt suits casual campers on warm nights. Do not rely on it for cold.",
     "specs": [
       "Comfort 50 to 68F",

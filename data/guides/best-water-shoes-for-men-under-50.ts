@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41VzLCwhp-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CRVG5L27?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CRVG5L27?tag=rvgearlab-amz-20",
     "description": "The ALEADER Xdrain is a no-tie water sneaker with an Xdrain drainage system, 3D dual cushioning, heel padding and a lightweight high-rebound EVA midsole. The listing pitches it for water aerobics, kayaking and city walking.\n\nIt is the only sneaker-style shoe in the group, so it gives far more underfoot support than the ziitop Lock-Lace or the sock-style SEEKWAY Basic Socks. The no-tie laces keep the fit tidy where the Racqua Pull-Tab uses straps.\n\nIt suits a man who wants one shoe for the dock, a trail by the lake and a walk through town. It looks like a regular sneaker, which helps when you stay in them all day.",
     "specs": [
       "Xdrain drainage, no-tie laces",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51QLnS7sw-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09NBT8FY6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09NBT8FY6?tag=rvgearlab-amz-20",
     "description": "The SEEKWAY Arch Support is a slip-on aqua shoe with a breathable water-permeable upper, drain holes in the sole, a soft insole and arched support in the middle of the sole. A soft shoe mouth and tongue remove the need for laces.\n\nThe listed arch support is rare in this price band, and gives more shape than the flat SEEKWAY Basic Socks or ATHMILE Hiking Socks. It is lighter and cheaper than the ALEADER Xdrain Sneaker.\n\nIt is a good match for a man who wants an easy slip-on with some support for walks along the shore. The cushioning helps on hard boat decks.",
     "specs": [
       "Arched midsole support",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41N04v9GHsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08P4LPC4F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08P4LPC4F?tag=rvgearlab-amz-20",
     "description": "The ziitop Lock-Lace is a mesh sock-style shoe whose anti-slip rubber outsole sits under a lace that cinches and locks. A stretch neckline helps with getting the shoe on and off.\n\nThe lock-lace gives a tunable fit that the SEEKWAY Basic Socks and ATHMILE Hiking Socks cannot match. It costs less than the ALEADER Xdrain Sneaker and packs flat.\n\nIt is aimed at a man who wants a barefoot-style shoe for swimming holes and paddling that stays put in current. The mesh upper dries quickly on the walk back.",
     "specs": [
       "Locking elastic lace",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41icqd0J5dL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BW83SLKF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BW83SLKF?tag=rvgearlab-amz-20",
     "description": "The Racqua Pull-Tab is a stretch-mesh water shoe with elasticated straps, a heel pull tab and an abrasion-resistant rubber outsole with a lumpy texture. The mesh design is made for fast drainage.\n\nThe elasticated straps tighten faster than the lock-lace on the ziitop Lock-Lace, and the heel tab makes it easier than the SEEKWAY Basic Socks to get on. It costs about the same as the ATHMILE Hiking Socks.\n\nIt suits a man who goes in and out of water often and wants a fast fit that adjusts on the move. The listing names an exchange and refund service.",
     "specs": [
       "Elasticated straps, heel tab",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51idCWzisTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CY2PFV2V?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CY2PFV2V?tag=rvgearlab-amz-20",
     "description": "Heavy rubber under the foot, a toe cap and a breathable elastic upper define the ATHMILE Hiking Socks. The stitching between upper and sole is described as built to hold up, and the shoes are light and easy to carry.\n\nThe toe cap gives more front cover than the SEEKWAY Basic Socks and ziitop Lock-Lace. It costs less than the SEEKWAY Arch Support and ALEADER Xdrain Sneaker.\n\nIt is a reasonable fit for a man who wades rocky streams and wants thick sole protection in a packable shoe. It folds small for a daypack.",
     "specs": [
       "Thick rubber sole, toe cap",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Ab3tItzRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0834NKYMH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0834NKYMH?tag=rvgearlab-amz-20",
     "description": "The SEEKWAY Basic Socks are a slip-on aqua sock with a rubber outsole made for rocks, gravel and shells, and a soft elastic spandex upper that dries quickly. A smooth elastic neck prevents rubbing.\n\nIt sits at the bottom of the price range and is the lightest, with fewer extras than the ATHMILE Hiking Socks. It pairs well with a more structured shoe like the ALEADER Xdrain Sneaker as a spare.\n\nIt suits a man who wants a spare pair for beach, pool or boat days, or a very low-cost way to try a barefoot-style shoe. It rolls up small for any bag.",
     "specs": [
       "Rubber outsole, spandex upper",

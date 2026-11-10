@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41nUI-JxlJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F1TMQX1G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F1TMQX1G?tag=rvgearlab-amz-20",
     "description": "Rvpozwer is a 12V 200Ah LiFePO4 battery rated for -20C to 65C. It has a 200A smart BMS, a 2560Wh capacity and expands to 800Ah in parallel.\n\nAt about $306 it costs less than the Renogy and Go Power AGMs and stores the same 200Ah. It handles a 2000W inverter.\n\nIt suits a cold-climate van or RV. The lifetime technical support helps.",
     "specs": [
       "12V 200Ah, 2560Wh",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41IuZxo+q+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H8RCWCJX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H8RCWCJX?tag=rvgearlab-amz-20",
     "description": "GSIKE is the biggest battery here: 300Ah at 12.8V, 4019Wh, with 6000 cycles claimed at 80 percent discharge. A 100A smart BMS protects it and a 4P4S layout allows expansion.\n\nAt about $300 it costs less than any AGM here and stores 50 percent more than the Rvpozwer. The BMS limits it to about 1280W.\n\nIt suits boondockers with moderate loads. It is the largest battery in the guide.",
     "specs": [
       "12.8V 300Ah, 4019Wh",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31hWBJ9YLXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B075RGX1WR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B075RGX1WR?tag=rvgearlab-amz-20",
     "description": "Renogy is a 12V 200Ah deep cycle AGM with under 3 percent monthly self-discharge. It keeps working below 32F and is sealed.\n\nAt about $396 it costs $90 more than the Rvpozwer and weighs far more. It uses standard AGM charging.\n\nIt suits those who stay with lead-acid. It holds charge well in storage.",
     "specs": [
       "12V 200Ah AGM",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41IX5Xm14mL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HCG1VTY9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HCG1VTY9?tag=rvgearlab-amz-20",
     "description": "Go Power GP-AGM-225-6V is a 6V AGM rated 225Ah at C20 with carry handles. It is sealed and made for RV, solar and inverter banks.\n\nAt about $396 it matches the Renogy and stores more per battery. Two in series make a 12V 225Ah bank.\n\nIt suits a traditional RV build. Each battery is easier to lift.",
     "specs": [
       "6V 225Ah AGM at C20",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51EBSuUovsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FFN4PKLG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FFN4PKLG?tag=rvgearlab-amz-20",
     "description": "This Group 25 AGM is a 12V 64Ah battery rated 750 CCA for both starting and deep cycle use. It is sold by vehicle fitment.\n\nAt about $519 it is the priciest per amp-hour here, and it stores a third of the Rvpozwer. It is the only pick built for a vehicle start.\n\nIt suits a vehicle needing a strong start and light cycling. Do not buy it as a house battery.",
     "specs": [
       "12V 64Ah AGM",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ErUzfS4yL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FDQRKM25?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FDQRKM25?tag=rvgearlab-amz-20",
     "description": "UPLUS is a Group 24M dual-purpose AGM rated 12V 79Ah with 550 CCA and 150 RC. It starts engines up to 350 horsepower.\n\nAt about $190 it carries the lowest price tag here. It stores less than a third of the GSIKE.\n\nIt suits a small boat. It resists vibration.",
     "specs": [
       "12V 79Ah AGM, 550 CCA",

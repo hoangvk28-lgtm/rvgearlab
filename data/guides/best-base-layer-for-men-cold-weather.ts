@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/318phPdeDkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F6VWZ5ZX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F6VWZ5ZX?tag=rvgearlab-amz-20",
     "description": "The Carhartt Force Midweight is a crewneck base layer with Force technology to wick sweat and FastDry moisture management. A brushed interior adds softness, flatlock seams reduce chafing and concealed thumb loops hold sleeves in place.\n\nAgainst the MEETYOO 3 Sets, it is a single, work-grade top rather than a bundle. Compared with the CL convallaria sets, it adds thumb loops and odor-resistant properties.\n\nIt suits men who want a durable layer for work and outdoor days. The locker loop is a practical extra for hanging between wears.",
     "specs": [
       "Force FastDry wicking",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Q4AICo0LL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D9NSMS4B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D9NSMS4B?tag=rvgearlab-amz-20",
     "description": "The MEETYOO 3 Sets bundle gives you three fleece-lined thermal tops and bottoms in 90 percent polyester and 10 percent spandex. The listing describes four-way stretch, moisture-wicking fabric and odor control.\n\nCompared with the Carhartt, it supplies full sets, three in all. Against the CL convallaria Hunting Set, it triples the quantity at a higher total cost.\n\nIt suits men who rotate layers across a week of cold days. Each set has an elastic waistband.",
     "specs": [
       "3 sets, 90% polyester",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31SZgtqdWAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08DR18YXM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08DR18YXM?tag=rvgearlab-amz-20",
     "description": "The CL convallaria Hunting Set is a fleece-lined top and bottom in 90 percent polyester and 10 percent spandex. The listing describes strong moisture wicking, four-way stretch and a tagless design with an elastic band.\n\nAgainst the MEETYOO 3 Sets, it is a single set at a fraction of the cost. Compared with the Runhit, it adds a crew or turtleneck option.\n\nIt suits men who want one reliable set for hunting, skiing or camping. The fabric is described as pill and shrink resistant.",
     "specs": [
       "90% polyester, 10% spandex",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31aODuapvhL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08DR9MC5T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08DR9MC5T?tag=rvgearlab-amz-20",
     "description": "The CL convallaria A-Black is a fleece-lined thermal set that lists moisture-wicking technology, odor-free claims and flatlock seams. It also has a tagless design and a fly opening in the pants.\n\nAgainst the CL convallaria Hunting Set, it costs less and focuses on flatlock seams. Compared with the Runhit, it has similar features with a more traditional cut.\n\nIt suits men who want the basics for cold days at a low price. The listing says it dries quickly.",
     "specs": [
       "Fleece-lined thermal set",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/414Y3DerdCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09BZFQWFQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09BZFQWFQ?tag=rvgearlab-amz-20",
     "description": "The Runhit Thermal Set is a long-sleeve top and pants with a microfiber fleece lining and a quick-dry, moisture-wicking blend. The listing describes four-way stretch, flatlock stitching and a compression fit.\n\nCompared with the CL convallaria sets, it adds a compression fit and states it can double as pajamas. Against the Carhartt, it includes both top and pants.\n\nIt suits men who like a close fit that sits slim under layers. The set thins enough to fit under a shirt.",
     "specs": [
       "Microfiber fleece lining",

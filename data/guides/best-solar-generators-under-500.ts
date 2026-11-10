@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41D55awBh3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GVJKMV8J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GVJKMV8J?tag=rvgearlab-amz-20",
     "description": "STARYLINE pairs a 1024Wh LiFePO4 battery with 1000W of continuous AC output across two 110V outlets. It has a 60W USB-C PD jack, a pair of USB-A outputs, a 27.73 lb body and a 6-layer BMS, and the cells are rated for 3000 or more cycles.\n\nIt carries the most energy of the five and uses long-life cells that the bargain GRECELL-class units skip, for about $330. Against the Jackery Explorer 500 v2 it holds twice the watt-hours and costs $70 less, and it weighs twice as much.\n\nBuy it for a fridge, CPAP and laptop run over a long weekend, or for home outage backup. It takes up to 300W of solar input, so a 200W panel is an easy add-on.",
     "specs": [
       "1024Wh LiFePO4, 3000+ cycles",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31pF6rBmLYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FR555DVH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FR555DVH?tag=rvgearlab-amz-20",
     "description": "Jackery Explorer 500 v2 stores 512Wh in a LiFePO4 pack rated for 6000 cycles, with 500W AC output and a 1000W surge. It weighs 14 lb, charges from 0 to 80 percent in 52 minutes from the wall and has a 10ms UPS mode.\n\nThe cycle rating is double that of the STARYLINE, and the 14 lb weight is half. In return it holds half the energy and costs about $70 more, so the premium is for engineering, not capacity.\n\nChoose it if you camp often, carry the unit to the site and want the best battery life in the guide. It also works as a desk-side UPS at home.",
     "specs": [
       "512Wh LiFePO4, 6000 cycles",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41EyE7Se8JL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GYP8PS1L?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GYP8PS1L?tag=rvgearlab-amz-20",
     "description": "This bundle combines a 519.48Wh station with a 100W monocrystalline panel rated at 18V and the adapters to connect it. The station gives 500W of pure sine wave AC with a 1000W peak, ten ports and a 60W USB-C output.\n\nNo other pick here ships with a panel as large as 100W, which saves a purchase of $70 to $100. The Jackery Solar Gen 300 kit includes a smaller 40W panel, and the STARYLINE and EBL leave the panel out.\n\nIt suits campers who want to arrive, unfold the panel and run for a weekend with no extra shopping. A 100W panel adds about 300 to 400Wh on a sunny day.",
     "specs": [
       "519.48Wh, 500W AC, 1000W peak",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41qTAzcOjJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GLMFTY1B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GLMFTY1B?tag=rvgearlab-amz-20",
     "description": "EBL holds 999Wh and puts out 1000W continuous from a single 120V AC outlet, with two 12V DC ports, a 10A car socket, a 60W PD USB-C, quick-charge USB-A ports and a 10W Qi pad. It accepts solar input from 12 to 26V at up to 8A.\n\nAt about $320 it matches the STARYLINE on capacity for $10 less, and it shares its slow 7 to 8 hour wall charge with the other 1 kWh units. It has one AC outlet instead of two.\n\nPick it if you want the lowest price on a full kilowatt-hour and plan mostly DC and USB loads. Its LCD turns off after 20 seconds to save power.",
     "specs": [
       "999Wh, 1000W AC outlet",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41S0DhkhCvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G429L5B4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G429L5B4?tag=rvgearlab-amz-20",
     "description": "Jackery's Solar Generator 300 kit includes a 292Wh LiFePO4 station and a 40W panel. It outputs 300W (600W surge) pure sine wave AC, has a 100W USB-C PD port and weighs 7.5 lb, with cells rated for 4000 or more cycles.\n\nSmallest and lightest of the five, it also carries the best-known service network. The GRECELL bundle has a 100W panel and double the capacity, so this one is a choice for weight and warranty.\n\nBackpackers with a car, small-van travelers and anyone who values the Jackery name and long cell life will like it. It runs phones, laptops, lights and a CPAP.",
     "specs": [
       "292Wh LiFePO4, 4000+ cycles",

@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51ETQwbzSYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GCZV62LH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GCZV62LH?tag=rvgearlab-amz-20",
     "description": "The RVSNAIL 75ft has a self-regulating external thermostat, -45°F protection and a 3/4 GHT thread with double washers. RVSNAIL's 75ft hose has a self-regulating external thermostat, -45°F protection and a 3/4 GHT thread with double washers.\n\nPriced about 20 dollars above the YOLENY and roughly 60 below the Bipeoo, it sits in the middle of the 75 foot field. Food-grade, lead and BPA free materials suit drinking water.\n\nIt uses food-grade, lead and BPA free materials. It suits owners who want a straightforward, rated 75 ft hose.",
     "specs": [
       "75 ft, -45°F protection",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51KVhlWZKlL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FQC3X7H9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FQC3X7H9?tag=rvgearlab-amz-20",
     "description": "The YOLENY 75FT is rated to -45°F, with built-in temperature sensors and an energy saving thermostat. YOLENY's 75FT hose is rated to -45°F, with built-in temperature sensors that switch it on in freezing weather.\n\nIt is the least expensive option here, about 20 dollars under the RVSNAIL. It uses BPA-free drinking water materials.\n\nThe inner hose is food-grade, BPA-free, with an energy saving thermostat and sealed hose ends. It suits buyers who want a long hose on a budget.",
     "specs": [
       "75 ft, -45°F protection",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51B9xVSoInL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F6BFCWVS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F6BFCWVS?tag=rvgearlab-amz-20",
     "description": "The FYSFLYA 75FT uses a potable-water hose free of lead, phthalates and bisphenol, with a 3D five-layer structure. FYSFLYA's 75FT hose is made from potable-water hose free of lead, phthalates and bisphenol, with a 3D five-layer structure.\n\nIt costs about 11 dollars more than the RVSNAIL for reinforced heating ends. It undercuts WABUPD and Wufoty.\n\nThe ends of the heating section are reinforced and the heating design is described as a new generation. It suits owners who value a reinforced build.",
     "specs": [
       "75 ft, potable water hose",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51SSYLUn2tL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F1TBVF58?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F1TBVF58?tag=rvgearlab-amz-20",
     "description": "Thickened heating wires and a five-layer shell give the 75FT WABUPD -45°F protection across a very long run. WABUPD lists this 75FT hose at -45°F with thickened heating wires and a five-layer shell.\n\nIt costs about 40 dollars more than the FYSFLYA. It undercuts Wufoty and Bipeoo.\n\nIt sits mid-pack in price among the 75 ft options. It suits colder sites that need a strong heating wire.",
     "specs": [
       "75 ft, -45°F protection",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51rTWaYs6fL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F3343H3R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F3343H3R?tag=rvgearlab-amz-20",
     "description": "The Wufoty 75FT claims -47°F protection and runs on 120VAC. Wufoty's 75FT hose runs on 120VAC and claims -47°F protection, with female threads on both ends.\n\nIt posts the boldest rating of the six. A thick wear-resistant PVC jacket adds durability.\n\nA thick, wear-resistant PVC jacket protects it and the inner hose is drinking water safe. It suits buyers in the coldest regions.",
     "specs": [
       "75 ft, -47°F claim",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51xf+1s5WeL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F9WMN3J8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F9WMN3J8?tag=rvgearlab-amz-20",
     "description": "The Bipeoo 75FT has intelligent temperature adjustment and a food-grade hose rated to -45°F. Bipeoo titles this 75FT hose with -45°F protection and an intelligent temperature adjustment function.\n\nIt sits at the top of the price range, above the Wufoty. It also suits livestock use.\n\nThe inner hose is food-grade and free of lead and BPA, with a durable outer jacket. It suits buyers who want smart control above price.",
     "specs": [
       "75 ft, -45°F protection",

@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51RzJ9E7DqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B099KR841H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B099KR841H?tag=rvgearlab-amz-20",
     "description": "The Westinghouse 2800 lists 2,800 peak and 2,200 running watts, up to 12 hours at 25 percent load, noise as low as 52 dBA, and under 3 percent THD with copper windings. Its outlets are an RV-ready TT-30R 30A, a 5-20R duplex and two 5V USB ports, with an LED data center showing fuel level, power, runtime and voltage. It has CO sensing, an Eco Mode, parallel capability, and a 3-year warranty.\n\nIt ranks first because it is the only unit here that combines 2,200 running watts, a TT-30R outlet and a published 52 dBA figure, at $499. That is $149.01 above the GENMAX 2200 and $823.18 below the Yamaha EF2200iS, which lists the same wattage class. The listing says a 30A air conditioner needs a parallel pairing with a compatible Westinghouse, so one unit alone is not an air conditioner generator.\n\nBuy it if you want the most complete, best-documented 2,000 watt unit with a 30A outlet. Skip it if you want the lowest price, since three units here cost $329 to $398.",
     "specs": [
       "2,200W running, 2,800W peak",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Pz7SQZoOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B099JZXBPW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B099JZXBPW?tag=rvgearlab-amz-20",
     "description": "The GENMAX GM2200i lists 2,200 starting and 1,800 running watts from a 79.7 cc engine at under 3 percent THD, weighs 41.8 pounds and claims noise as low as 58 dBA. A 1 gallon tank is claimed at up to 6 hours at 50 percent load. Its panel includes two 120V 20A outlets and one 120V 30A outlet, low oil and overload alarms, a CO detect shutdown and parallel readiness, with a 3-year warranty and lifetime technical support.\n\nIt ranks second because at $349.99 it adds a 30A outlet for $149.01 less than the Westinghouse 2800, though with 400 fewer running watts and a noise figure of 58 against 52 dBA. Against the ERAYAK 2400 it costs $20.99 more but lists a named 30A outlet and a stated runtime at 50 percent load. Against the Pulsar PG2300iS it adds the 30A outlet for $48.01 less.\n\nBuy it if you want a 30A outlet at the lowest price among the documented units. Skip it if you will run it overnight, since the 6 hour claim means a mid-night refill.",
     "specs": [
       "1,800W running, 2,200W start",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41WjdxAxD8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09PDR11L4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09PDR11L4?tag=rvgearlab-amz-20",
     "description": "The ERAYAK 2400 lists 2,400 peak and 1,800 running watts with total harmonic distortion of 0.2 to 1.2 percent, 52.5 dB at 7 meters and 25 percent load, and a weight of 42 pounds at 18.82 by 11.73 by 18.11 inches. It claims 16 hours at 25 percent load in eco mode, with consumption of 0.2375 gallons per hour at full load and 0.21 at 25 percent. It has two AC outlets, two USB ports, a DC output and a 3-year limited warranty, and it is compatible with a wheel kit and handle.\n\nIt ranks third because it has the best clean power and runtime numbers in the group, at $329, which is $20.99 less than the GENMAX 2200 and $170 less than the Westinghouse 2800. In return the listing does not name a 30A outlet, so it will not feed a camper cord directly. Its THD figure is the most useful for CPAP machines and other sensitive devices, which the listing names.\n\nBuy it if sensitive electronics and long runtime matter more than a 30A plug. Skip it for a camper that needs a TT-30R.",
     "specs": [
       "1,800W running, 2,400W peak",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31P-b8-BliL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07PDN9VKD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07PDN9VKD?tag=rvgearlab-amz-20",
     "description": "The Pulsar PG2300iS lists 2,300 peak and 1,800 running watts with two 120V 13A outlets, a 12V 8A cigarette outlet and a 5V USB port. It has a sine wave output, recoil start, low oil shut-off and AVR, and it is CARB compliant with parallel capability. The listing positions it for tailgating, camping and small 120V appliances.\n\nIt ranks fourth because at $398 it costs $69.00 more than the ERAYAK 2400 and $48.01 more than the GENMAX 2200, but has no 30A outlet, no electric start and no published noise, runtime or weight. Its plus is CARB compliance, which matters in California, and the lowest outlet count. It is a plain, small-load unit.\n\nBuy it if you live in a CARB state and need a basic 120V unit. Skip it if you want a 30A outlet or published runtime, which the other units here give you.",
     "specs": [
       "1,800W running, 2,300W peak",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41yjv-sIONL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B085828BQ6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B085828BQ6?tag=rvgearlab-amz-20",
     "description": "The WEN 56235i lists 2,350 surge and 1,900 rated watts, weighs 39 pounds, and is described as comparable to normal conversation by a US Department of Health and Human Services comparison. It has a fuel shut-off that uses the remaining fuel in the carburetor before shutdown, two three-prong 120V receptacles, a 12V DC outlet, two 5V USB ports and a two-year warranty.\n\nIt ranks fifth because at $443.40 it costs $93.41 more than the GENMAX 2200 and $45.40 more than the Pulsar, with a 30A outlet absent and a warranty a year shorter than the GENMAX. Its edge is the lowest weight in the group at 39 lb and the fuel shut-off, which makes storage easier.\n\nBuy it if weight and low-maintenance storage matter and you only need 120V outlets. Skip it if you need a 30A outlet or a three-year warranty.",
     "specs": [
       "1,900W rated, 2,350W surge",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411xfCVFWIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07MY4G5QJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07MY4G5QJ?tag=rvgearlab-amz-20",
     "description": "The Yamaha EF2200iS lists a 79 cc Yamaha engine, a muffler for quiet operation, a standard RV outlet, a DC outlet, an illuminated multi-function LED display and a smart dial knob with smart throttle that senses load. It is titled at 2,200 watts, but the feature text gives no running or starting watts, runtime, weight or noise figure.\n\nIt ranks last because it costs $1,322.18, which is $823.18 above the Westinghouse 2800 and $972.19 above the GENMAX 2200, for a similar wattage class, with fewer published numbers. What the price buys is the Yamaha name and the engine it describes, which the other listings do not match, and an RV outlet.\n\nBuy it if brand preference and the dealer network outweigh price. Skip it if you compare on listed specifications, since the other units here publish more.",
     "specs": [
       "2,200 watts titled, 79 cc",

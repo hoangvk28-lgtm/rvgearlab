@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41uVDH0xVRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07X4B88RF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07X4B88RF?tag=rvgearlab-amz-20",
     "description": "The Camco Flow Stainless-Steel Regulator reduces water pressure to a stated 50 to 60 psi while maintaining high water flow. It attaches to 3/4 inch garden hose threads and its stainless-steel construction is described as drinking water safe.\n\nIt is the straightforward hose-end option for 60 psi, and it is fixed. Compared with the AOLINK, it skips the gauge and adjustability.\n\nBest for owners who want a durable fixed regulator from a known brand. It also suits long-term hookups.",
     "specs": [
       "50 to 60 psi output",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41p2Yz8bT+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F3236B8K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F3236B8K?tag=rvgearlab-amz-20",
     "description": "The AOLINK RV Water Pressure Regulator Valve is lead-free brass with a gauge that reads from 0 to 160 PSI. The listing says it allows manual adjustment to protect RV plumbing and fits standard 3/4 inch garden hose threads.\n\nIt is the only pick that lets you read and set pressure, so you can dial in 60 psi on the gauge. It costs about the same as the Camco.\n\nIdeal for anyone who prefers to tune pressure and read it live. It also suits mixed campground conditions.",
     "specs": [
       "Gauge from 0 to 160 PSI",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31pMFz9-ujL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DYJQY5QN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DYJQY5QN?tag=rvgearlab-amz-20",
     "description": "The Cash Acme EB45 Pressure Regulating Valve is a 60 psi double union valve with 1/2 inch NPT female connections and a poly top. The listing describes a half cartridge design, a tamper-resistant design and tool-free installation with brass, stainless steel and polymer parts.\n\nIt is the only in-line plumbing regulator here, suited to a permanent install rather than a hose. It costs about $70.\n\nBest for permanent plumbing installs on the RV fresh water line. It also suits fixed pressure setups.",
     "specs": [
       "60 PSI fixed",

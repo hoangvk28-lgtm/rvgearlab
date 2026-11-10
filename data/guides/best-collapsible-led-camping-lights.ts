@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ZN2nw+TNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CHJ637HV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CHJ637HV?tag=rvgearlab-amz-20",
     "description": "The DIBMS lists 300 lumens from six LED chips with a built-in 1600mAh battery and an 8.02 ounce weight. A pull-up design sets brightness by how far you extend it, and it charges by USB in 4 hours or by solar in 9.\n\nIt names both a weight and a lumen figure, which the XTAUTO does not. It also offers a longer stated run time of 6 to 11 hours than the HOUSEASSIST.\n\nIt suits campers who want one collapsible light that does everything. The folding hook and IPX4 body suit tent and trail use.",
     "specs": [
       "300 lumens, 8.02 oz",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41rc3BHlyWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DW48CVCY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DW48CVCY?tag=rvgearlab-amz-20",
     "description": "The Lichamp expands from a flashlight body into a 360 degree lantern rated at 300 lumens. It charges by solar or USB, has overcharge protection and offers a USB output port to charge Android devices.\n\nIt is the only collapsible pick here that names a phone output port besides the HOUSEASSIST. Compared with the DIBMS, the military-grade ABS body and flashlight handle suit rougher handling.\n\nIt suits emergency kits and hikers who want a phone top-up and light in one body. The folding handle doubles as a flashlight grip.",
     "specs": [
       "300 lumens, 360 degree lantern",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41U5j1DLWpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09WN3TNSV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09WN3TNSV?tag=rvgearlab-amz-20",
     "description": "The XTAUTO is a two-pack of collapsible lanterns using 6+1 LED chips and a 1600mAh battery in each. It charges by solar or USB, states more than 25 hours of light and shuts off automatically.\n\nIt supplies two lights for the cost of one, which beats the single DIBMS and Lichamp on value. It folds as small as a phone.\n\nIt suits households splitting lights between two tents. The folding handle hangs on a tent loop or tree branch.",
     "specs": [
       "6+1 LEDs, 1600mAh each",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41VE1uggPDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CXC229ZC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CXC229ZC?tag=rvgearlab-amz-20",
     "description": "The Lewis N. Clark collapses to about 5 inches tall and lists 300 lumens, powered by 3 AA batteries that come in the box. It has IPX4 weather resistance and a slide control for brightness.\n\nUnlike the DIBMS, it needs no charging and uses cells you can buy anywhere. It is the only one here with batteries included.\n\nIt suits campers who prefer common AA batteries on long trips. A carry handle makes it easy to hang.",
     "specs": [
       "300 lumens, 3 AA included",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31JudZNZcOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G6JXHGYZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G6JXHGYZ?tag=rvgearlab-amz-20",
     "description": "The HOUSEASSIST is a small foldable light with four foldable panels, a 2000mAh battery and 4 to 8 hours of use depending on mode. It is rated IPX4 and works as a camping light, flashlight and backup power bank.\n\nIt carries a larger battery than the DIBMS and XTAUTO and costs the least of the five. A clip and detachable lanyard make hanging easy.\n\nIt suits budget campers who want a light that doubles as a power bank. It fits a day pack or a kitchen drawer.",
     "specs": [
       "2000mAh, 4 to 8 hours",

@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31+rUEhfj5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FD948Z3F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FD948Z3F?tag=rvgearlab-amz-20",
     "description": "The Foam Global Bliss is an 8 inch gel memory foam bifold short queen that is listed as hinged for RVs and campers and made in the USA. The gel memory foam adds a cooler, more cradling feel than conventional foam.\n\nAgainst the Camping World Cozyway 8 inch it adds gel foam and USA manufacturing. It suits owners who open the bed often and want a plush surface.",
     "specs": [
       "8 inch gel memory foam",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31cjciXr9kL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D2LPM779?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D2LPM779?tag=rvgearlab-amz-20",
     "description": "The Camping World Cozyway Vertical Bifold is a 6 inch short queen built with Comfort Core foam for support and temperature regulation. Its CertiPUR-US certified high-resiliency foam holds its shape through extended use.\n\nIt folds vertically, unlike the standard Cozyway, which suits platforms that lift along a different axis. It suits owners whose bed lifts in that direction.",
     "specs": [
       "6 inch Comfort Core foam",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410PGbVp93L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D2JK3514?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D2JK3514?tag=rvgearlab-amz-20",
     "description": "The Camping World Cozyway Bifold 8 inch is a 60 by 75 inch short queen with CertiPUR-US high density foam. It ships compressed and boxed for easy placement.\n\nIt matches the Bliss on thickness at a slightly lower price, using conventional foam instead of gel. It suits owners who want an RV-brand replacement with a standard fold.",
     "specs": [
       "60 by 75 inch",

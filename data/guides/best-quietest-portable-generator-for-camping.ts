@@ -22,7 +22,7 @@ export const products = withAmazonUrls([
     badge: "Best overall",
     name: "SIOKIUU 2500W Portable Generator Super Quiet Inverter Generator Ultra Lightweight",
     amazonQuery: "SIOKIUU 2500W Portable Generator Super Quiet Inverter Generator Ultra Lightweight",
-    amazonUrl: "https://www.amazon.com/dp/B0FJ8DYT4J?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0FJ8DYT4J?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41mr2rENyuL._SL500_.jpg",
     specs: ["Continuous output: 1,900W","Surge output: 2,500W","Listed weight: 39.46 lb","Runtime claim: Up to 17 hours"],
     specList: [{"label":"Continuous output","value":"1,900W"},{"label":"Surge output","value":"2,500W"},{"label":"Listed weight","value":"39.46 lb"},{"label":"Runtime claim","value":"Up to 17 hours"}],
@@ -39,7 +39,7 @@ export const products = withAmazonUrls([
     badge: "Best heavy-duty option",
     name: "Jackery Explorer 300 Portable Power Station,292Wh",
     amazonQuery: "Jackery Explorer 300 Portable Power Station,292Wh",
-    amazonUrl: "https://www.amazon.com/dp/B082TMBYR6?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B082TMBYR6?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41-Ey75o-WL._SL500_.jpg",
     specs: ["Capacity: 292Wh","Continuous output: 300W","Surge output: 600W","Listed weight: 7.5 lb"],
     specList: [{"label":"Capacity","value":"292Wh"},{"label":"Continuous output","value":"300W"},{"label":"Surge output","value":"600W"},{"label":"Listed weight","value":"7.5 lb"}],
@@ -56,7 +56,7 @@ export const products = withAmazonUrls([
     badge: "Best compact option",
     name: "AIVOLT 1600W Super Quiet Inverter Generator 28lbs Portable",
     amazonQuery: "AIVOLT 1600W Super Quiet Inverter Generator 28lbs Portable",
-    amazonUrl: "https://www.amazon.com/dp/B0B6NPLQH7?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0B6NPLQH7?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/51koa2UZ87L._SL500_.jpg",
     specs: ["Continuous output: 1,260W","Listed weight: 28 lb","Noise claim: 57 dBA","Fuel format: Gasoline"],
     specList: [{"label":"Continuous output","value":"1,260W"},{"label":"Listed weight","value":"28 lb"},{"label":"Noise claim","value":"57 dBA"},{"label":"Fuel format","value":"Gasoline"}],
@@ -73,7 +73,7 @@ export const products = withAmazonUrls([
     badge: "Best value pick",
     name: "Oxseryn Power Equipment 4400 Watts Inverter Generator Gas Powered, Portable Open Frame Generator, Low Noi",
     amazonQuery: "Oxseryn Power Equipment 4400 Watts Inverter Generator Gas Powered, Portable Open Frame Generator, Low Noi",
-    amazonUrl: "https://www.amazon.com/dp/B0FQ5BB6SS?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0FQ5BB6SS?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/51q0ZK+ixwL._SL500_.jpg",
     specs: ["Continuous output: 3,400W","Surge output: 4,400W","Listed weight: 56 lb","Runtime claim: Up to 14 hours"],
     specList: [{"label":"Continuous output","value":"3,400W"},{"label":"Surge output","value":"4,400W"},{"label":"Listed weight","value":"56 lb"},{"label":"Runtime claim","value":"Up to 14 hours"}],
@@ -90,7 +90,7 @@ export const products = withAmazonUrls([
     badge: "Best backup pick",
     name: "Aceup Energy 4000 Watt Gas Inverter Generator Portable Quiet",
     amazonQuery: "Aceup Energy 4000 Watt Gas Inverter Generator Portable Quiet",
-    amazonUrl: "https://www.amazon.com/dp/B0CWN8C57T?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0CWN8C57T?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/518Yw7q0hgL._SL500_.jpg",
     specs: ["Continuous output: 3,200W","Surge output: 4,000W","Runtime claim: Up to 5 hours","Fuel format: Gasoline"],
     specList: [{"label":"Continuous output","value":"3,200W"},{"label":"Surge output","value":"4,000W"},{"label":"Runtime claim","value":"Up to 5 hours"},{"label":"Fuel format","value":"Gasoline"}],
@@ -182,7 +182,7 @@ export const relatedGuides = [
 export const sources = [
   {
     "title": "SIOKIUU 2500W Portable Generator Super Quiet Inverter Generator Ultra Lightweight product page",
-    "href": "https://www.amazon.com/dp/B0FJ8DYT4J?tag=rvgearlab-20&linkCode=osi&th=1&psc=1"
+    "href": "https://www.amazon.com/dp/B0FJ8DYT4J?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1"
   },
   {
     "title": "CPSC carbon monoxide safety center",

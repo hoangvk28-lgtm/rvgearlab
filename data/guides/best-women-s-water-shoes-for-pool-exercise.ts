@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41mqDwyFT2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GT4PWYS5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GT4PWYS5?tag=rvgearlab-amz-20",
     "description": "The SPLASHGRIP Pool Exercise shoe is a women's and men's water shoe with a breathable mesh upper, a non-slip rubber sole with textured tread and a stretchy barefoot-like fit. The listing names pool exercise, paddle boarding, kayaking and yoga as uses.\n\nIt is the only listing here that names pool exercise directly, and it pairs a textured tread with a slip-on fit. Against the L-RUN Water Sports, it uses a plain slip-on closure without elastic laces.\n\nIt suits a woman who does water aerobics or pool workouts and wants a grippy, easy-to-pack shoe. The lightweight design travels well.",
     "specs": [
       "Pool exercise named in listing",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51dj5nU3JjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07NLZSY6R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07NLZSY6R?tag=rvgearlab-amz-20",
     "description": "The L-RUN Water Sports shoe has a stretch ultra-light upper for fast draining, an elastic band with removable shoelaces and a thickened rubber outsole with a honeycomb insole. The listing names water aerobics, yoga, surfing and swimming.\n\nIt adds an elastic band and removable laces for adjusting the fit, which the SPLASHGRIP Pool Exercise does not. It sits above the Vsufim Quick-Dry on price with a thicker outsole.\n\nIt suits a woman who wants an adjustable fit for pool exercise and the traction of a thicker sole. The honeycomb insole adds comfort.",
     "specs": [
       "Elastic band, removable laces",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/5193OX8N02L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09QQHJHJ4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09QQHJHJ4?tag=rvgearlab-amz-20",
     "description": "The Centipede Demon Thick Sole shoe has an anti-slip, thickened and durable sole that protects feet from sharp objects, plus a stretchy lycra mesh upper that drains quickly. A hook-and-loop closure adjusts to the width of the foot.\n\nIt has one of the thickest soles in the group and a hook-and-loop closure that tightens faster than the L-RUN Water Sports elastic band. It is the priciest pair, with the broadest list of uses including indoor athletic sports.\n\nIt suits a woman who wants a cushioned sole and a quick strap for pool workouts and beach days. The closure adapts to the width of your foot.",
     "specs": [
       "Thickened anti-slip sole",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41tZLLY7f1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CTLQHXVL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CTLQHXVL?tag=rvgearlab-amz-20",
     "description": "The Mishansha Wide Toe Drawstring shoe has a wide five-toe toe box, an impact-resistant toe design and a non-slip rubber zero-drop sole. A unique elastic drawstring allows quick adjustment, and the stretchy upper drains and ventilates.\n\nIt has the roomiest toe area in the group and an adjustable drawstring that the SPLASHGRIP Pool Exercise lacks. The five-toe design is not a standard sock fit.\n\nA wider forefoot with toe protection and a custom fit makes it a good match for wide feet in water exercise. The listing names swimming pools, kayaking and surfing.",
     "specs": [
       "Wide five-toe toe box",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41TLerDt0XL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B5JV61YQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B5JV61YQ?tag=rvgearlab-amz-20",
     "description": "The Vsufim Quick-Dry shoe has a breathable quick-dry stretch upper and an EVA sole. A breathable, flexible insole absorbs shock and reduces fatigue in feet and legs, and the shoe is lightweight and compressible.\n\nIt is machine washable and does not shrink, which none of the others state. It has less traction detail than the SPLASHGRIP or L-RUN.\n\nEasy care and a flat pack-down make it a fit for pool-bag packers. Beach, yoga, running and swimming are listed uses.",
     "specs": [
       "Quick-dry stretch upper, EVA sole",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41xK-WzRxOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07KTP8T2F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07KTP8T2F?tag=rvgearlab-amz-20",
     "description": "The SIMARI Aqua Sock is a breathable, quick-dry elastic water shoe with a durable rubber sole and a soft rubber insole. The listing calls it lightweight, flexible and foldable, and lists swimming pools, yoga and pilates among its uses.\n\nIt has the lowest price of the six and folds flat, which the Centipede Demon Thick Sole does not. It has a thinner sole than the L-RUN Water Sports.\n\nIt suits a buyer who wants a basic, cheap pool shoe or a spare for water aerobics. Many sizes and styles are offered.",
     "specs": [
       "Breathable, quick-dry elastic fabric",

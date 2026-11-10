@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31qCyiDaq4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B000N29XW6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B000N29XW6?tag=rvgearlab-amz-20",
     "description": "The Walkstool Comfort is a three-legged telescopic stool in aluminum, available in sitting heights from 18 to 30 inches. It packs with a shoulder bag, and the maker builds it in its own Swedish factory.\n\nCompared with the Portal 2 Pack, it gives adjustable height and a long-service build rather than a low price. It suits photographers, birdwatchers, hunters, and anglers who want a stool that fits many seat heights.",
     "specs": [
       "18 to 30 inch heights",
@@ -56,7 +56,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41iDH2jOw8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G5WTRL2J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G5WTRL2J?tag=rvgearlab-amz-20",
     "description": "The Portal 2 Pack includes two tripod stools with an 18.5 inch seat height, taller than most for easier sitting and standing. Each stool weighs 2.07 pounds and folds to a 17 inch length, with a 15.7 inch wide seat.\n\nAgainst the KKONHII 2PCS, it offers a taller seat and a wider 15.7 inch seat for the same two-pack. It suits couples and older campers who find low stools hard to rise from.",
     "specs": [
       "18.5 inch seat height",
@@ -86,7 +86,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41QzThHJKWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F93H34KX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F93H34KX?tag=rvgearlab-amz-20",
     "description": "The KKONHII 2PCS is a pair of folding tripod stools with a built-in shoulder strap, reinforced rivets at the joints, and rubber anti-slip feet. Each stool weighs 1.8 pounds and needs no assembly.\n\nCompared with the Portal 2 Pack, it is slightly lighter and adds anti-slip feet but sits lower. It suits budget campers who want two stools for hikes and quick stops.",
     "specs": [
       "1.8 lbs each",
@@ -116,7 +116,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31-dbYN7uhL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09PZGR1XW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09PZGR1XW?tag=rvgearlab-amz-20",
     "description": "The ALPS Mountaineering Tri-Leg Stool weighs about 2 pounds and uses a powder-coated steel frame with a reinforced center support. Its 600D polyester seat is made for rugged outdoor use, and it has an integrated webbing carry strap.\n\nCompared with the KKONHII 2PCS, it is a single stool from an outdoor brand with a described center support. It suits hunters, anglers, and campers who want a tougher single seat.",
     "specs": [
       "Powder-coated steel frame",
@@ -146,7 +146,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31K7SwSs8RL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DPN8MF4T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DPN8MF4T?tag=rvgearlab-amz-20",
     "description": "The Amazon Basics Portable Camping Stool has a steel frame with a soft fabric cover and a triangular footing. It lists a 225 pound weight capacity, weighs 1.7 pounds, and includes adjustable straps for carrying.\n\nAgainst the ALPS Tri-Leg, it is lighter and clearly states its capacity, while giving less description of the frame. It suits lighter campers who want a clearly rated, lightweight stool at a low price.",
     "specs": [
       "225 lb capacity",

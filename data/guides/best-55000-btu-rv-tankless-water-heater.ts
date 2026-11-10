@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41h1U-jfJIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GR9MW19Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GR9MW19Q?tag=rvgearlab-amz-20",
     "description": "The Banrterd RV Tankless Water Heater has a 55,000 BTU output, an oxygen-free copper heat exchanger and a brushless DC fan. Its listing gives a 15.94 by 15.94 inch door and a 13 by 13 inch opening.\n\nIt is certified by CSA with a two-year warranty, and a front water outlet and microcomputer panel set temperature from 95 to 123 F. The stated opening size helps when the cutout is tight.\n\nBest for owners with a 15 inch cutout who want a documented warranty. It also suits high-altitude travelers.",
     "specs": [
       "55,000 BTU copper exchanger",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51FhXyxFjxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HBQCYSHQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HBQCYSHQ?tag=rvgearlab-amz-20",
     "description": "The MapleGrace RV Water Heater is a 55,000 BTU CSA certified tankless unit with a forced exhaust fan, flame stabilization and anti-dry-burn protection. A bright LED touch panel sets temperature from 95 to 123 F with a memory function.\n\nIt adds an exterior front outlet for pets and gear and a lockable access cover that shields the internals. The cost is about $150, well below the Banrterd.\n\nA great pick for campers who want an outdoor outlet and a CSA mark. It also suits budget upgrades.",
     "specs": [
       "55,000 BTU burner",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41S6ZYVxHYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HBXBNXBH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HBXBNXBH?tag=rvgearlab-amz-20",
     "description": "The Dastiaque RV Tankless Water Heater is a 55,000 BTU propane unit with CSA certification, forced exhaust, freeze protection and automatic gas shut-off. It states a standard 15 by 15 inch door, a 12.44 by 12.44 inch rear cavity and 1/2 inch NPT water with 3/8 inch gas connections.\n\nIt also has internal and external outlets and an LED touch interface with real-time monitoring. The connection sizes are the most fully stated on this list.\n\nBest for buyers who want to check cavity and connection sizes before ordering. It also suits owners who want an outdoor outlet.",
     "specs": [
       "55,000 BTU propane",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31NpW+YHeIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HFWNS48S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HFWNS48S?tag=rvgearlab-amz-20",
     "description": "Garvee's 55,000 BTU entry fires the burner at a minimum 0.74 GPM and a water pressure range of 14.5 to 100 psi. Its six safety features include overheat protection, flame failure protection and an ignition failure alarm.\n\nIt states an anti-freeze function that starts below 42 F and a 95 to 123 F temperature range. It costs about $100 more than the MapleGrace and Dastiaque.\n\nA good pick for low-flow faucets and cold nights. It also suits owners who want a flue blockage alarm.",
     "specs": [
       "55,000 BTU high-efficiency",

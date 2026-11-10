@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41vR9YfNJUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DP4F63BV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DP4F63BV?tag=rvgearlab-amz-20",
     "description": "The Warmco D3 pairs a 10,000mAh battery with a stated 24 hours on low and 10 hours on high. It measures 7 inches wide and 1.61 inches thick, weighs 0.89 lbs and shows battery percentage on a display.\n\nIt is the slimmest and quietest here, listing under 40dB on speed one. Against the 20,000mAh units it carries half the battery in a body that slips into any daypack.\n\nIt suits hikers and travelers who want a fan that fits in a bag. USB-C input and output let it charge a phone from the same port.",
     "specs": [
       "10,000mAh, 24H low, 10H high",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51KCl3VRKsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GTTY2BHC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GTTY2BHC?tag=rvgearlab-amz-20",
     "description": "The DABOUHORS has a 20,000mAh battery that doubles as a power bank for phones. It lists four speeds, 45 or 90 degree oscillation, noise under 30dB and a remote with 1, 2, 4 and 8 hour timers.\n\nIt out-sizes the Warmco D3 and adds oscillation, which spreads air through a whole tent. A built-in LED light with three modes replaces a separate lantern.\n\nIt fits families who want fan, light and a backup charger in one body. A built-in hook hangs it in tents, gazebos or a car.",
     "specs": [
       "20,000mAh power bank",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51UhZVj42GL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DJ8BTP88?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DJ8BTP88?tag=rvgearlab-amz-20",
     "description": "The Peouix has a 20,000mAh battery rated for about 16 to 60 hours, four adjustable speeds and a three-level LED lantern. The outlet rotates 270 degrees by hand.\n\nIt matches the DABOUHORS on battery size and uses a hand-turned head in place of oscillation. The pink finish is a distinctive choice for kids' camping gear.\n\nIt suits families who want colour and lantern in one. The ultra-compact body fits a backpack.",
     "specs": [
       "20,000mAh, 16 to 60 hours",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zobFpdklL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GT33HGT9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GT33HGT9?tag=rvgearlab-amz-20",
     "description": "The KopBeau holds a 20,000mAh battery that charges fully in as little as 8 to 9 hours with its official cable and a 5V/2A adapter. It lists a 2500 RPM motor, 4.7 m/s airflow, a handle and a hanging hook.\n\nIt states a 4.7 m/s airflow figure and comes with a handle for carrying. Compared with the Peouix, it gives a stated airflow speed where the Peouix does not.\n\nIt suits campers who want strong airflow and easy hanging. The built-in light adds evening use.",
     "specs": [
       "20,000mAh, 8 to 9 hour charge",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/516+BwvtSnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B083SC3XPS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B083SC3XPS?tag=rvgearlab-amz-20",
     "description": "The Gazeled is a 5 inch fan powered by four D-cell batteries (not included). It lists 50dB noise, 180 degree rotation, a timer and USB power as a second option.\n\nIt runs without charging, which sets it apart from every rechargeable pick here. The listed current draw is 68mA, 280mA and 700mA at speeds one, two and three.\n\nIt is a good backup for power outages and emergency kits. A carry handle makes it easy to move.",
     "specs": [
       "Four D-cell batteries",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Wf3afOp9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CSSW6DR1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CSSW6DR1?tag=rvgearlab-amz-20",
     "description": "The TDLOL is a rechargeable camping fan with a 270 degree head rotation, hanging hook and foldable handle. It has adjustable speeds and three LED brightness levels.\n\nIt is the lowest-priced rechargeable pick, with a hook and handle for easy carrying. Against the Peouix, it offers a similar feature set at a lower cost.\n\nIt suits casual campers and beach days where a basic hanging fan will do. The foldable handle helps in a tent.",
     "specs": [
       "270 degree head rotation",

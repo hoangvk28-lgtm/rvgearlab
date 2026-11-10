@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51+423oR4vL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H2D4FV2B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H2D4FV2B?tag=rvgearlab-amz-20",
     "description": "The Pone-vora 3-wall canopy is a 10 by 10 foot instant frame with 3 removable sidewalls, two of them with PVC windows and one back wall. It has 2 top vents and ships with 4 weight bags and 8 ground stakes.\n\nCompared with the Driftalia, it includes weight bags and stakes in the box. Against the Quictent, it adds the sidewalls and anchoring that vendors need.\n\nIt suits vendors who want privacy and a complete anchor kit. Windows let customers see in while the back wall blocks wind.",
     "specs": [
       "10x10 with 3 sidewalls",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410RB7qVFHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F13SS3WR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F13SS3WR?tag=rvgearlab-amz-20",
     "description": "The Driftalia 10 by 10 canopy has four removable sidewalls that attach with reinforced Velcro tabs and roll up with tie-backs. The steel frame has reinforced crossbars listed to support up to 120 pounds, and the tent folds into a carry bag at just under 31 pounds.\n\nCompared with the Pone-vora, it has four walls instead of three. Against the Hverflvsh, it lists a lighter folded weight.\n\nIt suits vendors who need full enclosure for rain and cold. It fits a table and 6 to 8 people.",
     "specs": [
       "10x10, 4 snap-on sidewalls",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51iXzOtYg3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H5R6HH26?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H5R6HH26?tag=rvgearlab-amz-20",
     "description": "The Hverflvsh canopy goes up with a one-push lock, and two people can assemble it in under 5 minutes without tools. It has a powder-coated steel frame, 210D waterproof fabric with UPF 50+, dual roof vents and four weight bags.\n\nCompared with the Pone-vora 3-Wall, it comes with a UPF 50+ top and a stated wind-resistant setup. Against the Quictent, it adds weight bags and removable sidewalls.\n\nIt suits vendors who work at open markets with wind. It folds to 45 by 8.3 by 8.3 inches and 36 pounds.",
     "specs": [
       "One-push setup in under 5 min",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51xYAUQIFWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H2CR3W2V?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H2CR3W2V?tag=rvgearlab-amz-20",
     "description": "The Pone-vora vented canopy has a powder-coated frame reinforced with M5 bolts and 1 inch metal poles. It uses 210D high-density fabric with an internal PU coating, a vented roof and one-push setup in about 5 minutes.\n\nCompared with the 3-Wall version, it is the simpler top without walls. Against the Driftalia, it lists the pole diameter and bolt size.\n\nIt suits vendors who want a sturdy frame with a vented top. It fits most car trunks.",
     "specs": [
       "1 inch poles, M5 bolts",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41c5swjHaRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GMH7S6SW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GMH7S6SW?tag=rvgearlab-amz-20",
     "description": "The Quictent canopy has no sidewalls, a vented top, and drainage holes on all sides to prevent water buildup. It comes with a carry bag and is listed for markets, tailgates and events.\n\nCompared with the Hverflvsh, it costs less and skips weight bags. Against the Pone-vora Vented, it lists drainage holes for rain.\n\nIt suits new vendors who want a basic canopy at a low price. The vented top helps in wind.",
     "specs": [
       "10x10 without sidewalls",

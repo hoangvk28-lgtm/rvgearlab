@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/519Wee6T08L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07SYYQZDN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07SYYQZDN?tag=rvgearlab-amz-20",
     "description": "The Membrane Solutions Straw S1 comes as a four-pack of 7.1 inch, 2 ounce straws with a 0.1 micron pore size and 5-stage filtration that includes a coarse screen, double PP cotton and coconut shell activated carbon. The listing says it meets NSF/ANSI 42, 372 and 401, cites a test report number, and gives a flow of up to 16.9 fl oz per minute.\n\nIt is the only pack here that names NSF/ANSI standards and a test report, and it fits any 28 mm threaded bottle. Compared with the Practical Survival Straws it offers fewer straws, with the standards documented.\n\nIt suits families and hikers who want a straw whose claims can be checked against named standards. The 28 mm thread lets it sit on a bottle.",
     "specs": [
       "0.1 micron, 5-stage",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51knEkQEf9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09LDFR8HX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09LDFR8HX?tag=rvgearlab-amz-20",
     "description": "The Practical Survival 5-Pack holds five straws of 8 inches and 2 ounces apiece, and the maker claims 99.99 percent removal for both bacteria and parasites. Each filter is rated to 1,800 gallons, the largest figure on the page.\n\nIt states the longest lifespan of the six packs. The Advenlution 5-Pack lists 1,600 gallons per straw, and the Emblem Outdoor 2-Pack lists 396 gallons.\n\nIt suits large families and emergency stockpiles that want the longest-lived straws. Five straws let every member carry a spare.",
     "specs": [
       "Five 2 oz, 8 inch straws",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51hAvBvtxrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GTDRN17R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GTDRN17R?tag=rvgearlab-amz-20",
     "description": "The Advenlution 5-Pack uses a 0.1 micron hollow fiber membrane that the listing says filters out microplastics, sediment and turbidity, with up to 1,600 gallons per filter at about 2 ounces. Each straw is individually sealed and comes with a backflushing plunger and an emergency whistle.\n\nThe backflush plunger puts it ahead of the Practical Survival and Lormandy packs, which do not describe one. It costs less than the Practical Survival 5-Pack with a similar lifespan.\n\nIt suits families and groups that want a maintenance tool and a whistle in every straw. Each straw arrives individually sealed.",
     "specs": [
       "0.1 micron hollow fiber",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41vXmfPyMML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DM71YBM8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DM71YBM8?tag=rvgearlab-amz-20",
     "description": "The Emblem Outdoor 2-Pack uses 5-stage filtration with a 0.1 micron hollow fiber membrane, a coarse screen, dual PP cotton and activated carbon. The listing gives a flow of 16.9 fl oz (500 ml) per minute, 396 gallons per filter and a weight of 2.5 ounces at 8.27 inches.\n\nIt costs the least of the packs that print a flow and lifespan, and is the one to buy if you only need two. Its per-straw life is shorter than the Practical Survival or Advenlution.\n\nIt suits couples and pairs who want two straws at a low price. The activated carbon stage helps with taste.",
     "specs": [
       "0.1 micron, 5-stage",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51q2cPpBaRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FD9K3L3C?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FD9K3L3C?tag=rvgearlab-amz-20",
     "description": "The Lormandy 5-Pack gives each person a personal straw filter in food-grade materials with accessories included. The listing describes a no-setup, grab-and-go design.\n\nCompared with the Membrane Solutions Straw S1 it prints no flow or capacity figure, and compared with the Advenlution it has no backflush plunger described. It does cost less than the Practical Survival 5-Pack.\n\nIt suits scouts and groups who want one straw per person without any fuss. Nothing needs assembling.",
     "specs": [
       "Five straws per pack",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51V1wH804DL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DM7HRCBM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DM7HRCBM?tag=rvgearlab-amz-20",
     "description": "The joypur 4-Pack straws are 5.59 inches long, 0.71 inch across and 1.5 ounces each. The listing is aimed at biking, off-road trails, travel and emergency kits.\n\nIt is the lightest and cheapest per straw of the group, and the smallest. Its broad claim of removing contaminants, odors and chlorine goes beyond what a straw filter is known to do.\n\nIt suits budget buyers who want a tiny backup straw. It slips easily into a bike jersey.",
     "specs": [
       "5.59 in long, 1.5 oz",

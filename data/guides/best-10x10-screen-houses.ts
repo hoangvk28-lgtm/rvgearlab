@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41OO+pRcp0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B099ZZSRPP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B099ZZSRPP?tag=rvgearlab-amz-20",
     "description": "The Superrella is a 10 by 10 foot screen house, 82 inches tall, weighing 15.44 lbs. It lists room for 6 to 8 people, a 190T polyester top with UV resistance, fine mesh and two T-shape zipped doors.\n\nIt is lighter than the 27 lb East Oak by about 11 lbs. Setup takes about 15 minutes without tools, longer than the East Oak's 60-second pop-up.\n\nIt suits a camper who carries the shelter often and values low weight over quick setup. It includes fiberglass poles, stakes and windproof guy rope.",
     "specs": [
       "10 by 10 ft, 82 inches tall",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51UroHwy5dL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F21T7XGL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F21T7XGL?tag=rvgearlab-amz-20",
     "description": "The East Oak is a pop-up 10 by 10 foot screen house that sets up in under a minute. It has B3 mosquito netting, six sunshades, a quick-deploy rainfly and triple-layer Oxford fabric with UPF 50+.\n\nIt weighs 27 lbs, well below a 50-pound steel gazebo and above the Superrella. The six sunshades and rainfly give it the most weather options.\n\nIt suits a family that sets up and strikes camp daily and wants shade and a rain fly. A carry bag is included.",
     "specs": [
       "10 by 10 ft, 27 lbs",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51a2JtQcwNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G4J4SXD6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G4J4SXD6?tag=rvgearlab-amz-20",
     "description": "The VEVOR is a 10 by 9.2 by 7.55 foot pop-up screen house for 4 to 8 people, with 360 degree mesh and a 300D Oxford canopy. Fiberglass and steel poles hold it up, and it comes with 12 stakes and carry, stake and pole bags.\n\nThe roof reaches 7.55 feet and the price is the lowest of the three. The footprint is a little under a true 10 by 10 at 9.2 feet deep.\n\nIt suits a budget camper who wants a complete kit with bags. Treat it as a size 10 by 9 shelter.",
     "specs": [
       "10 x 9.2 x 7.55 ft",

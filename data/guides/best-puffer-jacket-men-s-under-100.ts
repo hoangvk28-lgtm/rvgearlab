@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41kziZm6WWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08SS8MGTB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08SS8MGTB?tag=rvgearlab-amz-20",
     "description": "The Amazon Essentials Hooded is a regular-fit, fully lined puffer with a water-resistant nylon taffeta shell, quilted insulation and a hooded neck. It has two zippered hand pockets, elastic cuffs, hem and hood opening and packs into its own drawstring bag.\n\nAgainst the Amazon Essentials Stand Collar, it adds a hood at a lower price. Compared with the Polu, it gives a clearer shell description with a simpler pocket layout.\n\nIt suits men who want a plain, predictable puffer at a very low cost. The packable bag makes it easy to stow.",
     "specs": [
       "Water-resistant nylon taffeta",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/417gSQcTbmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08SS2CQKC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08SS2CQKC?tag=rvgearlab-amz-20",
     "description": "The Amazon Essentials Stand Collar uses the same water-resistant nylon taffeta shell and polyester lining as the hooded version, with a full-length zipper and a stand-up collar. It has elasticated cuffs and bottom opening and packs into a carrying bag.\n\nAgainst the Amazon Essentials Hooded, it replaces the hood with a stand collar. Compared with the WHN, it uses a branded shell and offers Big and Tall sizes.\n\nIt suits men who prefer a clean, hoodless neckline. The listing also notes Big and Tall availability.",
     "specs": [
       "Water-resistant nylon taffeta",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41qclHiyh0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GP36B6QG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GP36B6QG?tag=rvgearlab-amz-20",
     "description": "The CANADA WEATHER GEAR Packable has a tightly woven wind-resistant shell, an insulated hood and secure zip pockets. It compresses into its own travel pouch for a carry-on or backpack.\n\nAgainst the Polu, it describes a tighter weave for wind. Compared with the WHN, it adds an insulated hood and multiple zip pockets.\n\nIt suits men who face cold, breezy days and want a hood that seals drafts. The slim cut layers over a fleece.",
     "specs": [
       "Tightly woven wind-resistant shell",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41qOZLrNmLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GXY51M2T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GXY51M2T?tag=rvgearlab-amz-20",
     "description": "The Polu Hooded has a nylon shell with down alternative filling, a water-resistant exterior and elasticized cuffs, hem and hood. It carries five pockets, two zippered hand pockets and three interior pockets, and packs into a storage pouch.\n\nAgainst the Amazon Essentials Hooded, it adds three interior pockets. Compared with the CANADA WEATHER GEAR, it offers more storage for gadgets and bottles.\n\nIt suits men who want storage for gadgets and water bottles. It works as a mid layer under a shell.",
     "specs": [
       "Nylon shell, down alternative",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41-YEbk0AOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GXZ1Z2N4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GXZ1Z2N4?tag=rvgearlab-amz-20",
     "description": "The WHN Insulated has a nylon shell with down-alternative filling, a stand collar and a full zip. It has an adjustable buckle, elastic cuffs and three pockets, two zip hand pockets and one large inner zip pocket.\n\nAgainst the Polu, it has fewer pockets and no hood. Compared with the Amazon Essentials Stand Collar, it adds an adjustable buckle at the neck.\n\nIt suits men who want a layering jacket to wear under a shell. It can serve as outerwear in mild cold.",
     "specs": [
       "Nylon shell, down alternative",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/419BXMy3kBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FM62ZL7S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FM62ZL7S?tag=rvgearlab-amz-20",
     "description": "The Southpole Packable is a lightweight, packable hooded puffer designed for snow, ski trips and city walks. The listing says it folds down small and works across seasons.\n\nAgainst the Amazon Essentials Hooded, it costs less and lists fewer details. Compared with the Polu, it is thinner on pockets and fill information.\n\nIt suits men who want the cheapest hooded puffer for occasional use. It also packs into a bag.",
     "specs": [
       "Lightweight, packable hooded",

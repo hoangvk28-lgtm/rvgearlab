@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41OTySm1j0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GRW7D3FD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GRW7D3FD?tag=rvgearlab-amz-20",
     "description": "The Cothb kit pairs a 1500W immersion heater with an LCD temperature control and dual LCD pump display. The listing says it heats 5 gallons to 100F in 5 minutes, which is the clearest speed claim in this group.\n\nAnti-dry-burn protection shuts the heater off if it runs without water, a safety detail the InkTrail does not describe. The 6800mAh pump battery is stated for up to 90 minutes of continuous use.\n\nIt is the pick for campers who want a concrete warm-up time and a safety cut-off in the same kit. A 5.3 gallon bucket suits two people per fill.",
     "specs": [
       "1500W heater, 5 gallons in 5 minutes",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/5151QYa4krL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F242W1BX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F242W1BX?tag=rvgearlab-amz-20",
     "description": "Motivekit bundles a 1500W immersion heater, 6000mAh pump, 6.6 gallon foldable bucket and a 6 ft 7 in hose. The pump senses water temperature from 32 to 140F, and the head has three modes plus a spray gun.\n\nIt carries the largest bucket in this group alongside the long hose, which makes hanging the head from a branch easy. Compared with the Cothb, it trades the heat-up claim for more water volume and reach.\n\nChoose it for families or groups who want one bucket to go further and a head that reaches a seated bather. It fits car camping and beach days well.",
     "specs": [
       "1500W immersion heater",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41QayTdkhPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DWMWGCQZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DWMWGCQZ?tag=rvgearlab-amz-20",
     "description": "BSEED uses a 2000W immersion heater with a stainless steel guard and a 6000mAh pump. An LED display shows battery and water temperature, and the motor is described as quiet.\n\nThe 2000W element is stronger than the Motivekit's 1500W, so it should reach target temperature faster in an equal-size bucket. The stainless guard around the element adds a layer of protection.\n\nIt is a good fit for campers in shoulder season who want stronger heating than a 1500W kit. The calm pump is a plus at a shared campground.",
     "specs": [
       "2000W stainless-guard heater",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51iIWoa6XtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FM2YXVC3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FM2YXVC3?tag=rvgearlab-amz-20",
     "description": "WADEO pairs a 2000W heater with a 4500mAh pump and an LED screen for temperature and battery. Five pressure levels run up to 6 liters a minute, with a rated 140 minutes of use.\n\nIt has the finest pressure control here, which matters when you want a gentle rinse for a child or a strong blast for muddy legs. The smaller 4500mAh pack is the trade for that, since the Motivekit and BSEED carry 6000mAh.\n\nIt suits campers who care about adjusting pressure to stretch a bucket of hot water. A child's gentle rinse and a strong leg wash both work.",
     "specs": [
       "2000W immersion heater",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51macnjbLvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F1YJ6XDG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F1YJ6XDG?tag=rvgearlab-amz-20",
     "description": "InkTrail weighs under 2 lb for the full kit, including a 1500W immersion heater, a 6000mAh pump and a shower head. The pump delivers about 1 gallon a minute.\n\nThat makes it the easiest kit to carry here, well ahead of the Motivekit with its large bucket. You plug the heater into a wall outlet or a generator, as the listing states.\n\nIt is the pick for campers who care about weight and packed size, such as small trunks or overlanding rigs. The pump is described as quiet.",
     "specs": [
       "Under 2 lb total kit",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41oL9851RtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F66QCMM2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F66QCMM2?tag=rvgearlab-amz-20",
     "description": "FIRINER offers a 7800mAh pump and a 9-in-1 kit that includes a heater and a silicone suction cup for the bucket. Water temperature is shown from 32 to 140F on a LED display.\n\nIt carries a larger pump battery than the Motivekit and BSEED, and charges by USB Type-C. The suction cup keeps the pump steady in the bucket.\n\nChoose it if long pump runtime and a full accessory pack matter more than the strongest heater. It fits multi-day trips where recharging is the limit.",
     "specs": [
       "7800mAh USB-C pump",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41EM7nhQa7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07C3PWWX7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07C3PWWX7?tag=rvgearlab-amz-20",
     "description": "The Gold Armour rainfly has a 5,000mm waterproof rating, 33 tie-down points and 2 centerlines. The package includes stakes, ropes and tensioners, and it comes in several sizes from 8 ft up to 14.7 ft.\n\nIts 5,000mm rating is the highest of the three, and the 33 tie-outs give far more pitch options than the FREE SOLDIER's 19 guy points. Compared with the GEERTOP, it trades some coverage area for more rating.\n\nBackpackers and campers who want one rain shelter for a wide range of pitches will like it. The size options let you match the tarp to the group.",
     "specs": [
       "5,000mm waterproof rating",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ozLOrD9LL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09MTMQF98?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09MTMQF98?tag=rvgearlab-amz-20",
     "description": "The GEERTOP covers 172 sq ft in 17 x 10 ft of 210T ripstop polyester with a PU3000mm coating. Reinforced corners, webbing edge construction and multiple tie-out points are included, along with reflective guylines and aluminum stakes.\n\nIt is the largest of the three and the only one aimed at family camping and vehicle camping. Against the Gold Armour it gives more area with a lower waterproof rating.\n\nFamilies and groups who need rain cover for a table and chairs benefit most. The reflective guylines help you see them in the dark.",
     "specs": [
       "17 x 10 ft, 172 sq ft",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41VqRwUyp4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DZ2D3K4T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DZ2D3K4T?tag=rvgearlab-amz-20",
     "description": "The FREE SOLDIER is a 118 by 126 inch ripstop polyester tarp with a 3000 PU waterproof rating, heat-sealed seams and a reinforced ridgeline seam. It has 19 guy points and ships with four tensioned guylines plus a stuff sack.\n\nIt covers two people and is the least costly of the three. Against the GEERTOP it gives less area and still keeps the heat-sealed seams.\n\nSolo and two-person campers who want a compact rain roof use it well. It is also sold in brown with a 210T fabric listing.",
     "specs": [
       "10 x 10.5 ft, PU 3000",

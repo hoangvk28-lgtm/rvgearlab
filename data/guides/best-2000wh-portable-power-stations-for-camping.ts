@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41-aYRSzjEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DFG2WDQH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DFG2WDQH?tag=rvgearlab-amz-20",
     "description": "The Jackery Explorer 2000 v2 lists 2042Wh with 3 AC ports delivering 2200W in total, a weight of 39.5 pounds and a LiFePO4 battery rated for 10 years. AC fast charging takes 0 to 80 percent in 66 minutes and a full charge in 102 minutes, and silent charging mode stays under 30dB.\n\nIt is the only one that gives a weight and a quiet charging mode, ahead of the 2304Wh BLUETTI AC200PL and the Anker SOLIX C2000 Gen 2. The listing calls it the smallest and lightest 2kWh design.\n\nIt suits campers and cabin owners who want to carry a 2kWh station without a cart. Solar and car charging complement the AC fast charge.",
     "specs": [
       "2042Wh, 2200W AC",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41iJKYxROtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FVFGL38H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FVFGL38H?tag=rvgearlab-amz-20",
     "description": "The Anker SOLIX C2000 Gen 2 stores 2,048Wh and delivers 2,400W rated with 4,000W peak. It charges to 100 percent in 58 minutes, takes 800W alternator charging in a vehicle, uses 9W on standby and expands to 4kWh.\n\nIt states more output than the Jackery Explorer 2000 v2 and the alternator charging that neither of the others lists. The listing says it can run most window and RV air conditioners and a dual-door fridge for 32 hours.\n\nVan and RV builds that charge from the alternator get the most from it. Six ways to recharge give flexibility.",
     "specs": [
       "2,048Wh, 2,400W rated",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zQ10TNbdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D17CW6KK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D17CW6KK?tag=rvgearlab-amz-20",
     "description": "The BLUETTI AC200PL lists 2304Wh, 2400W output across 4 AC outlets, a 30A TT30 port, a 48V/8A DC port and 11 ports in total. It charges 0 to 80 percent in 60 minutes with 2400W AC input and up to 1200W solar input, uses LiFePO4 rated 3000-plus cycles and expands to 8448Wh with extra batteries.\n\nIt states the largest capacity of the three and a TT-30 RV outlet. Expansion goes well beyond the 4kWh of the Anker SOLIX C2000 Gen 2.\n\nIt suits RV owners who want a direct 30A port and room to grow into a whole-rig system. The 48V port charges an RV battery.",
     "specs": [
       "2304Wh, 2400W, TT30 port",

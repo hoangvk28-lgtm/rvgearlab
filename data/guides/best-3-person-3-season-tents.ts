@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31bzkIMViHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07CLMB4KC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07CLMB4KC?tag=rvgearlab-amz-20",
     "description": "The Hillman is a two-door, double-layer tent titled for 2 to 3 person use in 3 to 4 seasons. It weighs 5.6 lbs, packs to 7 by 7 by 19.3 inches and is built on aluminum rods with double-stitched, taped seams.\n\nIt is the only pick that names 3-season in the title, and it is the lightest of the three. The Camppal offers a stronger fly rating, while the CAMPROS is cheaper.\n\nIt suits groups of two or three on spring through fall trips. Large mesh sections ventilate the body, and one person can pitch it in under ten minutes.",
     "specs": [
       "3-4 season, 2-3 person",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Fak4gDUJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B078Y9SCDJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B078Y9SCDJ?tag=rvgearlab-amz-20",
     "description": "The Camppal is a two to three person tent with a PU 3500mm fly and a 300D bathtub floor rated 4000mm. The inner measures 6.89 by 5.91 by 4.27 feet, and the aluminum poles cross in a two-pole frame.\n\nIt has the strongest water ratings of the three, and the listing calls it a 4-season tent. The Hillman is lighter, while the CAMPROS is cheaper.\n\nIt suits groups that expect rain and want aluminum poles. Two crossing poles let one person set it up.",
     "specs": [
       "PU 3500mm fly, 4000mm floor",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31-qntNOuuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G2BZB5ZK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G2BZB5ZK?tag=rvgearlab-amz-20",
     "description": "The CAMPROS is a three-person dome with a 7 by 7 foot floor and a 47 inch center height that fits one queen mattress. It has a rainfly, sealed seams and a waterproof strip, with mesh on the top and doors.\n\nIt has the largest floor of the three and the lowest price, while it does not state a season. The Hillman is lighter, and the Camppal beats it for water numbers.\n\nIt suits three people on a car-camping trip who want a roomy dome. Two people can set it up in five minutes.",
     "specs": [
       "7x7 ft, 47 in center",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41LI7swlzyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01N9MOY7B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01N9MOY7B?tag=rvgearlab-amz-20",
     "description": "The EMS-PT50X is a 50 amp, 120-240V portable unit rated at 12,000 watts and 3,580 joules. It watches for high and low voltage, reverse polarity and surge failure, and uses an all-weather shield, thermal protection and a Lexan housing.\n\nNext to the Progressive EMS-PT30X it covers the larger 50A service, and against the GEARGO 20,000J Smart it brings a name known for fault detection. The unit has an integrated display and LED indicators for dim light.\n\nIt suits owners of larger coaches who want true fault detection in a USA-made unit. The thermal protection adds a margin against overheating.",
     "specs": [
       "50A, 12,000W, 3,580 joules",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410Z5nA8S4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01N0W4CZ8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01N0W4CZ8?tag=rvgearlab-amz-20",
     "description": "The EMS-PT30X is the 30 amp, 120V version rated for 3,600 watts and 1,790 joules. Its fault list covers voltage that runs too high or too low, an open ground or neutral, reverse polarity, a miswired pedestal, accidental 240V, surge failure and AC frequency problems.\n\nIts fault list is longer than the other two picks name. Compared with the EMS-PT50X, it is cheaper and fits 30A cords.\n\nIt fits small trailers and Class B or C rigs that need a protector with serious fault detection. The built-in electrical management system language is the clearest of the group.",
     "specs": [
       "30A, 3,600W, 1,790 joules",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41LZd-zeJJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GT13LFG4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GT13LFG4?tag=rvgearlab-amz-20",
     "description": "This GEARGO lists 20,000 joules for 50 amp rigs with a circuit analyzer, thermal protection and a real-time LED screen for voltage, frequency and wiring. It disconnects on unsafe voltage, resets itself and has a 3-year warranty.\n\nCompared with the EMS-PT50X, it costs roughly half and lists a far larger joule number in a unit with a different label. It also resets on its own, which the Progressive listings do not state.\n\nIt suits 50A owners who want auto shutoff and a screen at a lower price than the Progressive. The warranty gives a multi-year cover.",
     "specs": [
       "20,000J, 50A smart unit",

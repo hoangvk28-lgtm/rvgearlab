@@ -27,7 +27,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31p1yoUb1vL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B001UGPEJA?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B001UGPEJA?tag=rvgearlab-amz-20",
     "description": "The BAL 28020 is a locking chock made specifically for single-axle tires. It measures 23 inches long when extended and 16.5 inches retracted, and the adjustable body stretches up to 6.5 inches so it can be set to the tire in front of it. Once it is cranked into place, the chock holds the tire from both sides instead of just leaning against it.\n\nCompared with the rubber wedges in this guide, the BAL is the only design that physically captures the tire, which makes it the most secure option for a trailer with one axle and two wheels. The ADNIK is also a single-axle metal chock, yet it is a simpler design without the adjustable length range. The rubber pairs from MaxxHaul and the four-packs from WECARLLE and Profasion depend on friction alone.\n\nThis is the pick for an owner who wants the tire locked rather than merely blocked, such as someone who parks on a slight slope or keeps the trailer in one spot for a full season. If you tow a single-axle camper and want one chock you can adjust to different tire sizes, this is the one to buy.",
     "specs": [
       "Single axle locking",
@@ -55,7 +55,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ILwMuIl7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01KR7EFTC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01KR7EFTC?tag=rvgearlab-amz-20",
     "description": "ADNIK makes a silver single-axle wheel chock with a rust-inhibitive coating over a metal body. The coating matters because a chock lives outdoors, sits on wet ground and gets tossed in a storage bay, which is exactly the treatment that rusts bare steel.\n\nAgainst the BAL, the ADNIK is the simpler metal option, without a long extension range, and it costs a few dollars less. Against the rubber pairs, it is the sturdier choice for an owner who does not want a chock that can crack, flatten or smell in summer heat. The WECARLLE and Profasion packs give you more pieces, while this one gives you a single durable metal unit sized for a single-axle tire.\n\nIt is a good fit for a buyer who wants the strength of metal and the single-axle shape without paying the BAL price. Trailer owners who store their gear in a damp bin or park near the coast will appreciate the protective coating.",
     "specs": [
       "Single axle design",
@@ -83,7 +83,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41q2Y29YvLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D78BBR9D?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D78BBR9D?tag=rvgearlab-amz-20",
     "description": "The WECARLLE set gives you two pairs, four rubber chocks in total, each measuring about 6.21 by 4.71 by 4.31 inches, with rope attached. They are sold for trucks, trailers, campers and cars, so the rubber compound is aimed at gripping asphalt, concrete and packed gravel.\n\nSetting it next to the two-piece MaxxHaul pair, the WECARLLE adds an extra pair for about twice the money, which is the better deal for anyone who wants to chock both sides of the same tire. Compared with the Profasion four-pack, the WECARLLE blocks are a bit more compact, which makes them easy to slip into a bumper compartment. The BAL and ADNIK are single metal units, so neither gives you spares.\n\nPick this set if you want a front and a back chock on each of the two tires, or if you want a spare pair to leave in the tow vehicle. The attached rope helps you pull each chock free when it is time to leave.",
     "specs": [
       "4 rubber chocks",
@@ -111,7 +111,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Klqap5n2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DPFR9KYS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DPFR9KYS?tag=rvgearlab-amz-20",
     "description": "This heavy-duty four-pack comes with a 39 inch rope, a carabiner, handles and dual reflective strips. The non-slip texture is made to bite into grass, concrete and uneven ground, and the handles let you pick up each chock without bending too far.\n\nAgainst the WECARLLE set, the Profasion pack is the better one for evening arrivals and dim campsites, because the reflective strips catch headlights and a flashlight beam. The carabiner also lets you clip the chocks together or to a bumper so they do not get left behind. Compared with the MaxxHaul pair it gives you twice the chocks for double the price, and compared with the BAL and ADNIK it costs less than half as much.\n\nThis is the set for people who set up in the dark, share a campsite with kids or pets, or simply want chocks that are easy to see and easy to carry. It is also a smart pick for anyone who wants both sides of a single-axle tire covered with room to spare.",
     "specs": [
       "4 chocks, 39 inch rope",
@@ -139,7 +139,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41iFVh44dYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01CGU14T2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01CGU14T2?tag=rvgearlab-amz-20",
     "description": "MaxxHaul's solid rubber pair measures 8 by 4 by 6 inches and has non-slip traction pads on the base. The solid rubber body resists cracking and weathering, and the size is compact enough to stack inside a trailer tongue box or a truck bed.\n\nIt is the lowest-priced option here at about $16, and it is solid rubber from end to end instead of the hollow or molded styles some budget chocks use. Compared with the WECARLLE and Profasion four-packs, you get half the pieces, which is plenty for a light single-axle trailer when you chock one tire front and back or both tires on the downhill side. The BAL and ADNIK cost four to five times more.\n\nThis is the pick for a small pop-up, teardrop or light travel trailer on a firm, mostly level pad. Buyers who want a no-fuss rubber pair and do not need a locking mechanism or a rope will find it hard to beat for the money.",
     "specs": [
       "8 x 4 x 6 inch",

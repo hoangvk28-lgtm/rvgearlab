@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41fDpWAyjbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G7GV9BN4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G7GV9BN4?tag=rvgearlab-amz-20",
     "description": "The RV Mattress Solutions Lux Black is a 12 inch medium hybrid sized for 42 by 80 bunks. It layers Elate visco foam infused with copper, gel, silver and graphite over individually wrapped TRU coils and a high density base.\n\nNext to the WanderRest, it uses a firmer medium feel and a cooling stretch cover, while both share a 10 year warranty and USA construction. It suits adult bunk sleepers who want full hybrid support.",
     "specs": [
       "12 inch hybrid",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Li2PPy4lL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DHVNJ4DN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DHVNJ4DN?tag=rvgearlab-amz-20",
     "description": "The WanderRest is a 12 inch plush-medium hybrid with five layers of cooling gel memory foam over pocketed coils. HD edge reinforcement gives a steadier perimeter and a quilted 360 stretch cover aids airflow.\n\nCompared with the Lux Black, it leans softer for side sleepers, and edge reinforcement keeps the bunk edge usable. It suits side sleepers and teens who want a plush feel on a bunk.",
     "specs": [
       "12 inch plush-medium",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41t+pTczaCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09NQNR4TV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09NQNR4TV?tag=rvgearlab-amz-20",
     "description": "The FoamRush 7 inch bunk mattress measures 42 by 80 and uses cooling gel memory foam in a medium firm feel. The foam is CertiPUR certified and cuts easily if you need to trim it.\n\nAgainst the 4 inch FoamRush, the extra three inches add pressure relief, and it sits lower than the 12 inch hybrids. It suits kids and lighter adults on bunks with limited clearance.",
     "specs": [
       "7 inch gel memory foam",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41t+pTczaCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07YLCVGFK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07YLCVGFK?tag=rvgearlab-amz-20",
     "description": "The FoamRush 4 inch bunk mattress is a 42 by 80 replacement with a layer of ventilated gel memory foam over high density support foam in a medium feel. It is built as a straight replacement for worn bunk foam.\n\nCompared with the 7 inch version, it leaves much more headroom, making it the pick when the bunk is tight. It suits kids bunks and frequent guest beds.",
     "specs": [
       "4 inch gel memory foam",

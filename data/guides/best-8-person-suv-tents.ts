@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41wGkPT7bDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C9Z6YK4Z?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C9Z6YK4Z?tag=rvgearlab-amz-20",
     "description": "The GoHimal is a 5-8 person SUV tent measuring 8 by 8 by 7.2 ft. It uses 210T polyester with a PU3000mm coating, large mesh windows, a skylight, multiple pockets and color-coded poles.\n\nIt is the only pick whose label names 8 as the upper end, and it costs far less than the WildFinder or TIMBER RIDGE. The tradeoff is a smaller floor and no listed porch.\n\nIt suits groups that want a low-cost attached tent with a skylight and a four-season build. Color-coded poles keep setup simple for first-timers.",
     "specs": [
       "8 x 8 x 7.2 ft footprint",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41eDKnEHY5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H3VFSYDV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H3VFSYDV?tag=rvgearlab-amz-20",
     "description": "The WildFinder lists a 14.1 ft by 9.2 ft floor under a 6.9 ft peak, with a PU3000 coating and UPF 50+ protection. It adds an extra camping awning, large mesh windows and drainage mesh for all-around airflow.\n\nIt lists the biggest footprint here, which is what turns a nominal 5-9 label into real room for eight. Next to the GoHimal it adds an awning and a sun rating, and against the TIMBER RIDGE it adds a higher waterproof coating.\n\nIt suits a group that wants room to spread out and a shaded dining spot. It fits SUVs, Jeeps and standard trucks, and stands alone when needed.",
     "specs": [
       "Biggest floor, 6.9 ft peak",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41npgroHzZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DSJ1NLZ1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DSJ1NLZ1?tag=rvgearlab-amz-20",
     "description": "The TIMBER RIDGE has a 13 by 10 ft floor and stands 87 inches tall at the center, with a screened porch of 6 by 8 ft. Its PU2000 polyester shell has double doors and windows, and the listing counts five campers on two air mattresses.\n\nIts ceiling is the tallest of the three and it gives the only porch with a measured size. The listing's own sleeper count is the lowest here, so this is the one where eight is a stretch.\n\nIt suits a smaller family of five that wants standing room and a bug-free porch. It attaches to the trunk of SUVs, CUVs, minivans and pickups, or stands alone.",
     "specs": [
       "13 by 10 ft floor",

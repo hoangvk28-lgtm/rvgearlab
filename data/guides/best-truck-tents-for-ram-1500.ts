@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41A64jTP5bL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D66W5HP5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D66W5HP5?tag=rvgearlab-amz-20",
     "description": "This pickup tent lists a fit for 5 ft 5 in to 6 ft 3 in beds and names Dodge Ram 5 ft 5 in to 5 ft 8 in and Ram 1500 in its compatibility list. It uses 210D Oxford with a PU5000 coating, fiberglass poles and an awning, with outside dimensions of 98.4 x 67 x 67 inches.\n\nIt has the highest waterproof number of the four and the widest bed range, ahead of the Umbrauto and WildFinder at PU3000. It sits near the JOYTUTUS on price and well under the Umbrauto.\n\nIt suits Ram owners with short or standard beds who want the strongest stated rain protection. The awning adds a shaded sitting area at the tailgate.",
     "specs": [
       "PU5000, 210D Oxford",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41vBmp0nKNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7ZX4N4W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7ZX4N4W?tag=rvgearlab-amz-20",
     "description": "The Umbrauto 5.5 to 5.8 ft truck tent has a 66.5 inch length for full-size short beds and lists Dodge Ram among its examples. It uses 210T polyester with a PU3000 coating, and a 4 x 4 ft expandable awning offers shade and rain cover.\n\nIts 4 x 4 ft awning is the only one with a stated size in this list, and the PU3000 rating sits between the JOYTUTUS and the PU5000 tent. It costs more than the JOYTUTUS and WildFinder.\n\nIt suits Ram owners with a 5.5 to 5.8 ft bed who want an awning for fishing or shoe storage. Color-coded poles make setup easier.",
     "specs": [
       "66.5 inch length, 5.5-5.8 ft beds",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51i4zXdLOHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08XH7TK3M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08XH7TK3M?tag=rvgearlab-amz-20",
     "description": "The JOYTUTUS Pickup Truck Tent 2.0 is a 90.5 x 62.9 x 66.9 inch two-person tent for 5.5 to 5.8 ft beds, and its listing names F150, Ram, Silverado and Tundra. The kit includes four fiberglass poles plus two spares, a rainfly and a carry bag, and the fabric is 210D polyester Oxford with PU2000.\n\nIt undercuts the Umbrauto on price and ships spare poles, which the others do not list. The PU2000 coating is the lowest of the four.\n\nIt suits Ram owners who want a low-cost tent with spare parts. Three windows give ventilation and views, one for observation.",
     "specs": [
       "90.5 x 62.9 x 66.9 inches",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51ExlvzbC8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H1C3SVNP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H1C3SVNP?tag=rvgearlab-amz-20",
     "description": "The WildFinder truck bed tent has an 88.6 x 74.8 x 63 inch interior and fits 5.5 to 6 ft beds, with Ram named among the compatible trucks. Its connection tunnel lets you run power cables and air conditioning from the truck, and the fabric is 210D polyester Oxford with PU3000mm.\n\nIt has the widest interior of the four and the lowest price, with a PU3000 coating above the JOYTUTUS. The tunnel is a feature the other tents do not list.\n\nIt suits Ram owners who want a low-cost tent they can power or cool from the truck. Three ventilated windows and color-coded poles help.",
     "specs": [
       "88.6 x 74.8 x 63 inch interior",

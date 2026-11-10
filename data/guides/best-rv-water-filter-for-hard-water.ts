@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41GMYl3O0WL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CJ9DK4T2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CJ9DK4T2?tag=rvgearlab-amz-20",
     "description": "VEVOR is a portable RV water softener with a stated capacity of up to 16,000 grains, food-grade resin, 3/4 inch brass fittings and a 42 inch hose. It needs no electricity or tools, and the listing says the resin lasts roughly five years.\n\nIt is the only pick that is a true softener by design, so it addresses scale directly where SpiroPure Inline is a salt-free scale-inhibiting filter and the others are not designed for hardness at all. It does not filter chlorine or taste, so you still need a carbon filter.\n\nBest for campers who regularly meet hard water. Plan to regenerate the resin as the maker directs.",
     "specs": [
       "16,000 grain capacity",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41CejfEibJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B1W3Y6NN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B1W3Y6NN?tag=rvgearlab-amz-20",
     "description": "SpiroPure Inline is a multi-stage hose filter with German-made catalytic carbon for chlorine, chloramine and sulfur odors and a 1 micron sediment filter. The listing says it works as a salt-free descaler and softener to prevent mineral buildup.\n\nIt is cheaper and lighter than VEVOR Softener and also filters taste, but a salt-free scale inhibitor does not remove hardness the way a resin softener does. It is more targeted than the Camco filters.\n\nBest for light to moderate hardness on a budget. The listing's softening claim is the maker's wording, so keep expectations modest.",
     "specs": [
       "Salt-free scale protection",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41-LIR9FL4S._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07SX5RPG6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07SX5RPG6?tag=rvgearlab-amz-20",
     "description": "Clearsource Ultra is a three-stage system with a 5 micron sediment filter, a coconut shell carbon stage and a VirusGuard stage. It has a powder-coated metal chassis, stainless steel fittings and the listing claims protection against viruses, bacteria and cysts.\n\nIt costs about five times the VEVOR Softener and does not claim to soften water, so it addresses a different problem from hardness. It beats the Camco filters on stages.\n\nBest for buyers who want pathogen protection and a rugged chassis. Pair it with VEVOR Softener if scale is the issue.",
     "specs": [
       "Three-stage VirusGuard",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41xV+PKDxJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7XR21F8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7XR21F8?tag=rvgearlab-amz-20",
     "description": "GoBluTech AR3 XLT uses a 0.2 micron filter, a carbon cartridge and a sediment stage in compact 10 inch cartridges, with stainless canisters and an electroplated aluminum frame. It quotes 3 to 4 months per set.\n\nIt matches Clearsource Ultra in price and offers larger 10 inch cartridges than smaller GoBluTech models, but the listing does not mention hardness or scale. It is a premium filter, not a softener.\n\nBest for buyers who want 0.2 micron filtering with large cartridges. It will not stop scale.",
     "specs": [
       "0.2 micron filter",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51cEM+M8mIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0024E6V30?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0024E6V30?tag=rvgearlab-amz-20",
     "description": "Camco's Tastepure 2-pack uses GAC and KDF and is listed to NSF/ANSI 42 and 53 per the listing, with lead-free content certification. Hardness is not addressed anywhere in the listing.\n\nIt improves taste but does nothing for hardness, and it costs less than SpiroPure Inline. It is a sensible companion to VEVOR Softener.\n\nBest as a drinking-water add-on behind a softener. Do not expect scale control.",
     "specs": [
       "NSF/ANSI 42 and 53 listed",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51snwG3Z8zL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0006IX87S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0006IX87S?tag=rvgearlab-amz-20",
     "description": "Camco's single Tastepure filter has the same GAC and KDF media and NSF/ANSI 42 and 53 listing wording as the 2-pack. Hardness is not addressed anywhere in the listing.\n\nIt is cheaper than Camco 2-Pack, but gives no spare. Like the pair it does nothing for hardness.\n\nBest for a short trip when you want one filter. Not a hard water solution.",
     "specs": [
       "NSF/ANSI 42 and 53 listed",

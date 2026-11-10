@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21Izm1Y+gDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B004473UK2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B004473UK2?tag=rvgearlab-amz-20",
     "description": "The Caframo True North is a low-profile electric heater with an adjustable thermostat, three heat and two fan settings and ultra-quiet operation. Its anti-freeze setting turns on automatically when the air drops to 38°F, which suits a parked rig, and its low profile is described as preventing tip-overs.\n\nAgainst Suburban Wall Mount, it is a portable heater rather than a fixed install. Against DREO 30 Inch, it is smaller with three heat steps.\n\nBest for a parked or stored RV that needs freeze-avoidance and a thermostat. The listing gives no wattage, so check the label.",
     "specs": [
       "Thermostat, 3 heat and 2 fan settings",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31zOWSRslEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C4G5FNX9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C4G5FNX9?tag=rvgearlab-amz-20",
     "description": "The Suburban Wall Mount RV Electric Heater is 13 by 5 by 17 inches and under 5 inches thick, with an adjustable thermostat, variable heat and a 6-foot grounded cord for a 120V outlet. The listing gives its draw as 11 amps and 1325 watts.\n\nAgainst Caframo True North, it mounts on the wall and frees floor space but draws a known 11 amps. Against Xtreme 750/1500W, it is a fixed install made for RVs.\n\nBest for owners who want a permanent, slim heater and have the amp budget. Plan around 11 amps on a 30-amp service.",
     "specs": [
       "11 amps, 1325 watts",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41GAom6B1FL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DLXM5WRW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DLXM5WRW?tag=rvgearlab-amz-20",
     "description": "The Xtreme Heaters portable heater is described for boats, cabins and RVs with 750 and 1500W settings and a top air intake that lets it sit against walls. It has a low profile, stable base and tip-over shutoff.\n\nAgainst Caframo True North, it gives a clear 750W step but no thermostat note. Against DREO 30 Inch, it is smaller and simpler.\n\nBest for a movable heater with a 750W low step. Check the actual draw on a 30-amp service.",
     "specs": [
       "750 and 1500W settings",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41cCmQQGlZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D9PXNHL6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D9PXNHL6?tag=rvgearlab-amz-20",
     "description": "The DREO 30 inch tower uses a 308mm PTC element with 120 degree oscillation, five heat levels plus ECO and 3 fan levels, and a stated 25 dB noise level. The listing gives eight protections including V0 flame-retardant material and cool-touch housing.\n\nAgainst Caframo True North, it covers a larger area and offers more levels but gives no wattage. Against Suburban Wall Mount, it is portable and quieter.\n\nBest for a living area where noise matters. Confirm the wattage before planning your load.",
     "specs": [
       "30 inch tower, 120 degree oscillation",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/412yl8BwsGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07XK1R8QT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07XK1R8QT?tag=rvgearlab-amz-20",
     "description": "The Minetom wall-outlet heater is listed at 350 watts and 2.9 amps at 120 volts, with a digital thermostat and a timer. The title says 450W, so the listing contradicts itself.\n\nAgainst Xtreme 750/1500W, it draws about a fifth as much at 2.9 amps. It is a supplement for a bedroom, not a main heater.\n\nBest as a low-load add-on alongside the air conditioner or other heaters. Confirm 350 versus 450W first.",
     "specs": [
       "350W, 2.9 amps per spec",

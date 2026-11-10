@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41TnmP5lzlL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B010T243GU?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B010T243GU?tag=rvgearlab-amz-20",
     "description": "The Generac XD5000E lists 5,500 starting watts from a Yanmar LW series 435cc air-cooled direct injection diesel engine. A 12 gallon tank is said to give 32.4 hours of run time at 50 percent load, total harmonic distortion is 6 percent, and the steel frame has a lifting eye and a 1-1/4 inch steel cradle.\n\nIt has the larger tank and the much longer runtime claim, and it costs well below the Energypac. Against the Energypac, it adds a lifting eye and a stated THD figure.\n\nIt suits large rig owners and remote base camps that want days of runtime from a single fill. The 6 percent THD figure suits tools and most appliances.",
     "specs": [
       "5,500 starting watts, Yanmar LW 435cc",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41+wW-R-YRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FN12DL7K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FN12DL7K?tag=rvgearlab-amz-20",
     "description": "The Energypac is a 6KW diesel generator with a Yanmar L100 9.3HP air-cooled engine, electric start with a recoil backup, an automatic voltage regulator and a 3.5 gallon tank with about 8 hours of run time. Outlets include a 120V duplex, a 120V 30A twist-lock, a 240V 20A twist-lock and a 12V DC receptacle at 8.3A.\n\nIt lists a 6KW rating and a full outlet panel, with a battery and a roll bar skid included. Compared with the Generac, it has a much smaller tank and costs more.\n\nIt suits RV owners who want a 30 amp twist-lock and 240V outlet plus electric start. A key switch and low oil shutdown are listed.",
     "specs": [
       "6KW diesel, Yanmar L100 9.3HP",

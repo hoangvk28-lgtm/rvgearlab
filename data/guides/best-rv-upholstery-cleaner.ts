@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ze2kpK7dL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09J957G32?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09J957G32?tag=rvgearlab-amz-20",
     "description": "RecPro RV Interior Cleaner is a 16.9 oz water-based cleaner made for RV furniture, carpet, seats, leather, vinyl, fabric and headliners. The listing says it is alcohol and ammonia free.\n\nAgainst Quicksilver, it names the full RV interior and headliners. Against Griot's Garage, it is built for RVs rather than cars.\n\nThe strongest all-around choice for a motorhome or trailer with mixed interior materials. It earns its slot for mixed rv interiors.",
     "specs": [
       "16.9 oz water-based",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21CweITqHPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F2N48HTF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F2N48HTF?tag=rvgearlab-amz-20",
     "description": "Quicksilver Vinyl and Upholstery Cleaner is a 32 oz multi cleaner for vinyl seats, clear vinyl windows, leather and carpet. It has no solvents, ammonia or chlorine and is non-abrasive.\n\nCompared with RecPro Interior, it doubles the bottle size and covers clear vinyl windows. Compared with Bissell Woolite, it is a spray for hard and soft surfaces, not a carpet-machine cleaner.\n\nA fit for owners with vinyl seats and clear window panels. It is a natural fit for vinyl-seat rvs.",
     "specs": [
       "32 oz bottle",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51XHwqV+vgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09WPSCLGT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09WPSCLGT?tag=rvgearlab-amz-20",
     "description": "Bissell Woolite Advantage Carpet and Upholstery Cleaner is a 4-pack of cleaner with StainLift technology and extra odor block formulation. It includes a rinseable fabric-safe brush.\n\nAgainst Chemical Guys Foaming, it is built for carpet-cleaning use and stain lifting. Against RecPro Interior, it targets fabric and pet odor more than multi-surface wiping.\n\nGreat for families with pets and carpeted RV floors. Think of it as the pick for pets and carpet.",
     "specs": [
       "4-pack of cleaner",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41jmJeL0AOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B06XPSP2HS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B06XPSP2HS?tag=rvgearlab-amz-20",
     "description": "Chemical Guys Foaming Citrus Fabric and Carpet Cleaner is a 16 oz foam for seats and mats that the listing says works on synthetic and natural fibers. It targets coffee, soda, food and pet stains.\n\nCompared with Chemical Guys Spray, it clings longer as foam. Compared with RecPro Interior, it is a fabric-focused option.\n\nA fit for cloth dinettes and carpet spots. Buyers focused on cloth dinette spots will find it a sensible match.",
     "specs": [
       "16 oz foaming cleaner",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411SkK+oiPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CJ3ZVLVF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CJ3ZVLVF?tag=rvgearlab-amz-20",
     "description": "Chemical Guys Citrus Fabric and Carpet Cleaner Spray is a 16 oz ready-to-use bottle that breaks down dirt and stains on carpets, seats and mats. It applies with a spray and a wipe or brush.\n\nCompared with the foam version, it is a spray for quick touch-ups. Compared with Griot's Garage, it is aimed at fabric, not general interior.\n\nA neat choice for quick spot cleaning. It earns its slot for quick spot cleaning.",
     "specs": [
       "16 oz ready-to-use",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31bjMmh15ML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00F4PB8IY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00F4PB8IY?tag=rvgearlab-amz-20",
     "description": "Griot's Garage Interior Cleaner is a spray for seats, carpet, vinyl, headliners and dashboards. The listing says it leaves no sticky residue.\n\nAgainst Chemical Guys Spray, it covers more surfaces. Against RecPro Interior, it is an automotive formula.\n\nA fit for dashboards and cab seats in a motorhome. It is a natural fit for cab seats and dash.",
     "specs": [
       "Multi-surface interior spray",

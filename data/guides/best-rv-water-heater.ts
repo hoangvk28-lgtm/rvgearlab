@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/510B6zj1X0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01MY7FHKM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01MY7FHKM?tag=rvgearlab-amz-20",
     "description": "The Suburban SW6DE is a 6-gallon RV water heater with direct spark ignition and an electric element, built with a porcelain-lined steel tank. It has a replaceable anode rod and a flue tube design Suburban says improves heat transfer.\n\nAgainst the Suburban SW6D, it adds the electric element so you can heat on campsite or generator power, for a higher price. Against the tankless picks, it stores 6 gallons and does not need a new install if you already have a Suburban.\n\nBest for owners who want a familiar tank unit with dual fuel. Confirm the cutout and gas connection match.",
     "specs": [
       "6 gallon, DSI and electric",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/514TLfNQdfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01NBTVDBC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01NBTVDBC?tag=rvgearlab-amz-20",
     "description": "The Suburban SW6D is a 6-gallon direct spark ignition water heater with a porcelain-lined steel tank and replaceable anode rod. The listing mentions an optional electric element, so confirm which version you receive.\n\nVersus the Suburban SW6DE, it is cheaper and gas-only by title. Versus the tankless units, it holds 6 gallons and heats slower.\n\nBest for a straightforward gas replacement. Verify the electric option before counting on it.",
     "specs": [
       "6 gallon, DSI",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Vwida+QtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BML288XM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BML288XM?tag=rvgearlab-amz-20",
     "description": "The FOGATTI InstaShower 7 is a propane tankless water heater listed at 2.5 gallons per minute and 48,000 BTU, with staged combustion and anti-scale protection. It has a high-altitude mode to 9,800 feet, a preinstalled 150 PSI valve and a 6.6 foot smart remote.\n\nCompared with the InstaShower 8 Plus, it has less BTU and costs less. Compared with the ORBEK, it lists the GPM figure, but the temperature rise is not given.\n\nBest for owners converting from a tank with three door options. Confirm the cutout size.",
     "specs": [
       "2.5 GPM, 48,000 BTU",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41HhW5iNu2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B091F7HGPK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B091F7HGPK?tag=rvgearlab-amz-20",
     "description": "The FOGATTI InstaShower 8 Plus is a propane, 12V DC tankless water heater with 55,000 BTU, listed for altitudes up to 9,800 feet. The opening is 13 by 13 inches and it is said to replace all RV water heaters.\n\nVersus the InstaShower 7, it adds BTU and costs more. Versus the MapleGrace, it costs more but gives altitude and fit details.\n\nBest for large families wanting more output. Check the cutout and gas supply before buying.",
     "specs": [
       "55,000 BTU propane",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41l0bDLT7WL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FR8NDM36?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FR8NDM36?tag=rvgearlab-amz-20",
     "description": "The ORBEK RV Tankless Water Heater is a propane unit with a 60,000 BTU burner and 12V DC power. It lists oxygen-free copper heat exchangers, brushless DC fans, a high-altitude mode and optional black or white door panels.\n\nCompared with the FOGATTI InstaShower 8 Plus, it states more BTU at a lower price. Compared with the MapleGrace, it lists a higher BTU but gives less safety detail in the listing.\n\nBest for buyers who want high BTU on a budget. Verify the cutout before buying.",
     "specs": [
       "60,000 BTU propane",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51FhXyxFjxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HBQCYSHQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HBQCYSHQ?tag=rvgearlab-amz-20",
     "description": "The MapleGrace is a 55,000 BTU propane tankless water heater that is CSA certified, with a digital display and touch panel. It has dual outlets, including an exterior outlet for outdoor use.\n\nVersus the ORBEK, it states CSA certification, which is a plus for safety, and costs less. Versus the FOGATTI InstaShower 7, it lists higher BTU.\n\nBest for budget tankless buyers who want a CSA mark. Confirm the cutout and 12V needs.",
     "specs": [
       "55,000 BTU, CSA certified",

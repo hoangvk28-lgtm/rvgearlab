@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31qqGTxO4DL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B000BQWHDQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B000BQWHDQ?tag=rvgearlab-amz-20",
     "description": "The Camco Easy Slip elbow and 4-in-1 adapter has a larger inside diameter for faster dumping. Its listing says it fits any standard 3 inch slip or 3, 3.5 or 4 inch threaded pipe, uses patented Spin-Lock technology and separates easily for storage.\n\nIt names the sizes and thread types. It costs about the same as other Camco parts.\n\nIt fits owners who visit many dump stations. On universal rv sewer adapter, varied dump stations is where it fits.",
     "specs": [
       "Easy Slip elbow, 4-in-1",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41okWmxr2VL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G4MY4N48?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G4MY4N48?tag=rvgearlab-amz-20",
     "description": "The TYIGAD 3 inch sewer gate valve is a backup for leaky RV sewer valves with a built-in clear adapter. Its listing says it fits 3 inch sewer hose fittings and lets you watch flow in real time.\n\nIt is a valve, not just an adapter. It costs more than the Camco elbow.\n\nIt fits owners with a leaking valve. With universal rv sewer adapter, leaky valve fix fits it best.",
     "specs": [
       "3 in sewer gate valve",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51X8VRSwY1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0006N5S6C?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0006N5S6C?tag=rvgearlab-amz-20",
     "description": "The Valterra T05-2285VP converts standard 3 inch bayonet to a 3 inch Thetford bayonet. Its listing says it allows standard waste valve fittings to be used on Thetford valves.\n\nIt solves a brand mismatch. It costs more than Camco's seal.\n\nIt fits owners with a Thetford valve. Under universal rv sewer adapter, expect thetford valves to suit it.",
     "specs": [
       "3 in bayonet x Thetford bayonet",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51z6oz10WeL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0002F676O?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0002F676O?tag=rvgearlab-amz-20",
     "description": "The Camco Easy Slip water seal is a gray sewer fitting with model number 39322. Its listing names 4.65 inch height and 4 inch length and width dimensions.\n\nIt has little detail beyond dimensions. It costs about the same as the elbow.\n\nIt fits owners replacing an Easy Slip seal. With universal rv sewer adapter, easy Slip replacement fits it best.",
     "specs": [
       "Easy Slip water seal",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31JHZd1NDDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B000HDIBDI?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B000HDIBDI?tag=rvgearlab-amz-20",
     "description": "The Valterra T1020-5VP lets a 1/2 or 5/8 inch waste water hose connect to gray water sewer hookups. Its listing says it uses a 3/4 inch garden hose connection with a plug and works with bayonet sewer fittings.\n\nIt is for small hoses. It costs a bit less than Camco's seal.\n\nIt fits owners who drain gray water with a small hose. In universal rv sewer adapter, gray water draining is its lane.",
     "specs": [
       "Gray water drain adapter",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/315+DqfWhpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BKQZZM5B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BKQZZM5B?tag=rvgearlab-amz-20",
     "description": "The Gopayia eccentric tank reducer converts a 3 inch tank outlet to a 1 1/2 inch opening for a gray water tank. Its listing says the 3 inch spigot mounts in the tank outlet and the hub slides over sewer pipe.\n\nIt is an ABS plumbing part. It is the cheapest here.\n\nIt fits owners replacing a gray tank outlet. On universal rv sewer adapter, gray tank outlets is where it fits.",
     "specs": [
       "Eccentric tank reducer",

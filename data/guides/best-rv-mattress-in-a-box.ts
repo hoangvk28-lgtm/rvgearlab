@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41OvU3Ch-ML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GZ2HZP39?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GZ2HZP39?tag=rvgearlab-amz-20",
     "description": "The Grbsy Upgraded 12 inch is a 60 by 75 inch RV short queen hybrid in a box with cooling gel memory foam, 7 zone pocketed coils and a Euro top. It comes with a 365 night trial and a 10 year warranty.\n\nIt undercuts the other Grbsy on price while keeping motion isolation from more than 1,000 pocket springs and reinforced edges. It suits couples who share a small bed and want hybrid support.",
     "specs": [
       "12 inch hybrid, 7 zone coils",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/61vhMwS8sUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GZN1RQY6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GZN1RQY6?tag=rvgearlab-amz-20",
     "description": "The Grbsy 12 inch short queen is a hybrid with 7 ergonomic zones, over 1,000 individually pocketed coils and gel-cooled memory foam. It carries a 365 night trial.\n\nIt matches the Upgraded model on construction and adds medium firm, targeted lumbar support. It suits sleepers who want pressure relief after long drives.",
     "specs": [
       "12 inch hybrid",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410-kiEPiRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FP2ZFYQ3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FP2ZFYQ3?tag=rvgearlab-amz-20",
     "description": "The Celestial Sleep 8 inch RV short queen is an all-foam mattress made in the USA with cooling gel bead memory foam, a comfort layer and a base layer. It holds CertiPUR-US and OEKO-TEX certifications and unboxes and unrolls for easy setup.\n\nIt is thinner and lighter than the Grbsy hybrids, which makes it easier to carry through a tight RV door. It suits owners who want a lighter all-foam mattress.",
     "specs": [
       "8 inch gel bead memory foam",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41whhCXcJiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CKYTL6WK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CKYTL6WK?tag=rvgearlab-amz-20",
     "description": "The Zinus 8 inch Short Queen Foam and Spring is a medium feel hybrid with heavy-gauge interconnected steel coils and CertiPUR-US foam under an OEKO-TEX cover. It arrives in a smaller box and carries a 10 year limited warranty.\n\nIt costs less than the Grbsy hybrids and Celestial Sleep, with traditional steel coil support. It suits buyers who want spring support at a lower price.",
     "specs": [
       "8 inch foam and spring",

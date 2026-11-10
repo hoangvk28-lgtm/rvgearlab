@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/614mYNhhsqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07Y5TKMZ4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07Y5TKMZ4?tag=rvgearlab-amz-20",
     "description": "The SUNER POWER 20W is a 12V solar trickle charger and maintainer with built-in MPPT, a 3-stage Bulk, Absorption, Float algorithm and overcharge, over-discharge and over-voltage protection. At $85.95 it is the most capable pick, and the MPPT controller squeezes more charge from weak light than basic PWM units.\n\nIt costs $25.96 more than the SUNER 12W and $29.00 more than the Voltset 30W while giving less panel wattage than the Voltset. You are paying for the MPPT controller. Pick this if your RV sits in partial shade or you want the most efficient small controller. Caveat: it is the priciest here, and the excerpt does not give panel dimensions.",
     "specs": [
       "20W panel, 12V",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51b95lxxhWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C2H7BVY6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C2H7BVY6?tag=rvgearlab-amz-20",
     "description": "The Voltset 30W has an IP67 fully potted smart controller, A+ monocrystalline cells, 3-stage charging and overcharge, deep discharge and short circuit protection. At $56.95 it offers the largest panel for the price and the best moisture resistance.\n\nIt is $29.00 below the SUNER 20W and $3.04 less than the SUNER 12W but 10W bigger than the SUNER 20W. You trade the MPPT controller for more panel. Pick this if you want the most watts and a waterproof controller for outdoor storage. Caveat: panel size is larger to mount, and the excerpt gives no weight.",
     "specs": [
       "30W monocrystalline panel",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51APW1vTqWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08K2T4RPH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08K2T4RPH?tag=rvgearlab-amz-20",
     "description": "The SUNER POWER 12W is a waterproof 12V maintainer with the same Ultra-Smart MPPT and 3-stage algorithm as the 20W. At $59.99 it offers MPPT control in a smaller panel.\n\nIt costs $25.96 less than the SUNER 20W and $3.04 more than the Voltset 30W. You get MPPT but only 12W of panel. Pick this if you have one small battery and want the MPPT at a lower price. Caveat: 12W is too small for a bank with parasitic drains.",
     "specs": [
       "12W panel, waterproof",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/510tqTMPy-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07TNFPFZ8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07TNFPFZ8?tag=rvgearlab-amz-20",
     "description": "The POWOXI 9W has a glass-faced panel in an ABS and PC frame with an internal protection controller, listed for car, marine and trailer use. At $49.99 it is a simple dash or tongue maintainer.\n\nIt costs $10.00 more than the POWOXI 7.5W and $10.00 less than the SUNER 12W. You get 1.5W more panel. Pick this if you want a basic set-it-and-forget-it unit. Caveat: no MPPT is listed, so output in poor light is lower.",
     "specs": [
       "9W glass panel",
@@ -133,7 +133,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51qeGC-FcdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07JLWFPX6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07JLWFPX6?tag=rvgearlab-amz-20",
     "description": "The POWOXI 7.5W is the smaller sibling, with the same glass panel, rigid frame and protection controller. At $39.99 it is the lowest priced unit with a glass panel here.\n\nIt costs $10.00 less than the POWOXI 9W and $20.00 less than the SUNER 12W. It is the minimum viable maintainer. Pick this if you only need to offset self-discharge on a small battery. Caveat: 7.5W cannot keep up with a parasitic drain.",
     "specs": [
       "7.5W glass panel",

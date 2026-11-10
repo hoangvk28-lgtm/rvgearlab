@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31CbZOTBS+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B007JTLQHQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B007JTLQHQ?tag=rvgearlab-amz-20",
     "description": "The TETON Junior is a youth bag with a 20 degree label that comes in either a taffeta or canvas outer. Behind its two-way zippers runs a draft tube the length of the bag, and the lining hides a pocket for a flashlight or phone. A stuff sack and hang loops finish the kit.\n\nNo other bag here is rated for real cold, and the draft tube blocks air along the zipper in a way the other two never describe. Its price is higher than both, which is what the lower rating costs.\n\nA strong choice for kids who camp in spring and fall. It also works for cold sleepovers in a drafty cabin.",
     "specs": [
       "20 degree rated kids bag",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4112E3ObzEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CVSDQXJB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CVSDQXJB?tag=rvgearlab-amz-20",
     "description": "Coleman rates this kids' bag to 50F for ages 6 and older, up to 5 ft tall. It glows in the dark, has an interior flashlight pocket and a no-snag zipper.\n\nIt has the clearest age and height fit of the three, and the glow design helps a child find the zipper at night. It is a warm-weather bag, so it sits well below the TETON Junior 20F in cold range.\n\nGood for school-age kids who want a fun bag for sleepovers and warm camps. A liner or pad covers cooler mornings.",
     "specs": [
       "Rated to 50F",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Okhm6cC9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CL3B2DX3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CL3B2DX3?tag=rvgearlab-amz-20",
     "description": "For the HTMEYBG, the seller gives a 50 to 68F comfort zone and a wider 41 to 77F usable span. The body runs 86.6 by 31.5 inches at roughly 3.3 lb, with a nylon outer, a pongee inner and a bottom zipper.\n\nCheapest of the group, it is also the only one that gives a weight and a size. It opens fully into a blanket for picnics, which the TETON Junior 20F and Coleman Glow Kids 50F do not mention.\n\nBest for teens and older youth who want a budget bag that doubles as a blanket. The listing says it suits teenagers and adults.",
     "specs": [
       "Comfort 50 to 68F, limit 41F",

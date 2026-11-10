@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51oxxXzHvsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01HPHR30U?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01HPHR30U?tag=rvgearlab-amz-20",
     "description": "Two 10 foot RhinoFLEX sections arrive with ends already attached, alongside a clear elbow with 4-in-1 adapter and four sewer caps in this 20 ft Camco kit. Its 23 mil polyolefin wall carries a steel wire core and the elbow fits 3 inch slip plus 3, 3.5 and 4 inch NPT inlets.\n\nIt costs more than the DUMPMAN and Amazon Basics kits because of the wire core and brand support. Compared with the single-hose Camco 20 Ft Standard, it gives a stronger wall and a full accessory set.\n\nBest for owners who dump regularly and want a kit made in the USA. A dependable choice for travel trailers and fifth wheels.",
     "specs": [
       "2 x 10 ft, 23 mil polyolefin",
@@ -53,7 +53,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51j2vs1yHuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F23K8ZKK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F23K8ZKK?tag=rvgearlab-amz-20",
     "description": "The SheeChung 20 ft kit uses high-strength TPE with a 24 mil wall that is listed as returning to shape after being crushed. Four-prong swivel bayonets lock each end, and a transparent 90 degree adapter is aimed at 3 inch slip and threaded pipe.\n\nIt runs lower in price than the Camco and lists crush recovery directly, which the Amazon Basics listing does not. The clear adapter is the feature that lets you see when draining has finished.\n\nBest for sites with gravel or vehicle traffic near the hose. A good midpoint between budget and premium.",
     "specs": [
       "20 ft TPE, 24 mil wall",
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Z1inPKJ-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F651C4GZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F651C4GZ?tag=rvgearlab-amz-20",
     "description": "Twenty feet comes from a pair of 10 foot hoses in the Amazon Basics box, which also holds four covers and a 90 degree four-in-one ground converter. It is a clean package of the parts most campers need.\n\nIt sits under the Camco RhinoFLEX 20 Ft in cost and gives the same two-section layout. The listing is shorter than the DUMPMAN on material detail, so it is the plainest option here.\n\nBest for buyers who want a no-surprises kit from a known retail label. A decent value for casual campers.",
     "specs": [
       "2 x 10 ft, four covers",
@@ -107,7 +107,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51qVA-86IbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D46F7ZKD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D46F7ZKD?tag=rvgearlab-amz-20",
     "description": "The DUMPMAN 20 ft kit has a one-piece hose with no mid-hose joint, which is listed as seamless and leak-free. It is TPE with a 24 mil wall, and its clear 90 degree adapter fits four inlet sizes.\n\nCompared with the two-section Camco and Amazon Basics kits, the single piece removes a joint that could drip. It undercuts the SheeChung 20 Ft Kit by a small margin.\n\nBest for owners who want extended reach without a middle coupling. A strong value for dumping from a distance.",
     "specs": [
       "20 ft one piece, 24 mil TPE",
@@ -134,7 +134,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51dmc-TdHGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GC3HTP2F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GC3HTP2F?tag=rvgearlab-amz-20",
     "description": "The SheeChung 15 ft kit is a 24 mil TPE hose with crush recovery and a clear 90 degree adapter. It keeps the 4-prong swivel fittings of its 20 foot sibling.\n\nAt a lower price than the SheeChung 20 Ft Kit, it suits sites where a 15 foot run is plenty. It is the shortest and most compact pick in this guide.\n\nBest for owners whose dump point is closer than they first thought. A lower-cost hose for tight pads.",
     "specs": [
       "15 ft TPE, 24 mil wall",
@@ -161,7 +161,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Ve1W39c7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B000BUOSCU?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B000BUOSCU?tag=rvgearlab-amz-20",
     "description": "The Camco 20 ft standard hose is a single 20 foot hose with a 12 mil HTS vinyl wall, three wraps of vinyl and a steel wire core. It has a 3 inch opening and works with threaded and slip fittings.\n\nIt costs less than half the price of the RhinoFLEX 20 Ft and leaves out the elbow and caps. The thin wall is the trade that makes this the lowest cost pick.\n\nBest for occasional campers who need 20 feet of hose and already own an elbow. A cheap, usable choice for a second hose.",
     "specs": [
       "20 ft, 12 mil HTS vinyl",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Z1BrNZjFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DGFQ4YZS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DGFQ4YZS?tag=rvgearlab-amz-20",
     "description": "CROSSHIP packs a 210T parachute nylon hammock with a B3 mesh net, a triangle rain fly and a hammock underquilt in one set. The underquilt has a 20D ripstop nylon shell with DWR coating, a 300T polyester lining and 700 g of polyester fill, and it is designed not to slide.\n\nIt is the only pick here with an underquilt and a rain fly, which is why it costs nearly five times as much as the cheapest hammock. The Sunyear adds a net and fly without the quilt, so the CROSSHIP covers cold nights that the Sunyear cannot.\n\nIt suits campers who want one box with everything for a three-season hang. It saves buying the net, tarp and quilt separately.",
     "specs": [
       "Hammock, net, fly and underquilt",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41oHC2bwtcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09PL34LYF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09PL34LYF?tag=rvgearlab-amz-20",
     "description": "The Sunyear hammock comes with a net and a rain fly tarp, in two sizes: 118 by 78 inches rated at 600 lb and 106 by 55 inches rated at 500 lb. It uses Oxford material and two adjustable ropes with hooks.\n\nIt costs about $4 less than the CROSSHIP and leaves out the underquilt, which keeps weight lower. The 118 inch size is the longest in the group, so it suits taller sleepers who find the 9 foot hammocks short.\n\nIt suits tall campers and anyone who wants a net and fly without paying for an underquilt. Pick the larger size for height.",
     "specs": [
       "118 x 78 inch, 600 lb",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/516RoZ+5OcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01E3EHRVS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01E3EHRVS?tag=rvgearlab-amz-20",
     "description": "Wise Owl weighs 16 oz for a 9 by 4.5 foot single with triple-stitched nylon seams. The bag adds 9 foot tree straps, carabiners and a 5-loop adjustment, and the hammock is listed at up to 400 lb.\n\nIt costs less than half the Sunyear and weighs a fraction of the two sets. It has no net or fly, so it fits dry nights or sites where you already carry a tarp.\n\nIt suits hikers and solo backpackers who want a light hammock and add gear as needed. It folds smaller than an eggplant.",
     "specs": [
       "9 x 4.5 ft, triple stitching",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41gbH1GriRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F1BMXWQX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F1BMXWQX?tag=rvgearlab-amz-20",
     "description": "This hammock has an integrated mesh net, heavy-duty nylon rated to 400 lb and an attached stuff sack. It comes with carabiners and tree-friendly straps for one adult.\n\nIt costs about $17, a quarter of the CROSSHIP, and gives a bug-proof option for solo campers. It has no fly or quilt, and the 400 lb rating is the lowest in the set.\n\nIt suits solo campers who only need bug protection. Pair it with your own tarp.",
     "specs": [
       "400 lb nylon, integrated net",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51uRQURQwnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DR8L2DWG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DR8L2DWG?tag=rvgearlab-amz-20",
     "description": "The PUPTILY is a parachute-nylon hammock sold in single and double sizes. It carries a 600 lb rating and two tree straps.\n\nIt is the cheapest pick, at roughly a fifth of the price of the sets. It has no net, fly or quilt, so it fits warm, dry nights.\n\nIt suits first-timers and festival campers who want to try a hammock. Choose the double for two.",
     "specs": [
       "Up to 600 lb, single or double",

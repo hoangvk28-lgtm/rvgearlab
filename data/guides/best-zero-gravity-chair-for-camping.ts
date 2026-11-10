@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41AfAuv6EHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GTQBHC8J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GTQBHC8J?tag=rvgearlab-amz-20",
     "description": "The NEWBULIG Recliner has a heavy-duty metal frame that supports up to 440 lbs, the highest rating in this group. It adjusts between 90 and 170 degrees on replaceable elastic cords and includes a removable cushion and cup holder trays.\n\nNext to the Best Choice Products chair at 250 lbs, the NEWBULIG roughly doubles the capacity margin for larger campers. The removable breathable cushion also lets you strip it off for hot afternoons, a flexibility the Amazon Basics pillow does not offer. It is the strongest fit for bigger or heavier campers who want a recliner that holds up to a full season of use.",
     "specs": [
       "440 lb capacity",
@@ -56,7 +56,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41dGg++EH3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GQSS15G2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GQSS15G2?tag=rvgearlab-amz-20",
     "description": "The Suteck Canopy has a built-in canopy for sun and light rain protection over a reinforced steel frame with 40mm (1.6 inch) thick tubing. A fourth-generation aluminum alloy locking mechanism holds the recline at your chosen angle.\n\nThe canopy is what separates it from the NEWBULIG and Sweetcrispy sets, which leave you in direct sun. Ergonomic contours are meant to relieve pressure on the shoulders and back during long sits. It suits campsites with little natural shade, like desert and open-field parks, where you want your own roof over the chair.",
     "specs": [
       "Built-in canopy",
@@ -86,7 +86,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41M3MI1D14L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H4LH11QH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H4LH11QH?tag=rvgearlab-amz-20",
     "description": "The Sweetcrispy Set comes as a pair of zero gravity chairs with cup holder trays and a durable metal frame that holds up to 330 lbs. Each chair adjusts between 0 and 160 degrees on replaceable elastic cords and the listing gives a folded weight of 15.43 lbs.\n\nCompared with buying two Best Choice Products chairs, this set gives a higher capacity at 330 lbs and a wider recline range. The wear-resistant, easy-clean fabric is designed to shrug off dirt and campsite scuffs. It is the best value for couples who need two matching chairs in one purchase.",
     "specs": [
       "Set of 2 chairs",
@@ -116,7 +116,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31AXgvn0WhL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B071173FS8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B071173FS8?tag=rvgearlab-amz-20",
     "description": "The Amazon Basics Lounger has a powder-coated steel frame with a double-bungee support system and weather-resistant Textilene fabric, rated for 300 lbs. A cushioned pillow gives extra headrest comfort.\n\nWhere the Best Choice Products chair is rated at 250 lbs, the Amazon Basics steps up to 300 lbs and adds the pillow. Contoured armrests and a smooth reclining mechanism take it from upright to legs raised. It is a good choice for campers who want a simple, plain chair with a head pillow and mid-tier capacity.",
     "specs": [
       "300 lb capacity",
@@ -146,7 +146,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Vf4e22LGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B003KK3C52?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B003KK3C52?tag=rvgearlab-amz-20",
     "description": "The Best Choice Recliner has a lockable reclining system with removable elastic cords and a detachable tray with two cup holders, a phone holder and a tablet holder. It is rated for 250 lbs and uses flexible, low-wear Textilene fabric.\n\nIt carries a lower weight rating than the Amazon Basics Lounger at 300 lbs, in return for a tray that holds drinks, a phone and a tablet. That makes it the more practical chair for card games or movie nights. It is the pick for lighter campers who want a single chair with a tray at a lower budget.",
     "specs": [
       "250 lb capacity",

@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31h0+gc8VwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07RCB3M1P?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07RCB3M1P?tag=rvgearlab-amz-20",
     "description": "The ONENESS 369 Galvanized is a 2-pack of magnesium rods, 9.25 inches long with a 3/4 inch NPT thread. Its galvanized nut is aimed at mineral-rich water, and the listing includes a sizing guide that separates Suburban from Atwood models.\n\nAgainst the ONENESS 369 Black Nut, the only difference is the galvanized nut instead of bare steel. Against Lrichy, it skips the socket wrench and Teflon tape in the box and focuses on the nut choice.\n\nBest for campers who fill from hard or mineral-heavy water and want a spare rod on hand. The sizing guide makes it easy to match the right rod to the heater.",
     "specs": [
       "9.25 in, 3/4 inch NPT",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41vL+ag+j-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D9WRQH9N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D9WRQH9N?tag=rvgearlab-amz-20",
     "description": "The ONENESS 369 Black Nut is the same 2-pack of 9.25 inch, 3/4 inch NPT magnesium rods, with a bare black steel nut. The listing says that nut raises the electrochemical pull of the AZ31 magnesium core and suits soft water.\n\nCompared with the ONENESS 369 Galvanized, it is the cheaper version and reacts more strongly because the nut is bare steel. Compared with ARL Outdoors, it ships two rods for a similar spend.\n\nBest for soft-water campers who want a quick-acting anode and a spare. A smart choice when your fill water is low in minerals.",
     "specs": [
       "9.25 in, 3/4 inch NPT",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41dZjYwaoVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F9WWVNRH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F9WWVNRH?tag=rvgearlab-amz-20",
     "description": "The Lrichy is a 2-pack of AZ31B magnesium rods, 9.25 inches long and 3/4 inch NPT, with a chrome-plated rust-resistant hex head. It ships with a quick-release socket wrench and Teflon tape, and the listing offers a 2 year warranty.\n\nAgainst the ONENESS packs, it adds the wrench and tape and a stated alloy grade. Against the jixsloft and Skoutag kits, it offers rods and tools without a flush wand.\n\nBest for first-time DIY replacers who want the socket and tape in the same box. The listing names Suburban SW series heaters.",
     "specs": [
       "AZ31B magnesium, 95.5% Mg",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Z-FsT7vlL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BM3VLH2B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BM3VLH2B?tag=rvgearlab-amz-20",
     "description": "The Skoutag kit bundles two AZ63 magnesium rods, 9.25 inches and 3/4 inch NPT, with a stainless steel flush wand and an element socket. The wand includes a 1/2 inch quick connect adapter and a 3/4 inch garden hose adapter.\n\nAgainst the Lrichy, it adds the flush wand that lifts sediment from the bottom of the heater. Against the jixsloft kit, it lists a named alloy and a stainless wand.\n\nBest for owners who want to flush sediment and replace the rod in the same visit. The listing notes compatibility with Suburban and Mor-Flo heaters.",
     "specs": [
       "2 rods, AZ63 magnesium",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31bGgwqDEkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BM3MSHY3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BM3MSHY3?tag=rvgearlab-amz-20",
     "description": "The jixsloft kit has two 9.25 inch, 3/4 inch NPT rods, a flush wand with a curved stainless tip, Teflon tape and a hex sleeve. A double hex socket helps with removal, and the wand has 1/2 inch quick connect and 3/4 inch hose adapters.\n\nCompared with the Skoutag kit, it is the cheaper of the two wand kits and adds Teflon tape. Compared with the rod-only packs, it replaces your own tools with the box contents.\n\nBest for budget DIYers who want a flush wand included. A practical all-in-one for a first service.",
     "specs": [
       "2 rods, flush wand, tape",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/3132pR7sj6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B075MNVPSX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B075MNVPSX?tag=rvgearlab-amz-20",
     "description": "The ARL Outdoors rod is a magnesium rod measuring 9.25 inches with a 3/4 inch NPT thread, using a 1-1/16 inch socket. The listing names Suburban and Mor-Flo 6 gallon heaters.\n\nAgainst the ONENESS 2-packs, it is the cheapest per order and is sold as a single rod. Against the kits, it carries no tools at all.\n\nBest for owners with a socket already who just need one rod. A plain replacement at the lowest price.",
     "specs": [
       "9.25 in, 3/4 inch NPT",

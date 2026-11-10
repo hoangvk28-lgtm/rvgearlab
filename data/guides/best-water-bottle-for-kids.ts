@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21F1NrZHitL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CRCB4FTM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CRCB4FTM?tag=rvgearlab-amz-20",
     "description": "The Owala FreeSip Kids is a 16 oz insulated stainless steel bottle with a patented FreeSip spout that you can sip through a built-in straw or tilt back to swig. A push-button lid keeps the spout clean, and a carry loop doubles as a lock.\n\nIt offers two drinking styles, which the other lids do not. It costs the most of the five.\n\nIt suits school-age kids who want a bottle they enjoy using. The lock loop keeps the lid closed in a bag.",
     "specs": [
       "16 oz insulated stainless steel",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41PBusNU0nL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DPQPRWNC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DPQPRWNC?tag=rvgearlab-amz-20",
     "description": "The GoKEDA set has two 18 oz 304 stainless steel straw bottles with dust-proof lids and fun stickers for decorating. The lid opens and closes easily and keeps the straw clean.\n\nIt gives you two bottles for about the price of one Owala. The stickers let kids personalize them.\n\nIt suits families with two kids or parents who want a spare. The 304 steel is food-grade.",
     "specs": [
       "Two 18 oz 304 steel bottles",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31v8NJpMm5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DRCDRFJV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DRCDRFJV?tag=rvgearlab-amz-20",
     "description": "The OLDLEY is a 20 oz stainless steel insulated bottle with a straw lid, rated on the listing for 12 hours hot and 24 hours cold. The lid is leak-proof for backpacks.\n\nIt holds the most of the five and states hot and cold times. It costs half of the Owala.\n\nIt suits older kids who need a large bottle for a school day or a hike. The leak-proof lid suits backpacks.",
     "specs": [
       "20 oz stainless, 24 hours cold",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41q5WKYYlSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0872T6NH2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0872T6NH2?tag=rvgearlab-amz-20",
     "description": "The Contigo Aubrey set has two 14 oz BPA-free plastic bottles with a pop-up straw and a spill-proof valve. The easy-clean lid removes areas where dirt could hide, and both parts go in the top rack.\n\nIt is the only plastic option in a pair and the easiest to clean here. It is not insulated.\n\nIt suits younger kids who need light bottles. The pop-up straw works even when open.",
     "specs": [
       "Two 14 oz BPA-free bottles",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31D4IfcZ3mL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D9LY1PFN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D9LY1PFN?tag=rvgearlab-amz-20",
     "description": "The Fijinhom is a 12 oz 304 stainless steel vacuum insulated bottle with a leak-proof closure. The listing says it keeps drinks hot for up to 12 hours.\n\nIt is the smallest bottle here and cheaper than the GoKEDA. It suits small hands.\n\nIt suits toddlers and preschoolers. The 12 oz size fits a small bag.",
     "specs": [
       "12 oz 304 stainless steel",

@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41IG6FoWNWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BK2XTZ2S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BK2XTZ2S?tag=rvgearlab-amz-20",
     "description": "The WEN 56450iX has a 212cc engine producing 4500 surge watts and 3500 rated watts, with 58 dBA at quarter load measured at 22 feet. It has onboard wheels and a handle, two three-prong 120V receptacles, one RV-ready TT-30R receptacle, one 12V DC receptacle, one 5V USB port, a digital load and fuel display, fuel shutoff and the Watchdog carbon monoxide shutdown sensor.\n\nIt ranks first because it lists the RV outlet, the CO sensor and a stated quiet figure at a mid price. It costs $100.20 less than the WEN 56455i, which adds electric start and a stated runtime but not the CO sensor, and $120.51 less than the Champion. It costs $259.01 more than the BILT HARD dual fuel, which gives up the stated brand-level documentation for propane flexibility.\n\nPick it for a 30A trailer or motorhome where the generator will be near the camp. The caveat is that 58 dBA is at quarter load and 22 feet, so it will be louder with an air conditioner running, and the listing excerpt does not give weight.",
     "specs": [
       "3500W rated, 4500W surge",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41G43h8vW5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DN69P3Z9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DN69P3Z9?tag=rvgearlab-amz-20",
     "description": "The BILT HARD dual fuel runs a 141cc OHV engine on gasoline at 4500 peak and 3500 rated watts, or on propane at 4150 peak and 3200 rated watts. It has a 120V 20A duplex outlet, a 120V 30A TT-30R outlet, dual USB ports, total harmonic distortion under 3 percent, 58 dBA at 23 feet in a fully enclosed design, an Eco mode, parallel capability and a CO sensor.\n\nIt ranks second because it adds propane at $469.99, which is $259.01 less than the WEN 56450iX and $92.00 more than the Genkins. Switching to propane costs 300 running watts and 350 starting watts, about 9 percent less running power. Propane stores for years and burns cleaner, so it suits emergency backup.\n\nPick it if you want fuel flexibility and a TT-30R outlet without spending WEN or Champion money. The caveat is that the excerpt gives no weight, runtime or warranty figures, and a smaller 141cc engine than the WEN means less reserve headroom at full load.",
     "specs": [
       "3500W gas, 3200W propane",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41nMpppy0uL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CPZLCDMV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CPZLCDMV?tag=rvgearlab-amz-20",
     "description": "The Champion lists 4500 starting and 3500 running watts, 61 dBA, up to 14 hours of runtime on 2.3 gallons of gasoline, a wireless key fob that starts and stops it from up to 80 feet, CO Shield automatic shutoff, an Economy Mode, a display of voltage, frequency and hours, an EZ Start Dial, and an optional parallel kit with another 2800W or larger Champion inverter. Warranty is three years with free lifetime technical support.\n\nIt ranks third on price. It costs $20.31 more than the WEN 56455i and $120.51 more than the WEN 56450iX, which makes it the most expensive pick, and the excerpt does not name an RV outlet. What you pay for is the remote start, the stated runtime and CO Shield, plus the support. Its 61 dBA is 3 decibels above the WEN iX figure, though the load conditions are not given.\n\nPick it if you start and stop the generator from inside the RV, or want the longest stated runtime. The caveat is the 14-hour figure has no stated load, so expect much shorter at air conditioner loads, and you may need an adapter if no TT-30R outlet is on the panel.",
     "specs": [
       "3500W rated, 4500W start",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/414-2Ma26xL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BKR6VRM9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BKR6VRM9?tag=rvgearlab-amz-20",
     "description": "The WEN 56455i has a 212cc engine producing 4500 surge and 3500 rated watts, with half-load runtime of up to 8.5 hours, a 2.2-gallon tank, keyless electric start with a recoil backup, fuel shutoff, onboard wheels and a handle, two three-prong 120V receptacles, one RV-ready NEMA TT-30R receptacle, a 12V DC receptacle and two 5V USB ports.\n\nIt ranks fourth. It costs $100.20 more than the 56450iX, which adds a CO sensor and states 58 dBA but has no electric start, and $20.31 less than the Champion, which has remote start but no named RV outlet. Its 8.5 hours at half load is a more usable, documented figure than the Champion's unqualified 14 hours.\n\nPick it if you want a turn-key start and a stated TT-30R outlet, and you will pair it with a separate CO alarm. The caveat is no stated carbon monoxide sensor in the listing, a higher price than the iX and no noise figure.",
     "specs": [
       "3500W rated, 4500W surge",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/412Q0BCn8yL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DNL6MSW2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DNL6MSW2?tag=rvgearlab-amz-20",
     "description": "The Genkins lists 4500 peak and 3800 rated watts from a 174cc four-stroke OHV engine, total harmonic distortion at or below 3 percent, a 1.9-gallon tank for up to 8 hours at half load, 63 dB at 23 feet, a weight of 63 pounds, EPA compliance, low-oil shutdown, overload protection, and a two-year warranty.\n\nIt ranks fifth. It is $377.99, $351.01 less than the WEN 56450iX and $32.59 more than the AMERISUN, and it is the only budget pick that states weight, noise and runtime together. Its 3800W running rating is 200W above the 3600W a 30A outlet can pass, so the extra is not usable through an RV inlet. It lists no TT-30R outlet or CO sensor.\n\nPick it if the lightest stated weight at a budget price matters and you will use an adapter. The caveat is no named RV outlet or CO shutoff, and 63 dB is the loudest stated figure here.",
     "specs": [
       "3800W rated, 4500W peak",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51oVEOCQboL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DQ14SVXR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DQ14SVXR?tag=rvgearlab-amz-20",
     "description": "The AMERISUN lists 4500 peak and 3800 running watts, built-in carbon monoxide detection that shuts it down, a 120V 30A TT-30R RV outlet plus household outlets and a 12V DC output, a digital display of voltage, frequency and runtime, an Eco mode that gives up to 6.5 hours at 50 percent load, parallel readiness and an open-frame design that weighs 68 pounds.\n\nIt ranks last because open-frame designs are typically louder, and the excerpt gives no decibel figure. At $345.40 it is the cheapest pick, $32.59 below the Genkins and $504.11 below the Champion, yet it is the only budget model that names both the TT-30R outlet and CO alert. Its 3800W running rating is above a 30A outlet's 3600W limit.\n\nPick it for the lowest price with a 30A outlet and CO shutoff when noise is a secondary concern. The caveat is no stated noise level or warranty, and an open frame is rougher on the ears at the campsite.",
     "specs": [
       "3800W rated, 4500W peak",

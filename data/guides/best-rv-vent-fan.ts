@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41NjfZI5UhL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D2HC4LG1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D2HC4LG1?tag=rvgearlab-amz-20",
     "description": "The Kohree 14in Fan moves up to 934 CFM and offers 10 adjustable speeds with an ultra-silent motor. It fits standard 14 by 14 inch roof openings and includes extra sealing tape and screws.\n\nThe auto-lid feature opens and closes a UV-proof lid by power, and a rain sensor closes it when drops fall. That automation sets it apart from the OUTPRIZE Remote, which has a rain sensor but a different control layout. It suits owners who leave the camper vented while out and want the lid to close itself in a shower.",
     "specs": [
       "934 CFM airflow",
@@ -53,7 +53,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41xroBgEMmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GDZF4Z3V?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GDZF4Z3V?tag=rvgearlab-amz-20",
     "description": "The OUTPRIZE Remote Fan tight-fits a 14 inch roof opening, and also fits a maximum 14-1/2 inch opening. It offers 10-speed adjustment from 400 to 1300 CFM in both air-in and air-out directions, with a maximum noise level of 45dB.\n\nCompared with the Kohree 14in Fan at 934 CFM, the OUTPRIZE reaches a higher 1300 CFM top end. The remote lets you control it from the bed, and a rain sensor is included. It suits owners who want the highest airflow and bed-side control.",
     "specs": [
       "400 to 1300 CFM",
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zRvC6WsCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DM8HVT2H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DM8HVT2H?tag=rvgearlab-amz-20",
     "description": "The OUTPRIZE Manual Fan is a 12V 14 inch unit that fits 1.9 to 7 inch thick roofs. It offers 3 speeds with 700 to 1300 CFM in air-in mode and a maximum noise level of only 35dB.\n\nAt 35dB it is 10dB quieter than the OUTPRIZE Remote at 45dB, which matters at night. Manual controls are simple and reliable, and it costs less than the remote version. It suits light sleepers who can reach the ceiling control and want a quiet fan.",
     "specs": [
       "700 to 1300 CFM",
@@ -109,7 +109,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410f8dekxEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BQ6KM59D?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BQ6KM59D?tag=rvgearlab-amz-20",
     "description": "The RVMATE Remote Fan is a 14 by 14 inch roof vent with a high-sensitivity remote and reversible airflow. It fits roofs from 1-1/4 to 2-1/4 inches thick and uses a UV-resistant plastic body.\n\nCompared with the OUTPRIZE Remote, the RVMATE costs much less while keeping the remote and reversible operation. It trades the OUTPRIZE's higher top airflow for a lower price. It suits owners who want remote control at a lower price on a standard roof thickness.",
     "specs": [
       "14 x 14 inch, remote",
@@ -137,7 +137,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41EFw+aVrpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C8HFNGPP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C8HFNGPP?tag=rvgearlab-amz-20",
     "description": "The GDDGHS Roof Vent is a 14 by 14 inch universal roof vent with a 12V fan and a lid that keeps out sun and rain. It comes with putty tape for installation.\n\nIt is the most basic of the five, with a plain fan rather than the speed steps and remotes on the others. That simplicity makes it a straightforward swap for a bathroom or galley vent. It suits owners replacing a worn bathroom vent who do not need extras.",
     "specs": [
       "14 x 14 inch roof vent",

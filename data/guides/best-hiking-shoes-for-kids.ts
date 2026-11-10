@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41rg1mLzjfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FDGVRYMB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FDGVRYMB?tag=rvgearlab-amz-20",
     "description": "The KEEN Hightrail Kids is a low waterproof hiking shoe in durable leather from Leather Working Group certified tanneries. It uses a KEEN.DRY breathable membrane, 4mm multi-direction lugs, a stability shank and a removable LuftCell footbed.\n\nAgainst the Mishansha Buckle, it adds a waterproof membrane and a shank for support on uneven ground. Compared with the LeIsfIt Barefoot, it gives real protection and traction for rocky trails.\n\nIt suits kids who hike regularly in mixed weather and need a shoe that holds up. Wipe-clean leather makes post-hike care simple.",
     "specs": [
       "KEEN.DRY waterproof membrane",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4195mBDEKYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DZWW55TG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DZWW55TG?tag=rvgearlab-amz-20",
     "description": "The Mishansha Buckle is a low-top kids hiking sneaker with a breathable oxford upper, an anti-collision toe cap and an adjustable buckle closure. The rubber outsole is described as non-slip for hiking, camping and active play.\n\nCompared with the KEEN Hightrail Kids, it costs far less and has no waterproof membrane. Next to the Mishansha Quick-Lace, it swaps laces for a buckle that children can fasten themselves.\n\nIt suits younger kids who need independence getting dressed for a park or campground walk. The soft inner is made for long hours of wear.",
     "specs": [
       "Adjustable buckle closure",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/518Y1un6A2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08CXXHFRX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08CXXHFRX?tag=rvgearlab-amz-20",
     "description": "The Mishansha Quick-Lace is a low-top kids trail shoe with a reinforced protective toe cap and a quick-lace system for fast adjustment. The oxford mesh upper is lightweight and breathable, and the rubber outsole has traction patterns for trails and sidewalks.\n\nAgainst the Mishansha Buckle, it gives a more adjustable fit across the foot with a toggle lace. Compared with the LeIsfIt Barefoot, it has a firmer toe cap and a more structured sole.\n\nIt suits school-age kids who split time between hiking, picnics and dog walks. The lace system keeps laces from dragging in mud.",
     "specs": [
       "Quick-lace system",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41SsCiIvQSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B083DW2ZCK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B083DW2ZCK?tag=rvgearlab-amz-20",
     "description": "The Mishansha Toddler is the same buckle-style design in small toddler sizes with a breathable oxford upper and a reinforced anti-collision toe. The soft inner and rubber outsole are meant for long hours of active play.\n\nIt is the lowest-priced shoe here and the smallest, which suits kids who might outgrow a pair in a season. Compared with the KEEN Hightrail Kids, it trades waterproofing for a very small cost.\n\nIt suits toddlers and preschoolers on short, easy walks. The adjustable buckle helps parents get them out the door faster.",
     "specs": [
       "Toddler sizes, buckle closure",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41xK9++nPxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F7KLSVSZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F7KLSVSZ?tag=rvgearlab-amz-20",
     "description": "The LeIsfIt Barefoot is a kids' zero-drop sneaker with a flexible sole, a wide toe box and a protective toe cap. The knit upper is lightweight and breathable, and the rubber outsole has traction patterns.\n\nUnlike the KEEN Hightrail Kids, it prioritizes flexibility and toe room over protection. It is lighter and more flexible than the Mishansha Quick-Lace, which has a firmer sole.\n\nIt suits kids who like a flat, natural feel for school, playgrounds and easy trails. It is also the lowest-priced pair on the list.",
     "specs": [
       "Zero-drop flexible sole",

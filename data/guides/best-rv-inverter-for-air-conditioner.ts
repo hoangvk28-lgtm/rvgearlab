@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51OwO8qqdbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GT4FPNPH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GT4FPNPH?tag=rvgearlab-amz-20",
     "description": "The EGSCATEE 2500W is a pure sine wave inverter with 5,000W peak and a built-in automatic transfer switch that changes over in approximately 12 ms. It has a hardwired AC terminal block, a remote controller, dual cooling fans and about 3 AWG cables of 1.97 ft in the box.\n\nAt $219.99 it costs $722.01 less than the AIMS 2000W and adds 500W continuous. It does not charge batteries. Pick this if you want an AC capable inverter with a built-in transfer switch. Caveat: 3 AWG short cables suit shorter runs, and 2,500W at 12V draws over 210 amps.",
     "specs": [
       "2500W pure sine, 5000W peak",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41LLGgCCYeL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00I36K1VQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00I36K1VQ?tag=rvgearlab-amz-20",
     "description": "The AIMS 2000W is a low frequency pure sine inverter charger with 6,000W surge for up to 20 seconds, a 70 amp charger with LiFePO4 profile and a transfer switch. Its heavy transformer design is built for inductive loads such as AC compressors.\n\nAt $942 it costs $722.01 more than the EGSCATEE 2500W, but that price includes a 70A charger and a 20 second surge, a long window for compressor starts. Pick this if you want charging and switching in one box. Caveat: 2,000W continuous is tight for a 13.5K BTU unit without soft start.",
     "specs": [
       "2000W continuous, 6000W surge",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51ErB8SKw6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CJXY9YFK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CJXY9YFK?tag=rvgearlab-amz-20",
     "description": "The Sunwheel 4000W is a pure sine inverter with 4,000W continuous and 8,000W peak at startup, efficiency over 90% and protections for undervoltage, overvoltage, overheating and overload. It ships with 4 cables and 6 fuses.\n\nAt $199.88 it is $20.11 cheaper than the EGSCATEE 2500W and has 1,500W more continuous rating, but it has no transfer switch or charger. Pick this if you run two AC units on a large bank. Caveat: at 12V, full load pulls over 330 amps, so use 24V or a very big lithium bank.",
     "specs": [
       "4000W continuous, 8000W peak",

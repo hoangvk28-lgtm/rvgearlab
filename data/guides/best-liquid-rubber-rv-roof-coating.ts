@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41LQXB9MwVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GQCS273S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GQCS273S?tag=rvgearlab-amz-20",
     "description": "The Liquid Rubber 35 ft Leak Repair Kit is a three-step system with RV Smart Cleaner, EPDM and TPO Primer and the RV roof coating. The listing says it works with EPDM, TPO, fiberglass and aluminum roofs and skylights, vent covers and awning parts.\n\nAgainst the 40 ft kit, it fits a slightly shorter roof. Against the single-gallon picks, it ships the cleaner and primer so the system is complete.\n\nIt is the best match for owners with a mid-size EPDM or TPO roof who want a ready system. Think of it as the pick for epdm and tpo systems.",
     "specs": [
       "3-step system",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41tqgvPkamL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GQDL73X6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GQDL73X6?tag=rvgearlab-amz-20",
     "description": "The Liquid Rubber 40 ft Leak Repair Kit uses the same three-step system as the 35 ft kit, scaled for a longer roof. It lists EPDM, TPO, fiberglass and aluminum roofs and 1 gallon per 50 square feet.\n\nAgainst the 35 ft kit, it adds material for a bigger roof. Against Ziollo, it is a full system, while Ziollo is a silicone gallon.\n\nIt fits owners of 38 to 40 foot rigs who want the full system in one order. Buyers focused on large rigs will find it a sensible match.",
     "specs": [
       "40 ft leak repair kit",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41mT9uwftiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01ERT66Q6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01ERT66Q6?tag=rvgearlab-amz-20",
     "description": "The Liquid Rubber RV Roof Sealant quart is the same liquid rubber coating in a small container. It is sold for flexible waterproofing and reflectivity, with the multi-surface system listed for EPDM, TPO, fiberglass and aluminum.\n\nAgainst the kits, it is only the coating for small repairs or vents. Against BEEST, it is a quart for touch-ups.\n\nIt fits owners with a spot repair or a pop-up camper. It earns its slot for spot repairs.",
     "specs": [
       "1 quart liquid rubber",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41PxbmOjHAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0877DWQCX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0877DWQCX?tag=rvgearlab-amz-20",
     "description": "Ziollo RV Roof Sealant is a 100 percent silicone liquid rubber with a self-leveling formula and a reflective white finish. The listing says it can drop interior temperatures by up to 15 degrees F and works with Ziollo cleaner and seam tape.\n\nAgainst the Liquid Rubber kits, it is a silicone gallon rather than a primer system. Against BEEST, it names 100 percent silicone.\n\nIt suits owners who want silicone chemistry for ponding water. It is a natural fit for silicone buyers.",
     "specs": [
       "100% silicone liquid rubber",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51O8vVuGuzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C6NJWTFF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C6NJWTFF?tag=rvgearlab-amz-20",
     "description": "BEEST RV Roof Coating is a white solar reflective liquid rubber coating covering about 50 square feet per gallon in two coats. A 5 gallon pail covers RVs up to 30 feet according to the listing.\n\nAgainst Ziollo, it is lower priced and does not name silicone. Against the quart, it is a gallon for a larger repair.\n\nIt fits budget DIY owners with a smaller roof. Think of it as the pick for budget gallon jobs.",
     "specs": [
       "Liquid rubber, white",

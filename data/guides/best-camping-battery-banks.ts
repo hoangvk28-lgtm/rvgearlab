@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41gULKnEAAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BX364B54?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BX364B54?tag=rvgearlab-amz-20",
     "description": "The NESTOUT is a 15,000mAh bank with a 32W USB-C Power Delivery port and an IP67 rating that its listing describes as waterproof and dustproof, with up to 30 minutes of submersion. The hard shell is wrapped in a silicone cushion to damp vibration.\n\nIt is the smallest capacity in this group, yet the only one sealed to IP67, ahead of the BLASOUL at IP65. Against the 50,000mAh to 80,000mAh packs it gives up total charge in exchange for a body that can ride in a pack pocket in rain.\n\nIt suits hikers and paddlers who charge a phone and earbuds every night and want a bank that shrugs off weather. Smart power delivery sends more energy to a power-hungry device automatically.",
     "specs": [
       "15,000mAh, 32W USB-C PD",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31r1KXt5XQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FHWKQ5Y3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FHWKQ5Y3?tag=rvgearlab-amz-20",
     "description": "The Liahomco is an 80,000mAh bank that its listing rates for 15 to 20 phone charges. It has five outputs and two inputs, two 30W USB ports, a 20W USB-C output and an LED display.\n\nIt holds more charge than any other bank here and has the strongest output, with 30W per USB port against the 22.5W of the ZZI and OHOVIV. Compared with the NESTOUT it trades sealing for sheer capacity.\n\nIt suits group campsites and week-long trips where several phones, a tablet and a camera share one bank. The non-slip base and side grips keep it steady on a table or in a tent.",
     "specs": [
       "80,000mAh, five outputs",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hoLl4n1RL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FRSRFFZR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FRSRFFZR?tag=rvgearlab-amz-20",
     "description": "The ZZI packs 60,000mAh into a body measuring 5.8 by 2.9 by 1.1 inches, with 22.5W PD output and a 3-in-1 braided cable for USB-C, iOS and Micro USB. Its listing names five-layer protection against overcharge, overcurrent, overdischarge, overvoltage and short circuit.\n\nIt carries 10,000mAh more than the OHOVIV in a similar slim shape and comes with a cable built in, which the Liahomco leaves out. The LED display shows remaining charge at a glance.\n\nIt suits car campers and weekend backpackers who want a large reserve without a brick-sized bank. The listing says a phone reaches 60% in about 30 minutes.",
     "specs": [
       "60,000mAh, 22.5W PD",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51aTxJgUWWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H3ZDV3BS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H3ZDV3BS?tag=rvgearlab-amz-20",
     "description": "The BLASOUL is a 49,800mAh bank with 22.5W PD and QC 3.0 output, 15W wireless charging and four built-in cables (three output, one USB-A input). An IP65 rating covers water, shock and dust, and the solar panel on top trickle-feeds the cells.\n\nIt is the only bank here that charges wirelessly and the only one with cables fused into the body, so nothing gets left behind. Compared with the OHOVIV it adds wireless charging and a sealed body for a similar capacity.\n\nIt suits day hikers and festival campers who want one pocketable device that handles every phone type. A small solar top-up helps in an emergency, while a wall recharge is the real refill.",
     "specs": [
       "49,800mAh, 22.5W PD",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Nj43I11FL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F43Z98VS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F43Z98VS?tag=rvgearlab-amz-20",
     "description": "The OHOVIV is a 50,000mAh bank with a 22.5W PD output and QC support, two USB-A ports and one USB-C port that takes 18W in and gives 22W out. A digital display tracks remaining charge, and the Li-polymer cells carry multiple protections.\n\nIt is the lowest priced bank in the group and still reaches 50,000mAh, more than the BLASOUL and NESTOUT combined at 15,000mAh. It lacks the built-in cables of the ZZI and BLASOUL, so you bring your own.\n\nIt suits budget-minded campers who want plenty of reserve and are happy to carry their own cords. Three outputs run phone, tablet and headlamp together.",
     "specs": [
       "50,000mAh, 22.5W PD",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31nmDXReAkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FPNYT32S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FPNYT32S?tag=rvgearlab-amz-20",
     "description": "The UMEIDEA is a 20,000mAh 5V 2A battery pack sold for electric heated camping chairs, heated blankets, hunting seat pads and sleeping bags. The listing calls it battery only, so it ships without the heated item itself.\n\nIt is the only bank here aimed at heated gear instead of general charging, and it is the one to look at if your seat or blanket draws power over USB. The larger banks give more charge, while this one targets the fixed 5V 2A output those items expect.\n\nIt suits cold-weather campers and hunters who run a heated seat pad for hours. Check that your heated item uses a 5V USB input before buying.",
     "specs": [
       "20,000mAh, 5V 2A output",

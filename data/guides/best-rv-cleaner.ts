@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31TVEhrRJCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00EXIVUEU?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00EXIVUEU?tag=rvgearlab-amz-20",
     "description": "The STAR BRITE Instant Black Streak Remover is a spray-on, soak and wipe formula for fiberglass, vinyl, metal, plastic and painted surfaces. It is also described as formulated not to strip wax or polish, and it targets grease, oil and smoke stains.\n\nAgainst the STAR BRITE Gel, it is the thinner spray version at a much lower price. Against the 303 Streak Remover, it offers a wider surface list and a wax-friendly claim, while the 303 is aimed squarely at RV siding.\n\nBest for owners who want a quick streak remover that suits the exterior panels and waxed finishes. Spot-test an unfamiliar surface first, since no listing guarantees compatibility with every decal.",
     "specs": [
       "Black streak remover",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/318utVqWqlL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GQD9TMFG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GQD9TMFG?tag=rvgearlab-amz-20",
     "description": "The STAR BRITE Instant Black Streak Remover Gel is a fast-acting gel that clings to vertical and contoured surfaces. It works on fiberglass, vinyl, metal, painted finishes and most plastics.\n\nCompared with the STAR BRITE Spray, the gel dwells longer on sidewalls but costs more. Compared with the 303 Streak Remover, it is aimed at heavier staining while the 303 gives clearer directions.\n\nBest for tall rigs where a thin spray drips off before it works. Follow the dwell instructions and rinse thoroughly.",
     "specs": [
       "Gel clings to surfaces",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Frhiu1iDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0971PFGN3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0971PFGN3?tag=rvgearlab-amz-20",
     "description": "The 303 Black Streak Remover is a 32 oz spray designed for the exterior of RVs, campers, pop-ups and motorhomes. The listing explains that streaks come from dirt and roof rubber running down the sides, and directions say to shake well and use only on dry surfaces.\n\nVersus the STAR BRITE Spray, it offers clearer RV-specific directions, but the STAR BRITE costs less. Versus the Meguiar's Boat Wash, it targets streaks rather than routine washing.\n\nBest for owners who want RV-focused instructions and a larger bottle. It is not a full wash, so pair it with a soap such as Meguiar's.",
     "specs": [
       "32 oz spray",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41G3Fwb55kL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0000AXVCB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0000AXVCB?tag=rvgearlab-amz-20",
     "description": "The Meguiar's M43 Marine/RV Boat Wash is a 64 oz pH-balanced soap with long-lasting suds that cleans without stripping existing wax. The listing describes it as non-streaking and conditioner-enriched.\n\nCompared with the 303 Streak Remover, it handles routine dirt and not set-in black streaks. Compared with the awning cleaners, it is not meant to dissolve stains on fabric.\n\nBest for regular washing on a waxed rig. It will not remove oxidation or heavy streaking.",
     "specs": [
       "64 oz pH-balanced wash",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41fbChRixqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00SL2NF10?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00SL2NF10?tag=rvgearlab-amz-20",
     "description": "The Camco Pro-Strength Awning Cleaner is a 32 fl oz cleaner for vinyl, acrylic, nylon and fabric awnings. It is described as lifting stains, dirt, tree sap and road grime.\n\nVersus the Walex Awning Cleaner, it offers more fabric types on its listing at a lower price. Versus the streak removers, it targets awnings, not painted or fiberglass siding.\n\nBest for a low-cost awning refresh. Test a small hidden area, because no listing promises mold removal or color safety.",
     "specs": [
       "32 fl oz awning cleaner",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31p0gsE5uiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CPGBJ4Y9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CPGBJ4Y9?tag=rvgearlab-amz-20",
     "description": "The Walex RV Awning Cleaner is sold in 32 oz, 64 oz and one-gallon sizes and is described as safe for vinyl and fabric awnings. It targets tree sap and bird droppings along with general dirt.\n\nCompared with the Camco Awning Cleaner, it costs more but offers larger sizes and names mold and mildew in the title. Compared with the Meguiar's Boat Wash, it addresses awning stains only.\n\nBest for owners with a large or heavily stained awning who want a bigger bottle. Do not treat it as a mold remediation product for interior surfaces.",
     "specs": [
       "32 oz to 1 gallon sizes",

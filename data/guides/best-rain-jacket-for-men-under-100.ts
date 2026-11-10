@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31xpN+M9PxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CLR98667?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CLR98667?tag=rvgearlab-amz-20",
     "description": "The Columbia Watertight II is a men's waterproof jacket with a 100% nylon shell that the listing says handles drizzle to downpour. It adds an abrasion-resistant chin guard, two zippered side pockets, elastic cuffs and an elastic hem, and packs into its hand pocket.\n\nCompared with the Columbia Glennaker Lake II, it lists Omni-Shield, which resists the absorption of liquids, and a chin guard that protects your face from the zipper. Against the TEZO Sealed Shell, it uses a nylon shell and a stuff-into-pocket design.\n\nIt suits hikers, commuters and travelers who want a snug, mobile fit. Elastic details and a zippered closure keep it close to the body.",
     "specs": [
       "100% nylon waterproof shell",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31PfT8YqjCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CLR8QXKW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CLR8QXKW?tag=rvgearlab-amz-20",
     "description": "The Columbia Glennaker Lake II is a men's waterproof nylon shell that folds into its own hand pocket. A stow-away hood unfolds from the collar, and zippered hand pockets, elastic cuffs and an adjustable hem help seal out the elements.\n\nAgainst the Columbia Watertight II, it carries a stow-away hood and a lower price. Compared with the UIQUR Wide-Brim, it has a branded nylon shell with an adjustable hem.\n\nIt suits anyone who wants a packable brand shell at a friendly price. The same jacket appears in several colors.",
     "specs": [
       "Waterproof nylon shell",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41izo4VIWuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C9QNBDCR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C9QNBDCR?tag=rvgearlab-amz-20",
     "description": "The TEZO Sealed Shell is a 100% polyester jacket with a waterproof coating, fully sealed and welded seams and a TPU membrane. A non-fleece mesh lining adds breathability, and the hood is detachable with windproof adjustable Velcro cuffs.\n\nCompared with the Columbia Glennaker Lake II, it adds welded seams, a TPU membrane and a detachable hood. Against the UIQUR Wide-Brim, it adds chest pockets with sealing tape.\n\nIt suits hikers and campers who want a sealed, relaxed-fit shell. The listing says it works for year-round use.",
     "specs": [
       "Welded seams, TPU membrane",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31etd7Wm0kL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F1F5FWMG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F1F5FWMG?tag=rvgearlab-amz-20",
     "description": "The UIQUR Wide-Brim is a waterproof and windproof men's jacket with an extended, deepened hood that adjusts for coverage. It comes with a foldable storage bag and is described as lightweight and portable.\n\nCompared with the TEZO Sealed Shell, it skips the welded seams and costs far less. Against the Columbia Glennaker Lake II, it adds a wide-brim hood and bag.\n\nIt suits commuters and cyclists who want cheap rain cover. The listing names cycling, hiking and travel.",
     "specs": [
       "Waterproof and windproof fabric",

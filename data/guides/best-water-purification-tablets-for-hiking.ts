@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41iPR-3+5aL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09FRBSKC7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09FRBSKC7?tag=rvgearlab-amz-20",
     "description": "The Aquatabs 49mg 50-Pack arrives in individually sealed foil strips. Its page states both bacteria and virus removal, at 99.9999 and 99.99 percent, and adds that treated water avoids the harsh flavor of iodine products.\n\nThe strips keep tablets dry in a pack, which a loose bottle cannot match. One 49mg tablet treats a small volume, so it fits a bottle rather than a tank.\n\nIt suits backpackers who want a light backup with documented claims. Pair it with a filter for silty water.",
     "specs": [
       "49mg foil-strip tablets",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4143T43Jt4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B001949TKS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B001949TKS?tag=rvgearlab-amz-20",
     "description": "Potable Aqua is a 50-tablet bottle that the listing says is effective against Giardia lamblia when used as directed. It makes questionable water bacteriologically suitable to drink for camping, hiking and travel.\n\nIt is the cheapest per bottle here and has a long history as a hiker's backup. The page names Giardia and does not state viruses, unlike the Aquatabs pages.\n\nIt suits budget hikers who drink from clear sources. Read the label for iodine cautions.",
     "specs": [
       "50-tablet bottle",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41PR4yq3z3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09FFQN924?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09FFQN924?tag=rvgearlab-amz-20",
     "description": "Each 397mg tablet in this 100-pack is stated to treat 4 gallons in 30 minutes. A bullet on the listing even calls it a hiking water purifier for backpacking use.\n\nOne tablet treats a whole four gallons, which is far more than a hiker's bottle needs. It makes more sense for groups and base camps than for a solo hike.\n\nIt suits scout troops and base-camp groups who treat large containers. A hundred tablets last a long season.",
     "specs": [
       "397mg tablet, 100 count",

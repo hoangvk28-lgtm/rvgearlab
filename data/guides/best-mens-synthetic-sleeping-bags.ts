@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31FrN32XZ7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FY3XKT1X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FY3XKT1X?tag=rvgearlab-amz-20",
     "description": "The NEMO Forte is a men's synthetic bag available in 20F and 35F ratings and in Regular and Long lengths. Its Zerofiber 800 insulation is built entirely from post-consumer recycled material, and it follows a Classic Spoon shape with elbow and knee room.\n\nThermo Gill vents extend its comfort range through a multistage zipper, and a Blanket Fold collar blocks cold air or releases heat. These features go well beyond the MEREZA's flannel and pillow.\n\nIt suits men who camp across seasons and want one bag that adapts. NEMO also stands behind the product under an Endless Promise recycling program.",
     "specs": [
       "Men's 20F or 35F options",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41TINwVGGVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G62PLVS7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G62PLVS7?tag=rvgearlab-amz-20",
     "description": "The MEREZA Flannel is an 86.6 by 32.3 inch rectangle rated from 32F to 50F, with a genuine flannel lining and a 210T windproof polyester shell. The package also brings a 220 g plush pillow and a compression sack, for sleepers up to 6 ft.\n\nIt costs a fraction of the NEMO Forte and adds a pillow the NEMO lacks. The rectangular cut gives room to shift, and the brushed flannel feels warm against skin.\n\nIt suits men on a budget who camp in cool weather. The pillow means one less thing to buy.",
     "specs": [
       "86.6 by 32.3 in, 32 to 50F",

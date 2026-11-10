@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/310zJ+RVtBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08WTNVPB7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08WTNVPB7?tag=rvgearlab-amz-20",
     "description": "This Gas One is a portable butane stove rated at 7,650 BTU, with piezo-type automatic ignition and a safety shut-off. The listing says it is CSA approved, and it comes with a carrying case and a user manual.\n\nIt lists a certification the Gospowor and BIG HORN do not name for CSA, and it runs quietly with a clean burn. It is also the cheaper of the two Gas One models.\n\nChoose it if you want a safe, simple burner for car camping, tailgates and emergency kits. It uses an 8 oz butane canister.",
     "specs": [
       "7,650 BTU butane burner",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41JavTsgoZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01HQRD8EO?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01HQRD8EO?tag=rvgearlab-amz-20",
     "description": "The Gas One GS-3400P runs on either butane or propane through a built-in converter regulator. It has automatic piezo ignition, an adjustable heat dial and a cartridge ejection system with gas cut-off.\n\nThat fuel choice is what separates it from the single-fuel Gas One and the BIG HORN. It also ships with a carrying case.\n\nChoose it if you want to switch fuels depending on the trip or the season. It suits families who keep both canister types around.",
     "specs": [
       "Butane or propane dual fuel",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51bBewNPWKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GY4716RS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GY4716RS?tag=rvgearlab-amz-20",
     "description": "BIG HORN is a bucket-style folding butane stove with 2200W (7500 BTU) output, which the listing says boils 1 liter in 3 to 5 minutes. It combines cast iron, copper and aluminum in the burner, with one-touch ignition and a cast iron trivet.\n\nThe SGS certification for North America is a plus at this price, and it costs less than either Gas One. Non-slip pads steady the pot.\n\nChoose it if you want the lowest price for a real gas burner. It folds small for a bin or glovebox.",
     "specs": [
       "2200W (7500 BTU) burner",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41SxHkpL4wL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G58KTN9W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G58KTN9W?tag=rvgearlab-amz-20",
     "description": "Gospowor mounts on a 16 oz propane cylinder and offers up to 10,000 BTU from a single burner. It has a solid brass pressure regulator, a foldable base for stability and a free USB lighter.\n\nThe 10,000 BTU rating is the highest of the gas stoves here, and propane holds up better in the cold than butane. It sits near the bottom of the price range.\n\nChoose it for propane cooking from a standard cylinder. It suits campers who want stronger heat and a stable base.",
     "specs": [
       "Up to 10,000 BTU",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31VcXqbraSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0007L8108?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0007L8108?tag=rvgearlab-amz-20",
     "description": "Coghlan's is a folding coated steel stove with a 6.5 x 6.5 inch cooking surface. It works with Coghlan's Camp Heat, fuel cubes, solidified alcohol and other condensed fuels.\n\nIt folds flat, which makes it the easiest to pack of anything here, and it has no pressurized fuel. It is also among the cheapest stoves in this guide.\n\nChoose it as a backup stove or a first backpacking burner. Small and medium pots fit well.",
     "specs": [
       "Folds flat, coated steel",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41IgcFX64hL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09WYNYRSS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09WYNYRSS?tag=rvgearlab-amz-20",
     "description": "Hovico is a folding wood-burning stove made of hardened stainless steel. It burns wood, twigs and leaves, and assembles in a few minutes.\n\nIt is the only stove here that needs no purchased fuel, which beats every gas model on running costs. It is also the lowest price in the group.\n\nChoose it if you camp where wood is plentiful and gathering is allowed. It suits hikers who want unlimited fuel.",
     "specs": [
       "Hardened stainless steel",

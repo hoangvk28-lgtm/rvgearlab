@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/418iLMbIe+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DSFDVM7B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DSFDVM7B?tag=rvgearlab-amz-20",
     "description": "The Naturehike heater runs on an 8 ounce butane canister and gives 3750 BTU using porous mesh heating technology. It warms about 54 to 108 square feet and runs up to 240 minutes (180 minutes at maximum power).\n\nA magnetic connection and automatic gas shutoff for overpressure add safety, and a detachable warming shelf and carry handle make it useful at camp. It is smaller and lower in output than the Mr. Heater and costs about $14 less.\n\nIt suits small camps, ice fishing shelters and picnic tables where you want warmth and somewhere to warm a mug. Use it outdoors or in well-ventilated shelters.",
     "specs": [
       "3750 BTU butane heater",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31+0oURWZUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B001CFRF7I?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B001CFRF7I?tag=rvgearlab-amz-20",
     "description": "The Mr. Heater Little Buddy is a 3,800 BTU radiant propane heater that warms up to 95 square feet. It lights with one button and sits on a round 8 inch stand that takes up very little floor.\n\nIt gives about 50 more BTU than the Naturehike and runs on propane, which keeps its cold-weather performance steady. It costs more than the Naturehike and has no built-in shelf.\n\nIt suits campers who want a trusted small radiant heater for a tent vestibule, porch or garage. Use it with a properly ventilated setup and a carbon monoxide alarm.",
     "specs": [
       "3,800 BTU radiant propane",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41qm9UMZ+FL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HH97B2NW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HH97B2NW?tag=rvgearlab-amz-20",
     "description": "This is a rechargeable battery-powered heater that charges over USB and runs wirelessly. It has dual-speed temperature control, quiet operation and a design for tents, cars and power outages.\n\nIt is the only pick here with no flame and no cord, and it removes the carbon monoxide concerns of the other four. It costs the most, and its heating output is small.\n\nIt suits campers who want a gentle personal warmer in a sleeping tent. Charge it before every trip.",
     "specs": [
       "Rechargeable USB-charged heater",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51+0y24X+0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FFGRHXPV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FFGRHXPV?tag=rvgearlab-amz-20",
     "description": "Cordless and radiant, the HEYDUOTON runs on propane with an adjustable control valve and a foldable gas tank holder. It comes with a windproof lighter and is sold for tents, tailgates, RV trips and ice fishing.\n\nIt costs less than half the Mr. Heater and gives a simple knob to adjust heat. The windproof lighter is a small extra.\n\nBudget buyers who need outdoor warmth will find it enough. Use it with proper ventilation.",
     "specs": [
       "Cordless radiant propane heater",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41aLkf8AWaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FK2W5JYV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FK2W5JYV?tag=rvgearlab-amz-20",
     "description": "This 2-in-1 appliance switches between a portable propane heater and a stove. It has durable stainless steel, a stable base, an integrated flame guard and adjustable vents.\n\nIt costs about $24 less than the Little Buddy and does two jobs, heating and cooking. It lacks a stated BTU figure.\n\nIt suits campers who want one compact device for warming up and cooking breakfast. Use it outdoors.",
     "specs": [
       "Propane heater and stove in one",

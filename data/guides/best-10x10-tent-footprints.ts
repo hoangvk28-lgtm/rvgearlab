@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/310wpCCc2eL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B073ZRWVBS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B073ZRWVBS?tag=rvgearlab-amz-20",
     "description": "The E-Z UP P100 is a 10 by 10 foot square footprint, 100 sq ft, weighing 3 lbs. It is sold to sit inside or underneath an E-Z UP shelter, a camping cube or a screen cube, and it comes with a tote bag.\n\nIt is the only square 10 by 10 sheet here, where the MASTERCANOPY and Clostnature are hexagonal. The one year warranty and tote bag set it apart from the CORE mat.\n\nIt suits a canopy or screen cube with straight legs and a square footprint. It pairs best with E-Z UP gear, as the listing says.",
     "specs": [
       "10 by 10 ft, 100 sq ft",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/213cJfwtmLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DRJQWFQJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DRJQWFQJ?tag=rvgearlab-amz-20",
     "description": "The MASTERCANOPY 10x10 is a hexagonal footprint in 210D polyester with a PU coating. It folds into a drawstring bag and ships with 6 ground pegs, and the listing gives 69.3 inches per side.\n\nIt adds pegs and a bag, which the Clostnature does not list. The interlocking hexagon shape is meant for hexagonal gazebos and screen rooms, so it differs from the E-Z UP's square.\n\nIt suits a six-sided gazebo or screen house where the shape matters. The pegs make setup quick.",
     "specs": [
       "210D polyester with PU coating",
@@ -89,7 +89,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31r3K+kx+ZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09CJPWKQZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09CJPWKQZ?tag=rvgearlab-amz-20",
     "description": "The CORE footprint is 9 feet 6 inches by 8 feet 6 inches and is listed for the CORE 6 Person straight-wall cabin tent, its screen-room version and a 6 person dome. Elastic loops on all four corners secure it with stakes, and it packs to 13 by 11 by 3 inches.\n\nIt is the closest to 10x10 of the CORE sizes, and the elastic loops give a faster stake-down than the E-Z UP. It runs 6 inches short in one direction and 18 inches short in the other.\n\nIt suits owners of the CORE 6 person tents named on the listing, and anyone with a 10 by 9 foot floor. It is also fine for picnics and tailgates.",
     "specs": [
       "9 ft 6 in by 8 ft 6 in",
@@ -119,7 +119,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/316kFNOjRxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F9FGDCVL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F9FGDCVL?tag=rvgearlab-amz-20",
     "description": "The Clostnature is a 10 foot hexagonal footprint in 190T polyester that weighs 1.1 lbs and packs to 9.8 by 5.5 inches. Removable elastic bands at each corner hold stakes or ropes, and it is sold for gazebos and bubble tents.\n\nIt is the lowest price of the four and about two pounds lighter than the E-Z UP. It has no pegs, which the MASTERCANOPY includes.\n\nIt suits a budget camper with a hexagonal gazebo or a bubble tent who wants a light footprint. It also works as a sunshade or hammock rain fly.",
     "specs": [
       "10 ft hexagon, 1.1 lbs",

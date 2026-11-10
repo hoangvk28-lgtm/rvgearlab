@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Mm4j1j3WL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C824MN5P?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C824MN5P?tag=rvgearlab-amz-20",
     "description": "The LifeStraw Ultrafilter Membrane Water Purifier claims to remove 99.99% of viruses, including rotavirus and hepatitis A, bacteria and parasites at the percentages the listing states. It runs on gravity at 30 L/hr and lists a lifetime capacity of 18,000 liters.\n\nThat virus claim, backed by named organisms, is the clearest in this guide and is something the Sawyer SP160 and Membrane Solutions 1 Gal never say. The flow of 30 L/hr is quick enough for a family without pumping.\n\nBest for families and groups who need virus protection in a gravity system. The listing says the capacity equals about five years for a family of five.",
     "specs": [
       "Claims 99.99% virus removal",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31eqQpfzX7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CGWYL416?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CGWYL416?tag=rvgearlab-amz-20",
     "description": "The Survivor Filter Ultra is a 2.25 gallon stainless steel countertop gravity system with ceramic filters. The listing says it removes bacteria, viruses and parasites and has been tested by accredited labs for heavy metals, chemicals and organics.\n\nIt states a virus claim like the LifeStraw Ultrafilter Gravity, in a home and base-camp unit with a stainless body, and the listing gives no named virus percentage. A lifetime manufacturer's warranty covers defects.\n\nGreat for home preparedness, cabins and long camps where you stay in one spot. It does not suit carrying on a trail.",
     "specs": [
       "2.25 gallon stainless steel body",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4157tndbdiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B06XZVBSMX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B06XZVBSMX?tag=rvgearlab-amz-20",
     "description": "The Sawyer SP160 pairs a 0.1 micron absolute dual-threaded MINI filter weighing 2 ounces with a 1 gallon reservoir. The listing says each MINI unit is tested three times to performance standards and includes a cleaning plunger and gravity hose.\n\nIt is the lightest system here, and its listing makes no virus claim, which separates it from the LifeStraw Ultrafilter Gravity and Survivor Ultra Ceramic. The wide-mouth bladder fills quickly.\n\nBest for backpackers who accept a bacteria and protozoa filter and carry a virus plan separately. It also fits emergency kits.",
     "specs": [
       "0.1 micron absolute MINI filter",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Dke1WZd2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CN6L5KLT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CN6L5KLT?tag=rvgearlab-amz-20",
     "description": "The Membrane Solutions 1 gallon (3.8 L) gravity system lists NSF/ANSI 42, 372 and 401 and a four-stage filter that stacks a 0.1 micron hollow fiber membrane, carbon and polypropylene fiber layers. The listing gives flow up to 500 ml/min and a filter life up to 1,320 gallons.\n\nIt names standards that the Sawyer SP160 does not, and it backflushes through a standard bottle with no syringe. Those standards are about specific contaminants and do not by themselves claim virus removal, so it sits beside the Sawyer as a bacteria and protozoa filter.\n\nA fit for solo hikers and pairs who want a documented, low-cost gravity filter. It also works as a straw or a bottle filter.",
     "specs": [
       "1 gallon (3.8 L) bag",

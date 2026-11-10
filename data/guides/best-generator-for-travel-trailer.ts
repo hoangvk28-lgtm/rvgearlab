@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51a-T0yBYdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B099KPJZ2P?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B099KPJZ2P?tag=rvgearlab-amz-20",
     "description": "The Westinghouse 4650 gives 3600 running and 4650 peak watts with a 4 gallon tank rated for up to 14 hours, a CO sensor and a TT-30R RV outlet. It also has two 5-20R household duplex receptacles and an L5-30R.\n\nAt $349 it costs $50.99 less than the PowerSmart 4000 at $399.99 and $133.39 less than the maXpeedingrods 4000 at $482.39, yet it has the most rated watts here. Pick this if one air conditioner on a 30A trailer is the goal. The caveat is that it is not an inverter, so it is louder and the listing does not promise clean power.",
     "specs": [
       "3600W running, 4650W peak",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41QOKH0ETDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CRDPSK1G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CRDPSK1G?tag=rvgearlab-amz-20",
     "description": "The PowerSmart 4000 makes 4000 peak and 3200 rated watts with THD under 3%, and it lists 59 dBA at 23 feet at 25% load. Its 1.3 gallon tank runs up to 8 hours at 25% load.\n\nAt $399.99 it costs $82.40 less than the maXpeedingrods 4000 at $482.39 but $50.99 more than the Westinghouse 4650. Pick this if you camp in quiet campgrounds and want clean power for electronics. The caveat is that 3200 rated watts makes a 13,500 BTU air conditioner a tight start without a soft starter.",
     "specs": [
       "4000W peak, 3200W rated",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51C3FuF1yqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CQ1YPFHB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CQ1YPFHB?tag=rvgearlab-amz-20",
     "description": "The maXpeedingrods MXR4000 makes 4000 peak and 3200 running watts and adds Bluetooth app monitoring plus an NEMA L5-30R RV outlet with an adapter. The app lets you check output without leaving your chair.\n\nAt $482.39 it is the priciest of the three, costing $82.40 more than the PowerSmart 4000 with the same watts. Pick this if app based monitoring matters to you. The caveat is that you are paying for connectivity rather than power, and noise and tank size are not listed.",
     "specs": [
       "4000W peak, 3200W running",

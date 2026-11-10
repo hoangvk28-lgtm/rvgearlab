@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31GnFHt-i+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07LFP4SNG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07LFP4SNG?tag=rvgearlab-amz-20",
     "description": "Suburban SAW6DE is a 6 gallon direct fit tank heater with direct spark ignition and an electric element. The listing says it fits without cutout, cabinet or plumbing modifications and has a porcelain-lined tank with a replaceable anode rod.\n\nAgainst Suburban SW12DE, it is the smaller tank. Against the tankless picks, it stores hot water and needs less 12 volt power.\n\nIt is the best match for trailers replacing a 6 gallon aluminum tank. It is a natural fit for 6 gallon swaps.",
     "specs": [
       "6 gallon direct fit DSI",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41GajgK4B8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01NCVAEJG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01NCVAEJG?tag=rvgearlab-amz-20",
     "description": "Suburban SW12DE is a 12 gallon water heater with direct spark ignition and an optional electric element. It has a porcelain-lined steel tank and a replaceable anode rod.\n\nAgainst Suburban SAW6DE, it holds twice the water. Against Ranein 65K, it is a tank.\n\nIt suits large families in bigger trailers. Think of it as the pick for large families.",
     "specs": [
       "12 gallon Suburban DSI",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41UTi9wwvSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7GKVWT9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7GKVWT9?tag=rvgearlab-amz-20",
     "description": "Ranein RA65EH is a 65,000 BTU propane tankless heater with a stated 3.9 GPM and CSA wording. The listing says it replaces most Suburban and Atwood 6, 10 and 12 gallon heaters in a 12.8 inch opening and has a remote showing gas, voltage and flow.\n\nAgainst FOGATTI InstaShower 8 Plus, it has more burner. Against the tank heaters, it heats on demand.\n\nIt suits trailers with big households. Buyers focused on large households will find it a sensible match.",
     "specs": [
       "65,000 BTU, 3.9 GPM stated",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41HhW5iNu2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B091F7HGPK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B091F7HGPK?tag=rvgearlab-amz-20",
     "description": "FOGATTI InstaShower 8 Plus is a 55,000 BTU propane tankless heater with 12 volt DC power, a high-altitude mode to 9,800 feet and a stated maximum of 2.9 GPM. It includes a pressure relief valve, a 15 inch door and a 2 meter remote.\n\nAgainst Ranein 65K, it includes the door and remote. Against Suburban SAW6DE, it heats on demand.\n\nIt suits owners who want a complete tankless kit. It earns its slot for complete tankless kit.",
     "specs": [
       "55,000 BTU propane, 12V DC",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51V5Bk2visL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FLDJMQ69?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FLDJMQ69?tag=rvgearlab-amz-20",
     "description": "AutoAlly 3-piece kit has a 93844 gas valve, a 93868 igniter and a 91638 burner tube for Atwood 6 and 10 gallon heaters. The listing says it fits in under an hour, with the igniter pre-set to a 1/8 inch gap.\n\nAgainst the full heaters, it repairs an existing Atwood tank. Against TOODOO, it addresses ignition and gas issues.\n\nIt suits owners with intermittent lighting on an Atwood heater. It is a natural fit for atwood repairs.",
     "specs": [
       "3-piece Atwood repair kit",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51HY8FSMXSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07F2L4QJM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07F2L4QJM?tag=rvgearlab-amz-20",
     "description": "TOODOO 2-pack stainless steel vent screens are 2.8 inches wide and 1.8 inches tall with a 0.11 inch mesh. The listing says they fit most Duo-Therm and Suburban furnace vents, include spring hooks and an installation tool and keep out insects and mice without much airflow restriction.\n\nAgainst the heaters, it is an upkeep part for the vent. Against AutoAlly Kit, it prevents blockages rather than fixing ignition.\n\nIt suits owners who find insect nests in the heater vent. Think of it as the pick for pest prevention.",
     "specs": [
       "2 stainless vent screens",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Fo7YJLFnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CNH6PPT6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CNH6PPT6?tag=rvgearlab-amz-20",
     "description": "The HOLANHING set is 20 forged S45C steel stakes, each 16 inches long, 0.35 inch thick and about 7 ounces. It adds fluorescent rubber rings so the heads stay visible at night, plus a storage pouch.\n\nAgainst the LOYORTY and Cheardia sets, which are galvanized iron at 7 mm or less, this is the only set here built from forged steel at roughly 9 mm thick. It is also the longest stake in the group, which puts more metal below the surface.\n\nIt suits campers who pitch on rocky, hard-packed or snowy ground and want stakes that resist bending under a hammer. Twenty pieces covers a large tent plus a tarp or canopy.",
     "specs": [
       "Forged S45C steel, 0.35 in",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51jBzt1-lqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CP37P1NG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CP37P1NG?tag=rvgearlab-amz-20",
     "description": "The LOYORTY set delivers 40 galvanized iron stakes, each about 250 mm (10 inches) long, with orange plastic tops and a T-shaped flat head. The sharpened tip is meant to enter hard soil, and the listing advises driving at a 60 degree angle.\n\nIt has twice the piece count of the HOLANHING and Cheardia sets and a longer stake than the Cheardia or HORUSDY. It trades the forged steel of the HOLANHING for galvanized iron, a lighter and cheaper material.\n\nIt is the right buy for a family with several tents, canopies and a tarp to anchor at once. The bright tops make a crowded campsite easier to read.",
     "specs": [
       "40 galvanized stakes",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51rdtO08Y7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BVQZK1SP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BVQZK1SP?tag=rvgearlab-amz-20",
     "description": "The HORUSDY set is 20 galvanized steel stakes, 8 inches long and about 0.25 inch (7 mm) thick. It bundles four 13 foot ropes, a T pull hook and a 13 mm hex nut driver for a cordless drill.\n\nCompared with the HOLANHING, it is shorter and thinner and is the only set that lets you drive stakes with a drill and pull them with the included hook. The Eurmax also includes ropes and leaves out the hex driver.\n\nIt fits a camper who owns a cordless drill and wants to pitch a canopy quickly on firm lawn. The included hardware saves a separate purchase.",
     "specs": [
       "8 in galvanized steel, 7 mm",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41QupF8FMeL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C9T339WK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C9T339WK?tag=rvgearlab-amz-20",
     "description": "The Cheardia pack holds 20 galvanized iron stakes at 9.75 inches long and 7 mm in diameter. The T-shaped top and round milled point line up with a tent strap and drive straight.\n\nNext to the RINVEE it is longer and costs about double per stake, while next to the HORUSDY it is a touch longer and skips the rope and drill driver. A hook feature stops the stake going too deep and gives you a hole to pull with a hammer claw.\n\nIt is a sensible middle choice for campers who want one set for tents, patio gear and garden structures. The listing names canopies, patios and landscape trim among its uses.",
     "specs": [
       "9.75 in, 7 mm galvanized",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41eDPkAMQyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07PQB74J4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07PQB74J4?tag=rvgearlab-amz-20",
     "description": "Eurmax sells these as a 10-piece galvanized steel set with four pre-cut 10 foot ropes and an orange stopper. The listing frames them as canopy anchors for high winds, backed by a rust-resistant galvanized coating.\n\nWhere the RINVEE and Cheardia sets are plain stakes, the Eurmax package includes the ropes and a visible stopper that reduces tripping. It trades pack size for that completeness, since 10 stakes will anchor one canopy and little more.\n\nIt is aimed at someone with a pop-up canopy at tailgates, markets or camp who wants the rope and anchor in one purchase. The set also doubles as a spare anchor kit for tailgates.",
     "specs": [
       "10-piece galvanized steel",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51DZ3xwYNNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F8NBTP2M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F8NBTP2M?tag=rvgearlab-amz-20",
     "description": "The RINVEE set is eight forged S45C steel stakes with a polished tail point, a safety hook hole and a storage bag. The listing calls the design lightweight compared with the same 8 inch metal stakes.\n\nAgainst the HOLANHING it uses the same S45C forged steel in a smaller, cheaper eight-piece pack. It undercuts every other set here on price per set with the fewest stakes.\n\nIt suits a solo camper or a small tent who wants forged steel without paying for 20 stakes. The smooth hook hole takes guy rope without fraying.",
     "specs": [
       "Forged S45C steel",

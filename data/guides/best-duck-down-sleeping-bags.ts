@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zehAIjc-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GVCJ1RHV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GVCJ1RHV?tag=rvgearlab-amz-20",
     "description": "HLITMOUT builds this rectangular bag at 90.55 x 39.37 inches with 680 fill power duck down. The listing credits 2.89 lb of down fill for warmth and says the bag unzips fully to work as a blanket.\n\nIt is the roomiest of the six by a wide margin, with a 39 inch width the mummy-cut QEZER Down Mummy and Night Cat Down lack. The 680 fill power also leads the group, ahead of the 650 on the Mountaintop Mummy and Naturehike Hybrid.\n\nBest for tall or broad sleepers who dislike mummy bags and want down warmth with free movement. It also doubles as a down comforter at home.",
     "specs": [
       "680FP duck down, 2.89 lb fill",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41BU+Tw0FuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CRR8S3K5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CRR8S3K5?tag=rvgearlab-amz-20",
     "description": "Naturehike pairs a mummy top with a rectangular lower body in this 650 fill power RDS duck down bag. It weighs 2 lb, packs to 13.8 x 7.1 inches and prints a comfort figure of 40.4F, with YKK zippers on a 20D ripstop shell.\n\nThat hybrid cut gives the feet and knees room that the Mountaintop Mummy and QEZER Down Mummy do not, yet it stays lighter than both. Next to the HLITMOUT XXL Rectangular it trades space for weight.\n\nA fit for hikers who want knee room without a heavy bag. It suits spring, summer and early fall.",
     "specs": [
       "650FP RDS duck down, 2 lb",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51TKhM5LRjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08V1CPJ3J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08V1CPJ3J?tag=rvgearlab-amz-20",
     "description": "Mountaintop fills this mummy with 600 g of 650 fill power duck down inside a 20D ripstop nylon shell. It weighs 2.46 lb, compresses to 9.5 x 7 inches and prints three ratings: comfort 32 to 50F, lower limit 20F and extreme 10F.\n\nNo other bag in the group prints all three temperature tiers, so it is easier to match to a night than the Naturehike Hybrid or Night Cat Down. Leg zippers let you vent or open the bag flat and join two bags together.\n\nGreat for three-season hikers who like seeing a full set of numbers before they buy. The quick-open compression bag keeps pack-up simple.",
     "specs": [
       "600 g of 650FP duck down",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41cRP4tjJAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09Z6BMGLH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09Z6BMGLH?tag=rvgearlab-amz-20",
     "description": "QEZER stuffs this mummy with 1.76 lb of 600+ fill power duck down in an 84.65 x 31.89 inch body with a wide trapezoidal footbox. The listing gives a weight of 3.2 lb and a packed size of 13.78 x 7.48 inches.\n\nAt a lower price than the Mountaintop Mummy and Naturehike Hybrid, it carries more total down by weight, which suits cooler seasons. The footbox adds foot room that a standard mummy lacks.\n\nA sensible buy for budget-minded campers who want real down for spring, fall and cold weather. Left and right zippers join two bags together.",
     "specs": [
       "1.76 lb of 600+ FP duck down",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/417rGmhbTEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GY3GD6VS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GY3GD6VS?tag=rvgearlab-amz-20",
     "description": "Night Cat prints a 32 to 59F range for this 500 g, 600 fill power duck down mummy. It weighs 2.3 lb, packs to 6.7 x 13.8 inches and unfolds to 84.7 x 31.5 inches.\n\nThe dual zippers include an inner fabric barrier that keeps the fabric from catching, a detail the Mountaintop Mummy and QEZER bags do not mention. The 400T nylon shell is designed to keep down from leaking out.\n\nIdeal for campers who want a snag-free zipper and a clear mild-weather range. It covers spring through fall on most trips.",
     "specs": [
       "500 g of 600FP duck down",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/412Jb6Jo9iL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D6YC7YPM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D6YC7YPM?tag=rvgearlab-amz-20",
     "description": "QEZER lists this semi-rectangular bag with 600 fill power duck down, a comfort range of 45 to 61F and a limit of 36F. It weighs 1.59 lb, packs to 9.84 x 5.51 inches and measures 85.04 x 31.5 inches.\n\nLightest and cheapest of the six, it undercuts the Night Cat Down on both weight and cost. Double zippers and a foot zipper add ventilation, and it can pair with a second bag.\n\nA good buy for warm-season hikers and budget gram-counters. Summer and shoulder-season trips are where it fits best.",
     "specs": [
       "600FP duck down, 1.59 lb",

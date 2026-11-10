@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41NQxAzUqiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DMVMZRPT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DMVMZRPT?tag=rvgearlab-amz-20",
     "description": "The Hansing 4-Layer is the only pick here that is a filter, not just a stand. It combines PP cotton, non-woven fabric, activated carbon fiber, a molecular sieve and KDF-55 media, with 3/4 inch GHT brass threads and a brass adapter kit. The listing claims a 5,000 to 7,000 gallon capacity and flow up to 5 gpm.\n\nCompared with the standalone stands below it, you get filtration and a support in one box, but you cannot reuse the stand with other brands. The brass threads and 85 psi pressure rating on the listing are a step up from plastic-threaded hose filters like those the Camco 2-in-1 Stand holds.\n\nBest for owners who want a single purchase and plan to stay with one filter system. The listing claims chlorine, chloroform, PFAS, PFOS and VOC reduction, but name no NSF certification in the highlights, so verify certification before relying on those claims.",
     "specs": [
       "4-layer, KDF-55 included",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411CtW2SCYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07TXRLHQ7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07TXRLHQ7?tag=rvgearlab-amz-20",
     "description": "The Camco 2-in-1 Stand holds both standard (blue and white) and XL Camco inline filters with two holding positions. It is UV-stabilized ABS, made in the USA and patented, and the listing says it reduces hose kinking and maximizes flow.\n\nIt costs more than the Camco Universal Stand because it adapts to two filter sizes, which the single-size Universal does not. Against the scottchen Triple-Prong, it uses plastic that will not rust but offers less ground grip on loose soil.\n\nBest for owners who use Camco filters and may switch between standard and XL cartridges. Not the right choice if you run a wider system from another brand.",
     "specs": [
       "Holds standard and XL filters",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41W66qRMOPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07ZHPCT9J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07ZHPCT9J?tag=rvgearlab-amz-20",
     "description": "The Camco Universal Stand is a plastic stand that holds filters upright and keeps hoses from kinking. It is made to fit most 4 inch filters and is listed as stable on level ground, built from sun-resilient plastic.\n\nIt is cheaper than the Camco 2-in-1 Stand but fits one size only. Compared with the scottchen Triple-Prong, it needs a flat spot to stay stable, because it has no prongs or stakes to bite into the ground.\n\nA good pick for a campsite with a gravel pad or flat dirt where the stand will not be pushed around. It's less suited to soft grass or windy sites.",
     "specs": [
       "Fits most 4 inch filters",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21doa16KQVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GBTMGKJ2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GBTMGKJ2?tag=rvgearlab-amz-20",
     "description": "The scottchen Triple-Prong is a powder-coated iron stand with a three-prong base meant to stay upright on soil, grass, concrete and gravel. Its inner diameter is 4-1/8 inches, and the listing says it can be screwed to the ground for a permanent installation.\n\nNext to the scottchen Iron Stand below, it pushes stability harder with the prong base, while the Iron Stand uses stakes and rings. Against the Camco Universal Stand, the iron body is heavier and more wind-resistant but can rust if the coating wears.\n\nBest for sites with wind or soft ground. The listing warns that wide-body or brand-name housings may not fit, so measure your filter first.",
     "specs": [
       "Triple-prong base",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21q0n52H93L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7BVHYMW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7BVHYMW?tag=rvgearlab-amz-20",
     "description": "The scottchen Iron Stand is rust-resistant powder-coated iron with rings and brackets that you assemble with included hardware. The listing gives actual dimensions, 17 inches high, 5.25 inches wide and 4.1 inches deep, and says stakes anchor it into soil.\n\nIt costs less than the scottchen Triple-Prong but anchors with stakes, so you need ground soft enough to push them in. The listing suggests wetting dry or hard ground first. Compared with the Camco Universal Stand, it is more work to set up but stays put in a breeze.\n\nA good pick if you want the stake-anchored iron option and like seeing exact dimensions on the listing. Measure your filter against them.",
     "specs": [
       "17 in H, 5.25 in W",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Aq8nZRnWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GSFY97TV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GSFY97TV?tag=rvgearlab-amz-20",
     "description": "The Hansing Plastic Stand is made for Hansing 4.5 x 10 RV filter systems, models HSG-03 and HSG-04. The listing gives no feature detail beyond its title, so material and weight capacity are unconfirmed.\n\nUnlike the universal scottchen and Camco stands, this one is aimed at a specific filter family. It makes sense next to the Hansing 4-Layer only if your system is the 4.5 x 10 size named in the title.\n\nBuy it only if you already own a matching Hansing system and need a replacement. For anyone else, the universal stands here have more detail and wider fit.",
     "specs": [
       "Fits 4.5 x 10 Hansing systems",

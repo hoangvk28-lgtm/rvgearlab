@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/414DJ9IDGTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H33MJZPS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H33MJZPS?tag=rvgearlab-amz-20",
     "description": "The FEELLE lists a 50000mAh lithium polymer battery, a redesigned solar panel, 15W magnetic wireless charging and a hand crank. It has 4 built-in cables (USB-C, a phone cable, Micro and USB-A) and 3 ports, and charges up to 6 devices at once.\n\nNeither the crank nor the magnetic wireless snap-on appears on the SOARAISE, which sets the two apart. Its four built-in cables outnumber the SOARAISE's two.\n\nIt suits campers and storm-prep buyers who want every possible charging route. The crank adds an emergency way to generate a little power.",
     "specs": [
       "50000mAh, solar panel, hand crank",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Hc5hF3cJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H7J4QTX9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H7J4QTX9?tag=rvgearlab-amz-20",
     "description": "The SOARAISE lists 50000mAh, 22.5W PD fast charging, 15W wireless charging and 2 built-in cables (1 USB-C and 1 Lightning) plus 3 extra ports. It charges 6 devices together and is described as approved for air travel.\n\nIt charges faster over USB-C than most solar banks, and it costs less than the FEELLE. It has fewer built-in cables and no hand crank.\n\nIt suits campers who want quick phone charging from a large solar bank. An iPhone 17 is listed reaching 70 percent from empty.",
     "specs": [
       "50000mAh, 22.5W PD, solar",

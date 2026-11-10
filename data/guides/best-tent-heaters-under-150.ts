@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41n754IfZbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B002G51BZU?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B002G51BZU?tag=rvgearlab-amz-20",
     "description": "The Mr. Heater Portable Buddy is a radiant propane heater with 4,000 or 9,000 BTU settings, heating about 225 square feet. It is approved for indoor and outdoor use and has an emergency low oxygen shutoff.\n\nIt costs about $90, roughly $20 more than the Little Buddy, and it delivers more than double the heat. It runs about 5.4 hours on low and 2.4 hours on high from a 1 lb cylinder, which beats the Little Buddy per cylinder at its lowest setting.\n\nIt suits campers with a larger tent or a screen room who want a proven kind of safety system. Use it with fresh air, a CO alarm and plenty of clearance from fabric.",
     "specs": [
       "4,000 or 9,000 BTU radiant",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31+0oURWZUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B001CFRF7I?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B001CFRF7I?tag=rvgearlab-amz-20",
     "description": "The Mr. Heater Little Buddy is a 3,800 BTU radiant propane heater that warms up to about 95 square feet. It has one-button ignition and an 8 inch stand.\n\nIt costs about $70, which is $20 under the Portable Buddy, and it delivers a smaller dose of heat. It is the pick for a one-person or two-person tent where the Portable Buddy would be more heat than the space needs.\n\nIt suits solo campers and ice fishers who want a small, simple radiant heater. It is also a good emergency heater for a vehicle camp.",
     "specs": [
       "3,800 BTU radiant propane",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41qm9UMZ+FL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HH97B2NW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HH97B2NW?tag=rvgearlab-amz-20",
     "description": "The Rechargeable Battery Tent Heater is a quiet, cordless electric heater with two temperature levels that charges by USB. It has no flame and no carbon monoxide risk, and it is sold for tents, cars and power outages.\n\nIt costs about $75, close to the Little Buddy, and it is the only pick that is safe in a closed space from a combustion standpoint. Its heat output is much smaller than the Portable Buddy or CAMPLUX 8,500 BTU, so it warms a sleeping area, not a room.\n\nIt suits solo campers who want a safe, quiet heater inside a small tent at night. It also works in cars and during power cuts.",
     "specs": [
       "Rechargeable USB-charged",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31O9bim-a5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FH7B4G3V?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FH7B4G3V?tag=rvgearlab-amz-20",
     "description": "The CAMPLUX is an 8,500 BTU propane heater with two heat levels, a tilt switch, an oxygen sensor and a detachable tripod base. It is sold as an outdoor patio heater.\n\nIt costs about $100, higher than the Portable Buddy, and it is not rated for tent use, so its role is warming a camp circle or an awning. It carries safety sensors, and the indoor approval belongs to the Portable Buddy.\n\nIt suits campers who sit outside in the cold and want a stable heater with tripod legs. Never run it inside a closed tent.",
     "specs": [
       "8,500 BTU propane, two levels",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41AAUzVgDFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CPJ73XB7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CPJ73XB7?tag=rvgearlab-amz-20",
     "description": "The MOZODAWN is a 13,000 BTU propane heater and stove in one, with a tip-over switch, an oxygen-depletion switch and a 5 ft hose connector. It has a carry handle and a stainless threaded fitting.\n\nIt costs about $75, nearly the same as the Little Buddy, and it has the highest output of any propane pick here. It also cooks, which the Portable Buddy and CAMPLUX do not, and it takes any standard propane tank on the 5 ft hose.\n\nIt suits ice fishers and hunters who want one unit to heat and boil water. Keep it outside the tent.",
     "specs": [
       "13,000 BTU radiant heat",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/413qFDH37NL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B077JM5PB9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B077JM5PB9?tag=rvgearlab-amz-20",
     "description": "The Dr. Infrared is a 120V infrared heater with 900, 1200 and 1500W settings, IP55 weather protection and a remote. It ships with wall and ceiling brackets.\n\nIt costs about $126, the most in the group, and it makes odorless, flameless heat from household power. It needs an outlet, so it suits a campsite with electric hookup, not a backcountry trip.\n\nIt suits RV campers who want to warm a screen room, canopy or garage. Keep it well away from fabric.",
     "specs": [
       "900, 1200, 1500W settings",

@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41IQJe4qFqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CLRY5J2N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CLRY5J2N?tag=rvgearlab-amz-20",
     "description": "The Power Queen G24 is a 12V 100Ah LiFePO4 battery in a Group 24 case with 1280Wh of usable energy. The listing cites 4000 cycles at 100% depth of discharge, a 5-year warranty and 1/3 the weight of Group 24 AGM. Price is $242.99.\n\nIt costs $73.00 more than the Weize AGM 100Ah but delivers about 1280Wh versus roughly 600Wh of usable AGM at 50% depth. Pick this for a motorhome house bank you want to drain deeply. Caveat: LiFePO4 needs a charger with a lithium profile.",
     "specs": [
       "12V 100Ah, 1280Wh",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41bqV6Wt2oL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07SW353M8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07SW353M8?tag=rvgearlab-amz-20",
     "description": "The Weize AGM 100Ah is a sealed lead-acid battery at 12.99 x 6.73 x 8.43 inches. It charges from 14°F to 122°F, self-discharges 1 to 3% a month, and lists 1100A for 5 seconds. Price is $169.99, with a 1-year warranty.\n\nIt is $73.00 cheaper than the Power Queen G24, but AGM gives usable energy only down to about 50% depth. Pick this for a low-cost replacement on a motorhome with a standard charger. Caveat: the listing does not give weight, and you must keep it charged.",
     "specs": [
       "12V 100Ah AGM",

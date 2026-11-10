@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/414CNzptfLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B1HF1NS8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B1HF1NS8?tag=rvgearlab-amz-20",
     "description": "BougeRV's Li 10A is the best-documented small PWM here, with stated wattage limits at both 12V and 24V. BougeRV's Li 10A is a PWM controller for 12V or 24V banks that accepts 150W at 12V (300W at 24V) with a maximum 55V PV input. Its backlit LCD cycles PV current and battery voltage and shows special icons for LFP and other lithium types.\n\nIt tells you exactly what it can take (150W at 12V, 300W at 24V), which AeternaSol 10A MPPT and VUICCI 10A MPPT do not spell out. It is PWM, so it cannot recover extra panel voltage the way those MPPT units claim to.\n\nBest for a small lithium or lead-acid bank with a single panel. It is a solid small-array unit for lithium or lead-acid, as long as one or two panels is all you plan to run.",
     "specs": [
       "10A PWM, 12V/24V",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51WSMQ9UJNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G4VLLK2R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G4VLLK2R?tag=rvgearlab-amz-20",
     "description": "AeternaSol's 10A MPPT is a 12V-only unit that lists zero idle drain and anti-reverse protection. AeternaSol's 10A model is an MPPT controller engineered for 12V batteries only, and the listing says plainly it is not compatible with 24V or 36V packs. It pairs a high-definition LCD and LED indicators with Type-C and USB output ports and lists zero power use when idle.\n\nIt adds MPPT to the same size class as BougeRV Li 10A PWM but gives up 24V support. Compared with VUICCI 10A MPPT it has Type-C and USB output without the fast-charge wattage.\n\nBest for one or two 12V panels where you want tracking. It is a good fit for one or two small 12V panels, and a bad fit if you may upgrade to a 24V bank.",
     "specs": [
       "10A MPPT, 12V only",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41asbhx647L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GFPJ1LTV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GFPJ1LTV?tag=rvgearlab-amz-20",
     "description": "VUICCI's 10A MPPT adds a 22W USB-C PD port and an 18W QC USB port to a 12V controller. VUICCI's 10A model is a 12V MPPT controller with a 22W USB-C PD port and an 18W QC USB port for charging devices straight from the panel. The listing names gel, AGM, sealed lead-acid, flooded and LiFePO4 batteries and describes eight layers of protection and a real-time LCD.\n\nIt out-charges AeternaSol 10A MPPT on device ports, but the claim of up to 30% more harvest than PWM is a best case. It shares its description with VUICCI 10A USB-C.\n\nBest for a camper that charges phones and tablets from the panel. The harvest gain over PWM depends on your panels, so treat the 30% figure as a best case rather than a promise.",
     "specs": [
       "10A MPPT, 12V only",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41JFwAE+j8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09MVYXQ1P?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09MVYXQ1P?tag=rvgearlab-amz-20",
     "description": "Newpowa's 10A is a compact PWM that auto-detects 12V or 24V and shows settings on an LCD. Newpowa's 10A controller is a compact PWM unit that detects 12V or 24V systems automatically and shows status and settings on an LCD. It uses a three-stage charge (equalize, boost, float) and the listing names AGM, gel, flooded and lithium batteries.\n\nIt supports 24V where AeternaSol 10A MPPT does not, but lacks the USB ports of the VUICCI units. The three-stage charge includes an equalize step.\n\nBest for a small lithium or AGM install that needs 12V or 24V. It is a straightforward PWM choice for one panel when you want an LCD and a lithium mention.",
     "specs": [
       "10A PWM, 12V/24V auto",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41BJ3J3j6-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H45H31K8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H45H31K8?tag=rvgearlab-amz-20",
     "description": "EtnalSolar's 10A PWM is the lowest-cost option and carries a backlit LCD with a timer. EtnalSolar's 10A PWM controller handles 12V or 24V lead-acid and lithium batteries with a three-stage charge and keeps its settings after a power outage. A backlit LCD shows voltage, charging current and mode, and an adjustable timer sets automatic on and off schedules.\n\nIt costs less than Newpowa 10A and remembers its settings through power loss. The listing frames it as a trickle charger.\n\nBest for a boat battery or small lighting project. The listing pitches it at small jobs like boat battery upkeep and gate openers, so it suits a trickle-charge role.",
     "specs": [
       "10A PWM, 12V/24V",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41nRPXL7R-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GCFTDRZS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GCFTDRZS?tag=rvgearlab-amz-20",
     "description": "This VUICCI listing repeats the same 10A 12V MPPT description as VUICCI 10A MPPT at a slightly lower price. This second VUICCI listing carries the same 10A 12V MPPT description, with a 22W USB-C port, an 18W USB port, LCD monitoring and eight layers of protection. It names the same gel, AGM, sealed, flooded and LiFePO4 batteries.\n\nIt matches that sibling feature for feature and sits below AeternaSol 10A MPPT only on documentation. Pick it if the price is lower when you buy.\n\nBest for a 12V small-panel setup on the tightest MPPT budget. Choose whichever of the two VUICCI listings is cheaper on the day, since the copy describes the same controller.",
     "specs": [
       "10A MPPT, 12V only",

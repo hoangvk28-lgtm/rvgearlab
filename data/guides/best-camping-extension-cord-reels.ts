@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41T8yNmanDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07PBL5MK4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07PBL5MK4?tag=rvgearlab-amz-20",
     "description": "The Link2Home reel carries 60 feet of 14 AWG SJTW cord with four grounded 120 volt outlets, a built-in circuit breaker with overload protection and a cord locking system. A heavy-duty winding handle keeps the cord tidy, and the listing describes it for drills, saws, work lights and lawn mowers.\n\nIt has the longest cord on this list and keeps the same 14 gauge wire as the Masterplug models. Compared with the Masterplug 50 ft, it adds ten feet of reach and drops the USB ports.\n\nIt suits campers with a big site who want a long, heavy cord that stows in a compact roll. The locking system holds the length you pull out.",
     "specs": [
       "60 ft, 14 AWG SJTW",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41qIIxvxkPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07J2PV4JJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07J2PV4JJ?tag=rvgearlab-amz-20",
     "description": "The Masterplug 50 ft reel has 14 AWG cord rated 13 amps, four shuttered grounded outlets, two USB charging ports, an LED indicator and an integrated power switch. A safety overload breaker and a winding handle with cord guide are built in, and the cable is high visibility.\n\nIt is the only reel here with both a power switch and USB ports, so phones charge without using an outlet. Against the Masterplug 40 ft, it adds ten feet and USB for a higher price.\n\nIt suits campers who run lights, a fan and phone chargers from one reel. The high-visibility cable helps at night.",
     "specs": [
       "50 ft, 14 AWG, 13A",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41xQJKORHdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01N5F0NTJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01N5F0NTJ?tag=rvgearlab-amz-20",
     "description": "The Masterplug 40 ft reel is a case-style reel with 14 AWG cord rated 13 amps, four shuttered grounded outlets, an LED indicator, an integrated power switch and a safety overload circuit breaker that resets after a cut-out. It also has a winding handle and a high-visibility cable.\n\nIt gives the same gauge and breaker as the 50 foot model at a lower price, and drops the USB ports. Compared with the Black+Decker, it offers 15 more feet and a heavier gauge.\n\nIt suits campers who want a mid-length reel with a breaker that they can reset. The case design keeps the reel compact.",
     "specs": [
       "40 ft, 14 AWG, 13A",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41A-CvLpvML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B091FZK1CP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B091FZK1CP?tag=rvgearlab-amz-20",
     "description": "The Black+Decker reel carries 25 feet of retractable 16 AWG cord with four grounded outlets, two 2.1A USB ports and a built-in circuit breaker. A rewind wheel keeps the cord tidy and a handle makes it easy to carry.\n\nIt is the shortest reel here and uses 16 gauge wire. Compared with the DEWENWILS, it adds USB ports and a breaker for a modest price step.\n\nIt suits campers who need a small reel for a campsite lantern, a fan and phone chargers. The 25 foot length keeps voltage loss low.",
     "specs": [
       "25 ft, 16 AWG, 4 outlets",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4177kGPl8uL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FVS2KS5S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FVS2KS5S?tag=rvgearlab-amz-20",
     "description": "The DEWENWILS hand-wind reel has 30 feet of 16/3 STJW cord, four built-in grounded outlets and a twist knob for winding. It is UL listed, weighs 3.12 pounds and has a portable top handle.\n\nIt is the cheapest reel here and lists a light 3.12 pounds, with five more feet than the Black+Decker. Compared with the Masterplug 40 ft, it gives up the breaker and the thicker wire for a lower price.\n\nIt suits budget campers who want a light, tidy reel for lights and chargers. The hand-wind knob avoids a spring mechanism.",
     "specs": [
       "30 ft, 16/3 STJW, 4 outlets",

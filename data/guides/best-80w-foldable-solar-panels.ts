@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41VXP8HkOfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DR1YXSXQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DR1YXSXQ?tag=rvgearlab-amz-20",
     "description": "The MHPOWOS 80W weighs 5.89 lbs and folds to 12.5 by 9.6 by 2.5 inches, with a 5A DC output plus USB-C and USB-A ports. It uses 23 percent efficient ETFE monocrystalline cells with IP65 protection and a 5-in-1 connector covering XT60, DC5521, DC35135, DC7909 and DC8020.\n\nAgainst the Yosoo, it adds a DC output, USB-C and a stated warranty. The box also includes four carabiners and a 2-in-1 USB cable.\n\nIt suits campers who juggle phones, a small station and a camera. The 12-month warranty is named on the listing.",
     "specs": [
       "80W, 23% ETFE panel",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/310vO3FZ82L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DL537Y51?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DL537Y51?tag=rvgearlab-amz-20",
     "description": "The Yosoo is an 80W monocrystalline folding panel with dual USB output, an ETFE folding-bag design and a built-in voltage regulator. It lists integrated kickstands, carabiners and casing for flat, angled or hanging use.\n\nIt costs a lot less than the MHPOWOS and puts its protections up front. Compared with the MHPOWOS, its dual USB ports simultaneously handle 12V and 5V devices.\n\nIt suits budget campers who want an 80W panel for phones and small gadgets. The kickstands set the panel angle quickly.",
     "specs": [
       "80W monocrystalline ETFE",

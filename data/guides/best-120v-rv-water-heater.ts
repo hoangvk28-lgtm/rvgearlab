@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21fkOTUPZdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FP5R241K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FP5R241K?tag=rvgearlab-amz-20",
     "description": "GE Appliances 10 Gallon Plug and Play is an electric water heater that uses standard 3/4 inch NPT connections and connects into any 120 volt supply. The listing names RVs among its uses, an adjustable thermostat, an 8 year limited warranty and a booster role inline with another heater.\n\nAgainst VEVOR 12 Gal, it carries a stated warranty and plug-in setup. Against YONOOQ 4 Gal, it holds more water.\n\nIt is the best match for owners who want a plug-in 10 gallon tank with a strong warranty. Think of it as the pick for plug-in tank heaters.",
     "specs": [
       "10 gallon plug and play",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41pvzLnAm4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H5K7B9FH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H5K7B9FH?tag=rvgearlab-amz-20",
     "description": "YONOOQ 4 Gallon is a 1500 watt 110 volt mini tank with a 304 stainless steel inner tank and a 31.5 inch power cord. The listing says it heats in 5 to 10 minutes and has anti-leakage, overheat and dry-burn protection.\n\nAgainst Ranein 2.5 Gal, it holds more water. Against GE 10 Gal, it is a mini under-sink unit.\n\nIt suits owners who need a small point-of-use heater at a sink. Buyers focused on sink hot water will find it a sensible match.",
     "specs": [
       "4 gallon, 1500W, 110V",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31xkZ32AATL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GT73JPH3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GT73JPH3?tag=rvgearlab-amz-20",
     "description": "Ranein 2.5 Gallon is a horizontal mini tank with a 1440 watt heating rod, 120 volt AC power and a 43 inch cord. The listing gives 13 by 10 by 10 inch dimensions and 1/2 inch NPT fittings.\n\nAgainst YONOOQ 4 Gal, it is smaller and cheaper. Against VEVOR 12 Gal, it is a single-sink unit.\n\nIt suits tight cabinets and small sinks. It earns its slot for single sink.",
     "specs": [
       "2.5 gallon, 1440W",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/417mQEZ+J5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G7KNM53X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G7KNM53X?tag=rvgearlab-amz-20",
     "description": "VEVOR 12 Gallon is a 1600 watt point-of-use electric tank heater with an enamel interior and a rotary temperature knob. The listing says it fits one or two outlets and includes dry-heating, overheating and overpressure protection.\n\nAgainst GE 10 Gal, it is larger at a lower price. Against YONOOQ 4 Gal, it can serve two outlets.\n\nIt suits owners who want a bigger tank at a low price. It is a natural fit for two-outlet use.",
     "specs": [
       "12 gallon, 1600W",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41DrTTwMVcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FGXLLMXH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FGXLLMXH?tag=rvgearlab-amz-20",
     "description": "KINGRVER 6 Gallon is a propane and electric hybrid RV tank heater designed for most 4 to 6 gallon cutouts. The listing says gas mode uses 12 volt DC ignition and gives one-touch temperature settings at 104, 122 and 140 degrees F.\n\nAgainst GE 10 Gal, it is an RV cutout replacement with gas. Against MQLPXI Kit, it is a complete heater.\n\nIt suits owners replacing an RV tank heater who want gas and electric. Think of it as the pick for rv cutout replacement.",
     "specs": [
       "6 gallon propane and electric",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41t2a9TA8rL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FWC377MC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FWC377MC?tag=rvgearlab-amz-20",
     "description": "MQLPXI Kit converts a propane RV water heater to 120 volt electric heating. The listing says it includes brass bushings and an adjustable thermostat, is compatible with most Atwood and Suburban tanks and cuts out above 5 amps.\n\nAgainst KINGRVER 6 Gal, it adds an element to an existing heater instead of replacing it. Against GE 10 Gal, it is a conversion kit.\n\nIt suits owners who want to save propane on an existing tank. Buyers focused on existing tank upgrades will find it a sensible match.",
     "specs": [
       "Electric conversion kit",

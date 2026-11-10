@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41raMn+AHDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H878NF4W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H878NF4W?tag=rvgearlab-amz-20",
     "description": "The DARAN R200 holds 192Wh of LiFePO4 power with a 200W rated, 400W surge output through two pure sine wave AC outlets. A bi-directional 100W USB-C PD port both fast-charges a laptop and recharges the station, and the listing quotes about 2 hours for a full recharge.\n\nIt pairs the same 192Wh capacity as the Powkey R180 with faster refilling and a built-in MPPT controller for solar. The BLUETTI Elite 10 Mini carries less energy at 128Wh, while the DARAN adds a second AC outlet.\n\nIt suits campers who want the quickest turnaround between nights. The listing quotes 3,500 or more cycles to 80% capacity.",
     "specs": [
       "192Wh LiFePO4, 200W rated",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31VvYAA+NUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FS6429MD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FS6429MD?tag=rvgearlab-amz-20",
     "description": "The BLUETTI Elite 10 Mini packs 128Wh into a 4.0 pound body, with a 200W AC outlet, 100W USB-C, a built-in 10ms UPS and 350W of bypass output. The listing calls it airline friendly and says it recharges from AC in about 70 minutes at 150W.\n\nIt is the lightest here and the only one with a named UPS, which keeps a router or laptop running through an outage. It stores less energy than the 192Wh units, in return for faster refills and a Bluetooth app.\n\nIt suits hikers, flyers and travelers who treat a station as a bigger power bank. Three lighting modes include an SOS setting.",
     "specs": [
       "128Wh, 4.0 lb, 200W AC",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51ueD7s3b6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FBS5KZKB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FBS5KZKB?tag=rvgearlab-amz-20",
     "description": "The Powkey 200W Solar Kit includes a 40W solar panel with a 146Wh, 39,600mAh pure sine wave station. Two 110V AC outlets cap at 200W, with four USB outputs and seven outlets in total, and the listing gives 5 to 6 hours for a wall recharge.\n\nIt is the only pick here that ships with a panel, which saves buying one separately. The 40W panel recharges slowly, so it works for top-ups, while the 192Wh units carry more energy per charge.\n\nAnyone starting out with solar for car camping gets a station and panel in one box. The upgraded BMS adds overload and temperature protection.",
     "specs": [
       "146Wh, 200W pure sine AC",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Eg7EkHYHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GLYDTZHZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GLYDTZHZ?tag=rvgearlab-amz-20",
     "description": "The Powkey R180 stores 192Wh in LiFePO4 cells and measures 7.1 by 5.3 by 5.5 inches at 4.7 pounds, with a foldable handle. Ports include one 120V 200W AC outlet, two USB ports, a USB-C port and two 12V 10A DC outputs, plus a dual-white LED light.\n\nIt matches the capacity of the DARAN R200 for less money, with a single AC outlet and slower wall refilling. Against the MARBERO it holds about 30% more energy.\n\nIt suits car campers who want runtime above all and will plug in overnight. The LED flashlight doubles as a small camp lantern.",
     "specs": [
       "192Wh LiFePO4, 4.7 lb",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41H27zmeiLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B8HMDRYZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B8HMDRYZ?tag=rvgearlab-amz-20",
     "description": "The MARBERO M822 has a 148Wh battery and a 110V AC inverter rated 200W with 270W max. It has two QC3.0 USB-A ports, two more USB-A ports and a PD USB-C port, and two LED flashlights act as a lantern.\n\nIts two lights, on top and on the side, make it the most useful as a tent lantern. It takes about 7 hours from a wall outlet or 9 from a car adapter, which is slower than the DARAN R200.\n\nIt suits campers who want lighting and charging in one device. Its 270W ceiling gives small surges a little room.",
     "specs": [
       "148Wh, 200W AC, 270W max",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31FBcuGw68L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DKFR196Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DKFR196Q?tag=rvgearlab-amz-20",
     "description": "This 192Wh unit measures 4.6 by 4.6 by 7 inches and weighs 3.9 pounds, with LiFePO4 cells rated for over 3,000 cycles. It has one AC outlet, two Type-C, two USB-A and two DC ports, and an LED light with an SOS mode.\n\nThe AC rating is 100W with a 200W surge, so it is the nearest fit rather than a true 200W unit. It still stores the same 192Wh as the DARAN R200 and Powkey R180 at the lowest price here.\n\nIt suits laptop, phone and light charging where no heater or fan is plugged in. The listing says it is about the size of a basic DSLR.",
     "specs": [
       "192Wh, 3.9 lb, LiFePO4",

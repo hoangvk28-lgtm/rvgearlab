@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Olnnw67DL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CLRB4QLM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CLRB4QLM?tag=rvgearlab-amz-20",
     "description": "The Columbia Ascender is a full-zip softshell made from 100 percent polyester with comfort stretch. It is water- and wind-resistant, cut in a regular fit and finished with an abrasion-resistant chin guard, zippered chest and hand pockets, and adjustable cuffs and hem.\n\nCompared with the MAGCOMSEN Fleece Softshell, it adds a name-brand cut and stretch fabric. Against the Amazon Essentials Softshell, it brings adjustable cuffs, a drawcord hem and a chin guard.\n\nIt is the choice for men who want a clean everyday and trail jacket from a brand that stands behind its fit. It sits near the top of this budget range, which is still well under $100.",
     "specs": [
       "100% polyester comfort stretch",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31958wZoS+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BGWSFRQX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BGWSFRQX?tag=rvgearlab-amz-20",
     "description": "The MAGCOMSEN Fleece Softshell lists a 10,000 mm water resistance index and 5,000 g per square meter per 24 hours of breathability. A warm fleece lining, a stand collar with an insulated cover, hook-and-loop cuffs and a drawstring hem seal out wind, and four pockets include a deep inner one.\n\nNext to the TACVASEN Lightweight Softshell, it states its waterproof and breathability numbers outright. Against the Columbia Ascender, it adds a fleece lining and more pockets.\n\nIt suits men who walk or work in cold drizzle and want actual numbers on the listing. The brand lists hiking, climbing, camping and cycling uses.",
     "specs": [
       "10,000 mm water resistance rating",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31MJY-pYoPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C6G8YY3Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C6G8YY3Q?tag=rvgearlab-amz-20",
     "description": "The 33,000ft Lightweight Softshell has a 3-layer build of softshell outer, TPU membrane and fleece inner. It has seven pockets, a neck collar and drawcord hem, a chin guard and a slim, flexible fit.\n\nCompared with the TACVASEN Lightweight Softshell, it brings more pockets and a golf-style slim cut. Against the Amazon Essentials Softshell, it adds a membrane and a drawcord hem.\n\nIt suits men who prefer a trimmer cut for cycling, golf and trail days. The listing calls it windproof, stain- and abrasion-resistant.",
     "specs": [
       "3-layer membrane fleece build",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/318tojvsHPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BFJF427H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BFJF427H?tag=rvgearlab-amz-20",
     "description": "The TACVASEN Lightweight Softshell uses a 3-layer build with a TPU membrane and fleece lining. The listing names 4-way stretch, a protective chin guard, four functional pockets and a loop at the neck for hanging.\n\nCompared with the 33,000ft Lightweight Softshell, it costs a little less and offers four-way stretch. Against the MAGCOMSEN Fleece Softshell, it is lighter and stated for fall through spring.\n\nIt suits men who want a lightweight 3-layer jacket for multi-season use. The stand collar and hem adjustments help block wind.",
     "specs": [
       "3-layer softshell, TPU membrane",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31RLhj58knL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B06XWN9SLW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B06XWN9SLW?tag=rvgearlab-amz-20",
     "description": "The Amazon Essentials Softshell is a regular-fit jacket with a micro fleece shell and a bonded membrane inside for wind and water resistance. It has a full-length center zipper, stand-up collar, hook-and-loop sleeve tabs and two zippered hand pockets plus a chest pocket.\n\nCompared with the Columbia Ascender, it costs much less and drops the chin guard and drawcord hem. Against the TACVASEN Lightweight Softshell, it is a simpler bonded-fleece build.\n\nIt is the answer for men who want a basic layering piece without spending much. The listing describes it as a classic fleece-backed softshell.",
     "specs": [
       "Bonded fleece with membrane",

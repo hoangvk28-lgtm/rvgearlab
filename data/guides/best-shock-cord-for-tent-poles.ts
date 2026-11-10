@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41sbordFbeL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7MZC58N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7MZC58N?tag=rvgearlab-amz-20",
     "description": "The Hibinew pack holds 60 feet of 1/8 inch shock cord with a natural latex core inside a polypropylene sheath. It includes a steel lead wire, four steel washers and a clip for repairing tent poles.\n\nUnlike the Abma and Radix spools, it adds the threading wire and washers, so it is the closest to a repair kit. Against the BRILLIANCE4U it uses thicker 1/8 inch cord.\n\nIt suits a camper fixing a set of tent poles at home. The cord and hardware come in one pack.",
     "specs": [
       "1/8 inch, 60 feet",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41vVUuU9MUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B1HF5B25?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B1HF5B25?tag=rvgearlab-amz-20",
     "description": "The BRILLIANCE4U pack is 60 feet of 3/32 inch (2.5 mm) shock cord in red and white, with steel wire and steel washers for tent pole repair. The cord cuts to length with extra left over.\n\nAt 3/32 inch it is thinner than the Hibinew's 1/8 inch cord, which suits narrow pole channels. The wire and washers also come in the pack.\n\nIt suits lightweight tents and trekking poles with narrow channels. The colored cord is easy to spot.",
     "specs": [
       "3/32 inch (2.5 mm), 60 ft",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41gYhuEh35L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00ARF7QS2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00ARF7QS2?tag=rvgearlab-amz-20",
     "description": "The AceCamp cord is 100% nylon at 1/8 inch, sold either as one 65-foot length or as a 2 pack of 16-foot ropes. It is described as elastic, abrasion and UV resistant.\n\nIt is the only all-nylon cord in this list, where the others use rubber or latex cores. It is also packaged for pole repair and emergency kits.\n\nIt suits a camper who wants a cord for the repair kit. A 30-day return or exchange policy backs it.",
     "specs": [
       "100% nylon, 1/8 inch",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41bNkVDzD+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G4TMVPKB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G4TMVPKB?tag=rvgearlab-amz-20",
     "description": "The Abma cord is a 1/8 inch bungee with a rubber core and a polyester sheath on a 100-foot spool. The spiral spool structure is said to prevent tangling, and the cord is described as quick-drying and sun-proof.\n\nAgainst the Hibinew it adds 40 more feet of cord on a spool. Several diameter options and more than 10 colors are available.\n\nIt suits a camper or family who repairs more than one tent. The spool keeps long lengths tidy.",
     "specs": [
       "1/8 inch, 100 ft spool",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51WvJjvZUKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FF1V48PV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FF1V48PV?tag=rvgearlab-amz-20",
     "description": "The Radix cord is a 1/8 inch, 100-foot roll with a latex core and a white polyester sheath with a black tracer line. It is described as resistant to fraying, UV rays and moisture.\n\nIt has the same 100-foot length as the Abma spool, with a black tracer line that helps you measure and see the cord. It also costs less than the Abma.\n\nIt suits a camper who wants easy-to-see cord for general repairs. The roll can be cut to many lengths.",
     "specs": [
       "1/8 inch, 100 ft roll",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41jFcuib1XL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0000E0QX5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0000E0QX5?tag=rvgearlab-amz-20",
     "description": "Coghlan's sells an 18 foot shock cord kit that is 3/32 inch (0.09 inch) in diameter. It is aimed at tent pole repair and priced at the bottom of this list.\n\nIt carries much less cord than the 60 foot Hibinew and BRILLIANCE4U, at a much lower cost. It shares the 3/32 diameter with the BRILLIANCE4U.\n\nIt suits a camper who needs enough cord for one repair. The name is familiar from camp stores.",
     "specs": [
       "18 ft, 3/32 inch cord",

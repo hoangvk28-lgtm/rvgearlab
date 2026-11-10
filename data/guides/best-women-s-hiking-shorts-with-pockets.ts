@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41I98Kcy3iL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C7RDHMTD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C7RDHMTD?tag=rvgearlab-amz-20",
     "description": "The MAGCOMSEN Zip Pocket is a women's hiking short with two front zipper pockets and one rear zipper pocket, all large enough for a phone. A lightweight quick-dry fabric repels light moisture, and a drawstring waistband adjusts the fit.\n\nIt gives three fully zipped pockets at one of the lowest prices in the group, which beats the single zipper on the SANTINY Pocket for security. It lacks the UPF number of the SANTINY Pocket.\n\nIt suits a hiker who wants secure storage for a phone, keys and cards without a cargo bulk. A hard-wearing fabric suits varied terrain.",
     "specs": [
       "3 zipper pockets, front and rear",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31xH0Mpl6IL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F26NKLXG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F26NKLXG?tag=rvgearlab-amz-20",
     "description": "The SANTINY Pocket is a women's hiking short in 4-way stretch fabric with a UPF 50+ rating and a quick-dry finish. It has two hand pockets, a deep back drop-in pocket for a phone and an extra zippered pocket for keys and cards, plus belt loops and a concealed zip fly.\n\nNext to the MAGCOMSEN Zip Pocket, it adds a stated UPF 50+ and 4-way stretch, with one zippered pocket instead of three. It also offers 5 or 7 inch inseam options.\n\nIt suits a hiker who wants a tailored, stretchy short with sun protection and mixed pocket types. The deep back pocket keeps a phone handy.",
     "specs": [
       "UPF 50+, 4-way stretch",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41QXwRbxFVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F145CX2Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F145CX2Q?tag=rvgearlab-amz-20",
     "description": "The G Gradual Cargo is a women's 7 inch hiking and golf short with two zippered cargo pockets and two deep side pockets. A quick-dry moisture-wicking fabric resists light rain and stains, and UPF 30 blocks UVA and UVB.\n\nIt has the best large-item storage in the group, with zippered cargo pockets that hold more than the hand pockets on the SANTINY Pocket. It carries a UPF 30 rating, which is lower than SANTINY's 50+.\n\nIt suits a hiker who carries a map, snacks and a headlamp and wants true cargo pockets. A button, zip and elastic waistband with belt loop adds fit.",
     "specs": [
       "Zippered cargo pockets, 2 deep side",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41mPrgB9pUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FK3VXS9X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FK3VXS9X?tag=rvgearlab-amz-20",
     "description": "The Yoglegins Cargo is a women's 8 inch hiking and work short with five pockets: two side pockets, two cargo pockets and a back zipper pocket. The 100% polyester fabric is lightweight, water resistant and quick drying with UV protection, and the back elastic waistband has belt loops.\n\nIt carries the highest pocket count of the five and ties for the longest inseam at 8 inches, which the SANTINY Pocket and G Gradual Cargo do not match. It sits between them on price.\n\nIt suits a woman who wants extra storage and a longer length for worksites, hikes and travel. Front zip closure keeps it easy to put on.",
     "specs": [
       "Five pockets, 8-inch inseam",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31NzUVnbngL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H3Z95DGT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H3Z95DGT?tag=rvgearlab-amz-20",
     "description": "The Ipletix Zip is a women's 8 inch hiking short with three zippered pockets (two front, one rear), a lightweight quick-dry fabric and a water-resistant finish. A high-stretch elastic waistband with adjustable drawstring tunes the fit.\n\nIt is the cheapest pair in the group and matches the MAGCOMSEN Zip Pocket for zipper count, with a longer inseam of 8 inches. It lacks any sun rating.\n\nIt suits a budget hiker who wants three zip pockets and a longer short. The high-stretch waistband moves with you.",
     "specs": [
       "Three zipper pockets, 8 inch inseam",

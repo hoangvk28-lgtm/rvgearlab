@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Yk02ZpoHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FBXRR7CX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FBXRR7CX?tag=rvgearlab-amz-20",
     "description": "Griot's Garage Wash and Wax is a concentrated, pH-balanced soap with carnauba wax for RVs, campers, trailers and boats. The listing says one ounce makes a gallon of wash solution and that it works on paint, chrome, vinyl, plastic and rubber.\n\nAgainst the two polishes, it is the only pick meant for regular washing, and it maintains rather than corrects. It does not claim to remove oxidation, so chalky aluminum needs a separate step.\n\nBest for routine washing of sound or painted aluminum siding. The listing does not name aluminum, so test a small area first.",
     "specs": [
       "Concentrated pH-balanced wash",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41BXhcCx4WL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0007RVLOA?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0007RVLOA?tag=rvgearlab-amz-20",
     "description": "3D Metal Polish is a heavy-duty polish for aluminum, chrome, brass, copper and silver that says it breaks down oxidation and tarnish without old-school abrasives. It applies by hand with a microfiber towel or with a polisher on large surfaces.\n\nAgainst Chemical Guys Heavy Metal, it leads on oxidation and tarnish claims and has no sealant note. Against Griot's Wash and Wax, it corrects rather than maintains.\n\nBest for bare, oxidized aluminum panels and trim. It is not a wash, and it should not go on painted or clear-coated siding without a test.",
     "specs": [
       "Metal polish for aluminum",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411Mm31BsIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00FALVXEQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00FALVXEQ?tag=rvgearlab-amz-20",
     "description": "Chemical Guys Heavy Metal Polish is a 16 oz polish for chrome, aluminum and stainless that removes oxidation, tarnish and rust stains and leaves a protective sealant. The listing says it helps resist future oxidation and grime on wheels, trim and railings.\n\nAgainst 3D Metal Polish, it adds a protective seal but is aimed at automotive and marine trim. Against Griot's Wash and Wax, it is a polish, not a soap.\n\nBest for aluminum trim, rails and bumpers where the seal helps. It is not meant for whole painted wall panels.",
     "specs": [
       "16 oz metal polish",

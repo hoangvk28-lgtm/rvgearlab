@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51I4QodNEZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DQY3MBLJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DQY3MBLJ?tag=rvgearlab-amz-20",
     "description": "The AIVOLT 4300 is a dual-fuel inverter with 4,300 surge watts, a 30A RV outlet, key fob remote start and CO auto-shutoff. It weighs 64 lb and is stated at 53 dBA, with 11.5 hours on gasoline and 34 hours on propane at 25% load.\n\nAt $675.90 it is $73.10 under the Champion 4000 and offers longer propane runtime, though the listing gives no propane running-watt number. It is $196.41 more than the Aceup 4000. Pick this if long propane runtime and remote start matter. Caveat: propane rated watts are not listed.",
     "specs": [
       "34 hr propane at 25% load",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zlMnJ0QvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D6SQR1L1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D6SQR1L1?tag=rvgearlab-amz-20",
     "description": "The Champion 4000 produces 3,000 running watts on gasoline and 2,700 on propane, with 10 hours on gas and 25 hours on propane, 64 dBA and a TT-30R. It includes CO Shield auto-shutoff and a 3-year warranty with lifetime technical support.\n\nAt $749 it is $73.10 more than the AIVOLT 4300 and $269.51 more than the Aceup 4000. In exchange it lists exact propane watts. Pick this if you want documented propane output and support. Caveat: the cheaper Aceup 4000 offers 3,000 propane running watts.",
     "specs": [
       "2700W propane, 3000W gas",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41vtTkEOVzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FH628CSV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FH628CSV?tag=rvgearlab-amz-20",
     "description": "The Aceup 4000 is a 149cc dual-fuel inverter rated 3,200 running on gas and 3,000 on propane, with THD under 1.5%, about 60 decibels in Eco mode and a 30A RV outlet. Runtime is 5 hours at half load on its 1.32 gallon gasoline tank.\n\nAt $479.49 it is $269.51 under the Champion 4000 and lists 3,000 propane running watts against the Champion 4000's 2,700. Against the WEN 3600 it is $115.11 cheaper and adds 400 propane watts. Pick this if you want the most propane watts per dollar. Caveat: brand support is thinner than WEN or Champion.",
     "specs": [
       "3000W propane, 3200W gas",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41KdBRQJSQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D3WR4CFR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D3WR4CFR?tag=rvgearlab-amz-20",
     "description": "The WEN 3600 is a dual-fuel inverter at 2,900 rated watts on gas and 2,600 on propane, with a TT-30R, two USB ports, a CO sensor and a tool-free LPG quick connect. WEN lists no dBA number for it.\n\nAt $594.60 it costs $115.11 more than the Aceup 4000 and gives up 400 propane watts. It is $195.60 over the Westinghouse 4650. Pick this if you want a recognized brand and tool-free LPG hookup. Caveat: 2,600 propane watts limits you to one small AC with a soft start.",
     "specs": [
       "2600W propane, 2900W gas",
@@ -133,7 +133,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51prSXmo6VL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B099KR6PTG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B099KR6PTG?tag=rvgearlab-amz-20",
     "description": "The Westinghouse 4650 is a conventional dual-fuel generator rated 3,600 running watts on gas and 3,240 on propane, with a 4 gallon tank good for up to 14 hours per tank. It has a TT-30R and an L5-30R outlet, CO shutdown and a 3-year warranty.\n\nAt $399 it is $195.60 under the WEN 3600 and gives 640 more propane watts. The trade is a louder open-frame design with no inverter output. Pick this if raw propane watts per dollar matter. Caveat: the listing does not state noise or weight.",
     "specs": [
       "3240W propane, 3600W gas",

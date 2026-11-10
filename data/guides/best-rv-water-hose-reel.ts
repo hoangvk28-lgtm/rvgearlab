@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51v0qR-f1QL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D8PZ9MFT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D8PZ9MFT?tag=rvgearlab-amz-20",
     "description": "The Stromberg Carlson HC-75 caddy is 17 inches wide and 6.5 inches tall and holds fresh water hoses up to 75 feet long. It also holds 30 amp and 50 amp power cords and lists weather-resistant construction.\n\nIt costs more than the other HC-75 listing and describes its role as a multifunction gear holder. It is more compact than the Dumble stand.\n\nIt suits owners with a basement compartment who want hoses and cords in one place. The size saves space.",
     "specs": [
       "Holds hose up to 75 ft",
@@ -53,7 +53,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41YVuE5eXqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07DKX4SSX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07DKX4SSX?tag=rvgearlab-amz-20",
     "description": "The Stromberg Carlson HC-75 listing at a lower price holds up to 75 feet of hose and stores hose accessories. Each hose end unwinds while the bulk of the hose stays in the caddy.\n\nIt is priced well below the other HC-75 listing and shares its 17 by 6.5 inch footprint. It also holds 30 and 50 amp cords.\n\nIt suits owners who want the caddy format at the lower price. The unwind feature keeps handling easy.",
     "specs": [
       "Holds hose up to 75 ft",
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/3111MR5MiiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FG6QN174?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FG6QN174?tag=rvgearlab-amz-20",
     "description": "The Touri RV Adjustable EZ Hose Carrier extends from 50 to 94 inches and has a 4.5 inch inner diameter. It includes mounting hardware, end caps and extra mounting tabs.\n\nIt is the highest priced pick and carries hoses outside the living space. It adapts to different hose lengths.\n\nIt suits owners who want a bumper or exterior carry tube. The end caps keep hoses secure.",
     "specs": [
       "50 to 94 inch adjustable",
@@ -107,7 +107,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41iR2cIs-pL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B2Z86KWX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B2Z86KWX?tag=rvgearlab-amz-20",
     "description": "The Dumble Reel Stand is a black steel stand for 50 to 100 ft cords or camper hose, standing 17 inches tall with a 12.6 by 13.4 inch foot stance. It lists a 4.6 inch handle for winding.\n\nIt is the only pick with a winding handle and it is priced just below the Touri. It is used as a wire reel or hose spool.\n\nIt suits owners who want to wind a hose or cord by hand. It stores in a compartment when empty.",
     "specs": [
       "Steel reel stand",
@@ -134,7 +134,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Y3rnpwQDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B000KL5A72?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B000KL5A72?tag=rvgearlab-amz-20",
     "description": "The Mintcraft YP1121 is listed as a 50 ft flat hose reel with a nozzle. It is a flat hose format.\n\nIt is priced near the Stromberg Carlson caddies and differs by being a hose with a reel. It is listed with few other details.\n\nIt suits owners who want a flat hose on a reel for rinsing. It is a utility option.",
     "specs": [
       "50 ft flat hose reel",
@@ -161,7 +161,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41KWWrQmM7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FMDXCV2Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FMDXCV2Y?tag=rvgearlab-amz-20",
     "description": "The Tecreddy hose bag measures 18 by 18 by 10 inches and holds up to 100 feet of fresh water hoses, sewer hoses or cords. It uses 600D Oxford cloth with a PVC waterproof coating and rubber handles.\n\nIt is the lowest priced pick and uses color-coding with reflective lettering. It holds more hose than the caddies.\n\nIt suits owners who want simple storage and quick identification. The waterproof coating suits wet hoses.",
     "specs": [
       "18 x 18 x 10 inch bag",

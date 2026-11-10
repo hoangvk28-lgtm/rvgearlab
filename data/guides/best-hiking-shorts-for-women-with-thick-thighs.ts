@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41n4Pnco6OL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GVF9XVX3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GVF9XVX3?tag=rvgearlab-amz-20",
     "description": "The Willit Curvy 5 Inch is made from 90% nylon and 10% spandex with an A-line shape described as flattering on curvy frames. The listing calls out an anti-ride-up thigh opening, UPF 50+ protection and a 5 inch inseam with mid-thigh coverage.\n\nCompared with the Oalka Cargo, it offers a soft, quiet fabric and a more tailored cut. Against the Yoglegins Cargo, it has a shorter inseam and a stretchier fabric.\n\nIt suits women who want an A-line cut that does not creep up the leg on climbs. Five pockets include a secured zipper pocket.",
     "specs": [
       "A-line curvy-friendly 5 inch fit",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/314J53DXO1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CYQ4FMV7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CYQ4FMV7?tag=rvgearlab-amz-20",
     "description": "The Oalka Cargo is a lightweight cargo short with a slightly stretchy splash-resistant fabric, an elastic drawstring waistband and four deep pockets. The listing describes an inseam long enough to cover thighs and UPF 50+ sun protection.\n\nNext to the Willit Curvy 5 Inch, it has a longer inseam in the 8.5 inch option and costs far less. Compared with the Yoglegins Cargo, it adds two thigh pockets with zipper and hook-and-loop closures.\n\nIt suits women who want extra length for thigh coverage and room for a phone. The fabric dries quickly after rain.",
     "specs": [
       "Inseam long enough to cover thighs",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41HkegxwkkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F64WC7PW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F64WC7PW?tag=rvgearlab-amz-20",
     "description": "The Yoglegins Cargo is a 100% polyester cargo short with UV protection, water resistance and quick drying. It has an 8 inch inseam that sits above the knee, five pockets and a back elastic waistband with belt loops and front zip closure.\n\nCompared with the Oalka Cargo, it uses a belt-and-zip closure for a more structured waist. Against the MAGCOMSEN 8 Inch, it adds cargo pockets and a back zipper pocket.\n\nIt suits women who want a mid-length short with a classic cargo look. The length is described as good for bending and climbing.",
     "specs": [
       "8 inch inseam, above the knee",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41W9dTkEUZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C7RCC8S4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C7RCC8S4?tag=rvgearlab-amz-20",
     "description": "The MAGCOMSEN 8 Inch is a lightweight, quick-dry women's hiking short with a water-resistant finish and a drawstring elastic waistband. It has two front zipper pockets and one rear zipper pocket.\n\nNext to the Yoglegins Cargo, it has fewer pockets and a simpler front. Compared with the Willit Curvy 5 Inch, it trades the curvy-specific cut for an 8 inch length.\n\nIt suits women who want a plain, longer short with secure pockets at a low price. The listing describes the fabric as hard-wearing.",
     "specs": [
       "8 inch inseam, quick dry",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41YdeW42qwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DKRT26HV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DKRT26HV?tag=rvgearlab-amz-20",
     "description": "The Ewedoos Biker is a high-waisted biker short made from spandex and polyester with recycled fibers, a 4.4 inch waistband and four-way stretch. It has no front seam, a gusset and four pockets, with UPF 50+ sun protection.\n\nUnlike the cargo picks, it hugs the leg and stays in place without a drawstring. Compared with the Willit Curvy 5 Inch, it is more compressive and sits higher at the waist.\n\nIt suits women who prefer a snug, smooth short for hiking and workouts. The wide waistband is described as holding the stomach.",
     "specs": [
       "High-waisted biker, 4.4 inch band",

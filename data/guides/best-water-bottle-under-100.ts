@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/312ko3GFsxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B9T4KCV7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B9T4KCV7?tag=rvgearlab-amz-20",
     "description": "The Nalgene 32 oz wide-mouth bottle is described as impact-resistant and leak-proof, with curved corners for easy scrubbing and measurement lines on the side. It is dishwasher safe and survives drops on trails and subway floors.\n\nIt is the simplest and lightest-weight design here, with no insulation to add weight. It fits water filters and powder mixes through a wide opening that the ENCOOL and CIVAGO straw lids do not offer.\n\nIt suits hikers, campers and commuters who want a bottle that lasts for years. The measurement lines help track intake.",
     "specs": [
       "32 oz wide-mouth, impact-resistant",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Wi1KFCmbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09LLZNJYV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09LLZNJYV?tag=rvgearlab-amz-20",
     "description": "The CIVAGO 32 oz bottle is 304 stainless steel with vacuum insulation rated for 24 hours of cold. It includes three leak-proof lids: a flip-up straw, a twist spout and a third option.\n\nIt offers three lids in one bottle, which the ENCOOL lacks, and it costs a little less. It is heavier than the Nalgene.\n\nIt suits campers who want cold water all day and the flexibility of several lids. The steel body is rust-free.",
     "specs": [
       "32 oz 304 stainless, vacuum insulated",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31FMaPlgfHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F5S3SQJK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F5S3SQJK?tag=rvgearlab-amz-20",
     "description": "The ENCOOL is a double-wall stainless steel bottle with a straw lid for sipping and a twist cap for deep drinks. The listing rates it for 24 hours of cold, with zero condensation and multiple sizes.\n\nIt gives a straw and a chug cap, which is more flexibility than the Nalgene. It is a little more expensive than the CIVAGO.\n\nIt suits campers who like a straw for the car and a cap for the trail. The multiple sizes let you scale up or down.",
     "specs": [
       "Double-wall stainless steel",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41aqM6B-23L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BT8K88SR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BT8K88SR?tag=rvgearlab-amz-20",
     "description": "The Under Armour 64 oz jug keeps drinks cold for up to 10 hours with foam insulation. It has a handle, a fence hook for hanging, marked measurements and a leak-resistant design.\n\nIt holds twice the volume of the 32 oz bottles and costs more than any of them. The foam insulation is rated for 10 hours, which is shorter than the steel bottles.\n\nIt suits car campers, teams and families who want a jug that stays at the campsite. The fence hook hangs it from a chair or rail.",
     "specs": [
       "64 oz foam-insulated jug",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/416eExVhERL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GFWJWZS6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GFWJWZS6?tag=rvgearlab-amz-20",
     "description": "The WEMEET is a 128 oz BPA-free plastic jug with a straw, a strap, volume graduations and time markers. An integrated handle with anti-slip granules and a leakproof design complete it.\n\nIt holds twice the volume of the Under Armour and costs less. It is not insulated and is built for the gym, so it suits a camp more than a trail.\n\nIt suits campers who want a gallon of water at the campsite. The time markers help track daily intake.",
     "specs": [
       "128 oz BPA-free plastic jug",

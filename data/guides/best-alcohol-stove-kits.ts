@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41q+RnQcjSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HKPKP476?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HKPKP476?tag=rvgearlab-amz-20",
     "description": "This kit is a mini alcohol burner that weighs only 3.51 oz and uses copper tube vaporization. The listing says it boils about 500 ml of water in around 7 minutes on denatured alcohol of 95 percent or more, not included.\n\nIt comes in two options, one with the windproof stand and an upgraded set that adds an empty bottle, rubber ring and storage bag. That stated boil time puts a number on performance that the Anodized Hiking Kit does not give.\n\nIt suits backpackers and tackle-box anglers who want a palm-sized burner with a stated boil time. The windproof stand supports small cookware.",
     "specs": [
       "3.51 oz, copper vaporization",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41GIUcoZzrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GWN1WG81?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GWN1WG81?tag=rvgearlab-amz-20",
     "description": "The Anodized Hiking Kit is a mini alcohol stove and stable stand made of anodized aluminum and stainless steel. A stainless windproof hearth shelf is listed, and it runs on liquid or solid alcohol.\n\nIt is aimed at minimalist hikers, anglers and coffee brewers who want to skip canisters. The listing gives no weight or boil time, which is a gap next to the Copper Vaporizer Kit.\n\nIt suits casual campers who want a low-cost alcohol stove with a stainless shelf. A slightly cheaper variant of the same kit is also listed.",
     "specs": [
       "Anodized aluminum and stainless",

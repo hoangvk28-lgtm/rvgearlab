@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51ZNOeDqs0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07JJSW48V?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07JJSW48V?tag=rvgearlab-amz-20",
     "description": "The BESTEK provides 500W continuous and 1000W peak through two AC outlets and two smart USB ports. It carries two 40 amp fuses, ETL listing and both a 27.5 inch cigarette plug and a pair of 24 inch alligator clamps.\n\nCompared with the RUTNRIXA and MOVFFGGRM it is the only pick with a certification mark and dual fuses named together with clamps. Against the BESTEK 300W USB-C it adds clamp-on capacity at the cost of USB-C power.\n\nIt suits gamers who run a brick above 150W from a vehicle battery. Switching to the clamps when the load grows keeps the cigarette socket safe.",
     "specs": [
       "500W continuous, 1000W peak",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51tGSI1lA5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CGLCFW2K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CGLCFW2K?tag=rvgearlab-amz-20",
     "description": "The RUTNRIXA lists 500W continuous and 1000W peak with three AC outlets, a 25W USB-C PD port and an LCD readout. Two 50 amp fuses, battery clips, a metal housing and six protections are named.\n\nIt is the only 500W model with a USB-C port and a display, which the BESTEK 500W Clamp Inverter and MOVFFGGRM lack. It also offers more fuse rating than the BESTEK.\n\nIt suits gamers who also charge a phone or handheld console by USB-C. Three AC outlets leave room for a brick and monitor.",
     "specs": [
       "500W, 1000W peak, 3 AC",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51bBP872gBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09YNBNP1J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09YNBNP1J?tag=rvgearlab-amz-20",
     "description": "The MOVFFGGRM provides 500W continuous and 1000W peak with three AC outlets and four 2.4A USB ports, plus a cigarette plug and clips. Its pure aluminum body and silent fan handle heat.\n\nIt matches the RUTNRIXA on watts and outlets and gives more USB ports in place of USB-C and a display. Against the BESTEK 500W Clamp Inverter it is cheaper with a metal case.\n\nIt suits budget gamers who run a laptop brick from clamps. The listing says to use the clips when the load passes 150W.",
     "specs": [
       "500W, 3 AC, 4 USB ports",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/510f6QF+BOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CB7ZPX1S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CB7ZPX1S?tag=rvgearlab-amz-20",
     "description": "This BESTEK delivers 300W with a 65W PD USB-C port and an 18W QC USB-A port in an iPhone-sized body. It accepts 11 to 17V input and comes with a 24 inch plug cord and a 5-year warranty.\n\nIt is the only pick that can charge a USB-C laptop directly, which the 500W units cannot. Compared with them it is far smaller and runs from the socket.\n\nIt suits lighter gaming laptops or handhelds that accept USB-C charging. ETL certification and a built-in fuse are named.",
     "specs": [
       "300W, 65W PD USB-C",

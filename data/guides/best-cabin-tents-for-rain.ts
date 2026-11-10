@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31K4cxs0lxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BFBV76W4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BFBV76W4?tag=rvgearlab-amz-20",
     "description": "The CORE 9-Person measures 14 ft by 9 ft with a 78 inch center height and uses H2O Block technology on 1200mm fabric. A fully taped rainfly, sealed seams and fully zipped windows cover the shell, and the fly forms a vestibule for wet gear.\n\nAgainst the CORE 6 it adds three feet of floor length and a room divider, and both share the same 1200mm shell. Compared with the Fanttik Alpha C4 Ultra, it brings steel stakes and guylines plus a vestibule outside the door.\n\nIt fits families that expect rain and want a place to drop muddy boots under cover. It pops up in about two minutes.",
     "specs": [
       "1200mm fabric, taped fly",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31p1KgBqOXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BF7GDSP7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BF7GDSP7?tag=rvgearlab-amz-20",
     "description": "The CORE 6-Person is an 11 ft by 9 ft cabin with a 72 inch center height, the same 1200mm H2O Block fabric and a fully taped rainfly. Sealed seams, fully zipped windows and a vestibule from the full fly give it the same wet-weather kit as the larger CORE.\n\nIt gives up three feet of floor length and the divider compared with the CORE 9, yet adds a hanging organizer and gear loft and pitches in 60 seconds or less. Next to the Fanttik it trades price for a documented 1200mm fabric rating.\n\nIt suits a family of three or four that wants a proven shell. Two queen air beds fit inside.",
     "specs": [
       "11 x 9 ft, 72 in peak",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41qtFPpYBlL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D2W12RYZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D2W12RYZ?tag=rvgearlab-amz-20",
     "description": "The Fanttik Alpha C4 Ultra is a 94 inch square cabin with a removable rain cover over a pop-up X-frame. It carries sealed seams at the doors and windows and a 300D bottom fabric listed as more wear-resistant than standard flooring.\n\nIt is the least expensive pick here and sets up in 60 seconds, while the two CORE tents are the ones that print a millimeter waterproof rating. Its rollable eaves and double-paned windows let you vent the walls between showers.\n\nIt fits couples and small families who want a rain cover and a tough floor on a lower budget. A short, square room is easy to stake.",
     "specs": [
       "94 x 94 in cabin",

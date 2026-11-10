@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41XBP4zBkJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GL7XD6BM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GL7XD6BM?tag=rvgearlab-amz-20",
     "description": "The newer BESTEK is a 500W pure sine wave inverter with 500W continuous output, dual AC outlets, a 30W PD USB-C port and a 4.2A USB-A port. It uses a textured aluminum housing with thermal sensors and a fan, and protects against over-voltage, under-voltage, overheating, overload, reverse connection and short circuit.\n\nIt is the only pick that pairs a stated pure sine wave with a USB-C PD port, ahead of the older BESTEK that lacks PD. Compared with the two modified sine units, it suits sensitive electronics like laptops and medical devices more safely.\n\nIt suits campers with a battery-connected setup who run a laptop, a small TV or a router. Sensitive gear is the reason to pay for pure sine.",
     "specs": [
       "500W continuous, pure sine wave",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51iaQy6oWBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B082MDRC64?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B082MDRC64?tag=rvgearlab-amz-20",
     "description": "The earlier BESTEK is another 500W pure sine wave inverter with two AC outlets and dual 4.2A USB ports. Its listing says the output matches mains waveform and can draw from the cigarette lighter plug or directly from battery clamps.\n\nIt drops the PD USB-C of the newer model for a lower price, and it adds the same thermal sensors and built-in fan. The listing warns that you cannot get 500 watts through a 12V lighter plug and need alligator clips on the battery.\n\nIt suits campers who need pure sine without paying for PD charging. Under-voltage protection stops it from draining the battery dry.",
     "specs": [
       "500W pure sine wave",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51+L52B8cnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DX1DKXFK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DX1DKXFK?tag=rvgearlab-amz-20",
     "description": "This 500W unit lists a 500W rating with a 1000W peak and modified sine wave output. It has two AC outlets, two 2A smart USB ports, an aluminum alloy shell and a smart cooling fan, and measures 5.7 x 4.2 x 2 inches at 2.2 lb.\n\nIt costs about half the BESTEK units and weighs little for a 500W model. It lacks a pure sine wave, so it fits tools and chargers better than sensitive electronics.\n\nIt suits campers, solar setups and emergency kits where price and size count most. The case is sized for a truck seat or a camper cabinet.",
     "specs": [
       "500W rated, 1000W peak",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41LD49QfwuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FMRRMRTD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FMRRMRTD?tag=rvgearlab-amz-20",
     "description": "The MOVFFGGRM lists continuous 500W with a 1000W peak and modified sine wave output, two AC outlets and one USB port. It includes a cigarette lighter plug and battery clip, and the listing says to use the clip when load exceeds 150W.\n\nIt costs about half the BESTEK units and carries the clearest note about the 150W socket limit. It has the fewest ports and the thinnest spec sheet.\n\nIt suits budget campers who understand the clip rule and run small AC loads. Over-temperature, voltage, short-circuit and overload protections are listed.",
     "specs": [
       "500W continuous, 1000W peak",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51CNo00J3EL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G4WJPH9H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G4WJPH9H?tag=rvgearlab-amz-20",
     "description": "The Naturnest is a large hard shell rooftop tent listed for four people, built with an ABS shell, an aluminum frame and sound and thermal insulating honeycomb panels. It uses a 1.97 inch non-deformed mattress, blackout fabric and a ladder-down setup that the seller times at about 30 seconds.\n\nIt is the largest by capacity here, ahead of the 2-3 person WildFinder and HEYFUN Adventurer Pro. It also includes roof crossbars for carrying solar panels, skis or bikes, which neither of the others advertise.\n\nIt suits families or groups who want one shelter on the roof and need extra cargo capacity on top. The replaceable tear-resistant fabric extends the tent's service life.",
     "specs": [
       "Sleeps four people",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51vMn0i3JlL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DHKCYXFX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DHKCYXFX?tag=rvgearlab-amz-20",
     "description": "The WildFinder is a 100 percent aluminum alloy hard shell with a stainless steel air pressure lever and polyester fabric. It lists a recessed marine pad, a condensation pad, a comfort mattress and level 6 wind resistance with 5000 mm rain protection.\n\nBeside the Naturnest it leans on kit: a 7.5 ft telescoping ladder, ladder organizer, LED strip, two shoe organizers and three mesh windows are all listed. Against the HEYFUN Adventurer Pro it adds a complete accessory pack and a stated level 4 heavy snow protection.\n\nIt suits campers who want an all-metal shell with the ladder, lights and organizers already supplied. The mattress is paired with a marine pad to cut dampness.",
     "specs": [
       "100 percent aluminum alloy shell",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/516NsWH4ewL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DPNC8F91?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DPNC8F91?tag=rvgearlab-amz-20",
     "description": "The HEYFUN Adventurer Pro is a 2-3 person aluminum hardshell closing to 83.86 by 51.57 by 7 inches and opening to 62.99 inches tall. A hydraulic automatic lid opens or closes in about 5 seconds, and a flocked lining floor, built-in LED and attachable side awning are listed.\n\nNo tent here costs less, and its hydraulic lid is the quickest to open, ahead of the WildFinder's lever system. The flat 7 inch closed height also keeps the roofline low.\n\nIt suits couples who want the fastest open and close at the lowest cost. The side awning attaches for extra shade at camp.",
     "specs": [
       "2-3 person aluminum hardshell",

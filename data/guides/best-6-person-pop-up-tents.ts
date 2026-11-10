@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41jeGruFaUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FQ5PVS2X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FQ5PVS2X?tag=rvgearlab-amz-20",
     "description": "The LEISURE IMPACT is an instant six-person tent with a 120 by 108 inch floor and a 66 inch center height. It sets up in under 60 seconds, uses 1200mm water-resistant fabric with a protective rainfly and front awning, and has mesh windows on all four sides.\n\nIts 120 by 108 inch floor is the biggest listed here, and it adds an awning the others lack. The HINSTANT is similar in size and costs a little less.\n\nIt suits families who want a full-size cabin that goes up fast. Lower vents and a mesh ceiling help airflow.",
     "specs": [
       "10x9 ft, 66 in center",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ffjVNpybL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DTTR3XMK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DTTR3XMK?tag=rvgearlab-amz-20",
     "description": "The HINSTANT is a six-person instant tent with a 10 by 9 foot floor and a 73 inch height. It uses 190T polyester taffeta at PU 2000mm, pre-attached thickened metal poles for a 60-second setup, a rainfly and four large mesh windows.\n\nIt is taller than the LEISURE IMPACT and costs a little less. The Fanttik is far stronger on build and costs more than twice as much.\n\nIt suits families who want a roomy tent without a high price. The mesh windows move air through the cabin.",
     "specs": [
       "10x9 ft, 73 in tall",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zCjX5xJXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GQGT17KY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GQGT17KY?tag=rvgearlab-amz-20",
     "description": "The Rivenlo sleeps 5 to 6 people and measures 142 by 96 by 51.2 inches when open. It opens automatically and adds an overhead skylight, a removable rainfly, two doors and four mesh windows.\n\nIt carries the smallest price tag of the five and relies on a thrown-open dome in place of a rigid frame. The HINSTANT has more headroom, and this one lies lower at 51 inches.\n\nIt suits campers who want a fast dome with a starry skylight. It holds six in sleeping bags or four to five with gear.",
     "specs": [
       "142x96x51.2 in",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41iR23dxEZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09KXN1XCN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09KXN1XCN?tag=rvgearlab-amz-20",
     "description": "The EchoSmile is a six-person instant tent that opens automatically when thrown and measures 125.98 by 86.61 by 51.18 inches. It strengthens fiberglass pole junctions with steel and has four mesh windows and two doors.\n\nIt is close to the Rivenlo in size and style and costs slightly more. The LEISURE IMPACT gives much more headroom.\n\nIt suits campers who want a throw-up setup in seconds. The windows and doors give cross ventilation.",
     "specs": [
       "125.98x86.61x51.18 in",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41IMjqIeXwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G7J25N49?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G7J25N49?tag=rvgearlab-amz-20",
     "description": "The Fanttik Alpha C6 Pro is a six-person instant tent with an integrated fiberglass frame and a 90.5 inch stand-up height. It packs to 41.7 inches, includes a rainfly, ground stakes and taped seams, and has 9 interior-operated vents and windows with a 140gsm PE floor.\n\nIt has the tallest interior of the five and the best-listed weather build. The HINSTANT costs less than half as much with a lower height.\n\nIt suits families who want the strongest pop-up and will pay for it. Interior-operated vents let you adjust airflow from inside.",
     "specs": [
       "90.5 in stand-up height",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41D9fu6rsLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DSLZ2MYX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DSLZ2MYX?tag=rvgearlab-amz-20",
     "description": "The Big Agnes Copper Spur UL is a five-person freestanding backpacking tent from a line that uses HyperBead fabric technology. Awning-style doors, the TipLok buckle that combines pole-tip capture with fly attachment and stake-out, and interior pockets round out the design.\n\nIt is the only pick sold as a backpacking tent, and it is the only one built around a high-volume freestanding frame. The Oileus is far cheaper and lighter, and it works as a shade shelter rather than a backpacking tent.\n\nIt suits groups of up to five who split the load and pay for low weight and weather protection. Awning doors give a protected entry in rain.",
     "specs": [
       "Five-person freestanding",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41bPnNWJw-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09Y1MBMYY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09Y1MBMYY?tag=rvgearlab-amz-20",
     "description": "The Oileus is a pop-up shelter labeled for 5 to 6 people that weighs about 5 lbs and folds in under 30 seconds. It measures 98.4 by 55 by 58 inches, with 210T polyester at a 3000mm PU rating and 9mm fiberglass poles.\n\nIt is far lighter than any tent for five and a small fraction of the Big Agnes price. The tradeoff is a shade shelter shape with an awning in place of a vestibule.\n\nIt suits a group that wants a light, fast shelter for a day trip, a beach or a trailhead. An awning and three windows help with airflow.",
     "specs": [
       "5 to 6 person, about 5 lbs",

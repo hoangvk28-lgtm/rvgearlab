@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ziNZlTYEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D6C5F7DZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D6C5F7DZ?tag=rvgearlab-amz-20",
     "description": "The Coleman Oasis is a one-push OnePeak canopy with a steel frame that the listing says withstands winds up to 35 mph when fully staked with guy lines. A vented roof, UPF 50+ fabric, overhanging eaves, corner gear pockets and a wheeled carry bag are listed over a 100 sq ft footprint.\n\nCompared with the Vinabilia it adds a vented roof, a pull-strap takedown and a wheeled bag at about double the price. Against the screen houses it covers sun only, with no mesh walls.\n\nIt suits campers who want a trusted brand and easy takedown. The Pinch-Free Comfort Grip buttons make setup friendlier.",
     "specs": [
       "OnePeak one-push hub",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51S+dIhMlLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G5N9K9PF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G5N9K9PF?tag=rvgearlab-amz-20",
     "description": "The Aoxun is a 12x12 ft pop-up gazebo screen tent in 300D Oxford and polyester mesh that blocks over 99 percent of UV. It comes with six detachable wind cloths, two of which have windows, plus fiberglass poles, windproof ropes and luminous ground stakes.\n\nAgainst the VEVOR it has a bigger footprint and six wind cloths for full privacy. Next to the Alvantor it adds the wind cloths and heavier fabric.\n\nIt suits groups that want an enclosed, bug-free space with the option to close it for wind or privacy. It assembles without tools.",
     "specs": [
       "12x12 ft, 300D Oxford",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41d0bHoU6sL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G13S3HM6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G13S3HM6?tag=rvgearlab-amz-20",
     "description": "The VEVOR is a 10x10 ft six-sided pop-up screen gazebo with a 7.2 ft canopy, a 300D Oxford top with UV50+ protection and six roll-up wind panels. Its door panels double as sunshade canopies, and it packs into a 4.2 ft bag.\n\nIt is smaller than the Aoxun and costs a little less. Compared with the CAMPROS it pops up instead of needing three people.\n\nIt suits campers who want a bug screen that also converts to open shade. Four seated with furniture is the stated comfort level.",
     "specs": [
       "10x10 ft, 7.2 ft high",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Q+f-PecfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07TXBB49X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07TXBB49X?tag=rvgearlab-amz-20",
     "description": "The Alvantor Breezy Hexagonal screen house is 10 ft by 10 ft by 7 ft, weighs only 15 lbs and packs into a 39.3 inch diameter bag. A UPF 50+ fabric top, mesh walls and a large entrance with double side silicone zippers fit 4 to 6 adults.\n\nIt is the only screen house here that lists a weight, and the figure is low. Against the VEVOR it trades the wind panels for a lighter carry.\n\nIt suits campers who haul gear on foot and want a bug screen with sun cover. The listing says it is not waterproof.",
     "specs": [
       "10x10x7 ft hexagon",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41F7wvD0OXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08TH9XH81?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08TH9XH81?tag=rvgearlab-amz-20",
     "description": "The CAMPROS screen house measures 13 ft by 13 ft with an 86 inch center height for 134 sq ft of shade. The top is 190T polyester for UV resistance, and it includes a carry bag, ground stakes and tie downs, with no attached floor.\n\nIt is the biggest footprint here and one of the least expensive. Against the pop-up screen houses it uses a manual frame that takes three people about ten minutes.\n\nIt suits large groups and patios that want a big shaded floor for less. A 1-year warranty is listed.",
     "specs": [
       "13x13 ft, 86 in peak",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41T+ETwdfbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GLDN4FPZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GLDN4FPZ?tag=rvgearlab-amz-20",
     "description": "The Vinabilia is a 10x10 one-push canopy with an 8.9 ft interior height, no overhead crossbars and a UPF 50+ water-resistant fabric with heat-sealed seams. A powder-coated steel frame supports 120 lbs and folds to 46 by 7.9 by 7.9 inches.\n\nIt is the least expensive canopy here and roughly half the Coleman price. Compared with the screen houses it skips mesh walls and gains a faster setup.\n\nIt suits campers who want fast open shade for a table. Reinforced foot pads steady it on grass or pavement.",
     "specs": [
       "10x10, 8.9 ft interior",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51YNlLkjZFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08PNX1GHY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08PNX1GHY?tag=rvgearlab-amz-20",
     "description": "The Racqua Barefoot Shoes offer a wide toe design with zero heel lift and a low-profile ultra-grip outsole. Several drainage holes in each sole let water out and the listing says the holes do not let in sand.\n\nCompared with the Racqua Pool Shoes, it adds a wide toe design for a more natural splay. Against the WHITIN Drawstring Shoes, it puts a stronger focus on barefoot feel than on packing small.\n\nIt suits swimmers who want to feel the ground. The listing calls it a lightweight alternative to bulky water shoes.",
     "specs": [
       "Wide toe, zero heel lift",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51dmXYB471L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07VB6SR2T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07VB6SR2T?tag=rvgearlab-amz-20",
     "description": "The DOUSSPRT Mesh Shoes use a breathable, durable air mesh upper with open mesh and holes on the sole for quick drying. The listing covers beach, pool, kayaking, windsurfing and fishing uses.\n\nAgainst the Racqua Barefoot Shoes, it is an all-black men's styled mesh shoe with more upper ventilation. Compared with the WHITIN Drawstring Shoes, it uses a standard open-mesh upper with no drawstring.\n\nIt suits pool and lake swimmers who care about airflow. The listing adds that it works for wake-boarding and sailing.",
     "specs": [
       "Breathable air mesh upper",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41j7YensCXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08P8LTZ5J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08P8LTZ5J?tag=rvgearlab-amz-20",
     "description": "The Racqua Pool Shoes have zero heel lift, a low-profile ultra-grip outsole and drainage holes in each sole. The listing calls them super lightweight and flexible, with exchange and money-back service for sizing issues.\n\nCompared with the Racqua Barefoot Shoes, it keeps the same low-profile build at a lower price. Against the SIMARI Aqua Socks, it adds a molded sole with drainage holes.\n\nIt suits swimmers who want a light shoe for pool decks and open water. The listing mentions surfing, diving and kayaking.",
     "specs": [
       "Zero heel lift, ultra-grip outsole",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ZqF6IS78L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DSGB2VRB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DSGB2VRB?tag=rvgearlab-amz-20",
     "description": "The WHITIN Drawstring Shoes use a soft stretchable fabric upper with a drawstring that blocks sand, pebbles and dirt. They weigh 0.36 lb in M8/W10 and have a removable EVA insole that speeds up drying.\n\nAgainst the Racqua Pool Shoes, it adds a drawstring closure and a removable insole. Compared with the SIMARI Aqua Socks, it uses a thicker sole for rock protection.\n\nIt suits travelers who swim at lakes and beaches and need a small pack. The thick sole protects from jagged rocks under sand.",
     "specs": [
       "0.36 lb, foldable",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41xK-WzRxOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07KTN8BG8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07KTN8BG8?tag=rvgearlab-amz-20",
     "description": "The SIMARI Aqua Socks use breathable, quick-dry elastic fabric with a rubber insole and a rubber sole listed for grip and durability. The listing calls them lightweight, flexible and foldable.\n\nCompared with the ATHMILE Swim Socks, it adds a rubber insole claim. Against the Racqua Pool Shoes, it is a simpler sock-style shoe without drainage holes.\n\nIt suits swimmers on a budget who need basic protection. The listing names snorkeling, kayaking and swimming pool use.",
     "specs": [
       "Quick-dry elastic fabric",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411n-mUoHtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09Q3MYDQH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09Q3MYDQH?tag=rvgearlab-amz-20",
     "description": "The ATHMILE Swim Socks are made of breathable, quick-dry elastic fabric with a thick insole. An anti-slip sole protects against sharp objects, and the listing calls them lightweight, flexible and foldable.\n\nAgainst the SIMARI Aqua Socks, it stresses a thicker insole feel. Compared with the WHITIN Drawstring Shoes, it uses a simple elastic fit with no drawstring.\n\nIt suits swimmers who want comfort for pool days and water parks. The listing suggests choosing a size half smaller.",
     "specs": [
       "Quick-dry elastic fabric",

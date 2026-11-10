@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Gs5445ncL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F8QJKK3G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F8QJKK3G?tag=rvgearlab-amz-20",
     "description": "GUTA's GT80 ten-sensor kit has a 4.3 inch color touchscreen, a 0 to 188 psi range and shows up to 22 tires per page. GUTA's GT80 ten-sensor TPMS has a 4.3 inch full-color touchscreen that shows up to 22 tires on one page, a 0 to 188 psi range and six alarm modes. Sensors are pre-labeled and pre-paired.\n\nIt has more display capacity than Marsflex 10-Sensor, but costs the most here. Its listing does not state the sensor type.\n\nBest for a very large rig that wants room to grow. Confirm the sensor mounting type with the seller.",
     "specs": [
       "10 sensors, 4.3 inch touchscreen",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41lGW6TP-vL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H4LDKRXB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H4LDKRXB?tag=rvgearlab-amz-20",
     "description": "GUTA's GT30 ten-sensor kit supports up to 46 tires with a repeater included in kits above four sensors. GUTA's GT30 ten-sensor TPMS has a full-color LCD with adaptive backlighting that supports up to 46 tires and six alarm modes with automatic reference pressure. The listing says the kit includes a signal repeater except in the four-sensor version.\n\nIt costs less than GUTA GT80 10-Sensor and has a larger tire capacity. Its sensor type is not stated.\n\nBest for a rig that may add many more sensors. It is the most expandable display here.",
     "specs": [
       "10 sensors, up to 46 tires",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41EIFhsOq+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GJJMVC6M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GJJMVC6M?tag=rvgearlab-amz-20",
     "description": "Marsflex's ten-sensor kit is pre-marked and pre-paired and states a tolerance within 2 psi. Marsflex's TPMS comes pre-marked and pre-paired for 10 sensors and is described for trucks, semi trailers and RVs. The receiver has a segmented LCD with power saving, and the listing cites six alarm modes with tolerance within 2 psi.\n\nIt costs less than GUTA GT30 10-Sensor Kit and has a simpler display. Its sensor type is not stated.\n\nBest for a ready-to-use ten-sensor set. It is aimed at 10-wheel vehicles, so confirm the sensor mounting type before ordering.",
     "specs": [
       "10-wheel system, pre-paired",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41tAZHWInoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FPMG9N79?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FPMG9N79?tag=rvgearlab-amz-20",
     "description": "MIRAIDON's ten-sensor kit has tamper-proof external sensors, a 4.3 inch solar monitor and a stated 80 ft sensing distance. MIRAIDON's ten-sensor TPMS has a 4.3 inch solar monitor, tamper-proof external sensors, five alert modes, a 95 dB buzzer and a stated 80 ft sensing distance. The listing cites over 200 hours of runtime.\n\nIt costs less than Marsflex 10-Sensor and has five alert modes. Its psi range is not in the headline.\n\nBest for a camper on a mid budget. It suits a camper wanting a mid-price solar monitor.",
     "specs": [
       "10 external sensors, 4.3 inch solar",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/511b1umnLrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H1CW7V3S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H1CW7V3S?tag=rvgearlab-amz-20",
     "description": "Avutrel's ten-sensor kit has a 7 inch solar screen, copper sensors and a 10-wheel repeater system. Avutrel's ten-sensor TPMS has a 7 inch color screen, a 10-wheel repeater system, copper sensors with six alarm modes and solar charging with interior temperature and time.\n\nIt costs less than MIRAIDON 10-Sensor and has a larger screen. Its sensor mount type is not stated.\n\nBest for a rig that wants a big readable screen. It is a solar large-screen ten-sensor kit at a mid price.",
     "specs": [
       "10 copper sensors, 7 inch solar display",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/419XU0AAVdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HJQFCXZ4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HJQFCXZ4?tag=rvgearlab-amz-20",
     "description": "GUTA's GT90 four-sensor kit reads 0 to 188 psi and tracks up to 10 tires with more sensors. GUTA's GT90 four-sensor kit tracks pressure up to 188 psi and temperature across up to 10 tires with a color LCD and three brightness levels. The monitor and sensors are pre-paired.\n\nIt is not a ten-sensor kit but is the cheapest way into the GT90 line. Add sensors later.\n\nBest for a four-tire trailer that may expand. It is a compact entry to the GT90 line.",
     "specs": [
       "4 sensors, 0 to 188 psi",

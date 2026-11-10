@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Z4YeJU0BL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09WXS761N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09WXS761N?tag=rvgearlab-amz-20",
     "description": "Marlin Coatings 100 percent Silicone Roof Sealant is a self-leveling single coat product. The listing says it forms a waterproof membrane that will not shrink, stays flexible, and has a Solar Reflective Index of 113.\n\nAgainst Kohree Silicone Gallon, it states a reflectivity index and one-coat use. Against Ziollo Silicone, it is a branded coating with fewer system parts.\n\nIt is the best match for owners who want a one-coat silicone for a whole roof. Think of it as the pick for one-coat roof jobs.",
     "specs": [
       "100% silicone, self-leveling",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41WMCQ1ZV5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09ZFMC1R5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09ZFMC1R5?tag=rvgearlab-amz-20",
     "description": "Ziollo RV Roof Sealant is a 100 percent silicone liquid rubber with a self-leveling formula and a reflective white finish. The listing says it can lower interior temperatures by up to 15 degrees F.\n\nAgainst Marlin Silicone, it has a matched cleaner and seam tape. Against Kohree Silicone Gallon, it is a larger-size listing.\n\nIt suits owners who want a silicone system with prep products. Buyers focused on silicone with prep products will find it a sensible match.",
     "specs": [
       "100% silicone liquid rubber",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41OCg3Xw8UL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FDQ97YN9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FDQ97YN9?tag=rvgearlab-amz-20",
     "description": "Kohree RV Roof Coating is a 1 gallon 100 percent silicone coating that the listing says needs no primer and covers 50 square feet. It is described as heat-reflective, low odor and safe for pets.\n\nAgainst Marlin Silicone, it is a smaller gallon at a lower price. Against Ziollo Silicone, it states a primer rule.\n\nIt suits small roofs and spot jobs. It earns its slot for small silicone jobs.",
     "specs": [
       "100% silicone, 1 gallon",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41yh-xNh5pL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D1298V5W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D1298V5W?tag=rvgearlab-amz-20",
     "description": "Kohree RV Roof Sealant 1 Pack is a white self-leveling lap sealant that levels within 30 seconds. The listing names EPDM, TPO, PVC, aluminum, brass, steel, glass, mortar and wood and does not describe the chemistry as silicone.\n\nAgainst the silicone coatings, it is a tube for laps. Against BEBOBLY 4 Pack, it is a single tube.\n\nIt suits laps where a non-silicone sealant keeps future coating options open. It is a natural fit for flat laps.",
     "specs": [
       "Self-leveling lap sealant",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41qv3q3xRtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DLVVQQ5F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DLVVQQ5F?tag=rvgearlab-amz-20",
     "description": "BEBOBLY 4 Pack is a white self-leveling lap sealant with over 300 percent elongation that levels within 30 seconds. The listing names EPDM, TPO, PVC, aluminum, brass, steel, glass, mortar and wood.\n\nAgainst Kohree Lap 1 Pack, it gives four tubes and an elongation figure. Against Marlin Silicone, it is a lap sealant and not a coating.\n\nIt suits several flat laps where silicone is not required. Think of it as the pick for flat laps, several tubes.",
     "specs": [
       "4 tubes, self-leveling",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31k8Bz6NJ8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B084DW8RBD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B084DW8RBD?tag=rvgearlab-amz-20",
     "description": "Lippert 1010 Non-Sag Sealant is made for vertical, uneven areas such as sidewalls, end rails and roof edging. The listing says it helps prevent water and air leaks and comes in beige, gray, almond and white.\n\nAgainst the silicone coatings, it keeps its shape on vertical joints. Against Kohree Lap 1 Pack, it is non-sag.\n\nIt suits sidewall and edge seams where self-leveling products would run. Buyers focused on vertical seams will find it a sensible match.",
     "specs": [
       "Non-sag sealant",

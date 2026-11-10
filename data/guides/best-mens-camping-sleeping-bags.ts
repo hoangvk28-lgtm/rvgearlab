@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41gxHRoDBzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DQTYPH22?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DQTYPH22?tag=rvgearlab-amz-20",
     "description": "MEREZA builds this boxy bag at 86.6 x 32.3 inches, which the listing calls 20% larger than most adult bags. A 210T ripstop waterproof shell wraps synthetic filling that the listing puts at 3.5 lb and describes as comfortable at 59F.\n\nIt prints far more than the Kanyak Single does: size, fill weight, comfort figure, a double pull zipper and a bottom vent zipper. It also costs less than the Kanyak.\n\nBest for budget campers up to 6 ft who want room to roll over. The storage bag makes it easy to stuff away.",
     "specs": [
       "86.6 x 32.3 inch boxy cut",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/413kcBSc+9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D2Q1PFBT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D2Q1PFBT?tag=rvgearlab-amz-20",
     "description": "Kanyak sells this single-person bag for adults, with a title that promises a lightweight, waterproof, cold-weather build. A compression sack comes in the box, and several colors are offered.\n\nIt prints fewer numbers than the MEREZA XL Mens, with no weight, size or temperature rating on the listing, and it keeps the design to a simple, light single. It costs more than the MEREZA and adds a compression sack and color choices.\n\nA fit for hikers who want a generic adult bag they can stuff into a small space. Check reviews on size first.",
     "specs": [
       "Single-person adult bag",

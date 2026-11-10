@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51E0cWDGydL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H7B82R94?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H7B82R94?tag=rvgearlab-amz-20",
     "description": "The Somokg is a 16-18 ft cover made of 9-layer fabric with 35% enhanced tear resistance, reinforced stitching and a widened front panel that spreads wind pull. It has 6 air vents for moisture release and a sewn-in front label for orientation.\n\nAgainst the RVMasking 15-18, it adds a toss bag for guiding straps under the trailer and a long accessory list including gutter, ladder and tongue jack covers. It suits owners of a true 18 ft trailer who want a snug, easy install.",
     "specs": [
       "16 to 18 ft range",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/415tHCQAuwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D1VBZ5GN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D1VBZ5GN?tag=rvgearlab-amz-20",
     "description": "The RVMasking 15-18 ft cover uses 9-layer non-woven fabric with 4% anti-UV composite, two over-roof straps, and an extra-long horizontal strap that wraps under the bottom to stop wind from entering. Eight corners carry extra-long reinforced patches.\n\nCompared with the Somokg, it includes four tire covers and a propane tank cover, plus two roll-up side panels and a rear zipper panel. It suits owners in windy regions who also want tire protection.",
     "specs": [
       "15 to 18 ft range",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41gOZchxR0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G133JJ91?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G133JJ91?tag=rvgearlab-amz-20",
     "description": "The CAMMOO covers 18-20 ft in 9-layer fabric with three windproof straps over the top, four bottom straps, and three zippered roll-up access panels on the right side plus a large rear panel. The kit adds tire covers, gutter covers, a ladder cover and a tongue jack cover.\n\nNext to the MOFCOVER, it spreads access across more panels and stands out with a black-and-orange finish. It suits owners who plan to access the interior during storage.",
     "specs": [
       "18 to 20 ft range",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41HttOTV4KL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H3KRSRSB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H3KRSRSB?tag=rvgearlab-amz-20",
     "description": "The MOFCOVER is a 9-layer cover for 18-20 ft trailers measuring 246 by 102 by 104 inches, with double-reinforced corners and three zippered access panels on the passenger side and rear. Eight windproof straps cover the front, back and sides.\n\nIt costs less than the CAMMOO while keeping the 9-layer top and a similar kit, and its published dimensions let you check against your trailer. It suits budget buyers who still want multi-layer fabric.",
     "specs": [
       "246 x 102 x 104 inches",
@@ -133,7 +133,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41nzAM7KVYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FB3DNXWB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FB3DNXWB?tag=rvgearlab-amz-20",
     "description": "The Kohree cover for 18-20 ft trailers has seven layers, eight enlarged vents (six on the sides, one front, one rear), a rear door and two side zippers. Reflective strips on the front and back help at night.\n\nCompared with the 9-layer covers above, it gives the most vents and the lowest price, with a kit of four tire covers, a jack cover, repair patch and toss bag. It suits humid climates where moisture buildup is the main risk.",
     "specs": [
       "7-layer fabric",

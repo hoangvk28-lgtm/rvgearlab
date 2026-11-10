@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ZyQdJJLVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GSW51ZTL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GSW51ZTL?tag=rvgearlab-amz-20",
     "description": "The HOEYITO is a 17 x 10 ft camping tarp in thickened 210T high-density polyester with a PU6000mm waterproof coating and a UPF 100+ rating. It shelters 6 to 8 people and weighs 4.7 pounds.\n\nIts PU6000mm rating is the highest of the three, and the kit adds 10 fluorescent stakes, 10 guy lines, a storage bag and an accessory pouch. Next to the HipierFx it is smaller in area, and it costs half as much.\n\nFamilies and groups who want a large, rated tarp that still packs into a backpack will like it. It works with tents, hammocks and cars.",
     "specs": [
       "17 x 10 ft, PU6000mm",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/5167hblvmkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FFG56FBT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FFG56FBT?tag=rvgearlab-amz-20",
     "description": "The HipierFx is a 19 x 14 ft tarp awning suited for 8 to 10 people. It uses 210D Oxford fabric with a waterproof pressure of 3000 plus, heat-pressed seams, a silver back coating for UV 50+ and widened double-needle edges.\n\nIt is the biggest tarp in this guide and the only one that includes a pole in the box. Against the HOEYITO it has a larger area and a lower waterproof figure, and it costs about twice as much.\n\nLarge families and scout-style groups with a vehicle to carry it should consider it. The heat-pressed seams address the leak points where stitching meets fabric.",
     "specs": [
       "19 x 14 ft, 210D Oxford",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410owR1ufUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DX22WPZF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DX22WPZF?tag=rvgearlab-amz-20",
     "description": "The Patiobay is a 12 x 16 ft heavy-duty polyethylene tarp, 8 mil thick and made of 100 percent virgin polyethylene. Metal grommets sit every 23.6 inches along reinforced edges, and the hem carries a stitched poly rope.\n\nIt is the least expensive and, as plain poly, the least specialised of the three. Against the HOEYITO it has no stated millimeter rating and no stake kit, and it gives a tough finished size at a very low price.\n\nBudget campers who want a big basecamp roof or ground cover can use it for many jobs. Grommets every 23.6 inches give plenty of tie-out options.",
     "specs": [
       "12 x 16 ft, 8 mil poly",

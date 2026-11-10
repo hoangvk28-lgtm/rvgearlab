@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41MN5H5exiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GW6HQ1PX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GW6HQ1PX?tag=rvgearlab-amz-20",
     "description": "Run Jee is a tabletop charcoal grill with a dual-sided grate and griddle, folding to 16.1 by 9.8 by 12.2 inches. It weighs 7.7 lb and uses thickened cold-rolled steel with a separate charcoal tray for airflow.\n\nAt about $40 it is the only pick that gives you both a grate and a griddle, so you can flip between searing steaks and cooking pancakes or eggs. The Joyfair has a lid thermometer, and this one is the more versatile cooker.\n\nCar campers who want breakfast and dinner from one grill will use it most. The folding design keeps it compact.",
     "specs": [
       "Grate and griddle, dual-sided",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Iylx6J+GL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BW3BLTWX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BW3BLTWX?tag=rvgearlab-amz-20",
     "description": "Joyfair is a cylindrical charcoal grill with a built-in lid thermometer, a powder-coated body and a 13.5 by 8.8 inch cooking area. A triangular leg structure keeps it stable and a wooden handle stays cool to the touch.\n\nIt costs about $43 and is the only pick with a lid thermometer, so you can read the temperature instead of guessing. The Run Jee has a bigger cooking surface, and this one is better for slow roasting.\n\nCampers who cook for one to three people and want to control heat will like the thermometer. It fits easily into a car trunk.",
     "specs": [
       "Lid thermometer, 13.5 x 8.8 inch rack",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41SMvpyNioL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GC4YWR7J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GC4YWR7J?tag=rvgearlab-amz-20",
     "description": "The BESTFIRE valve is a 2-in-1 design, so the grill hooks up to a standard 20 lb propane tank or a small camping cylinder. Foldable legs, an adjustable regulator and 165.36 square inches of porcelain-coated grate complete the package.\n\nClose to $50, this is the priciest pick and the only gas grill, which means no coals to light or dispose of. The charcoal picks cost $10 or more less and need more cleanup.\n\nCampers who want quick, controllable heat for weeknight dinners will like gas. It also suits tailgaters who already own a 20 lb tank.",
     "specs": [
       "2-in-1 valve, 20 lb tank or cylinder",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41D88ZE7fxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B4PY2MDQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B4PY2MDQ?tag=rvgearlab-amz-20",
     "description": "This 14 inch Gas One kettle gives you 150 square inches to cook on, with a clamping 3-point lid and a dual vent layout. An ash catcher sits underneath, and the closed grill carries like a small box.\n\nIt costs about $27, the cheapest pick in this guide, and it is the only charcoal model here with a lid. The Joyfair has a thermometer and the Run Jee has a griddle.\n\nCampers on a tight budget and tailgaters who want a lid will like how it cooks. It also fits a small apartment balcony.",
     "specs": [
       "14 inch, 150 sq in surface",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41yujUjksqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H9M8V7PL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H9M8V7PL?tag=rvgearlab-amz-20",
     "description": "This foldable tabletop charcoal grill needs no tools to set up and has a detachable grate and an ash catcher. It folds compactly for trunks, backpacks and RVs.\n\nAt about $30 it costs $10 less than the Run Jee, and the grate and ash catcher make it the easiest to clean. It has no lid, griddle or thermometer.\n\nCampers who grill a few meals a year and want little cleanup will like it. It suits short trips and picnics.",
     "specs": [
       "Folds compact, no tools",

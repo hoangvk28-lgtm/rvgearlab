@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Ensq4+TmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B003AN1UA8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B003AN1UA8?tag=rvgearlab-amz-20",
     "description": "Rated 50 amp and 120-240V, the EMS-HW50C handles 12,000W and 3,580 joules with an integrated management system. Its fault list spans voltage extremes, ground and neutral problems, flipped polarity, miswired pedestals, accidental 240V, failed surge parts and frequency errors.\n\nIt is the only 50A hardwired pick here and lists the broadest fault protection. It has thermal protection and a display that works in low light, and it is made in the USA.\n\nIt suits an owner of a 50A coach who wants a permanent install. The long list of faults makes it a strong choice for unfamiliar campgrounds.",
     "specs": [
       "50A, 12,000W, 3,580J",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41cZxDOgZfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07PRVV53V?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07PRVV53V?tag=rvgearlab-amz-20",
     "description": "The Power Watchdog PWD30EPOH is a 30 amp hardwired unit with EPO, short for emergency power off, that disconnects during extreme voltage swings. It has Bluetooth, wireless fault alerts and a replaceable surge module, with a separate RVWhisper accessory available for longer-range monitoring.\n\nIt is the most feature-rich of the five, ahead of the Progressive units on monitoring. Its replaceable surge module saves buying a new unit after a spike.\n\nIt suits an owner who wants phone alerts and a hardwired, theft-resistant install. EPO adds an automatic cutoff.",
     "specs": [
       "30A hardwired, EPO",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41RStr9eSFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DC167KW8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DC167KW8?tag=rvgearlab-amz-20",
     "description": "The Power Watchdog PWD30EPOHW is a 30 amp hardwired EMS unit with Wi-Fi-enabled monitoring of voltage and meter data, plus emergency power off. It gives the same hardwired install as the PWD30EPOH.\n\nIt swaps Bluetooth for Wi-Fi monitoring, which suits a rig with campground Wi-Fi, and costs slightly less than the Bluetooth model. It has a clearer remote-monitoring story than the Progressive units.\n\nIt suits a full-time RVer who wants to check the rig's power from anywhere with a connection. The meter data stays visible between campgrounds.",
     "specs": [
       "30A hardwired, Wi-Fi",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4132XaZ5qTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B002UC6RSA?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B002UC6RSA?tag=rvgearlab-amz-20",
     "description": "The EMS-HW30C is a 30 amp, 120V, 3,600W unit built to take 1,790 joules. The display and LEDs flag high or low voltage, bad grounds, wrong polarity and frequency trouble.\n\nIt lists a longer fault list than the LCHW30 and costs less than the Power Watchdogs. It has no phone link, so you read the display at the unit.\n\nIt suits a 30A owner who wants proven fault protection at a lower price than the smart models. The display sits on the unit itself.",
     "specs": [
       "30A, 3,600W, 1,790J",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41+YcMVxZ1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B004A32CGI?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B004A32CGI?tag=rvgearlab-amz-20",
     "description": "The EMS-LCHW30 is another hardwired 30 amp, 120V option with 3,600W capacity and 1,790 joules. Its listing names protection for voltage extremes, polarity reversal, pedestal miswiring, accidental 120V, surge failure and frequency.\n\nIt matches the HW30C on rating and joules and is the lowest priced of the five. Both are made in the USA with thermal protection and a display with LED indicators.\n\nIt suits a 30A owner who wants a hardwired EMS at the lowest cost in the group. The display and LED indicators help in low light.",
     "specs": [
       "30A, 3,600W, 1,790J",

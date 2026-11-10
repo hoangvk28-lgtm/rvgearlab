@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41I1pq9g-yL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F4KLBTQ3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F4KLBTQ3?tag=rvgearlab-amz-20",
     "description": "The Renogy 400W is the nearest fold-up blanket to this size, built with N-type cells at 25 percent efficiency in a 16-fold layout. The listing says it works with several big-name stations, among them Jackery, EcoFlow, Anker SOLIX and Bluetti models.\n\nAgainst the ZOUPW 450W picks, it trades 50 watts for a true multi-fold carry format and a brand with named station support. Compared with the PRO, it has no bifacial rear gain, which keeps the design simpler.\n\nIt suits campers with a named station who want the most capable fold-up they can carry in a car. The 16-fold layout is aimed at tight SUV and truck bed storage.",
     "specs": [
       "400W N-type, 25%",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Bp+wsrNzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H4R2VRL5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H4R2VRL5?tag=rvgearlab-amz-20",
     "description": "The ZOUPW 450W PRO runs 25.6 percent efficiency across its cells, a bifacial design with up to 30 percent rear gain and a 4-zone parallel anti-shading circuit. Its composite top layer lists 97 percent light transmission, and a 4-in-1 cable covers Anderson, XT60, DC7909 and DC8020.\n\nIt is the only true 450W foldable in the group, with the shade protection of four zones. Compared with the standard ZOUPW 450W, it adds rear gain and a foldable composite layer.\n\nIt suits campers with a high-capacity station that accepts 40 to 60V and who camp where partial shade is common. Bright, reflective ground raises the rear-side gain.",
     "specs": [
       "450W N-type, 25.6%",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41WNDLOe3dL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DGT547L7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DGT547L7?tag=rvgearlab-amz-20",
     "description": "This ZOUPW 450W is a 16-busbar N-type panel whose Voc of 45.9V targets 40 to 60V station inputs, built on an aerospace-grade fiberglass structure that weighs 29.5 lbs. It carries an IP68 rating with ETFE and a 4-in-1 adapter cable.\n\nIt costs 100 dollars less than the PRO and the same as the Renogy blanket while giving a true 450W. Against the Renogy, the fiberglass build is a rigid-style panel rather than a multi-fold blanket.\n\nIt suits high-capacity station owners who want a full 450W without paying for bifacial extras. The IP68 rating covers rain, marine spray and dust.",
     "specs": [
       "450W N-type, 45.9V Voc",

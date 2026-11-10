@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41uKUTDbFFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G1FYZQBR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G1FYZQBR?tag=rvgearlab-amz-20",
     "description": "VEVOR's 10,000 lb kit is the only entry here with a full set of stated ratings and every major part in the box. VEVOR's weight distribution hitch lists 10,000 lb maximum towing and 1,000 lb maximum tongue weight and includes a 2-inch shank and a 2-5/16 inch ball.\n\nIt states both a 10,000 lb gross trailer weight and a 1,000 lb tongue weight and includes the shank and ball, which the Reese 8K Kit does not. Its listing says little about bar type or sway control, which keeps it a basic option.\n\nBest for a buyer who wants one box with stated ratings and a low price. It is the low-cost complete kit here, so check the spring bar type and warranty before relying on it for a heavy trailer.",
     "specs": [
       "10,000 lb GTW, 1,000 lb TW",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31n383VKNvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0008F675Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0008F675Y?tag=rvgearlab-amz-20",
     "description": "The Reese kit is a head and bars package whose title says 8,000 lb capacity without a shank. Reese's kit is titled as 8,000 lb capacity without a shank, while the body text cites up to 15,000 lb gross trailer weight and 1,500 lb tongue weight. It has a raised hitch ball platform and serrated washers.\n\nIt has a better-known name than VEVOR 10000 lb, but the title and the body text give different ratings and the shank is extra. That makes the paperwork harder to trust.\n\nBest for a buyer who prefers the Reese name and will confirm the rating with the seller. Use the lower rating until the seller confirms which applies.",
     "specs": [
       "Titled 8,000 lb, no shank",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41SivP-FmNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01I3JCG6A?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01I3JCG6A?tag=rvgearlab-amz-20",
     "description": "CURT's 17550 is a replacement hardware kit for the TruTrack 4P hitches 17499 and 17500. CURT's 17550 is a replacement hardware kit for the CURT TruTrack 4P hitches 17499 and 17500.\n\nIt is a spare, not a hitch, so it only helps owners of those two models. It costs far less than any complete kit above it.\n\nBest for a TruTrack 4P owner replacing worn hardware. It is a replacement part.",
     "specs": [
       "TruTrack 4P hardware kit",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41HcjlZDQyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B010MEHYB6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B010MEHYB6?tag=rvgearlab-amz-20",
     "description": "CURT's 17076 is a yellow zinc hardware kit for CURT round bar weight distribution hitches. CURT's 17076 is a replacement hardware kit for CURT round bar weight distribution hitches with a yellow zinc finish. It is made of steel and compatible with the CURT round bar hitches.\n\nIt plays the same role as CURT 17550 Hardware for round bar owners and is also priced as a small spare. It does not add any capacity.\n\nBest for a round bar owner replacing bolts and brackets. Buy it only as a replacement part.",
     "specs": [
       "Replacement hardware kit",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31-dwwJBk-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B001GMX2C4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B001GMX2C4?tag=rvgearlab-amz-20",
     "description": "CURT's 17314 are conical washers for CURT trunnion bar hitches. CURT's 17314 are replacement conical washers for CURT trunnion bar weight distribution hitches. They are made of steel with a corrosion-resistant black finish.\n\nIt is the cheapest trunnion wear part on the list and is useful only if your hitch is a CURT trunnion model. It is not a substitute for a hitch.\n\nBest for a CURT trunnion owner replacing washers. Buy them only as a replacement part.",
     "specs": [
       "Replacement conical washers",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31zW9M6QjjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GG93KLT1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GG93KLT1?tag=rvgearlab-amz-20",
     "description": "SyunsXoon's retainers are clips that keep round bar spring bars attached to the head. SyunsXoon sells spring bar locking retainer clips for round bar weight distribution hitches, part 17109, compatible with CURT 17600 or 17601.\n\nThey are third-party parts for CURT 17600 and 17601 style systems and cost less than CURT's own hardware kits. They add nothing to rating.\n\nBest for a round bar owner who lost a retainer. It is a replacement part.",
     "specs": [
       "Round bar retainer clips",

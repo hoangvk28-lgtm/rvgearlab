@@ -32,7 +32,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41e38s0etUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GXVY4179?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GXVY4179?tag=rvgearlab-amz-20",
     "description": "The Latest RV Surge Protector 50 Amp is rated 32,000 joules, the highest in this roundup, with a Bluetooth app dashboard, voltage sensing with cutoff and a larger LED display. A manual reset adds a safety step, and it is priced at $179.99.\n\nCompared with the 30 amp units below it, this is the one built for a four-prong 50 amp coach, and its joule rating tops every other model. Compared with the Power Watchdog, it brings a bigger surge energy budget.\n\nIt is the best choice for owners of 50 amp motorhomes and fifth wheels who want maximum surge capacity and live voltage data on their phone.",
     "specs": [
       "50A, 32,000J, Bluetooth app",
@@ -62,7 +62,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31n9qtD9vVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DC16QZP1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DC16QZP1?tag=rvgearlab-amz-20",
     "description": "The Power Watchdog PWD30W is a 30 amp protector with Wi-Fi and Bluetooth, wireless fault alerts and a replaceable surge module, priced at $169.99. It comes from an established brand in RV power monitoring.\n\nCompared with the Latest above it, the PWD30W serves 30 amp coaches and adds Wi-Fi alerts that reach you away from the rig. Compared with the GEARGO units below it, the replaceable module extends service life after the unit absorbs surges.\n\nIt suits full-timers and seasonal campers on 30 amp hookups who want alerts on their phone and a protector that can be renewed instead of replaced.",
     "specs": [
       "30A, Wi-Fi and Bluetooth",
@@ -92,7 +92,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41czPrZjsGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GYCJ26L1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GYCJ26L1?tag=rvgearlab-amz-20",
     "description": "The GEARGO 2026 All-New RV Surge Protector is a 30 amp unit rated 28,000 joules, with TVS protection and an automatic cutoff relay at $161.48. An app monitors voltage and wiring, and a larger LED display keeps status easy to read.\n\nCompared with the Power Watchdog above it, this unit gives a stated joule rating and the high surge energy of 28,000. Compared with the New-Gen below it, it nearly doubles the joule figure for about $41 more.\n\nIt is the right match for 30 amp owners who want a strong joule rating, an automatic cutoff and app monitoring at a mid-range price.",
     "specs": [
       "30A, 28,000J, app",
@@ -122,7 +122,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Lh4IoWZYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GHY8G6WT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GHY8G6WT?tag=rvgearlab-amz-20",
     "description": "The GEARGO New-Gen RV Surge Protector is a 30 amp unit with Bluetooth and Wi-Fi app monitoring, 15,000 joules and a large LED with six indicators, priced at $119.99. It tracks power in real time.\n\nCompared with the GEARGO 2026 above it, this model adds Wi-Fi at a lower price. Compared with the budget New RV protector below it, it supplies Wi-Fi reach and a clear display with six status lights.\n\nOwners wanting Wi-Fi and Bluetooth monitoring on a 30 amp coach without paying top-tier prices.",
     "specs": [
       "30A, 15,000J",
@@ -152,7 +152,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hIjgEaDtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H4KFMWMD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H4KFMWMD?tag=rvgearlab-amz-20",
     "description": "The New RV Surge Protector 30 Amp Weatherproof is an 18,000 joule unit with Bluetooth, remote cutoff from the phone and auto shutoff and reset. An HD display with an analyzer shows live readings, at $79.99, the lowest price here.\n\nCompared with the GEARGO New-Gen above it, this model gives a higher joule rating at a lower price, plus a phone-controlled cutoff. It provides smart protection at the entry price point.\n\nIt suits budget-minded travelers who move often, want Bluetooth monitoring and like the control of switching power off from their phone.",
     "specs": [
       "30A, 18,000J, Bluetooth",

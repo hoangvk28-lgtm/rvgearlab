@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/214x4mHmY1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BMRZJRX6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BMRZJRX6?tag=rvgearlab-amz-20",
     "description": "The Nalgene 32 oz wide-mouth bottle is impact-resistant with a leak-proof lid, curved corners for scrubbing and measurement lines. The listing says it survives drops on trails, streets and subway floors, and it is dishwasher safe.\n\nIt is the most proven design here and weighs less than the insulated Volhoply. The wide opening takes ice, drink mixes and many threaded filters, which narrow bottles block.\n\nIt suits campers who want one bottle for trail and camp. Measurement lines help when you mix drinks or meals.",
     "specs": [
       "32 oz wide-mouth, impact-resistant",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21NzQeSAaML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B361N8RT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B361N8RT?tag=rvgearlab-amz-20",
     "description": "The Volhoply 40 oz bottle has double-wall vacuum insulation, a condensation-proof body, a removable survival paracord handle and a metal carabiner. It uses a spout lid and comes in several colors.\n\nIt holds more than the Nalgene and keeps contents cooler than any plastic option here. The paracord handle and carabiner clip it to a pack or tent loop.\n\nIt suits campers who want cold water through a hot afternoon. The large size covers a day at camp.",
     "specs": [
       "40 oz double-wall vacuum insulated",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Qppc016HL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FQJ9FH3N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FQJ9FH3N?tag=rvgearlab-amz-20",
     "description": "The Bachgold is a collapsible squeeze bottle with a 2-stage filter: an electro-adsorptive nanofiber layer plus a 0.2 micron hollow fiber membrane. The listing says a gentle squeeze delivers clean water with no pumping.\n\nIt is the only bottle here that filters water, which lets you refill from a stream. It is leak-resistant when closed and packs flat when empty.\n\nIt suits hikers who refill on the trail. The collapsible body saves space in a pack.",
     "specs": [
       "2-stage filter, 0.2 micron membrane",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/418SoULW9WL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09J29YXT9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09J29YXT9?tag=rvgearlab-amz-20",
     "description": "The Nefeeko is a 26 oz food-grade silicone collapsible bottle with a double sealing screw cap and a wide mouth. The listing says the wide opening makes it easy to clean and add ice or lemons.\n\nIt packs flat, which the Nalgene and Volhoply cannot, and it costs less than both. It is not insulated.\n\nIt suits campers who want a spare that disappears in a pack. The wide mouth takes ice.",
     "specs": [
       "26 oz food-grade silicone",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/319Rua3PXhL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BYF9VFFC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BYF9VFFC?tag=rvgearlab-amz-20",
     "description": "The M MCGUIRE GEAR canteen is a 1 quart bottle in rugged polyethylene with a screw-on, leak-resistant cap. It comes in olive drab and other colors.\n\nIt is the cheapest option and the most rugged-looking, with a classic shape that clips to a belt or pack. It holds about the same 1 quart as the Nalgene.\n\nIt suits campers who want a no-frills, durable canteen. The polyethylene is impact-resistant.",
     "specs": [
       "1 qt rugged polyethylene",

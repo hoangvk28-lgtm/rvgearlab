@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41l77vlYJwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CB8YYM8D?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CB8YYM8D?tag=rvgearlab-amz-20",
     "description": "VEVOR is a 52 quart hard cooler with 2.5 inches of closed-cell foam insulation and a commercial-grade silicone seal. It weighs 20.5 pounds, which the listing says is 30 percent lighter than rotomolded coolers.\n\nIt holds about 45 to 50 cans or a weekend of meats and produce. Its thick walls give it more insulation than the soft picks here.\n\nChoose it for multi-day trips when food safety matters. It is a good fit for families who grill.",
     "specs": [
       "52 qt, 2.5 inch foam walls",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51+ss1j08gL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CC93FQN8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CC93FQN8?tag=rvgearlab-amz-20",
     "description": "Hulongo is a 30L backpack cooler with 8 mm thickened foam and two insulated compartments. The listing says it keeps contents cool for up to 12 hours, and the waterproof nylon is scratch-resistant.\n\nTwo compartments separate drinks from food, and pockets add storage. The other soft pick, TOURIT, splits its zones side by side instead.\n\nChoose it for a day on the trail or a hike-in picnic. It carries food hands-free.",
     "specs": [
       "30L, 48 cans",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ZqacR8ybL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GGGTPSY1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GGGTPSY1?tag=rvgearlab-amz-20",
     "description": "TOURIT has two independent side-by-side zones with high-density thermal walls and a heat-welded, stain-resistant interior. The listing claims 12 hours of cold, and sizes run 30 or 48 cans.\n\nKeeping wet items such as meat apart from dry bread is the whole point of this design. It also takes ice packs well.\n\nChoose it for picnics where you pack a mix of ready-to-eat and raw foods. It stays easy to wipe clean.",
     "specs": [
       "Two independent zones",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41A0vG56W2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08QDWMMW5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08QDWMMW5?tag=rvgearlab-amz-20",
     "description": "Fit & Fresh's XL slim ice packs measure 7 x 4.75 x 0.5 inches, and a set of 8 is slim enough to fit in a fully packed lunch bag. They are reusable and sold as a pack of 4.\n\nSlim packs fit between items where bagged ice cannot, which helps a food-packed cooler keep temperature. They are also dry, so no meltwater soaks the food.\n\nChoose them as an add-on to any cooler here. They are cheap and reusable.",
     "specs": [
       "Slim 7 x 4.75 inch packs",

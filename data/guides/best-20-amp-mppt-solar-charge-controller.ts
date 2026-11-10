@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31jAWiM6l2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01MRWTAB5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01MRWTAB5?tag=rvgearlab-amz-20",
     "description": "Renogy's Rover 20A states 260W on 12V (520W on 24V) with Voc up to 100V and multi-peak tracking for partial shade. The Rover 20A is a 12V/24V auto-detecting MPPT unit that accepts up to 260W on 12V (520W on 24V) with Voc up to 100V. The listing cites multi-peak tracking for shade, temperature compensation, a 6kV surge diode and four-stage charging with lithium recovery.\n\nIt documents more than AeternaSol 20A MPPT or FTVOGUE 20A and costs less than RICH SOLAR 20A. Bluetooth needs a BT2 module sold separately.\n\nBest for a small roof with shade risk and a 100V window. Bluetooth only works with the BT2 module sold separately, so budget for it if you want phone monitoring.",
     "specs": [
       "20A MPPT, 12V/24V auto",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31JGXQpzPoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B079JTMR95?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B079JTMR95?tag=rvgearlab-amz-20",
     "description": "Renogy's Rover 20A listing that names Bluetooth uses a die-cast aluminum body and auto-detects 12V or 24V for non-lithium batteries. Renogy's Rover 20A (the listing names Bluetooth) uses a die-cast aluminum body and MPPT tracking, auto-detects 12V or 24V for non-lithium battery types and has an LCD with LED indicators. Self-diagnostic protection covers reverse polarity and overcharging.\n\nIt costs slightly more than Renogy Rover 20A and is similar in rating. Confirm what Bluetooth hardware ships with it.\n\nBest for a van that wants the Rover brand with an app listing. Confirm what Bluetooth hardware ships with it before you count on the app.",
     "specs": [
       "20A MPPT, 12V/24V auto",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31tXWbxirCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FSJTBTH8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FSJTBTH8?tag=rvgearlab-amz-20",
     "description": "VEBU's 20A MPPT lists 99% tracking with partial-shade claims but only a 50V PV input. VEBU's 20A MPPT controller for 12V or 24V lists 99% tracking, a 50V maximum PV input and a four-stage charge (bulk, absorption, float, equalization). A bright backlit LCD shows PV voltage, battery voltage, charging current and power.\n\nIt costs more than Renogy Rover 20A and has half the PV window. It adds a four-stage charge with equalization.\n\nBest for a small parallel array where 50V is plenty. The 50V PV limit means panels in parallel or a short series pair at most.",
     "specs": [
       "20A MPPT, 12V/24V",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41TP8QtzbHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B079ZM9MR6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B079ZM9MR6?tag=rvgearlab-amz-20",
     "description": "RICH SOLAR's 20A has a rugged vertical wall-mount design with 99% tracking and 98% conversion listed. RICH SOLAR's 20A MPPT controller auto-detects 12V or 24V and lists 99% tracking with 98% conversion. It has a rugged vertical wall-mount design for RV bays, tactile buttons and an LCD.\n\nIt costs a little more than Renogy Rover 20A and does not state a PV cap in its headline. The layout fits RV bays.\n\nBest for a first-time installer using a wall mount. It is a tidy, easy-to-use 20A for first-time installers.",
     "specs": [
       "20A MPPT, 12V/24V auto",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41WeEBsUbRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HC5W6BBB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HC5W6BBB?tag=rvgearlab-amz-20",
     "description": "AeternaSol's 20A MPPT auto-recognizes 12V or 24V with an LCD and dual USB. AeternaSol's 20A MPPT controller auto-recognizes 12V or 24V systems and shows data on an LCD that acts as a solar power meter. It adds dual USB ports and protection against over-voltage and short circuits.\n\nIt costs less than RICH SOLAR 20A but gives no efficiency figure or PV cap. Ask the seller.\n\nBest for a budget-minded small roof. It is a mid-price 20A, so ask for the PV limit before buying.",
     "specs": [
       "20A MPPT, 12V/24V auto",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41objzfi1SL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BVJF9M3Z?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BVJF9M3Z?tag=rvgearlab-amz-20",
     "description": "FTVOGUE's 20A MPPT is the lowest-priced unit with 12V/24V adaptive voltage and a 5V 3A USB output. FTVOGUE's 20A MPPT controller adapts to 12V or 24V, offers a 5V 3A USB output and an LCD for mode switching and parameter configuration. The listing says it suits lithium batteries and names RV, marine and home use.\n\nIt costs far less than AeternaSol 20A MPPT but publishes few specs. Verify PV limits and warranty.\n\nBest for a tight budget where you will confirm specs. It is a very low-priced 20A, so ask the seller for the PV limit and warranty.",
     "specs": [
       "20A MPPT, 12V/24V adaptive",

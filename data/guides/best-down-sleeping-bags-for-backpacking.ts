@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Ypf-hGnNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CSPKCJZK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CSPKCJZK?tag=rvgearlab-amz-20",
     "description": "Kelty fills the Cosmic 20 with traceable 550 fill power down and wraps it in recycled fabrics treated with a PFAS-free water repellent. It prints an ISO limit rating of 21F and an extreme of minus 11F, in Short, Regular and Long sizes for sleepers up to 5 ft 6, 6 ft and 6 ft 6.\n\nOnly this bag among the five prints an ISO extreme figure, which makes the comparison to other brands straightforward. The lower fill power means more down by weight than the 680 fill picks, in exchange for a trusted rating.\n\nIt suits backpackers who want a down bag they can compare against ratings from other makers. Three lengths make fit easier.",
     "specs": [
       "550FP RDS down",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51unIgsLyDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F4CD1T13?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F4CD1T13?tag=rvgearlab-amz-20",
     "description": "The Naturehike CW295 packs 295 g of duck down into individual channels, inside a 20D 400T water-repellent nylon shell. The CW295 is a short size at 74.8 by 28.3 inches and weighs 1.3 lb, and it stows to 4.7 by 10.2 inches.\n\nIt is the lightest and smallest bag in this list and costs the least. Individual down channels keep the fill from migrating, and the pack size beats the 2 lb Naturehike 40 Degree by a wide margin.\n\nIt suits shorter hikers who count grams and sleep in mild weather. A medium CWM400 version is also offered.",
     "specs": [
       "295 g duck down, 1.3 lb",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31zqqRbeRuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GCY58RRV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GCY58RRV?tag=rvgearlab-amz-20",
     "description": "Inside a 400T 40D nylon shell, the HLITMOUT carries 680 fill power white duck down certified to RDS, with a choice of 0.88 lb or 1.1 lb of fill. The 0.88 lb version weighs 2.16 lb including a pillow.\n\nIt lists the highest fill power in the group and a low stated weight, at a price below the Kelty Cosmic 20. A compression sack, an inner zipper loop and side pockets come with it.\n\nIt suits budget-minded hikers who want high-fill down and a pillow. Choose the 1.1 lb version for colder nights.",
     "specs": [
       "680 FP RDS duck down",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31d97oh-wkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FJ2TQKR7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FJ2TQKR7?tag=rvgearlab-amz-20",
     "description": "The SYWSKW is a 680 fill power RDS-certified duck down bag measuring 86.6 by 33.5 inches, with widened shoulders, a YKK zipper, reflective drawcords and an 80 g detachable pillow. It compresses to 7.08 by 11.8 inches and comes in 1.1 lb, 1.76 lb and 2.65 lb fill versions.\n\nOf the five, it gives the widest shoulders and three warmth tiers, so you can buy the amount of down that matches your trips. Next to the HLITMOUT it trades a little weight for room to roll.\n\nIt suits broad or restless sleepers who hate mummy cuts. The pillow detaches when not needed.",
     "specs": [
       "680FP RDS duck down",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41iGf3a81UL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FG2DZ1YJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FG2DZ1YJ?tag=rvgearlab-amz-20",
     "description": "The Naturehike 40 Degree bag weighs 2 lb and is filled with 650 fill power RDS down in a 400T 20D ripstop shell. It uses a mummy upper body with a rectangular lower body, YKK zippers and a compression sack.\n\nIt gives more room at the knees than the other mummies and sits between the CW295 and the Kelty on price. A 40.4F figure in the title tells you what to expect.\n\nIt suits hikers who want a down bag for warm nights without a snug cut. The compression sack keeps it small.",
     "specs": [
       "2 lb, 650 fill RDS down",

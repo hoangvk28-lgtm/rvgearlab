@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41oqi1Rj3sL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DMN1S83X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DMN1S83X?tag=rvgearlab-amz-20",
     "description": "The klarus HM1 lists up to 70 hours on low and 8 hours of continuous use on medium, with 440 lumens from CREE XP-G3 LEDs, a full charge in 2.5 hours and a weight of 85 grams. It has gesture sensing, an IPX6 rating, a 2 meter drop test and a 60 degree adjustable angle.\n\nIt is the only pick that spells out hours for two separate brightness levels and also states a weight. The Sinvimes 4000 lists a longer 95 hours, while the WARKAR states 72 hours without naming the mode.\n\nIt suits multi-day campers who plan their light use by mode. The kit includes a spare headband and a 2-year replacement cover.",
     "specs": [
       "70 hours low, 8 hours medium",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/412+9e7--tL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GCFY3LTF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GCFY3LTF?tag=rvgearlab-amz-20",
     "description": "The Sinvimes 4000 lists 95 hours of battery life with an XHP70.8 chip, USB-C fast charging in 4 to 5 hours and a 120 degree adjustable head. It has 5 modes (high, medium, low, strobe and SOS) plus red modes, zoom and an IPX7 rating with a sealed charging port.\n\nIts 95 hour figure is the longest listed runtime in the group. It is also the highest priced of the five.\n\nIt suits expedition-style campers and anglers who want the longest listed runtime and a dunk-proof body. The sealed port protects against rain and dirt.",
     "specs": [
       "95 hours listed, USB-C",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Qh4ejO9IL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F6BSVX1T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F6BSVX1T?tag=rvgearlab-amz-20",
     "description": "The WARKAR lists a 3000 lumen headline output, 9 modes, a motion sensor, side red light, tail warning mode, a 9,000mAh battery claim and 72 hours of battery life. It charges by Type-C in 3 to 5 hours, has USB output and carries an IP65 rating.\n\nIt has the smallest price tag in the group and the biggest battery claim. Unlike the klarus HM1, it does not say which mode the 72 hours applies to.\n\nIt suits budget campers who want a big battery and a tail warning light. The USB output can charge a phone in a pinch.",
     "specs": [
       "3000 lumens listed, 9 modes",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/414PxXgnfQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01A47XNHA?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01A47XNHA?tag=rvgearlab-amz-20",
     "description": "The OLIDEAR uses a T6 LED spotlight listed to light up to 2,600 feet (800 meters), with two modes, high and low. A built-in Li-ion battery gives 6 to 8 hours on the hard light and 20 hours on the weak light.\n\nIts listed runtimes sit well below the 95 hours of the Sinvimes 4000, and its beam distance runs longer than most. Two modes make it simpler than the 9-mode WARKAR.\n\nIt suits hunters, boaters and cyclists who want a long-range spotlight with a day of low-light use. The ABS shell has a wide lamp cup.",
     "specs": [
       "T6 LED, up to 2,600 ft beam",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31fmk9Ld8fL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GXMV3ZRX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GXMV3ZRX?tag=rvgearlab-amz-20",
     "description": "The Coast WPH20R delivers up to 2000 lumens with five optic modes and 6 light modes, combining a PURE BEAM flood and BULLS-EYE spot. It works as a headlamp, clip light or magnetic work light, charges by USB-C with a power lockout, and carries an IP67 rating for submersion to 1 meter.\n\nIt has the highest water rating here and the most versatile mounting. No runtime figure is listed, so it sits below the lamps that publish hours.\n\nIt suits tradespeople and campers who want a lamp that serves as a work light and a headlamp. The lockout prevents accidental activation in a pack.",
     "specs": [
       "2000 lumens, 5 optic modes",

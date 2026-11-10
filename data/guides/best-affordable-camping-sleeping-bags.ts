@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51zDRBxzXfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DX6WYJF7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DX6WYJF7?tag=rvgearlab-amz-20",
     "description": "PTEROMY prints a comfort range of 50 to 80F and a recommended limit of 40 to 90F, with double S-shaped stitching and hollowfiber cotton filling. The listing gives a product weight of 1.35 kg and includes a compression bag.\n\nIt is the only bag in this price band that states both a comfort range and a limit, which makes the number easy to plan around. A spun cotton inner lining, an adjustable drawstring hood, a Velcro pocket and a bottom vent zipper add comfort.\n\nA strong value for spring, summer and fall campers on a tight budget. The bag is machine washable.",
     "specs": [
       "50 to 80F comfort range",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41fu3se401L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B011AZ3O9W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B011AZ3O9W?tag=rvgearlab-amz-20",
     "description": "ECOOPRO's envelope bag measures 83 x 30 inches, with a nylon outer, polyester lining and a stated 55 to 60F range. It compresses to 11 inches tall and weighs 1.7 lb, and a compression sack is included.\n\nNext to the PTEROMY Hollowfiber, it is lighter and packs smaller, and it gives a clear packed height. The 30 inch width is slim, which saves weight for hot-weather trips.\n\nA fit for scouts, hot-weather campers and travelers who want a cheap compact bag. A waterproof nylon exterior sheds dew.",
     "specs": [
       "1.7 lb, 11 inches tall",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41+S3seRetL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B4DJGQJD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B4DJGQJD?tag=rvgearlab-amz-20",
     "description": "OBTANIM is the lowest-priced bag here, made with a polyester exterior, double microfiber fill and a 100% polyester lining. The listing calls it a 4-season bag and says it keeps users warm at temperatures close to freezing, with a waterproof double-layer design.\n\nWhere the PTEROMY and ECOOPRO print numbers, this listing leans on season claims, so its low price comes with fewer facts. It suits kids, indoor use and sleepovers as well as camping.\n\nA pick for the tightest budgets and casual use. Treat the 4-season label as marketing and plan for mild nights.",
     "specs": [
       "4-season claim, microfiber fill",

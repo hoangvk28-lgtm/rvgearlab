@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zlMnJ0QvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D6SQR1L1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D6SQR1L1?tag=rvgearlab-amz-20",
     "description": "The Champion 4000-Watt Dual Fuel is the pick that publishes the most complete picture of both fuels. It lists 4000 starting watts and 3000 running watts on gasoline, 2700 running watts on propane, up to 10 hours of runtime on gas and up to 25 hours on propane, and a noise figure of 64 dBA measured from 23 feet. It includes a TT-30R RV outlet, a 20 amp household duplex outlet, and a 12V automotive-style outlet.\n\nIt takes the top spot over the WEN DF480iX because it gives you numbers you can check against your own rig on both fuels, including a distance-qualified noise rating, while the WEN's listing only calls the sound comparable to a normal conversation. The propane figure drops by 300 watts compared with gas, which is the same roughly 10 percent derating most dual fuel units show. The trade is a $102 higher price than the WEN for 1000 fewer rated watts on propane.\n\nChoose it if you want a documented, mid-size inverter that handles a single-air-conditioner travel trailer on either fuel and can be paralleled with a second unit later using the optional kit sold separately. The caveat is that the parallel kit and a second generator are extra cost, so treat parallel as a future option, not an included feature.",
     "specs": [
       "3000W gas, 2700W propane",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Ja7YiNicL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D3WW1CSQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D3WW1CSQ?tag=rvgearlab-amz-20",
     "description": "The WEN DF480iX is the strongest unit here on propane. Its listing gives 4800 surge and 4000 rated watts on gasoline and 4320 surge and 4000 rated watts on propane, so the rated figure does not drop when you change fuel. It has a 224cc engine, electric start, onboard wheels with a telescoping handle, a TT-30R RV receptacle, four 120V household outlets, and a CO Watchdog shutdown sensor.\n\nAgainst the Champion above, the WEN gives up a distance-qualified noise number and a documented runtime in hours but gains 1000 rated watts on propane and electric start, and it costs $102 less. Against the smaller WEN DF360iX ranked below it, you pay about $52 more and get roughly 1100 more rated watts on gas and 1400 more on propane, plus wheels and four household outlets instead of two.\n\nThis suits owners running a larger coach or two loads at once, such as an air conditioner plus a microwave, who plan to use propane regularly. The caveat is size: a 4000-watt electric-start unit with wheels is heavier than the compact models, and the listing does not state a dry weight, so confirm it before you plan to lift it into a truck bed.",
     "specs": [
       "4000W rated on both fuels",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41WzM-FtzFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CQMZ9JVB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CQMZ9JVB?tag=rvgearlab-amz-20",
     "description": "The Westinghouse 4000 Peak Watt lists 4000 peak and 3300 rated watts on gasoline, a TT-30R 30 amp outlet, a 5-20R household outlet, and two USB ports. Its rotating LED data center shows fuel level, power output, remaining run time, voltage, and lifetime hours, and an Economy Mode stretches runtime, with the listing citing up to 7 hours on a 1.69 gallon tank and noise as low as 52 dBA.\n\nIt sits third because the headline numbers are gas-only: the listing does not publish a propane rated-watt figure the way the Champion and WEN units do, so you cannot size an air conditioner against propane output from the page alone. It beats the WEN DF360iX on rated gas watts (3300 versus 2900) and on its live display, but it uses recoil start and has a smaller tank.\n\nPick this if you value watching load and remaining runtime in real time and expect to run mostly on gasoline. The caveat is the 52 dBA figure is the lowest-load, Economy Mode number, so do not expect that level when the unit is working near its rated output.",
     "specs": [
       "3300W rated on gasoline",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41KdBRQJSQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D3WR4CFR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D3WR4CFR?tag=rvgearlab-amz-20",
     "description": "The WEN DF360iX lists 3600 surge and 2900 rated watts on gasoline and 3500 surge and 2600 rated watts on propane. It includes a TT-30R RV receptacle, two 120V household outlets, a 12V DC outlet, two USB ports, a tool-free LPG quick-connector, a CO Watchdog shutdown sensor, fuel shut-off, and a three-year warranty.\n\nIt ranks fourth because the stronger WEN DF480iX and Westinghouse 4000 give more rated power for about $50 to $85 more. What it offers over the budget PowerSmart below is a TT-30R RV receptacle in place of a twist-lock outlet, so a standard RV cord plugs in without an adapter. The propane rated figure of 2600 watts is also the lowest here after the PowerSmart.\n\nIt suits a smaller travel trailer or a van where you run one modest load at a time and want the RV outlet ready. The caveat is that 2600 watts on propane will not comfortably start a typical rooftop air conditioner alone unless it has a soft start, so check your unit's nameplate before relying on it.",
     "specs": [
       "2900W gas, 2600W propane",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41S2h7L6c7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D5XZ9JMZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D5XZ9JMZ?tag=rvgearlab-amz-20",
     "description": "The ERAYAK 4500 lists 4500 peak and 3500 rated watts on gasoline and 4050 peak and 3150 rated watts on propane, a total harmonic distortion of 0.2 to 1.2 percent, and 58 dBA from 23 feet at quarter load. It weighs 54 pounds and measures 19.88 by 16.93 by 20.25 inches, and its 2.25 gallon tank runs up to 16 hours at 25 percent load.\n\nIt lands fifth because the brand has the thinnest support documentation of the group and the listing's description of its automatic fuel-switching logic is unclear, so confirm how it behaves when one fuel runs out before you rely on it. In its favor, it offers more rated watts than the Westinghouse 4000 and PowerSmart at a lower price than the Champion, and the quoted noise figure is distance-qualified.\n\nChoose it if you want the most rated output per dollar and per pound among the mid-size units and are comfortable with a less established brand. The caveat is the unclear fuel-switching description, so test the changeover at home on a weekend before a trip.",
     "specs": [
       "3500W gas, 3150W propane",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41pN78FIAdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FSD2SJJP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FSD2SJJP?tag=rvgearlab-amz-20",
     "description": "The PowerSmart 3800 is the lowest-priced unit here at $459.99 and publishes useful numbers: 3800 starting and 3300 running watts on gasoline, 3500 starting and 3100 running watts on propane, 59 dBA at 25 percent load in Eco Mode, 8 hours at 25 percent load on its 1.3 gallon tank, and up to 24 hours on a standard 20 pound propane tank. It is certified to ANSI/PGMA G300, ANSI/UL 2201 and EPA standards.\n\nIt ranks last because it has a 120V 30A L5-30R twist-lock outlet instead of a TT-30R RV receptacle, so you will need a short L5-30P to TT-30R adapter to connect a standard RV cord, and it carries a two-year warranty against the three years on the WEN and Champion units. It gives up little on propane output: only 200 watts below its gas rating, a smaller drop than the Champion.\n\nThis fits budget-minded owners who accept buying an inexpensive adapter and want documented propane runtime. The caveat is the shorter warranty, so weigh the roughly $135 saving against the Champion with that in mind.",
     "specs": [
       "3300W gas, 3100W propane",

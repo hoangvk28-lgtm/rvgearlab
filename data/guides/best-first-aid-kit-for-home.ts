@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51a8DVpRqhL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D1VVKN2X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D1VVKN2X?tag=rvgearlab-amz-20",
     "description": "The Gevoke 500-piece kit is made of tear-resistant 1680D polyester with waterproof ability and double zippered compartments. Reflective strips improve visibility in low light, and the design allows refilling.\n\nIt holds 100 more pieces than the VRIEXSD and TLIEAO kits and costs the most here. Its refillable design suits a household that restocks.\n\nIt is the best for a larger family or a home that also camps. The bag grabs and goes.",
     "specs": [
       "500 pieces, 1680D polyester",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41sZDezCMVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F1DJ8DPM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F1DJ8DPM?tag=rvgearlab-amz-20",
     "description": "The Gevoke 410 has five transparent compartments in a waterproof EVA hard shell. It measures 9.8 x 6.6 x 4.1 inches, weighs 2.43 lbs and has a shoulder strap and a TPU handle.\n\nIt carries 10 more pieces than the VRIEXSD 400 and adds a hard shell with transparent compartments. The strap and handle make it easier to carry than the TLIEAO.\n\nIt is for families who want clear compartments and a tough shell. It also travels to the cabin.",
     "specs": [
       "410 pieces, EVA hard shell",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/511kKc47nTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FSQ4XW2W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FSQ4XW2W?tag=rvgearlab-amz-20",
     "description": "The TLIEAO has 400 pieces in a wall-mountable plastic case with tiered shelves, a transparent lid and easy-slide latches. It measures 12.2 x 4.13 x 13.4 inches and weighs 3.4 lbs.\n\nIt has tiered dual-layer shelves in a wall-mount case, so contents are visible at a glance. The VRIEXSD and Gevoke bags are more portable and do not hang on a wall.\n\nIt suits garage and kitchen installs where the kit stays put. It folds compactly for storage.",
     "specs": [
       "400 pieces, dual-layer shelves",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41w92OpZZrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BFN7K6ZZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BFN7K6ZZ?tag=rvgearlab-amz-20",
     "description": "The VRIEXSD kit holds 400 pieces and lists a tourniquet among its contents. It uses 1680D polyester with a divided, labeled compartment layout and measures 9.4 x 3.9 x 6.8 inches.\n\nIt is slightly smaller than the Gevoke 410pc and names a tourniquet in its contents. The 1680D polyester bag is waterproof and tough.\n\nIt suits households that want serious bleeding control on hand. It is also used for disaster preparedness.",
     "specs": [
       "400 pieces with a tourniquet",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51-y91apSvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00CYBXHFS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00CYBXHFS?tag=rvgearlab-amz-20",
     "description": "The Be Smart Get Prepared kit holds 180 pieces in an impact-resistant case with organized interior compartments and easy-slide latches. The case measures 8.0 x 10.0 x 3.0 inches.\n\nIt carries about a third of the Gevoke pieces at a far lower price. The listing says it meets FDA regulatory standards as a medical device.\n\nIt is the best for small households and apartments. The case fits a shelf or drawer.",
     "specs": [
       "180 pieces, impact-resistant case",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41tmZKeWpGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B41MYSGP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B41MYSGP?tag=rvgearlab-amz-20",
     "description": "The BAND-AID Travel Ready kit has 80 pieces and includes cleansing wipes, gauze pads, antibiotic cream and pain relief caplets. The listing describes it as a mini kit to refill for homes, cars and bags.\n\nIt holds far fewer items than the 180-plus kits here. It is the smallest and cheapest, with trusted brand items.\n\nIt works as an add-on in a bathroom or bedside drawer. It is not a main home kit.",
     "specs": [
       "80 pieces, mini case",

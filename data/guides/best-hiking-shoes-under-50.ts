@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41sVjXUzGoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H5KBV98F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H5KBV98F?tag=rvgearlab-amz-20",
     "description": "The GARNETMONO is a men's low-top trail shoe with a waterproof leather and breathable mesh upper, a removable memory foam insole and a thick EVA midsole. A rubber outsole with deep lugs grips loose dirt and rock, and a reinforced toe wrap guards against sharp rocks.\n\nIt costs about $46, around $6 more than the NORTIV 8 Men's, and it alone pairs leather with a toe wrap and a heel counter. The leather upper is stiffer than mesh and takes a few wears to break in.\n\nIt suits hikers who want protection and cushioning on rocky trails and cold, wet mornings. The heel counter locks the ankle.",
     "specs": [
       "Waterproof leather and mesh",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/412fVrV6NhL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07SX7WDCG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07SX7WDCG?tag=rvgearlab-amz-20",
     "description": "The NORTIV 8 Men's Low Top pairs a waterproof synthetic leather upper with a membrane, a rubber toe cap and a stiffened heel. The thick rubber outsole has multi-directional traction, and a removable insole adds arch support over a flexible MD midsole.\n\nIt costs about $40, around $6 less than the GARNETMONO Leather, and it uses a waterproof membrane for a lighter feel. It gives up the memory foam insole of the GARNETMONO.\n\nIt suits day hikers and campers who need dry feet on wet grass and stream crossings. The toe cap handles rocks.",
     "specs": [
       "Waterproof membrane upper",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31RFbUilIdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FNS4S92C?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FNS4S92C?tag=rvgearlab-amz-20",
     "description": "The Amazon Essentials shoe wraps a sealed waterproof liner inside its nylon and suede-style upper, and adds a molded memory foam insole and a padded collar. Flex notches cradle the ankle, and a pull tab and quick-lace system make it easy to slip on, with reflective details.\n\nIt costs about $21, less than half the GARNETMONO Leather, and it alone adds a waterproof liner and a quick-lace system. It has a lighter outsole than the NORTIV 8 Men Low Top.\n\nIt suits campers and casual hikers who want a dry, comfy shoe for short trips. It is a light option for camp wear.",
     "specs": [
       "Internal waterproof bladder",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41djKmzlPQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FDG95DHZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FDG95DHZ?tag=rvgearlab-amz-20",
     "description": "The QUH is a low-top shoe in artificial leather and knitted breathable fabric with a waterproof coating, reinforced stitching and a tough rubber outsole with a serrated anti-slip pattern. The thickened heel adds cushioning and ankle support.\n\nIt costs about $26, a few dollars above the TRAILBLITZ Hiking Shoes, and the knit upper breathes better than the NORTIV 8 Men Low Top. It is splash-proof and not rated as a fully waterproof boot.\n\nIt suits warm-weather hikers who want breathable shoes with some wet protection. It also works for camp walks.",
     "specs": [
       "Knit and artificial leather upper",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41pQsgWbzEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FHH12SRQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FHH12SRQ?tag=rvgearlab-amz-20",
     "description": "The TRAILBLITZ is a men's lace-up with a suede and mesh upper, an EVA soft cushioning midsole and a non-slip rubber outsole. It is lightweight and breathable and works on flat roads or rugged ground.\n\nIt costs about $24, close to the QUH Low-Top, and it is not marketed as waterproof. It is lighter than the GARNETMONO Leather.\n\nIt suits easy trails, camp chores and travel where agility matters. Mesh keeps feet cool.",
     "specs": [
       "Suede and mesh upper",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41j7D2iojmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CWH3G26R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CWH3G26R?tag=rvgearlab-amz-20",
     "description": "The ELETON is a unisex barefoot shoe with a flexible synthetic mesh upper, a wide toe box and a zero-drop sole in wear-resistant polyurethane. It has an elastic closure and a ventilated sole.\n\nIt costs about $26, matching the QUH Low-Top, and it is the only wide-toe, zero-drop pick. It offers far less cushioning than the GARNETMONO Leather.\n\nIt suits hikers who like a natural foot feel and water walks. It also dries fast at camp.",
     "specs": [
       "Wide toe box, zero drop",

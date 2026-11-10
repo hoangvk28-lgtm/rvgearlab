@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/415Ex6a1IZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GKRTX336?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GKRTX336?tag=rvgearlab-amz-20",
     "description": "The BLUETTI Elite 300 holds 3014Wh in a body the listing calls nearly 59 percent smaller than traditional large stations, with 2400W of AC output. Ports include a TT-30 socket for RV plugs plus 30A of 12V DC, and it adds 10ms UPS switchover, app control and recharging by wall or solar.\n\nAgainst the MARBERO, it holds about thirteen times the energy, and it is the only one with an RV-style outlet. That capacity is what a cooling load needs, since an air conditioner draws power for hours.\n\nIt suits RV and van owners who want a battery big enough to try cooling and who accept the limits of a 2400W output. The TT-30 port fits an RV plug directly.",
     "specs": [
       "3014Wh, 2400W output",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ZtLxeqjXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CJHNCZ8T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CJHNCZ8T?tag=rvgearlab-amz-20",
     "description": "The MARBERO M823 is a 237Wh power station with two 300W AC outlets (375W peak), USB-A QC3.0 ports and a built-in BMS. It lists three recharge methods and two LED lights.\n\nCompared with the BLUETTI, it costs a fraction and is far smaller. Its 300W output suits a fan or small cooler, because most compressor air conditioners draw more than 300W.\n\nIt suits campers who need a cheap station for fans, lights and electronics and who will not try air conditioning. The two AC outlets cover several small chargers.",
     "specs": [
       "237Wh, two 300W AC outlets",

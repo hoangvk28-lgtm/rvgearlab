@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/413sWGNdInL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B082QJ7H1R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B082QJ7H1R?tag=rvgearlab-amz-20",
     "description": "TireMinder's i10 includes four transmitters and a rhino signal booster, with a 3.15 inch display and up to 40 tires supported. TireMinder's i10 has a 3.15 inch color LCD, monitors up to 40 tires from 0 to 199 psi with plus or minus 1 psi accuracy and checks for slow leaks, rapid leaks, blowouts and pressure or temperature problems every 6 seconds. The kit includes four transmitters and a rhino signal booster.\n\nIt states 0 to 199 psi and plus or minus 1 psi accuracy, more than Masoll 4-Sensor Booster, but costs more. It checks for problems every 6 seconds.\n\nBest for a large rig that needs a high psi range. It is a strong fit for a big rig because it handles 199 psi, but extra transmitters cost more.",
     "specs": [
       "4 transmitters, 3.15 inch display",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51xe9ZgYu0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CW9KB4X6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CW9KB4X6?tag=rvgearlab-amz-20",
     "description": "GUTA's GT20 ten-sensor kit reads 0 to 188 psi and handles up to 24 tires with extended range. GUTA's GT20 ten-sensor kit reads 0 to 188 psi and tire temperature from -40F to 221F, with six alert modes and a display that handles up to 24 tires. The listing mentions extended range and adjustable display orientation.\n\nIt has more sensors than TireMinder i10's kit and costs a little more. Its listing does not state the sensor type.\n\nBest for a long rig with many tires. Confirm the sensor mounting type before ordering.",
     "specs": [
       "10 sensors, 0 to 188 psi",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/416sgilyeeL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CW9MR58L?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CW9MR58L?tag=rvgearlab-amz-20",
     "description": "Tymate's TM2 six-sensor kit includes a booster and offers solar and USB charging. Tymate's TM2 six-sensor kit includes a booster and offers solar and USB charging with five alarm modes and an auto-adjusting color LCD. The listing describes repeaters for extending range.\n\nIt costs less than GUTA GT20 10-Sensor and covers six tires. The listing describes repeaters for extending range.\n\nBest for a mid-size rig with six tires. It is the booster-equipped TM2 for a longer rig.",
     "specs": [
       "6 sensors plus booster",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41EiAIXjCoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GHRNZHFN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GHRNZHFN?tag=rvgearlab-amz-20",
     "description": "Masoll's four-sensor kit includes a high-powered signal booster and a color LCD with four brightness levels. Masoll's RV TPMS comes with a high-powered signal booster, a color LCD with four brightness levels and pre-paired sensors. The listing says it comes in kits of 2, 4, 6 or 8 sensors.\n\nIt costs less than Tymate TM2 6-Sensor Booster and covers four tires. Kits of 2 to 8 sensors exist.\n\nBest for a four-wheel trailer that needs a booster. Choose the sensor count that matches your wheel count.",
     "specs": [
       "4 sensors, booster included",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zeSnITsGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08H7Y7L24?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08H7Y7L24?tag=rvgearlab-amz-20",
     "description": "Tymate's TR6 is a repeater accessory for Tymate systems only. Tymate's TR6 is a repeater accessory that boosts the sensor signal to the display for long rigs or interference, working at 433.92 MHz and matching only Tymate TPMS. It is water and dust resistant, USB powered and suggested for installation at the rear axle.\n\nIt is not a TPMS and works at 433.92 MHz only with Tymate. Tymate suggests installing it at the rear axle.\n\nBest for adding range to an existing Tymate system. It is an add-on, not a monitoring system, and only helps a Tymate kit.",
     "specs": [
       "Repeater accessory only",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41oIrjo3wbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G3X1SSMQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G3X1SSMQ?tag=rvgearlab-amz-20",
     "description": "Tenpmas's kit includes a repeater and an external antenna for a stated 66 ft range, with six all-metal sensors. Tenpmas's TPMS includes a repeater and an external antenna for a stated 66 ft range, with six all-metal sensors, a 0 to 130 psi range and five alarm modes. A single sensor weighs 0.55 ounces.\n\nIt costs about the same as Tymate TR6 Repeater alone and gives a complete system. The listing is a clearance item.\n\nBest for a mid-size rig on a tight budget. It is a repeater-equipped six-sensor kit listed as clearance, so check support terms.",
     "specs": [
       "6 all-metal sensors, repeater",

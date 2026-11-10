@@ -21,7 +21,7 @@ export const products = withAmazonUrls([
     badge: "Best overall",
     name: "Oxseryn 4400-Watts Inverter Generator, Open Frame Generator Gas Powered, Emergency Home Backup, RV Ready",
     amazonQuery: "Oxseryn 4400-Watts Inverter Generator, Open Frame Generator Gas Powered, Emergency Home Backup, RV Ready",
-    amazonUrl: "https://www.amazon.com/dp/B0FXLTM47G?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0FXLTM47G?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/51KrlC-jVkL._SL500_.jpg",
     specs: ["Continuous output: 3,400W","Surge output: 4,400W","Listed weight: 56 lb","Runtime claim: Up to 14 hours"],
     specList: [{"label":"Continuous output","value":"3,400W"},{"label":"Surge output","value":"4,400W"},{"label":"Listed weight","value":"56 lb"},{"label":"Runtime claim","value":"Up to 14 hours"}],
@@ -36,7 +36,7 @@ export const products = withAmazonUrls([
     badge: "Best heavy-duty option",
     name: "Westinghouse 4650 Peak Watt Portable Generator, RV Ready 30A Outlet, Gas Powered, CO Sensor",
     amazonQuery: "Westinghouse 4650 Peak Watt Portable Generator, RV Ready 30A Outlet, Gas Powered, CO Sensor",
-    amazonUrl: "https://www.amazon.com/dp/B099KPJZ2P?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B099KPJZ2P?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/51a-T0yBYdL._SL500_.jpg",
     specs: ["Continuous output: 3,600W","Surge output: 4,650W","Runtime claim: Up to 14 hours","Fuel format: Gasoline"],
     specList: [{"label":"Continuous output","value":"3,600W"},{"label":"Surge output","value":"4,650W"},{"label":"Runtime claim","value":"Up to 14 hours"},{"label":"Fuel format","value":"Gasoline"}],
@@ -51,7 +51,7 @@ export const products = withAmazonUrls([
     badge: "Best compact option",
     name: "Westinghouse 6500 Watt Dual Fuel Home Backup Portable Generator, Transfer Switch Ready 30A Outlet, RV Rea",
     amazonQuery: "Westinghouse 6500 Watt Dual Fuel Home Backup Portable Generator, Transfer Switch Ready 30A Outlet, RV Rea",
-    amazonUrl: "https://www.amazon.com/dp/B099KS71QX?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B099KS71QX?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/519oVFiJpWL._SL500_.jpg",
     specs: ["Continuous output: 5,300W","Surge output: 6,500W","Runtime claim: Up to 14.5 hours","Service rating: 30A"],
     specList: [{"label":"Continuous output","value":"5,300W"},{"label":"Surge output","value":"6,500W"},{"label":"Runtime claim","value":"Up to 14.5 hours"},{"label":"Service rating","value":"30A"}],
@@ -66,7 +66,7 @@ export const products = withAmazonUrls([
     badge: "Best value pick",
     name: "MECMO NEMA L5-30P to TT-30R 30 Amp RV Adapter, Portable Compact Adaptor, 3 Prong 30A 125V Twist Locking G",
     amazonQuery: "MECMO NEMA L5-30P to TT-30R 30 Amp RV Adapter, Portable Compact Adaptor, 3 Prong 30A 125V Twist Locking G",
-    amazonUrl: "https://www.amazon.com/dp/B0DYVDRD44?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0DYVDRD44?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41B0IPm9rBL._SL500_.jpg",
     specs: ["Product type: Backup-power accessory","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Product type","value":"Backup-power accessory"},{"label":"Buyer check","value":"Verify current model compatibility"},{"label":"Buyer check","value":"Verify current model compatibility"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -81,7 +81,7 @@ export const products = withAmazonUrls([
     badge: "Best backup pick",
     name: "Oxseryn 5000-Watts Portable Inverter Generator, Gas Generator",
     amazonQuery: "Oxseryn 5000-Watts Portable Inverter Generator, Gas Generator",
-    amazonUrl: "https://www.amazon.com/dp/B0GCCRR7DM?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0GCCRR7DM?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/51ZjngYQA2L._SL500_.jpg",
     specs: ["Continuous output: 4,000W","Surge output: 5,000W","Listed weight: 60 lb","Runtime claim: Up to 6 hours"],
     specList: [{"label":"Continuous output","value":"4,000W"},{"label":"Surge output","value":"5,000W"},{"label":"Listed weight","value":"60 lb"},{"label":"Runtime claim","value":"Up to 6 hours"}],
@@ -171,7 +171,7 @@ export const relatedGuides = [
 export const sources = [
   {
     "title": "Oxseryn 4400-Watts Inverter Generator, Open Frame Generator Gas Powered, Emergency Home Backup, RV Ready product page",
-    "href": "https://www.amazon.com/dp/B0FXLTM47G?tag=rvgearlab-20&linkCode=osi&th=1&psc=1"
+    "href": "https://www.amazon.com/dp/B0FXLTM47G?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1"
   },
   {
     "title": "CPSC carbon monoxide safety center",

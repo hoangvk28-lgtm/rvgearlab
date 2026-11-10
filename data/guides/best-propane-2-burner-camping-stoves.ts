@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41np9Eiu-SL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09KNVRDNQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09KNVRDNQ?tag=rvgearlab-amz-20",
     "description": "The Camp Chef Everest 2X has two 20,000 BTU burners for 40,000 BTU total. A folding lid doubles as a windscreen, matchless ignition starts it, and a 215 square inch surface fits two pans plus accessories.\n\nIt lists the highest output of the campsite-style group and a larger cooking area than the Coleman pair. A drip tray and carry handle ease cleanup and transport.\n\nIt suits family campers cooking full meals outdoors. The lid earns its keep on breezy sites.",
     "specs": [
       "40,000 BTU, 2 x 20,000",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31LMK9kWIUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09HN1YW6V?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09HN1YW6V?tag=rvgearlab-amz-20",
     "description": "The Coleman Triton+ has push-button InstaStart ignition and independent PerfectFlow and PerfectHeat burners rated at 22,000 total BTU. Listed extras include dual wind guards, a lift-out chrome grate and an aluminized steel cooktop that resists rust, and the top takes 12-inch and 10-inch pans.\n\nCompared with the plain Triton, the ignition means no lighter in cold or wind. Next to the Camp Chef, it is more compact and has less output.\n\nIt suits campers who want quick starts and tidy packing. A built-in handle and latch ease carrying.",
     "specs": [
       "Push-button InstaStart ignition",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31BW7+A0xXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09HN1C1YJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09HN1C1YJ?tag=rvgearlab-amz-20",
     "description": "The Coleman Triton gives you two propane burners, each with its own simmer control, plus wind guards on both sides. A latch holds it closed and the grate lifts out for washing.\n\nIt leaves out the ignition of the Triton+, which keeps the price lower. Wind guards protect both burners and the latch closes it for travel.\n\nIt suits campers who carry a lighter and want a trusted brand at the lowest price of the Coleman pair. The same pans fit on both burners.",
     "specs": [
       "Two independently adjustable burners",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41GOLVEBUpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FJ22DKKT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FJ22DKKT?tag=rvgearlab-amz-20",
     "description": "The Gospowor is a 304 stainless steel propane stove with two independently controlled burners, a piezo ignition and foldable wind panels on both sides. The page says it takes cookware up to 10 inches and folds into a suitcase shape with a handle.\n\nIts title says 20,000 BTU while its bullets say up to 10,000 BTU combined, so output is unclear. Compared with the Triton, it folds smaller and includes a griddle.\n\nIt suits RV travelers and tailgaters who want a compact stainless stove with ignition. The removable grates wipe clean.",
     "specs": [
       "304 stainless, piezo ignition",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41t0XfUrwIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B093N8JYTR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B093N8JYTR?tag=rvgearlab-amz-20",
     "description": "Two burner heads, a regulator hose that adjusts from 0 to 5 PSI and removable legs define the Gas One B-4545. Its open top suits large pots and skillets.\n\nIt costs less than the Camp Chef and keeps things simple. Flame strength is set at the regulator.\n\nIt suits campers who cook with a large pot or skillet. The sturdy frame keeps heavy pots steady.",
     "specs": [
       "Two burner heads",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410UoHTfj9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07NZ5PGZB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07NZ5PGZB?tag=rvgearlab-amz-20",
     "description": "The ROVSUN totals 150,000 BTU across a pair of 75,000 BTU burners, fed through a CSA-listed regulator with a front flame knob. Legs detach in minutes.\n\nIt is far above the Camp Chef's 40,000 BTU, and it is built for stockpots and brewing, not quick breakfasts. The price is low for the power.\n\nIt suits fish-fry crews and home brewers. Use it outdoors on a stable surface.",
     "specs": [
       "Two 75,000 BTU burners",

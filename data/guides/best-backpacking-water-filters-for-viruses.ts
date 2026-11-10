@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31MbTYqEWdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C1JHC2M6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C1JHC2M6?tag=rvgearlab-amz-20",
     "description": "The GRAYL GeoPress is a 24 oz press bottle that the listing says removes viruses such as rotavirus, norovirus and hepatitis A, bacteria such as E. coli and salmonella, and protozoa such as giardia and cryptosporidium. It also filters particulates and microplastics and adsorbs VOCs, PFAS, pesticides, heavy metals and odors.\n\nIt purifies 24 oz at a time with no pump, hose, battery or waiting, and the replaceable cartridge is good for 65 gallons (250 L). Compared with the Fusion Delta it is a bottle you press, not a pour-through cup filter.\n\nIt suits travelers and backpackers who want a single device that purifies on the spot, including from a tap or hotel sink. The press action takes seconds.",
     "specs": [
       "Viruses, bacteria, protozoa",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/413byoAVKuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BQWNPL75?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BQWNPL75?tag=rvgearlab-amz-20",
     "description": "The Fusion Delta is a two-pack of pour-through emergency filters made from nanofibers, with the listing stating 99.9999 percent bacteria and 99.99 percent virus removal. You place it in a cup and pour water through it like a coffee filter, and it contains activated carbon for taste.\n\nIt costs about a quarter of the GRAYL GeoPress and weighs little enough to slip in a pocket. Compared with the GRAYL it works more slowly through a cup, and it comes as a pair.\n\nIt suits budget emergency kits and backup use, where a pocket-size virus-claimed filter matters more than speed. Having two means one can live in a go-bag and one in the car.",
     "specs": [
       "99.99% virus claim on listing",

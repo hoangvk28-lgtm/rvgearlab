@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/418moCD8lvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H2M9VYD9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H2M9VYD9?tag=rvgearlab-amz-20",
     "description": "This is one 12V 400Ah battery, not a kit. The ECO-WORTHY comes in a reinforced metal case with built-in mounting feet, so it can be fixed directly without a battery box, and has a separate weak-current switch to disconnect output for wiring or storage. Its 250A battery management system, Bluetooth app and low-temperature charging protection are listed, and the title states 5,120Wh. The steel shell and internal cell brackets are described as resisting road vibration.\n\nIt ranks first because a single 400Ah removes the parallel wiring that every other pick here needs, and its 250A BMS supports about 3,200W at 12.8V. It costs $8 more than the HumsiENK four-pack and $135.70 more than the yeagulch two-pack, but each of those leaves you with several batteries to connect. It is $130 below the Redodo kit.\n\nPick it if you want one battery, one set of cables and a metal case for an RV. The caveat is that the listing gives no weight or dimensions, and one 400Ah battery is a single point of failure, so a fault takes the whole bank down.",
     "specs": [
       "Single 12V 400Ah, 5,120Wh",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Jf4RmghwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DLGGGP35?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DLGGGP35?tag=rvgearlab-amz-20",
     "description": "This is a kit of four 12V 100Ah batteries, which wired in parallel give 400Ah and 5,120Wh. Each battery is Group 24 to 31 sized at 8.4 by 6.6 by 10.2 inches and 19.73 pounds, has its own 100A smart BMS that disconnects above about 300A, an IP67 rating, and operation from minus 4°F to 158°F with shutdown below minus 4°F. The listing says each supports 5,000 cycles at 100 percent depth of discharge and up to four in series or parallel.\n\nIt is second at $751.99 because it is $8 cheaper than the ECO-WORTHY and $127.70 above the yeagulch, while being modular: you can carry or replace one 19.73-pound battery at a time. The cost is four BMS units, each limited to 100A, so the bank as a whole supports about 400A only if the current shares evenly. It costs $807.97 less than the ECOBOSS four-pack, which is the slim-case version.\n\nChoose it if you can only lift light batteries or need to spread the weight across several small bays. The caveat is wiring complexity: four batteries need equal-length cables or a busbar and fuses, and an uneven bank can overload one unit.",
     "specs": [
       "Kit: 4 x 12V 100Ah",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41v9MVCgaML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F23Y7TYR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F23Y7TYR?tag=rvgearlab-amz-20",
     "description": "This is a kit of two 12V 200Ah batteries that give 400Ah and 5,120Wh when connected in parallel. Each weighs 58.86 pounds, has a 200A BMS, an ABS case with an IP67 rating, and an automatic high and low temperature cutoff. The listing gives 4,000 cycles at 100 percent depth of discharge and 6,000 at 80 percent, and says the batteries can be expanded in parallel or series.\n\nIt ranks third at $624.29, $135.70 below the ECO-WORTHY single battery and $127.70 below the HumsiENK four-pack, while giving each battery a 200A BMS so the pair can pass up to about 400A. It costs $84.30 more than the Paoweric kit, which has a 150A BMS in each battery. It does not state exact cold-weather thresholds the way ECOBOSS does.\n\nPick it for a two-battery bank with a 200A BMS in each and a price under $630. The caveat is that two 58.86-pound batteries are heavy, and the listing gives no exact cutoff temperature, so keep them in a heated space or verify the limit.",
     "specs": [
       "Kit: 2 x 12V 200Ah",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41SMUudLYTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GYHC59YF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GYHC59YF?tag=rvgearlab-amz-20",
     "description": "This kit holds two 12V 200Ah batteries, 2.56kWh each, for 400Ah and 5.12kWh together at $539.99, or about $105 per nominal kilowatt-hour. Each is listed at 50.5 pounds and 15.2 by 7.6 by 9.8 inches, with a 150A BMS rated for up to 1,920W. Charging is allowed from 0°C to 45°C and discharge from minus 20°C to 60°C, and expansion is up to 6P or 6S with identical Paoweric units only.\n\nIt ranks fourth even though it is the cheapest, because its 150A BMS supports less than the 200A in the yeagulch and Redodo kits, though the two together still pass about 300A. It costs $84.30 less than the yeagulch and $220 less than the ECO-WORTHY. Its stated limits are clear, but a 1,920W per-battery limit means a 3,000W inverter needs both in parallel.\n\nPick it for the lowest cost to reach 400Ah where the inverter stays below about 3,500 watts. The caveat is the identical-units-only expansion rule and the 0°C charge limit, so it needs a heated space in winter.",
     "specs": [
       "Kit: 2 x 12V 200Ah",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41FT2wwHa4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C2Z4PWYY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C2Z4PWYY?tag=rvgearlab-amz-20",
     "description": "The Redodo is a two-pack of 12V 200Ah batteries, 5,120Wh in total, and the listing states you can build a 12V 400Ah or a 24V 200Ah system from it. Each has a 200A BMS rated for 2,560W, a 15,000-cycle claim and a ten-year life. It can be expanded to 16 units in 4P4S for 51.2V and 800Ah, and the listing recommends charging at 0.2C with a 40A LiFePO4 charger, about a five-hour recharge. The listing warns that the two items may ship separately.\n\nIt ranks fifth because it costs $889.99, which is $265.70 more than the yeagulch kit with the same 200A BMS, and $130 more than the ECO-WORTHY single battery. What it adds is the clearer charging and expansion documentation, including the 40A charger recommendation, and the choice of a 24V build later.\n\nChoose it if you may rebuild as 24V later or want the charge guidance spelled out. The caveat is that weight and cold-weather limits are not in the listing text, and the price premium is large for the same capacity.",
     "specs": [
       "Kit: 2 x 12V 200Ah",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41qZazDv-PL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GWGZMYY5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GWGZMYY5?tag=rvgearlab-amz-20",
     "description": "This kit has four slim 12V 100Ah batteries, each 18.9 by 11.02 by 2.76 inches, which total 400Ah and 5,120Wh in parallel. Each has a 100A smart BMS and 1,280Wh. The listing states a 32°F low-temperature cutoff that stops charging below 32°F and resumes at 41°F, and rates them for up to 15,000 deep cycles.\n\nIt ranks last because $1,559.96 is $807.97 more than the HumsiENK four-pack and about $305 per nominal kilowatt-hour, nearly three times the Paoweric. The extra money buys a flat 2.76-inch profile that fits under a bed, behind a panel or in a shallow bay where a standard battery cannot, plus a stated cold cutoff.\n\nChoose it only when the space is a thin cavity that a regular battery cannot fit. The caveat is price, plus the same four-battery wiring and each battery's 100A BMS limit as the HumsiENK.",
     "specs": [
       "Kit: 4 x 12V 100Ah",

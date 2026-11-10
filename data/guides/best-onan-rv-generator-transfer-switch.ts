@@ -21,7 +21,7 @@ export const products = withAmazonUrls([
     badge: "Best overall",
     name: "Onan Cummins 308-1038 RV Generator Rocker Start Stop Switch",
     amazonQuery: "Onan Cummins 308-1038 RV Generator Rocker Start Stop Switch",
-    amazonUrl: "https://www.amazon.com/dp/B07NVR838K?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B07NVR838K?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/413P3FneNXL._SL500_.jpg",
     specs: ["Fuel format: Gasoline","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Fuel format","value":"Gasoline"},{"label":"Buyer check","value":"Verify current model compatibility"},{"label":"Buyer check","value":"Verify current model compatibility"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -36,7 +36,7 @@ export const products = withAmazonUrls([
     badge: "Best heavy-duty option",
     name: "Nirakoka RV Automatic Transfer Switch, Rated 240VAC 50A 70A Neutral",
     amazonQuery: "Nirakoka RV Automatic Transfer Switch, Rated 240VAC 50A 70A Neutral",
-    amazonUrl: "https://www.amazon.com/dp/B0CY1LLFJL?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0CY1LLFJL?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41BN9It7izL._SL500_.jpg",
     specs: ["Service rating: 50A","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Service rating","value":"50A"},{"label":"Buyer check","value":"Verify current model compatibility"},{"label":"Buyer check","value":"Verify current model compatibility"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -51,7 +51,7 @@ export const products = withAmazonUrls([
     badge: "Best compact option",
     name: "Nirakoka 30 Amp Automatic Transfer Switch, Rated 120VAC Applied to RV",
     amazonQuery: "Nirakoka 30 Amp Automatic Transfer Switch, Rated 120VAC Applied to RV",
-    amazonUrl: "https://www.amazon.com/dp/B0DC3YMZJC?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0DC3YMZJC?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41TL8NPgO0L._SL500_.jpg",
     specs: ["Service rating: 30A","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Service rating","value":"30A"},{"label":"Buyer check","value":"Verify current model compatibility"},{"label":"Buyer check","value":"Verify current model compatibility"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -66,7 +66,7 @@ export const products = withAmazonUrls([
     badge: "Best value pick",
     name: "PowerMax PMTS-50 50 Amp Automatic RV Transfer Switch 120/220Vac 60Hz",
     amazonQuery: "PowerMax PMTS-50 50 Amp Automatic RV Transfer Switch 120/220Vac 60Hz",
-    amazonUrl: "https://www.amazon.com/dp/B00IJ7UJM0?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B00IJ7UJM0?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/51eedV73-FL._SL500_.jpg",
     specs: ["Service rating: 50A","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Service rating","value":"50A"},{"label":"Buyer check","value":"Verify current model compatibility"},{"label":"Buyer check","value":"Verify current model compatibility"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -81,7 +81,7 @@ export const products = withAmazonUrls([
     badge: "Best backup pick",
     name: "NETYANPI 5-Pin ON-OFF-ON Rocker Switch 308-1038",
     amazonQuery: "NETYANPI 5-Pin ON-OFF-ON Rocker Switch 308-1038",
-    amazonUrl: "https://www.amazon.com/dp/B0GTV87YP9?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0GTV87YP9?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/31pwkErc20L._SL500_.jpg",
     specs: ["Fuel format: Gasoline","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Fuel format","value":"Gasoline"},{"label":"Buyer check","value":"Verify current model compatibility"},{"label":"Buyer check","value":"Verify current model compatibility"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -171,7 +171,7 @@ export const relatedGuides = [
 export const sources = [
   {
     "title": "Onan Cummins 308-1038 RV Generator Rocker Start Stop Switch product page",
-    "href": "https://www.amazon.com/dp/B07NVR838K?tag=rvgearlab-20&linkCode=osi&th=1&psc=1"
+    "href": "https://www.amazon.com/dp/B07NVR838K?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1"
   },
   {
     "title": "CPSC carbon monoxide safety center",

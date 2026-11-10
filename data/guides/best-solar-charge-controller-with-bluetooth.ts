@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4106TvUmy1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GXTFKY3D?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GXTFKY3D?tag=rvgearlab-amz-20",
     "description": "Dyness's 40A MPPT has a Bluetooth module built in and connects to a mobile app for monitoring and control. Dyness's 40A MPPT controller connects to its mobile app through an integrated Bluetooth module and supports 12V/24V banks. The listing names lithium, AGM or sealed, gel, flooded and user-defined battery settings, plus overcharge and over-discharge protection.\n\nIt has more tracking capability than the PWM-based ECO-WORTHY 30A Bluetooth and VIXKPIRR 30A, and unlike Renogy Rover 2 20A it needs no extra module. It also costs more than all of them.\n\nBest for a mid-size RV with 40A of solar and a need for phone control. It asks for a bigger budget than the PWM units here, so choose it when you want tracking and an app in one package.",
     "specs": [
       "40A MPPT, 12V/24V",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31rthQ-IpBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HK4FSGD5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HK4FSGD5?tag=rvgearlab-amz-20",
     "description": "Renogy's Rover 2 is a 20A MPPT with Bluetooth and LCD monitoring in a body 53% smaller than the previous generation. The Rover 2 is a compact 20A MPPT controller that reads status on an LCD or over Bluetooth and pairs with arrays up to 100V Voc (300W on 12V, 600W on 24V). Renogy says it is 53% smaller than the previous generation and lets you link several units in parallel.\n\nIt trades the 40A rating of Dyness 40A for a smaller footprint and a 300W limit on 12V. Compared with Qigreesol 20A Bluetooth it offers MPPT and a higher PV limit.\n\nBest for vans and small campers with tight mounting space. It fits a small van or camper roof well, but a bigger array needs a second unit linked in parallel.",
     "specs": [
       "20A MPPT, 12V/24V",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41H9xAxc1DL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FCYGPR6R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FCYGPR6R?tag=rvgearlab-amz-20",
     "description": "ECO-WORTHY's 30A PWM adds Wi-Fi and Bluetooth monitoring when paired with the BW0F data acquisition unit. This ECO-WORTHY 30A PWM controller detects 12V or 24V automatically and offers preset LFP, flooded, sealed and gel modes plus a custom mode. The listing describes Bluetooth and Wi-Fi monitoring through the BW0F data acquisition unit and says it records 30 days of solar generation.\n\nIt offers remote monitoring beyond Bluetooth range, which ECO-WORTHY 30A Bluetooth does not describe. It also lists preset LFP, flooded, sealed and gel modes.\n\nBest for owners who want to check the system from home. Check that the BW0F unit is included in your order, since the listing ties the Wi-Fi link to it.",
     "specs": [
       "30A PWM, 12V/24V auto",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/415I8KTKnXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08JBLMC33?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08JBLMC33?tag=rvgearlab-amz-20",
     "description": "ECO-WORTHY's 30A PWM has Bluetooth built in at a lower price than the Wi-Fi version. ECO-WORTHY's 30A PWM controller has Bluetooth built in for app operation and lists suitability for lead-acid, gel and lithium phosphate batteries. The listing gives a 10A discharge (load) current and short-circuit, open-circuit and reverse protection.\n\nIt lacks the Wi-Fi link and logging of ECO-WORTHY 30A Wi-Fi but covers lead-acid, gel and lithium phosphate. It is PWM, so it cannot match Dyness 40A on output.\n\nBest for a basic phone-monitored 12V system. It is the lower-cost route to app monitoring here, but expect a PWM controller and a modest load output.",
     "specs": [
       "30A PWM, 12V/24V",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41gwt83fbVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FFRKK433?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FFRKK433?tag=rvgearlab-amz-20",
     "description": "Qigreesol's 20A controller uses Bluetooth low energy and an app that shows PV voltage and battery state. Qigreesol's 20A controller uses Bluetooth low energy and the LM Solar app (iOS or Android) to show PV input voltage and battery state, with 12V/24V auto-detection. It runs a three-stage charge with an LCD and a USB port, and the listing names LiFePO4, lithium and gel compatibility.\n\nIt has fewer amps than ECO-WORTHY 30A Bluetooth but includes a USB port and an LCD. Compared with VIXKPIRR 30A it limits to 12V and 24V.\n\nBest for a small system that wants an app and a local screen. Follow the wiring order in the listing (battery first, then panel) or detection of system voltage can go wrong.",
     "specs": [
       "20A, 12V/24V auto-detect",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41NSZTMACtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GG2PWHX7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GG2PWHX7?tag=rvgearlab-amz-20",
     "description": "VIXKPIRR's 30A PWM supports 12V to 48V systems with Bluetooth and a backlit display. VIXKPIRR's 30A PWM controller covers 12V, 24V, 36V and 48V systems and adds Bluetooth and a backlit display. It uses a four-stage PWM charge (fast, boost, float and equalization) and lists lead-acid, gel and lithium iron phosphate batteries.\n\nIt covers more battery voltages than Qigreesol 20A Bluetooth but lists a four-stage PWM charge only. Its equalization stage means you should confirm your battery profile.\n\nBest for a builder with a 24V or 48V bank who still wants an app. Because equalization is meant for certain lead-acid banks, make sure the battery profile matches your chemistry.",
     "specs": [
       "30A PWM, up to 48V systems",

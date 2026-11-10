@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51gIN6FDCKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DPL5PZG8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DPL5PZG8?tag=rvgearlab-amz-20",
     "description": "The Lifan is the only pick that lists 3000 rated watts alongside a 3500 watt peak, in a 46.3 lb body measuring 22 x 13 x 18 inches. Pure sine wave output suits laptops, TVs and routers, and it costs $399.99.\n\nIt is $30.00 above the PowerSmart and $80.00 above the Evernexta, and that money buys the highest honest continuous rating of the three. It is also the heaviest of the group. Pick this if you want a true 3000W running ceiling; the caveat is that the listing gives no noise figure.",
     "specs": [
       "3500W peak, 3000W rated",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41wBSud5MML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CP27LVFD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CP27LVFD?tag=rvgearlab-amz-20",
     "description": "The PowerSmart lists 3000 surge and 2600 rated watts, with 59 dBA at 23 feet and a parallel option to link two units. At $369.99 it targets fridges, TVs and power tools around a campsite.\n\nIt costs $30.00 less than the Lifan and gives up 400 rated watts for that saving. It adds a stated noise figure the Lifan lacks, which helps with campground rules. Pick this if you want a quiet mid priced unit with expansion; the caveat is that its real ceiling is 2600 watts.",
     "specs": [
       "3000W surge, 2600W rated",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4161THDoHGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HCNM426T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HCNM426T?tag=rvgearlab-amz-20",
     "description": "The Evernexta quotes 3000 starting and 2350 running watts from a 97.7cc four stroke engine at 41.8 lbs. It lists 53 to 56 dB at 23 feet, Eco mode, and a 20.08 x 13.39 x 19.69 inch body, for $319.99.\n\nIt costs $50.00 less than the PowerSmart and $80.00 less than the Lifan, but its 2350 running watts is the lowest of the three. Pick this if you mostly run a fridge, lights and chargers; the caveat is that it will struggle with anything heavy.",
     "specs": [
       "3000W start, 2350W running",

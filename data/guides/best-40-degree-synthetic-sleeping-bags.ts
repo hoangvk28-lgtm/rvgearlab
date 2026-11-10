@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/319sFnqrvkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B082P5VGGT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B082P5VGGT?tag=rvgearlab-amz-20",
     "description": "Kelty prints the numbers on the Cosmic Synthetic: 24 oz of Cirroloft synthetic fill, a 2 lb 6 oz total weight and a 15 x 8 inch uncompressed stuff size. The 40 degree regular fits sleepers up to 6 feet, and an integrated compression sack is included.\n\nNext to the Kelty Mistral, it documents fill weight and packed size, so you can plan a pack around it. A spacious footbox and a stash pocket for a phone or headlamp are details the Coleman Biscayne does not list.\n\nA strong pick for summer backpackers and shoulder-season campers who want synthetic insulation they can read on paper. It suits damp climates where down is a worry.",
     "specs": [
       "40 degree synthetic, 24 oz fill",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31a4bmitvsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DT282KB7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DT282KB7?tag=rvgearlab-amz-20",
     "description": "The Mistral is a Kelty 3-season bag rated 40 degrees in the regular size, with 68D recycled taffeta polyester on shell and liner. The bullets name Cloudloft synthetic insulation and an offset quilt pattern that spreads fill evenly.\n\nIt costs less than the Kelty Cosmic Synthetic 40 and gives up the printed fill weight and stuff size. The offset quilt layout is a construction detail the Cosmic does not list.\n\nA good fit for casual campers who want Kelty quality at a lower price. The listing title says down, so read the fill label to be sure.",
     "specs": [
       "40 degree, Cloudloft fill",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41b6YDnnQDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D63ZTMH1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D63ZTMH1?tag=rvgearlab-amz-20",
     "description": "The Coleman Biscayne is a 40F bag that fits adults up to 6 feet 4 inches. It has a Thermolock draft tube along the zipper, locking fasteners for rolling, and a stuff sack in the box.\n\nIt is the roomiest fit here and the lowest in price of the three, with machine washable care. The Kelty bags list their fill by name, which this listing leaves out.\n\nA sensible pick for taller campers who car camp in mild weather and do not need a pack-friendly size. It cleans easily in a home washer.",
     "specs": [
       "40F, fits to 6 ft 4 in",

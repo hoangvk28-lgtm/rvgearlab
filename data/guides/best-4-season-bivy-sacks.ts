@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/417werdQC2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B002LLPILC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B002LLPILC?tag=rvgearlab-amz-20",
     "description": "The Military Modular Sleep System is a four-piece set with a Patrol bag, an ICW bag, a Gore-Tex bivy cover and a carry sack. The listing states a comfort range from 50 F down to minus 50 F, Military Issue, and Made in the USA.\n\nIt is the one kit that names a Gore-Tex cover, where the USGI system describes a triple-laminated one. It costs roughly twice as much as the USGI kit.\n\nIt suits winter campers who want a proven layered system that spans summer nights to deep cold. Layers can be worn or combined as the temperature changes.",
     "specs": [
       "Comfort 50 F to minus 50 F",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51riPyGNlWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G1NJWB3Z?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G1NJWB3Z?tag=rvgearlab-amz-20",
     "description": "The USGI Gear listing describes a modular winter kit built around the cover, with the outer fabric in 210T nylon ripstop and DWR finish. The cover is triple-laminated, and the stated comfort range runs from 50 F down to minus 50 F.\n\nIt matches the Military MSS Kit on stated temperature range at roughly half the cost. It gives less brand detail than the MSS, which names Gore-Tex and US manufacture.\n\nIt suits cold-weather campers who want a complete modular system without the top price. Each bag can be used on its own for milder nights.",
     "specs": [
       "Four-piece modular system",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41c3uTEZsyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FMK8LP3S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FMK8LP3S?tag=rvgearlab-amz-20",
     "description": "The Hahafelt set holds 12 camping sleeping bags measuring 83 x 30 inches and 12 emergency bivy sacks, described as 4 season. The listing gives a layered range from minus 15 F to 80 F and a dual-layer sleep system with a polyester-cotton filling.\n\nIt is the only pick that uses the words 4 season, and the only one pairing a filled bag with a bivy. A single buyer would not need 24, so it suits groups rather than one camper.\n\nIt suits scout troops, disaster response kits and shelters that need many sleep systems. The orange and silver bivies double as signals.",
     "specs": [
       "12 bags plus 12 bivies",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41KAvX9pVfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07681P4RZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07681P4RZ?tag=rvgearlab-amz-20",
     "description": "The Go Time Gear Life Bivy retains up to 90% of body heat in a polyethylene bag that weighs 4.1 ounces. The listing adds a 120 dB whistle and 20 ft of paracord, and says it works as a liner or thermal blanket in winter conditions.\n\nIt sits between the Grizzly Gear pack and the modular systems, offering a single bag with kit extras for a small price. It is lighter than the heavy systems and gives a listed weight that the Grizzly does not.\n\nIt suits winter hikers and drivers who want a lightweight backup layer in a pack. The paracord has uses for shelter or gear.",
     "specs": [
       "4.1 oz, up to 90% heat retention",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51H1IAqdpyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07PBV5D42?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07PBV5D42?tag=rvgearlab-amz-20",
     "description": "The Grizzly Gear 4-pack uses aluminized Mylar that retains 90% of body heat and repels wind and water. Each bag covers a 7 ft by 3 ft area and works as a bivouac shelter, ground cloth, rain poncho or liner.\n\nIt is the cheapest pick here and covers four people, and it names no season or temperature rating, unlike the Hahafelt and the two systems. As a plain reflective bag it ranks last on winter claims.\n\nA low-cost stopgap for each vehicle makes sense for families and groups. The list of other uses is long.",
     "specs": [
       "Aluminized Mylar, 90% retention",

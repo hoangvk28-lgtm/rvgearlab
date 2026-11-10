@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51LzfmOf7iL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B8GZL4VY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B8GZL4VY?tag=rvgearlab-amz-20",
     "description": "The WUZECK 300W kit costs $279.90 and pairs N-type monocrystalline panels at a listed 25 percent efficiency with a charge controller and Z-brackets. The frame is aluminum with an IP65 plus rating, rated for 2,400 Pa wind and 5,400 Pa snow, and the junction box has a built-in bypass diode. The listing says it works with 12V batteries wired in parallel or 24V batteries in series, and the controller handles four battery types.\n\nIt ranks first because it is the only pick that is rigid, complete and aimed at a permanent roof or ground install in one purchase. It costs $110.00 more than the Mndstek 18BB panel, which has no controller, and $93.08 less than the Renogy portable. The bundled controller is the reason: buying a basic one separately narrows the gap. The listing does not name the controller type, so we cannot say whether it is PWM or MPPT.\n\nPick this if you want a fixed 300W array and a matched controller without sourcing parts separately. The caveat is the unnamed controller, which matters because PWM gives up a chunk of output on a 12V battery with a higher-voltage array.",
     "specs": [
       "300W N-type, 25% listed",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41lSdfSxrIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HBBZBHJN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HBBZBHJN?tag=rvgearlab-amz-20",
     "description": "The Mndstek 18BB is a bare 300W N-type panel at $169.99, or about 57 cents per watt. It uses A+ grade cells with 18 busbars at a listed 24.6 percent conversion, has an anodized aluminum frame described as salt-spray resistant, and a junction box and connectors the listing rates IP68. The maker says every panel gets 100 percent electroluminescence testing and a power measurement before leaving the factory.\n\nIt ranks second because it delivers 300W for $110.00 less than the WUZECK kit and $217.00 less than the Renogy portable, and it is the only bare panel here with testing disclosed. Against the Mndstek 10BB, which sells at the same $169.99, it has the higher-resolution 18-busbar layout but a slightly lower efficiency figure of 24.6 versus 25 percent, so the two are close and the choice is about detail. No controller, weight or dimensions appear in the listing.\n\nPick this if you already own a controller and want the lowest cost per watt from a rigid N-type panel. The caveat is that missing dimensions and weight, so confirm both before cutting any mounting layout.",
     "specs": [
       "300W 18BB N-type, 24.6%",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31b9nO2STkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F625QBML?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F625QBML?tag=rvgearlab-amz-20",
     "description": "The Renogy 300W portable weighs 18.74 pounds, folds to 23.2 by 29.3 by 3.2 inches, and costs $386.98. It uses 16-busbar N-type cells at a listed 25 percent, an IP67 body with an ETFE coating, kickstands that set up in about a minute, and IP68 connectors. The listing notes parallel wiring so shade on one section does not drag down the whole panel.\n\nIt ranks third because it costs $217.00 more than the Mndstek 18BB for the same wattage, and $189.21 more than the DOKIO portable. Those dollars buy the lowest weight per watt in the group (about 0.06 pounds per watt) and the sturdiest water rating. It has no mounting holes for a roof, so it is a ground panel by design. The listing also says it is meant for power stations, so check the station's input limit.\n\nPick this if you park in shade and move the panel around the campsite, and you can afford the premium. The caveat is that it does nothing for a travel day on the road, and you pay for portability you will not use if you park in the sun.",
     "specs": [
       "18.74 lb, folds to 23 inches",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51drxNtUqsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07JPH4PHG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07JPH4PHG?tag=rvgearlab-amz-20",
     "description": "The DOKIO 300W folding kit costs $197.77, weighs 15.3 pounds and folds to 20 by 38 by 1.1 inches. The listing includes a 9.84 foot cable so the controller can sit in shade, a separate PWM controller with reverse-polarity, overcharge, overload and short-circuit protection, and dual USB ports for phones and small gear when connected to a 12V battery.\n\nIt ranks fourth. Compared with the Renogy portable it is $189.21 cheaper and 3.4 pounds lighter, but the listing gives no water rating and no cell type. Compared with the rigid Mndstek 18BB it costs $27.78 more and gives you portability. Because the controller is PWM, a 12V battery pulls less than the panel's full 300W, so expect the lower end of our 1,125 watt-hour estimate. The listing itself warns that power stations may cap input at 150 to 200W.\n\nPick this if you want a cheaper portable that charges a 12V battery directly with a controller in the box. The caveat is that if you plan to feed a power station, check its input limit first, since the extra watts will be wasted.",
     "specs": [
       "15.3 lb, folds to 20 inches",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41lWxBfMMvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FF9WS11B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FF9WS11B?tag=rvgearlab-amz-20",
     "description": "The Mndstek 10BB is a bare 300W panel with half-cut N-type cells, a hidden-busbar design and a listed efficiency of up to 25 percent. It comes with two built-in MC4 junction boxes with pre-installed diodes, and a pair of pre-wired 3.6 foot solar cables with IP68 connectors. The price is $169.99, the same as the 18BB version.\n\nIt ranks fifth because it is the same price as the Mndstek 18BB but discloses less about testing and certification. The half-cut layout is a real advantage in partial shade, because the panel behaves as two halves, and the pre-wired cables save a trip to the parts store. Against the WUZECK kit it costs $110.00 less but has no controller.\n\nPick this if you want a shade-tolerant half-cut design and ready cables on the same budget as the 18BB. The caveat is that no size, weight or warranty appears in the listing, so get those before you buy a bracket set.",
     "specs": [
       "Half-cut 10BB N-type, 25%",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41tjxI8NqtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CJWHKJDD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CJWHKJDD?tag=rvgearlab-amz-20",
     "description": "The Marhynchus 300W kit is listed at $41.59 with a 50A waterproof controller, an IP67 rating and 12V or 24V use. That works out to about 14 cents per watt, roughly a quarter of the bare Mndstek panels' cost. The bullets talk about charging phones and laptops, never name the cell type or give dimensions, weight or warranty, and offer no wind or snow load figure.\n\nIt ranks last because the price is far below any other 300W hardware here, $128.40 under the Mndstek 18BB, and the listing publishes none of the specs that would explain why. A 50A controller is oversized for 300W of panels, which produce only about 22 to 25 amps at 12V. Unlike the WUZECK kit, which lists brackets, bypass diodes and storm ratings, this one gives no way to verify what is in the box.\n\nPick this only if you are experimenting and willing to return it if the output does not match the label. The caveat is that you should measure open-circuit voltage and amps on arrival, and keep the receipt.",
     "specs": [
       "300W, 50A controller",

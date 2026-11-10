@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hObg9Wm3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GWGPP643?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GWGPP643?tag=rvgearlab-amz-20",
     "description": "The Gidrox 10,000 BTU 12V DC RV Air Conditioner uses inverter technology and says it needs no power inverter. The listing cites about 350W average at night, 40 dB in Sleep mode and control through a Bluetooth app, remote or panel.\n\nAgainst the Treeligo 12V Mini Split and Sokaiso 12000 split, it is a rooftop unit that needs a roof opening instead of mounting parts inside. Against the Jrswin 11K, it states a power figure and a sleep-mode noise level.\n\nBest for truck campers with a roof vent and a decent lithium bank. The app and sleep mode make nighttime use easier.",
     "specs": [
       "12V DC, 10,000 BTU inverter",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31uNFnis-hL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GHR4P4WM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GHR4P4WM?tag=rvgearlab-amz-20",
     "description": "The Treeligo 12V Mini Split Air Conditioner is a 12,000 BTU truck-style split with inverter technology that adjusts compressor speed. The listing says it runs on a vehicle battery or external power with the engine off and offers Sleep, Standard and Turbo modes.\n\nAgainst the Gidrox 12V Rooftop, it needs no roof opening but has separate parts to mount. Against the UAHKPA 9000, it adds 3,000 BTU and inverter control for a higher price.\n\nBest for truck campers that cannot take a roof unit. The metal housing is listed as high-temperature tolerant.",
     "specs": [
       "12,000 BTU, 12V DC split",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Eqth5EGFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FD9CSK75?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FD9CSK75?tag=rvgearlab-amz-20",
     "description": "The Sokaiso 12V Universal Electric Truck Air Conditioner is a 12,000 BTU split with an electric scroll compressor. The listing gives a rated voltage of DC 12/24V, 2,500W cooling capacity and 800W power consumption, and says it works parked or driving.\n\nAgainst the Treeligo 12V Mini Split, it costs less and lists a wattage rating. Against the UAHKPA 9000, it offers 3,000 more BTU.\n\nBest for truck campers that want a full 12,000 BTU split without paying top price. The 12/24V rating also suits a 24V truck.",
     "specs": [
       "12,000 BTU split, DC 12/24V",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41kIqgM0WUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FJXL4LYK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FJXL4LYK?tag=rvgearlab-amz-20",
     "description": "The Jrswin DC 12V RV Air Conditioner lists 11,000 BTU cooling, 350 CFM airflow and a 350 to 750W operating range. The listing says it has multi-layer circuit protection, noise as low as 45 dB and 7 to 9 hours of running depending on battery.\n\nAgainst the Gidrox 12V Rooftop, it offers more BTU at a much lower price. Against the Sokaiso 12000 Split, it is a rooftop-style unit with a stated runtime.\n\nBest for truck campers on a tight budget. The wide power range shows how much battery it can draw.",
     "specs": [
       "12V DC, 11,000 BTU",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/517YFDzRR2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D3T635DF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D3T635DF?tag=rvgearlab-amz-20",
     "description": "The UAHKPA 12V split lists 9,000 BTU cooling, 1,900W capacity, 800W power, R134a refrigerant at 600g, 450 cubic meters per hour airflow and a 75A starting current. It says it can run more than 6 hours if the battery is large enough.\n\nAgainst the Sokaiso 12000 Split, it gives a clear starting current but less BTU. Against the Treeligo 12V Mini Split, it is cheaper with fewer features.\n\nBest for truck campers that want published numbers to size a battery bank. The thickened solid shell is described as rust-resistant.",
     "specs": [
       "9,000 BTU split, 12V, 800W",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51dLlKtg8pL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HJWXJDRJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HJWXJDRJ?tag=rvgearlab-amz-20",
     "description": "The Treeligo 15,000 BTU rooftop air conditioner has a heat pump and an all-in-one design with the outdoor unit and interior air distribution combined. The listing title says 115V and one feature says 115V DC, so check the exact power before ordering.\n\nAgainst the 12V units, it offers far more BTU and heat. Against the Gidrox 12V Rooftop, it is a larger unit with a heat pump.\n\nBest for larger truck campers with a generator or large inverter. The listing says it suits RVs, campers, vans and trucks.",
     "specs": [
       "15,000 BTU heat pump rooftop",

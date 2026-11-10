@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Lxplhk-DL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FRZCYBS7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FRZCYBS7?tag=rvgearlab-amz-20",
     "description": "The Eniora 20 foot kit is two 10 foot TPE hoses made of upgraded UV-resistant material, with four end caps and rubber seals at every connection. Accordion construction compresses for storage, and the 90 degree elbow is a separate buy.\n\nIt states UV resistance as a headline feature and costs about the same as the SheeChung 20 Ft Kit. It is the only pick here that names UV in the material itself.\n\nBest for seasonal sites where the hose sits in open sun. A well-matched kit for summer parks.",
     "specs": [
       "2 x 10 ft, UV-resistant TPE",
@@ -53,7 +53,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51j2vs1yHuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F23K8ZKK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F23K8ZKK?tag=rvgearlab-amz-20",
     "description": "The SheeChung 20 foot kit is a high-strength TPE hose with a 24 mil wall that is described as offering abrasion and UV resistance. Swivel bayonets with four prongs and a clear elbow adapter come with it.\n\nIt includes the elbow that the Eniora leaves out and costs about the same. The crush recovery claim adds value on gravel pads.\n\nBest for longer runs with sun and foot traffic. A practical all-round kit.",
     "specs": [
       "20 ft TPE, 24 mil wall",
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51dmc-TdHGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GC3HTP2F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GC3HTP2F?tag=rvgearlab-amz-20",
     "description": "The SheeChung 15 foot kit carries the same 24 mil TPE wall and UV resistance claim. Fittings include four-prong swivel bayonets and a see-through 90 degree adapter sized for 3 inch slip and threaded pipe.\n\nIt costs noticeably less than the 20 foot version. The shorter length means less hose sitting in the sun.\n\nBest for mid-range runs. A balanced choice.",
     "specs": [
       "15 ft TPE, 24 mil wall",
@@ -107,7 +107,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41f+BPqWKwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H9B4KD8P?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H9B4KD8P?tag=rvgearlab-amz-20",
     "description": "The RigBuilt 5 foot extension is built from UV-stabilized materials resistant to sun damage and travel wear. It has twist-lock swivel connectors, a crush-resistant structure and stays flexible in cold weather.\n\nIt costs about the same as the 5 foot SheeChung and names UV stabilization directly. Compared with the Eniora, it is a small extension rather than a kit.\n\nBest for adding five feet to an existing hose in strong sun. A tough, short extension.",
     "specs": [
       "5 ft, UV-stabilized materials",
@@ -134,7 +134,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51H1DLA3-jL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GF799S2M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GF799S2M?tag=rvgearlab-amz-20",
     "description": "The SheeChung 5 foot hose has a 24 mil TPE wall and 4-prong swivel bayonets, and ships with a bonus kit of two square bumpers, a pair of repair gloves and a waste valve wrench. The bumpers add a place to rest the hose end off the ground.\n\nIt is the lowest priced pick and adds tools. It is far shorter than the Eniora and costs a fraction.\n\nBest for tight sites or as a spare section. A cheap add-on with extras.",
     "specs": [
       "5 ft TPE, 24 mil wall",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41G5ZN-EqcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B014KG7I6S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B014KG7I6S?tag=rvgearlab-amz-20",
     "description": "The TETON Mammoth is a 20 degree double bag measuring 94 by 62 inches, larger than a queen mattress. Poly-flannel lines the inside, draft tubes run along the zipper and across the shoulders, and both sides unzip. A stuff sack comes in the box.\n\nIts 94 inch length beats the 87 inch Naturehike, KingCamp and AGEMORE, and the shoulder draft tubes address the cold air that enters over the top. A canvas version of the same bag costs more.\n\nIt suits couples who camp at fall temperatures and want maximum room. The two-sided zipper makes it easy to get out.",
     "specs": [
       "20F double",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/414uj7663zL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09NR1Z7QF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09NR1Z7QF?tag=rvgearlab-amz-20",
     "description": "KingCamp lines this double with 100 percent cotton flannel, and it measures 87 by 59 inches for adults up to 7 ft. The listing says it works at 32F and above, splits into two singles, and has foot zippers, a Velcro neckline and anti-snag double-sided zippers.\n\nIt is the lowest priced of the premium doubles, and its range is clearer than the AGEMORE's varying figures. At 87 inches it is shorter than the TETON.\n\nIt suits couples who want a soft cotton lining at a moderate price. The ability to split gives flexibility.",
     "specs": [
       "87 x 59 inch flannel lined",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/419vmBl5dgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CTQJSG18?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CTQJSG18?tag=rvgearlab-amz-20",
     "description": "Opened out, the Naturehike measures 87 by 63 inches and offers three ways to sleep: as a full double, with a buttoned inner single layer for summer, or in a winter configuration. Two pillows and a backpack-style carrying setup are part of the package.\n\nIts 63 inch width is the widest of the 87 inch group, and the modes let it follow the season. It costs more than the KingCamp and AGEMORE.\n\nIt suits couples who camp across seasons. Practice the layout at home.",
     "specs": [
       "87 x 63 inch, three modes",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51z0CN852PL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B077TC9NS5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B077TC9NS5?tag=rvgearlab-amz-20",
     "description": "Inside the AGEMORE queen sits soft brushed flannel, with a water-resistant polyester outer. The page states a 41 to 59F design range and a carry bag for compressing, and zips on both sides let it split into two.\n\nIt costs the least here by a clear margin, and it gives up the length of the TETON and the cold rating of the KingCamp. The range differs between listings, so 41F is the safe floor.\n\nIt suits budget couples who want a cozy flannel double for cool nights. It compresses for carrying.",
     "specs": [
       "Cotton flannel lining",

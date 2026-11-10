@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51vp2R+MdFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HDRS4HQX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HDRS4HQX?tag=rvgearlab-amz-20",
     "description": "The blue 10 by 10 foot canopy has a center-lock steel frame, a silver-coated 210D Oxford top rated UPF 50+ and no sidewalls. It weighs 35 pounds, folds to about a 4 foot bundle, and comes with eight steel stakes, four wind ropes and four sandbags.\n\nNo other pick in this group ships a complete anchor kit with ropes, stakes and bags, and neither the Vinabilia nor the Family Beach Tent canopy matches it. The steel frame is heavier than the Hqeeun aluminum poles and costs about the same.\n\nIt suits families who take the car right to the shoreline and want the sturdiest anchoring for the money. The open sides keep sea air moving through all day.",
     "specs": [
       "10x10 steel center-lock frame",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/510CVlsOfJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08R5Q9CLN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08R5Q9CLN?tag=rvgearlab-amz-20",
     "description": "This family canopy is sold in a 10 by 10 foot size and a smaller 7 by 7.5 foot size, with Lycra fabric rated UPF 50+ and water-resistant. Four tall poles hold it at full height, and fillable sandbag anchors, stakes and elastic-cord poles are part of the build.\n\nIt has the stretchiest and lightest fabric here, which beats the 210D Oxford canopy on packed weight. It does not include the wind ropes the Blue 10x10 Steel Canopy has, so it relies on sandbags and stakes to stay put.\n\nIt suits groups of up to eight who want a big open umbrella of shade at the beach, a lake or a soccer field. The elastic cord keeps the poles joined and quick to set.",
     "specs": [
       "10x10 Lycra, UPF 50+",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41g0bQEYWbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GLFFMS4R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GLFFMS4R?tag=rvgearlab-amz-20",
     "description": "The Vinabilia is a 10 by 10 foot one-push canopy with a maximum interior height of 8.9 feet and three adjustable leg heights. Its powder-coated steel frame supports 120 pounds, the UPF 50+ fabric has heat-sealed seams and it folds to 46 inches in an Oxford bag.\n\nThe one-push center lock opens faster than the Blue 10x10 Steel Canopy and gives taller headroom than the Hqeeun or EchoSmile. It costs more than the Blue canopy and ships without a rope and sandbag kit.\n\nIt suits campers who also use the shade at the campsite, backyard or a tailgate, since the three height settings suit different seating. A tall roof lets adults stand and keeps the heat higher overhead.",
     "specs": [
       "10x10, 8.9 ft interior",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Q6O0O2hzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GY1CS1CB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GY1CS1CB?tag=rvgearlab-amz-20",
     "description": "The Hqeeun cabana covers 8 by 8 feet, over 64 square feet, with a 300D fabric that has a double-layer silver coating rated UPF 50+. A thickened aluminum alloy pole frame, sandbags and a side wall come with it, and one person can pop it up.\n\nIts metal poles are lighter than the steel on the Blue 10x10 Steel Canopy and sturdier than the fiberglass on the EchoSmile. It sits mid-range in the group, with less floor than any of the 10 by 10 foot canopies.\n\nA good fit for four-person families wanting a cooler, reflective cabana with a side wall for low sun. The silver coating also helps keep the shaded air a little cooler.",
     "specs": [
       "8x8 ft, 300D silver coating",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41fTPHQRM1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GCF78HND?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GCF78HND?tag=rvgearlab-amz-20",
     "description": "The EchoSmile is an automatic pop-up for four with 190T silver-coated polyester that screens about 98 percent of UV. It has a 5.0mm anti-deformation fiberglass frame, sandbags, stakes and wind ropes, and a zippered front door.\n\nOf the five picks it is the only one you can zip shut, which gives a private spot for changing or nursing. It costs the least here, and its fiberglass frame is thinner than the metal frames on the Hqeeun and Blue canopies.\n\nIt suits families with small children who need a nap tent and changing room more than a big shaded lounge. Set it up in seconds and leave the chairs outside.",
     "specs": [
       "Automatic pop-up for four",

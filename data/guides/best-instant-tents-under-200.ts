@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31NsFyuHaWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7QK1N81?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7QK1N81?tag=rvgearlab-amz-20",
     "description": "Coleman sells this instant tent in four sizes, and the 4-person model covers eight by seven feet. Its poles are already attached, the rainfly is built in, and Polyguard 2X double-thick fabric covers the shell.\n\nThicker material sets it apart from the thin shells of cheaper pop-ups, and the built-in fly means no loose parts to lose. The floor is smaller than the Portal and the Leisure Impact.\n\nBeginners who want a trusted brand and sturdy fabric will like it. Even a first pitch finishes inside five minutes.",
     "specs": [
       "8 ft by 7 ft, 4-person size",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41rG0TUkNoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FX2TXDN4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FX2TXDN4?tag=rvgearlab-amz-20",
     "description": "The Portal is a quick-pitch tunnel tent that pairs a sleeping area with a screened room, together about 20 ft long, 8 ft wide and 76 inches tall. Its frame opens and folds easily, and a 66D fabric with a water-resistant coating sits under a removable rainfly.\n\nThe screen room gives it living space that no other tent here has, and the floor fits two full-size air beds. It pitches more slowly than the Coleman and offers far more room.\n\nFamilies who want a bug-free lounge will love it. An electrical port and upgraded fiberglass poles complete the design.",
     "specs": [
       "20 ft long with screen room",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41jJGFqDRwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BR789JDV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BR789JDV?tag=rvgearlab-amz-20",
     "description": "The Reactive Outdoor 3 Second Tent in its larger size is a double-layer pop-up for two or three campers. A self-locking mechanism lets one person raise it by pulling the frame up and locking it, and an HH 3000mm rating with taped seams keeps rain out.\n\nIt is the only self-locking tent of this size here, and it carries a stronger rain rating than the Coleman. The floor is smaller than the Portal.\n\nCouples and small families who want a very fast solo setup will like it. A wide-mouth bag eases packing.",
     "specs": [
       "Self-locking pop-up, 2-3 person",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41jeGruFaUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FQ5PVS2X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FQ5PVS2X?tag=rvgearlab-amz-20",
     "description": "Leisure Impact attaches the frame to the tent, so the pitch takes about a minute and yields a 90 square foot cabin with a 66 inch ceiling. Fabric rated 1200mm sits under a rainfly, and an awning covers the front.\n\nIt is the best large instant in this list for the price, ahead of the Coleman on size and the awning. The Portal swaps the awning for a screen room.\n\nFamilies who want a roomy, fast tent will like it. Mesh on every side moves air.",
     "specs": [
       "About 90 sq ft, 66 in ceiling",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31HbmFQTjSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GJSG9FBB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GJSG9FBB?tag=rvgearlab-amz-20",
     "description": "ADSMART's six-person instant tent has a ten by nine foot floor under a 66 inch ceiling. Thickened metal poles arrive attached and extend in about a minute, with steel legs and a trio of mesh windows adding stability and air.\n\nIt costs the least here and weighs 16 lb. The Leisure Impact adds an awning for more money.\n\nBudget families will like it. Its bag is about 42 inches long.",
     "specs": [
       "Pre-attached poles",

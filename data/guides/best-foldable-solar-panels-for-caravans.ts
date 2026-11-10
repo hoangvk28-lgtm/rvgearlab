@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51ZoRLmsG6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07VN68ZBV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07VN68ZBV?tag=rvgearlab-amz-20",
     "description": "The DOKIO 100W suitcase clips straight onto a 12V battery with alligator leads and a smart PWM controller. The listing gives a 9.8 foot lead, two 5V 2A USB outlets and a transferable 25 year output guarantee, and names vented, AGM and gel batteries.\n\nIt needs no extra gear to charge a leisure battery, and the long cable lets the panel stand in sun while the battery sits in shade. Compared with the GRECELL, it costs far less and has half the watts.\n\nIt suits caravaners who want to top up a leisure battery on a campsite with no mains. The USB ports charge phones from the panel.",
     "specs": [
       "100W, smart PWM controller",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41EY-TitQPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B9SMD8BC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B9SMD8BC?tag=rvgearlab-amz-20",
     "description": "The GRECELL UB200 lists 23.5 percent cells, 10.14 pounds and a folded size of 21.46 by 22.95 by 1.77 inches. It has four connectors (DC7909, XT60, aviation and Anderson) and auto-optimization that reconnects when sunlight returns.\n\nIt weighs far less than a rigid suitcase kit and gives twice the watts of the DOKIO. Compared with the DOKIO, it connects to a station's solar input instead of clipping onto a battery.\n\nIt suits caravan owners who run a portable power station for lights, a fridge and devices. The slim fold stores flat behind a seat.",
     "specs": [
       "200W, 23.5% cells, 10.14 lbs",

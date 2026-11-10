@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41CLDZPXPdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CGVGL513?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CGVGL513?tag=rvgearlab-amz-20",
     "description": "The ONLYFIRE stove takes 7/16 thread butane-propane canisters or 1 lb propane tanks with the included adapter. A 6,800 W three-burner head, a wind shield and serrated, foldable pot supports come in a carry bag.\n\nAmong the four it is the most backpack-friendly, with foldable supports and a bag. It lists more power than the Smokey Camp 3000W and a sturdier stainless and copper bracket build.\n\nA good pick for hikers who want a fast boil and a fuel switch. Piezo ignition is built in.",
     "specs": [
       "6,800 W, 3-burner head",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41GZuwQc5LL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GHYVYVWY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GHYVYVWY?tag=rvgearlab-amz-20",
     "description": "The Smokey Camp is a 3,000 W stove with automatic ignition and adjustable flame control, and it handles butane or propane canisters through the included adapter pipe. The listing says it folds down to fit into backpacks without adding bulk.\n\nCompared with the ONLYFIRE it has less power and a lower price, and the listing prints no thread or size details. Switching fuel only needs the adapter pipe.\n\nA budget choice for hikers who want an adapter and nothing more. It handles frying, boiling and simmering.",
     "specs": [
       "3,000 W output",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Lp-nhy+YL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09RN22HDQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09RN22HDQ?tag=rvgearlab-amz-20",
     "description": "The GasOne GS-3900PB lists 15,000 BTU, fed by a small butane cartridge or, through its adapter, a 1 lb propane cylinder. Four corner windblockers surround the burner head.\n\nIt has the strongest output of the group and a safety system with a pressure-sensing cartridge ejection and gas flow cut-off. Next to the GS-3400P it is more powerful and costs more.\n\nFits campers who cook on exposed sites. A carrying case is included.",
     "specs": [
       "15,000 BTU, dual fuel",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41JavTsgoZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01HQRD8EO?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01HQRD8EO?tag=rvgearlab-amz-20",
     "description": "Gas One's GS-3400P accepts either a small butane cartridge or a 1 lb propane bottle, and a converter regulator ships in the box. A heat dial, piezo igniter and cartridge-ejection safety complete the controls.\n\nIt is the simpler, cheaper cousin of the GasOne 15K Dual Fuel, with less output and no corner windblocker. Dual fuel capability is the same.\n\nA practical entry choice for first-time dual fuel buyers who want to try butane and propane. A case comes in the box.",
     "specs": [
       "Butane or propane dual fuel",

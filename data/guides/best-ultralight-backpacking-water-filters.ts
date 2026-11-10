@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31VLs4KkHDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CL83ZRBZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CL83ZRBZ?tag=rvgearlab-amz-20",
     "description": "The Platypus QuickDraw 2L System pairs a hollow fiber filter with a 2 liter reservoir, a ConnectCap and a hose that fits CPC reservoirs such as the Big Zip Evo and most HydraPak reservoirs. The listing gives a flow of 3 liters per minute when squeezed and 1.75 liters per minute under gravity, and says each filter meets the NSF and EPA P231 protocol for 99.9999 percent of bacteria and 99.9 percent of protozoa.\n\nIt flows faster than the Katadyn BeFree AC or MSR TrailShot and is the only pick that is both a squeeze and a gravity system. The filter-only QuickDraw is also sold separately for use on bottles.\n\nIt suits ultralight backpackers who want fast flow and a tested filter that fills any reservoir. The 2 liter dirty bag doubles as a reservoir.",
     "specs": [
       "3 L per minute squeezed",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/312F6KhwnJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01N7GC9Z6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01N7GC9Z6?tag=rvgearlab-amz-20",
     "description": "The MSR TrailShot is a 5 ounce, 6 by 2.4 inch squeeze filter that the listing says filters one liter in 60 seconds with one hand. It uses hollow fiber technology effective against bacteria at 99.9999 percent and protozoa at 99.9 percent, filters up to 2,000 liters and uses no iodine or chlorine.\n\nIt is the only pick with a printed weight and size, and its 2,000 liter life is twice the Katadyn BeFree AC's. It fits in a stash pocket for trail runners, hikers and mountain bikers.\n\nIt suits trail runners and ultralight hikers who want a tiny filter with a printed weight. It threads onto common bottles or sips direct.",
     "specs": [
       "5 oz, 6 x 2.4 in",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31dP3ZCwEFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B075X5R67T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B075X5R67T?tag=rvgearlab-amz-20",
     "description": "Katadyn builds the BeFree AC around a 1 liter soft bottle with an activated carbon stage, rated for 2 liters per minute and up to 1,000 liters of capacity. It collapses flat to fit running shorts, cycling jerseys, vests and packs, and cleans by shaking.\n\nIt combines filter and bottle in one, which saves a separate container. It has half the cartridge life of the TrailShot, in return for a bottle that folds away.\n\nIt suits runners and hikers who want filter and bottle in one. Nothing extra needs to be carried.",
     "specs": [
       "1 L collapsible bottle",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41iDbQRWnDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FQCFV3PC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FQCFV3PC?tag=rvgearlab-amz-20",
     "description": "The Bachgold Squeeze is a folding Swiss-made filter bottle with a nanofiber adsorption layer and a hollow fiber membrane with 0.2 micron pores. The listing says it is ultralight, folds to pocket size and restores flow by rinsing.\n\nIt is the cheapest pick, and the listing prints no weight, flow or lifespan figures to compare with the others. Its pore size is coarser than the 0.1 micron rating of the BeFree.\n\nIt suits first-time ultralight hikers who want the lowest-cost folding filter. It tucks away in a pocket.",
     "specs": [
       "0.2 micron hollow fiber",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/518uXBdYvfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FLK173DR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FLK173DR?tag=rvgearlab-amz-20",
     "description": "The Brightown is a 30 ft set with 11 shatterproof ST38 LED bulbs plus one spare, an IP65 rating and UL certification. Each E12 socket has two built-in hooks, and the bulbs dim on most standard dimmers.\n\nIt costs about $20, which is less than the GPATIO 15-bulb set. It is the only plug-in pick that pairs the higher IP65 rating with a UL mark, so it is the one left out through a rainy week with the least worry.\n\nIt suits campers with a power post who want a durable awning set at a low price. Fewer bulbs than the 15-bulb sets means wider, softer spacing.",
     "specs": [
       "IP65, UL certified",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51t6jsRAaxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B5DM8MS8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B5DM8MS8?tag=rvgearlab-amz-20",
     "description": "The GPATIO carries 15 shatterproof globe bulbs plus one spare at 2700K warm white, with an ETL listing and IP45 sealed sockets. The bulbs are dimmable and up to 32 strings can be linked end to end.\n\nIt costs about $25, the top of this budget and more than the Brightown. In return it packs four more bulbs into the same 30 ft, which gives a fuller glow around a picnic table.\n\nIt suits a campsite that doubles as a party spot, where brighter, denser light matters more than the last few dollars. Pair it with a dimmer to tame it at bedtime.",
     "specs": [
       "15 globe bulbs, 2700K",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41iHxh8EqNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FX3TS72M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FX3TS72M?tag=rvgearlab-amz-20",
     "description": "The Svater is a solar set with 10 shatterproof 1W ST38 bulbs spaced 1.87 ft apart, a 3W solar panel and a USB charging port. A full day of sun buys about 8 to 12 hours of light, and the remote dims it across four modes.\n\nIt costs about $20, close to the Brightown, and it is the only pick that needs no outlet at all. It has the lowest waterproof rating here at IP44, which suits sheltered pitches better than open ones.\n\nIt suits tent campers on unpowered sites who still want a lit table. Stake the panel in full sun and the lights come on by themselves at dusk.",
     "specs": [
       "3W panel plus USB charging",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41R8iAAZMtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CQ28N5P1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CQ28N5P1?tag=rvgearlab-amz-20",
     "description": "The Ollny runs 15 shatterproof ST38 bulbs plus one spare at a very warm 2200K, with an IP45 rating. The 30 ft string links to as many as 30 sets and comes with hooks attached for quick hanging.\n\nIt costs about $17, the lowest price in the group, and its amber tone is warmer than the GPATIO at 2700K. The rating sits at IP45 like the GPATIO, below the Brightown.\n\nIt suits campers who like a candle-style glow and want the lowest price. Use it under a canopy rather than in open rain.",
     "specs": [
       "15 bulbs at 2200K",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51S3elenovL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BCP2Y97C?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BCP2Y97C?tag=rvgearlab-amz-20",
     "description": "The GLUROO uses 15 E12 sockets with 16 vintage-style 1W LED bulbs in unbreakable PET, on 0.5mm square wire. The bulbs are dimmable and the string is connectable to additional sets.\n\nIt costs about $21, between the Ollny and the GPATIO. The wire is thicker than a typical thin cord, which helps with repeated hanging and taking down.\n\nIt suits campers who set up and break down often and want a sturdier cord. It is a solid middle pick when a dimmer is part of the plan.",
     "specs": [
       "15 sockets, 16 vintage bulbs",

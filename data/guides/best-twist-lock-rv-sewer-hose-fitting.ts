@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/414-bPO1aML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FM2684P6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FM2684P6?tag=rvgearlab-amz-20",
     "description": "The PRO-RVER pairs a stainless steel hook ring with a rubber gasket and a two step push-lock plus clamp-lock system. It mounts on the existing bayonet tabs, and the kit includes a connector and a sewer outlet cap.\n\nUnlike the Hooaim and AVERONR kits that join two hoses with a threaded twist, this one targets the RV outlet itself. The one-time ring installation is what lets later connections go tool-free.\n\nBest for owners who dump often and want the quickest repeat connection. The stainless ring suits full-timers who hook up weekly.",
     "specs": [
       "Push-lock plus clamp-lock",
@@ -53,7 +53,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41PBgWe2Z5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DSFBF88X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DSFBF88X?tag=rvgearlab-amz-20",
     "description": "The Hooaim kit joins two RV septic hoses with a straight adapter with bayonet fitting, a lug connector fitting and two clamps. It is listed for standard 3 inch camper sewer hoses and made of corrosion-resistant ABS.\n\nIt costs far less than the PRO-RVER and lets you extend or repair a run mid-hose. The listing describes a threaded design meant to reduce leaks compared with simple push fits.\n\nBest for a camper who owns two hoses and wants to link them without buying a longer kit. A tidy fix for a damaged hose end.",
     "specs": [
       "Twist connect for 3 inch hoses",
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/417u1Mda3OL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FNBRHYJN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FNBRHYJN?tag=rvgearlab-amz-20",
     "description": "The AVERONR twist connect kit has a straight adapter with bayonet fitting, a lug connector and two hose clamps for standard 3 inch hoses. Its non-restrictive bore is listed as smooth and unobstructed for grey and black tank water.\n\nIt matches the Hooaim kit part for part, and its polymer connector with metal clamps puts the emphasis on flow rather than corrosion resistance. The flow wording is the clearest difference between the two kits.\n\nBest for a rig that already clogs or backs up and needs a joint that does not narrow the hose. Good for long gravity runs.",
     "specs": [
       "Non-restrictive 3 inch bore",
@@ -107,7 +107,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41y4UsnwOaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HBP3F6DL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HBP3F6DL?tag=rvgearlab-amz-20",
     "description": "The OasisFlow T1028 links 3 inch rigid PVC sewer pipe to a bayonet RV hose through a 3 inch hub with four locking hooks. A full 360 degree swivel takes tension off the pipe, and the body is heavy-duty ABS.\n\nIt solves a different problem from the kits above: moving from a rigid pipe to a bayonet hose at a dump point or campsite sewer riser. The swivel is what separates it from the fixed Hooaim joint.\n\nBest for owners with a 3 inch rigid sewer pipe at a seasonal site. The swivel helps when the hose angle changes after setup.",
     "specs": [
       "3 inch hub to bayonet",
@@ -134,7 +134,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31H-phX4VYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B000RFSARI?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B000RFSARI?tag=rvgearlab-amz-20",
     "description": "The Camco rinse cap locks onto the sewer hose bayonet fitting and connects to a garden hose, with a shut-off valve for water control. It is listed for Easy Slip, RhinoFLEX and standard sewer fittings.\n\nWhere the other picks connect or extend, this one adds a way to rinse the hose before storage. A shut-off valve gives more control than the simple wrench or adapter picks.\n\nBest for anyone who stores a hose in a bumper tube and wants it cleaner before packing. A low cost add-on to a twist-lock kit.",
     "specs": [
       "Locks on bayonet fitting",
@@ -161,7 +161,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/418AtjAUQxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GCZK6JKL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GCZK6JKL?tag=rvgearlab-amz-20",
     "description": "The YUPIKJI is a two piece ABS wrench set for 3 inch and 4 inch sewer cleanout caps. A lever design cuts the effort needed on a tight cap, and the flat shape stores in a drawer.\n\nIt does not connect anything, which makes it the support pick under the PRO-RVER and OasisFlow. It is the lowest priced item here, so it fits as an add-on to any of the fittings above.\n\nBest for owners whose caps seize after months of sun. A cheap tool that earns its drawer space on the first stuck cap.",
     "specs": [
       "3 inch and 4 inch sizes",

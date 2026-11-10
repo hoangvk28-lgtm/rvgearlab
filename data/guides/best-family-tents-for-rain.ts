@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51SHJ7VquGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GWM95RM9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GWM95RM9?tag=rvgearlab-amz-20",
     "description": "The SHANQUAN 4-6 measures 120 by 108 by 79 inches and uses 190T polyester with 1000mm PU coating, fully taped seams and a top rain cover. The floor is a 115gsm PE sheet rated at 5000mm, far higher than standard, and a hybrid frame mixes 19mm steel and 11mm fiberglass poles.\n\nIt has the best floor rating and the most complete rain details of the four. Against the CAMPROS 8 it lists a rain cover, a floor rating and 14 steel stakes with 4 guy ropes.\n\nIt is the pick for families who camp in wet fields. The listing gives a 10 to 15 minute setup for two.",
     "specs": [
       "4-6 person, 79 in center",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31lfnmE-ebL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DP2SNZQW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DP2SNZQW?tag=rvgearlab-amz-20",
     "description": "The CAMPROS CP 12-person offers 180 sq ft of floor, 20 by 9 ft, under a 72 inch center. Waterproof 185T polyester with PU1000mm, sealed seams and rain strips keep out rain and wind, and two curtains make three rooms.\n\nIt is the priciest of the four and has the largest floor. Against the CAMPROS 8 it adds a third room and a bigger footprint, and compared with the SHANQUAN it adds size and lists no floor rating.\n\nIt suits large families and groups who need rain protection and room. Setup takes under 10 minutes with two people.",
     "specs": [
       "12 person, 20 x 9 ft",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/3187egCwHfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08G4R7SG5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08G4R7SG5?tag=rvgearlab-amz-20",
     "description": "The CAMPROS CP 8-person pairs a 72 inch center with a rainfly, sealed seams and a rain strip. A mesh roof and doors add airflow, and a curtain makes two rooms.\n\nIt sits between the CAMPROS 12 and the Amazon Basics on price and pitches in about 5 minutes with two people. Against the Amazon Basics it adds a waterproof strip and sealed seams.\n\nIt suits families who want a mid-size rain tent with a room divider. Color-coded poles help with setup.",
     "specs": [
       "8 person, 72 in center",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31V1z9b-ULL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0785MRPH6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0785MRPH6?tag=rvgearlab-amz-20",
     "description": "The Amazon Basics 8-person uses water-resistant polyester with welded seams and a detachable fly. Its 15 by 9 ft floor stands 70 inches at the center, and the shock-corded poles are listed at under 8 minutes.\n\nThe cheapest of the four, it is also the only one with welded seams. Against the SHANQUAN it lists no waterproof rating, and against the CAMPROS it lacks rain strips.\n\nIt suits families who want a basic rain-capable tent at a low price. A cool-air vent at the back adds ventilation.",
     "specs": [
       "8 person, 15 x 9 ft",

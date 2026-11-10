@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41iuptkk+3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FN3YRXX4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FN3YRXX4?tag=rvgearlab-amz-20",
     "description": "The REWONDER lists 40,000mAh (154Wh) with 65W PD output for laptops, an integrated handle, silicone covers over the ports and a splash-resistant shell. It also has an LED flashlight with three brightness levels and works with Steam Deck and ROG Ally handhelds.\n\nIt is the only bank here that reaches laptop-class 65W and it is also the priciest. Against the other four, its handle and port covers suit dusty campsites.\n\nIt suits car campers and van users who want to run a laptop or handheld for days. The listing says it is built for ground use.",
     "specs": [
       "40000mAh, 154Wh, 65W PD",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Xcqpec6NL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DZH8RBTD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DZH8RBTD?tag=rvgearlab-amz-20",
     "description": "The MINRISE is a solar-topped 40,000mAh bank with 20W PD, three built-in output cables (Type-C, iOS and Micro USB) and a built-in USB-A input. It has an ABS shell with silicone corners, a silicone port cover and two LED flashlights with up to 165 feet of reach.\n\nIt adds solar and a lighting kit that the 22.5W banks lack, at a lower output than the FlyKangaroo's 30W. The built-in cables cover most older phones.\n\nIt suits campers who want a bank that works as a light and tops up slowly in the sun. Solar input is a trickle, so wall or USB charging is the main route.",
     "specs": [
       "40000mAh, 20W PD, solar panel",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zetQEZ-NL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FQMJL8C8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FQMJL8C8?tag=rvgearlab-amz-20",
     "description": "The FlyKangaroo lists 40,000mAh with PD 30W and QC 4.0, two USB outputs, a USB-C port for input and output, a micro USB input and an LED display. It reports 61 percent charge for an iPhone in about 30 minutes.\n\nIt outputs 10W more than the MINRISE and 7.5W more than the 22.5W banks, and it costs less than both REWONDER and MINRISE. It has no built-in cables, so it relies on your own.\n\nIt suits campers who want quicker phone and tablet charging from a big bank. Three devices can charge together.",
     "specs": [
       "40000mAh, PD 30W, QC 4.0",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41baGe+tS7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H3323M79?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H3323M79?tag=rvgearlab-amz-20",
     "description": "The Eliegntist carries 40,000mAh with PD 22.5W and QC 4.0, three built-in cables (iOS, Type-C and USB-A) and an LED display accurate to 1 percent. It uses a high-density polymer battery for a smaller body.\n\nIt adds cables that the FlyKangaroo lacks and costs a little less. Compared with the MINRISE, it has no flashlight or solar panel.\n\nIt suits campers who want a no-fuss bank that leaves cords at home. The 1 percent display shows remaining energy.",
     "specs": [
       "40000mAh, PD 22.5W",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31QuWyH2rTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DG8KH68D?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DG8KH68D?tag=rvgearlab-amz-20",
     "description": "The RONEGN lists 40,000mAh with 22.5W USB-C and 20W iOS fast charging, three outputs and two inputs, and a safety system with a soft-touch finish. It weighs more than a pocket bank, in keeping with its size.\n\nIts price is the lowest of the five, and its output matches the Eliegntist at 22.5W. Without built-in cables or a flashlight, it relies on your own cords.\n\nIt suits budget campers who want maximum capacity at the lowest cost. Three devices can charge together from the outputs.",
     "specs": [
       "40000mAh, 22.5W USB-C",

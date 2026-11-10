@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41cU3NiYVmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GJSVFFCR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GJSVFFCR?tag=rvgearlab-amz-20",
     "description": "The OGERY toddler bag has a soft cotton lining and high-density hollow fiber fill. A two-way anti-snag zipper is made for small hands, and a bottom zipper helps with temperature control.\n\nNext to Wake In Cloud, it names the lining and zipper design for toddlers. Against the Croosseoutdoors, it is machine washable.\n\nIt suits parents of toddlers who want a soft, easy-care bag. The anti-snag zipper reduces tears.",
     "specs": [
       "Soft cotton lining",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41mrvjW1RQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CPD7QGZD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CPD7QGZD?tag=rvgearlab-amz-20",
     "description": "The Wake In Cloud bag measures 61 by 26 inches and weighs 2.9 lb with a backpack-style sack. It has a 210T polyester water-repellent shell, 240T pongee lining and soft polyester filling.\n\nCompared with the Croosseoutdoors, it is shorter and wider-fit for a small child. Against the OGERY, it adds the backpack sack.\n\nIt suits toddlers on easy family hikes. A hook-and-loop fastener secures the zipper.",
     "specs": [
       "61 x 26 inches, 2.9 lb",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41w4AzPAvJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D9PQHZKV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D9PQHZKV?tag=rvgearlab-amz-20",
     "description": "The Croosseoutdoors bag weighs 2.44 lb and unfolds to 66.93 by 25.59 inches. It uses tear-resistant, waterproof polyester and has a truck-themed print.\n\nCompared with the Wake In Cloud, it is lighter and a little longer. Against the tuphen, it adds a fun print and a stated weight.\n\nIt suits toddlers who will grow into it. Fold it in half and roll it up for storage.",
     "specs": [
       "2.44 lb",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/516RRizmZ+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GJZPHKRC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GJZPHKRC?tag=rvgearlab-amz-20",
     "description": "The tuphen bag is rated 40F to 77F with a soft inner and a waterproof, breathable polyester shell. It comes with a compression sack with straps in a backpack-style design.\n\nCompared with the Croosseoutdoors, it states a temperature range. Against the OGERY, it is a simpler bag at a lower price.\n\nIt suits toddlers on sleepovers and preschool overnights. The compression sack makes carrying easy.",
     "specs": [
       "Rated 40F to 77F",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51WJlNlw2ZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CKYWMG6C?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CKYWMG6C?tag=rvgearlab-amz-20",
     "description": "The HREFEU opens to 11.4 by 6.5 by 6.1 feet and is listed for tables, chairs and 5 to 6 people. It uses anti-tear 210T silver-coated fabric with taped seams and attaches to the rear of the vehicle with hooks in two steps.\n\nIt covers the largest group of the five by listed headcount, and one person can install it in 3 minutes. Against the KAMPKEEPER it uses a hook attachment instead of an added pole.\n\nIt suits tailgaters and campers who need shade for several people. The listing names universal fit for sedans, SUVs, RVs, minivans, trucks and hatchbacks.",
     "specs": [
       "11.4 x 6.5 x 6.1 ft",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51njV+s6seL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CWGNG5RJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CWGNG5RJ?tag=rvgearlab-amz-20",
     "description": "The KAMPKEEPER covers 110 or more square feet, enough for a table, chairs and equipment. It uses a single pole, sets up in about 10 minutes, and includes a zip-up privacy wall plus one mesh side for ventilation.\n\nThe 150D fabric carries a PU800mm water-repellent coating, seam sealing and a silver inside coating. Against the HREFEU it lists a bigger stated area, and it names sedans, SUVs, microbuses and 4WDs.\n\nIt suits campers with a large cook zone who want privacy panels. The zippered awning shuts for privacy.",
     "specs": [
       "110+ sq ft shade",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/517JiAqdUiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G6JZXLPQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G6JZXLPQ?tag=rvgearlab-amz-20",
     "description": "The WildFinder uses an external reinforced fiberglass frame with 9.5mm poles to make a hemispherical shelter that fits most SUVs, minivans and trucks. It is floorless, so chairs and a stove go on the ground, and the whole kit weighs 10.1 pounds.\n\nIt packs to 18 by 10 by 7 inches in a carry bag and is listed as nearly 15 percent lighter than leading competitors. Against the Hasika it uses a frame, not suction cups.\n\nIt suits campers who want a sturdier, self-supporting shape and instant privacy. It also serves for tailgates and riverbanks.",
     "specs": [
       "External 9.5mm fiberglass frame",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41dj9IauBkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00ZKYSCOM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00ZKYSCOM?tag=rvgearlab-amz-20",
     "description": "The Hasika makes 60 to 76 square feet of shade and fits 3 to 4 people. It uses a 3000mm waterproof 210T ripstop tarp with vents, adjustable poles, upgraded suction cups and tie-downs.\n\nIt carries the highest waterproof number of the five and can be set up on any side of the vehicle. Against the HREFEU it has a smaller area and a lower height option by removing pole sections.\n\nIt suits campers with SUVs, trucks, vans or hatchbacks who need a rain-ready shade. Lowering the edge adds privacy.",
     "specs": [
       "60-76 sq ft shade",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41TlPtjzYyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B096ZZ8NL6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B096ZZ8NL6?tag=rvgearlab-amz-20",
     "description": "The G4Free opens to 114.17 by 78.74 by 78.74 inches, enough for a picnic table and 3 to 4 people. A fine mesh covers the ground to keep small animals out, and the 210T silver-coated polyester blocks 99 percent of UV.\n\nPriced lowest of the five, it is the only listing with a mosquito net around the base. It fits small to midsize cars, SUVs, MPVs, hatchbacks and sedans.\n\nIt suits budget campers with a smaller car who want a bug-resistant shade. The listing adds instructions for quick setup.",
     "specs": [
       "114.17 x 78.74 x 78.74 in",

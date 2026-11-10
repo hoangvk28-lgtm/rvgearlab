@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41YIf3scW4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GFW1X5BZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GFW1X5BZ?tag=rvgearlab-amz-20",
     "description": "Ausic builds this 21-inch ceiling fan around a 20,400mAh pack and a brushless motor, with a lantern body that lifts off. The remote reaches about 40 feet from the fan.\n\nIt sits in the middle of the price range and moves far more air than the 8-inch clip fan below it. The SHUNLEE at the top of the budget has a bigger blade span, yet the Ausic is the one that suits a standard family tent without needing a strong anchor point.\n\nIt suits campers with a 6 to 8 person tent or a screen room who want one fan to cool the whole space. The lantern detaches, so it doubles as a table light after sunset.",
     "specs": [
       "21-inch, 20,400mAh battery",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31L6nZKlHrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GGHPZLN7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GGHPZLN7?tag=rvgearlab-amz-20",
     "description": "The SHUNLEE is a 31.5-inch hanging fan with five long blades and a 40000mAh battery. It offers four speeds, a dimmable light with adjustable color temperature, a hook and a remote with 2, 3 and 5 hour timers.\n\nIts blade span is the widest of the six, so it cools a gazebo or event canopy where the 21-inch Ausic would only reach one corner. The price sits at the top of this budget, and the extra money goes into blade span and battery size.\n\nIt suits pop-up canopies, large screen houses and wall tents where several people sit together. It is overkill in a two-person dome.",
     "specs": [
       "31.5-inch, five blades",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41-7Yf0ZvdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GPPD3KM4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GPPD3KM4?tag=rvgearlab-amz-20",
     "description": "SOQSYS ships two fans in one box, each with a 12000mAh battery rated for up to 30 hours. Every fan has three speeds, a 360 degree head, a 2, 4 or 6 hour timer, an adjustable LED light and a foldable hook for hanging in tents or under awnings.\n\nTwo fans for about half the SHUNLEE's price means you can cool two tents or place one at each end of a long room. Each unit is compact at 1.04 lb, so it moves air near you rather than across a big canopy the way the Ausic does.\n\nIt suits families with two sleeping tents and groups who share a screen room. Each fan also works as a power bank for a phone.",
     "specs": [
       "Two fans, 12000mAh each",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51VBJ4N0oKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08866RDYK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08866RDYK?tag=rvgearlab-amz-20",
     "description": "The Koonie is an 8-inch clip fan with a 10,000mAh battery rated for up to 24 hours and a 6 hour charge at 5V 2A. It has a 3 inch clamp, three speeds plus an energy-saving setting and a 360 degree head.\n\nIt does not hang from the ceiling like the Ausic or SHUNLEE, so it clips to a cot rail, a table edge or a tent pole at head height. That puts air directly on you instead of mixing the whole tent, which cools one sleeper faster than a ceiling fan of the same battery size.\n\nIt suits cot campers and anyone who wants airflow aimed at a bunk. It does not carry a light.",
     "specs": [
       "8-inch, 10,000mAh battery",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41yU9FIU1KL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F1FH7QXF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F1FH7QXF?tag=rvgearlab-amz-20",
     "description": "The TITAN is a detachable USB fan with magnet clips that attach to metal tent poles, roof racks, vehicle bodies or a kennel grid without punching holes. It offers three speeds and four timer settings and plugs into a power bank or wall charger.\n\nIt has no internal battery, which sets it apart from every other fan in this list and keeps the price near the middle of the budget. You need a power bank to run it away from a vehicle, and the magnets give it mounting options the hanging fans cannot match.\n\nIt suits car campers, SUV tents and pet owners who want a fan on a vehicle roof or a crate. Pack a power bank of at least 10,000mAh.",
     "specs": [
       "USB powered, magnet clips",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41r-iHmXBzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GSZ7P1WT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GSZ7P1WT?tag=rvgearlab-amz-20",
     "description": "The WESTTREE is a misting fan with a 4 gallon water bucket, wheels and a retractable handle. It runs 10 to 36 hours per charge, offers four fan speeds and four spray levels and swings through a 90 degree arc.\n\nIt is by far the largest unit in the list and the only one that cools by evaporation, with a stated cooling radius of 15 to 20 feet. It costs the same as the SHUNLEE and belongs outside the tent under a canopy or at the picnic table rather than overhead.\n\nIt suits hot, dry camps where the shade area is large. The mist adds moisture, so keep it away from sleeping bags and electronics.",
     "specs": [
       "4 gallon bucket, wheeled",

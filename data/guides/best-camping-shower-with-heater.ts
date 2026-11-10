@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41J6kPI4YNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GYRY1PVR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GYRY1PVR?tag=rvgearlab-amz-20",
     "description": "The Tessora is a 10-in-1 kit built around a 2000W immersion heater with a 304 stainless steel casing. The IPX7 pump has a built-in 6000mAh USB-C battery rated at 120 to 180 minutes, and an LED display shows temperature and charge.\n\nIt gives you the same heater class as the Yimserk and AixPool, with a more complete box and a stated 3 lb total weight. The Zappyway kits add a bigger 6.6 gallon bucket, while the Tessora keeps the weight and pack size down.\n\nChoose it if you want one tidy kit that covers heating, pumping and carrying without buying extras. It suits two or three people sharing a bucket at a drive-in site.",
     "specs": [
       "2000W stainless immersion heater",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51-IVqur4cL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FC2FDB5K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FC2FDB5K?tag=rvgearlab-amz-20",
     "description": "The Yimserk pairs a 2000W stainless steel heater with a 6000mAh pump that runs up to 3 hours per the listing. It heats about 5 gallons in minutes, and a digital thermometer and LED panel track the temperature.\n\nAgainst the AixPool it adds a replaceable filter and two spare cartridges, plus a 4-mode shower head. It is the cheapest way here to get a 2000W heater with a display, which is what a tight budget needs.\n\nThis is the pick for the camper who wants hot water for the least money and has an outlet or small generator at camp. Weekend trips and kids' rinse-offs are where it earns its place.",
     "specs": [
       "2000W stainless steel heater",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41RiEpDNPmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G7TBCVBX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G7TBCVBX?tag=rvgearlab-amz-20",
     "description": "The AixPool uses an upgraded 2000W immersion heater with an auto shut-off, paired with a 6000mAh pump good for about 140 minutes. The LED screen shows water temperature, battery level and flow mode together.\n\nIt has three spray patterns and a hands-free mount, which the Tessora does not describe. That makes it easier to wash with both hands, and the quiet pump is a small bonus at a shared campground.\n\nPick it if you care about seeing exactly what the shower is doing, or you want to hang the head and wash hands-free. It works well for people who rinse the dog or the kids.",
     "specs": [
       "2000W heater with auto shut-off",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51gUnYs+DTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F2411PZZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F2411PZZ?tag=rvgearlab-amz-20",
     "description": "This Zappyway kit adds a 6.6 gallon foldable bucket to a 6000mAh rechargeable pump and an immersion heater. It has a digital display, a waterproof switch and four spray modes.\n\nThe bigger bucket is the difference against the Tessora and AixPool, since more water means a longer shower for a group before you refill. It sits just below the pricier Zappyway listing in this guide, with the same kit description.\n\nChoose it when two or more people share one setup and you want fewer refills. It is a sensible default for family car camping.",
     "specs": [
       "6.6 gallon foldable bucket",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51yhjOuNFFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H1VSPGZM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H1VSPGZM?tag=rvgearlab-amz-20",
     "description": "This is the higher-priced Zappyway listing of the same heated system: 6.6 gallon foldable bucket, 6000mAh pump, immersion heater and 4 spray modes. A digital display and waterproof switch handle the controls.\n\nIt matches the lower-priced Zappyway on the described features, so the choice between them comes down to price. The extra cost over the Tessora buys a larger bucket.\n\nIt suits campers who find it in stock when the other is not, or who prefer this seller. The kit is also described as usable for pet bathing and other outdoor tasks.",
     "specs": [
       "6.6 gallon foldable bucket",

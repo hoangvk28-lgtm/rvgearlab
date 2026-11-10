@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31uqBeFjFEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B000AR7970?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B000AR7970?tag=rvgearlab-amz-20",
     "description": "The Trangia Spirit Burner is a classic alcohol burner that weighs 0.24 lb and lists an 8 minute boil for 1 liter. It includes a simmer ring and a twist-on screw cap with an o-ring that seals unused fuel inside.\n\nWhere the Keweis is a cheaper brass burner with a handle regulator, the Trangia adds a true simmer ring and a sealing cap. It is a bare burner, so it pairs with whatever stand and windscreen you already carry.\n\nIt suits backpackers who value a proven design and fine flame control. The sealing cap lets you carry leftover fuel between meals.",
     "specs": [
       "0.24 lb, 8 min per liter",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41bDDAcBATL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7BPK97M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7BPK97M?tag=rvgearlab-amz-20",
     "description": "The Kuvik Siphon is a titanium siphon alcohol stove with a stand that weighs 2.6 oz (74 g) and folds to 2.9 inches tall by 3.0 inches wide. The listing says it needs no assembly and takes denatured alcohol, grain alcohol, isopropyl alcohol and proprietary blends.\n\nIt is lighter than the 145 g Keweis and far lighter than the 13.6 oz ALOCS, and unlike the bare Trangia it includes its own stand. The titanium body resists dents and warping.\n\nIt suits ultralight hikers who want a stove that unfolds and lights in seconds. The wide fuel list helps when you cannot buy a specific brand.",
     "specs": [
       "2.6 oz (74 g), titanium",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31WSmB8TVxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G2RC2G72?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G2RC2G72?tag=rvgearlab-amz-20",
     "description": "The FRAINEL is a circular alcohol burner made of aluminum alloy that the listing puts at 15 grams. It measures 2.2 by 1.1 inches and an o-ring system holds up to 40 ml of alcohol for short-term storage.\n\nAt 15 g it is the lightest burner here, far under the 145 g Keweis, and it is also the lowest priced. It gives up the stand and simmer ring that the Trangia and Kuvik provide.\n\nIt suits emergency kits and gram counters who already own a pot stand. The palm-sized shape fits a pocket or a pouch.",
     "specs": [
       "15 g aluminum alloy",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41TVlUYezUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07NXY47BH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07NXY47BH?tag=rvgearlab-amz-20",
     "description": "The Keweis is a brass alcohol burner with an aluminum alloy stand, weighing 145 g (5 oz) with a 3.86 by 3.86 by 2.29 inch base. A rubber o-ring seals the cover, and a foldable handle on the flame regulator controls and extinguishes the flame.\n\nIt includes a stand, which the Trangia and FRAINEL do not, so it works out of the box with a small pot. At 145 g it weighs far more than the Kuvik Siphon yet costs about half as much.\n\nIt suits budget campers learning alcohol cooking who want a complete, low-cost setup. The listing gives a burn time on 100 ml of fuel, a useful planning number.",
     "specs": [
       "145 g, brass burner",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41GIUcoZzrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GWN1WG81?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GWN1WG81?tag=rvgearlab-amz-20",
     "description": "The Anodized Hiking Kit is a mini alcohol stove and stable stand made of anodized aluminum and stainless steel. A stainless windproof hearth shelf is listed, and it runs on liquid or solid alcohol.\n\nIts hearth shelf gives it a wind-shielding feature that the Keweis and the FRAINEL do not list. It also accepts solid alcohol, which the Trangia listing does not mention.\n\nIt suits campers who cook for coffee and simple meals in breezy sites. The stand and burner arrive as a pocket-sized kit.",
     "specs": [
       "Anodized aluminum and stainless",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4173KUIJwUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F6W93DW6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F6W93DW6?tag=rvgearlab-amz-20",
     "description": "The ALOCS is a 304 stainless alcohol stove with a stated 2250W output, a 4 minute boil time and a 5 second preheat. It holds 200 ml of fuel and weighs 13.6 oz, with a foldable stand and a cookware range of 3.1 to 10.2 inches.\n\nIt is the fastest stated boiler here, half the Trangia's 8 minutes, and its stand supports a wider pot range than the compact burners. The large tank gives a longer burn per fill.\n\nIt suits car campers and short trips where quick boils matter more than grams. A silicone seal helps prevent leaks in the pack.",
     "specs": [
       "2250W, 4 minute boil",

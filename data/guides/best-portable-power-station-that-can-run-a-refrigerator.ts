@@ -21,7 +21,7 @@ export const products = withAmazonUrls([
     badge: "Best overall",
     name: "Portable Power Station 300W,110V Solar Generator 280Wh(without Solar Panel)",
     amazonQuery: "Portable Power Station 300W,110V Solar Generator 280Wh(without Solar Panel)",
-    amazonUrl: "https://www.amazon.com/dp/B0CQQKSQ3H?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0CQQKSQ3H?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41poUu4jdBL._SL500_.jpg",
     specs: ["Capacity: 280Wh","Continuous output: 300W","Listed weight: 5 lb","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Capacity","value":"280Wh"},{"label":"Continuous output","value":"300W"},{"label":"Listed weight","value":"5 lb"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -36,7 +36,7 @@ export const products = withAmazonUrls([
     badge: "Best heavy-duty option",
     name: "ALLWEI Portable Power Station 300W, 256Wh Solar Generator LiFePO4 Battery",
     amazonQuery: "ALLWEI Portable Power Station 300W, 256Wh Solar Generator LiFePO4 Battery",
-    amazonUrl: "https://www.amazon.com/dp/B08CXN4TZR?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B08CXN4TZR?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41lUtZAkajL._SL500_.jpg",
     specs: ["Capacity: 256Wh","Continuous output: 300W","Surge output: 600W","Listed weight: 6.4 lb"],
     specList: [{"label":"Capacity","value":"256Wh"},{"label":"Continuous output","value":"300W"},{"label":"Surge output","value":"600W"},{"label":"Listed weight","value":"6.4 lb"}],
@@ -51,7 +51,7 @@ export const products = withAmazonUrls([
     badge: "Best compact option",
     name: "Anker SOLIX S2000 Portable Power Station, 2,010Wh, 1,500W",
     amazonQuery: "Anker SOLIX S2000 Portable Power Station, 2,010Wh, 1,500W",
-    amazonUrl: "https://www.amazon.com/dp/B0GY4TQ2P8?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0GY4TQ2P8?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41oUWN32k+L._SL500_.jpg",
     specs: ["Capacity: 2,010Wh","Continuous output: 1,500W","Surge output: 3,000W","Listed weight: 35.7 lb"],
     specList: [{"label":"Capacity","value":"2,010Wh"},{"label":"Continuous output","value":"1,500W"},{"label":"Surge output","value":"3,000W"},{"label":"Listed weight","value":"35.7 lb"}],
@@ -66,7 +66,7 @@ export const products = withAmazonUrls([
     badge: "Best value pick",
     name: "BLUETTI FridgePower Portable Power Station, 2016Wh 1800W LFP Battery Backup",
     amazonQuery: "BLUETTI FridgePower Portable Power Station, 2016Wh 1800W LFP Battery Backup",
-    amazonUrl: "https://www.amazon.com/dp/B0GX1GHYMM?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0GX1GHYMM?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/31z4HFhmY9L._SL500_.jpg",
     specs: ["Capacity: 2,016Wh","Continuous output: 1,800W","Runtime claim: Up to 4.5 hours","Battery chemistry: LiFePO4"],
     specList: [{"label":"Capacity","value":"2,016Wh"},{"label":"Continuous output","value":"1,800W"},{"label":"Runtime claim","value":"Up to 4.5 hours"},{"label":"Battery chemistry","value":"LiFePO4"}],
@@ -81,7 +81,7 @@ export const products = withAmazonUrls([
     badge: "Best backup pick",
     name: "LIBRIDS Portable Power Station 640Wh, 1200W Surge, Solar Generator 4 AC",
     amazonQuery: "LIBRIDS Portable Power Station 640Wh, 1200W Surge, Solar Generator 4 AC",
-    amazonUrl: "https://www.amazon.com/dp/B0GSDX8LTM?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0GSDX8LTM?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41MOGpMRJyL._SL500_.jpg",
     specs: ["Capacity: 640Wh","Continuous output: 600W","Surge output: 1,200W","Battery chemistry: LiFePO4"],
     specList: [{"label":"Capacity","value":"640Wh"},{"label":"Continuous output","value":"600W"},{"label":"Surge output","value":"1,200W"},{"label":"Battery chemistry","value":"LiFePO4"}],
@@ -171,7 +171,7 @@ export const relatedGuides = [
 export const sources = [
   {
     "title": "Portable Power Station 300W,110V Solar Generator 280Wh(without Solar Panel) product page",
-    "href": "https://www.amazon.com/dp/B0CQQKSQ3H?tag=rvgearlab-20&linkCode=osi&th=1&psc=1"
+    "href": "https://www.amazon.com/dp/B0CQQKSQ3H?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1"
   },
   {
     "title": "CPSC carbon monoxide safety center",

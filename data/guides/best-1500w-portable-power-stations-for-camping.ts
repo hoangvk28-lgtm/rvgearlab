@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Ii3eXWiHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D66VD3X4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D66VD3X4?tag=rvgearlab-amz-20",
     "description": "The Jackery Explorer 1000 v2 lists 1500W AC output with 3000W surge, 1070Wh of LiFePO4 and a 0 to 100 percent charge in 1 hour. It has six ports, including 2 USB-C, 1 USB-A, 1 DC car port and 3 pure sine AC ports, with app control that switches between 1 hour and 1.7 hour charging.\n\nIt states the quickest full charge of the three, and its 1500W rating suits a small air fryer or coffee maker. The listing says the 1.0 model charged 7.5 times slower.\n\nIt suits campers and RV owners who want fast turnaround and a trusted brand for a weekend. The listing is a bundle with two 100W solar panels.",
     "specs": [
       "1500W AC, 3000W surge",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41w-rHqV9ML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HJDBKSY5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HJDBKSY5?tag=rvgearlab-amz-20",
     "description": "The Anker SOLIX S2000 lists 2kWh of capacity with 1500W rated and 3000W peak output on LFP cells rated for 10,000 cycles and a 15-year lifespan. OptiSave technology lengthens runtime, with the listing quoting 35 hours of fridge backup and a power strip in the package.\n\nIt has about double the energy of the Jackery Explorer 1000 v2 and a much longer cycle rating. The listing says it is the smallest and lightest 2kWh station and powers most home essentials.\n\nIt suits home backup and long camp stays where capacity matters more than quick turnaround. The 10,000 cycle rating suits daily use.",
     "specs": [
       "2kWh, 1500W rated, 3000W peak",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41RMFsLYB-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F42CSQWG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F42CSQWG?tag=rvgearlab-amz-20",
     "description": "The BLUETTI Elite 100 V2 offers 1,024Wh of storage and 1,800W of rated AC power, stretching to 2,700W when Power Lifting mode is on. A 10ms UPS function is listed. It reaches 80 percent in about 45 minutes through 1,200W TurboBoost charging and weighs 25 pounds.\n\nIt is the 1800W nearest-fit pick, with 300W more than the Jackery Explorer 1000 v2 and the lowest price of the three. A silent mode runs at 30dB and the BLUETTI app offers Wi-Fi and Bluetooth monitoring.\n\nIt suits campers who want headroom for a kettle-class appliance or an air fryer. It also works as a desk UPS at home.",
     "specs": [
       "1,024Wh, 1,800W rated",

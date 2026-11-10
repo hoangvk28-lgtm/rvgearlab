@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31CcnmWqluL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GRWPW1C3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GRWPW1C3?tag=rvgearlab-amz-20",
     "description": "The Kelty Solstice is an oversized rectangular 20 degree bag in recycled 50D polyester pongee, with right-side two-way zippers, an 80 inch shoulder and hip girth and a fit for sleepers up to 6 ft 6 in. The 20 degree version weighs about 6 lb.\n\nIt is wider than the Coleman bags and cheaper than the North Face Wawona Bed. A cord at the top cinches closed against the cold, and two Solstice bags zip together for a 2-person setup.\n\nIt suits couples and larger campers who want a roomy car bag with a draft tube. Choose the 20 degree version for fall nights.",
     "specs": [
       "Oversized rectangle, 20F",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/314w7lHrpOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CZ128THB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CZ128THB?tag=rvgearlab-amz-20",
     "description": "The North Face Wawona Bed is a 20 degree F rectangular bag with recycled polyester insulation, a soft taffeta lining and a recycled ripstop shell with a non-PFC DWR finish. The Regular weighs 4 lb 14.3 oz and fits sleepers up to 5 ft 8 in, while the Long weighs 5 lb 4.6 oz and fits up to 6 ft 2 in.\n\nIt is lighter than the Kelty Solstice and carries a wraparound footbox zipper that lets the bag open into a blanket. It costs the most of the singles here.\n\nIt suits campers who want brand build quality in a rectangular single. Order the Long if you are over 5 ft 8.",
     "specs": [
       "20F rectangular, recycled insulation",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41G5ZN-EqcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B014KG7I6S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B014KG7I6S?tag=rvgearlab-amz-20",
     "description": "The TETON Mammoth is a 20 degree double bag measuring 94 by 62 inches, with a poly-flannel lining, zipper and shoulder draft tubes and a layout that unzips on each side. A stuff sack is included.\n\nIt is the only double here and offers more room than any single. It costs more than the Kelty Solstice, and that price covers two sleepers instead of one.\n\nIt suits couples and families who share a pad. Fluff it before bed and use a wide pad.",
     "specs": [
       "94 x 62 inch double",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31w2cQus1SL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D643K26D?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D643K26D?tag=rvgearlab-amz-20",
     "description": "The Coleman Kompact is offered in 20, 30 and 40 degree F ratings, with Coletherm Max fill, a Thermolock zipper draft tube and a ZipPlow snag-free zipper. It packs to 9.8 by 9.8 by 15.7 inches in a compression stuff sack.\n\nColeman says it packs smaller than traditional Coleman bags. The listing does not describe the shape, so check the photos.\n\nIt suits car campers who want a compact 20 degree option with a snag-free zipper. Pick the 20 degree version.",
     "specs": [
       "20, 30 or 40F options",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ZzAYEc8rL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D643DKJW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D643DKJW?tag=rvgearlab-amz-20",
     "description": "The Coleman Brazos is a 20 degree F bag for campers up to 5 ft 11 in, with a Thermolock draft tube along the zipper, Fiberlock construction to hold insulation in place and fasteners that lock it when you roll it. The zipper is no-snag.\n\nPriced under every other bag here, it handles casual fall trips well. It is shorter than the Kelty Solstice's fit.\n\nIt suits shorter campers and kids' sleepovers on a budget. The listing does not describe the shape.",
     "specs": [
       "20F, to 5 ft 11 in",

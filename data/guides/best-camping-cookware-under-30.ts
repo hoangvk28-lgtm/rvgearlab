@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41mmk-mWWUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D9XTZH2H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D9XTZH2H?tag=rvgearlab-amz-20",
     "description": "This 17-piece kit contains a 2 L pot, a 7 inch nonstick frying pan, a 0.8 L kettle, two 230 ml stainless cups, plates and utensils. The hard-anodized aluminum body is lightweight and resists scratches, and everything nests inside the largest pot.\n\nIt costs about $24, which is $6 less than the 21-piece kit, and gives a kettle and a 2 L pot that suit two or three campers. The Odoland sets are lighter, while the Fitense adds more pieces.\n\nIt suits couples and small groups who want one box with a kettle, pot and pan. It nests into a compact stack.",
     "specs": [
       "17 pieces, 2 L pot",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/312Ti-HWA3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BQQ4G4XF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BQQ4G4XF?tag=rvgearlab-amz-20",
     "description": "The Odoland kit has a 1900 ml pot with lid and an 860 ml frying pan in hard-anodized aluminum. Locking handles fold with one touch, and the full set weighs about 1 lb.\n\nIt is the lightest kit of the group and costs about $25, which is about $1 more than the 17-piece kit. It has a smaller pot than the 17-piece set, with no kettle.\n\nIt is a light kit for one or two campers. It also works for short backpacking trips.",
     "specs": [
       "1900 ml pot, 860 ml pan",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41KcDehNL0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F94BWFRQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F94BWFRQ?tag=rvgearlab-amz-20",
     "description": "JUSFANE packs aluminum nonstick pots, one of 1.2 L and one of 0.6 L, two 16 oz stainless cups with insulating sleeves, a stove and a set of forks, knives and spoons. The anodized aluminum has a brushed surface, and the pieces nest with foldable handles.\n\nIt costs about $25 and is the only kit here with a stove included, which saves buying one separately. The Odoland sets give lighter weights, and the stove is a basic model.\n\nIt suits first-time campers who want a pot, cups and a stove in one box. It suits two campers.",
     "specs": [
       "Pair of pots, 1.2 and 0.6 L",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41SGBXpwftL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C65D5R8Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C65D5R8Y?tag=rvgearlab-amz-20",
     "description": "Odoland's 10-piece set has a pot, fry pan, kettle, three plastic bowls, a soup spoon, a bamboo spatula and a cleaning cloth, all weighing 1.7 lb. The anodized aluminum is nonstick and has foldable handles.\n\nIt costs about $30, at the top of the range, and has three bowls that suit a small group. It weighs about 0.7 lb more than the 15-piece Odoland and adds a kettle.\n\nSmall families and groups of three get bowls in the box. That makes it a handy all-in-one kit.",
     "specs": [
       "10 pieces, 1.7 lb",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41iTSmViw5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DP2K1DF7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DP2K1DF7?tag=rvgearlab-amz-20",
     "description": "The Fitense kit is a 21-piece mess kit for two with a 2.7 L pot, an 8 inch frying pan, a kettle, two bowls, two cups and two plates. It is made from thick anodized aluminum with a nonstick coating and packs into a mesh bag.\n\nIt costs about $30 and has the largest pot of the six at 2.7 L. With 21 pieces it takes more room than the Odoland kits.\n\nCouples who want a large pot and a full kit will like it. It fits car camping best.",
     "specs": [
       "21 pieces, 2.7 L pot",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31xCtkRRqIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FRN9W1M9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FRN9W1M9?tag=rvgearlab-amz-20",
     "description": "The Photway pot is pure titanium with a 0.5 mm wall, weighs 4.44 oz with its lid and holds 750 ml. It measures 95 mm by 116 mm, and it fits a 450 ml cup or a small fuel canister inside.\n\nIt costs about $22, which is the lowest price here, and it is the lightest by far. It is a single pot, not a kit, so you add a cup and spork.\n\nIt suits solo backpackers who boil water for freeze-dried meals. It keeps no metallic taste.",
     "specs": [
       "750 ml titanium, 4.44 oz",

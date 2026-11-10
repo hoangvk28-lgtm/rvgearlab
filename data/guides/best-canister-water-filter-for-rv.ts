@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411bAfXiPrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08FHZMJH7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08FHZMJH7?tag=rvgearlab-amz-20",
     "description": "OKBA is a dual external system with thick plastic housings, brass fittings and a mounting bracket, plus a wrench for the housings. It uses a 0.5 micron carbon block and a 5 micron stage, and connects to 3/4 inch garden hose fittings.\n\nAgainst Pro Water Parts Housing below, you get two stages and a wrench in the box instead of a single housing. Compared with Camco EVO below, it comes with its own cartridges.\n\nGood for first-time canister buyers who want everything in one box. The listing does not state a flow rate, so confirm it if you fill tanks often.",
     "specs": [
       "0.5 micron carbon block",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4159hrbLO4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C7SPVNHB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C7SPVNHB?tag=rvgearlab-amz-20",
     "description": "This is a standard 10 inch clear heavy-duty housing with 1/2 inch NPT ports, a 5 micron high-efficiency carbon filter for chlorine, VOC and sediment reduction, and a heavy-duty metal bracket. The clear body lets you see sediment build up.\n\nCompared with OKBA Dual System above, it is a single stage and you supply fittings and a wrench. Against Camco EVO below, it comes with a cartridge and a clear body.\n\nChoose it if you want visibility into the housing and plan to plumb it yourself. The 1/2 inch NPT ports need adapters for hoses.",
     "specs": [
       "Clear 10 inch housing",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ZU-Kyn8sL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09LNFQ966?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09LNFQ966?tag=rvgearlab-amz-20",
     "description": "Camco EVO is described as a premium marine water filter system that fits standard 2 1/2 inch by 10 inch cartridges, with a stated high flow rate. The listing mentions taste, odor, sediment, bacteria and chlorine reduction for boat fresh water supplies.\n\nAgainst Pro Water Parts Housing above, it is a brand-name system. Compared with OKBA Dual System, it is a single housing at a similar price.\n\nIt suits RVers who want a known brand and cartridge swaps. The listing is written for boats, and the bacteria wording depends on the cartridge you install, so verify it.",
     "specs": [
       "Fits 2.5 x 10 cartridges",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51i6G80YAbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01FMPOR74?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01FMPOR74?tag=rvgearlab-amz-20",
     "description": "CFS sells four carbon block cartridges compatible with Flow-Pur 8, WCBCS-975-RV and several DuPont and similar models. The listing says they remove tastes, smells and sediment from cold water, and that they have a larger surface area for longer life.\n\nAgainst VitaFlow Cartridges below, they are simple carbon blocks with no fine membrane. Compared with the housings above, they are what you buy second.\n\nIt works for owners of compatible housings who want four spares. Fit depends on model numbers, so match yours first.",
     "specs": [
       "Carbon block cartridges",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31sVBNm4i+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F9K2ZLJ4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F9K2ZLJ4?tag=rvgearlab-amz-20",
     "description": "VitaFlow is a replacement three-stage cartridge set for the Clearsource Ultra three-canister system, with a 5 micron sediment layer, a 0.5 micron coconut carbon block and a 0.01 micron hollow fiber membrane. It is described as capturing microplastics and ultrafine particles.\n\nAgainst CFS Carbon Block 4-Pack above, it is a full three-stage refill but only for one system. Compared with the housings, it does not include any hardware.\n\nBuy it only if you own the Clearsource Ultra. It is not a stand-alone filter.",
     "specs": [
       "5 micron sediment layer",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31aO-enJqCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00MJV2S5I?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00MJV2S5I?tag=rvgearlab-amz-20",
     "description": "The FlowPur Watts WR-100 is a plastic wrench for WaterPur clear housings (CCI-10-CLW and related part numbers). It is the tool that lets you loosen housing bowls without damage.\n\nIt is not a filter and fits only specific housings, unlike the other picks. Beside OKBA Dual System, which includes a wrench, this is for owners of the named housings.\n\nBuy it if your housing matches the listed part numbers. It does nothing on its own.",
     "specs": [
       "Plastic housing wrench",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31MalgujfAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08JHJB4KB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08JHJB4KB?tag=rvgearlab-amz-20",
     "description": "Cedilis ships two 5.3 gallon jugs (about 20 liters each) made from US-sourced LDPE4 plastic. The spigot is heavy-duty PP with a clear On/Off switch, and the handle is molded for a soft grip.\n\nAgainst the Gowithwind 5.3 Gal 2-Pack it costs a little less and puts the flow switch front and center. It matches the Gowithwind on capacity, and its low-density plastic stays soft and holds its shape.\n\nA good everyday pair for campers who want one jug at the tent and one at the kitchen. Folded flat, both disappear into a gear bin.",
     "specs": [
       "Two 5.3 gallon jugs",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31WVkdkGyuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07D38LLP1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07D38LLP1?tag=rvgearlab-amz-20",
     "description": "Gowithwind sends a pair of 5.3 gallon jugs in BPA-free LDPE. A patented spigot with an outer lid is meant to stop drips while the jug rides in the car.\n\nThe extra lid separates it from the Cedilis 5.3 Gal 2-Pack, which relies on its switch alone. Price per jug runs a bit higher, and a 36 page camping eBook is thrown in.\n\nPick this for road trips where the jug rolls around in the trunk. The outer lid protects the spigot from knocks.",
     "specs": [
       "Two 5.3 gallon jugs",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31reW6Kf59L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C4Q3NW8H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C4Q3NW8H?tag=rvgearlab-amz-20",
     "description": "The Reliance Fold-A-Carrier is a single 5 gallon jug with an easy-pour, leak-proof on-off spigot. The plastic stays flexible in cold weather and is clear enough to read the water level.\n\nWhere the other picks are 5.3 gallon pairs, this is an exact 5 gallon vessel with a tip-resistant shape. Cost for one jug is low, which suits anyone who needs just one.\n\nA strong choice for cold-season trips and for people who want a single jug and a clear level gauge. The BPA-free material is food safe.",
     "specs": [
       "5 gallon capacity",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31fMzGIt8LL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F27NKHC2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F27NKHC2?tag=rvgearlab-amz-20",
     "description": "Cosell makes its jugs from food-grade transparent PVC with a reinforced hook so the jug can hang while you pour. A one-button faucet and a double-layer silicone seal control the flow, and the base is thickened and anti-slip.\n\nCompared with the LDPE picks it adds a stated temperature range of -20 to 50 degrees Celsius and folds only 3 cm thick. The listing offers 10 liter or 20 liter (5.3 gallon) sizes, so choose the 20 liter option for this guide.\n\nIdeal for campers who like to hang a jug off a branch or tailgate for hand washing. Folded, it takes almost no room.",
     "specs": [
       "20 L (5.3 gal) option",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41iCl1PTfcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FM888DB6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FM888DB6?tag=rvgearlab-amz-20",
     "description": "GOutdare offers a single 5 gallon jug made from food-grade PVC, free of BPA and DEHP. The one-piece design has strong seams, an easy on/off spout and a handle the listing calls unbreakable.\n\nIt stands out from the two-packs by selling one jug at the highest price here, which buys a thicker feel and a one-piece body. The Reliance Fold-A-Carrier costs less, while the GOutdare adds a thick, transparent PVC wall.\n\nFits home emergency stashes and RV tanks where one durable jug does the job. Its seams and handle are built for repeated loading.",
     "specs": [
       "5 gallon, 1-pack",

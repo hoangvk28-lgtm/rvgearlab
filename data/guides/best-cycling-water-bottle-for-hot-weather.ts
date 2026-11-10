@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/418O-efXCdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GG5MLVVM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GG5MLVVM?tag=rvgearlab-amz-20",
     "description": "The MYFOREST is a 24 oz vacuum-insulated bottle with a 316 stainless steel liner and a copper coating layer. The listing says it keeps drinks cold for more than 14 hours in summer heat.\n\nIt holds more than the BlueDorado and adds a 2-in-1 lid with a pop-up spout and a removable straw. Against the HydraPak, it gives up squeezability for much stronger insulation.\n\nIt is the right pick for riders who want ice water at hour four. The inert liner means no metallic taste, even with electrolyte mixes.",
     "specs": [
       "24 oz triple-layer vacuum insulated",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41mUAMIzB7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DRWCM15W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DRWCM15W?tag=rvgearlab-amz-20",
     "description": "The HydraPak Polar Surge is a 20 oz bottle with tri-layer insulation: an outer reflective heat shield and layers of insulating foam. The Surge Cap is high-flow and self-sealing.\n\nUnlike the MYFOREST, the walls squeeze, so you can push water into your mouth mid-climb. It gives up some cold-holding time to the steel bottles and fits cages made for squeeze bottles.\n\nIt suits riders who want some insulation without leaving the squeeze-and-drink habit. The two-piece cap pulls apart for easy cleaning.",
     "specs": [
       "20 oz tri-layer insulation",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51etgduKJSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08BYHP92X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08BYHP92X?tag=rvgearlab-amz-20",
     "description": "The BlueDorado is an 18 oz double-wall 18/8 stainless bottle, rated on the listing to keep drinks cold for up to 24 hours and hot for up to 12. A one-push lid opens with one hand and the body does not sweat.\n\nIt holds less than the MYFOREST yet lists a longer cold-hold figure. Against the HydraPak, it delivers steel durability instead of squeezability.\n\nIt works for riders who also use the bottle as a daily commute mug. The anti-skid base and hangable design add some flexibility off the bike.",
     "specs": [
       "18 oz double-wall steel",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31cGWpYyqtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CKS58J4P?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CKS58J4P?tag=rvgearlab-amz-20",
     "description": "The CamelBak Podium 24 oz is a squeeze bottle with a high-flow, self-sealing cap and a shape made to stay in most bike cages. It disassembles for cleaning and is dishwasher safe.\n\nIt holds more than the HydraPak, and costs far less than any insulated bottle here. It has no stated insulation, so it pairs well with ice and a quick refill.\n\nIt is for riders who pour in ice at the start and want a bottle they can squeeze hard on climbs. The shape stays put over rough ground.",
     "specs": [
       "24 oz easy-squeeze body",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31aBlMf6k0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CW6KD15C?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CW6KD15C?tag=rvgearlab-amz-20",
     "description": "The ZEFAL Magnum holds 975 ml (33 oz) and weighs just 85g. It is made from odorless polypropylene with a soft cap and a food-grade silicone nozzle, in a standard 76mm diameter.\n\nIt carries about 9 oz more than the Podium, the next largest. It is also the cheapest here and light at 85g, which makes it the pick when fewer stops matter more than insulation.\n\nIt is best for long summer rides and gravel routes with few refill points. Made in France, it fits most standard cages.",
     "specs": [
       "975 ml (33 oz) capacity",

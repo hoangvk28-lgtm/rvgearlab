@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/516za-8J+SL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GY8G2WBK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GY8G2WBK?tag=rvgearlab-amz-20",
     "description": "This tailgate canopy lists the CX-5 2017 to 2025 and measures 156 by 72 inches. It uses 210D Oxford ripstop with a PU2000 coating, taped seams and UPF 50+ protection, and the kit has two 6 ft aluminum poles, four hardened steel stakes, four reflective guylines and tailgate hooks.\n\nIt is the only listing that spells out the whole kit, and its price is the lowest of the five. Against the Car Awning it adds taped seams and a rating, and against the custom tents it costs far less.\n\nIt suits trailhead, beach and tailgate use, with a solo setup in under 3 minutes as the listing states. Buyers get shade and rain cover without a full tent.",
     "specs": [
       "CX-5 2017 to 2025",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/417rNCul0-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HHHRRPQ8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HHHRRPQ8?tag=rvgearlab-amz-20",
     "description": "The Uparveko lists custom fit for the Mazda CX-3, CX-5 and CX-9 and connects to the rear hatch for a seamless extension. It uses 210D Oxford with a water-resistant coating and a stable pole structure with guy lines and stakes.\n\nIt is the only pick that covers three Mazda models and describes the pole, guyline and stake arrangement. It costs less than the MWKHZIL and RQIGHNC tents.\n\nIt suits Mazda owners with a CX-3, CX-5 or CX-9 who want a custom-fitted shelter. Fishing trips, road travel and weekend getaways are the uses named.",
     "specs": [
       "Fits CX-3, CX-5 and CX-9",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/519GWnpj9JL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HHMPRWJZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HHMPRWJZ?tag=rvgearlab-amz-20",
     "description": "The MWKHZIL lists the CX-5 from 2025 to the present, the newest range of the group. The fabric is Oxford with a waterproof treatment, and the tent wraps the open rear hatch with large openings and a foldable build.\n\nIt is the only pick that targets the newest CX-5, and it is described with a waterproof coating where the Uparveko and RQIGHNC say water-resistant or Oxford. Its price sits between the Uparveko and RQIGHNC.\n\nIt suits owners of a 2025 or newer CX-5. Large openings help with entry and airflow.",
     "specs": [
       "CX-5 2025 to present",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41KAC3DJRuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HDRMYFN7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HDRMYFN7?tag=rvgearlab-amz-20",
     "description": "The RQIGHNC lists the CX-5 from 2012 onward, the widest span of the five. It uses Oxford fabric, packs into a compact carry bag and creates extra room for relaxing and changing clothes.\n\nIts 2012 start covers early CX-5 models that no other listing names. It is the most expensive of the five.\n\nIt suits owners of earlier CX-5 builds who want a closed tent in a compact bag. Day trips, beach stops and picnics fit its use.",
     "specs": [
       "CX-5 2012 onward",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ZM59kE06L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HC3861TK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HC3861TK?tag=rvgearlab-amz-20",
     "description": "This car awning lists the CX-5 2013 to 2025 and uses high-density Oxford with reinforced seams. It attaches to the roof rack or wheels with support poles and sturdy wind ropes, and creates a relaxing zone beside the car.\n\nUnlike the hatch tents, it uses the roof rack and wheels for anchoring. It is the second-cheapest pick in the group.\n\nIt suits owners who want shade next to the car rather than a hatch sleeve. Poles and wind ropes come with the listing.",
     "specs": [
       "CX-5 2013 to 2025",

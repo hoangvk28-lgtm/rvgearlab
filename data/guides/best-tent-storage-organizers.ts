@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hCMpq1ZoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09ZD2FM87?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09ZD2FM87?tag=rvgearlab-amz-20",
     "description": "The CAMPYRE is a 9-shelf tent organizer with a zippered flap, thickened boards in each shelf and a listed capacity of up to 30 lb. Built-in ground straps let you stake it down, and the listing describes it as a camping dresser for clothes, shoes, glasses and phones.\n\nAgainst the equlup, which also has nine shelves, it adds a zippered flap that keeps contents covered. Compared with the hanging AYAMAYA, it stands on its own, so it works in a tent with nothing to hang from.\n\nIt suits families and couples who want a dresser-style stack in the sleeping area. A zippered cover keeps shoes out of sight at the tent door.",
     "specs": [
       "9 shelves, zippered flap",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41EG8TJ7CeL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DSBCSJ2S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DSBCSJ2S?tag=rvgearlab-amz-20",
     "description": "The equlup is a tent-shaped nine-layer organizer made from 210D Oxford cloth with glass fiber rods and a double grey board support. It folds flat, and the listing positions it for shoes, clothes and camp odds and ends.\n\nIt sits below the CAMPYRE in price, trading the zipper flap for a tent-shaped frame with a stable structure. Against the AYAMAYA it provides standing shelves instead of pockets.\n\nIt suits shoppers who want a nine-shelf cabinet at a lower cost. A weekend tent camper who stores shoes and clothes together will find it enough.",
     "specs": [
       "9 layers, 210D Oxford",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/417N6vl29fL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09NC65B38?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09NC65B38?tag=rvgearlab-amz-20",
     "description": "The GIANTEX is a folding cabinet with three inner shelves and a wide top, built on a powder-coated steel frame with a MDF tabletop and Oxford cloth sides. It folds into a carry bag and opens in under a minute.\n\nIt is a different kind of organizer from the fabric shelves, providing a hard tabletop for a stove or drinks. Compared with the CAMPYRE, it fits kitchen and picnic gear better and suits an outdoor setup more than a sleeping area.\n\nIt suits car campers who want a portable kitchen cupboard that doubles as a table. The steel frame supports heavier cookware than fabric shelves.",
     "specs": [
       "3 shelves, steel frame",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51opNSP63TL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C9T4Q8MM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C9T4Q8MM?tag=rvgearlab-amz-20",
     "description": "The AYAMAYA is a one-piece 600D Oxford hanging organizer with net pockets, cup holders, hooks and a paper towel holder. It measures 40 by 15.7 inches when expanded, and its metal hooks are listed for up to 150 lb.\n\nTwo straps let you hang it from a car, a tree or a tent frame, and zippers on both sides let you join several units. Compared with the shelf stands it saves floor space, and against the Ayaport it adds ready-made pockets.\n\nIt suits campers who want pockets for small items at eye level. A tent with a ceiling loop or a screen house suits it best.",
     "specs": [
       "600D Oxford, net pockets",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41aT4Z-VCoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DT3X133H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DT3X133H?tag=rvgearlab-amz-20",
     "description": "The Ayaport is a camp strap with double metal cam buckles, 20 loops, four carabiner hooks and six stainless steel S hooks. The combined strap runs 25 feet, spanning roughly 20 feet depending on trunk size.\n\nIt is the lowest priced option here and works as an open rack for lanterns, cookware and wet clothes. Compared with the AYAMAYA, it has no pockets, while it can hang from a tree, pole or shelter frame.\n\nIt suits campers who set up a canopy or camp near trees and want a flexible hanging line. The storage bag keeps all the hooks together.",
     "specs": [
       "25 ft strap, 20 loops",

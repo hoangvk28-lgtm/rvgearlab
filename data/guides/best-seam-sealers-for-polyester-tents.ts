@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31p7M7CqBRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DM6X1Q37?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DM6X1Q37?tag=rvgearlab-amz-20",
     "description": "The Iosso is a 4 fl oz bottle with a precision applicator that the listing says covers about 50 feet of stitched seam. It names cotton, cotton blends, polyester and synthetic woven fabrics, and carries a UV inhibitor plus a PFAS-free formulation.\n\nCompared with the 1DFAUL and INNOVAYOU, it is the only one that sells on seam coverage in feet and on a clear-drying finish that keeps the fabric texture. It is also the only one of the three to name UV protection for sun-exposed seams.\n\nIt suits campers who maintain a polyester tent, awning or tarp each season and want even coverage along long seams. The listing also covers canvas awnings and boat covers, so one bottle serves several pieces of gear.",
     "specs": [
       "4 fl oz, about 50 ft of seam",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41uX+cxQ56L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FNVZNLWG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FNVZNLWG?tag=rvgearlab-amz-20",
     "description": "The 1DFAUL is a 120 ml sealer sold with patches and brushes. The listing says it bonds nylon, polyester, canvas and leather, dries transparent and forms a tough, flexible layer after curing.\n\nAgainst the Iosso it adds the patch-and-brush kit for small holes, while the INNOVAYOU focuses on a needle-tip tube. The listing tells you to apply the sealer to the inside and outside seams and press to adhere, with included patches for larger holes.\n\nIt fits campers who want a single tube for seams plus a pinhole or small-tear fix. A packed brush and patches mean the kit lives in a repair bag without shopping for extras.",
     "specs": [
       "120 ml with patches and brushes",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/417bSa9DXOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F212FZ1W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F212FZ1W?tag=rvgearlab-amz-20",
     "description": "The INNOVAYOU comes in a clear gel tube with a precision open-needle tip meant for pinpoint application. It lists cotton, flannel, denim, leather, polyester and nylon, and says to clamp the repair and wait 24 hours to cure.\n\nNext to the 1DFAUL it trades the patch kit for a tip that places adhesive on a specific stitch line or hole. Compared with the Iosso, it positions itself as a no-sew repair gel rather than a broad seam treatment for long runs.\n\nIt suits spot repairs such as a single leaking seam corner or a small split along a stitch line. The 24 hour cure also means plan the repair for an evening before a trip.",
     "specs": [
       "120 ml gel, needle-tip tube",

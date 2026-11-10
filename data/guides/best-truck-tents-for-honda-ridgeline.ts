@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/61xq3yvtkjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GCZZ9BFY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GCZZ9BFY?tag=rvgearlab-amz-20",
     "description": "The KJTYSDM is titled for the Honda Ridgeline RTL-E and offers a PU2000mm coating, reinforced poles and ventilation panels. Its M size is 200 plus 55 by 170 by 170 cm and the listing says it suits 2 to 4 adults, with inner storage pockets.\n\nIt is the only pick that names the Ridgeline, which the Umbrauto and JOYTUTUS tents do not. It also carries the longest dimensions listed here.\n\nIt suits Ridgeline owners who want the tent titled for their truck. Room for gear and extra sleepers comes with it.",
     "specs": [
       "Titled for Ridgeline RTL-E",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51raEhf7iIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GF7WFSTY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GF7WFSTY?tag=rvgearlab-amz-20",
     "description": "The Umbrauto is made for 5.0 to 5.2 foot beds, with a 64 inch length and a PU3000mm coating on 210T polyester. It has color-coded poles, a full-size door, two side mesh windows, a roof vent and an awning.\n\nIt lists a higher PU rating than the KJTYSDM at roughly half the price. Against the JOYTUTUS inflatable it trades setup speed for a much lower cost.\n\nIt suits short-bed pickup owners who want a standard pole tent with an awning. It sleeps 2 to 3.",
     "specs": [
       "PU3000mm, 210T polyester",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51H6yRizNVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DKMQF2P5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DKMQF2P5?tag=rvgearlab-amz-20",
     "description": "The JOYTUTUS has a straight aisle design that the maker says gives 30 percent more space than regular truck tents, with a 56 by 60 inch footprint for 5.0 to 5.2 foot beds. It adds a mesh sky roof, four-sided mesh windows and a PU2000mm double layer with rainfly.\n\nIt is the lowest-priced listing of the four and offers the widest entry. Next to the Umbrauto it gives more open floor access.\n\nIt suits budget campers who want easier getting in and out of the bed. Two inner mesh bags hold small items.",
     "specs": [
       "Straight aisle design",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51yGhJv3pYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G6KVQB1C?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G6KVQB1C?tag=rvgearlab-amz-20",
     "description": "The JOYTUTUS inflatable is a 5.0 to 5.2 foot bed tent with an air frame that inflates in 30 seconds by hand pump. It also works on the ground, has a roof shade and uses 210D oxford with 1200PU and taped seams.\n\nIt sets up faster than any pole tent here and can leave the truck behind. The Umbrauto and JOYTUTUS pole tents are the cheaper route if speed matters less.\n\nIt suits campers who set up late or who want a tent for both the bed and the ground. The roof shade guards the gap above the cab.",
     "specs": [
       "30-second inflatable frame",

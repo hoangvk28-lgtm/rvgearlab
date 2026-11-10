@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41NTgrb8iFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B082HD5JDH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B082HD5JDH?tag=rvgearlab-amz-20",
     "description": "Consciot is a battery-powered LED lantern with up to 1000 lumens of 360 degree light and four lighting modes. It dims, switches between cool white and warm white and runs on 3 D-cell batteries.\n\nThe warm white mode is easier on the eyes than the cool-only Lichamp, and the D cells last longer than AAAs. A translucent reflector cover spreads the light evenly.\n\nCampers who want classic, dimmable table light will like it. Set it in the middle of the table and everyone can see.",
     "specs": [
       "Up to 1000 lumens",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31QDLrhz+IL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DRR3GGY6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DRR3GGY6?tag=rvgearlab-amz-20",
     "description": "SAMUUN is a rechargeable LED lantern with a 5000mAh battery, a 1W solar panel and a battery indicator with four levels. It has five light modes, including four colors and a red light, and an IP65 rating.\n\nIt offers the most listed brightness and the most charging options of the group, with both USB and solar. The IP65 rating handles rain better than the plain battery lanterns.\n\nCampers who want a rechargeable, weather-resistant lantern will like the flexibility. The red mode keeps your night vision during late walks.",
     "specs": [
       "5000mAh, 2000 lumens listed",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31RwcpGDvBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CBV87CYX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CBV87CYX?tag=rvgearlab-amz-20",
     "description": "Blukar uses 116 LED beads with seven lighting modes, including high and low side light and bottom light. A 90 degree adjustable body works as a folded lantern or a flood light.\n\nThe seven modes give more control than the Consciot, and it is rechargeable. It costs less than the SAMUUN.\n\nCampers who want a flexible work and tent light will like the options. The side light mode helps with cooking at night.",
     "specs": [
       "116 LED beads",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51L3CGPQubL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0915B6X66?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0915B6X66?tag=rvgearlab-amz-20",
     "description": "XTAUTO is a collapsible solar and USB rechargeable lantern with 6+1 high-intensity LED chips and 360 degree light. It collapses to about the size of a phone and has a folding handle.\n\nIt is smaller than any other lantern here. The ABS body is waterproof and heat resistant.\n\nBackpackers and light packers will like how little space it takes. It slips into a hip-belt pocket without notice.",
     "specs": [
       "6+1 LED chips",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41KJVykpd3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08WWX5GTZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08WWX5GTZ?tag=rvgearlab-amz-20",
     "description": "Lichamp includes four battery-powered collapsible lanterns, each with 30 LEDs and 360 degree lighting covering about 97 square feet. They are made of military-grade water-resistant plastic with fold-away handles.\n\nFour lanterns outfit a whole camp for less than a single rechargeable. They store flat when collapsed.\n\nFamilies and groups who want light at every tent will like the pack. Hand one to each kid and the tents are covered.",
     "specs": [
       "4 collapsible lanterns",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41fuhgVhgoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GGWHJ8XJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GGWHJ8XJ?tag=rvgearlab-amz-20",
     "description": "MalloMe is a pocket-sized lantern with COB LED technology producing up to 300 lumens in a 360 degree glow. It turns on by pulling up and off by pushing down, with no buttons.\n\nSimple operation makes it the easiest to use in the dark, and it is the cheapest lantern here. It collapses for storage.\n\nKids and casual campers will like the one-motion switch. Hang it from a tent loop and forget it.",
     "specs": [
       "Up to 300 lumens COB LED",

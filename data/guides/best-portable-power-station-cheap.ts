@@ -21,7 +21,7 @@ export const products = withAmazonUrls([
     badge: "Best overall",
     name: "DARAN Portable Power Station 89.6Wh LiFePO4 Battery 100W(200W Peak) Solar Power Bank, Portable Charger Sm",
     amazonQuery: "DARAN Portable Power Station 89.6Wh LiFePO4 Battery 100W(200W Peak) Solar Power Bank, Portable Charger Sm",
-    amazonUrl: "https://www.amazon.com/dp/B0CQT5G1ZR?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0CQT5G1ZR?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/51RqhJSR3sL._SL500_.jpg",
     specs: ["Capacity: 89.6Wh","Continuous output: 100W","Surge output: 200W","Listed weight: 2.54 lb"],
     specList: [{"label":"Capacity","value":"89.6Wh"},{"label":"Continuous output","value":"100W"},{"label":"Surge output","value":"200W"},{"label":"Listed weight","value":"2.54 lb"}],
@@ -36,7 +36,7 @@ export const products = withAmazonUrls([
     badge: "Best heavy-duty option",
     name: "220W Power Inverter Compatible",
     amazonQuery: "220W Power Inverter Compatible",
-    amazonUrl: "https://www.amazon.com/dp/B0DS3V7L7F?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0DS3V7L7F?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/510avOxQ1NL._SL500_.jpg",
     specs: ["Continuous output: 220W","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Continuous output","value":"220W"},{"label":"Buyer check","value":"Verify current model compatibility"},{"label":"Buyer check","value":"Verify current model compatibility"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -51,7 +51,7 @@ export const products = withAmazonUrls([
     badge: "Best compact option",
     name: "MARBERO Portable Power Station",
     amazonQuery: "MARBERO Portable Power Station",
-    amazonUrl: "https://www.amazon.com/dp/B0DYV2GH2S?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0DYV2GH2S?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41wZl-HiHhL._SL500_.jpg",
     specs: ["Capacity: 88.8Wh","Continuous output: 100W","Surge output: 150W","Listed weight: 2.27 lb"],
     specList: [{"label":"Capacity","value":"88.8Wh"},{"label":"Continuous output","value":"100W"},{"label":"Surge output","value":"150W"},{"label":"Listed weight","value":"2.27 lb"}],
@@ -66,7 +66,7 @@ export const products = withAmazonUrls([
     badge: "Best value pick",
     name: "220W Azocek Power Inverter Compatible",
     amazonQuery: "220W Azocek Power Inverter Compatible",
-    amazonUrl: "https://www.amazon.com/dp/B0DHGX4Y9F?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0DHGX4Y9F?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41mPwJoNtWL._SL500_.jpg",
     specs: ["Continuous output: 220W","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Continuous output","value":"220W"},{"label":"Buyer check","value":"Verify current model compatibility"},{"label":"Buyer check","value":"Verify current model compatibility"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -81,7 +81,7 @@ export const products = withAmazonUrls([
     badge: "Best backup pick",
     name: "200W Portable Power Inverter",
     amazonQuery: "200W Portable Power Inverter",
-    amazonUrl: "https://www.amazon.com/dp/B0FJ8N4QRX?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0FJ8N4QRX?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/51YCT4SW-5L._SL500_.jpg",
     specs: ["Continuous output: 200W","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Continuous output","value":"200W"},{"label":"Buyer check","value":"Verify current model compatibility"},{"label":"Buyer check","value":"Verify current model compatibility"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -171,7 +171,7 @@ export const relatedGuides = [
 export const sources = [
   {
     "title": "DARAN Portable Power Station 89.6Wh LiFePO4 Battery 100W(200W Peak) Solar Power Bank, Portable Charger Sm product page",
-    "href": "https://www.amazon.com/dp/B0CQT5G1ZR?tag=rvgearlab-20&linkCode=osi&th=1&psc=1"
+    "href": "https://www.amazon.com/dp/B0CQT5G1ZR?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1"
   },
   {
     "title": "CPSC carbon monoxide safety center",

@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41KfEUriqML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00O46ZO02?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00O46ZO02?tag=rvgearlab-amz-20",
     "description": "The CURT 17500 TruTrack 4P is a 10K weight distribution hitch with integrated sway control, and the listing names four points of sway control that work together to keep the trailer aligned. It uses a spring and cam system with hardened components instead of friction alone, on a welded head with cast pieces and trunnion-style forged steel spring bars.\n\nIt costs the most here, and the extra pays for the four-point layout and fixed brackets, which the CURT TruTrack 2P replaces with a two-point friction design. Against the CURT 17063 Round Bar, it moves sway resistance out of a bolt-on kit and into the hitch itself.\n\nBest for owners who tow heavy and want the most built-in sway resistance this list offers. The listing gives a 10K class, so confirm tongue weight before ordering.",
     "specs": [
       "Four points of sway control",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ViCsDyHLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09MR9WS8F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09MR9WS8F?tag=rvgearlab-amz-20",
     "description": "The CURT 17601 TruTrack 2P is a 10K weight distribution hitch with integrated sway control that uses two points of friction. The listing says its brackets resist lateral movement through friction and it has a head tilt adjustment that simplifies setup and eliminates washers.\n\nIt undercuts the CURT TruTrack 4P by a wide margin but gives up the four-point spring and cam layout, so it relies on friction at two points. Against the CURT 17063 Round Bar it sits between a bolt-on kit and a fully integrated system.\n\nGood for a mid-weight trailer when you want built-in sway control without the top price. Stay with the 4P if you tow near the 10K ceiling in windy country.",
     "specs": [
       "Two points of friction sway control",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41MjOXXzYwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00NB1J0ZQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00NB1J0ZQ?tag=rvgearlab-amz-20",
     "description": "The CURT 17063 lists 10,000 to 14,000 lb GTW and 1,000 to 1,400 lb TW, with ranges depending on the head configuration. It includes a sway control kit, grease zerk fittings, an adjustable 2 inch shank that can flip for drop or rise, and a pre-torqued 2-5/16 inch ball.\n\nCompared with the CURT TruTrack 2P, it offers the widest stated ratings in the list at a lower price, but its sway control kit is a bolt-on rather than part of the head. Compared with Fastway Connect, it names a sway kit outright.\n\nBest for owners of larger or mixed-use trailers who want clear rating ranges and an included sway kit. Plan to grease the zerks regularly.",
     "specs": [
       "10,000 to 14,000 lb GTW",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31URi7WhldL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B61YZP43?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B61YZP43?tag=rvgearlab-amz-20",
     "description": "The Fastway Connect lists 1,000 lb maximum tongue weight and 10,000 lb maximum trailer weight, and says it installs on RV, cargo, utility, horse and ATV trailers with no frame drilling. Hardened steel chains connect the arms to the trailer frame hooks, and adjusting means moving a chain link.\n\nIt is the lowest-priced full hitch here and the most universal in fit, unlike the CURT TruTrack 4P, which is aimed at integrated sway control. The tradeoff is that the listing describes improved towing stability without naming any sway control device.\n\nChoose it if you tow more than one kind of trailer and need weight distribution that installs without drilling. If sway is your main problem, plan to add a separate sway kit.",
     "specs": [
       "1,000 lb max tongue weight",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31awcQVVFYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B003AT6EYO?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B003AT6EYO?tag=rvgearlab-amz-20",
     "description": "The CURT 45820 sway tab ball mount provides a mounting tab for a sway control trailer ball and fits 2 inch by 2 inch receivers. It has a 1 inch hole to accept a trailer ball shank and offers 3/4 inch rise or 2 inch drop.\n\nThis is a part, not a hitch, and it costs far less than the CURT 17063 Round Bar. It exists to give a separate sway control unit a place to attach, and it does not distribute weight.\n\nBest for a simple setup where you already own a sway control unit and need a tab mount. It is the wrong choice if you want a system that includes sway control.",
     "specs": [
       "Fits 2\" x 2\" receivers",

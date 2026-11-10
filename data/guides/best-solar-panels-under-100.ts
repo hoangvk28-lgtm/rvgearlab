@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41XE6ylIRuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DSHPWMH2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DSHPWMH2?tag=rvgearlab-amz-20",
     "description": "This set ships two 100W N-type panels with 18BB cells at up to 25 percent efficiency, wired for 12V or 24V systems. The aluminum frames carry pre-drilled holes and the glass is impact-resistant tempered glass, so the pair gives 200W for about $90.\n\nIt is the only pick that doubles the output of the others for the same money. The DOKIO folds and has a controller, while this pair is fixed to a roof or frame and needs a controller of your own.\n\nChoose it for a van, a trailer roof or a shed where you want 200W of rigid solar at the lowest cost. Wire the two in parallel for 12V.",
     "specs": [
       "Two 100W N-type panels, 18BB",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51SyNN01llL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07WX6L3V6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07WX6L3V6?tag=rvgearlab-amz-20",
     "description": "DOKIO is a 150W foldable kit that folds to 20 by 21 by 1.1 inches and weighs 7.3 lb. It includes a standalone PWM controller that guards against reverse polarity, overcharge and overload, a 9.85 foot cable and USB ports on the controller for phones.\n\nAt about $100 it is the pick that works out of the box on a 12V battery with no extra purchase, and it carries more watts than any portable alternative. The pair of N-type panels beats it on cost per watt, and this one beats them on portability.\n\nChoose it for RV, van and tent trips where the panel moves. The long lead lets you set it in the sun and keep the controller in shade.",
     "specs": [
       "150W foldable, 7.3 lb",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41GQs7zcmlL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H2J3T7TF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H2J3T7TF?tag=rvgearlab-amz-20",
     "description": "CTOLITY is a portable 100W panel rated at 19.8V with an XT60 connector, 23.7 percent monocrystalline cells and ETFE lamination rated for 10 to 70 degrees Celsius. It folds in two and has adjustable kickstands, and it can be joined in series or parallel with a second panel.\n\nAt about $65 it costs less than the DOKIO and gives 50W less, with no controller. It outputs through XT60 only, which many power stations accept and 12V batteries do not.\n\nChoose it to charge a power station and add a second panel later. The kickstands let you tilt it toward the sun.",
     "specs": [
       "19.8V, 100W with XT60",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51wTv8wAaaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G7DNL1KD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G7DNL1KD?tag=rvgearlab-amz-20",
     "description": "Callsun is a 120W bifacial panel with N-type 16BB cells at up to 25 percent efficiency, an IP68 rating and TwinCell circuitry that lets it keep charging when part of it is covered. The dual-side design captures reflected light from the rear, with a maker claim of up to 30 percent more power.\n\nAt about $85 it is the pick for roofs with a vent or an antenna that casts shade, and it is smaller than a typical 100W panel for the same space. The 2x100W pair gives more watts, and this panel gives better shade tolerance.\n\nChoose it for an RV roof or boat with obstacles and limited space. A reinforced anodized aluminum frame keeps it stiff on a roof.",
     "specs": [
       "120W bifacial, N-type 16BB",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31V1k93DfnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DD4BNTG4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DD4BNTG4?tag=rvgearlab-amz-20",
     "description": "STAR is a 100W frameless panel with 25 percent cells, listed as a 24V panel and certified to ETL, ISO9001 and CE standards. The frameless edge stops dust and standing water, and the maker claims 15 percent more output from a clean surface.\n\nAt about $60 it is the cheapest panel in the guide and the one that needs the least cleaning. It is a 24V panel, so it needs an MPPT controller for a 12V battery, which the DOKIO's PWM controller does not do well.\n\nChoose it for a roof where you rarely climb up to clean. Snow slides off faster without a frame.",
     "specs": [
       "100W frameless, 25% cells",

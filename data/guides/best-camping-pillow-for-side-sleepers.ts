@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hr53kYKvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DQVVZM3N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DQVVZM3N?tag=rvgearlab-amz-20",
     "description": "The Therm-a-Rest Compressible Cinch is a large 16 by 23 inch pillow filled with upcycled urethane foam and topped with a stretch-knit cover. An integrated cinch cord lets you adjust loft and firmness.\n\nAgainst the IWVE pillow, it is bigger and tunable, so a side sleeper can tighten or loosen it for the shoulder gap. Next to the Aluft Ultra, it offers foam stability without a bladder.\n\nIt fits side sleepers who want a pillow that feels like home on a car camping trip. It also packs down by cinching.",
     "specs": [
       "16 x 23 inch large size",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Fe3-9IUPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H2DSG571?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H2DSG571?tag=rvgearlab-amz-20",
     "description": "The IWVE pillow is built from high-density memory foam about 4 inches (10 cm) thick, made to fill the neck and shoulder gap. It weighs about 400 g and packs to about 25 by 12.5 by 12.5 cm in its sack.\n\nCompared with the Therm-a-Rest Cinch, it is simpler and lighter on the wallet. Against the Gehannah pillows, it is thicker for a deeper side-sleeping profile.\n\nIt suits side sleepers who hike short distances and want a dense, thick pillow. The removable cover has a dual-season design.",
     "specs": [
       "About 4 inch thick foam",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41uucRZ2snL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CDGCKKJQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CDGCKKJQ?tag=rvgearlab-amz-20",
     "description": "The Aluft Ultra inflatable is large at 24 by 15 by 4.5 inches and weighs 9.4 oz. A removable cover and detachable strap keep it in place, and the ergonomic shape cradles the neck.\n\nAgainst the foam picks, it gives a taller, wider surface at a fraction of the weight. Compared with the Therm-a-Rest Cinch, it packs smaller and trades foam stability for low weight.\n\nIt is the one for side sleepers who want a big pillow on a backpacking budget. The strap holds it to the pad.",
     "specs": [
       "24 x 15 x 4.5 inch size",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41dOhvtKJfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D1BZWHZL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D1BZWHZL?tag=rvgearlab-amz-20",
     "description": "Gehannah sells two compressible shredded memory foam pillows with two storage bags in one pack. The foam is CertiPUR-US certified, and each cover is machine washable and cooling.\n\nAgainst the IWVE, it gives you two pillows rather than one thicker pillow. Compared with the Weekender, it is a larger, bundle-priced option.\n\nIt suits two side sleepers sharing a tent or a couple on a road trip. Each pillow compresses into its own bag.",
     "specs": [
       "Two shredded foam pillows",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31rOQLe+EjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CWNDPK4P?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CWNDPK4P?tag=rvgearlab-amz-20",
     "description": "The WEEKENDER pillow is travel-size memory foam with a cooling gel layer and ventilation. It is medium-firm, comes with a carry bag and has a machine-washable zippered cover.\n\nNext to the Vekkia, it adds cooling gel and a 3-year limited warranty. Against the IWVE, it is a shorter pillow aimed at side and back sleepers who run hot.\n\nIt is a smart match for warm-weather side sleepers who want a firmer feel. It also fits in a car or on a plane.",
     "specs": [
       "Cooling gel memory foam",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41K1eRuc0ZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DWMKWBMM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DWMKWBMM?tag=rvgearlab-amz-20",
     "description": "The Vekkia pillow combines memory foam and high-density foam, and it rolls up for packing. The included pillowcase is machine washable, and the listing calls it a side sleeper pillow.\n\nCompared with the WEEKENDER, it costs less and drops the cooling gel. Against the Gehannah, it is a single small pillow that rolls instead of compressing into a bag.\n\nIt works for side sleepers on a tight budget who need something simple. It is also light enough to share with kids.",
     "specs": [
       "Memory foam plus high-density foam",

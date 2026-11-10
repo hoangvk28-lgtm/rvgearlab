@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51cs60X1ZjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B099KSY4XG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B099KSY4XG?tag=rvgearlab-amz-20",
     "description": "The Westinghouse iGen5000DFc lists 5,000 peak and 3,900 running watts on gasoline and 4,500 and 3,500 on propane. Its panel has an RV-ready TT-30R 30A outlet, a 5-20R duplex and two USB ports, and the listing claims up to 18 hours at 25 percent load on a 3.4 gallon tank, with noise as low as 52 dBA. A key fob, battery and charger come in the box.\n\nIt ranks first because 25 percent of 3,900 watts is about 975 watts, which is close to our 900 watt average household profile, so the 18 hour claim lines up with a real outage day: roughly 1.3 tanks, or about 4.5 gallons, per 24 hours by simple arithmetic. Against the Generac iQ5200 DF it costs $250 less at $999 and runs 3 hours longer on a comparable load claim, though it has a lower starting rating (5,000 against 5,200). Against the WEN DF680iX it costs $201 more but publishes a 52 dBA figure and an 18 hour runtime that the WEN page leaves out.\n\nPick it if your outage plan is the refrigerator, furnace fan, lights, a sump pump and device charging on extension cords. The caveat is that there is no 240V outlet on the unit itself, so a well pump or panel feed needs the separate parallel kit mentioned in the listing.",
     "specs": [
       "3,900W gas, 3,500W propane",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/413AI-l4XIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DVF1RPCJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DVF1RPCJ?tag=rvgearlab-amz-20",
     "description": "The WEN DF680iX lists 6,800 surge and 5,100 rated watts on gasoline and 6,000 and 4,500 on propane from a 224 cc engine. It has one L14-30R 120V/240V receptacle, two three-prong 120V receptacles, a TT-30R RV outlet, a 12V DC outlet and two USB ports, plus a voltage selector and a bonded-neutral 240V configuration. It carries a CO Watchdog shutdown, fuel shut-off and a three-year warranty.\n\nIt ranks second because it is the cheapest way here to get a 240V outlet at $798, which is $201 less than the Westinghouse iGen5000DFc and about $122.10 more than the AIVOLT 4300. In exchange for the 240V receptacle and 5,100 running watts you accept a noise figure the listing does not publish and no stated runtime, so you cannot do the refuel arithmetic from the page alone.\n\nChoose it if a 240V loads such as a well pump is on your list and you want to run it from one cord. The caveat is that the feature text gives no tank size or hours, so check the manual before planning a night without refueling.",
     "specs": [
       "5,100W gas, 4,500W propane",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41TVHdt3N1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DT7NDZ6B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DT7NDZ6B?tag=rvgearlab-amz-20",
     "description": "The Generac iQ5200 DF is CARB and EPA certified for all 50 states and gives 3,900 running and 5,200 starting watts on gasoline or propane. Its 3.2 gallon tank is claimed to run up to 9 hours at 50 percent load or 15 hours at 25 percent in Economy Mode, and the listing says it handles the starting surge of a 13,500 BTU RV air conditioner on gas. Panel outlets include an L5-30R 30A and two 20A GFCI receptacles, and an optional parallel kit raises it to 7,800 combined running watts.\n\nIt ranks third because it costs $250 more than the Westinghouse iGen5000DFc for 200 more starting watts and 3 fewer claimed hours at 25 percent load (15 against 18). The reasons to pay it are California-legal certification and the explicit air conditioner starting claim, and it is $573.10 above the AIVOLT 4300. By our arithmetic it needs about 1.6 tanks, or roughly 5.1 gallons, to cover a 24 hour day at 975 watts.\n\nChoose it if you live in California or another CARB state, or you want a stated margin for starting a window or RV style air conditioner. The caveat is the price premium over comparable 3,900 watt units.",
     "specs": [
       "3,900W running, 5,200W start",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51I4QodNEZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DQY3MBLJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DQY3MBLJ?tag=rvgearlab-amz-20",
     "description": "The AIVOLT 4300 lists 4,300 surge watts without a separate running figure, weighs 64 lb with built-in wheels and a telescoping handle, and has a dedicated 30A outlet plus remote key fob start. It claims 11.5 hours on gasoline and 34 hours on propane at 25 percent load, noise of 53 dBA, UL2201 and EPA certification, and a 2-year warranty. A parallel kit is sold separately.\n\nIt ranks fourth because it is the cheapest unit here at $675.90, $122.10 below the WEN DF680iX, and the lightest, yet the listing does not give running watts, so you cannot size a 900 watt average with a stated margin. Its 34 hour propane claim is longer than any other propane figure in this group, which is the real argument for it: one propane cylinder can bridge a day without a gas run.\n\nChoose it if your outage plan is a refrigerator, lights and electronics and you want to move it easily. The caveat is the missing running watt figure, and its 11.5 hours on gasoline is the shortest of the group.",
     "specs": [
       "4,300W surge, 64 lb",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41GgzJACkBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DH6QTSH4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DH6QTSH4?tag=rvgearlab-amz-20",
     "description": "The Pulsar GD10KBN is a 10,500 watt dual fuel inverter generator with a wheel kit, electric start and an outlet the listing calls RV Ready 15-50R. The listing says it can run lights, appliances and even central air conditioning systems, shows a digital multimeter with voltage, frequency and hours, and lists overload and short-circuit protection. It does not publish running watts, tank size, runtime or noise.\n\nIt ranks fifth because the missing running watts and runtime make a 24 hour plan impossible to calculate from the page, though at $999 it costs the same as the Westinghouse iGen5000DFc and is $900 below the Westinghouse iGen12000DFc. That is the whole case for it: a large nameplate size at a mid price. Against the iGen12000DFc you give up published fuel, runtime and noise numbers.\n\nChoose it if you want a big unit to feed a 50A inlet and you accept that you must confirm running watts and tank size in the manual. The caveat is the missing specs, and you should treat the 10,500 as a peak figure.",
     "specs": [
       "10,500W peak, dual fuel",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41GpGdbkvrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CQMZZ47V?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CQMZZ47V?tag=rvgearlab-amz-20",
     "description": "The Westinghouse iGen12000DFc lists 12,000 peak and 9,000 running watts on gasoline and 11,000 and 8,100 on propane, a 457 cc engine and up to 19 hours at 25 percent load on a 7.9 gallon tank. It has one 120/240V 14-50R 50A outlet and one 120/240V L14-30R 30A twist lock, both transfer switch or interlock ready, plus a GFCI duplex, noise as low as 64 dBA and a parallel-ready design.\n\nIt ranks last for price only: at $1,899 it costs $900 more than the Westinghouse iGen5000DFc. What the money buys is the only unit here with both 50A and 30A 240V outlets and a published 9,000 running watts, plus a 19 hour claim at a 2,250 watt quarter load, which is a heavier load than our 900 watt average. Against the Pulsar it publishes the numbers that unit leaves out.\n\nChoose it if a central air conditioner or electric well pump is part of the outage plan and you will connect through a transfer switch or interlock kit. The caveat is cost and size: for a refrigerator and a fan it is far more than you need.",
     "specs": [
       "9,000W gas, 8,100W propane",

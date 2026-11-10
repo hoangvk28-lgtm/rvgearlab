@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51C6jbiwP6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DFW45TB3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DFW45TB3?tag=rvgearlab-amz-20",
     "description": "The Voltworks 1500W is a pure sine wave inverter that lists 3,100W surge for 2 seconds, an LCD showing input voltage, output voltage and load watts, and a 15 ft RJ10 remote with battery monitoring. It also lists adjustable input voltage for lithium batteries and 8 protections.\n\nAt $149.99 it is $49.89 cheaper than the Sunwheel 4000W. The catch is headroom: a 700W compact microwave fits comfortably, but a 1,200W model with 1,700W input sits near the continuous limit. Pick this if your microwave is 900W or smaller. Caveat: size the battery cables for 125 amps or more.",
     "specs": [
       "1500W pure sine, 3100W surge",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51ErB8SKw6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CJXY9YFK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CJXY9YFK?tag=rvgearlab-amz-20",
     "description": "The Sunwheel 4000W pure sine wave inverter lists 4,000W continuous and 8,000W peak at startup, with efficiency over 90% per the listing. It includes 4 battery cables, 6 fuses and clamps, and has LED indicators for undervoltage, overvoltage, overheating and overload.\n\nAt $199.88 it is $49.89 more than the Voltworks 1500W and it comfortably carries a 1,200W microwave plus a coffee maker. Pick this if you also want to run a toaster or a second appliance. Caveat: at full load 4,000W pulls over 330 amps at 12V, so a 12V bank is a stretch and the listing gives no cable gauge.",
     "specs": [
       "4000W continuous, 8000W peak",

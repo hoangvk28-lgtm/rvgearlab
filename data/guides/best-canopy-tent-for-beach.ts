@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Tc8C8VPTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HBW83B9Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HBW83B9Q?tag=rvgearlab-amz-20",
     "description": "The HRLA beach tent sun shelter measures 11 by 14 feet and uses 22mm thickened aluminum poles. The listing says its rope tension design avoids sandbags that catch wind like a sail, and a sand shovel and ground pegs come with it.\n\nCompared with the Trend Tents, it is bigger and uses rope tension rather than sandbags. Against the easierhike, it covers more ground at the cost of a more involved setup.\n\nIt suits families who want a large, wind-stable shade at the beach. The included shovel helps bury anchors.",
     "specs": [
       "11x14 ft, 22mm aluminum poles",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41HOVxTTn5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09WMJ26XV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09WMJ26XV?tag=rvgearlab-amz-20",
     "description": "The easierhike beach canopy is 10 by 10 feet and 6.6 feet tall with UPF 50+ fabric and a side wall that shades slanting sun. It has a patented grooved pole top with a bungee lock cord, and an anchor strap with a storage pouch for towels and sunglasses.\n\nCompared with the HRLA, it sets up faster and is lighter. Against the Trend Tents, it has an actual sidewall and a pole top lock.\n\nIt suits beach-goers who want a simple canopy with a side wall. One person can set it up by following the manual.",
     "specs": [
       "10x10 ft, 6.6 ft tall, UPF 50+",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/512y1Xwd84L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GRVN5FNV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GRVN5FNV?tag=rvgearlab-amz-20",
     "description": "The Trend Tents 10 by 10 foot beach canopy uses UPF 50+ elastic spandex fabric, four sturdy poles and a 4-corner sandbag anchoring system. It pops up in about 5 minutes for one person.\n\nCompared with the HRLA, it is faster to pitch and uses sandbags. Against the Gorich, it is a larger canopy for groups.\n\nIt suits families who want a pop-up with a four-corner sandbag anchor. The listing says it shades about 9.3 square meters.",
     "specs": [
       "10x10 ft, UPF 50+ spandex",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31R5fmGZUEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B079MFSX6Z?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B079MFSX6Z?tag=rvgearlab-amz-20",
     "description": "The Gorich beach tent measures 86.6 by 59 by 48 inches and fits 3 to 4 people. It has silver-coated fabric, UPF 50+, 3 big mesh windows and a floor that extends 40 inches.\n\nCompared with the 10x10 canopies, it is a closed sun shelter. Against the NORKIRK, it lists dimensions and a silver coating.\n\nIt suits small families who want a pop-up tent for shade from sun and sand. The floor extension gives a sand-free lounging area.",
     "specs": [
       "86.6 x 59 x 48 inch, fits 3-4",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31bpeGzLiiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CCNWT588?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CCNWT588?tag=rvgearlab-amz-20",
     "description": "The Oneofics slant leg pop-up canopy is 10 by 10 feet with a rust-resistant powder-coated steel frame and a 190T Oxford top with a silver interior lining. Push buttons at the 4 legs adjust the height.\n\nCompared with the Trend Tents, it is a classic frame canopy with adjustable height. Against the HRLA, it sets up quickly without rope tension.\n\nIt suits beach-goers who want a standard pop-up. It comes with a carrying bag.",
     "specs": [
       "10x10 ft, steel frame",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Zda6t1XDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GPR6BZ96?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GPR6BZ96?tag=rvgearlab-amz-20",
     "description": "The NORKIRK beach tent is a pop-up sun shelter with UPF 50+ fabric that blocks UVA and UVB rays. It has reinforced fiberglass poles, an aerodynamic shape and a one-person setup in minutes.\n\nCompared with the Gorich, it lists fewer dimensions. Against the Trend Tents, it is smaller and cheaper.\n\nIt suits budget beach-goers who want light shade. It travels well.",
     "specs": [
       "UPF 50+ UV-blocking fabric",

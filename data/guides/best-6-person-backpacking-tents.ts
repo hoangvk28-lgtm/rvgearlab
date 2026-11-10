@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Nuz9EptIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DDSYHYVX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DDSYHYVX?tag=rvgearlab-amz-20",
     "description": "The Amazon Basics dome is a 3-season, six-person freestanding tent that the listing positions for camping, hiking and backpacking. It has welded seams on water-resistant coated polyester, snag-free pole sleeves with shock cord, and a removable rainfly with a back window and a cool-air port.\n\nIt is the only pick that names backpacking in the title, and it costs far less than the Kelty. Compared with the ADSMART it uses flexible poles that pack in a narrower bundle.\n\nIt suits groups that want a simple dome with a trailhead-friendly spec at a low price. Setup takes under six minutes.",
     "specs": [
       "3-season six-person dome",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/315nA8LRgwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GDJ48QGR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GDJ48QGR?tag=rvgearlab-amz-20",
     "description": "The Kelty Wireless is a freestanding six-person tent with two doors, two vestibules and a hybrid pole frame. The 68D polyester fabric and a rainfly treated to 1200mm HH come with Quick Corners and color-coded attachment points.\n\nIt is the best-built tent on the list and costs about four times the Amazon Basics. The vestibules are the feature the cheaper domes cannot match for storing wet packs outside the sleeping area.\n\nIt suits groups who camp often and want a durable shelter with a rain-ready fly. Fly-on or fly-off use gives a choice between weather cover and a view of the stars.",
     "specs": [
       "Freestanding 6-person",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31HbmFQTjSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GJSG9FBB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GJSG9FBB?tag=rvgearlab-amz-20",
     "description": "The ADSMART is an instant six-person tent that weighs 16 pounds with a folded size of 8 x 8 x 42 inches. The pre-attached steel pole frame sets up in 60 seconds, with a 10 by 9 foot floor and 66 inch height.\n\nIt lists an actual weight and folded size, which neither dome here gives, and it costs less than the Kelty by a wide margin. The Amazon Basics dome packs flatter, while this one erects without threading poles.\n\nIt suits groups on short walk-ins who want a fast pitch and a known weight. Three large mesh windows move air through the cabin.",
     "specs": [
       "16 lb, folds 8x8x42 in",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31PIc2XOSmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7QFZNS7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7QFZNS7?tag=rvgearlab-amz-20",
     "description": "The Coleman Sundome has a six-person capacity that fits two queen airbeds and a 6 foot center height. It uses the WeatherTec system with welded corners and inverted seams, and sets up in about ten minutes.\n\nIt offers a full 6 foot center height and a welded-corner floor, at a higher price than the Amazon Basics. The Kelty has vestibules and the ADSMART packs smaller, while this one gives the most stand-up room.\n\nIt suits car-camping groups on a base-camp trip where weight matters little. Large windows and a ground vent help in warm weather.",
     "specs": [
       "Fits two queen airbeds",

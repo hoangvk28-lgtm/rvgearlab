@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/514nJu1ZqxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H8RLRZK4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H8RLRZK4?tag=rvgearlab-amz-20",
     "description": "The Rugaest WF-8955-MBA tops this list because it pairs a clear LiFePO4 profile with the widest documented fit. One button switches between lead-acid and LiFePO4 charging, with 14.6V bulk and 13.6V float at 55 amps continuous, and it is listed as a direct replacement for WF-8955-MBA, WF-8955-AD-MBA, WF-8955-AN, WF-8955PEC, and WF-8955REP boards as well as WF-8900 and WF-8900-AD converters.\n\nAgainst the genuine WFCO section ranked second, it costs about $179 less and lets you lock the lithium profile by hand, while the WFCO relies on factory auto-detection. It also has a load-based cooling fan that ramps with demand instead of waiting for heat, and a 5-year warranty, both of which put it ahead of the WAVLINK below.\n\nThis is the best fit for most owners upgrading to LiFePO4 in a WF-8900 panel. The caveat: measure first. Rugaest lists 9.53 x 7.17 x 3.56 inches and asks you to compare mounting holes and wire routing with your existing section.",
     "specs": [
       "55A, 14.6V bulk / 13.6V float",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41EL01VApZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B46SCH3T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B46SCH3T?tag=rvgearlab-amz-20",
     "description": "This is WFCO's own main board assembly for the WF-8900-AD series, the auto-detect generation of the power center many trailers ship with. It is a three-stage converter charger rated at 950 watts from a 105 to 130VAC input and weighs about 5 pounds.\n\nIt ranks below the Rugaest because its listing is sparse and it costs roughly $249, more than three times as much. What you buy is the exact factory part, which matters if your RV is under warranty or you want the panel to stay all WFCO. Compared with the WAVLINK and Onylraep sections below, there is no manual lithium switch; the AD board handles detection on its own.\n\nChoose this for a warranty-sensitive rig or an owner who wants to avoid any clone. The caveat is that the product page gives little detail on lithium voltages, so check WFCO's AD documentation if you need exact figures.",
     "specs": [
       "950W, three-stage",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51xA8rEBJlL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G488M9FM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G488M9FM?tag=rvgearlab-amz-20",
     "description": "The WAVLINK WF-8955-MBA gives a drop-in section more modes than any other here. It has a lead-acid mode, a lithium mode, and a customizable fixed voltage range from 13.0V to 16.5V, with a temperature-controlled fan and short circuit, software over-voltage, thermal, current limiting, and reverse polarity protection.\n\nNext to the Rugaest above, it lacks the published fit list and the 5-year warranty, and its fan waits for heat rather than load. It costs the same as the Onylraep below but offers that fixed voltage mode, useful for a battery maker that specifies an unusual setpoint.\n\nPick it if you want flexibility in a WF-8955 slot. The caveat is that 16.5V is far too high for a 12V LiFePO4 battery, so stay in lithium mode for everyday charging.",
     "specs": [
       "55A output",
@@ -109,7 +109,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51fykK-A1xL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D795VY6Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D795VY6Y?tag=rvgearlab-amz-20",
     "description": "The Onylraep WF-8955-AD-MBA uses a physical switch with labeled orange LEDs: LA lights for lead-acid at 13.6V and LI lights for lithium at 14.6V. It also lists compatibility with WF-8955 and Parallax 7155 converters, which widens the panels it can serve.\n\nAgainst the WAVLINK above, it drops the fixed voltage mode but makes the active mode easier to see at a glance, which helps when someone else in the family flips breakers. The fan stays off until load requires it. Compared with the SUPLIFE below, the Onylraep can still serve lead-acid if you ever switch back.\n\nBuy it if you have a Parallax 7155 style panel or want an obvious mode indicator. The caveat: pulling the reverse polarity fuse interrupts output in both modes, and the listing shows its after-sale support without a stated warranty length.",
     "specs": [
       "55A, 14.6V lithium mode",
@@ -136,7 +136,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41L3sLR+EmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DHXM155J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DHXM155J?tag=rvgearlab-amz-20",
     "description": "The SUPLIFE WF-8955-MBA is the simplest LiFePO4 section here. It is built for 12V lithium only, charging to 14.6V before dropping into a trickle mode, and it mounts to the WF-8955PEC power converter as a replacement for WF-8955-AD-MBA and WF-8955-MBA boards.\n\nThere is no mode switch, so it ranks below the switchable units above. If you have committed to lithium for good, that simplicity can be a plus because nothing can be bumped into the wrong mode. It costs about $12 less than the Onylraep and adds a 3-year warranty.\n\nThis is for owners who are sure they will never go back to lead-acid. The caveat is exactly that: if you ever reinstall lead-acid, this board's lithium-only profile is the wrong fit and you would need another section.",
     "specs": [
       "14.6V lithium-only charging",

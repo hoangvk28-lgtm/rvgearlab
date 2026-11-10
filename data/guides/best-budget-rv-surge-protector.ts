@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41fBnA5+r8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FNVVR5XF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FNVVR5XF?tag=rvgearlab-amz-20",
     "description": "The WLLNEE is a 50A protector rated 18,000 joules, with a built-in circuit analyzer that flags open ground, open neutral and similar wiring faults. It has an IP67 housing, V-1 flame-retardant shell, a right-angle plug with grip handle, and FCC and RoHS listing, at $46.99.\n\nIt costs $13.00 less than the Vehiker 50A for the same 18,000 joules, and $39.45 less than the GEARGO 2026 50A. Pick this if you want the best joules per dollar in a 50A. The caveat is that the listing names no warranty length, which the GEARGO models do.",
     "specs": [
       "18,000 joules, 50A",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41KvzaeWNZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DKFNC8BS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DKFNC8BS?tag=rvgearlab-amz-20",
     "description": "The FOCSPROD is a 50A protector rated 16,000 joules with a circuit analyzer that shows Power On, Open Ground and other faults through red and green lights. It has a waterproof cover, rugged housing, a right-angle plug, and a $32.99 price.\n\nIt is $14.00 cheaper than the WLLNEE 50A but gives up 2,000 joules, and it names no IP rating or warranty. Pick this if the lowest 50A price is the goal. The caveat is that the weather protection is described, not rated, so keep it under a cover.",
     "specs": [
       "16,000 joules, 50A",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zzRx4oo+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D53RLC1Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D53RLC1Q?tag=rvgearlab-amz-20",
     "description": "The GEARGO 15000J is a 50A circuit analyzer with 15,000 joules, an IP68 rating, flame-retardant shell, and a right-angle plug. The listing also states a 3-year warranty, and the price is $56.99.\n\nIt costs $10.00 more than the WLLNEE 50A and gives 3,000 fewer joules, so the extra money buys the warranty and IP68 rating, not protection. Pick this if replacement coverage matters. The caveat is that the joule count is below the 18,000 class on several rivals.",
     "specs": [
       "15,000 joules, 50A",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41WvxBgBp6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FB8LF2PT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FB8LF2PT?tag=rvgearlab-amz-20",
     "description": "The Vehiker is a 50A protector rated 18,000 joules, with a waterproof cover, flame-retardant materials, and a circuit analyzer function. The listing says safety certified without naming the standard, and it costs $59.99.\n\nIt costs $13.00 more than the WLLNEE 50A for the same joules, and it adds no stated IP rating or warranty length. Pick this if the WLLNEE 50A is out of stock. The caveat is that the certification is not named.",
     "specs": [
       "18,000 joules, 50A",
@@ -133,7 +133,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41-ZHmfIP2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GLG25BPR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GLG25BPR?tag=rvgearlab-amz-20",
     "description": "The GEARGO 2026 50A lists 18,000 joules, an IP68 waterproof rating with a sealed protective cover, a light indicator, and a 3-year warranty. It is plug-and-play with no wiring, at $86.44.\n\nIt costs $39.45 more than the WLLNEE 50A for similar joules, so the premium buys IP68 and the 3-year warranty. Pick this if you leave it plugged in all season. The caveat is that at $86.44 it stops being a budget pick.",
     "specs": [
       "18,000 joules, 50A",
@@ -160,7 +160,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41fySDymd9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H38QWVN5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H38QWVN5?tag=rvgearlab-amz-20",
     "description": "The CRTBETLIF is a 30A protector rated 13,000 joules with a weatherproof housing and cover. It has an 8-mode diagnostic chart for correct wiring, open ground, open hot, and reverse polarity, a right-angle plug, and costs $29.99.\n\nIt is the cheapest in the group, $3.00 under the FOCSPROD 50A, but it only fits a 30A TT-30 rig. Pick this if you have a travel trailer on 30A. The caveat is that no IP rating or warranty length is listed.",
     "specs": [
       "13,000 joules, 30A",

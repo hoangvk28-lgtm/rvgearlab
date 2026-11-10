@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41KBLgfHGEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BMTF22QG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BMTF22QG?tag=rvgearlab-amz-20",
     "description": "The POWGRN is a 100 foot 12 gauge SJTW cord rated 15 amps, 125 volts and 1875 watts, with NEMA 5-15 ends and ETL/cETL listing. It adds a lit end that glows when powered, a bright jacket, an IP65 rating, heat resistance to 158 degrees Fahrenheit and strain relief with a hook on the socket.\n\nAgainst the uboory, it adds a lighted end and a stated hook design at a higher price. Compared with the 14 and 16 gauge cords below, its thicker wire carries a full 15 amps over the whole length.\n\nIt suits campers who run a fridge, a heater or power tools to a far site and want the heaviest wire here. Storage straps come in the box.",
     "specs": [
       "100 ft, 12 gauge, 15A, 1875W",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ED0VI87fL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F3BTMFL8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F3BTMFL8?tag=rvgearlab-amz-20",
     "description": "The uboory is a 100 foot 12 AWG SJTW cord rated 15 amps, 125 volts and 1875 watts. It lists 100 percent copper conductors, flame resistance, cold resistance and a flexible jacket, and it ships with velcro strips for storage.\n\nIt gives the same 12 gauge, 15 amp rating as the POWGRN for noticeably less, and drops the lit end. Against the 14 gauge LifeSupplyUSA, it carries more current across the full length.\n\nIt suits campers who need a heavy cord for a fridge or air conditioner and want to spend less. The velcro strips keep the coil tidy.",
     "specs": [
       "100 ft, 12 AWG, 15A, 1875W",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/516KKBpuWFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07KND19WB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07KND19WB?tag=rvgearlab-amz-20",
     "description": "The LifeSupplyUSA is a 100 foot 14/3 SJTW cord rated 13 amps and 1625 watts at 125 volts. It has a vinyl jacket that resists oil, grease and abrasion, a lighted end and a bright PVC jacket aimed at reducing trip hazards.\n\nIt sits between the 12 gauge pair and the 16 gauge cords on thickness and price. Compared with the Amazon Basics 16 gauge, it carries 3 more amps and adds a lit end.\n\nIt suits campers with a mid-size load such as a small fridge, a fan or lighting across a large site. It handles more than lights without the weight of 12 gauge.",
     "specs": [
       "100 ft, 14/3 SJTW",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51jqH+bvT+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00OS7ELK6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00OS7ELK6?tag=rvgearlab-amz-20",
     "description": "The Amazon Basics 100 foot cord is a 16 gauge vinyl cord rated 10 amps, 1250 watts and 125 volts, with a 3-prong grounded plug. The all-copper wire is wrapped in a jacket that resists moisture, abrasion and sunlight, and the cord is ETL certified.\n\nIt is one of the lowest priced cords here and prints the lowest amp rating. Against the HuiFengros 16 gauge, it states a more cautious 10 amp rating over the same wire size.\n\nIt suits campers who power lights, a phone charger or a laptop across a wide site and want a known brand. The conservative rating is realistic for 100 feet of thin wire.",
     "specs": [
       "100 ft, 16 gauge, 10A, 1250W",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41kFN00EMqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B36WNNZ2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B36WNNZ2?tag=rvgearlab-amz-20",
     "description": "The huanchain is a 100 foot 16/3 SJTW cord in green, rated 10 amps, 125 volts and 1250 watts. It lists ETL/cETL approval, a vinyl jacket, a strain relief design and a hook on the socket end, along with flame and cold resistance.\n\nIts green jacket is easier to spot in grass than a black one and its price sits near the Amazon Basics. Compared with the HuiFengros, it prints a lower amp rating and adds a socket hook.\n\nIt suits campers who run lights and chargers and want a cord that stands out against grass. The extra-size plug and socket add a firmer grip.",
     "specs": [
       "100 ft, 16/3 SJTW, 10A",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41LGGoPX7mL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DSQ7S5KL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DSQ7S5KL?tag=rvgearlab-amz-20",
     "description": "The HuiFengros is a 100 foot 16 AWG cord with a 13 amp, 1625 watt rating at 125 volts, ETL/cETL listing and an operating range of minus 40 to plus 140 degrees Fahrenheit. It has a vinyl jacket and reinforced blades that protect the prongs from bending.\n\nIt is the lowest priced cord on the list and prints a higher amp figure than the other 16 gauge cords. Against the LifeSupplyUSA, it uses thinner wire for the same 13 amp rating.\n\nIt suits budget campers who need a long run for lights, a fan or chargers. The reinforced blades add plug durability.",
     "specs": [
       "100 ft, 16 AWG, 13A, 1625W",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41-pIKSQBfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F5PSC7L1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F5PSC7L1?tag=rvgearlab-amz-20",
     "description": "The AsperX lists 165W charging from a 20,000mAh battery, an aluminum unibody case, a built-in retractable cable and a large color TFT display that shows battery level, remaining time and input and output power. The listing calls the design space-saving.\n\nIt matches the Anker's 165W at lower capacity and a lower price, and it adds a retractable cable. The aluminum case sets it apart from the plastic Anker.\n\nIt suits laptop users who want high output in a premium, compact body. The display shows live power so you can plan.",
     "specs": [
       "20,000mAh, 165W fast charging",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31BN5UBXRJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DCBB2YTR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DCBB2YTR?tag=rvgearlab-amz-20",
     "description": "The Anker lists 25,000mAh with 165W total output across three 100W USB-C ports, a USB-A port and two built-in USB-C cables, one extendable to 2.3 feet. It can charge up to four devices at once.\n\nIt has 5,000mAh more than the AsperX and three 100W ports, which is the biggest port count here. It costs more than the AsperX.\n\nIt suits campers running two laptops and a phone from one bank. The listing names week-long trips.",
     "specs": [
       "25,000mAh, 165W total",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41CQeTs7kzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CLFY6TGQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CLFY6TGQ?tag=rvgearlab-amz-20",
     "description": "The Paopaoyu offers a 100W AC outlet, a 65W PD USB-C port that works for both input and output, a 12W and an 18W USB port, and 27000mAh in 98Wh. It is TSA compliant and carries FCC, CE and RoHS certifications.\n\nIt matches the Lvssci on capacity, outlet and price, and it names its certifications. Against the USB-C-only banks, it runs a standard laptop adapter without a USB-C cable.\n\nIt suits campers with laptops that use a barrel plug or a regular AC brick. The AC port also handles small appliances under 100W.",
     "specs": [
       "27,000mAh, 98Wh, 100W AC",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/319l4fyCndL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DLB27472?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DLB27472?tag=rvgearlab-amz-20",
     "description": "The Lvssci lists a 110V 100W AC outlet, 27000mAh at 99.9Wh, a 65W PD bidirectional port and USB-A outputs. It adds a smart cooling fan, four LED flashlights, an EVA carrying box and a Type-C cable.\n\nIt matches the Paopaoyu on capacity and price and brings a cooling fan, flashlights and a carrying case. The fan runs faster under load to extend life.\n\nIt suits campers who want a laptop bank with a built-in light and a protective box. The AC outlet powers appliances under 100W.",
     "specs": [
       "27,000mAh, 99.9Wh, 100W AC",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51RqhJSR3sL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CQT5G1ZR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CQT5G1ZR?tag=rvgearlab-amz-20",
     "description": "The DaranEner is a small LiFePO4 power station with 89.6Wh, a 100W AC output (200W peak), two AC sockets, 7 output ports and four charging methods. It weighs 2.54 lb and charges from 0 to 80 percent in about 1.5 hours.\n\nIt runs a laptop and more with two AC sockets, and it is a different kind of product from the banks above. LiFePO4 cells are rated for 3500 plus cycles.\n\nIt suits campers who want a fanless, silent unit for sleeping near. The built-in 4-level LED flashlight has SOS modes.",
     "specs": [
       "89.6Wh LiFePO4, 100W AC",

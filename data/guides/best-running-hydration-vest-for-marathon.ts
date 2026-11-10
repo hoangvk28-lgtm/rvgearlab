@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ErM79ujhL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FF43KQSX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FF43KQSX?tag=rvgearlab-amz-20",
     "description": "The Zelvot Race vest ships with a 500ml soft flask and spreads seven chest pockets and a pair of roomy rear ones around gels, keys, cash and a towel. The perforated neoprene body breathes well, and three straps lock the vest down.\n\nIt carries the most easy-reach storage here, with seven pockets within hand reach. Compared with the SWIFTVEST, it has more pockets and a larger range of storage on the back.\n\nIt suits first-time and repeat marathoners who want gels, phone and a flask all within reach. The unisex fit works for many chest sizes.",
     "specs": [
       "500ml flask included",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4179PdMeg-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CGPYLG6H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CGPYLG6H?tag=rvgearlab-amz-20",
     "description": "The SWIFTVEST Flask has a quick-dry body with heat-venting panels, and its six pockets include a waterproof zip pouch for the phone. The neoprene-padded cut reduces bounce and chafing, and the 500ml flask that ships with it compresses as you drink.\n\nIt protects a phone from rain better than the Zelvot or INOXTO, and has a more padded fit. Compared with the SWIFTVEST Phone Vest, it ships with the flask listed.\n\nIt suits marathoners who race in changing weather. It comes in three sizes.",
     "specs": [
       "6 pockets, waterproof phone pouch",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41rLZfKKuLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C4RKZTSZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C4RKZTSZ?tag=rvgearlab-amz-20",
     "description": "The SWIFTVEST Phone Holder vest has a zipped waterproof front pouch for major phones, six pockets, an adjustable waistband and a water bottle holder. Heat-dissipation zones, neoprene padding and reflective details match its sibling.\n\nIt is built around the phone, with a waistband that adds a third point of stability. Compared with the SWIFTVEST Flask, it adds the waistband and bottle holder.\n\nIt suits runners who track the race on a phone or carry it for music. The pouch stays reachable on the move.",
     "specs": [
       "6 pockets, waterproof phone pouch",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51C2ZFCl55L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09B22DZ9W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09B22DZ9W?tag=rvgearlab-amz-20",
     "description": "The INOXTO vest weighs 140 grams and carries a 1.5L bladder in an insulated sleeve. It has an adjustable hip belt, shoulder straps, reflective trim and a front pocket layout with two large and two small pockets.\n\nIt is the lightest of the four and carries the most fluid in a single container. Compared with the Zelvot, it uses a back bladder and fewer front pockets.\n\nIt suits marathoners who train with a bladder and want to sip through a tube. The ventilated mesh back keeps heat down.",
     "specs": [
       "140 g, 1.5L bladder",

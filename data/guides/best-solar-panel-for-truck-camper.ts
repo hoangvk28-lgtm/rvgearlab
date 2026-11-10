@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zl4REf4lL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D3DZWXT4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D3DZWXT4?tag=rvgearlab-amz-20",
     "description": "The Renogy 100W N-type panel claims 25% cell efficiency with 16BB cells, IP67 protection and tests of 2400Pa wind and 5400Pa snow loads. A 10 year material warranty and 25 year performance guarantee are listed, and it costs $71.05.\n\nIt costs $24.06 more than the ECO-WORTHY 25W but delivers four times the rated watts. Pick this if you want to run a fridge and lights from the roof. The caveat: it is panel only, so budget for a controller, cables and mounts.",
     "specs": [
       "100W, 25% efficiency",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51cRzEKKC6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F53FW516?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F53FW516?tag=rvgearlab-amz-20",
     "description": "The ECO-WORTHY 25W kit includes a waterproof charge controller with temperature compensation and claims about 100Wh of daily energy. It works with LiFePO4, AGM and SLA 12V batteries, and costs $46.99 with a 12 month warranty.\n\nIt is $24.06 cheaper than the Renogy 100W but only a quarter of the power, and $12.00 more than the Voltset 10W with 15 more watts. Pick this if you want to keep a house battery topped up while parked. The caveat: it will not run a compressor fridge.",
     "specs": [
       "25W, 12V kit",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51CZ-UZezdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C23XX1K2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C23XX1K2?tag=rvgearlab-amz-20",
     "description": "The Voltset 10W kit adds tempered glass, an aluminum frame, an IP67 controller with LED indicators and mounting brackets. The kit includes SAE alligator clips and O-rings for direct hookup. It costs $34.99.\n\nIt is $12.00 cheaper than the ECO-WORTHY 25W and $36.06 below the Renogy 100W, with the lowest output. Pick this if you only want to offset a starter or accessory battery's drain. The caveat: 10W is too small for a camper's house loads.",
     "specs": [
       "10W, 12V kit",

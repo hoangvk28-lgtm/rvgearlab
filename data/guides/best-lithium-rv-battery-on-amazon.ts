@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41wiC3GOhWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CSKBLH8L?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CSKBLH8L?tag=rvgearlab-amz-20",
     "description": "The WattCycle Mini earns the top spot by combining the three things most Amazon shoppers want in a 100Ah battery: a small case, Bluetooth, and a real warranty. It measures 9 x 5.4 x 8.2 inches and weighs 20.94 lbs, and the app lets you rename each battery, which is handy when you run two in parallel and want to see both.\n\nThe KeepKnow 100Ah ranked third offers similar Bluetooth and cutoff features for about $80 less, but the WattCycle's case is notably smaller, and its five-year assurance comes with a stated 24-hour support response. Compared with the HQST at number two, it adds an app at the cost of a higher price.\n\nBest for travel trailer owners who may add a second battery later and want both to fit where one lead-acid used to sit. Caveat: like every 100Ah pick here, the 100A BMS limits one battery to roughly a 1000W inverter.",
     "specs": [
       "9 x 5.4 x 8.2 in, 20.94 lbs",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41gOwWXBgML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CR5L3LGS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CR5L3LGS?tag=rvgearlab-amz-20",
     "description": "The HQST 100Ah takes a different approach to monitoring: instead of an app, it has an LED meter on the case, so you can check charge without pairing a phone. It uses a compact Group 22NF case, weighs 21 lbs, and its BMS suspends charging below 23°F and discharging below 5°F.\n\nIt ranks second behind the WattCycle because an app gives richer data like current draw, but it ranks above the KeepKnow for its longer support commitment and clear published temperature thresholds. Against the LiTime Xtra-Mini, it delivers similar size and protection at about half the price.\n\nBest for owners who check their battery in the compartment and do not want another app. Caveat: HQST notes it is not suitable for golf carts, and the meter is only visible if the battery is mounted where you can see it.",
     "specs": [
       "Group 22NF size, 21 lbs",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41tGlYRZolL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H29DMVQB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H29DMVQB?tag=rvgearlab-amz-20",
     "description": "The KeepKnow Mini is the budget standout in this lineup: Bluetooth monitoring, a Group 24 case of 10.42 x 6.61 x 8.23 inches, and 20.94 lbs for about $130. It lists 4000 cycles at 100% depth and a five-year warranty serviced from a US warehouse.\n\nCompared with the HQST and WattCycle above it, it is the cheapest way to get an app. The reason it ranks third is its cold-weather spec: the listing says charging is blocked below 0°F, while most cells should not be charged below about 32°F, so you should not rely on the BMS alone in the cold.\n\nBest for summer and shoulder-season campers who want monitored lithium for the least money. Caveat: if your trips see frost, keep the battery in a heated space or choose the CYCLENBATT, which cuts charging at 32°F.",
     "specs": [
       "Group 24 size, 20.94 lbs",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41chqyzWomL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BXNJBFH3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BXNJBFH3?tag=rvgearlab-amz-20",
     "description": "The LiTime Xtra-Mini is the most power-dense battery in this comparison, fitting 1280Wh into a 9.02 x 5.43 x 8.19 inch Group 22NF case. It supports 100A continuous with a 500A surge, a one-hour fast recharge with a capable charger, and a Bluetooth app with a one-second discharge switch.\n\nIt ranks fourth because it costs about $320, roughly double the HQST, which is nearly the same size. What the extra money buys is the higher surge rating, a brand with wider support, and dust and moisture resistance claims backed by validation testing.\n\nBest for van and truck camper owners who need the absolute smallest 100Ah battery with strong surge capability. Caveat: most RV converters charge far slower than the one-hour figure, which depends on a high-current charger.",
     "specs": [
       "9.02 x 5.43 x 8.19 in",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41c2PJIIVDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FDQL2J9R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FDQL2J9R?tag=rvgearlab-amz-20",
     "description": "The CYCLENBATT Mini stands out for getting the cold-weather setting right. Its BMS cuts charging at 32°F and discharging at -4°F, which matches how LiFePO4 cells should be treated. It also adds Bluetooth control that lets you turn charging or discharging off from the app, and a 330A instant discharge rating.\n\nAgainst the KeepKnow, it costs about $70 more for similar size and Bluetooth, but its correct charge cutoff is the reason to pay it. It ranks below the LiTime Xtra-Mini on surge and brand reach, and above the GRNOE because of its app and smaller case.\n\nBest for campers in spring and fall who sometimes wake to frost and charge from solar. Caveat: it still will not charge below freezing, so winter users need a heated battery or a warm install location.",
     "specs": [
       "46% smaller than Group 31",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41FIs4+DwmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F9PJ5DH4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F9PJ5DH4?tag=rvgearlab-amz-20",
     "description": "The GRNOE 100Ah is the straightforward Group 31 option, measuring 12.9 x 6.7 x 8.6 inches and weighing 22.48 lbs. It carries an IP65 rating, a 300A three-second burst rating, and a low-temperature discharge cutoff at -4°F.\n\nIt ranks last here because it lacks the monitoring the minis offer and its warranty is 36 months, shorter than the five years from WattCycle, KeepKnow, and CYCLENBATT. The upside is simplicity: if your rig already has a Group 31 tray, it fits without spacers.\n\nBest for owners swapping a Group 31 lead-acid who want lithium at a low price and already have a battery monitor. Caveat: GRNOE notes it must be activated with a 14.6V lithium-activation charger after delivery or after being switched off.",
     "specs": [
       "Group 31 size, 22.48 lbs",

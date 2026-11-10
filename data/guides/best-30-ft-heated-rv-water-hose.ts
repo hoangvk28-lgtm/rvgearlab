@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/414KSZbLg8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7V83R6R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7V83R6R?tag=rvgearlab-amz-20",
     "description": "The VEVOR 30ft pairs a -45°F rating with a self-regulating thermostat and a plug indicator that lights while heating. VEVOR's 30ft hose is rated to -45°F, with a self-regulating thermostat and a plug indicator that lights while heating.\n\nIt costs less than the Cupohus and OEBLD while adding the status light neither mentions. The cheaper VEVOR 1/2 inch version drops to a narrower bore.\n\nA built-in 0.6 inch heating cable and food-grade inner hose keep it drinking water safe. It suits owners who want a clear heating indicator at a fair price.",
     "specs": [
       "30 ft, -45°F rating",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41UqPmS6SGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BMLJD84C?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BMLJD84C?tag=rvgearlab-amz-20",
     "description": "Over a 30 foot reach, OEBLD pairs a 5/8-inch inner diameter with a braided PVC-coated polyester jacket and a -45°F cold rating. OEBLD's 30FT hose has a 5/8-inch ID, a -45°F rating and a 3/4-inch GHT fitting with rubber gaskets and sealing tape.\n\nIt moves more water than the 1/2 inch VEVOR and costs less than the Cupohus. The triple-seal fitting adds leak resistance.\n\nThe braided PVC-coated polyester jacket is described as resisting abrasion and UV damage. It fits buyers who want flow and a rugged jacket.",
     "specs": [
       "30 ft, 5/8 inch ID",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51KvU-Dv1DL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BRSP8DR5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BRSP8DR5?tag=rvgearlab-amz-20",
     "description": "The Cupohus 30FT uses a 3/4-inch GHT fitting and a PVC-coated polyester braided jacket resistant to abrasion and UV. Cupohus lists this 30FT hose at -45°F with a 3/4-inch GHT fitting and a PVC-coated polyester braided jacket.\n\nIt matches the OEBLD on rating and build while sitting at the top of the price range. Both braided hoses outlast plain PVC on rough ground.\n\nThe jacket is described as abrasion and UV resistant, and the materials are food-grade and lead free. It suits sites where the hose is dragged over gravel.",
     "specs": [
       "30 ft, -45°F rating",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51eDzvmI6qL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GJLT8NL2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GJLT8NL2?tag=rvgearlab-amz-20",
     "description": "The Tsinglax 30FT has an intelligent control system, overheat protection and -45°F protection. Tsinglax sells this 30FT hose with -45°F protection and says its fittings match US RVs and garden hoses.\n\nIt sells in several lengths and says its fittings match US RVs and garden hoses. It costs less than the OEBLD.\n\nThe intelligent control system activates heating in cold, and food-grade, lead-free materials include overheat protection. It suits owners who want overheat protection and a flexible size lineup.",
     "specs": [
       "30 ft, -45°F protection",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41nbki9WpJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HBVCFC4N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HBVCFC4N?tag=rvgearlab-amz-20",
     "description": "The VEVOR 30FT 1/2 inch hose has a smooth surface and a heating cable rated 25W/m with nylon mesh reinforcement. This VEVOR 30FT hose has a 1/2 inch inner diameter, a smooth surface and a heating cable rated 25W/m.\n\nIt costs about 13 dollars less than the other VEVOR while keeping a -45°F rating. An intelligent thermostat adjusts heat to ambient temperature.\n\nAn intelligent thermostat adjusts heating to ambient temperature, with PVC layers and nylon mesh reinforcement. It fits cost-conscious buyers who value low weight and a smooth surface.",
     "specs": [
       "30 ft, 1/2 inch ID",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41lXTAoTrdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FG2HY217?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FG2HY217?tag=rvgearlab-amz-20",
     "description": "The Ficstar 30FT is self-regulating, with leak-proof washers and Teflon tape at both ends. Ficstar's 30FT hose is self-regulating, with leak-proof washers and Teflon tape at both ends.\n\nIt carries the lowest price tag in this group and keeps the heated copper wire inside the hose. The VEVOR 1/2 inch costs about 8 dollars more.\n\nThe heated copper wire runs inside the hose in an updated design compared with the first generation. It is the pick for budget buyers in mild to moderate winters.",
     "specs": [
       "30 ft self-regulating hose",

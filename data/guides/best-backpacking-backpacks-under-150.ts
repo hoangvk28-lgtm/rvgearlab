@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Wct9rGdLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09DRCVVCZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09DRCVVCZ?tag=rvgearlab-amz-20",
     "description": "The TETON 55L Scout is an internal frame pack that comes in 45L, 55L and 65L sizes. The listing describes multi-position torso adjustment for medium and tall users, an open-cell foam lumbar pad with molded channels, a large sleeping bag compartment and a rain cover.\n\nCompared with the TETON 65L Explorer, it gives a more moderate volume. Against the Naturehike, it adds a torso adjustment that helps dial in fit.\n\nIt suits backpackers on 2 to 4 night trips who want a real frame at a reasonable price. Multi-directional compression straps keep the load tight.",
     "specs": [
       "55L internal frame",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41mT4XkuDOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09DRB8MWK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09DRB8MWK?tag=rvgearlab-amz-20",
     "description": "The TETON 65L Explorer uses the same internal-frame design in 65L, 75L and 85L sizes. It includes multi-position torso adjustment, an open-cell foam lumbar pad and molded channels, a sleeping bag compartment and a rain cover.\n\nCompared with the TETON 55L Scout, it holds roughly 10 liters more and costs less. Against the Naturehike 65L, it adds the torso adjustment that fits taller users.\n\nIt suits longer trips, winter gear and larger loads. A support team backs the product, according to the listing.",
     "specs": [
       "65L internal frame",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41yqMQ5t1yL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G3P66145?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G3P66145?tag=rvgearlab-amz-20",
     "description": "The Naturehike 65L Rock is a 60+5L internal frame pack in a polymer fabric that contains 6% high molecular weight polyethylene fibers. It includes a rain cover, ergonomic back and shoulder padding, and compression straps on the top and both sides to carry trekking poles and a sleeping bag.\n\nCompared with the TETON 65L Explorer, it uses a stronger fabric and adds pole attachment points. Against the lighter packs, it has far more volume.\n\nIt suits backpackers who want a durable fabric and the capacity for multi-day trips. It also works for climbing and travel.",
     "specs": [
       "60+5L internal frame",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hKMMawKpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09PL1673N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09PL1673N?tag=rvgearlab-amz-20",
     "description": "The RuRu monkey 50L is a lightweight 50L camping backpack with multiple compartments, adjustable shoulder straps and back support. The listing describes waterproof materials and a range of color options.\n\nIt is the lowest-cost pack in this group by a wide margin. Compared with the TETON 55L Scout, it is simpler and lighter, with no listed frame or torso fit.\n\nIt suits casual campers and weekend hikers who want volume without a high price. Pockets keep gear organized.",
     "specs": [
       "50L lightweight camping pack",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hhaDvGmPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FYVNFP9B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FYVNFP9B?tag=rvgearlab-amz-20",
     "description": "The MIVENTO is a 30+5L pack that weighs 2.43 pounds and measures 20.5 by 9.5 by 6 inches. It uses 210D ripstop nylon with reinforced stitching, a suspended breathable back panel and reflective signs, and the listing calls it ideal for 1 to 2 day trips.\n\nCompared with the TETON packs, it is far lighter and smaller. Against the RuRu monkey, it adds a ripstop fabric and a ventilated back panel.\n\nIt suits ultralight and overnight backpackers who pack small. Elastic side holders carry trekking poles.",
     "specs": [
       "30+5L, 2.43 lb",

@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41M5eivUBkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01MRL0H2B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01MRL0H2B?tag=rvgearlab-amz-20",
     "description": "The Linenspa 2 inch gel memory foam topper is a plush, contouring layer priced at $58.10, with gel infusion meant to take the edge off the heat that memory foam is known for. It is sold in 2 inch and 3 inch profiles, so a buyer can choose the depth that suits a given bunk. It leads this lineup because it pairs a familiar brand with a thick, pressure relieving build.\n\nAgainst the EGO at $35.99 and the OLIXIS at $26.99, the Linenspa asks more money and returns a plusher feel that settles around shoulders and hips. The Niagara pad adds little height and reads as a soft cover, while the Linenspa reshapes the surface of a firm RV mattress into something that cradles the body.\n\nIt is the best fit for side sleepers and couples who want a noticeably softer bed in a camper and are happy to pay a bit more for a recognized name and a choice of thickness.",
     "specs": [
       "2 inch gel memory foam",
@@ -56,7 +56,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51oCidDfSuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FVY8TTVN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FVY8TTVN?tag=rvgearlab-amz-20",
     "description": "The Niagara Sleep Solution Full Ultra Soft topper is a fitted, deep pocket pad made from bamboo fiber rayon, built to stretch over beds from 8 to 20 inches deep. It costs $69.99 and works as a soft, breathable layer rather than a thick foam slab, which keeps the weight low for a coach.\n\nCompared with the Linenspa, the Niagara trades contouring for easy handling. A fitted skirt means no strap fiddling and no creeping across the mattress on a bumpy road, and the fiber absorbs sweat where foam holds it close. It is also the lightest to carry among the five, which helps when you are folding bedding into a small cabinet.\n\nThis is the pick for hot sleepers and anyone who wants a softer feel without the sink of memory foam, especially on beds that get swapped between seasons.",
     "specs": [
       "Bamboo fiber rayon",
@@ -83,7 +83,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41PTpa1YBPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DK35TTHV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DK35TTHV?tag=rvgearlab-amz-20",
     "description": "The EGO 2 inch topper uses AeroFusion gel foam with ventilation holes punched through the surface, and the foam carries CertiPUR-US certification. At $35.99 it brings a documented material standard to a price tier where such details are often missing.\n\nWhere the Linenspa charges $58.10 for a plush feel, the EGO delivers a similar 2 inch gel foam depth for about $22 less, and the holes let air move through the foam instead of pooling heat beneath the sleeper. Next to the OLIXIS at $26.99, it adds the certification detail that many shoppers look for before putting foam against their skin.\n\nIt suits shoppers who want certified foam on a modest budget and sleep warm enough that airflow through the topper matters in a closed camper.",
     "specs": [
       "2 inch AeroFusion gel foam",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4121KXPrfAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F37LQ4DY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F37LQ4DY?tag=rvgearlab-amz-20",
     "description": "The SINWEEK is a 1.5 inch egg crate topper in cooling gel memory foam, sold in full size for $31.49. The wave pattern on top spreads pressure across a bumpy surface and lets air circulate in the channels.\n\nIt is thinner than the 2 inch EGO and OLIXIS, which is exactly what makes it valuable on a low bunk or an overcab bed where every inch of headroom counts. The egg crate surface also gives a firm bed a gentle, lightly cushioned feel without turning it into a plush pillow top, so it keeps the support of the mattress underneath.\n\nIt is best for bunk beds, overcab sleeping areas and travelers who like a firmer bed with just a little added give.",
     "specs": [
       "1.5 inch egg crate",
@@ -137,7 +137,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51YvM88jozL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GQ31552G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GQ31552G?tag=rvgearlab-amz-20",
     "description": "The OLIXIS 2 inch full topper is gel infused memory foam with an open cell structure, offered in three thickness options, and priced at $26.99, the lowest in this guide. Open cell foam lets heat disperse more freely than traditional dense foam.\n\nCompared with the EGO at $35.99, it saves roughly $9 and gives the same 2 inch depth, and against the Linenspa it undercuts by more than half while still offering gel infusion and multiple thickness choices. The three thickness options also make it easy to size the topper to a tight bunk without changing brands.\n\nIt works well for guest beds, kids' bunks and seasonal campers who want an easy comfort upgrade for the smallest outlay.",
     "specs": [
       "2 inch gel foam",

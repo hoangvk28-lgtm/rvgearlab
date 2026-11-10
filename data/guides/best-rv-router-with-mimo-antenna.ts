@@ -27,7 +27,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21UgRVNeppL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BRX7BZKL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BRX7BZKL?tag=rvgearlab-amz-20",
     "description": "This outdoor 5G router lists 4x4 MIMO, an IP67 enclosure, dual nano SIM slots and six built-in high gain cellular antennas. It supports T-Mobile and AT&T, runs in both 5G standalone and non-standalone modes, and falls back to 4G LTE where 5G coverage ends. Everything sits in one sealed housing, so there are no external antenna cables to route or weatherproof.\n\nCompared with the indoor travel routers and hotspots most RVers buy, this unit is built to live outside. Mounting it on a pole or wall bracket puts the antennas above the roof and away from the metal skin of the coach, which is where signal is usually lost. It powers over 802.3af PoE through a single Ethernet run, works from minus 30 to plus 55 degrees C, and adds VPN clients and band lock, so you can pin the router to the band that performs best at a given site.\n\nIt is the right pick for RV owners who camp in weak signal areas, stay in one spot for weeks, and want a weatherproof outdoor unit that handles both major carriers with two SIMs. Seasonal sites, long boondocking stints and rural work-from-RV setups are where a 4x4 outdoor design pays off.",
     "specs": [
       "4x4 MIMO, six antennas",

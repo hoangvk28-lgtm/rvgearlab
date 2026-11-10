@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51186byMgiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GQYHHSQJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GQYHHSQJ?tag=rvgearlab-amz-20",
     "description": "The PhatroyYee combines a 4200V grid with 365 to 395nm UV light, a flickering flame light, an RGB light and a night light. It charges by solar panel or USB, with a smart auto mode, and carries an IPX5 rating and a hook for hanging.\n\nIt offers the most light modes of the three and the highest grid voltage by a large margin over the BANPESTT at 500V. The IPX5 rating also resists water jets better than the plain weatherproof wording of the PIC.\n\nIt suits campers and patio hosts who want a zapper that also acts as a decorative light. It sits on a table or hangs from a hook.",
     "specs": [
       "4200V grid, 365 to 395nm UV",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31UVjk1Xw3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H8S92269?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H8S92269?tag=rvgearlab-amz-20",
     "description": "The BANPESTT combines a 500V zapping grid with a camping lantern that has three brightness modes (high, medium and low). It charges by solar or USB-C, has a built-in battery, a hanging hook and a stable base, and carries an IPX6 rating.\n\nIt is the only one of the three presented as a true camping lantern first, with a brightness range for tent lighting and a night walk. Its IPX6 rating is the strongest weather rating of the group, one step above the PhatroyYee's IPX5.\n\nIt suits tent campers and pool or patio users who want a lantern that also zaps. The USB-C port is simple to recharge on the road.",
     "specs": [
       "500V grid, three brightness modes",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41nX+vNqysL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BLHWHDVT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BLHWHDVT?tag=rvgearlab-amz-20",
     "description": "The PIC Patio Lantern has a 600V zapping grid, a blue UV LED to attract insects and two lighting modes: a bright white LED and a flickering flame effect. It charges in direct sun, switches on at dusk and runs over 6 hours, covering up to a half acre by the listing.\n\nIt states a coverage area, which the PhatroyYee and BANPESTT do not, and uses auto dusk operation. The brand lists nearly 70 years in pest control.\n\nIt suits home patios, porches and fixed camp spots where the lantern can sit all evening. It is the choice for a set-and-forget table piece.",
     "specs": [
       "600V grid, blue UV LED",

@@ -30,7 +30,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/417smfmkXdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DHVJCXM3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DHVJCXM3?tag=rvgearlab-amz-20",
     "description": "The RV Mattress Solutions Tru Lux Cool is a 12 inch hybrid in the 36 by 84 split Cali king size made for RVs. It layers gel-infused memory foam and HD comfort foams over individually wrapped pocketed coils, with HD edge reinforcement and a plush phase change cover that pulls heat away from the body. It carries a 10 year warranty and costs $520.00.\n\nAgainst the Lux Black below it, the Tru Lux adds the phase change cover and a plush top, so the surface feels cool to the touch and softer on contact. The reinforced edge stays firm when you sit on the side to put on shoes, which matters in a narrow bedroom where edge sitting is constant. Compared with the Renanim sets, it is sized to RV platforms instead of a residential frame.\n\nThis is the pick for couples with an RV split Cali king bed who want a luxury hybrid and cooling comfort. It suits owners who sleep warm, full-timers who spend every night on the mattress and anyone who values a plush feel with edge support.",
     "specs": [
       "36x84 split Cali king",
@@ -57,7 +57,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41CAaLCNwkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G7GP1NYY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G7GP1NYY?tag=rvgearlab-amz-20",
     "description": "The Lux Black Cool Hybrid is a 12 inch medium hybrid in the same 36 by 84 split Cali king size, built with Elate visco foam infused with copper, gel, silver and graphite. Individually wrapped TRU coils and a moisture-wicking six-way stretch cover complete the build, and the listing notes a 10 year warranty and CertiPUR foam made in the USA. It costs $395.00.\n\nNext to the Tru Lux above it, the Lux Black uses a firmer medium feel and a stretch cover in place of the phase change fabric, and it saves $125. The copper and graphite infusions move heat away from the sleeper, and the pocketed coils help keep motion from crossing between sleepers. Against the residential sets, the RV sizing means no gaps along the platform.\n\nThis is the pick for couples who prefer a steadier surface and want an RV-sized hybrid at a lower price. It suits back and stomach sleepers, owners who want American-made foam and anyone upgrading a worn factory mattress without paying for a plush cover.",
     "specs": [
       "36x84 split Cali king",
@@ -84,7 +84,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51edtdx-fmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F5WLN2WC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F5WLN2WC?tag=rvgearlab-amz-20",
     "description": "The Renanim Hybrid Mattress is a 10 inch split king with six layers, including triple-layered cooling gel memory foam over individually encased steel coils. It is CertiPUR-US and OEKO-TEX certified and ships in a box with a 100-night trial and a 10 year warranty. It costs $560.00.\n\nAgainst the foam-only Renanim below it, the hybrid adds coil support and airflow, and the steel coils give a firmer feel with motion isolation. At 10 inches, it is also two inches thinner than the foam model, which helps in a coach with limited clearance above the platform. Compared with the RV-specific hybrids above, it is a residential split king, so it suits beds that follow that size.\n\nThis is the pick for campers with a true split king platform, such as a custom-built bed or a converted rig, who want a firm hybrid with a trial period. It suits owners who like the reassurance of a 100-night return window and sleepers who run warm and want coil airflow.",
     "specs": [
       "10 inch split king",
@@ -111,7 +111,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/514U3UgzxyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DBN8ZTW3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DBN8ZTW3?tag=rvgearlab-amz-20",
     "description": "The Renanim Split King Medium Firm Cooling Gel Memory Foam Mattress is a 12 inch foam set with a resilient base foam, reinforced edges and a breathable cover. It ships rolled with a 100-night trial and a 10 year warranty. The feel is medium to medium-firm, and it costs $580.00.\n\nAgainst the Renanim Hybrid above it, the foam model is quieter and lighter because it has no coils, and at 12 inches it is two inches thicker. The foam isolates motion, so one sleeper can turn over without waking the other. Compared with the RV-specific mattresses, it is a residential split king, so it suits platforms built for that size.\n\nIt suits campers who want a quiet all-foam mattress with a softer contour and a trial period. It suits light sleepers, side sleepers who want pressure relief and owners who prefer a rolled box that is easier to carry through a narrow entry.",
     "specs": [
       "12 inch gel foam",

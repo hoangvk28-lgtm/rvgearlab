@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51mLu5ekUgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01HUOEGM6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01HUOEGM6?tag=rvgearlab-amz-20",
     "description": "The Chef Master is a portable butane stove rated at 15,000 BTU with a piezo igniter that lights with a turn of the knob. It has a built-in double wind guard around the burner head, an in-line regulator and a pressure-sensing shut-off.\n\nThat 15,000 BTU is roughly double the GasOne Butane's rating, and the hard-shell case can be set up beside the stove as an extra windbreak. The listing names searing as well as boiling.\n\nIt suits campers who cook on a single burner and want real heat and flame control. Use it outdoors in open air when camping.",
     "specs": [
       "15,000 BTU butane",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/310zJ+RVtBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08WTNVPB7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08WTNVPB7?tag=rvgearlab-amz-20",
     "description": "The GasOne Butane stove lists 7,650 BTU, CSA approval, automatic ignition and a safety shut-off system. The title promises precise heat control, and a carrying case is included.\n\nIt runs quietly and costs far less than the Chef Master, so it is the sensible stove for simple camp meals. The CSA mark is a plus for emergency kits.\n\nIt suits campers who fry eggs, warm soup and brew coffee. The listing says outdoor use only.",
     "specs": [
       "7,650 BTU, CSA approved",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41XqM5TM8eL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CR4W66C3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CR4W66C3?tag=rvgearlab-amz-20",
     "description": "Heat-exchange technology is the selling point of this Odoland set, which the maker says lifts efficiency by 30 percent and boils 0.5 L in about 2 minutes. The box holds a 1300 W stove, two small pots, a canister stabilizer, a 16 oz mug and utensils.\n\nIt is the only choice here that brings pots, so you can cook a freeze-dried meal and a drink right away. The stabilizer steadies the canister under a loaded pot.\n\nIt suits backpackers who cook one-pot meals. Everything packs into a mesh bag.",
     "specs": [
       "1300 W stove, two pots",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hybCmWPwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07NJYV3NP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07NJYV3NP?tag=rvgearlab-amz-20",
     "description": "The AOTU is a 3000 W canister burner with piezo ignition, a control valve for adjusting from full heat to a simmer, and a windproof honeycomb net. It ships in a small plastic box.\n\nIt is the cheapest and smallest in packed size here, and it handles pots up to about 20 cm across. The valve gives it the simmering ability a cooking stove needs.\n\nIt suits campers who cook small meals on a tight budget. The listing says it fits butane or butane-propane canisters.",
     "specs": [
       "3000 W, piezo ignition",

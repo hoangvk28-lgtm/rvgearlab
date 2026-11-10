@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41TGGcx-8TL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CB93DVJ6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CB93DVJ6?tag=rvgearlab-amz-20",
     "description": "The Wind Tour 3 Season weighs 2.2 lb and is rated for 43 to 59F. In sleep mode it measures 84.6 by 31.5 inches including an 11.8 inch hood extension, and in quilt mode it opens to 72.8 by 63 inches.\n\nThat quilt mode gives it a second life as a blanket on warm nights, which the slimmer ECOOPRO cannot do. It ships with a breathable 12 by 8 inch storage sack and costs less than the ECOOPRO.\n\nIt suits car campers and travelers who want one bag for sleeping and for lounging. The lower end of its range reaches cooler evenings than the ECOOPRO's.",
     "specs": [
       "2.2 lb total weight",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41fu3se401L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B011AZ3O9W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B011AZ3O9W?tag=rvgearlab-amz-20",
     "description": "ECOOPRO lists its warm weather bag at 1.7 lb with an 11 inch compressed height, in an 83 inch long envelope shell of nylon over a polyester lining. The maker pegs the working range at 55 to 60F.\n\nWhere the Wind Tour spreads out into a quilt, the ECOOPRO stays narrow at 30 inches and saves about half a pound. A compression sack and a smooth zipper are included.\n\nIt suits solo campers who stick to warm nights and want the lightest pack. The slim cut keeps the bag small.",
     "specs": [
       "1.7 lb, 11 inches tall",

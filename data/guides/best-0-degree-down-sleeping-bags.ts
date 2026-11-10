@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31fKSwt-bKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DBVL1BG5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DBVL1BG5?tag=rvgearlab-amz-20",
     "description": "The QEZER 3.3 lb bag holds 3.3 lb of 650 fill power white duck down with vertical baffles and a saddle-shaped neck. The listing gives a range of -4 to 14 degrees F, a packed size of 17.32 by 10.24 inches and a weight of 4.54 lb.\n\nIts printed range is the closest to a real 0 degree rating in this list, and it costs less than the heavier QEZER 4 lb bag. It packs smaller than that bag and holds far more down than the TETON options.\n\nIt suits campers who need a documented down bag at a moderate price. It is a car or base-camp bag more than an ultralight one.",
     "specs": [
       "3.3 lb of 650FP duck down",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411VseDpEXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DR8CYKJQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DR8CYKJQ?tag=rvgearlab-amz-20",
     "description": "The Naturehike CW series is a 650 fill power RDS down mummy with an ISO comfort rating of 12 degrees F for the CW1000 and 29 degrees F for the CW700. Two sizes are offered, and the label can be scanned to trace the down.\n\nIt publishes the clearest warmth data of the three down bags, where the QEZER bags give ranges and no standard-named ratings. It costs more than either QEZER, which buys that documentation and a lighter weight class.\n\nIt suits backpackers and cold campers who value ISO-style figures and traceable down. Select the CW1000 to get the 12 degree F comfort number.",
     "specs": [
       "650 fill RDS down",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31cYxWdU2bL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CMLNN4JY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CMLNN4JY?tag=rvgearlab-amz-20",
     "description": "The QEZER 4 lb bag carries 4 lb of 650 fill power white duck down and the listing says it keeps you warm at -22 degrees F. It has vertical baffles, an upgraded roomier cut and a mesh storage bag.\n\nIt has more down than any bag in this list, which matters most for stationary cold nights. It costs about $40 more than the 3.3 lb QEZER and gives up carry weight for that extra loft.\n\nIt suits winter car campers and base-camp users who value warmth over weight. Store it loose in the mesh bag.",
     "specs": [
       "4 lb of 650FP duck down",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/419KkXH3iCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B005EPRM4I?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B005EPRM4I?tag=rvgearlab-amz-20",
     "description": "The TETON Celsius Regular is a 0 degree bag with fiber fill, a poly-flannel lining and draft tubes. A half-circle mummy-style hood and a stuff sack are included.\n\nIt costs far less than the down bags and serves buyers who do not want to spend on down. It is bulkier than any of the three down bags and does not claim a fill power.\n\nIt suits budget car campers who want a 0 degree class bag without the down price. It is not a down bag, so it will not pack as small.",
     "specs": [
       "Fiber fill, 0 degree class",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/417rXa-hoDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BBBYY2SM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BBBYY2SM?tag=rvgearlab-amz-20",
     "description": "The Londtren is a flannel bag measuring 90 by 40 inches with a thickened shoulder warmer, a drawstring hood, a draft tube and a 210T waterproof shell. The listing names a 0 to 15 degree F range and a 20 degree F comfort figure.\n\nIt fits people up to about 7 ft, which no down bag here matches, and costs less than the QEZER bags. It lists no fill weight, unlike the down picks.\n\nIt suits tall campers who need length first and want a 0 degree class label under $70. Treat the 20 degree F comfort figure as the target.",
     "specs": [
       "0 to 15F range, 90 x 40 in",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31R7Rgj5D1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09LMNGNTL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09LMNGNTL?tag=rvgearlab-amz-20",
     "description": "The TETON LEEF is a lightweight mummy with three size options and a compression sack, sold with a choice of 0, 20 or 30 degree labels. The listing describes a roomier mummy shape that packs down small.\n\nIt prints fewer details than the QEZER and Naturehike bags and is aimed at hiking, where the TETON Celsius is a car-camping design. The three size choices let you match the bag to your height.\n\nIt suits budget backpackers who want a 0 degree option with sizes to choose from. Order the 0 degree variant.",
     "specs": [
       "0, 20 or 30 degree options",

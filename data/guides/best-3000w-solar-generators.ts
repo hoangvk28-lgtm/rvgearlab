@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41FKpIkddIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GY6XTZPG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GY6XTZPG?tag=rvgearlab-amz-20",
     "description": "The UDPOWER S2400 stores 2,083Wh in LiFePO4 cells rated for over 4,000 cycles and lists 2,400W rated output with a 3,000W peak. It has 6 AC outlets and 15 outputs in total, a UPS switchover under 0.01 seconds and a 41 pound body measuring 15.8 by 9.5 by 10.1 inches with dual handles.\n\nIt carries about twice the storage of the EcoFlow DELTA 3 Classic. The EcoFlow charges faster, while this one holds the energy longer.\n\nIt suits RV and home-backup buyers who want a long-lasting battery and plenty of outlets. The 3,000W peak starts motors and compressors.",
     "specs": [
       "2,083Wh LiFePO4, 2,400W",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31k4M4wngWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FRMQPZF6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FRMQPZF6?tag=rvgearlab-amz-20",
     "description": "The EcoFlow DELTA 3 Classic kit includes a 1,024Wh station and a 220W solar panel, with 1,800W output and 3,600W surge, expandable to 2,600W with X-Boost. It charges 0 to 80 percent in 45 minutes with X-Stream AC and fully on solar in 5.8 hours with the panel, and the UPS switches in under 10ms.\n\nIts 3,600W surge exceeds the UDPOWER S2400's 3,000W peak, and its 45 minute AC charge is far faster. Storage is about half, so it suits shorter runs.\n\nIt suits weekend RV and cabin users who want a panel in the box and quick wall charging. X-Boost lets it run some higher-wattage appliances.",
     "specs": [
       "1,024Wh, 1,800W, 3,600W surge",

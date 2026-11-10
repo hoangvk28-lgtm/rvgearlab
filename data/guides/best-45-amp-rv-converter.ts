@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zGUopucOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B47QHZCZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B47QHZCZ?tag=rvgearlab-amz-20",
     "description": "The genuine WFCO WF-9845-AD-CB is a deck-mount 45 amp converter charger with patented Auto-Detect that recognizes lead-acid or LiFePO4 batteries and adjusts the charging. The listing states full output down to 100 volts AC input, multi-stage charging in both chemistries, UL/CSA listing and FCC compliance, and design for low electrical noise. It is priced at $239.99.\n\nIt ranks first because it is the only unit here that combines auto-detection, a low-voltage output claim and a safety listing with a named OEM brand. It costs $53.68 less than the Progressive PD4645V and $140.99 more than the generic 9845-AD, which is the price of the standards listing and the detection. Against the PD4045KV at $235.54 it adds lithium handling for $4.45 more.\n\nPick this if you are replacing a 9800 series deck-mount converter, run lithium or may switch later, or camp where shore power sags. The caveat is price, and the feature text gives no dimensions, so match your existing bay before ordering.",
     "specs": [
       "45A, Auto-Detect charging",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41PTlyxJevL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B002OR2FIW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B002OR2FIW?tag=rvgearlab-amz-20",
     "description": "The Progressive Dynamics PD4645V is a 45 amp Inteli-Power 4600 series converter/charger with a Charge Wizard 4-stage charging system built in. The listing says it replaces the Parallax/Magnatek 6345, Parallax 7345, Parallax 8345 and WFCO 8945 converter sections, says the charger will not boil the battery, and calls it easy to install. It sells for $293.67.\n\nIt ranks second because its replacement list is the longest here, which matters if your RV has an older Parallax or Magnatek section. It costs $53.68 more than the WFCO 9845 and offers no lithium mode in the listing, so the extra money buys fit coverage rather than features. Compared with the PD4045KV at $235.54, it is $58.13 pricier but names the sections it replaces.\n\nChoose it for an older rig with a named Parallax or WFCO 8945 section and a lead-acid or AGM bank. The caveat is that lithium is not mentioned, so a LiFePO4 owner should pick the WFCO instead.",
     "specs": [
       "45A, Charge Wizard 4-stage",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41l6Kkoo+BL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B002XRU6FM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B002XRU6FM?tag=rvgearlab-amz-20",
     "description": "The Progressive Dynamics PD4045KV is a compact, lightweight 45 amp converter in the Inteli-Power 4000 series with Charge Wizard. The listing names reverse battery protection with easy-to-replace fuses, electronic current limiting, high and low AC input protection, an intelligent variable-speed cooling fan and automatic thermal protection. It is priced at $235.54.\n\nIt ranks third because its protection list is the most detailed among the legacy units, including low AC input protection, and it costs $58.13 less than the PD4645V. It does not name replacement sections or a lithium mode, and sits $4.45 below the WFCO 9845, which does give lithium handling. The variable-speed fan is a quiet-operation advantage over fixed-speed fans.\n\nPick it for a lead-acid RV where you want a fuse-protected, thermally protected 45 amp unit at a lower legacy price. The caveat is that the listing gives no fit or chemistry detail beyond Charge Wizard, so confirm the bay series before you buy.",
     "specs": [
       "45A, Charge Wizard",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41p34C5bTtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CPDNBBQ3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CPDNBBQ3?tag=rvgearlab-amz-20",
     "description": "The GYHMK 9845-AD is a 45 amp deck-mount converter sold as a replacement for the WFCO 9800 series. The listing says it gives clean DC power without needing the battery to filter it, will not interfere with TV or radio, uses an electronic current limiter that shuts off on overload or short circuit, and runs its fan only when needed. Charging is an automatic three-stage cycle. It is priced at $99.\n\nIt ranks fourth because it is $140.99 below the genuine WFCO 9845 with the same deck-mount footprint, but with no stated lithium mode and no safety listing. It costs $29.01 more than the zixixvan board and about $29 more than the VEVOR, buying a 9800-series-shaped box with quiet fan control. It is the pick when budget and fit outrank lithium.\n\nChoose it to revive an older 9800 series trailer on a lead-acid bank without paying genuine prices. The caveat is that the brand is unknown, so look at the return policy and keep the original wiring photos.",
     "specs": [
       "45A deck-mount, 9800 series",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Yfhm9Em-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GH132L7G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GH132L7G?tag=rvgearlab-amz-20",
     "description": "The zixixvan unit is a 45 amp converter board sold as an upgrade for the WF-8945 and the Parallax 7145 converter, listed for WF-8945-MBA compatibility. A red switch selects lithium mode when On and lead-acid mode when Off, the fan stays off until load demands it, and the listing names overcurrent, temperature, voltage and polarity protection. It states 45 amps DC from 105 to 130 volts AC at 60 hertz. It costs $69.99.\n\nIt ranks fifth because it is a replacement board for a WF-8900 style center, not a standalone deck-mount box, so it only works if your center is the right series. It undercuts the GYHMK by $29.01 and the WFCO by $169.99, and unlike the GYHMK it gives a manual lithium switch. The listing text also contains inconsistent compatibility notes (Parallax 7145 in one line and 7155 in another), which is a reason to check the fit.\n\nPick it to refresh the converter inside a WF-8945 style power center with a lithium switch on a small budget. The caveat is the inconsistent model references, so verify the exact board model against your own unit.",
     "specs": [
       "45A DC, 105-130V AC input",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51RvFltdxZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D9NMTMLR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D9NMTMLR?tag=rvgearlab-amz-20",
     "description": "The VEVOR 45 Amp is priced at $69.90 and lists dedicated lead-acid and LiFePO4 modes, a fixed voltage mode adjustable from 13.0V to 16.5V, a temperature-controlled fan, a metal body for heat dissipation and advanced protections. The title carries an ETL tested note. It states up to 45 amps of current and says it suits smaller batteries of 30Ah to 50Ah.\n\nIt ranks last because the 30Ah to 50Ah limit is a mismatch for a 45 amp box and because it is a generic design rather than a named bay replacement. It sits 9 cents below the zixixvan board, so the two are effectively the same price, but the VEVOR is a standalone box rather than a replacement board. It publishes more stages and voltage choices than the GYHMK 9845 at $99, and it beats the legacy picks by $166 to $224 on price.\n\nPick it for a van, a small trailer or a workshop bench where you can set a mode by hand. The caveat is that the 16.5 volt step must never be used on a battery, and the fan noise matters in a small cabin.",
     "specs": [
       "45A, 13.0V to 16.5V range",

@@ -21,7 +21,7 @@ export const products = withAmazonUrls([
     badge: "Best overall",
     name: "Anker SOLIX F3800 Portable Power Station, 3,840Wh",
     amazonQuery: "Anker SOLIX F3800 Portable Power Station, 3,840Wh",
-    amazonUrl: "https://www.amazon.com/dp/B0C5C9HMQ2?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0C5C9HMQ2?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/31Ot-SJ9h2L._SL500_.jpg",
     specs: ["Capacity: 3,840Wh","Continuous output: 6,000W","Battery chemistry: LiFePO4","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Capacity","value":"3,840Wh"},{"label":"Continuous output","value":"6,000W"},{"label":"Battery chemistry","value":"LiFePO4"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -36,7 +36,7 @@ export const products = withAmazonUrls([
     badge: "Best heavy-duty option",
     name: "Anker SOLIX F3800 Plus Portable Power Station and 400W Solar Panel, 3,840Wh",
     amazonQuery: "Anker SOLIX F3800 Plus Portable Power Station and 400W Solar Panel, 3,840Wh",
-    amazonUrl: "https://www.amazon.com/dp/B0GYPSSZ5H?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0GYPSSZ5H?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41XZ3k3Pa4L._SL500_.jpg",
     specs: ["Capacity: 3,840Wh","Continuous output: 6,000W","Included panel: 400W","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Capacity","value":"3,840Wh"},{"label":"Continuous output","value":"6,000W"},{"label":"Included panel","value":"400W"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -51,7 +51,7 @@ export const products = withAmazonUrls([
     badge: "Best compact option",
     name: "Anker SOLIX F3800 Plus Portable Power Station and 240V Generator Adapter",
     amazonQuery: "Anker SOLIX F3800 Plus Portable Power Station and 240V Generator Adapter",
-    amazonUrl: "https://www.amazon.com/dp/B0FB2XZQ68?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0FB2XZQ68?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/31sof9rUomL._SL500_.jpg",
     specs: ["Continuous output: 6,000W","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Continuous output","value":"6,000W"},{"label":"Buyer check","value":"Verify current model compatibility"},{"label":"Buyer check","value":"Verify current model compatibility"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -66,7 +66,7 @@ export const products = withAmazonUrls([
     badge: "Best value pick",
     name: "Anker SOLIX F3800 Portable Power Station, 3840Wh, LiFePO4 Batteries, Ultra-High 6000W AC Output",
     amazonQuery: "Anker SOLIX F3800 Portable Power Station, 3840Wh, LiFePO4 Batteries, Ultra-High 6000W AC Output",
-    amazonUrl: "https://www.amazon.com/dp/B0CW5TRFHJ?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0CW5TRFHJ?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/3150l1QPBVL._SL500_.jpg",
     specs: ["Capacity: 3,840Wh","Continuous output: 6,000W","Battery chemistry: LiFePO4","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Capacity","value":"3,840Wh"},{"label":"Continuous output","value":"6,000W"},{"label":"Battery chemistry","value":"LiFePO4"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -81,7 +81,7 @@ export const products = withAmazonUrls([
     badge: "Best backup pick",
     name: "Anker SOLIX F3800 Plus Portable Power Station, 3,840Wh, 3,200W Solar Input",
     amazonQuery: "Anker SOLIX F3800 Plus Portable Power Station, 3,840Wh, 3,200W Solar Input",
-    amazonUrl: "https://www.amazon.com/dp/B0DTSSCHG6?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0DTSSCHG6?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/31W14YFav1L._SL500_.jpg",
     specs: ["Capacity: 3,840Wh","Continuous output: 6,000W","Battery chemistry: LiFePO4","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Capacity","value":"3,840Wh"},{"label":"Continuous output","value":"6,000W"},{"label":"Battery chemistry","value":"LiFePO4"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -183,7 +183,7 @@ export const relatedGuides = [
 export const sources = [
   {
     "title": "Anker SOLIX F3800 Portable Power Station, 3,840Wh product page",
-    "href": "https://www.amazon.com/dp/B0C5C9HMQ2?tag=rvgearlab-20&linkCode=osi&th=1&psc=1"
+    "href": "https://www.amazon.com/dp/B0C5C9HMQ2?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1"
   },
   {
     "title": "CPSC carbon monoxide safety center",

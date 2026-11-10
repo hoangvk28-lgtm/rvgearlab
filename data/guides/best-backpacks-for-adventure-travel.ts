@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Jc+zqikWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B097P4JVP7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B097P4JVP7?tag=rvgearlab-amz-20",
     "description": "The tomtoc Navigator-T66 is a 40L carry-on backpack that the listing calls TSA friendly and flight approved. The laptop compartment opens from 90 to 180 degrees for security scanning, and YKK zippers and recycled PET fabric (100% post-consumer) handle daily wear.\n\nCompared with the Maelstrom 40L, it adds airport-friendly organization and a quick-access front pocket into the main compartment. Against the TILYMOL, it carries more with a 3D padded back panel and contoured shoulder straps.\n\nIt suits travelers who fly in and hike out and want one bag for both. An adjustable chest buckle helps spread weight.",
     "specs": [
       "40L carry-on, laptop opens flat",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51GyLmScDRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09P1HFTTL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09P1HFTTL?tag=rvgearlab-amz-20",
     "description": "The Maelstrom 40L is built from rip-stop 210D nylon that the listing describes as water resistant, tear resistant and scratch resistant. It includes a rain cover, a padded breathable back, reflective safety prints and elastic sides to hold trekking poles.\n\nCompared with the tomtoc Navigator, it brings trail essentials like a rain cover and pole attachments at a lower price. Against the MIYCOO, it offers a padded back and more compartments for a heavier load.\n\nIt suits travelers who plan multiday hikes after the flight. Several pockets help organize gear.",
     "specs": [
       "40L rip-stop 210D nylon",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zQ2pIMawL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07P1SFHK3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07P1SFHK3?tag=rvgearlab-amz-20",
     "description": "The MATEIN carry-on backpack expands to 45L on its listing and measures 19 by 13 by 8 inches at base size. It weighs 1 kg (2.2 lbs), hides its padded shoulder straps in a back panel and carries two padded grab handles.\n\nAgainst the tomtoc Navigator, it offers an extra expansion zone and a duffel-style carry option. Compared with the TILYMOL, it holds a larger load and has lockable zipper heads.\n\nIt suits adventure travelers who come home with souvenirs and need packing space to grow. Internal compression straps tame the extra volume.",
     "specs": [
       "Expands to 45L",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41r38y9czkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GJ4GZBN5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GJ4GZBN5?tag=rvgearlab-amz-20",
     "description": "The TILYMOL is a 25L carry-on pack measuring 11.8 by 6.9 by 17.3 inches, sized to fit under the seat or in the overhead bin. It has a 15.6 inch laptop compartment, an anti-theft zipper pocket and a trolley strap.\n\nCompared with the tomtoc Navigator, it is far smaller and lighter on the back. Against the MATEIN, it is easier to slip under a seat and avoids bag-fee headaches.\n\nIt suits budget fliers who take short adventure trips with one personal item. The thick, breathable back pad adds comfort.",
     "specs": [
       "25L, fits under the seat",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51N0GrTg4uL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7W1HL24?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7W1HL24?tag=rvgearlab-amz-20",
     "description": "The MIYCOO Packable is a 35L water-resistant daypack that folds into its own inner pocket. It has an IPX4 water-resistant fabric, three compartments including a wet section, anti-theft zipper clips and a survival whistle.\n\nCompared with the Maelstrom 40L, it takes almost no room in a suitcase. Against the TILYMOL, it adds size flexibility and a wet pocket for damp clothes.\n\nIt suits travelers who want a day hike bag stashed in their luggage. It weighs about half as much as a phone, according to the listing.",
     "specs": [
       "35L, folds into its own pocket",

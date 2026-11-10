@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411KIbjshaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CT91BSHZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CT91BSHZ?tag=rvgearlab-amz-20",
     "description": "The JOYTUTUS 8ft 2.0 is made for 8 to 8.2 ft beds and measures 121.2 by 62.9 by 66.9 inches inside for two people. It uses 150D polyester oxford with a PU2000 coating, four aluminum poles, three ventilated windows and four inner mesh bags.\n\nCompared with the other JOYTUTUS and the WildFinder, it is the only pole tent here with aluminum poles, which resist bending better than fiberglass. The color-matched pole ends make setup quick, and it lists fit for F150, Ram, Silverado, Tundra, Sierra and Titan.\n\nIt suits full-size truck owners who want a durable pole tent built specifically for a long bed. The four storage bags keep small gear off the floor.",
     "specs": [
       "8 to 8.2 ft bed fit",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51RKO9iTIfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GC6BMKWF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GC6BMKWF?tag=rvgearlab-amz-20",
     "description": "The JOYTUTUS 8.0Ft Straight uses a straight-aisle layout for more entry space than a regular truck tent. It has double-layer 210D polyester oxford with a PU2000 coating, a top mesh starry-sky roof and windows that open on all four sides.\n\nCompared with the 8ft 2.0, it swaps aluminum poles for fiberglass and adds the sky roof, while keeping the same 8 ft fit. Next to the WildFinder, it gives a stated pole count, carry bag and two mesh storage bags in the package.\n\nIt suits couples who want a stargazing roof and better airflow. The straight aisle also makes getting in and out less cramped.",
     "specs": [
       "8 ft truck bed fit",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Bqnmi8vhL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GX5KRR2L?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GX5KRR2L?tag=rvgearlab-amz-20",
     "description": "The WildFinder is named for 8.0 to 8.2 ft beds and is described as weather-resistant for simple, reliable rain protection without the bulk of extra layers. Its fit is straightforward and it sells for roughly the same as the JOYTUTUS Straight.\n\nIt is the plain option in the group, with fewer listed extras than the two JOYTUTUS tents. That keeps the setup simple and the cost down.\n\nIt suits occasional campers who want an 8 ft tent without sky roofs or extra bags. Its listing keeps the focus on the bed fit and weather protection.",
     "specs": [
       "8.0 to 8.2 ft bed fit",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51hEfqJuPmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GJTGWP5Z?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GJTGWP5Z?tag=rvgearlab-amz-20",
     "description": "The BravArrk is a 7.2 by 5.9 by 5.4 ft inflatable with 4 inch (10 cm) PVC air columns and a PU3000mm coating. A detachable zippered awning adds shade or comes off, and a manual pump is included.\n\nIt fits most 5.5 to 8 ft beds, so it works on an 8 ft box where the pole tents are cut precisely. Against the GARIGLOOME it is a little cheaper and adds the removable awning.\n\nIt suits solo campers who want a two-minute setup and shade on a long bed. The integrated floor helps keep the interior clean.",
     "specs": [
       "Fits 5.5 to 8 ft beds",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51V97myP2dL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H1GZX61Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H1GZX61Y?tag=rvgearlab-amz-20",
     "description": "The GARIGLOOME uses reinforced PVC air beams, an included pump and PU3000 waterproofing in a pole-free design that inflates in about 2 minutes. It is rated for 5.5 to 8 ft beds with extended side and rear rain flaps.\n\nIt offers a clear stargazing skylight with breathable mesh windows and dual-layer doors, features the BravArrk does not mention. It also costs the most here.\n\nIt suits campers who value ventilation and night sky views on a long bed. The rain flaps add coverage at the tailgate edge.",
     "specs": [
       "Fits 5.5 to 8 ft beds",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31FPNquhvfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D6NQKDWJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D6NQKDWJ?tag=rvgearlab-amz-20",
     "description": "The Coleman instant tent has a 10 ft by 9 ft floor in the 6-person size and goes up in as fast as 1 minute. It uses double-thick Polyguard 2X fabric, welded corners with inverted seams and an integrated rainfly that improves airflow.\n\nAgainst the Skydome it has a faster pitch and a heavier fabric, and costs about 70 dollars more. Compared with the Fanttik it has a larger stated floor and a brand-name weather system.\n\nIt suits families who camp often and want the fastest, sturdiest pitch. The listing spans 4 to 10 person sizes, so pick the 6-person one.",
     "specs": [
       "10 x 9 ft, 1 minute setup",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31PIc2XOSmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7QFZNS7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7QFZNS7?tag=rvgearlab-amz-20",
     "description": "The Coleman Sundome 6-person dome fits two queen airbeds and has a 6 foot center height. Welded corners and inverted seams keep water out, large windows and a ground vent move air, and continuous pole sleeves with Insta-Clip attachments speed up setup.\n\nIt costs about 15 dollars less than the Skydome and is a simpler dome than the instant Coleman. Against the Amazon Basics it has the taller 6 foot peak and a stated airbed fit.\n\nIt suits families that want standing room at a mid price. The tent packs into an included carry bag.",
     "specs": [
       "Two queen airbeds",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31w3dnjC5pL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7QL1LHC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7QL1LHC?tag=rvgearlab-amz-20",
     "description": "The Coleman Skydome pitches in under 5 minutes on poles already attached to the body, and its nearly vertical walls give 20 percent more headroom than traditional Coleman domes. Its frame is tested to 35 mph winds, and a wider door eases air beds and bags in and out.\n\nIt sits between the Sundome and the instant model on price and pitch speed. Against the Fanttik it uses a dome shape with a taller wall instead of a pop-up cabin.\n\nIt suits families who want taller walls and a wide door at a mid price. Welded corners and inverted seams handle rain.",
     "specs": [
       "Pre-attached poles, 5 minutes",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41eLu13lAoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CR144NCS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CR144NCS?tag=rvgearlab-amz-20",
     "description": "The Fanttik Zeta C6 Pro measures 120 by 108 inches and pitches in under 60 seconds. Airflow comes from windows on every side, plus low vents and a mesh ceiling, and a door drainage channel and power cord entrance round it out.\n\nIt costs about 78 dollars less than the instant Coleman and offers a stated frank capacity. Against the ADSMART it has a taller build and a cord port.\n\nIt suits families that want a fast pitch without the top price. The listing says 6 for sleeping only and 3 with camping gear.",
     "specs": [
       "120 x 108 in, 60 second setup",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/310T2i6VSNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GJSK8VZ9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GJSK8VZ9?tag=rvgearlab-amz-20",
     "description": "The ADSMART instant tent is 10 ft by 9 ft by 66 inches with pre-attached poles that set up in 60 seconds. It folds to 8 by 8 by 42 inches and weighs 16 pounds, with 3 large mesh windows and 4 steel leg poles.\n\nIt costs less than any of the Colemans here. Against the Fanttik it has a bigger stated floor with a lower 66 inch roof.\n\nIt suits campers with a small trunk who want an instant tent. The listing includes a stake kit with it.",
     "specs": [
       "10 x 9 ft, 66 in tall",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Nuz9EptIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DDSYHYVX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DDSYHYVX?tag=rvgearlab-amz-20",
     "description": "The Amazon Basics 6-person dome is a three-season free-standing tent in water-resistant coated polyester with welded seams. Shock-corded poles with snag-free sleeves set it up in under 6 minutes, and a rainfly has a back window and a cool-air port.\n\nPriced lowest of the six, it works as a dome for camping or hiking. Against the instant tents it takes a few more minutes to pitch.\n\nIt suits first-time families on a budget. An interior mesh pocket and a compact storage bag are included.",
     "specs": [
       "Three-season free-standing dome",

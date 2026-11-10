@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31GkrNruWAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DK7PW7HF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DK7PW7HF?tag=rvgearlab-amz-20",
     "description": "The NEMO Disco Women's uses a spoon shape with extra room at the elbows and knees and fills it with 650 FP hydrophobic, PFAS-free, RDS-certified down. Thermo Gill vents and an oversized Blanket Fold draft collar manage warmth through a multistage zipper system.\n\nIt offers more features than the Kelty: vents that fine-tune the comfort range and a collar that blocks drafts or releases heat. It is available as a 15F Regular, a 15F Regular Wide and a 30F Regular, so you can choose rating and width.\n\nIt suits side sleepers and campers who toss and turn and want fine control over warmth. The recycled construction and RDS down suit buyers who care about sourcing.",
     "specs": [
       "650FP hydrophobic RDS down",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31aurJ0qYNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CSPJKBWR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CSPJKBWR?tag=rvgearlab-amz-20",
     "description": "Kelty fills the Cosmic 20 Women's with 550 FP RDS-traceable down inside recycled nylon and polyester taffeta, finished with PFAS-free DWR. Dual-direction zippers are listed, along with an ISO limit rating of 21 degrees and an extreme rating of -11 degrees.\n\nIt costs a fraction of the NEMO and prints standardized ISO numbers, which the NEMO bullets do not. Sizes step in 6 inch increments, from Short up to Long, and the traceable down carries a tag you can scan.\n\nIt suits backpackers who want a trusted down bag with clear ratings at a moderate price. The Short and Regular fits cover petite and average women.",
     "specs": [
       "550FP RDS-traceable down",

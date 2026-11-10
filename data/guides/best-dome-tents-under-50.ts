@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31uxxwrBNWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07WR1V29Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07WR1V29Y?tag=rvgearlab-amz-20",
     "description": "The Night Cat is a single-wall-style dome with a PU3000 polyester shell and sealed seams, weighing 4.4 lb. Its fiberglass poles wear protective cases, and the pack folds to roughly 16.5 inches long.\n\nA taped, rated shell is what separates it from the plain domes further down this list, including the JELUCAMP Dome. It also packs smaller than the CAMPROS and Mobihome options.\n\nSolo campers and bikers who care more about dryness than space will value it. A second small sleeper can fit, with gear stored elsewhere.",
     "specs": [
       "4.4 lb, PU3000 polyester",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31KRDuy9QdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0831HH4QC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0831HH4QC?tag=rvgearlab-amz-20",
     "description": "The Mobihome is a hub-style pop-up dome sized for two or three adults, with an interior of about 6.9 ft by 6.2 ft and a 43 inch peak. It weighs 8.5 lb and packs in a bag about 40 inches long.\n\nA roll-out, lift-the-hub setup beats every pole-sleeve dome here for speed. Compared with the CAMPROS it has less height and a longer packed bag, yet it needs far less effort to pitch.\n\nIt suits families, kids and campers who dislike poles. A 190T polyester shell, a PE floor, taped seams and a rainfly keep rain out.",
     "specs": [
       "Pop-up hub dome, 8.5 lb",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31-qntNOuuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G2BZB5ZK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G2BZB5ZK?tag=rvgearlab-amz-20",
     "description": "The CAMPROS is a three-person dome with a floor about 7 ft square and a 47 inch center height that takes one queen mattress. Sealed seams, a waterproof strip, a rainfly and mesh on the top and doors round out the build.\n\nIt has the most floor of any dome here by a wide margin, ahead of the Night Cat and Wakeman. The Mobihome pitches more easily, while the CAMPROS is lighter in the bag and cheaper.\n\nCouples with an air mattress or families with a small child will fit comfortably. Two people can raise it in about five minutes.",
     "specs": [
       "Floor near 7 ft square",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31j1KQ9dXsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08RJC5TM3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08RJC5TM3?tag=rvgearlab-amz-20",
     "description": "The CAMEL CROWN is a family dome that comes in 2 to 5 person sizes with an 8.5mm glass fiber bracket, 150D Oxford interior fabric rated PU2000 and aluminum poles. A dual-purpose double-layer top adds mosquito screens, windproof ropes and iron ground stakes.\n\nIts airflow top is the main upgrade over the JELUCAMP Dome and Wakeman, and the Oxford floor is tougher than basic polyester. It leaves the Night Cat ahead on taped seams.\n\nCampers in warm, buggy places will like the screens. Check which size you choose, because the page covers several.",
     "specs": [
       "PU2000 150D Oxford floor",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41tyug8U+OL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CSCWN2R7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CSCWN2R7?tag=rvgearlab-amz-20",
     "description": "The JELUCAMP dome is about 7.2 ft long and 4.9 ft wide with a 43 inch peak, weighing 4.3 lb. It uses PU3000 polyester, 7.9mm fiberglass poles and a double-layer door with a mesh panel.\n\nIt beats the Wakeman D-Door on floor space and carries a stated waterproof coating, which the Wakeman does not. The CAMPROS and Mobihome offer more floor and cost more.\n\nBeginners and festival-goers who want a roomy dome for little money will like it. The double-layer door keeps bugs out in summer.",
     "specs": [
       "4.3 lb, PU3000 polyester",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41V04YYaPYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07YP7JWRN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07YP7JWRN?tag=rvgearlab-amz-20",
     "description": "The Wakeman is a two-pole dome with a D-shaped door, an interior storage pocket, a removable rain fly and a screen-and-fabric dual door. It is the most basic tent in the group.\n\nIts design is simpler than the JELUCAMP, with a lower stated spec level, so the price reflects that. It lacks the coating rating and sealed seams of the Night Cat.\n\nIt suits kids' sleepovers, backyard nights and quick overnighters. A D door makes getting in easier.",
     "specs": [
       "Two-pole dome, D-shaped door",

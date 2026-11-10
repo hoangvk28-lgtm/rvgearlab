@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31DsGtt8XjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F939D1LR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F939D1LR?tag=rvgearlab-amz-20",
     "description": "The Zelvot is a 500 ml collapsible TPU flask that collapses as you drink, which cuts sloshing and saves space. It uses a wide mouth for filling and cleaning, and an updated soft bite valve with a higher flow rate.\n\nIt pairs a wide mouth with a higher-flow bite valve, which the AXEN and WILDREEDS describe in less detail. The listing says it is 100 percent BPA and PVC free.\n\nIt suits vest runners who want a simple, well-described flask. Bite the valve and drink without using your hands.",
     "specs": [
       "500 ml collapsible TPU flask",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31X7YbjPEDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07KNDT5J7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07KNDT5J7?tag=rvgearlab-amz-20",
     "description": "The FITLY soft flask shrinks as liquid is used, which reduces sloshing and bouncing. A bite valve with a leak-resistant design lets you sip while moving, and the BPA and PVC free TPU shapes to the hand.\n\nIt describes the shrink-as-you-drink behavior in detail, and its bite valve is the most carefully described here. It costs about the same as the Zelvot.\n\nIt suits runners who want a quiet, compact flask in a vest pocket. The soft body is lightweight and packable.",
     "specs": [
       "500 ml-class soft flask",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31pvwoQMpiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CB7QP684?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CB7QP684?tag=rvgearlab-amz-20",
     "description": "The AXEN is a 500 ml (16 oz) foldable TPU flask with a durable bite valve and a dust cover. The recommended temperature range is 0 to 60 C, and it is BPF-free and lightweight.\n\nIt is the only flask here with a dust cover on the bite valve, which keeps the mouthpiece clean in a pocket. It states a temperature range, which the others skip.\n\nIt suits trail runners who stash the flask on the vest and want a clean mouthpiece. The foldable body packs flat.",
     "specs": [
       "500 ml foldable TPU flask",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31pRBqcSKQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CTKFL3NY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CTKFL3NY?tag=rvgearlab-amz-20",
     "description": "The WILDREEDS is a 500 ml food-grade TPU soft flask with a 20mm wide cap and a high-flow valve. The listing says it is BPF-free, lightweight and easy to clean, with a 0 to 60 C range.\n\nIt states a 20mm wide cap, which makes filling easier than narrow-neck flasks. It does not include the dust cover of the AXEN.\n\nIt suits runners who refill from streams or taps. The high-flow valve gives more water per bite.",
     "specs": [
       "500 ml TPU soft flask",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31fqq2B4A9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GR9BJMFZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GR9BJMFZ?tag=rvgearlab-amz-20",
     "description": "The Hongdouo set includes two 500 ml (17 oz) BPA-free TPU soft flasks for hydration vests, running backpacks or pockets. The flasks collapse to cut weight and carry a squeeze-to-control design.\n\nIt is the only pack of two, so you can fill both front pockets of a vest. It costs the same as a single flask from the others.\n\nIt suits long-run and ultra runners who carry a litre in front pockets. The two flasks balance the load.",
     "specs": [
       "Two 500 ml (17 oz) TPU flasks",

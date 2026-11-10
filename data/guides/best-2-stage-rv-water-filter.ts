@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41IIax7ZYAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07GBZ83HH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07GBZ83HH?tag=rvgearlab-amz-20",
     "description": "Beech Lane's two-stage kit uses a 5 micron sediment cartridge and a 0.5 micron carbon block, with 3/4 inch lead-free brass fixtures, a bracket and a lifetime manufacturer warranty. The housing, fixtures and bracket are made by the brand for RV use.\n\nIts 0.5 micron carbon block is a finer second stage than the 5 micron cartridges the VEVOR 2-Stage lists, and none of the PUREPLUS or VEVOR kits name a warranty. It is also the lowest-priced kit in this comparison.\n\nBest for most campers who want a proven two-stage layout with long-term support. It makes no health-contaminant claims.",
     "specs": [
       "5 micron plus 0.5 micron",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/416lkYJwCJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G42WW12M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G42WW12M?tag=rvgearlab-amz-20",
     "description": "This PUREPLUS kit pairs a 5 micron polypropylene sediment stage with a PFAS-focused carbon stage, and the listing says it is independently tested to NSF/ANSI 42 for material safety and aesthetic contaminant reduction. It adds stainless steel 3/4 inch fittings and a 13,000 gallon cartridge set capacity.\n\nIt is the PUREPLUS version with the clearest standards wording, ahead of PUREPLUS Standard and PUREPLUS Metals which share its hardware. It costs more than Beech Lane Dual and gives no warranty.\n\nBest for buyers who care about a named standard and PFAS-focused carbon. NSF/ANSI 42 is aesthetic, so read it as taste and odor.",
     "specs": [
       "NSF/ANSI 42 listed",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41qLbws+iQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DZ6FQLMH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DZ6FQLMH?tag=rvgearlab-amz-20",
     "description": "The mid-tier PUREPLUS kit uses a 5 micron PP10 sediment cartridge for stage one and a second-stage cartridge, with stainless steel 3/4 inch ports, a dual-purpose bracket and a quoted 13,000 gallon capacity of about 3 to 6 months. The second-stage media is not described in detail, so confirm it before buying.\n\nIt matches PUREPLUS PFAS on hardware and capacity but costs less because the listing does not highlight PFAS carbon. It is above PUREPLUS Metals only on price, so check what the second stage is.\n\nBest for buyers who want the PUREPLUS hardware without the premium. The listing names NSF/ANSI 42 in its title.",
     "specs": [
       "5 micron PP10 sediment",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51sOnZtY0cL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GZNLK7TY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GZNLK7TY?tag=rvgearlab-amz-20",
     "description": "VEVOR's dual-stage system states a 20 to 125 psi pressure range and a 3 gpm flow rate, with 4,500 gallons of filtration capacity and 5 micron cartridges. The listing says it reduces sediment, chlorine, heavy metals and microbes.\n\nThe pressure range is a clear advantage over Beech Lane Dual, which lists none. The capacity is lower than PUREPLUS kits' 13,000 gallons, and the microbes line is an unsupported claim to treat cautiously.\n\nBest for rigs on varied pressure hookups. The microbes claim has no named standard, so do not treat it as a purifier.",
     "specs": [
       "20 to 125 psi range",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41qgo9uU5UL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DZ6MRL94?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DZ6MRL94?tag=rvgearlab-amz-20",
     "description": "This is the lowest-priced PUREPLUS kit, titled for heavy metals reduction, with the same 5 micron PP10 first stage, stainless ports, ground or wall bracket and 13,000 gallon capacity wording. The listing does not describe the second-stage media in detail.\n\nIt shares the hardware of PUREPLUS Standard, so you are not losing build quality. It drops the certification highlight of PUREPLUS PFAS and is less documented than Beech Lane Dual.\n\nBest for budget shoppers who like stainless fittings. The listing does not say which metals or what test standard, so check before you rely on it.",
     "specs": [
       "Heavy metals reduction title",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41iF+neJtwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09V3HHC4S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09V3HHC4S?tag=rvgearlab-amz-20",
     "description": "GoBluTech's R2 pairs a 0.2 micron Blu Technology filter with a carbon cartridge, uses compact 5 inch filters, stainless quick connects and a lightweight polycarbonate carbon fiber frame. It quotes 2 to 4 months per set.\n\nThe 0.2 micron stage is by far the finest in this list, finer than Beech Lane Dual's 0.5 micron carbon block. It costs about four times as much as Beech Lane Dual and uses small 5 inch cartridges that run out sooner.\n\nBest for buyers who want a 0.2 micron stage in two cartridges. The listing names no bacteria claim, so treat it as a fine-particle and taste filter.",
     "specs": [
       "0.2 micron high flow filter",

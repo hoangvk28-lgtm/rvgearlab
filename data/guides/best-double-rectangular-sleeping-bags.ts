@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411iU5r8l1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DH2WGKD9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DH2WGKD9?tag=rvgearlab-amz-20",
     "description": "ETGLCOZY sells an XL queen double for two adults that converts into two separate bags or two blankets through a dual-zipper system. Construction includes soft flannel inside, a Thermolock tube along the zipper and a vent zipper at the foot.\n\nAgainst the AGEMORE, it adds a named draft tube and a bottom vent, and it converts into blankets as well as singles. It also comes with a storage bag and is machine washable.\n\nA good choice for couples and families who want a flexible, spacious bed for two. The waterproof fabric resists damp.",
     "specs": [
       "Dual zippers, converts to two",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51jFot28IYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F43QK29X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F43QK29X?tag=rvgearlab-amz-20",
     "description": "AGEMORE lines this double with brushed flannel cotton and a 210T water-resistant polyester exterior, and states a design range of 41 to 59F. Zippers on both sides let it work as one extra-large bag or two single bags.\n\nIt is the one of the pair that prints a temperature range, which gives you something to plan against. The listing says it compresses tightly for packing and puffs up when in use.\n\nA solid fit for couples camping in mild spring and fall weather. The flannel feels soft against skin.",
     "specs": [
       "41 to 59F design range",

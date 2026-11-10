@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zASVVW96L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07Y4XX65M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07Y4XX65M?tag=rvgearlab-amz-20",
     "description": "The SimPure is a gravity set with a 3 liter TPU bag and a three-stage filter of 0.1 micron hollow fiber, 5 micron coconut shell GAC and 0.2 micron PP fiber. The page lists a 5,000 liter lifespan, 27 liters per hour and a 2.8 oz filter.\n\nOnly this pick ships with a filter, so you hang it and drink. The filter can also serve alone as a personal straw, or take an extension tube for more reach.\n\nIt suits campers who want a ready bag-and-filter set for cooking and bottle filling. Hang it from a strap.",
     "specs": [
       "3 liter TPU bag with filter",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41F17a9BqgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DHGXTCPJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DHGXTCPJ?tag=rvgearlab-amz-20",
     "description": "The Burtrail Ultra is a food-grade TPU gravity bag listed as 2 gallons or 8 liters, with a double-soldered seam. The kit includes an adjustable strap, a connecting hose, a flow regulator and a mesh storage bag.\n\nIt is the largest bag here and works with filters named on the page, such as the SP128 Mini and SP129 Squeeze. Compared with the Vecto, it turns a straw filter into a gravity system.\n\nIt suits groups who already own a compatible filter and want a big reservoir. A wide mouth speeds filling.",
     "specs": [
       "8 liter food-grade TPU bag",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31lYate4SrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07QBQ894L?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07QBQ894L?tag=rvgearlab-amz-20",
     "description": "The Cnoc Vecto is a 2 liter collection bag that threads onto filters with a 28 mm neck, such as the Sawyer Squeeze and the HydroBlu VersaFlow. The page lists a wide opening, a tethered cap, a slider and a breaking point of 220 lbs.\n\nSmallest and lightest of the three, it collects water in streams where bottles are awkward. Compared with the Burtrail, it is a squeeze-and-scoop bag, not a gravity reservoir.\n\nIt suits solo hikers with a compatible filter who want an easy scoop bag. It is simple to clean and dry.",
     "specs": [
       "2 liter bag with 28 mm neck",

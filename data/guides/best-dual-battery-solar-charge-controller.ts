@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Ic2l3y83L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09DVWPHJW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09DVWPHJW?tag=rvgearlab-amz-20",
     "description": "EPEVER's DuoRacer is a 30A MPPT that charges two batteries at once, with tracking efficiency listed at 99.5% or better. The DuoRacer is a 30A MPPT controller that charges two batteries at once, with tracking efficiency listed at 99.5% or better. It auto-detects 12V or 24V, accepts up to 100V PV and 390W on 12V (780W on 24V), and has an LCD plus an AES control signal for a car refrigerator.\n\nIt has more capacity and tracking than the PWM EPEVER units below it and more solar focus than Renogy 30A DC-DC. It costs more than the 20A PWM models.\n\nBest for an RV or boat with a house and starter battery. It is built for an RV, camper or boat with a house and starter battery, though the listing describes a negative-ground design.",
     "specs": [
       "30A MPPT, two batteries",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31cSgrZrXOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B093BB3PCV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B093BB3PCV?tag=rvgearlab-amz-20",
     "description": "Renogy's 30A is a DC-DC charger with MPPT, taking solar and the vehicle alternator rather than acting as a plain solar controller. Renogy's 30A unit is a DC-DC on-board charger with MPPT, so it charges a service battery from solar panels and the vehicle's alternator rather than acting as a plain charge controller. It measures 9.6 by 5.7 inches, weighs 3.13 pounds, is 12V with 24V compatibility, and lists eight protections.\n\nIt differs from EPEVER DuoRacer 30A by charging from the alternator while driving. It is more involved to wire than the solar-only units.\n\nBest for a rig that needs alternator and solar charging. It suits a rig that needs both alternator and solar charging, but it is more involved to install than a plain controller.",
     "specs": [
       "30A DC-DC with MPPT",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/316kUR3loYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FLLFFDXZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FLLFFDXZ?tag=rvgearlab-amz-20",
     "description": "Victron's BlueSolar PWM DUO is a 20A controller with an LCD, USB ports and light control. Victron's BlueSolar PWM DUO is a 20A 12/24VDC controller with an LCD, two 5V USB ports, programmable light control and three-stage charging that can be fully programmed. The listing does not describe how the second battery output works, so confirm the DUO behavior against Victron's manual.\n\nIt is more programmable than EPEVER 20A Dual PWM but its listing does not detail the second battery output. Read the manual before relying on it.\n\nBest for a user who wants a programmable PWM and a known brand. Pick it if you trust the Victron name and want a programmable PWM unit, and read the manual first for the dual-output details.",
     "specs": [
       "20A PWM, 12/24VDC",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41S5XwgOdML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B081RDBHWK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B081RDBHWK?tag=rvgearlab-amz-20",
     "description": "EPEVER's EPIPDB 20A charges two batteries independently with a settable priority such as 30/70. EPEVER's EPIPDB-COM 20A is a dual-battery solar controller for 12V/24V that charges two batteries independently with a settable priority such as 30/70. Where there is no remote temperature sensor, it calculates from its local sensor.\n\nIt has more capacity than EPEVER EPIPDB 10A and falls back to a local temperature sensor. It is PWM, unlike EPEVER DuoRacer 30A.\n\nBest for balanced charging between house and starter batteries. It suits a rig with a house and starter battery that needs sensible priority, with a remote temperature sensor optional.",
     "specs": [
       "20A, two batteries",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41V4j98SMsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B081GRYXNC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B081GRYXNC?tag=rvgearlab-amz-20",
     "description": "EPEVER's 20A dual PWM sets a priority split such as 80/20 for two batteries. This EPEVER 20A PWM controller charges and protects two batteries or banks independently, with a priority split such as 80/20. It auto-detects 12V or 24V, has adjustable parameters and lists sealed, gel and flooded batteries.\n\nIt matches EPEVER EPIPDB 20A on amps and price but lists fewer details on temperature handling. It names sealed, gel and flooded batteries.\n\nBest for lead-acid dual banks. Check the battery type before buying, since the listing names sealed, gel and flooded batteries only.",
     "specs": [
       "20A PWM, two batteries",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41S5XwgOdML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B081RL6D45?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B081RL6D45?tag=rvgearlab-amz-20",
     "description": "EPEVER's 10A EPIPDB is the smallest dual-battery option here, sharing the 20A model's logic. The 10A EPEVER EPIPDB-COM shares the dual-battery design of its 20A sibling, charging two batteries independently with an adjustable priority. It auto-works on 12V/24V and falls back to a local temperature sensor when no remote sensor is fitted.\n\nIt costs less than EPEVER EPIPDB 20A but limits array size. It is best as a small second-battery charger.\n\nBest for a small second battery on a minimal array. At 10A it only suits a small panel, so it works for a tiny second-battery job.",
     "specs": [
       "10A, two batteries",

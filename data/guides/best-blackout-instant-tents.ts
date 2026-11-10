@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/517yaBmyvOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FX4L87XZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FX4L87XZ?tag=rvgearlab-amz-20",
     "description": "The EVER ADVANCED 10-person tent has a 14 by 10 ft floor with a 78 inch center, a pre-attached frame that sets up in 3 to 5 minutes and a light-blocking fabric made for late sleepers. A 4000mm water-resistant coating and fully taped seams back it for rain, with 2 doors and 5 zippered mesh windows.\n\nAgainst the 6-person tents it has the bigger floor. Compared with the TIMBER RIDGE it states 4000mm where that tent states 2000mm.\n\nIt suits large families who want to sleep in and need room for gear. An overhead net roof gives 360-degree airflow, and interior pockets hold small gear.",
     "specs": [
       "14 x 10 ft, 78 in center",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410w6Eos1zL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CH81KHF8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CH81KHF8?tag=rvgearlab-amz-20",
     "description": "The EVER ADVANCED 6-person tent opens to a 9 by 9 ft floor with a 73 inch peak and folds to a bag about 47.6 inches long. The blackout fabric keeps out most temperature changes as well as light, and one person can set it up in 60 seconds.\n\nIt costs about 120 dollars less than the 10-person model and states a 60 second pitch. Against the TIMBER RIDGE it is about 2 dollars more and adds a skylight.\n\nPick it for a pair or a young family that wants a dark tent pitched in a minute. Three zippered mesh roll-up windows plus a net window overhead help airflow.",
     "specs": [
       "9 x 9 ft, 73 in, 60 second setup",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51795lU63xL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DL93R15F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DL93R15F?tag=rvgearlab-amz-20",
     "description": "The TIMBER RIDGE is a 9 by 9 ft by 72 inch tent whose blackout design blocks over 90 percent of sunlight. It has a 2000mm water-resistant rating, fiberglass poles and a one-person 60 second setup with pre-attached poles.\n\nIts price is the lowest of the group, and it alone quantifies its blackout at over 90 percent. Compared with the 10-person EVER ADVANCED it has a smaller floor and a lower rain rating.\n\nIt suits budget buyers who want a measured light-block claim. The listing says it fits six sleeping bags and four people comfortably.",
     "specs": [
       "9 x 9 ft, blocks 90% of light",

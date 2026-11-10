@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31fXZXNTljL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FGXY4FML?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FGXY4FML?tag=rvgearlab-amz-20",
     "description": "The Osprey Duro LT is a men's-fit vest with two Hydraulics 500 mL soft flasks (40 grams each) and removable WingStay stabilizers. It has a 360-degree stretch back panel, dual sternum straps, dual stretch food pockets, a vertical-zip front pocket and a pass-through lumbar pocket.\n\nIt carries a full liter of fluid in two flasks, double the SWIFTVEST. Compared with the INOXTO, it is a front-loaded vest with a bounce-free design.\n\nIt suits runners who want a tailored, stable fit and a trusted brand for long runs. Three sizes are listed by chest circumference.",
     "specs": [
       "Two 500 mL flasks included",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4179PdMeg-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CGPYLG6H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CGPYLG6H?tag=rvgearlab-amz-20",
     "description": "The SWIFTVEST Flask vest packs six pockets, with a waterproof zip pouch up front for the phone. Its quick-dry fabric includes vented heat zones, neoprene padding limits bounce and chafing and a 500ml soft flask is included, with three size options starting at XS-S.\n\nIt offers weather protection that the INOXTO does not list, with a flask where the Osprey carries two. Compared with the SWIFTVEST Phone Vest, it ships with the flask and a slightly different pocket layout.\n\nIt suits runners who want a snug, weather-ready vest at a mid price. Reflective detail on the front and back adds visibility.",
     "specs": [
       "6 pockets, waterproof phone pouch",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41rLZfKKuLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C4RKZTSZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C4RKZTSZ?tag=rvgearlab-amz-20",
     "description": "The SWIFTVEST Phone Holder vest is built around a waterproof phone pouch, with six pockets, an adjustable waistband and a water bottle holder. It uses the same heat-dissipation zones, neoprene padding and reflective detailing as its sibling.\n\nIt puts the phone first, with a waterproof front pouch that fits major phones. Compared with the SWIFTVEST Flask, it lists a waistband and a bottle holder.\n\nIt suits runners who use a phone for music or navigation. The adjustable waistband secures the load.",
     "specs": [
       "6 pockets, waterproof phone pouch",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hPxhTJU4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BF4SYFGQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BF4SYFGQ?tag=rvgearlab-amz-20",
     "description": "The INOXTO 2L is a bladder pack measuring 16.92 by 8.66 by 7.8 inches in scratch-resistant material with a lotus leaf-like waterproof effect. A 2 liter bladder with a switch valve and a cover cap, reflective trim and a mesh back lining are listed.\n\nIt offers twice the SWIFTVEST fluid capacity in a back bladder and is the lowest priced. Compared with the Osprey, it is a pack style rather than a flask vest.\n\nIt suits runners and hikers who prefer sipping from a tube. A large opening makes filling easy.",
     "specs": [
       "2L bladder, leak-proof valve",

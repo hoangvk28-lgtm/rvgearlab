@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51mLu5ekUgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01HUOEGM6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01HUOEGM6?tag=rvgearlab-amz-20",
     "description": "Chef Master's portable butane stove is rated at 15,000 BTU with a double wind guard around the burner head. An inline regulator and pressure-sensing shutoff stop gas flow if pressure climbs, and a hard-shell case comes in the box.\n\nThat output is well above the 3,000 W minis, and the hard case can sit beside the burner as a windbreak. It is also the most expensive stove in this guide.\n\nBest for campers and tailgaters who want a high-heat canister stove in a protective case. Piezo ignition lights it with a twist.",
     "specs": [
       "15,000 BTU butane",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41JavTsgoZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01HQRD8EO?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01HQRD8EO?tag=rvgearlab-amz-20",
     "description": "The GS-3400P from Gas One burns butane from a cartridge, or propane from a cylinder through the supplied converter regulator. Controls include a heat dial, piezo igniter and a cartridge ejection feature.\n\nIt adds propane on top of what the Gas One Butane Stove offers, so it keeps working in cooler weather. It is bulkier, and fuel is sold separately.\n\nA reliable pick for mixed-weather camping trips. Includes a carrying case.",
     "specs": [
       "Butane or propane dual fuel",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/310zJ+RVtBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08WTNVPB7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08WTNVPB7?tag=rvgearlab-amz-20",
     "description": "The Gas One Butane Stove is a 7,650 BTU burner for 8 oz butane canisters, with a listing that says it is CSA approved. Piezo ignition, a safety shut-off and a canister ejection feature that trips at 0.7 kilogram force round out the safety kit.\n\nIt is the lowest-cost cooker here that lists a recognized approval. A carrying case and a manual are included.\n\nFits campers and tailgaters who want a straightforward, certified butane stove. Quiet burn, for outdoor use only.",
     "specs": [
       "7,650 BTU butane burner",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41oxFcZEApL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0829RKQXZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0829RKQXZ?tag=rvgearlab-amz-20",
     "description": "The Odoland 3500W is a foldable canister stove with a built-in windshield, a piezo igniter and a flame controller. The listing quotes about 3 minutes to boil 1 liter and gives two connectors for different gas tanks.\n\nIt is smaller than the Gas One and Chef Master cookers, and cheaper, with a wind shield they lack in the listing. It takes 7/16 thread propane, butane or mixed canisters.\n\nA neat choice for hikers and picnickers who want portable and compact. A carry case is included.",
     "specs": [
       "Up to 3500W output",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hybCmWPwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07NJYV3NP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07NJYV3NP?tag=rvgearlab-amz-20",
     "description": "The AOTU is a 3,000 W mini with a honeycomb wind net and piezo ignition. A control valve covers boiling and simmering, and the small head suits a pot near 20 cm.\n\nIt is the cheapest and smallest of the five and gives up the safety extras. It will not fit propane-only canisters.\n\nA solid backup or add-on stove. The plastic box stores it.",
     "specs": [
       "Suits 1 to 3 people",

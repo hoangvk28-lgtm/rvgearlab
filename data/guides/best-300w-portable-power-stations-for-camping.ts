@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41-Ey75o-WL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B082TMBYR6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B082TMBYR6?tag=rvgearlab-amz-20",
     "description": "The Jackery Explorer 300 is a 7.5 pound station with 292Wh of LiFePO4 capacity, 300W continuous output and a 600W peak. Beyond two wall sockets it adds a 100W PD USB-C jack, a pair of USB-A jacks and a 120W car socket, and it gets to 80% in about 2.8 hours from a 100W Jackery panel.\n\nIt is the heaviest of the six, in exchange for the highest capacity and the best-known solar pairing. The listing quotes more than 4,000 cycles to 70% capacity.\n\nIt suits campers who want a trusted name, a handle and an easy solar plan. The kit includes an AC adapter and a car charger cable.",
     "specs": [
       "292Wh LiFePO4, 300W rated",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41D2iTEmNsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GKYDWMTW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GKYDWMTW?tag=rvgearlab-amz-20",
     "description": "The DaranEner 300W stores 192Wh in LiFePO4 cells and delivers 300W with a 600W surge from two pure sine wave AC outlets. It recharges from 0 to 100% in about 2 hours through a 100W wall input, and has a 60W USB-C port.\n\nIt weighs 5.73 pounds and has less capacity than the Jackery and Anker, in return for the quickest refills. The listing says the cells tolerate temperatures up to 140 degrees F.\n\nIt suits campers who top up between outings and want a lighter box. The 140 degree F tolerance suits hot car trunks.",
     "specs": [
       "192Wh, 300W / 600W surge",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31pF9S5+P0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D62PMB3R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D62PMB3R?tag=rvgearlab-amz-20",
     "description": "The Anker SOLIX C300 DC carries 288Wh and 300W with LiFePO4 cells and a 3-year guarantee. Ports include two 140W USB-C, one 100W USB-C, one 15W USB-C, two 12W USB-A and a 120W car socket.\n\nIt has the strongest USB-C output of the six, with two 140W ports, and the body is listed as 30% smaller than similar stations. The listing shows no AC outlet, so it suits devices that charge by USB-C or 12V.\n\nIt suits campers with laptops, drones, cameras and a 12V fridge. Pair it with a USB-C charger for the first activation.",
     "specs": [
       "288Wh LiFePO4, 300W",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41AT-tNKNgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09SHB84J2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09SHB84J2?tag=rvgearlab-amz-20",
     "description": "The EnginStar 300W holds 296Wh in a 9 by 5.5 by 7.5 inch body and has two pure sine wave 110V AC outlets. Protections cover overload, over-discharge, over-charge, overheating and short circuits, and it recharges in about 7 hours from the wall.\n\nIt stores about as much as the Jackery for much less, with a slow wall recharge. The package adds a home charger, a car charger cable and a 12-month limited service period.\n\nIt suits budget-minded car campers with plenty of time to refill overnight. A built-in battery management system keeps output stable.",
     "specs": [
       "296Wh, 300W pure sine AC",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hUZehXtRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F3CXVQ6J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F3CXVQ6J?tag=rvgearlab-amz-20",
     "description": "The Bailibatt 300W weighs 4.6 pounds and carries a 257Wh pack with two 120V pure sine wave AC outlets, two 12V 10A DC ports at 120W total, a 24W USB-C PD port and QC3.0. The listing quotes a clear LCD screen and a battery management system.\n\nIt is the lightest of the 250Wh-plus units, 2.9 pounds lighter than the Jackery. The USB-C port is a low 24W, which is below the Daran and Anker.\n\nIt suits solo campers and backpackers with a short walk to the site. Solar input is available with a separate panel.",
     "specs": [
       "257Wh, 4.6 lb, 300W",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41poUu4jdBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CQQKSQ3H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CQQKSQ3H?tag=rvgearlab-amz-20",
     "description": "The ZeroKor 300W lists 280Wh with two AC outlets at 300W max, one DC output, three 5V 3A USB ports and a QC USB port. It weighs about 5 pounds and is sold without a solar panel, which uses a DC5521 13V to 23V input.\n\nIt has the lowest price in the group, and its listing names fewer specifics on chemistry and cycles than the Jackery or Daran. The BMS covers short circuit, over-current, over-voltage and overload protection.\n\nAnyone spending as little as possible on a 300W AC box will find it here. The 7 by 24 hour customer service line is listed.",
     "specs": [
       "280Wh, 300W max AC",

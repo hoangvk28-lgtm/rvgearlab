@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/515v2n2TJQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07Q1DLKBG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07Q1DLKBG?tag=rvgearlab-amz-20",
     "description": "The Westinghouse WGen12500 lists 9500 running and 12,500 peak watts on gasoline, and 8500 running and 11,200 peak on propane. It has remote start with a key fob, electric and recoil start, up to 12 hours on a tank and a 457cc engine with low-oil shutdown and an hour meter.\n\nIt offers the most running watts of the six, more than 4000 above the Westinghouse 6600. The 50A RV-ready outlet and a transfer switch ready L14-30R make it the one for big rigs and home backup.\n\nIt suits owners who want one large dual-fuel generator ready for whole-home essentials. A key fob, charger, oil and tools come in the box.",
     "specs": [
       "9500 running, 12,500 peak watts",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51cT86sbTyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B099KPMFP3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B099KPMFP3?tag=rvgearlab-amz-20",
     "description": "The Westinghouse 6600 lists 6600 peak and 5300 running watts, a 4.7 gallon tank with a fuel gauge and up to 14.5 hours of runtime. Push-button electric start with remote key fob, a TT-30R RV receptacle and a transfer switch ready L14-30R are included.\n\nIt has a 274cc engine with automatic low oil and carbon monoxide shutdown, which the open-frame WEN 56475 does not name. It costs far less than the Westinghouse WGen12500.\n\nIt suits travel-trailer owners who want an RV outlet and CO shutdown in a mid-size electric-start generator. A wheel kit and tool kit are included.",
     "specs": [
       "6600 peak, 5300 running watts",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Ja7YiNicL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D3WW1CSQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D3WW1CSQ?tag=rvgearlab-amz-20",
     "description": "The WEN 4800W Dual Fuel lists 4800 surge and 4000 rated watts on gasoline, and 4320 surge with 4000 rated on propane. The package adds electric start, a CO Watchdog shutdown, four 120V receptacles and a TT-30R RV plug.\n\nIt is the only inverter dual fuel pick here, and the propane option keeps output at 4000 rated watts. Against the PowerSmart 4800, it adds propane.\n\nIt suits larger campers and RV owners who want quiet inverter power with a choice of fuels. Wheels and a telescoping handle help move it.",
     "specs": [
       "4000 rated watts, gas or propane",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41rg+hNcjKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D2LC14VD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D2LC14VD?tag=rvgearlab-amz-20",
     "description": "The PowerSmart 4800 lists 4800 peak and 3800 rated watts from a 223cc engine with electric start, and a 3.43 gallon tank that runs up to 18 hours at 25 percent load. It has four 120V 20A receptacles, a 120V 30A RV-ready receptacle, a 12V 8A DC outlet, two USB ports, Eco mode and parallel ports.\n\nIt quotes an 18 hour figure at light load and states CO protection, overload protection and low-oil shutdown. It also lists EPA, ANSI/PGMA G300 and ANSI/UL certification.\n\nIt suits campers and backup users who want long runs at light load. Parallel ports allow linking a second unit.",
     "specs": [
       "4800 peak, 3800 rated watts",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ierJJE1zL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09QG1QQ5V?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09QG1QQ5V?tag=rvgearlab-amz-20",
     "description": "The GENMAX lists 6000 peak and 5250 rated watts from a 312cc OHV engine with electric start, inverter power, 2 rolling wheels and a steel handle. It weighs 106.9 pounds, has an hour meter with LED indicators, a 120/240V 30A locking outlet and CO detection with auto shutoff.\n\nIt states 5250 rated watts, about 1500 above the PowerSmart 4800, in an inverter. It includes a 1-year warranty with lifetime technical support.\n\nIt suits campers and backup users who want inverter output and a CO sensor on wheels. The listing says it is 50 percent quieter and 30 percent lighter than a traditional 6000 watt generator.",
     "specs": [
       "6000 peak, 5250 rated watts",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Qb12-5ldL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00IUKKMDC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00IUKKMDC?tag=rvgearlab-amz-20",
     "description": "The WEN 56475 uses a 223cc engine for 4750 surge and 3750 rated watts with electric start, low-oil shutdown, an automatic voltage regulator and overload protection. A digital readout manages oil changes, and a wheel kit and foldable handles are included.\n\nNothing else here costs less, and the listing says it meets CARB and EPA III for sale in all 50 states. A wheel kit and foldable handles come with it.\n\nIt suits campers on a budget who want electric start and basic protection. The wheel kit makes it easier to move.",
     "specs": [
       "4750 surge, 3750 rated watts",

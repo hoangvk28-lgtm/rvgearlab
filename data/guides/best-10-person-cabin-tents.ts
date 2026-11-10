@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31EL5m2OLRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CG9V7587?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CG9V7587?tag=rvgearlab-amz-20",
     "description": "The Portal measures 14 ft by 10 ft with an 84 inch center height and fits 10 sleeping bags or 4 queen air mattresses. It adds a 110 inch by 110 inch front porch, six mesh windows, two large doors and two ground vents.\n\nAgainst the CORE 10 it swaps a gear loft for a porch and a cheaper price tag. Compared with the DMH, it covers a similar footprint while pairing a divider curtain with a separate door for each room.\n\nIt suits families who want two private rooms and a covered entry. The mid-range cost keeps it easy to justify.",
     "specs": [
       "14 x 10 ft, 84 in peak",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41TA3kT8f-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B06X9G7Q5V?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B06X9G7Q5V?tag=rvgearlab-amz-20",
     "description": "The CORE 10 is a 14 ft by 10 ft cabin with an 86 inch center height and a nearly straight wall. H2O Block fabric rated at 1200mm, a fully taped rainfly, sealed seams and zipped windows form the weather shell.\n\nIt ranks just behind the Portal on layout because it has no porch, yet it adds a gear loft organizer and storage pockets that the Portal does not list. Against the Tangkula, it trades the instant-pop frame for stronger rain specs.\n\nIt suits campers who face real rain and want a brand-name build. The room divider comes already in the box.",
     "specs": [
       "14 x 10 ft, 86 in peak",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41vj8P6TqSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DN4NX5PX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DN4NX5PX?tag=rvgearlab-amz-20",
     "description": "The DMH counts a (10+7) by 14 ft floor area, which includes a screened-in porch, under an 84 inch center height. Mesh covers one door, three windows and the roof, and the listing names a rain-resistant E-Port for power cords.\n\nCompared with the Portal, the porch here is a true screened room, so bugs stay out while you sit. Against the Tangkula it sets up by hand, which costs minutes yet adds the screened living space.\n\nIt fits campers in buggy regions who want a screen room attached to the sleeping tent. Evenings outside the bags become far more pleasant.",
     "specs": [
       "(10+7) x 14 ft floor",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31PnCuabZGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H62JCBH5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H62JCBH5?tag=rvgearlab-amz-20",
     "description": "The Tangkula is a 13 ft by 9 ft instant cabin with a 79 inch center height and a 60-second setup. It carries 1500mm water-resistant fabric, a removable rainfly with taped seams and UPF30 sun protection.\n\nIt is the lowest-priced and quickest to pitch here. Against the CORE 10 it has a smaller footprint and lower roof, yet gains three doors, three mesh windows and a skylight.\n\nIt works for groups that arrive late at the campsite. A tent standing in minutes keeps the evening relaxed.",
     "specs": [
       "13 x 9 ft, 79 in peak",

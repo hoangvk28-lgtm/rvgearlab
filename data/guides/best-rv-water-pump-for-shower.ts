@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51K4AFhGxdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G6D6P2HZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G6D6P2HZ?tag=rvgearlab-amz-20",
     "description": "FLUMEXXON is a 12 volt four-chamber pump replacing 4008-101-A65 and E65, delivering 3 GPM at 55 PSI. The listing says it has a built-in pressure switch that starts when a tap opens and a leak-free, quiet design.\n\nAgainst LLANNDER and TWERE, it lists four chambers. Against SEAFLO 21-Series, it gives more than double the flow.\n\nIt is the best match for owners who want a steady shower flow from a 4008 replacement. It earns its slot for steady showers.",
     "specs": [
       "12V, 3.0 GPM, 55 PSI",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41qFxwBFcmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CPLLDF2R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CPLLDF2R?tag=rvgearlab-amz-20",
     "description": "LLANNDER is a 12 volt pump with 3.0 GPM flow and a 55 PSI shut-off, and the listing states a current draw of 3.5 to 8 amps and 9.8 foot priming. It replaces 4008-101-A65 and E65 and uses a one-piece four-chamber diaphragm.\n\nAgainst FLUMEXXON 3GPM, it states amp draw and priming height. Against TWERE, it lists a one-piece diaphragm.\n\nIt suits owners who want a stated electrical draw before wiring. It is a natural fit for wiring-minded buyers.",
     "specs": [
       "12V, 3.0 GPM, 55 PSI",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51brTKl2+JL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D6YK6YKD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D6YK6YKD?tag=rvgearlab-amz-20",
     "description": "TWERE is a 4008-101-A65 and E65 style pump with 3.0 GPM at 55 PSI, a one-piece diaphragm, internal bypass and a strainer. The listing says it has a dry-run temperature switch and thermal protection and runs quietly.\n\nAgainst LLANNDER, it includes a strainer. Against FLUMEXXON 3GPM, it states a temperature control switch.\n\nIt suits owners who want a quiet 4008 swap with a strainer. Think of it as the pick for quiet 4008 swaps.",
     "specs": [
       "12V, 3.0 GPM, 55 PSI",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41P17RcgtRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00DLKT4OO?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00DLKT4OO?tag=rvgearlab-amz-20",
     "description": "SEAFLO 21 Series (SFDP1-012-035-21) is a 12 volt pump with 1.2 GPM flow, a 35 PSI shut-off, adjustable pressure and a 4 amp current draw. The listing says it is built to NSF/ANSI/CAN 61 and 372, NSF 24 and UL 778, and carries a 4 year limited warranty.\n\nAgainst FLUMEXXON 3GPM, it has far less flow and much lower pressure. Against HUILING, it lists named standards and a warranty.\n\nIt suits small rigs and low-pressure plumbing with one fixture. Buyers focused on low-pressure plumbing will find it a sensible match.",
     "specs": [
       "12V, 1.2 GPM, 35 PSI",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ugcqPl5FL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D2YC5TW7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D2YC5TW7?tag=rvgearlab-amz-20",
     "description": "HUILING is a 12 volt diaphragm pump with 4.5 liters per minute (1.2 GPM), 1.7 amp load current and a 6.6 foot priming height. The listing says it runs at about 40 dB with a pure copper motor and cannot run continuously for more than 5 hours.\n\nAgainst SEAFLO 21-Series, it costs less and draws less current. Against ANTARESWORLD, it is a pressure-switch pump.\n\nIt suits small sink or faucet setups. It earns its slot for sink faucets.",
     "specs": [
       "12V, 1.2 GPM, 1.7A load",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41LcaXK2r7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01M3XOXQ0?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01M3XOXQ0?tag=rvgearlab-amz-20",
     "description": "ANTARESWORLD 12V Submersible is a pump that delivers 2 to 2.5 GPM up to 18 feet and works with microswitch 12 volt faucets. The listing says it connects to a 3/8 inch hose and a portable battery and gives up to 30 minutes of runtime per its description.\n\nAgainst the pressure-switch pumps, it sits in a container and feeds a faucet. Against HUILING, it has more flow.\n\nIt suits camping setups with a bucket and a microswitch faucet. It is a natural fit for bucket-fed faucets.",
     "specs": [
       "12V submersible, 2 GPM",

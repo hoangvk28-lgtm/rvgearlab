@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/415a3t0O+7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07JGJ1M8Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07JGJ1M8Y?tag=rvgearlab-amz-20",
     "description": "The Valterra A01-2222VP keeps outlet pressure at 50 to 55 psi and claims 15 to 20 percent more flow than standard regulators. A gripper allows tool-free installation and a 90 degree hose saver reduces hose strain.\n\nIt is the priciest of the five at about $30, and it is the only one with a gripper. Compared with the Valterra Hi-Flow, it adds the elbow.\n\nBest for owners who want an easy install and a hose saver from a known brand. It also suits tight hookups.",
     "specs": [
       "50 to 55 psi output",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41rfceCFGbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G3PJD65C?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G3PJD65C?tag=rvgearlab-amz-20",
     "description": "The AquaNPT Water Pressure Regulator delivers a consistent 50 to 55 PSI with a built-in 90 degree elbow hose saver. It uses corrosion-resistant lead-free brass and 3/4 inch garden hose threads, male to female.\n\nThe elbow reduces bending and kinking and costs about $3 less than the Valterra A01. It lacks the gripper.\n\nA great pick for tight spaces where the hose bends. It also suits brass fans.",
     "specs": [
       "50 to 55 PSI output",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41fjXdnQGmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B003YJJHI0?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B003YJJHI0?tag=rvgearlab-amz-20",
     "description": "The Valterra RV Hi-Flow Water Regulator regulates pressure to 50 to 55 psi in a lead-free brass body described as rust-resistant. The listing says it does not reduce pressure when inlet pressure is already low and has a screened washer that removes debris.\n\nIt costs about $19, below the A01, and keeps the Valterra name. The screened washer adds debris protection.\n\nBest for owners who want a brand-name hi-flow brass regulator at a moderate price. It also suits low-pressure campgrounds.",
     "specs": [
       "50 to 55 psi output",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/416LneRt4yL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FSJP3Q2Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FSJP3Q2Y?tag=rvgearlab-amz-20",
     "description": "The Rvhouse RV Water Pressure Regulator is lead-free brass with a stated 50 to 55 psi output and standard 3/4 inch threads. A built-in inlet mesh screen helps block sand, rust and sediment.\n\nIt costs about $14, below the Valterra units. It connects without extra adapters.\n\nA smart pick for budget buyers who want a built-in screen. It also suits campgrounds with sand.",
     "specs": [
       "50 to 55 psi output",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hgzOaq5NL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08KT97PY8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08KT97PY8?tag=rvgearlab-amz-20",
     "description": "The Wadoy High Flow RV Water Pressure Regulator regulates to 50 to 55 psi and does not reduce pressure when inlet pressure is already low. It uses lead-free brass with a double-layer stainless steel mesh screen.\n\nIt costs under $14, the lowest of the group, and the listing says it is designed for maximum flow. The double screen is more protection than the Rvhouse.\n\nBest for buyers who want hi-flow and double screening at the lowest price. It also suits sandy hookups.",
     "specs": [
       "50 to 55 psi output",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41F4U5IMk2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0817V8N5P?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0817V8N5P?tag=rvgearlab-amz-20",
     "description": "The Twelseavan lists upgraded HPBC cells at up to 25.8 percent efficiency, a weight of 7.05 lbs and an ETFE layer with 95 percent light transmittance. It has an IP65 rating, a PD 60W USB-C port, an 18W QC3.0 port and a 5V/3A USB port, plus a 5-in-1 MC4 connector and 3 DC adapters.\n\nIt lists the highest efficiency of the six and a stronger USB-C port than the ELECAENTA and BALDR at the same wattage. It costs a little more than the GRECELL.\n\nIt suits campers who want one panel that charges stations and a laptop. The broad connector set fits most brands.",
     "specs": [
       "HPBC cells, up to 25.8%",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31fKuTog62L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DN69C43C?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DN69C43C?tag=rvgearlab-amz-20",
     "description": "The GRECELL lists 5.7 lbs, a four-fold briefcase design and monocrystalline cells up to 25 percent efficient. Connectors deliver up to 25A, and it supports series and parallel connection to pair with a second panel.\n\nAt 5.7 lbs it is lighter than the Twelseavan at 7.05 lbs, and it costs less. Its series and parallel support is the clearest expansion pitch on this list.\n\nIt suits campers who want a light 120W panel and plan to add another later. The Oxford cloth with ETFE keeps it dust and water resistant.",
     "specs": [
       "5.7 lbs, four-fold briefcase",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41MnjgMd5DL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GT3SDLBK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GT3SDLBK?tag=rvgearlab-amz-20",
     "description": "The ELECAENTA lists HPBC cells at 25.4 percent, a PD 60W USB-C port and USB-A QC3.0, 8.8 lbs and a folded size of 16.54 x 16.54 x 2.36 inches. It carries an IPX5 rating with a self-cleaning ETFE coating.\n\nIt matches the Twelseavan's USB-C wattage and is a little less efficient on paper. It is heavier than the GRECELL and the SOKIOVOLA.\n\nIt suits campers who want HPBC cells and USB-C at a mid price. The square folded shape fits a bag easily.",
     "specs": [
       "HPBC 25.4%, PD 60W USB-C",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51WPsCh6cjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08LKXQTC9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08LKXQTC9?tag=rvgearlab-amz-20",
     "description": "The BALDR lists a removable solar charge controller with a USB-C PD 60W port and a 24W USB-A port. It uses monocrystalline cells in a wear-resistant Oxford cloth shell with adjustable brackets.\n\nIts protections are listed as voltage control, overcharge, overcurrent, overload and short circuit. It costs the same as the ELECAENTA and has a removable controller the others do not.\n\nIt suits owners who want to detach the controller for storage or replacement. The adapter set covers 8mm, 5.5 x 2.1mm, 5.5 x 2.5mm, 3.5 x 1.35mm, 8020, XT60 and Anderson.",
     "specs": [
       "Removable charge controller",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41XevV4s9xL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CRB5BS3Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CRB5BS3Y?tag=rvgearlab-amz-20",
     "description": "The SOKIOVOLA lists 5.16 lbs and a folded size of 11.82 x 11.23 x 2.17 inches, with a 4-in-1 MC4 cable, 7.2 ft extension and ETFE lamination. It has no USB ports listed.\n\nIt is the lightest panel of the six and has the smallest folded footprint. It costs less than the GRECELL.\n\nIt suits campers who want a compact 120W kit for a car trunk. The long cable keeps the station in the shade.",
     "specs": [
       "5.16 lbs, 11.8 in fold",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41UQf1de32L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CV5T3217?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CV5T3217?tag=rvgearlab-amz-20",
     "description": "The DieHard 120-Watt panel lists a 20V output, 7 lbs and a folded size of 18.5 x 17 x 1.96 inches that opens to 76.38 inches long. It has an adjustable angle stand and an IP65 rating for dust and drizzle.\n\nIt is built for the DieHard 300, 500 and 1000 stations and is the lowest-priced pick here. The listing says it is not for use in rain, so it needs more care than the IP65 sibling panels.\n\nIt suits owners of a DieHard station. The long open length reaches far across a campsite.",
     "specs": [
       "120W peak, 20V output",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21xOwAM2ypL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09SBPWHS7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09SBPWHS7?tag=rvgearlab-amz-20",
     "description": "The LifeStraw Peak Series straw lists a flow of 2.5 liters per minute and 1,000 gallons (4,000 liters) of life. A re-engineered membrane is meant to resist clogging from sand and silt, with the maker quoting bacteria at 99.999999% and parasites at 99.999%.\n\nIt differs from the classic LifeStraw Personal by threading a removable bottom cap onto bottles and gravity hoses, so it filters more than one way. It sells as a single straw at a modest price.\n\nA top pick for solo hikers who want a fast, rugged straw that doubles as a bottle filter. The leak-proof build is made for drops and rough use.",
     "specs": [
       "2.5 L/min flow",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/317L8SFjMmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07C56LR6N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07C56LR6N?tag=rvgearlab-amz-20",
     "description": "The LifeStraw Personal 2-Pack lists bacteria removal at 99.999999% and parasites at 99.999%, with microplastics caught down to 1 micron. Test protocols from the US EPA, NSF and ASTM are named as the basis for its claims, and each straw is rated for 4,000 liters.\n\nNext to the LifeStraw Peak Series it is a drink-only straw with no hose or bottle option, and it is sold in pairs, which makes it a good hiking buddy kit. The maker also says each purchase gives a school child safe water for a year.\n\nIdeal for two hikers who want a familiar straw with clearly worded test claims. Each straw lasts well past a normal season of trips.",
     "specs": [
       "Two straws, 4,000 L each",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/519Wee6T08L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07SYYQZDN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07SYYQZDN?tag=rvgearlab-amz-20",
     "description": "The Membrane Solutions S1 is a 7.1 inch, 2 ounce straw that fits any 28 mm threaded bottle. It stacks five stages and a 0.1 micron hollow fiber membrane, and the listing names NSF/ANSI 42, 372 and 401 with a test report number.\n\nNo other straw in this guide names standards and a report together, which sets it apart from the LifeStraw Personal 2-Pack. The coconut shell carbon stage is aimed at taste, and the pack holds four straws for a family.\n\nGreat for hikers who want paperwork and taste work in one cheap multi-pack. A flow of up to 16.9 fluid ounces per minute is listed.",
     "specs": [
       "Four 7.1 inch, 2 oz straws",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41vXmfPyMML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DM71YBM8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DM71YBM8?tag=rvgearlab-amz-20",
     "description": "Emblem builds its pair around five stages: coarse screen, dual PP cotton, activated carbon and a 0.1 micron hollow fiber membrane. The listing gives 500 ml per minute, 396 gallons per filter and a weight of 2.5 ounces at 8.27 inches.\n\nIt prints both flow and lifespan, which the Lormandy 5 Pack does not, and it undercuts the Membrane Solutions S1 on pack size. Per-straw life is shorter than the LifeStraw options.\n\nA fine choice for two hikers who want printed numbers on a tight budget. Compact enough for a pocket or a first-aid kit.",
     "specs": [
       "0.1 micron, five stages",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51q2cPpBaRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FD9K3L3C?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FD9K3L3C?tag=rvgearlab-amz-20",
     "description": "The Lormandy 5 Pack hands every hiker a personal straw, made of food-grade materials and bundled with accessories. Nothing to assemble, and a sediment pre-filter sits alongside the membrane.\n\nAgainst the Emblem Outdoor 2-Pack it gives more straws, and it covers more people per order. It is also the only pack sized to equip a whole trail group.\n\nA natural fit for scout troops and family hikes where everyone should have their own straw. Light enough to leave in every pack.",
     "specs": [
       "Five straws in one pack",

@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410DC1qH4CL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GZNRBQ4L?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GZNRBQ4L?tag=rvgearlab-amz-20",
     "description": "The VEVOR 3-Stage is a three-cartridge canister system with 5 micron filtration, 3/4 inch fittings and a stated 12,000 gallon capacity. The listing claims 3 GPM flow and stable pressure from 20 to 125 PSI, and says it reduces sediment, chlorine and heavy metals.\n\nCompared with the Beech Lane Dual, it adds a third stage and a far larger stated capacity at a higher price. Against the GoBluTech AR3, it costs a fraction but has no 0.2 micron stage.\n\nA strong pick for city-water campers who want a canister with real capacity numbers. The listing names no certification.",
     "specs": [
       "12,000 gallon capacity",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41IIax7ZYAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07GBZ83HH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07GBZ83HH?tag=rvgearlab-amz-20",
     "description": "The Beech Lane Dual pairs a 5 micron sediment filter with a 0.5 micron carbon block in two canisters. It has lead-free brass 3/4 inch fittings, a mounting bracket and a lifetime manufacturer warranty.\n\nIt costs about half the VEVOR 3-Stage and does not state flow or gallon capacity. Compared with the OKBA, it adds the lifetime warranty and lead-free brass fixtures for a higher price.\n\nBest for city-water campers who want a sturdy dual-canister system that is easy to service.",
     "specs": [
       "5 micron and 0.5 micron",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411bAfXiPrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08FHZMJH7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08FHZMJH7?tag=rvgearlab-amz-20",
     "description": "The OKBA is a dual-canister kit with one 0.5 micron carbon block and one 5 micron filter, a brass fixture, a mounting bracket and a housing wrench. It connects to 3/4 inch garden hose fittings.\n\nIt is the cheapest canister system here and has the same micron pairing as the Beech Lane Dual. The difference is the listing: Beech Lane adds a lifetime warranty, OKBA does not.\n\nBest for budget buyers who want the 5 and 0.5 micron combination. Check fitting quality on arrival.",
     "specs": [
       "5 and 0.5 micron filters",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51UHT56HLAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08QMC54XK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08QMC54XK?tag=rvgearlab-amz-20",
     "description": "The RVGUARD 4-Pack is an inline hose filter certified through IAPMO R&T against NSF/ANSI 42 for material safety and aesthetic chlorine reduction. It uses KDF and GAC, with a 20 micron rating, 0.5 gpm flow, 60 psi working pressure and a stated capacity of up to 15,000 gallons.\n\nCompared with the canister systems, it is portable and cheap but filters at only 20 micron. Next to the VEVOR 3-Stage, its flow is much lower.\n\nGood for city-water campers who want the simplest setup and replaceable filters. Expect black carbon dust at first use, which the listing says to flush.",
     "specs": [
       "NSF/ANSI 42 listed",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41cpU86bC7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H3PDTFNQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H3PDTFNQ?tag=rvgearlab-amz-20",
     "description": "The Elovener is not a system but a three-cartridge replacement set for the Clearsource Ultra three-canister housing: 5 micron sediment, 0.5 micron carbon block and 0.1 micron precision filters, in the standard 2.5 by 10 inch size. The listing quotes up to 2,000 gallons or 6 to 12 months.\n\nIt only makes sense if you already own a Clearsource Ultra or compatible 2.5 by 10 inch housing. Compared with the GoBluTech AR3, it costs far less but needs a housing you already have.\n\nBest for owners with an existing Clearsource Ultra who want a cheaper refill. It is useless without that housing.",
     "specs": [
       "5, 0.5 and 0.1 micron set",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Vh-EmxwCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7XYRKJD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7XYRKJD?tag=rvgearlab-amz-20",
     "description": "The GoBluTech AR3 is a three-stage system with a 0.2 micron high-flow filter, a coconut shell carbon stage and a sediment stage, in a compact carbon fiber frame with stainless garden hose quick connects. The listing says it gives 3 to 4 months of service per set of 5 inch filters.\n\nIt is the most expensive pick by far, and the 0.2 micron stage is the reason. Compared with the VEVOR 3-Stage, you pay for a finer stage and light frame, not capacity.\n\nA good fit for city-water campers who want compact, very fine filtration. The listing names no NSF standard, so use it as a sediment and taste filter.",
     "specs": [
       "0.2 micron high-flow filter",

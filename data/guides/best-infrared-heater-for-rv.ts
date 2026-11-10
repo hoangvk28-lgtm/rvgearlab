@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31dkwx50MTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0771LZZT3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0771LZZT3?tag=rvgearlab-amz-20",
     "description": "The Heat Storm Phoenix is a 1500 watt portable infrared heater with a 5200 BTU output and two power modes. It has a built-in thermostat with LED display, attachable feet, a remote and an option to hang on a wall.\n\nIt costs less than the wall-mount Wi-Fi model and works on a standard 120 volt outlet. The attachable feet and wall hang give it more placement choices than the fixed wall models.\n\nBest for owners who want a portable infrared heater with a thermostat. A strong all-round pick.",
     "specs": [
       "1500W, 5200 BTU infrared",
@@ -53,7 +53,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31qzZnEpZrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07JXRWJ8D?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07JXRWJ8D?tag=rvgearlab-amz-20",
     "description": "The Heat Storm HS-1500-PHX-WIFI is a wall-mounted infrared heater with Wi-Fi control from a phone, a touch screen digital thermostat and tip-over shut-off. It can hide its cord when mounted over an outlet.\n\nIt costs more than the portable Phoenix and adds phone control. The listing says the unit stays cool to the touch.\n\nBest for owners who want app control on a campground Wi-Fi network. A tidy fixed-mount choice.",
     "specs": [
       "1500W wall-mounted infrared",
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41kOWiO0m2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09QM1QTCJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09QM1QTCJ?tag=rvgearlab-amz-20",
     "description": "The Dr. Infrared Ecoheat uses a dual heating system with a quartz infrared element and fast heat distribution. It can be wall hung or freestanding.\n\nIt costs less than the Heat Storm Wi-Fi and offers both mounting options. The dual system adds air warming to the radiant heat.\n\nBest for owners who want radiant and air heat in one unit. A flexible mid-priced choice.",
     "specs": [
       "Quartz infrared plus fast heat",
@@ -107,7 +107,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ziRAyfzdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G4WCNFW2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G4WCNFW2?tag=rvgearlab-amz-20",
     "description": "The Econat is a 1500 watt infrared heater that mounts on a wall or ceiling and is rated for indoor and outdoor areas such as covered patios. It has an adjustable thermostat and aimable mounting.\n\nIt costs less than the Dr. Infrared and is the one that names outdoor use. The ceiling mount keeps it out of the way.\n\nBest for covered patios and awning areas. A flexible mount heater.",
     "specs": [
       "1500W infrared",
@@ -134,7 +134,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41k26hBv4BL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FLHPLC9K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FLHPLC9K?tag=rvgearlab-amz-20",
     "description": "The SONBION is a portable quartz infrared heater with ABS V0 fireproof material, overheat protection and an anti-tip switch. It is described as quiet and radiant.\n\nNo other heater here costs less, and it is the only simple portable quartz unit. Compared with the Phoenix, it has fewer controls.\n\nBest for small spaces and personal warmth. A cheap radiant heater.",
     "specs": [
       "Portable quartz infrared",
@@ -161,7 +161,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31FxkqM07yL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FC67CYFC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FC67CYFC?tag=rvgearlab-amz-20",
     "description": "The ThermoMate is a 3000 watt carbon fiber infrared heater at 240 volts with three levels of 1000, 2000 and 3000 watts. It covers about 100 square feet outdoors or 130 enclosed, is IP65 waterproof and ETL certified, and uses a NEMA 6-15P plug.\n\nIt costs far more than every other pick and needs a 240 volt supply, which a standard RV outlet does not provide. It is the most powerful heater here.\n\nBest for a fixed outdoor space with a 240 volt supply. A heavy-duty patio heater.",
     "specs": [
       "3000W, 240V carbon fiber",

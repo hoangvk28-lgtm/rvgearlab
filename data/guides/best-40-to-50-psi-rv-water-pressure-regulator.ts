@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41O9hU-x19L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B7BQTMV8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B7BQTMV8?tag=rvgearlab-amz-20",
     "description": "The OEBLD is a preset 40 to 50 psi brass regulator with a built-in gauge, an inlet filter screen, and 3/4 inch NH threads, female inlet and male outlet. The listing cites CSA low lead content certification and says every unit is inspected before shipping.\n\nIt is the only pick here with a gauge, which is how you confirm the 40 to 50 psi claim instead of trusting it. It costs a little more than the Nilight Hi-Flow below and adds the dial bulk at the spigot.\n\nBest for anyone who wants proof of the output pressure. The gauge shows static pressure, so expect flowing pressure to read a little lower.",
     "specs": [
       "Preset 40 to 50 psi",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41XqTKr2BzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CBK71Q63?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CBK71Q63?tag=rvgearlab-amz-20",
     "description": "The Nilight Hi-Flow regulates to 40 to 50 psi in lead-free brass tested to under 0.13 percent lead, and the package adds two inlet filters. It has a soft handle for hand tightening and an inlet filter that catches stones and leaves.\n\nCompared with the OEBLD Gauge, there is no gauge, but the two spare screens are a real convenience because a clogged screen is the usual cause of weak flow. It costs slightly less.\n\nBest for owners who camp in sandy or leafy sites. No gauge means you cannot check the output.",
     "specs": [
       "Regulates to 40 to 50 psi",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41cl2Vo6exL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08PXWWPXT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08PXWWPXT?tag=rvgearlab-amz-20",
     "description": "The MEASUREMAN 2-Pack gives two lead-free brass regulators preset to 40 to 50 psi, each with a blue soft handle. The listing says the brass conforms to California AB 1953 and the 2014 Safe Drinking Water Act.\n\nCompared with the Nilight Hi-Flow, you get a second regulator instead of spare screens. That suits owners with two hoses or a second rig, but neither unit has a gauge.\n\nBest for a primary and a backup, or for a second coach. Use a handheld gauge to verify output.",
     "specs": [
       "Two regulators included",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41FYwsJ-5zL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F7X85FSQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F7X85FSQ?tag=rvgearlab-amz-20",
     "description": "The Rvhouse regulator holds 40 to 50 psi in a compact lead-free brass body with a built-in inlet mesh filter. It screws between the water source and hose with no tools, and the listing also mentions docks, yards and travel stops.\n\nCompared with the MEASUREMAN 2-Pack it is a single unit, but the mesh screen is stated. It undercuts the other picks above and below by modest margins.\n\nBest for tidy, uncomplicated hookups. The listing says it is for potable use when installed correctly, which is worth reading.",
     "specs": [
       "Steady 40 to 50 psi",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41XRrMnWgxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FSL472LM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FSL472LM?tag=rvgearlab-amz-20",
     "description": "The Chillerk is a lead-free brass hi-flow regulator whose title says 40 to 50 psi, but the bullet text gives a factory setting of 50 to 55 psi and claims 15 to 20 percent more flow for showers. It has an inlet filter and fits 3/4 inch garden hose and NH threads.\n\nThat contradiction sets it apart from the rest: the listing disagrees with itself on the very number this guide is about. If the 50 to 55 psi figure is correct it is a firmer stream than the other picks, but with less headroom.\n\nBest only if you confirm the output with a gauge first. If you want a certain 40 to 50 psi band, pick the OEBLD Gauge instead.",
     "specs": [
       "Title says 40 to 50 psi",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51tkPlZbiIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08F3HFWM1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08F3HFWM1?tag=rvgearlab-amz-20",
     "description": "The Solimeta is a lead-free brass regulator preset at 40 to 50 psi with a red soft handle, conforming to California AB 1953 and the 2014 Safe Drinking Water Act. It has a 3/4 inch female inlet and male outlet.\n\nIt is the cheapest here and nearly identical to the MEASUREMAN 2-Pack minus the second unit and the color. You give up a gauge and any screen detail.\n\nBest for the lowest-cost protection or a spare. Verify output with a separate gauge if exact pressure matters.",
     "specs": [
       "Preset 40 to 50 psi",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51odzuo7HmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BLVT2Y9N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BLVT2Y9N?tag=rvgearlab-amz-20",
     "description": "The Blukar headlamp carries an IPX5 rating, which covers jets of water from any direction. It has 8 lighting modes, stepless dimming, a motion sensor, with a 1,200mAh cell filled through a USB-C port. The headband is removable, breathable and washable.\n\nIts IPX5 rating beats the IPX4 of the LHKNL and edges past the Lepro, which prints no rating at all. Compared with the Eirnvop, it recharges by cable instead of using AAA cells.\n\nIt suits campers and runners who get wet and sweaty and want to rinse the band after the trip. The red modes help with night vision.",
     "specs": [
       "IPX5 water rating",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51D7mY6fxxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BBF2MMT1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BBF2MMT1?tag=rvgearlab-amz-20",
     "description": "The Eirnvop set gives two 9 LED headlamps with an IPX5 body, 6 modes and a 60 degree tilt. Each lamp weighs 3.3 ounces with its 6 AAA alkaline batteries between the pair, and the listing claims a runtime of 20 hours or more on high.\n\nIt matches the Blukar on IPX5 and adds a second lamp, while giving up USB charging. Against the Lepro, it prints a higher water rating and a 1 meter drop test.\n\nIt suits wet trips where AAA cells are easy to pack and a spare lamp is useful. The shatterproof lens and strap adjust for different heads.",
     "specs": [
       "IPX5, 6 modes, 60 degree tilt",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ZeySk5+kL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F1F5DFSG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F1F5DFSG?tag=rvgearlab-amz-20",
     "description": "The Lepro battery-powered headlamp uses an XPG2 LED with a stated beam of up to 120 meters and a 22 hour run time on low. It has 6 modes including red light, a 45 degree tilt, and a removable washable elastic band that fits over helmets.\n\nPriced lowest of the four, it is the only listing that mentions fitting hard hats and helmets. Compared with the Blukar, it has no USB charging and no printed IPX number.\n\nIt suits budget buyers who want a rain-ready lamp for fishing or camping and a cheap spare for the glove box. The listing says it handles splashing and spraying water from any angle.",
     "specs": [
       "XPG2 LED, 120 meter beam",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51URfm2B1TL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08D66HCXW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08D66HCXW?tag=rvgearlab-amz-20",
     "description": "The LHKNL lists a weight of 1.87 ounces and an IPX4 shell that the listing says suits rain or snow. It gives 8 modes, a motion sensor and a 60 degree head that locks in place.\n\nIts IPX4 rating is one step below the Blukar and Eirnvop. Compared with the Lepro, it adds USB recharging and a stated weight.\n\nIt suits hikers and runners who expect light rain and put weight first. A three second hold switches it off from whichever mode is active.",
     "specs": [
       "1.87 oz, 8 modes",

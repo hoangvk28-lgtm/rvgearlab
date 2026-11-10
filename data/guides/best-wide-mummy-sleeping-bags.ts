@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41aUXJ5DPUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CLCRL946?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CLCRL946?tag=rvgearlab-amz-20",
     "description": "AZITREK cuts this mummy in a peanut outline that runs 90.2 inches long and 37.5 inches across, ending in a square footbox. The listing prints a 0 to 30F range, describes double-layer insulation and includes a compression sack and two-way zippers.\n\nA 37.5 inch width is the widest true mummy here, ahead of the 32 inch OneTigris Bushcrafter and the Coleman North Rim. The peanut shape keeps a tapered foot and head, so it holds heat better than a rectangular bag of the same width.\n\nThe best fit for big and tall campers and restless sleepers who want a mummy that still works in the cold. The waterproof exterior handles damp.",
     "specs": [
       "37.5 inch wide peanut mummy",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41YJtb5N+IL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CKVXNBCQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CKVXNBCQ?tag=rvgearlab-amz-20",
     "description": "OneTigris sizes this mummy at 6.8 by 2.7 feet, which the listing calls tall and wide for kids and adults. It has a 300T pongee shell, a 190T lining, 7 oz of polycotton fill, YKK zippers and a cord-stopped hood.\n\nIt is narrower than the AZITREK Peanut Mummy XXL at roughly 32 inches, yet wider than a standard mummy, and it costs less than the Londtren Large. It is rated for 46 to 59F and packs into a tube-shaped stuff sack.\n\nA good match for broad-shouldered campers in spring through fall who want a rugged, simple bag. It also works for bushcraft and emergency use.",
     "specs": [
       "6.8 x 2.7 foot mummy",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41OdlULxekL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D643KDKN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D643KDKN?tag=rvgearlab-amz-20",
     "description": "Coleman's North Rim is a 0F mummy built for big and tall campers, with hollow Coletherm polyester insulation. A Thermolock tube along the zipper and an adjustable hood work against drafts.\n\nIt is the most heat-efficient bag in this wide group, since it keeps a true mummy taper and the lowest rating. It is narrower than the AZITREK and Londtren, so choose it if cold matters more than room.\n\nA solid pick for large winter campers who still want a mummy's warmth. Its stated fit height ends at 6 ft 2 in.",
     "specs": [
       "0F mummy, big and tall",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/417rXa-hoDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BBBYY2SM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BBBYY2SM?tag=rvgearlab-amz-20",
     "description": "Londtren makes the Large 90 inches long and 40 inches wide, and says it fits people up to 7 feet. A flannel lining, a thickened shoulder warmer belt, a zipper draft tube and a drawstring hood are listed, with a 0 to 15F temperature range and a 20 to 55F comfort range.\n\nAt 40 inches it is the widest bag here, past the AZITREK Peanut Mummy XXL. The listing never calls it a mummy, and the hood and draft tube place it in the same warmth category.\n\nBest for very tall or very broad campers who find even a wide mummy tight. It prints both a limit and a comfort range.",
     "specs": [
       "90 x 40 inch, fits to 7 ft",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41KeBZJkCgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09825XKBF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09825XKBF?tag=rvgearlab-amz-20",
     "description": "HiZYNICE offers a 90 x 39 inch rectangle with a cotton flannel lining and three printed ratings: 30F comfort, 15F limit and 0F extreme. A draft tube, a dual-pull two-way zipper and a compression sack come with it.\n\nIt is the only bag here with all three standard ratings, and at 39 inches it is nearly as wide as the Londtren Large. The cut is rectangular, so it loses heat faster than the true mummies.\n\nGood for large campers who want a roomy bed at the campsite and honest numbers. It zips with a second bag into a double.",
     "specs": [
       "90 x 39 inch XXL rectangle",

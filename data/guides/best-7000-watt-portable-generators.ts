@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Mx8NlNsPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FNRZWFWK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FNRZWFWK?tag=rvgearlab-amz-20",
     "description": "The Honda EU7000iS is a 7000 watt, 120/240V inverter generator with electric start, an app and Bluetooth for remote operation and monitoring, and CO-MINDER carbon monoxide detection. It runs 6.4 to 16 hours on a 5.1 gallon tank at 52 to 58 dB(A).\n\nIt is the quietest of the three, with a stated noise range of 52 to 58 dB(A), against the 69 dB of the Efurden. CO-MINDER shuts the generator down before CO levels near the unit rise, a feature the Powerhorse names only as detection.\n\nIt suits RV owners and households who run a generator for long stretches and want low noise and monitoring. The My Generator app tracks operation from a phone.",
     "specs": [
       "7000W, 120/240V inverter",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Twaslf85L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F3CP4RV5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F3CP4RV5?tag=rvgearlab-amz-20",
     "description": "The Powerhorse is a 7,000 watt generator with electric start that switches between gasoline and propane without shutting down. A 298cc engine with a cast iron cylinder sleeve, an automatic voltage regulator with multimeter and a control panel showing run time, voltage and frequency back the output.\n\nIt has the fuel flexibility the Honda lacks and costs far less than the Honda EU7000iS. CO detection with an indicator light warns of excessive emissions.\n\nIt suits campers and backup-power buyers who want propane as an option and a fair price. The multimeter helps check voltage.",
     "specs": [
       "7,000 watts, dual fuel",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Qh0xT4CDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HC9XWF8N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HC9XWF8N?tag=rvgearlab-amz-20",
     "description": "The Efurden is a 7000 peak and 5500 running watt inverter generator with a 223cc OHV engine, a 30A RV outlet, THD under 2 percent and a 3.5 gallon tank. The listing quotes up to 11 hours at 25 percent load, 69 dB at 23 feet, an 89 pound body and rolling wheels.\n\nIt is the most affordable of the three, rolls on wheels at 89 pounds and states the lowest THD figure. It states running watts of 5500, which is the number to compare with the Honda's 7000.\n\nIt suits trailer owners who want inverter power on wheels for a lower price. The ECO mode adjusts to the load.",
     "specs": [
       "7000 peak, 5500 running watts",

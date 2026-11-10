@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41MgTam6EWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DKQFTHGX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DKQFTHGX?tag=rvgearlab-amz-20",
     "description": "The Micro-Air EasyStart Breeze 399 is listed for rooftop units up to 18,000 BTU and installs in under 30 minutes with a 40-inch harness. The Micro-Air EasyStart Breeze 399 is listed for most RV rooftop air conditioners up to 18,000 BTU and a single 2200W inverter generator.\n\nIt is built for tight shroud space and costs about 80 dollars less than the Flex 398. It cuts locked-rotor amperage by up to 75 percent.\n\nIt installs in under 30 minutes with a 40-inch harness and color-coded wiring, cutting locked-rotor amperage by up to 75 percent. It suits RV owners who want a compact hardwired kit.",
     "specs": [
       "Rooftop units up to 18,000 BTU",
@@ -53,7 +53,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/418WkcDXqXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DKQN4XRJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DKQN4XRJ?tag=rvgearlab-amz-20",
     "description": "Hardwired installs use a 4-wire hookup with color-coded wiring on the Micro-Air EasyStart Flex 398. It covers 2 to 6 ton systems.\n\nBluetooth app diagnostics and install videos come at the highest price here. The kit also suits a home system.\n\nSingle-stage, two-stage and heat pump compatibility makes it the one to reuse across more than one machine. Owners who want that flexibility get the most from it.",
     "specs": [
       "Up to 75% inrush reduction",
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41xIvpFTyqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F98TNVHS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F98TNVHS?tag=rvgearlab-amz-20",
     "description": "A wiring diagram, a manual and a color-coded five-wire harness come with the Aoteda kit. Together they cover a hardwired install.\n\nNext to the Briidea it adds a dust-proof ABS shell, at about 20 dollars more. It still trims starting current by 65 to 70 percent.\n\nThe clear diagrams suit first-time installers. It runs an air conditioner from a 20A household connection.",
     "specs": [
       "Cuts start current 65 to 70%",
@@ -107,7 +107,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/416gBH0Ss6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BZXSJ1Q4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BZXSJ1Q4?tag=rvgearlab-amz-20",
     "description": "Five color-coded wires and overload and short circuit protection define the Briidea. It cuts starting current by 65 to 70 percent.\n\nPriced the same as the Kedite, it adds a detailed instruction manual. A 15,000 BTU AC on a 2200W generator sits within its listed range.\n\nIt suits owners who want a balanced, low-cost wired kit. One unit handles an air conditioner on a 20A household hookup, or two on 30A with a second unit.",
     "specs": [
       "Cuts start current 65 to 70%",
@@ -135,7 +135,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51YXdnjIq2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GYD3TVDV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GYD3TVDV?tag=rvgearlab-amz-20",
     "description": "The Kedite soft starter cuts inrush current by up to 75 percent and carries an IP65 waterproof rating. The Kedite soft starter cuts inrush current by up to 75 percent and carries an IP65 waterproof rating for outdoor mounting.\n\nIt matches the Micro-Air reduction figure for far less and costs the same as the Briidea. It targets DIY installers.\n\nIt targets DIY installers and reduces the loud thump at compressor startup. It suits owners who want a stated IP rating.",
     "specs": [
       "Up to 75% inrush reduction",
@@ -162,7 +162,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4191hBD33QL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H8NPZTFT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H8NPZTFT?tag=rvgearlab-amz-20",
     "description": "The SEEMINE kit cuts startup amps by 65 to 70 percent and handles rooftop RV ACs up to 3 tons, with capacitors preinstalled. The SEEMINE kit cuts startup amps by 65 to 70 percent and works with 115 to 240V, 50 or 60Hz rooftop RV ACs up to 3 tons (36,000 BTU).\n\nIt is the least expensive option here. No external contactor is required.\n\nStart and run capacitors are preinstalled inside, so no external contactor is required. It suits budget buyers who want a stated capacity.",
     "specs": [
       "65 to 70% startup cut",

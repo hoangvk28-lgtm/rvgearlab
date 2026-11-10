@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41OGiLW90tL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08P6NGG2H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08P6NGG2H?tag=rvgearlab-amz-20",
     "description": "The NORTIV 8 Low-Top uses soft suede leather with a protective rubber toe, a breathable mesh lining with a waterproof membrane and a multi-directional traction outsole. A removable insole and an MD midsole absorb shock.\n\nAt about $40 it costs $26 less than the Columbia Crestwood and is the only pick here that combines leather, a membrane and a toe guard. The mesh lining lets vapor out while the membrane blocks water.\n\nIt suits day hikers who walk through wet grass and muddy trails. The toe guard protects against rocks.",
     "specs": [
       "Suede leather, rubber toe",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4180hbF1G3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B073RNNYQ2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B073RNNYQ2?tag=rvgearlab-amz-20",
     "description": "The Columbia Crestwood is a light trail shoe in breathable suede mesh, and its grippy tread is built for dirt and rock. It is ready to wear right out of the box, so it moves easily from the trail to daily use.\n\nAt about $66 it is the premium option here, $26 above the NORTIV 8 Low-Top. The suede mesh suits dry environments and keeps feet cool, while a membrane shoe keeps out water better.\n\nIt suits dry-climate hikers and travelers who want a comfortable shoe from day one. It looks right in town.",
     "specs": [
       "Breathable suede mesh",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31JXCWJOWQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FNS59QSY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FNS59QSY?tag=rvgearlab-amz-20",
     "description": "This Amazon Essentials shoe wraps a waterproof inner bladder in a nylon and PU suede shell, then adds a cushioned collar, ankle flex notches and a molded memory foam footbed. Slipping it on takes a pull tab and a quick-lace cord, and reflective trim helps in dim light.\n\nAt about $45 it costs $5 more than the NORTIV 8 Low-Top and uses a synthetic upper in place of leather. The padded collar and memory foam give a soft feel from the first step.\n\nIt suits casual hikers who want an easy shoe that stays dry. The quick-lace is simple.",
     "specs": [
       "Waterproof bladder, nylon and PU suede",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41K5MrfKNwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B3X9NJDN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B3X9NJDN?tag=rvgearlab-amz-20",
     "description": "This women's NORTIV 8 shoe is breathable and lightweight with midfoot support, slip-resistant soles, reflective accents and arch support in a roomy fit. It suits dog walking, farm work and trail running.\n\nAt about $40 it costs the same as the NORTIV 8 Low-Top and is lighter, while giving up the membrane and leather. The reflective accents help at dawn and dusk.\n\nIt suits women who want an airy, supportive shoe for dry trails and daily walks. The roomy fit suits wider feet.",
     "specs": [
       "Breathable, lightweight, arch support",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411xcZdjvgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FF4X7BKQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FF4X7BKQ?tag=rvgearlab-amz-20",
     "description": "The FitVille Wide Toe has a wide to extra-wide toe box, a full rubber lugged sole and a water-resistant microfiber suede upper. An arch-support insole and high-rebound cushioning are built in for long hikes.\n\nAt about $40 it costs $1 less than the NORTIV 8 Low-Top and gives more toe room with a water-resistant, not waterproof, upper. The wide toe box lets toes splay on descents.\n\nIt suits men with broad forefeet who find standard hiking shoes cramped. The arch support helps on long days.",
     "specs": [
       "Wide to extra-wide toe box",

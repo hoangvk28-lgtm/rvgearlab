@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410DC1qH4CL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GZNRBQ4L?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GZNRBQ4L?tag=rvgearlab-amz-20",
     "description": "The VEVOR 3-Stage is a three-cartridge portable system with 5 micron filtration and 3/4 inch fittings. The listing claims up to 12,000 gallons of capacity, 3 GPM flow and stable pressure from 20 to 125 PSI, and says it reduces sediment, chlorine and heavy metals.\n\nCompared with the VEVOR Dual-Stage, it adds a third cartridge and a much larger stated capacity for a higher price. Against the VEVOR Softener, it is a filter, not a hardness treatment.\n\nBest for travelers who want the most filtering from a portable unit. The listing names no certification, so treat it as sediment and taste treatment.",
     "specs": [
       "12,000 gallon capacity",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51sOnZtY0cL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GZNLK7TY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GZNLK7TY?tag=rvgearlab-amz-20",
     "description": "The VEVOR Dual-Stage uses two 5 micron cartridges with 3/4 inch fittings. The listing claims 4,500 gallons of capacity, 3 GPM flow and stable pressure from 20 to 125 PSI, and says it reduces sediment, chlorine and heavy metals.\n\nIt has one stage fewer than the VEVOR 3-Stage and about a third of its stated capacity, but costs less. Compared with the VEVOR Softener, it treats particles and chlorine, not scale.\n\nA good fit for weekenders and part-time travelers who want a lighter portable system.",
     "specs": [
       "4,500 gallon capacity",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41GMYl3O0WL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CJ9DK4T2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CJ9DK4T2?tag=rvgearlab-amz-20",
     "description": "The VEVOR Softener is a portable softener with 16,000 grain capacity, 3/4 inch brass fittings and a 42 inch hose. The listing describes food-grade resin that can be used for about 5 years, and says it needs no tools or electricity.\n\nIt does a different job from the two filters above: it treats hardness, not sediment or chlorine. The listing says nothing about taste or chlorine reduction.\n\nBest as an add-on for travelers who see scale. Pair it with a filter, and expect to recharge or replace the resin.",
     "specs": [
       "16,000 grain capacity",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/413fl9apkgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CQLX82NQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CQLX82NQ?tag=rvgearlab-amz-20",
     "description": "This 146Wh (39,600mAh) station has seven outputs including two 110V AC outlets within 100W and a 200W peak. It can recharge from a 13 to 23V solar panel sold separately and has a dual LED flashlight with SOS.\n\nIt runs a small lamp, a laptop charger or a modem, which a phone bank cannot. A BMS handles voltage and temperature protection.\n\nIt fits households that want a first blackout kit. Keep it in a closet and top it up each season.",
     "specs": [
       "146Wh, AC outlets, 7 outputs",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51ubzYX8VhL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H33SHVPW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H33SHVPW?tag=rvgearlab-amz-20",
     "description": "The FEELLE offers 50,000mAh on a lithium polymer battery, with 15W magnetic wireless charging, four built-in cables and a hand crank. It can power up to six devices at once.\n\nCompared with the Nuynix it adds a crank and magnetic wireless charging at a higher price. It stores more phone charges than the BLAVOR and fits a family kit.\n\nIt suits families who want several phones charged during a blackout. The built-in cables keep everyone from fighting over cords.",
     "specs": [
       "50,000mAh, 15W wireless",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41BlGmYpv2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FSRRGP11?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FSRRGP11?tag=rvgearlab-amz-20",
     "description": "The Nuynix packs 49,800mAh with a 15W USB-C fast-charging port, multiple USB ports and an LED flashlight. It can be recharged by USB or by solar as a supplemental source and is covered by a 12 month limited warranty.\n\nIt is the lowest priced of the group, with a warranty that the FEELLE listing does not mention. It gives up the hand crank and wireless charging.\n\nIt suits budget-conscious households who want a big bank for phones. The USB-C port charges quickly while the others handle spare devices.",
     "specs": [
       "49,800mAh, 15W USB-C",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51FO3FenTyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07FDXDB3W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07FDXDB3W?tag=rvgearlab-amz-20",
     "description": "The BLAVOR 10,000mAh bank has a USB-C output with 20W fast charging, wireless charging and a lithium-cobalt battery the listing says gives 50% more cycles than a normal lithium polymer battery. It is IPX5 waterproof, dustproof and shockproof.\n\nIt is by far the smallest, which makes it easy to keep in a bag. A flame-retardant ABS and PC shell adds safety.\n\nIt fits individuals who want a pocket bank for daily use and outages. The wireless pad makes bedside charging easy.",
     "specs": [
       "10,000mAh, 20W USB-C",

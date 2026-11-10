@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51+3FjvCIPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H8XYPG1B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H8XYPG1B?tag=rvgearlab-amz-20",
     "description": "The ZOUPW 500W lists N-type cells at 25.6 percent, a 3-zone partial-shade layout with bypass diodes and a weight of 12.3 lbs. It unfolds to 51.4 x 53.8 x 1.2 inches and packs to 16.6 x 17.7 x 3.1 inches with two shoulder straps.\n\nIt is by far the lightest 500W panel here, at less than half the BLUETTI's weight. It costs about $230 less than the BLUETTI.\n\nIt suits campers who carry the panel by hand over distance. The corner loops stake it down and carabiners hang it.",
     "specs": [
       "500W N-type 25.6%",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31NyUAylypL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GXTVVHS3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GXTVVHS3?tag=rvgearlab-amz-20",
     "description": "The BLUETTI 500W lists 25 percent efficiency, a weight of 28.4 lbs and a folded size of 22.4 x 17.5 x 3.3 inches. It has IP67 and a 1.5 m MC4 to XT60 cable, and is built for BLUETTI stations.\n\nIt is the priciest pick here and weighs more than twice the ZOUPW 500W. It has the shortest cable at 1.5 m.\n\nIt suits BLUETTI station owners who want a matched panel. The IP67 rating handles heavy rain.",
     "specs": [
       "500W, 25%, IP67",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Tj2hoBorL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G29LMMBR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G29LMMBR?tag=rvgearlab-amz-20",
     "description": "The EYONGPV lists HPBC monocrystalline cells up to 26 percent, a book-style folding structure, IP65 ETFE with EVA dual-layer lamination and a 30A Anderson output with a 4.5 m extension cable. It works with RV batteries and 12V systems.\n\nIt lists the highest efficiency and the longest cable on the page. It costs about $55 less than the ZOUPW 500W and well under the BLUETTI.\n\nIt suits RV owners who park the panel far from the batteries. The 30A Anderson output handles high current.",
     "specs": [
       "500W HPBC up to 26%",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41fB7Q6bcHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GXYT9C87?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GXYT9C87?tag=rvgearlab-amz-20",
     "description": "The LVYUAN 500W lists a 48V operating voltage at 10.42A, a 56.64V open-circuit voltage, 23 percent efficiency and IP64. It folds to about 18.9 x 22.2 x 3.1 inches and includes XT60, DC5521, DC5525 and DC7909 adapters.\n\nIt lists its Vmp, Imp and Voc, which makes matching easy. It is the lowest-priced single panel and the lowest in water rating.\n\nIt suits campers with a station that accepts high voltage. The listing urges checking voltage before charging.",
     "specs": [
       "500W, 48V, Voc 56.64V",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51AXPSYJyYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GXZ7MBMC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GXZ7MBMC?tag=rvgearlab-amz-20",
     "description": "This kit has two 500W monocrystalline flexible panels at 23 percent efficiency with ETFE film, a 50A intelligent controller and the ability to bend up to 30 degrees. It targets RV roofs, boat decks and uneven surfaces.\n\nIt undercuts every other pick and delivers 1000W combined. It is a mounting kit more than a carry-around panel.\n\nIt suits RV and boat owners who want to mount panels on curved surfaces. The controller protects against overcharge.",
     "specs": [
       "2 x 500W flexible, 23%",

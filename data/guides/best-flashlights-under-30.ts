@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51D0G7nU3rL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F2YPTXJ2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F2YPTXJ2?tag=rvgearlab-amz-20",
     "description": "Shadowhawk is a USB-C rechargeable 30W flashlight with an XHP70.2 LED chip, five modes and an adjustable-focus head. It lists a 5000 ft beam, up to 12 hours of runtime and a power indicator.\n\nAt about $23 it costs $6 more than the RECHOO 4-Pack and offers a much larger body and battery. The figure of 10,000 lumens is a marketing number for a 30W lamp, so judge it on runtime and throw.\n\nIt suits a campsite where you need to light a ridge or a trail. The power indicator helps manage the battery.",
     "specs": [
       "30W, XHP70.2 LED",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41QK4ivfTBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GPY94S32?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GPY94S32?tag=rvgearlab-amz-20",
     "description": "This is a 30 inch bendable LED flashlight stick with a hanging hook and three modes (high, medium and flash). A non-removable rechargeable battery powers it.\n\nAt about $29 it is the most expensive pick and does a job that no hand light can: it bends around an axle or hangs from a hood. The Shadowhawk beats it on throw.\n\nIt suits car and trailer repairs. Hang it and work with both hands.",
     "specs": [
       "30 in bendable stick",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Gqrko4jdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FWKDRQW7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FWKDRQW7?tag=rvgearlab-amz-20",
     "description": "This 30W flashlight claims 3937 ft of reach and 12 hours of runtime, with an adjustable focus head and an aluminum alloy body rated IP67. It is built for rain and dust.\n\nAt about $19 it costs $4 less than the Shadowhawk and has a higher water rating. The 100,000 lumen figure is not realistic for a 30W lamp, so use the reach and IP67 rating instead.\n\nIt suits a wet-weather campsite. The alloy body shrugs off knocks.",
     "specs": [
       "30W, 3937 ft claimed reach",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51IuXUETdML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BBF161CY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BBF161CY?tag=rvgearlab-amz-20",
     "description": "RECHOO is a four-pack of zoomable aluminum flashlights claiming 1500 lumens, five modes and an IP65 rating. The head telescopes from a wide flood to a tight spot.\n\nAt about $17 it costs $6 less than the Shadowhawk and gives four lights. Each light is far smaller than the 30W lamps.\n\nIt suits a family, a group site or an emergency kit. One light can live in each tent.",
     "specs": [
       "Four-pack, 1500 lumens claimed",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51hRQ0Mq5cL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DS5Q7GZT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DS5Q7GZT?tag=rvgearlab-amz-20",
     "description": "PROLOSO is a set of 30 mini flashlights in four colors, each 3.1 inches long and with a lanyard and batteries included. They are ready to use from the bag.\n\nAt about $17 it costs the same as the RECHOO 4-Pack and gives 30 lights, which costs about 57 cents each. It trades brightness for numbers.\n\nIt suits a scout troop, a camp event or a school trip. They are cheap enough to lose.",
     "specs": [
       "30 mini flashlights",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41aiTtA0MML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GZ3D5CMD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GZ3D5CMD?tag=rvgearlab-amz-20",
     "description": "DARKBEAM is a USB-C rechargeable flashlight with adjustable focus, three modes and a digital power display. It claims 2800 lumens and a 600 ft beam in a mini 5.3 inch body weighing 4.02 oz.\n\nAt about $12 it is the cheapest pick and costs $11 less than the Shadowhawk. It shows remaining charge, which the bigger lights offer less simply.\n\nIt suits a pocket or a belt. Choose it as the daily light.",
     "specs": [
       "2800 lumens claimed, 600 ft",

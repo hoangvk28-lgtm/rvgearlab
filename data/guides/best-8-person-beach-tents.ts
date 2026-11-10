@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Qt1F0JW2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GN14M5LN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GN14M5LN?tag=rvgearlab-amz-20",
     "description": "The Wolfwise Large 8-person cabana opens to 118.1 by 118.1 by 70.9 inches, roomy enough for up to four beach chairs, with a thickened 8.5 mm fiberglass frame. It has three adjustable mesh windows, three sandbags, four pegs and UPF 50+ that blocks up to 98% of UV.\n\nAgainst the COMMOUDS it uses thinner 8.5 mm poles at a lower price, and against the OutdoorMaster it lists the same pole thickness with a similar footprint. The adjustable windows allow shade or airflow depending on the sun.\n\nIt suits large families who want a proven size and kit at a mid price. Four chairs fit comfortably inside.",
     "specs": [
       "118.1 x 118.1 x 70.9 in",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31adVDeAYYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BCWNY6Q6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BCWNY6Q6?tag=rvgearlab-amz-20",
     "description": "The COMMOUDS measures 118.1 by 118.1 by 70.9 inches with a 65 inch extended front porch and listed capacity of 8 to 10 people. Its fiberglass frame uses 11 mm rods, the thickest in this list, with three lockable mesh windows and a zippable front floor, plus UPF 50+ silver coating blocking 98% of UV.\n\nIts rods are 2.5 mm thicker than the Wolfwise and OutdoorMaster, and the long porch adds covered space for a table. At the top of the price range, it charges for that stiffer frame.\n\nIt suits large groups on breezy beaches who value frame stiffness and a covered front porch. The listing covers four sizes, so choose the 8-person one.",
     "specs": [
       "118.1 x 118.1 x 70.9 in, 65 in porch",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41xNslI35AL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GMQKX112?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GMQKX112?tag=rvgearlab-amz-20",
     "description": "The OutdoorMaster measures 118 by 118 by 69 inches, accommodates 8 to 9 people, and weighs 8.9 lb in its carry bag. It has an 8.5 mm fiberglass frame, UPF 50+ fabric blocking 98% of UV, three big mesh windows and a zippered door with an extended front floor.\n\nIt publishes its weight at 8.9 lb, and it adds a zippered door for changing that the Wolfwise leaves out. It sits between the Wolfwise and COMMOUDS on price.\n\nIt suits groups who want to know what they are carrying and need a private changing spot. The extended front floor holds gear.",
     "specs": [
       "118 x 118 x 69 in, 8.9 lb",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41mutqRgVZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DRVMWCTS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DRVMWCTS?tag=rvgearlab-amz-20",
     "description": "The Elegear CumbreX is sold for 6 to 8 people, best suited to four adults and four children or up to six adults. It uses 190T double-layer silver-coated PU2000 polyester with UPF 50+, an external snap-on installation system and a rear door with two roll-up mesh windows.\n\nIts PU2000 waterproof layer is unique in this list, and the snap-on setup saves time compared with threading poles. It is the least expensive tent here, and the listing is honest that eight means mostly children.\n\nIt suits families with several children who want sun shade plus drizzle cover. The canopy adjusts five different ways.",
     "specs": [
       "190T double layer, PU2000",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51pW8Ce39QL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HGLK3TN3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HGLK3TN3?tag=rvgearlab-amz-20",
     "description": "The Aomifunny is an 8 by 8 foot cabana with over 64 sq ft of shade, 210D silver-coated fabric blocking 99% of UVA and UVB at UPF 50+, and an alloy steel frame. It has a side wall, adjustable height, top vent and side mesh vents, and folds to 43 by 7 by 7 inches.\n\nIts steel frame is a different build from the fiberglass of the others, and the listing says it accommodates 4 to 6 adults, so it is smaller than the other picks. It folds into a slimmer 43 inch bag.\n\nIt suits groups who prefer a canopy-style shade with a steel frame. It is a flexible alternative rather than a true eight-person tent.",
     "specs": [
       "8 x 8 ft, 64 sq ft",

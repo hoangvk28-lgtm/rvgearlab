@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ucXpPwdaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CL8L5RPQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CL8L5RPQ?tag=rvgearlab-amz-20",
     "description": "The Platypus QuickDraw is a 1 liter ultralight system that squeezes at 3 liters per minute and runs at 1.75 liters per minute as a gravity filter. A ConnectCap threads onto any 28mm bottle, and the wide-mouth reservoir has a handle for quick filling.\n\nIts squeeze flow is the fastest listed here, ahead of the Katadyn BeFree AC at 2 liters per minute. It packs smaller than a gravity bag and cleans by shaking or backflushing with no tools.\n\nIt suits thru-hikers and backpackers who want speed and small pack space. Fill, thread and drink.",
     "specs": [
       "1 liter squeeze reservoir",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31dP3ZCwEFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B075X5R67T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B075X5R67T?tag=rvgearlab-amz-20",
     "description": "The Katadyn BeFree AC is a collapsible bottle of 1 liter, filtering through hollow fibers (0.1 micron) and a carbon stage. The page lists 2 liters per minute and a capacity of up to 1,000 liters.\n\nIt folds flat when empty and cleans by shaking or swishing, which is simpler than the Platypus backflush. The carbon stage targets taste.\n\nIt suits backpackers who want a fill-and-squeeze bottle that rides flat in a pack. The cleaning routine takes seconds.",
     "specs": [
       "1 liter collapsible bottle",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51U5YkHN7BL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CZF46VG2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CZF46VG2?tag=rvgearlab-amz-20",
     "description": "The TRAILGO Pro is the pump in this trio, rated for a group of four to six at 1.5 liters a minute. Its layers are a coarse screen, cotton and an ultrafiltration membrane, and hoses, clamps and a carry bag arrive with it.\n\nIt is the complete kit and the heaviest by nature, while the other two are squeezes. It serves a camp better than a bottle.\n\nIt suits families and groups who camp at a base and need water fast. Setup takes minutes.",
     "specs": [
       "Hand pump kit",

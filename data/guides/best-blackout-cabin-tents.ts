@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/61b4hQvQ8EL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DWRQ7XCX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DWRQ7XCX?tag=rvgearlab-amz-20",
     "description": "The EVER ADVANCED 8-person tent is (9+6) by 9 feet, with an 84 inch center height inside the room and a 66 inch porch. Both the inner room and the porch use blackout materials, and a sewn-in door splits the space into two rooms.\n\nOf the four, its listing alone names a blackout porch and a separate nap room. Four adjustable roll-up windows and an inner overhead net window handle the airflow.\n\nIt suits a family where kids nap while adults stay outside. Sleeping up to 8 is stated as 5+3.",
     "specs": [
       "(9+6) x 9 ft, 84 inch room",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51DxY0-0OtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BJVFXGYN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BJVFXGYN?tag=rvgearlab-amz-20",
     "description": "The EVER ADVANCED 6-person instant tent is 9.75 by 9 feet with a 77 inch center height and a dark coating that blocks 90 percent of light. It has a vestibule, a rainfly, multiple large mesh windows and double zipper doors.\n\nIt is the only EVER ADVANCED listing here that names a light-block figure, and its floor is larger than the 9 by 9 foot version. Setup is 60 seconds.\n\nIt suits a family of six who want fast setup and a dark interior. The vestibule gives a place for luggage or a pet.",
     "specs": [
       "9.75 x 9 ft, 77 inch center",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410w6Eos1zL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CH81KHF8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CH81KHF8?tag=rvgearlab-amz-20",
     "description": "The EVER ADVANCED 6-person blackout instant tent is 9 by 9 feet by 73 inches, and its packed bag is about 48 inches long. It sets up in 60 seconds, with 3 large zippered mesh roll-up windows and an overhead net window.\n\nIt costs less than the 9.75 by 9 foot version and gives a skylight view. Storage bags, a woven belt for lights or fans and a power pass-through are included.\n\nIt suits a family on a budget that wants a dark tent. One person can set it up.",
     "specs": [
       "9 x 9 x 73 inch",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41cgf4xfNuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GZW3M5D6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GZW3M5D6?tag=rvgearlab-amz-20",
     "description": "The Night Cat 4-person pop-up tent is 7.9 by 6.9 by 5.2 feet and fits one king air mattress or up to four sleeping bags. It uses 210T blackout fabric that blocks over 90 percent of sunlight, with a PU 3000mm coating and taped seams.\n\nIts smallest floor goes with a spring pole system, which sets the tent up in about a minute. It adds a vestibule and a rainfly.\n\nIt suits a small family or couple who want a dark nap tent. Two large doors and windows give airflow.",
     "specs": [
       "7.9 x 6.9 x 5.2 ft",

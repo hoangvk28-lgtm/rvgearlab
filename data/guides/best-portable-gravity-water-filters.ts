@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31h1ukAa0BL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CQRWJZX5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CQRWJZX5?tag=rvgearlab-amz-20",
     "description": "MSR built the AutoFlow XL around a 10 liter bag, aimed at big backpacking parties and basecamps. The listing says it flows at 1.75 liters per minute with no pumping and removes bacteria at 99.9999% and protozoa at 99.9%, along with dirt.\n\nIt holds far more than the Waterdrop set, and a film reservoir with a sediment trap keeps grit out of the filter. A hang strap and bag clip make it easy to hang, and the storage bag has a PFAS-free water-repellent finish.\n\nBest for groups of four or more that share a basecamp. One person can fill it while the rest set up.",
     "specs": [
       "10 liter gravity reservoir",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41VY51vsm7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09285L8JL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09285L8JL?tag=rvgearlab-amz-20",
     "description": "Waterdrop sells a filter straw together with a 1.5 gallon gravity bag, built around a 0.1 micron ultrafiltration membrane. The listing gives a life of up to 1,400 gallons, a flow of up to 700 ml per minute and a backwash function that restores flow.\n\nIt costs a small fraction of the MSR AutoFlow XL and fits in a pack pocket, while the straw can also connect to bottles. The bag holds a fraction of the MSR's reservoir, so it serves one or two people.\n\nA fit for solo hikers and pairs who want a hang-and-wait filter on a budget. At camp the bag stands in for a gravity setup, and on the trail the straw works alone.",
     "specs": [
       "1.5 gallon gravity bag",

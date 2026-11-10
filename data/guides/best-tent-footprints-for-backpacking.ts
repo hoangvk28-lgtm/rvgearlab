@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21-H7SimTwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C5QWV2XV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C5QWV2XV?tag=rvgearlab-amz-20",
     "description": "The OneTigris 2 person footprint is 78.7 by 47.24 inches in 70D ripstop polyester with a 2000mm waterproof rating. It weighs 0.2 kg (0.45 lb) and packs to 9.84 by 7.87 by 1.37 inches.\n\nIt carries the lightest stated weight in this list, ahead of the Frelaxy-class sheets and the 0.85 lb REDCAMP. Its listing names compatibility with the Cosmitto and Stelle tents.\n\nIt suits a solo or two-person backpacking tent where packed size matters most. The PU-coated side faces up.",
     "specs": [
       "0.45 lb, 78.7 x 47.24 in",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41YaOW5EC9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C9VWVBMV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C9VWVBMV?tag=rvgearlab-amz-20",
     "description": "The Modern Grizzly ground sheet is made from Tyvek, which the listing calls breathable, tear and puncture resistant and waterproof. It spreads under a tent and stakes through the grommets.\n\nAgainst the polyester sheets here, Tyvek lets air move through while stopping ground water. Its brand family also lists weights of a few ounces for the smaller sizes.\n\nIt suits an ultralight backpacker who prefers Tyvek's feel. The material also copes with rough ground.",
     "specs": [
       "Tyvek ground sheet",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/419yjdIsotL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07YSH58KQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07YSH58KQ?tag=rvgearlab-amz-20",
     "description": "The REDCAMP is an 83 by 87 inch footprint in 210T ripstop polyester with a PU2000mm coating. It weighs 0.85 lb (386g), packs to 3.14 by 8.6 inches and is called suitable for a 3 to 4 person tent.\n\nIt is the biggest sheet here, wider than the 47 inch OneTigris by more than 35 inches. It also doubles as a tarp for sun or rain with the tie-outs.\n\nIt suits a backpacking trio or a four-person tent that still needs to stay under a pound. A 365-day warranty covers it.",
     "specs": [
       "83 x 87 in, 0.85 lb",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41GhpWvIYrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B085N3K1RJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B085N3K1RJ?tag=rvgearlab-amz-20",
     "description": "The Clostnature 87 by 75 inch footprint is ripstop polyethylene with a waterproof coating. It weighs 12.3 oz and folds into a drawstring bag the size of a cellphone, and the listing ties it to Clostnature's 3-person tent.\n\nIt sits between the 47 inch OneTigris and the 83 by 87 inch REDCAMP in size, and it is heavier than the Underwood at 10.16 oz. The listing carries a one-year guarantee.\n\nIt suits a car camper or a short hike with a three-person tent. The drawstring bag keeps it tidy.",
     "specs": [
       "87 x 75 in, 12.3 oz",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31SMIASvUPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F381JJBY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F381JJBY?tag=rvgearlab-amz-20",
     "description": "The Underwood footprint is 86.6 by 59.1 inches in 210T fabric with a PU3000mm coating and taped seams. It weighs 10.16 oz (288g), packs with a carry bag and uses heavy-duty grommets to stake down.\n\nIt costs the least here and has the highest listed waterproof rating of the polyester sheets at PU3000mm. It is wider than the OneTigris and lighter than the Clostnature.\n\nIt suits a budget-minded two-person backpacker. The listing notes it is cut slightly smaller than the tent floor.",
     "specs": [
       "86.6 x 59.1 in, 10.16 oz",

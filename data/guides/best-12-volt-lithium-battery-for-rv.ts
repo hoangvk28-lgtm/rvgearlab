@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41TU+jCREwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GS8FRF41?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GS8FRF41?tag=rvgearlab-amz-20",
     "description": "The LiTime 200Ah Mini earns the top spot because it solves the problem most RV owners hit first: there is only one battery tray. At 13.11 x 6.93 x 10.04 inches it drops into a Group 31 sized space while holding 200Ah, and its 200A continuous BMS rating is high enough to run a typical 2000W inverter without tripping.\n\nThe ELEFAST 200Ah ranked below it costs roughly half as much, but its listing describes a 100A BMS in one bullet and 200A in another, and it does not claim the same compact Group 31 fit. The LiTime also adds a documented low-temperature charge cutoff and app monitoring, so you are paying for space savings and clearer specs rather than more raw capacity.\n\nThis is the pick for trailers and vans where tray space, not budget, is the constraint. The caveat is cost: if you have room for a larger box, the ECO-WORTHY 280Ah gives more energy for less money.",
     "specs": [
       "200Ah, 2560Wh",
@@ -55,7 +55,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41OQF+XE2SL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DLXXRHHL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DLXXRHHL?tag=rvgearlab-amz-20",
     "description": "The ELEFAST 200Ah is the value route to 200Ah from a single 12V battery. Its BMS tolerates a 600A inrush for one second, which helps when a compressor fridge or pump kicks on, and the listing states a full charge in about five hours from a 20A lithium charger.\n\nCompared with the LiTime Mini above it, you save a large chunk of money but give up a confirmed compact footprint and a single, consistent BMS rating. Its listing mentions both 100A and 200A figures, so treat sustained output as 100A until the seller confirms otherwise. It still beats the Dumfume 150Ah below on capacity per dollar.\n\nBuy it if you want 200Ah and have a roomy battery bay. If you plan to run a 2000W inverter hard, confirm the continuous BMS current with ELEFAST before ordering.",
     "specs": [
       "200Ah, 2560Wh",
@@ -83,7 +83,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4152WgrC3+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G79296WJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G79296WJ?tag=rvgearlab-amz-20",
     "description": "The ECO-WORTHY EnergyRock is the largest single battery in this 12V roundup at 280Ah. Its metal enclosure ships with four mounting feet, so it bolts down inside a compartment without a separate battery box, and an onboard switch disconnects the output for storage or maintenance.\n\nIt offers more capacity than either 200Ah pick above for a price between them, but it will not fit a Group 24 or Group 31 tray, which is why it ranks behind the LiTime Mini. It also documents recommended solar controller settings (14.6V absorption, float disabled), a detail the cheaper picks below leave out.\n\nIt suits larger rigs replacing two or three lead-acid batteries with one unit. Measure your bay first, because this is a box-sized battery, not a drop-in.",
     "specs": [
       "280Ah, 3584Wh",
@@ -111,7 +111,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Jx-+XkGEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G8HHKDMQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G8HHKDMQ?tag=rvgearlab-amz-20",
     "description": "The Dumfume 150Ah fills the gap between 100Ah and 200Ah. It stores 1920Wh in a 10.04 x 7.68 x 9.84 inch case at 41 lbs, and its listing rates it for over 4,000 cycles to 80 percent capacity.\n\nIt costs well under the 200Ah picks above, but its 100A BMS caps continuous draw near 1,280W, so it cannot run the same inverter loads as the LiTime or ECO-WORTHY. It also lacks the Bluetooth app that the BUKNUWO below includes at a lower price.\n\nIt is a good fit for campers running lights, a fan, and a 12V fridge over a long weekend. The listing does not state a specific low-temperature charge cutoff, so winter users should look elsewhere.",
     "specs": [
       "150Ah, 1920Wh",
@@ -139,7 +139,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41yLVdD9T3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GHJJN1K5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GHJJN1K5?tag=rvgearlab-amz-20",
     "description": "The BUKNUWO 100Ah is the entry point for owners swapping out one lead-acid battery. It weighs 22 lbs, adds Bluetooth monitoring of state of charge, current, and power, and carries a 5-year warranty, which is unusual at this price.\n\nCompared with the Dumfume 150Ah above, you give up a third of the capacity but gain the app and a longer stated warranty. Against the POERUNI below, it costs a little more mainly for that Bluetooth monitoring.\n\nIt suits travel trailers that mostly camp with hookups and want a lighter, longer-lasting battery. Plan on two in parallel if you intend to run a microwave or coffee maker off an inverter.",
     "specs": [
       "100Ah, 1280Wh, 22 lbs",
@@ -167,7 +167,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41uF1pLqN5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FVWPVB33?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FVWPVB33?tag=rvgearlab-amz-20",
     "description": "The POERUNI 100Ah is the cheapest way into 12V LiFePO4 here. It is a sealed 24 lb battery measuring 10.24 x 8.23 x 6.65 inches that can mount in any position except inverted, and the listing claims 15,000 cycles at 80 percent depth of discharge.\n\nIt ranks last because its spec sheet is thin: no BMS amp rating, no app, and only a general mention of low-temperature protection. The BUKNUWO above costs only a little more and answers those questions.\n\nIt is fine for light loads such as lights, a water pump, and phone charging. Ask the seller for the continuous current rating before pairing it with any inverter.",
     "specs": [
       "100Ah, 1280Wh, 24 lbs",

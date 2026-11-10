@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51cgphc4r5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C4SMQ1PX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C4SMQ1PX?tag=rvgearlab-amz-20",
     "description": "The LiTime 12V 40A charges from a DC source, solar panels or both in hybrid mode, with 99% MPPT tracking and a 14.6V output. It can also reverse charge from the house bank to a flat starter battery, and protections include reverse polarity and over-temperature.\n\nAt $195.99 it costs $45.00 more than the Renogy 30A but gives 10 extra amps and the emergency reverse charge. Pick this if you have a lithium house bank and want one box for alternator and solar. The caveat: the listing warns it is not waterproof, so mount it inside.",
     "specs": [
       "40A output, 14.6V",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31cSgrZrXOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B093BB3PCV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B093BB3PCV?tag=rvgearlab-amz-20",
     "description": "The Renogy 30A DC-DC MPPT charger takes dual input, prioritizes solar and tops up from the alternator. It is 9.6 inches long, 5.7 inches high and weighs 3.13 lb, and it works with Renogy's screens and the DC Home app for tracking voltage and temperature.\n\nIt is $45.00 cheaper than the LiTime 40A, with 10 fewer amps and no listed reverse charge. Pick this if space is tight and you already use Renogy monitoring. The caveat: the listing does not state the lithium absorption voltage, so confirm your battery profile before buying.",
     "specs": [
       "30A output, 12V",

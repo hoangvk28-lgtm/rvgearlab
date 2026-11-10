@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41L6j3lVH1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FDMQY1MF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FDMQY1MF?tag=rvgearlab-amz-20",
     "description": "The MICRO-AIR EasyStart Breeze 399 is listed for most RV rooftop units up to 18,000 BTU and describes a 4-part ramp-up that reduces locked-rotor amperage by up to 75 percent. It includes Bluetooth monitoring and a 40-inch harness, with an install time quoted under 30 minutes.\n\nVersus the Spartan Power SpartanStart, you pay more but gain the Bluetooth monitor and a reduction figure stated on the listing. Versus the SoftStartRV, the Breeze lists a 2200W inverter generator use case rather than a smaller low-profile footprint.\n\nBest for owners who want visibility into startup behavior and a well-documented install. The 18,000 BTU ceiling means a larger unit needs a different model.",
     "specs": [
       "Up to 18,000 BTU units",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Q8DDzNcmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09WHDXDYG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09WHDXDYG?tag=rvgearlab-amz-20",
     "description": "The Spartan Power SpartanStart is listed for ACs up to 20,000 BTU, on a 120V circuit, and includes a Generator Anti-Stall and Preload feature. The kit arrives with six splice connectors, a cleaning wipe and mounting tape, and carries a three-year warranty.\n\nCompared with the MICRO-AIR Breeze, it covers a bigger BTU class and costs much less but has no Bluetooth app. Compared with the Kedite, it adds a longer warranty and generator-oriented logic at a higher price.\n\nBest for owners with a larger rooftop unit who want a stated warranty and a three-wire install. Confirm the exact BTU rating of your AC before ordering.",
     "specs": [
       "Up to 20K BTU AC",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41QqDCVi0uL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07YBMCTBC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07YBMCTBC?tag=rvgearlab-amz-20",
     "description": "The SoftStartRV from NetworkRV is listed as 40 percent smaller to fit low-profile RV AC units and as 100 percent waterproof. The listing describes starting two ACs on a 30-amp supply or one on a small generator.\n\nAgainst the MICRO-AIR Breeze, it is cheaper and smaller but lacks a stated Bluetooth app. Against the Spartan SpartanStart, it trades a longer warranty claim for a more compact body that fits tight shrouds.\n\nBest for owners with low-profile ACs or a cramped shroud. Treat the two-AC claim as a listing statement and verify against your own breaker and generator limits.",
     "specs": [
       "40% smaller body",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51YXdnjIq2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GYD3TVDV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GYD3TVDV?tag=rvgearlab-amz-20",
     "description": "The Kedite Soft Start is listed as cutting inrush current by up to 75 percent, with an IP65 waterproof enclosure and reverse motor protection. The listing frames it as an easy DIY install that works with generators, solar and home ACs.\n\nCompared with the SoftStartRV, it costs less and quotes a reduction figure, but names less detail on BTU range. Compared with the Aoteda, it adds IP65 and reverse-motor protection.\n\nBest for budget buyers who want a stated waterproof rating. Confirm the compatible AC size before buying.",
     "specs": [
       "Cuts inrush up to 75%",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41xIvpFTyqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F98TNVHS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F98TNVHS?tag=rvgearlab-amz-20",
     "description": "The Aoteda soft starter is listed as reducing starting current by 65 to 70 percent and allowing the AC to run from a 20A domestic connection. It is aimed at small-generator use.\n\nVersus the Kedite, it quotes a lower reduction range and drops the IP65 detail. Versus the iFJF, it gives a clearer reduction figure but a higher price.\n\nBest for tight budgets where a stated reduction range is enough. The listing contains an obvious BTU typo, so verify compatibility before buying.",
     "specs": [
       "Cuts starting current 65 to 70%",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411BFblkwtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D1FX5FBR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D1FX5FBR?tag=rvgearlab-amz-20",
     "description": "The iFJF RV Soft Start Kit is listed for a 15,000 BTU AC and a small generator, with a flame-retardant ABS shell. It includes an installation kit and instructions with videos.\n\nVersus the Aoteda, it names a clearer BTU class but gives no percent reduction. Versus the Spartan SpartanStart, it covers fewer BTUs and offers a shorter feature list.\n\nBest for a 15,000 BTU unit and the lowest spend. A 15,000 BTU ceiling means larger ACs need another pick.",
     "specs": [
       "15,000 BTU AC kit",

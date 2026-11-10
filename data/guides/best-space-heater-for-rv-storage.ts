@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41PjmW18C7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07GZ39SL7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07GZ39SL7?tag=rvgearlab-amz-20",
     "description": "The Heat Storm Phoenix is a 1,500W infrared heater with a 5,200 BTU output and a low setting that uses 750W. It has a built-in thermostat with an LED display, a remote control and removable feet or wall-mounting points.\n\nAgainst the Xtreme Heaters units, it adds an LED thermostat display and wall mounting. Against the Mr. Heater, it is electric and needs no fuel.\n\nBest for holding a steady storage temperature in a garage or covered space with an outlet. A neat wall-mounted pick.",
     "specs": [
       "1500W infrared, 5,200 BTU",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41lcn26x3uL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GBPF4F8F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GBPF4F8F?tag=rvgearlab-amz-20",
     "description": "The Xtreme Heaters portable heater is made for boats, cabins and RVs with 750W and 1,500W settings and a UL-tested listing. It draws air from the top so it can sit against walls or on carpet, and it has a low-profile stable base, tip-over shutoff and a 6 foot power cord.\n\nAgainst the Heat Storm, it has no thermostat display but costs the same. Against the identical Xtreme Heaters listing, it carries the UL tested wording in the title.\n\nBest for a small storage space where safety shutoff matters. A stable, quiet pick.",
     "specs": [
       "750W and 1500W, UL tested",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41GAom6B1FL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DLXM5WRW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DLXM5WRW?tag=rvgearlab-amz-20",
     "description": "The second Xtreme Heaters listing has the same quiet portable design for boats, cabins and RVs, with 750W and 1,500W settings. It lists a top air intake, a low profile and an automatic shutoff if the heater tips in any direction.\n\nAgainst Xtreme Heaters UL, the specs read the same, so either is a stock choice. Against the Mr. Heater, it needs an outlet but burns no fuel.\n\nBest for buyers who want the Xtreme Heaters design from whichever listing is available. A calm, low-profile heater.",
     "specs": [
       "750W and 1500W settings",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41tSS0Du+6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B011TRLWH2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B011TRLWH2?tag=rvgearlab-amz-20",
     "description": "The Mr. Heater Golf Cart is a 4,000 BTU radiant propane heater that runs up to 5.5 hours on a 1 lb cylinder and heats up to 100 square feet. It has a rough-terrain tip switch and high-intensity radiant heat.\n\nAgainst the electric heaters, it works where there is no outlet. Against the FOGATTI furnace, it is a small portable unit at a fraction of the cost.\n\nBest for short, attended heating where no power exists. Not a heater for leaving on in storage.",
     "specs": [
       "4,000 BTU radiant propane",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hW-yf+JuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FPCPCZ9D?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FPCPCZ9D?tag=rvgearlab-amz-20",
     "description": "The FOGATTI RV furnace is a 35,000 BTU forced-air unit with thermostat control and a corrosion-resistant build. It is described as suited to larger motorhomes and travel trailers in freezing climates.\n\nAgainst the portable heaters, it is a permanently installed furnace and not a plug-in unit. Against the Mr. Heater, it distributes heat throughout the coach.\n\nBest for an owner who is replacing a coach furnace. Not a storage heater to place in a corner.",
     "specs": [
       "35,000 BTU forced-air RV furnace",

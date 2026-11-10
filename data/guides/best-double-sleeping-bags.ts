@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41rmYwp3xFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H873F7G4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H873F7G4?tag=rvgearlab-amz-20",
     "description": "The Poimerk double measures 92 by 63 inches, fits two adults up to 7 ft and prints a comfort range of 40 to 65 degrees F with a low of 30 degrees F and a high of 70. It includes two pillows, an adjustable hood, anti-snag zippers, draft tubes and a compression sack.\n\nIt combines size, printed ratings and draft tubes at one of the lowest prices in the list. Compared with the KingCamp it is larger, and against the oaskys it prints a rating in Fahrenheit.\n\nIt suits tall couples who want a washable double for spring and fall. It splits into two singles or unzips flat.",
     "specs": [
       "92 x 63 inch queen",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/414uj7663zL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09NR1Z7QF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09NR1Z7QF?tag=rvgearlab-amz-20",
     "description": "The KingCamp double is lined with 100 percent cotton flannel, measures 87 by 59 inches and suits adults up to 7 ft. The listing says it is good for temperatures of 32 degrees F and above, and it splits into two singles with zippers on both sides.\n\nIt names a colder working point than the AGEMORE and Coleman, and it adds a Velcro neckline and foot zippers. It costs more than the Poimerk.\n\nIt suits couples who want a soft flannel lining for chilly nights. The foot zippers help with venting.",
     "specs": [
       "87 x 59 inch, flannel lined",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41xs1fzi8-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D645RGGX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D645RGGX?tag=rvgearlab-amz-20",
     "description": "The Coleman is a 45 degree F queen XL double sized for sleepers to 6 ft 4 in. It has a 3-in-1 design that zips apart into two bags, a lightweight sheet for layering, a Roll Control system and a Quick Cord for packing.\n\nIts rating is milder than the other doubles', and it carries the highest price. Its Roll Control and cord make packing easier than any other bag here.\n\nIt suits couples who want a known brand and easy packing for warm-to-cool nights. The sheet adds layering.",
     "specs": [
       "45F queen XL double",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41GIshIG4qL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08J7G97RC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08J7G97RC?tag=rvgearlab-amz-20",
     "description": "The AGEMORE double has a brushed cotton flannel lining and a 210T water-resistant polyester exterior, designed for 41 to 59 degrees F. It uses zippers on both sides so it splits into two single bags or a double.\n\nIt is cheaper than the KingCamp and prints a narrower, warmer range. It compresses for easy packing.\n\nIt suits couples who camp in damp spring and fall weather. A flannel lining adds comfort.",
     "specs": [
       "Designed for 41 to 59F",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51p2IHwY0sL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G1YK4D9F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G1YK4D9F?tag=rvgearlab-amz-20",
     "description": "The SWTMERRY is a queen XL rectangular double with a comfort range of 5 to 25 degrees C and an extreme of 0 degrees C, fitting two people up to 7 ft. It ships with two pillows, a 3D hood with drawstrings and a compression sack with a handle.\n\nIt prints a metric comfort pair, which the Poimerk reports in Fahrenheit, and it splits into two single bags or two blankets. It costs a little more than the Poimerk.\n\nIt suits tall couples who want a flexible double. Its comfort band is about 41 to 77 degrees F.",
     "specs": [
       "Comfort 5 to 25C, extreme 0C",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41nh2n21tbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DWMTCVPK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DWMTCVPK?tag=rvgearlab-amz-20",
     "description": "Measuring about 220 by 145 cm, the oaskys double is designed for 10 to 20 degrees C, with a 210T anti-tearing polyester shell, 190T pongee lining and two pillows. A compression sack with straps is included.\n\nIt is priced under all the others and splits into two singles. The listing prints its range in Celsius only.\n\nIt suits budget couples on mild nights. The shell wipes clean.",
     "specs": [
       "220 x 145 cm queen XL",

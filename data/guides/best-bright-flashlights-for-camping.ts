@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/415T4iOdJmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07FNRNC2B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07FNRNC2B?tag=rvgearlab-amz-20",
     "description": "This 1200-lumen aluminum flashlight runs on four AA batteries (not included) for up to 10 hours on high, with three modes and a zoomable beam. The listing states a reach of up to 1000 feet and an IPX4 rating for rain and splashes.\n\nIts removable AA cells let you carry spares, which the built-in-battery lights here cannot do. Its output number is also far more believable than the 100,000 lumen title on the CHILDBOT.\n\nIt suits campers who want a light that works in a week-long trip with a pack of spare AA cells. The aluminum body is described as lightweight and rugged.",
     "specs": [
       "1200 lumens, four AA cells",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/417M-0uu0yL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08YF4VY7P?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08YF4VY7P?tag=rvgearlab-amz-20",
     "description": "The AlpsWolf is a 4-in-1 flashlight, lantern, spotlight and emergency red strobe, listed at 800 lumens with a 1,640 foot range. Its 3,600mAh rechargeable battery charges in 3 hours, and the body weighs 0.8 pounds with a strap included.\n\nIt does the job of a flashlight and a tent lantern in one body, which the pure flashlights here cannot. It lists a lower lumen count than the 1200-lumen AA light and a longer stated reach.\n\nIt suits campers who want one light for the trail and the tent. The red strobe works as a signal.",
     "specs": [
       "800 lumens, 1,640 ft range",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41sauuz68FL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CQKHDH32?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CQKHDH32?tag=rvgearlab-amz-20",
     "description": "This rechargeable zoom light has five modes, an LCD display for battery level and a runtime of about 15 hours. The listing rates it IP67, so it survives heavy rain, snow and brief submersion, and it carries a one-year replacement service.\n\nIt has the strongest waterproof rating of the six and an LCD readout, which the AA light lacks. Its title carries a 100,000 lumen claim, which is not a realistic output for a handheld, so judge it on its modes and seals.\n\nIt suits wet-weather campers and kayakers who want a rugged rechargeable light. The longbeam LED chip supports zoomed throws.",
     "specs": [
       "IP67, five modes, zoomable",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51q9m3lZOxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DJQF83C2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DJQF83C2?tag=rvgearlab-amz-20",
     "description": "The TrixHub 2-Pack provides two rechargeable zoom lights with five modes, an LCD battery readout and a fast-charging chip. The shells are aircraft-grade aluminum alloy, and the stretch-head zoom switches beam size.\n\nIt gives you a spare for the price of one light, which suits tents and cars. It lacks the IP67 rating of the CHILDBOT and the lantern mode of the AlpsWolf.\n\nIt suits families who want a light per tent or per car. The compact body fits a glove box.",
     "specs": [
       "Two rechargeable zoom lights",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51-WqcraUbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09PMKBHF1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09PMKBHF1?tag=rvgearlab-amz-20",
     "description": "The Victoper 2-Pack lists a reach of up to 656 feet, five modes and a zoomable head. The Type 3 hard-anodized aircraft-grade alloy resists abrasion and the listing quotes a 50,000 hour LED lifespan.\n\nOnly the Zoomable 2-Pack 18650 costs less, and the stated reach is shorter than the AlpsWolf's 1,640 feet. Two lights are included.\n\nIt suits budget campers who want a spare set for the tent and the truck. Five modes include SOS and strobe.",
     "specs": [
       "656 ft reach, five modes",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Y-MR3AC5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FGXPB5G6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FGXPB5G6?tag=rvgearlab-amz-20",
     "description": "This 2-pack includes two lights with AAA battery bases and two 18650 battery tubes, plus lanyards. The aluminum bodies are listed as impact-resistant, with five modes and an adjustable focus from flood to spot.\n\nIts AAA fallback base lets you run on common cells when the 18650 runs dry, which the built-in-battery lights lack. It is also the cheapest per light in the group.\n\nIt suits campers who want a spare-power option in a small set. The package covers two people.",
     "specs": [
       "Two lights, AAA and 18650 tubes",

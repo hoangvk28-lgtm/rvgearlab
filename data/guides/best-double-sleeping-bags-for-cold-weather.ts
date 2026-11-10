@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51SyI4NlILL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BFMN2CH2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BFMN2CH2?tag=rvgearlab-amz-20",
     "description": "IFORREST states a 10 to 14F temperature range for this queen XXL double, with 500 g per square meter of cotton filling, a 100% cotton flannel lining and an 80D polyester shell. A half-circle hood, an anti-snag auto-lock zipper and a wide compression sack are included.\n\nAlone among the four, it pairs a specific cold range with a fill weight, ahead of the AGEMORE and WKFAMOUT labels. It converts into two single bags, a king-size blanket, a liner or a mat.\n\nA strong match for couples who camp in winter with vehicle access. The thick fill is built for base camps and hunting trips.",
     "specs": [
       "10 to 14F range, 500 g/m2 fill",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ofzhYeViL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09GVSS1NF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09GVSS1NF?tag=rvgearlab-amz-20",
     "description": "AGEMORE's winter double combines a 100% cotton flannel lining with 550 GSM of 3D synthetic fiber fill and weighs about 14 lb. It measures 90 x 61 inches, fits people up to 6.5 feet and has left and right zippers that open it into two pieces or one wide piece.\n\nIt is the thickest of the four, with a weight to match, and the longest on the printed sizes. Three buckle straps help roll it for the compression sack.\n\nBest for couples or small families who camp in cold weather by car and want the thickest bag. It is a base-camp bed, not a trail bag.",
     "specs": [
       "550 GSM synthetic fill, 14 lb",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41L1WXhPl8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FX3XQWFL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FX3XQWFL?tag=rvgearlab-amz-20",
     "description": "WKFAMOUT builds this hooded envelope double with 5.73 lb of high-loft faux silk cotton in a dual-layer top and single-layer bottom. The size is 86.7 x 59 inches for two adults up to 6 feet 2 inches, and the listing states all-night comfort at 30F.\n\nIt is the least expensive of the cold-labeled bags and states a plain 30F comfort figure beside its 0 degree label. Shoulder draft tubes, an oversized hood and a large Oxford compression sack add to it, and it zips apart into singles.\n\nGood for couples on hunting trips and cabin stays who want a hooded bag at a lower price. Anti-snag threading helps the hood and sides.",
     "specs": [
       "0 degree label, 30F comfort",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/419vmBl5dgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CTQJSG18?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CTQJSG18?tag=rvgearlab-amz-20",
     "description": "Naturehike sells a big and tall double that unfolds to 87 x 63 inches, with three ways to use it: a wrap-around-zipper double for spring and fall, a button-in lighter layer for summer, and a heavier winter setup. The fabric is 210T pongee over a plaid flannel lining, and two soft pillows come with it.\n\nIt is the most adjustable of the four and the only one with backpack-style carry. It costs about the same as the IFORREST and AGEMORE, with a separate foot zipper for air.\n\nA fit for couples who camp across all four seasons and want one bag to cover them. The pillows add comfort.",
     "specs": [
       "87 x 63 in, three modes",

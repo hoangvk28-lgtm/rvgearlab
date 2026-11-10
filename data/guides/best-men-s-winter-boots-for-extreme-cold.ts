@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41AEd5az2CL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00HNTWPUO?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00HNTWPUO?tag=rvgearlab-amz-20",
     "description": "The Baffin Snow Monster is an arctic-rated tall boot with a stated range of -22 to -49 degrees Fahrenheit. It pairs an Arctic Rubber shell with an EVA midsole, a Polar Rubber outsole and a removable multi-layer inner boot with a Thermaplush wicking layer and B-Tek foam lining.\n\nCompared with the Baffin Wolf, it covers a colder range and adds a vapourized aluminum membrane for heat regulation. Against the Muck Arctic Pro, it uses a removable inner boot that can be dried separately.\n\nIt suits people who stand or work in the cold for hours. A locking snow collar and side-to-side lace system with a toggle seal out wind and snow.",
     "specs": [
       "Rated -22 to -49 degrees F",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31MeTRyt8cL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0042ZRKKM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0042ZRKKM?tag=rvgearlab-amz-20",
     "description": "The Muck Arctic Pro is Muck's warmest boot, using 8 mm neoprene with a fleece lining and 2 mm thermal foam under the footbed. It is comfort rated from -60 to 30 degrees Fahrenheit and stands 17 inches tall.\n\nCompared with the Kamik Forester, it uses much thicker neoprene and a stated comfort range. Against the Baffin Snow Monster, it is a pull-on rubber boot instead of a lace-up with inner boot.\n\nIt suits hunters and ice anglers who sit for hours. A stretch-fit comfort topline snugs the calf and rear pull loops speed entry.",
     "specs": [
       "Comfort rated -60 to 30 degrees F",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31aFV0sGCuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B001FQ1FES?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B001FQ1FES?tag=rvgearlab-amz-20",
     "description": "The Kamik Greenbay 4 carries a -40 degree rating with Thermal Guard insulation, a durable nylon upper and a rubber outsole for traction on ice and mud. A midfoot Velcro closure speeds on and off.\n\nAgainst the Nextpath Quick-Release, it uses a simple Velcro strap and a nylon upper. Compared with the Kamik Forester, it gives a clear temperature rating at a modest price.\n\nIt suits commuters and workers who face deep cold for short stretches. The listing calls it made for the kind of cold that empties streets.",
     "specs": [
       "-40 degree rating",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31H9fO86eLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FM7BJXXJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FM7BJXXJ?tag=rvgearlab-amz-20",
     "description": "The Nextpath Quick-Release boot lists four-layer -40 degree Fahrenheit warmth with a 12 mm removable liner. It has two quick-release buckles and a drawcord collar, and a molded TPE shell that the listing calls fully waterproof at the base.\n\nCompared with the Kamik Greenbay, it adds a removable liner for drying. Against the Muck Arctic Pro, it weighs about 1.5 lb per boot and uses buckles instead of a pull-on.\n\nIt suits shovelers and farm chores in deep cold. The anti-wicking Oxford upper and deep-lug outsole add grip.",
     "specs": [
       "-40F four-layer warmth",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41CxDGNM2yL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B006T89V1G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B006T89V1G?tag=rvgearlab-amz-20",
     "description": "The Baffin Wolf is a tundra-rated boot for 14 to -22 degrees Fahrenheit with a Comfort-Fit removable multi-layer inner boot using Thermaplush, B-Tek Foam and B-Tek Heat insulation. A tall nylon upper with a locking snow collar and double buckle fastening protects from snow.\n\nCompared with the Baffin Snow Monster, it covers a milder range and costs far less. Against the Kamik Greenbay, it adds double buckles and a B-Tek Dry waterproof base.\n\nIt suits shoveling, mountain scaling and active winter use. The listing calls it versatile for moderate to high activity.",
     "specs": [
       "Tundra rated 14 to -22 degrees F",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31GrJ766v0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07N1J7HBG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07N1J7HBG?tag=rvgearlab-amz-20",
     "description": "The Kamik Forester is a waterproof rubber boot with an 8 mm removable liner for warmth. A nylon collar with a drawstring keeps moisture and debris out, and a slip-resistant Explorer outsole grips slick ground.\n\nCompared with the Muck Arctic Pro, it uses a thinner liner at a lower price. Against the Kamik Greenbay, it is all-rubber and waterproof rather than rated for -40.\n\nIt suits hunters and trappers in wet, cold conditions. The listing mentions muddy trails and harsh climates.",
     "specs": [
       "Waterproof rubber upper",

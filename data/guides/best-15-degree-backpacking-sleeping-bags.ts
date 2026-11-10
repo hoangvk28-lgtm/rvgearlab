@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Bot5lfELL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DK7R8746?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DK7R8746?tag=rvgearlab-amz-20",
     "description": "The NEMO Disco is a 15 degree F men's down bag filled with 650 FP hydrophobic, PFAS-free, RDS-certified down. Its Thermo Gill vents, Blanket Fold draft collar and spoon shape give extra elbow and knee room.\n\nIt is the only bag here with a true 15 degree F rating, and the multistage vent system extends its comfort range for warm nights. It costs well above every other pick, which buys the hydrophobic down and the vent design.\n\nIt suits backpackers who want a premium down bag with ventilation and side-sleeper room. A Regular Wide size is also available.",
     "specs": [
       "15F men's down bag",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ghlgseeBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08TQYGG1N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08TQYGG1N?tag=rvgearlab-amz-20",
     "description": "The ZOOOBELIVES is a 10 degree F down mummy with 35 oz of 550+ fill power down, a 20D ripstop shell, an insulated draft tube and a 3D foot box. It measures 83 by 31 inches and packs to 10 by 7 by 15 inches.\n\nIt holds more rated warmth than the TETON Trailhead for a modest premium, and it costs far less than the NEMO Disco. Its YKK anti-snag zipper and face draft collar tidy up the fit.\n\nIt suits backpackers who want real down at a low price. Check the 10 degree label as a limit-style class.",
     "specs": [
       "35 oz of 550+ fill down",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41F+v0t1fiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00SWE08BW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00SWE08BW?tag=rvgearlab-amz-20",
     "description": "The TETON Tracker is a 5 degree mummy with microfiber insulation, a hood designed to close gaps around the head, zipper draft tubes and vaulted footboxes. A compression sack with heavy-duty straps is included.\n\nIt carries a colder label than the NEMO or ZOOOBELIVES, and it costs far less than the NEMO. It prints no weight or ISO figure, unlike the NEMO listing.\n\nIt suits backpackers who want a cold-rated bag on a middle budget. It is the heavier, bulkier option next to the down bags.",
     "specs": [
       "5 degree mummy label",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31HtpgF5i4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D47YFZGW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D47YFZGW?tag=rvgearlab-amz-20",
     "description": "Sold under a 20 degree label, the TETON Trailhead has microfiber insulation, zipper draft tubes, a head-gap-closing hood and a vaulted footbox. A compression sack comes in the box.\n\nIts 20 degree label is the mildest here, and it costs less than half the Tracker. That suits trips that stay above freezing better than the colder-rated bags.\n\nIt suits budget backpackers on three-season trips. Choose the Tracker if you want a colder rating.",
     "specs": [
       "20 degree mummy label",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41kGiiAVfWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07XBJ9C6D?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07XBJ9C6D?tag=rvgearlab-amz-20",
     "description": "The Bessport is sold as a 3-4 season mummy for 15 to 45 degrees F, with a 210T ripstop polyester shell, a taffeta liner, double SBS zippers and a quilted, insulated footbox. It fits adults 6 ft 1 to 6 ft 6 in.\n\nIt is the cheapest bag in the list, and its title names a 15 to 45 degree F range. It lists shoulder, hip and foot girth of 63, 50.3 and 33 inches, so you can check fit.\n\nIt suits budget hikers who want a washable, water-repellent mummy for cool trips. Treat 15 degrees as the extreme end.",
     "specs": [
       "15 to 45F range in title",

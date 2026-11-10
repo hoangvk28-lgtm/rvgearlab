@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41C0WtXGpEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B1LYT9ZM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B1LYT9ZM?tag=rvgearlab-amz-20",
     "description": "ITRAZ sells four 5.3 gallon containers with an LDPE body and a PP valve, a soft molded handle and a removable gasketless spigot with an adjustable angle pipe. A capped air vent lifts the flow to roughly a gallon per minute, a figure the maker pitches as faster than older designs.\n\nThe removable spigot rinses clean, which matters for a container meant for drinking water, and the vent keeps the pour steady in a way the WMXWAN does not describe. The listing frames one 5.3 gallon jug as enough water for three people for a day.\n\nBest for families and groups who want several large containers and a spigot they can wash. Four jugs cover a base camp.",
     "specs": [
       "Four 5.3 gallon containers",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41bp4r+VewL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FRYBCJGK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FRYBCJGK?tag=rvgearlab-amz-20",
     "description": "WMXWAN sells a set of four 5.3 gallon containers in BPA-free LDPE4 with dual handles and a PP spigot with ON/OFF control. A wide cap fits most faucets, and a one-piece molded outlet is said to leave no leaking points.\n\nIt works out to the lowest cost per large jug of the multi-packs, and the dual handles are unique here. The listing also says it can store dry goods such as beans, flour, rice or coffee.\n\nA smart choice for families, RV travelers and groups who want many large jugs at a low price. Dual handles help when you carry a full one.",
     "specs": [
       "Four 5.3 gallon containers",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51GITK6LKoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08LCNJCNF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08LCNJCNF?tag=rvgearlab-amz-20",
     "description": "SurVivv makes this collapsible container from food-grade LDPE4 plastic with no BPA, PVC or DEHP, and the listing calls it non-toxic and transparent. A heavy-duty leak-free faucet, a one-piece molded body and a wide neck for support are named.\n\nThe listing claims the container can bear heavy loads and withstand falls from 6 feet, a durability statement the ITRAZ and WMXWAN do not make. A 60-day money-back offer and a lifetime defective replacement back it.\n\nBest for campers who are rough on gear and want a guarantee. The one-piece construction has no seams to split.",
     "specs": [
       "Food-grade LDPE4, no BPA/PVC/DEHP",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51DNXgz7-RL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07V51P4G3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07V51P4G3?tag=rvgearlab-amz-20",
     "description": "WaterStorageCube makes this collapsible container from BPA-free, food-grade PET plastic that the listing says is free of BPA, PVC and DEHP and meets food safety standards. It holds 2.6 gallons and can be frozen and thawed for ice or frozen meals.\n\nThe freeze-and-thaw claim is unusual here, with only the SOCATER and Cooltto bags describing freezing at all. The listing also says it works for dry goods and frozen meals, which makes it a camp pantry container too.\n\nBest for campers who want one container for water, ice and food. It folds flat and fits a backpack or suitcase.",
     "specs": [
       "BPA-free food-grade PET",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51hEFMdGBFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D4Q3Z8BB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D4Q3Z8BB?tag=rvgearlab-amz-20",
     "description": "SOCATER sells four 1.3 gallon bags made from PET, PA and PE plastics that the listing says are free of BPA, PVC and DEHP. The bags are freezer-safe down to -10 degrees C and have a 1.27 inch opening.\n\nThey are the smallest containers here, so each bag weighs about 11 lb full, and four let you divide water between hikers. Next to the Cooltto 1.3 Gal 2-Pack, you get twice as many bags for a similar cost.\n\nRight for backpackers who want to carry water in small shareable portions. A bag per hiker keeps weight even.",
     "specs": [
       "Four 1.3 gallon bags",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51JerQ0jycL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FH27YLKC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FH27YLKC?tag=rvgearlab-amz-20",
     "description": "Cooltto offers two 1.3 gallon collapsible bags in PET, PE and PA plastics that the listing calls BPA-free and food grade. The bags fold flat, and the listing says they can chill drinks or store frozen items.\n\nCheapest of the six, the bags suit short trips, picnics and travel. The listing offers fewer details than the SOCATER set, with no freezer temperature or opening size.\n\nA fit for budget campers who need small water bags for a day out. They also work for sports events and road trips.",
     "specs": [
       "BPA-free PET, PE, PA plastic",

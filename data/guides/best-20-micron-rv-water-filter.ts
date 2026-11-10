@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41jlhbTDVFS._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B082PB9JMJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B082PB9JMJ?tag=rvgearlab-amz-20",
     "description": "The Membrane Solutions 20 Micron cartridge is a 10 by 2.5 inch polypropylene sediment filter with a three-layer gradient-density structure. The listing gives a 6-month service life and a typical capacity of 10,000 to 15,000 gallons.\n\nCompared with the RVGUARD and Firebelly picks, it is the only plain 20 micron sediment cartridge on the list, so it does one job and leaves room for a carbon filter after it. The standard 10 inch size drops into common housings.\n\nBest for RVers who already run a housing and want a dedicated, long-life coarse sediment stage. It also suits anyone who wants a clear first stage ahead of a finer element.",
     "specs": [
       "20 micron polypropylene",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51UHT56HLAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08QMC54XK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08QMC54XK?tag=rvgearlab-amz-20",
     "description": "The RVGUARD Inline RV Water Filter ships four hose-end units and lists a 20 micron filter diameter, 15,000 gallon capacity, 60 psi working pressure and a 34 to 100 F range. It uses KDF and granular activated carbon and carries an IAPMO R&T certification to NSF/ANSI 42.\n\nUnlike the Membrane Solutions cartridge, it is a complete filter you screw onto the hose, with carbon taste improvement built in. A four-pack covers a full year at the listed three-month life per filter.\n\nA smart buy for travelers who want a coarse sediment filter plus taste improvement without buying a housing. It also suits full-timers who prefer to keep spares on hand.",
     "specs": [
       "20 micron filter diameter",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51ayR4Umd3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07Z5D7GTL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07Z5D7GTL?tag=rvgearlab-amz-20",
     "description": "The Firebelly Outfitters RV Water Filters come as a 2-pack with pre-sediment, KDF and GAC carbon stages in a five-layer design. The listing says they filter down to 20 microns and targets iron, lead, chlorine and mercury taste issues.\n\nWhere the RVGUARD 4-Pack leads on volume, this pair is aimed at rust and metallic taste from iron-heavy campground and well lines. Both fit a standard garden hose without plumbing changes.\n\nA good fit for campers who regularly fill from rural or well-fed spigots. It is also a solid choice for anyone who sees rust staining at the sink.",
     "specs": [
       "Five layers of protection",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51snwG3Z8zL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0006IX87S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0006IX87S?tag=rvgearlab-amz-20",
     "description": "The Camco Tastepure RV Water Filter uses GAC and KDF media in a 6-step Hex-Flow design, independently listed to NSF/ANSI 42 and 53 and made in the USA. It is CSA lead-free content certified.\n\nIt does not state a micron rating, so it is the pick for taste and chlorine rather than a defined 20 micron stage. The certifications give it a stronger paper trail than most hose filters here.\n\nIdeal for campers who want a familiar, certified taste filter on every hookup. It also works well behind a coarse sediment stage.",
     "specs": [
       "NSF/ANSI 42 and 53 listed",

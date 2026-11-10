@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31onRj4u3rL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09M1Y5C3L?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09M1Y5C3L?tag=rvgearlab-amz-20",
     "description": "The 100% SPEEDCRAFT is a cycling shield with ultra HD polycarbonate lenses, a 5.5-base cylindrical lens and 360 degree visibility. Lower air scoops move air across the lens, and the interchangeable, scratch resistant lenses carry UV400 protection.\n\nAgainst the 100% S3, it lists the same lens, scoop and swap features at roughly half the price of the white S3 listing. Next to the ROCKBROS Polarized, it adds venting and swappable lenses that a one-lens wraparound cannot match.\n\nIt suits riders who want a purpose-built cycling shield without paying for the priciest finish. The silver mirror lens helps in bright light.",
     "specs": [
       "5.5-base cylindrical shield lens",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21ozVQVirpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09M1QRTYK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09M1QRTYK?tag=rvgearlab-amz-20",
     "description": "The 100% S3 pairs ultra HD polycarbonate lenses with a 5.5-base cylindrical shield, 360 degree visibility and lower air scoops. The lenses are interchangeable and scratch resistant with UV400 protection, and this listing uses a HiPER blue multilayer mirror lens.\n\nAgainst the 100% SPEEDCRAFT, it lists the same optical features and shifts the difference to the frame finish and lens color. Compared with the QALLY Polarized, it pairs a shield shape with swap-ready lenses.\n\nIt suits riders who prefer the S3 frame style and a blue multilayer mirror. It sits near the top of the budget.",
     "specs": [
       "Cylindrical 5.5-base lens",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41U8+lmzdvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07QK5MMRX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07QK5MMRX?tag=rvgearlab-amz-20",
     "description": "The ROCKBROS Polarized is a polarized, UV400 wraparound with a curved lens for wide view and wind protection. The 25 gram polycarbonate frame has rubber nose pads and adjustable ear pads.\n\nAgainst the QALLY Polarized, it adds adjustable ear pads for a secure fit. Next to the 100% SPEEDCRAFT, it costs a fraction and trades venting and swap lenses for polarization.\n\nIt suits riders who want glare reduction on a budget. The ultralight frame disappears on long rides.",
     "specs": [
       "Polarized UV400 lenses",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Lm09q5bwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G4BYPSN8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G4BYPSN8?tag=rvgearlab-amz-20",
     "description": "The QALLY Polarized has TAC HD polarized lenses with 99 percent UV400, a hydrophobic coating and a heat-resistant flex frame. The lenses are CAT.3, meant for bright sunlight, and the nose pads are non-slip.\n\nAgainst the ROCKBROS Polarized, it adds a coating that resists smudges and water. Compared with the RIVBOS Polarized, it states its lens category and flex-frame design.\n\nIt suits riders who face bright sun and the occasional shower. The coating makes cleaning easier.",
     "specs": [
       "TAC polarized, CAT.3 lenses",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31hk61rfplL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09R8SGDK1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09R8SGDK1?tag=rvgearlab-amz-20",
     "description": "The RIVBOS Polarized is a TR90 frame with HD polarized lenses and 100 percent UV400 protection. It ships with a case, cleaning cloth and strap.\n\nAgainst the QALLY Polarized, it adds a case and strap. Compared with the ROCKBROS Polarized, it uses a TR90 frame instead of polycarbonate.\n\nIt suits riders who also fish or hike and want one pair for everything. The strap keeps it on the neck off the bike.",
     "specs": [
       "TR90 frame, UV400 lenses",

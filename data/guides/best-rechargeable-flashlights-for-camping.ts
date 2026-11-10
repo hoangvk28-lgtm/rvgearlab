@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51ogTobWgQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DNMDZ4GC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DNMDZ4GC?tag=rvgearlab-amz-20",
     "description": "This 5-in-1 camping light extends up to 37.8 inches in seven stages, and a 12,000mAh battery gives up to 78 hours. It has 3-color and RGB modes, a 160-degree side light, an IPX5 rating and a magnetic base.\n\nIt functions as a flashlight, tripod lamp, table lamp and backpack light, which a plain flashlight cannot. It has by far the largest battery here and leans toward lantern use.\n\nIt suits campers who want one light for the table and tent. It folds compact for the pack.",
     "specs": [
       "12,000mAh, up to 78 hours",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51RDYrO9NOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FGXXVVPM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FGXXVVPM?tag=rvgearlab-amz-20",
     "description": "The Esgreen 2-Pack has a main LED with three modes and a side COB with four modes, including white high, white low, red and red strobe. A 3000mAh battery charges via USB-C, an LCD shows the level, and fluorescent strips glow in the dark.\n\nIt offers a red mode that only the ZioeYiue shares here, and a stated 3000mAh battery. The title boasts 90,000 lumens, which is not a realistic handheld figure.\n\nIt suits campers who want red for night vision and white for the trail. Two flashlights and two USB-C cables are in the box.",
     "specs": [
       "Main LED plus red side COB",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Bq0lZEl-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DKXDYG31?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DKXDYG31?tag=rvgearlab-amz-20",
     "description": "The ZioeYiue 2-Pack lists seven modes: three main light modes (high, low, strobe) and four side modes (cold, warm, neutral and red strobe). It measures 6.9 by 1.85 by 1.18 inches, runs 12 hours in daily use and ships with Type-C cables, lanyards and a storage box.\n\nIts warm and neutral side light is gentler for tent use than the Esgreen's white and red choices. The battery is non-detachable.\n\nIt suits campers who want a softer side light for reading. A power display shows charge.",
     "specs": [
       "Seven modes, warm side light",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51LMiF7fcoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FSZ1TNQP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FSZ1TNQP?tag=rvgearlab-amz-20",
     "description": "The Tughlax 2-Pack has an LCD real-time battery display, a fast-charging chip described as twice as quick as ordinary USB lights and five modes: High, Medium, Low, Strobe and SOS. The aircraft-grade aluminum shell has a stretch-head zoom.\n\nIt adds a real-time battery readout that the single Blukar lacks and sits at the top of the three two-packs on price. Its listing text matches the TrixHub's closely, so treat the two as near twins.\n\nIt suits campers who want two lights with a battery gauge. The compact design fits a pocket.",
     "specs": [
       "Two zoom lights, LCD gauge",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51OcBx01XcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FKN5WBXQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FKN5WBXQ?tag=rvgearlab-amz-20",
     "description": "The BUCASA 3-Pack gives three Type-C rechargeable zoom lights with three modes and military-grade aluminum bodies that resist splashes. Each pack includes three USB cables and a manual.\n\nIt has three lights for less than any two-pack here, which suits a family or a group. It lists fewer modes than the Tughlax.\n\nIt suits groups who want a light per tent. The splash resistance handles drizzle.",
     "specs": [
       "Three Type-C zoom lights",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41teDxSTapL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B42R2GKP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B42R2GKP?tag=rvgearlab-amz-20",
     "description": "The Blukar single light has four modes (High, Low, Strobe, SOS), a zoomable head and a built-in 1800mAh battery rated up to 16 hours with a USB-C cable included. The shell is aluminum alloy, and the battery is non-removable.\n\nIt is the cheapest and the only single-light pick, so it suits one-light buyers. Its 1800mAh is the smallest battery stated here.\n\nIt suits campers who want a spare in the tent. The lightweight body slips into a pocket.",
     "specs": [
       "1800mAh, up to 16 hours",

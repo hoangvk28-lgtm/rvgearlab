@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51GHUFoQfJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F23HZ1DQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F23HZ1DQ?tag=rvgearlab-amz-20",
     "description": "The TEMGO is a 48V (51.2V) 100Ah LiFePO4 battery with a 200A Bluetooth smart BMS, 5000 plus cycles at 80 percent depth of discharge and a 2.8 inch LCD touch display. The kit includes a 58.4V 18A charger.\n\nIt is the one pick that names solar and off-grid use, with up to four units in parallel for 20.48kWh. Max power is listed at 10.24kW with 200A continuous discharge.\n\nIt suits campers building a large off-grid bank or powering a camp cart. The display and app give live battery status.",
     "specs": [
       "51.2V 100Ah, 200A BMS",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41mmRjLV0xL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F6LLNTS8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F6LLNTS8?tag=rvgearlab-amz-20",
     "description": "The DC HOUSE is a 48V 100Ah LiFePO4 golf cart battery in a metal case with a vent and one-key safety switch. It has a 200A BMS, 2C discharge, an 18A charger and app or LCD Bluetooth monitoring.\n\nIt offers a sheet-metal fireproof-style case, which the TEMGO and OGRPHY do not describe. Its 900W fast charge cuts refill time.\n\nIt suits golf cart owners and camp carts that want a rugged case and quick charging. The kit replaces 6 to 8V lead-acid batteries.",
     "specs": [
       "48V 100Ah, 200A BMS",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41xVvo8RqBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FJMCDLHQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FJMCDLHQ?tag=rvgearlab-amz-20",
     "description": "The OGRPHY is a 48V 105Ah LiFePO4 pack rated at 5.37kWh with a 200A BMS and 1000A peak. It lists 4000 plus deep cycles at 80 percent DOD, a touch monitor and a mobile app.\n\nIt holds more energy than the 100Ah TEMGO, DC HOUSE and Lithova. The listing says it can run a golf cart with a 3kW motor for more than 50 miles.\n\nIt suits owners who want the longest range or the largest bank from one battery. A smaller body than lead-acid eases fitting.",
     "specs": [
       "48V 105Ah, 5.37kWh",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41o7xV3NOOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HFD31V7J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HFD31V7J?tag=rvgearlab-amz-20",
     "description": "The Lithova is a 48V 100Ah LiFePO4 pack in an IP67 metal case with a 200A BMS, 10.24kW constant power and a 20A charger. It uses semi-solid LiFePO4 technology said to resist fire and explosion in the listing.\n\nIt costs less than the TEMGO, DC HOUSE and OGRPHY, and its 20A charger is larger than the 18A units in the TEMGO and DC HOUSE kits. It adds an IP67 case.\n\nIt suits budget-minded golf cart or camp cart owners who still want a 100Ah pack. Monitoring comes through the app or touch screen.",
     "specs": [
       "48V 100Ah, IP67 metal case",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/417pcTBASVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DCB7DXGD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DCB7DXGD?tag=rvgearlab-amz-20",
     "description": "The LIPULS is a 51.2V (48V) 25Ah LiFePO4 battery listed at 1280Wh with a 50A BMS. It uses the Group 24 size at 24.47 lb and 10.23 x 6.61 x 8.27 inches, aimed at RV and trolling motors.\n\nIt is the only pick sized as a Group 24, far smaller than the 100Ah packs. It names 4000 to 15000 cycles.\n\nIt suits trolling motors and small RV or camp systems that need 48V in a small box. The Group 24 size fits standard battery trays.",
     "specs": [
       "51.2V 25Ah, 1280Wh",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41+eqKwFoSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H3ZY7394?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H3ZY7394?tag=rvgearlab-amz-20",
     "description": "The LOCKBUS is a 48V 30Ah lithium e-bike battery with a 40A BMS, XT60 connector, waterproof PVC case and a 54.6V 2A charger. It measures 11.73 x 6.1 x 3.07 inches and weighs 13.66 lb.\n\nIt is lighter than the LIPULS and has a compact flat shape. It targets 200 to 2000W e-bikes, scooters and some portable power stations.\n\nIt suits campers with e-bikes or small DIY 48V gear. The XT60 plug makes connecting simple.",
     "specs": [
       "48V 30Ah, 40A BMS",

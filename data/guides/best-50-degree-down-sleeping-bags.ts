@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ePBq79RuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B088G11JXJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B088G11JXJ?tag=rvgearlab-amz-20",
     "description": "ZOOOBELIVES states a 50F comfort rating and a 32F lower limit for this 3-season down mummy. The bag holds 650 fill power down, weighs 27 oz (1.7 lb) and compresses to 11.8 x 6.7 inches.\n\nIt is the only pick here that prints both a comfort rating and a lower limit, which makes the temperature claim readable. A full-length YKK zipper, a separate YKK footbox zipper and a 79 inch length that fits users up to 6 feet 2 inches round out the design, and two bags can zip together.\n\nA strong match for hikers and campers who want down's packability on warm nights. It also unzips flat as a quilt or blanket.",
     "specs": [
       "50F comfort, 32F lower limit",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41KnKvybAiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D9GWC8R4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D9GWC8R4?tag=rvgearlab-amz-20",
     "description": "ROSE FEATHER's down blanket uses 90% goose down with a stated filling weight of 1.1 lb, in a 20D nylon shell with DWR water repellency. Snap buttons let you wear it as a poncho with a footbox, and corner tie-downs secure it to a hammock or pad.\n\nCompared with the ZOOOBELIVES Ultralight Down, it costs less and works as a blanket, a quilt or a sleeping bag supplement. It names its goose down percentage and filling weight.\n\nA good fit for warm-weather campers who want a down layer for camp and for hot nights. It also works on a plane or in a hammock.",
     "specs": [
       "90% goose down, 1.1 lb fill",

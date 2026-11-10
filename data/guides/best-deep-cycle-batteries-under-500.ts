@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41IuZxo+q+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H8RCWCJX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H8RCWCJX?tag=rvgearlab-amz-20",
     "description": "GSIKE stores 4019Wh in a single 12.8V 300Ah LiFePO4 case and claims 6000 cycles at 80 percent discharge. Cell protection comes from a 100A smart BMS, and a 4P4S layout allows growth.\n\nAt about $300 it holds 50 percent more than the Rvpozwer and costs $6 less. It is cheaper than the AGM picks and stores more.\n\nIt suits a van or RV that wants a large bank without paying lead-acid prices. Its weight is the trade.",
     "specs": [
       "12.8V 300Ah, 4019Wh",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41nUI-JxlJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F1TMQX1G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F1TMQX1G?tag=rvgearlab-amz-20",
     "description": "Rvpozwer is a 12V 200Ah LiFePO4 battery that stores 2560Wh and claims 15,000 cycles. It has a 200A smart BMS and works from -20C to 65C, and it expands to 800Ah in parallel.\n\nAt about $306 it costs $36 more than the ECOBOSS and offers a wider stated temperature range. It also lists lifetime technical support.\n\nIt suits cold-climate campers and anyone planning a bigger bank. The 200A BMS handles a 2000W inverter.",
     "specs": [
       "12V 200Ah, 2560Wh",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41iUcLqUNOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H334QPRF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H334QPRF?tag=rvgearlab-amz-20",
     "description": "ECOBOSS offers 200Ah at 12V with IP65 sealing, a 200A BMS and a charging cutoff at 32F. Its 4S4P rating covers later expansion.\n\nAt about $270 it is the cheapest 200Ah here, $36 below the Rvpozwer. It lacks the wider temperature figure.\n\nIt suits a full-time RV on a budget. The IP65 rating helps in exposed compartments.",
     "specs": [
       "12V 200Ah, 200A BMS",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31hWBJ9YLXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B075RGX1WR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B075RGX1WR?tag=rvgearlab-amz-20",
     "description": "Renogy is a 12V 200Ah deep cycle AGM with a self-discharge of under 3 percent a month. It keeps working below 32F and is sealed, so it needs no water.\n\nAt about $396 it costs $90 more than the Rvpozwer and weighs far more. It stores the same 200Ah and lets you use a standard AGM charger.\n\nIt suits those who prefer lead-acid for cold climates or familiar charging. It sits fine in storage.",
     "specs": [
       "12V 200Ah AGM",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41IX5Xm14mL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HCG1VTY9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HCG1VTY9?tag=rvgearlab-amz-20",
     "description": "Go Power GP-AGM-225-6V is a 6V AGM rated 225Ah at the C20 rate, with carry handles. It is sealed and built for RV, solar and inverter banks.\n\nAt about $396 it matches the Renogy on price and stores a bit more. Two in series give 12V at 225Ah.\n\nIt suits a traditional RV bank built from two 6V batteries. Each is easier to lift than a 12V of the same size.",
     "specs": [
       "6V 225Ah AGM at C20",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41fqXu0oO2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G7M82Q7K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G7M82Q7K?tag=rvgearlab-amz-20",
     "description": "Mighty Max MM-G27M brings 100Ah in a Group 27M case, 800 CCA and 850 MCA. Its cycle rating is 700 at half discharge.\n\nAt about $230 it is the cheapest pick besides the ECOBOSS and starts engines, which the lithium picks cannot. It stores half as much as the 200Ah packs.\n\nA boat that wants starting and cycling from one case is the natural home. Sealed construction means no watering.",
     "specs": [
       "12V 100Ah, Group 27M",

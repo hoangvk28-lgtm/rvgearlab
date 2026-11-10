@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51NUQpeCrjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BSB4YRY3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BSB4YRY3?tag=rvgearlab-amz-20",
     "description": "The Wise Owl double hammock measures 10 feet by 6.5 feet wide, supports up to 500 pounds and is made of durable nylon with triple-stitched seams. It comes as a kit with 9 foot tree straps, carabiners and a built-in stuff sack, with 5-loop straps.\n\nCompared with the SZHLUX, it is longer and wider. Against the Sunyear Net, it has no bug net.\n\nIt suits tall sleepers who want length and a full kit. It sets up in minutes without tools.",
     "specs": [
       "10 x 6.5 ft, 500 lb",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41oHC2bwtcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09PL34LYF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09PL34LYF?tag=rvgearlab-amz-20",
     "description": "The Sunyear hammock comes with a net and rain fly tarp, with two sizes: 118 by 78 inches rated at 600 pounds and 106 by 55 inches rated at 500 pounds. It has two adjustable ropes with hooks for installation.\n\nCompared with the Wise Owl Double, it adds a net and a rain fly, and the larger size is 118 inches long. Against the Rivenlo, it is a bigger-fabric hammock with a simpler build.\n\nIt suits tall campers who want length, bug protection and rain cover. Choose the 118 inch size.",
     "specs": [
       "118 x 78 inch, 600 lb",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Y-G67ryuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GJCCSJDQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GJCCSJDQ?tag=rvgearlab-amz-20",
     "description": "The Rivenlo hammock tent uses two foldable aluminum support poles for a mosquito net, two carabiners and two 110 inch tree straps with 10 loops. It is built with 70D nylon, weighs 1.2 kg (2.5 pounds) and works as a hammock, a tent or a bridge hammock.\n\nCompared with the Sunyear Net, it uses poles to lift the net off your face. Against the Wise Owl Double, it adds a net and a rainfly.\n\nIt suits tall campers who want a lifted net so they do not feel boxed in. The 3-in-1 design converts to a ground tent.",
     "specs": [
       "70D nylon, 1.2 kg, poles for net",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51NKryvvujL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09VGNJTPW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09VGNJTPW?tag=rvgearlab-amz-20",
     "description": "The SZHLUX double hammock unfolds to 106.3 by 55.1 inches, supports 400 pounds and uses 210T parachute fabric. Each 10 foot strap has 18 plus 1 loops, and the hammock stuffs into an attached bag with a 6.2 by 4.7 by 3 inch bundle.\n\nCompared with the Wise Owl Double, it is shorter and packs much smaller. Against the Sunyear, it is lighter.\n\nIt suits tall campers who want a compact hammock. It is fast to set up.",
     "specs": [
       "106.3 x 55.1 inch, 400 lb",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Rx17i9fLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01FONRO7E?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01FONRO7E?tag=rvgearlab-amz-20",
     "description": "The Wise Owl Outfitters double hammock is 10 feet by 6.5 feet wide and rated for 500 pounds. It includes 9 foot tree straps, carabiners and a built-in stuff sack.\n\nCompared with the SZHLUX, it is longer and wider with a larger kit. Against the Rivenlo, it is a simple, no-bulk design.\n\nIt suits tall campers who want the same long double in a second listing. The straps adjust with 5 loops.",
     "specs": [
       "10 x 6.5 ft, 500 lb",

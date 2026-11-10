@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41nGDrUMDZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B47YNBHH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B47YNBHH?tag=rvgearlab-amz-20",
     "description": "The WFCO Arterra WF-9865-AD-CB is a deckmount converter charger with a 65A DC output and a 20A AC power cord. Its patented Auto-Detect recognizes lead acid or LiFePO4 batteries and adjusts the charge profile. It holds full output power down to 100 volts and is UL and CSA listed.\n\nIt is $40.00 cheaper than the WFCO WF-9875 and $233.00 more than the Onylraep WF-8955 Replacement. For most 30A trailers 65A is plenty. Pick this if you want the genuine factory part with automatic lithium detection. The caveat is that the listing does not publish absorption and float voltages, so confirm the profile with WFCO before pairing with a BMS.",
     "specs": [
       "65A DC, 20A AC cord",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41m5nZc0roL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B47VLRF8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B47VLRF8?tag=rvgearlab-amz-20",
     "description": "The WFCO WF-9875-AD-CB is a deckmount converter charger rated at 75A DC with the same patented Auto-Detect lead acid and LiFePO4 charging. It is described as multi-stage and keeps full output down to 100 volts, which helps on weak campground power. It is UL, CSA and FCC listed.\n\nIt costs $40.00 more than the WFCO WF-9865 for 10 extra amps. That only matters with a big lithium bank, since a larger battery accepts more charge and fills faster. Pick this if you have 200Ah or more of lithium and want faster charging. The caveat is that it draws more AC power, so check your shore cord.",
     "specs": [
       "75A DC deckmount",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Yfhm9Em-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G6ZCP4NN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G6ZCP4NN?tag=rvgearlab-amz-20",
     "description": "The zixixvan unit is a 55A replacement for the WF-8955 and Parallax 7155 converters, with a switch that selects lead acid or lithium mode and an automatic detection option. Input is 105 to 130 VAC at 60 Hz. The cooling fan runs only when load needs it, and the listing gives 55A DC output.\n\nAt $71.99 it is $233.00 under the WFCO WF-9865 and is the same price as the Onylraep WF-8955 Replacement. It is not a genuine WFCO part. Pick this if you have an older WF-8955 and want lithium capability on a budget. The caveat is that brand support and the exact lithium voltage settings are not documented in the listing.",
     "specs": [
       "55A DC output",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41TCrGap9OL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G6ZNYMX9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G6ZNYMX9?tag=rvgearlab-amz-20",
     "description": "The Onylraep WF-8955 Replacement is also a 55A unit with a lead acid and lithium switch and a quiet cooling fan that runs only when the load needs it. The listing describes three stage charging and electronic current limiting that shuts down power during an overload. It is described as a simple replacement.\n\nIt matches the zixixvan WF-8955 on price at $71.99, and it is $233.00 below the WFCO WF-9865. The listing text is nearly the same, so choose by seller reliability. Pick this if the zixixvan is out of stock or you prefer the overload shutdown. The caveat is that, like the zixixvan, lithium charge voltages are not stated.",
     "specs": [
       "55A DC, three stage charging",

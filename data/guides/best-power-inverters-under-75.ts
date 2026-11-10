@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51HfwPULhhL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07PWDR869?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07PWDR869?tag=rvgearlab-amz-20",
     "description": "The Ampeak delivers 750W continuous and 1500W peak through 2 AC outlets and 2 USB ports. It ships with a battery clip cable for heavy loads, two replaceable 50A external fuses and a cooling fan that starts at about 122 degrees F.\n\nIt costs about $60, which is less than the BESTEK 500W Classic and buys 250W more. The Pro Chaser 400W is cheaper, and this one is the only pick that can run a small blender or a power tool from the car battery.\n\nIt suits campers who want one inverter for a laptop on the road and a tool or coffee maker at the campsite. Clip it to the battery with the engine running for anything past phone-charging loads.",
     "specs": [
       "750W continuous, 1500W peak",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51iaQy6oWBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B082MDRC64?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B082MDRC64?tag=rvgearlab-amz-20",
     "description": "The BESTEK 500W Classic is a pure sine wave inverter with two AC outlets and dual 4.2A USB ports. It plugs into the lighter socket for small loads and clamps to the battery for the full 500 watts.\n\nIt costs about $65, close to the cap and more than the Ampeak 750W, and it gives 250W less. In return it produces the cleaner waveform that laptops, camera chargers and small medical devices prefer.\n\nIt suits anyone whose gear is sensitive to power quality. Pick it over the Ampeak when waveform matters more than raw watts.",
     "specs": [
       "500W pure sine wave",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41MNF0L0feL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CPDGXT5H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CPDGXT5H?tag=rvgearlab-amz-20",
     "description": "The Pro Chaser gives 400W continuous and 800W peak through two AC sockets and two 3.1A USB ports. It is phone-sized, has a 30 inch cord and turns its fan on at about 113 degrees F.\n\nAt about $35 it costs roughly half the Ampeak 750W and delivers just over half the watts. It keeps a simple plug-in shape that the Etnal and the 75W units cannot match for outlet count.\n\nIt suits a car or van where a laptop and a phone share the dash. Stay under about 150W through the lighter plug.",
     "specs": [
       "400W continuous, 800W peak",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41rMujvRW4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H7VZLVBQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H7VZLVBQ?tag=rvgearlab-amz-20",
     "description": "The Etnal runs on a DeWalt 18V or 20V lithium battery and delivers 250W continuous and 500W peak. It weighs 0.75 lb, measures 4.49 by 2.83 by 3.74 inches and has a 400 lumen dimmable work light.\n\nAt about $27 it is the only pick here that works with the car off, so it avoids the lighter socket and the dead-battery risk the Pro Chaser carries. It needs a DeWalt pack that you already own because none is included.\n\nIt suits campers and contractors who already carry DeWalt batteries. A fresh pack gives quiet AC power at a campsite without starting an engine.",
     "specs": [
       "250W continuous, 500W peak",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41uswU0glJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B003Q54V88?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B003Q54V88?tag=rvgearlab-amz-20",
     "description": "The BESTEK 75W has one AC outlet and two USB ports at 3.1A total. It outputs 75W continuous and 200W peak, and its head pivots to fit awkward dash sockets.\n\nAt about $20 it costs a third of the Pro Chaser and handles phones, a camera charger and a small laptop brick. It has the fan and shutdown protections that the larger units use.\n\nIt suits a car that already has USB charging and wants one wall-style plug now and then. Keep it to charger duty.",
     "specs": [
       "75W continuous, 200W peak",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41W4R0wFsjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B5KGRWRT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B5KGRWRT?tag=rvgearlab-amz-20",
     "description": "The Amazon Basics inverter offers one AC outlet and one USB port at up to 2.1A, rated at 75 watts. It protects against high voltage, low voltage, a drained battery, short circuits and overheating.\n\nAt about $17 it is the cheapest pick, and it matches the BESTEK 75W on watts with one fewer USB port. It is the plain option when all you need is a laptop charger in the car.\n\nIt suits an emergency kit or a glove box spare. Treat it as a charger adapter, not a power source.",
     "specs": [
       "75W, one AC outlet",

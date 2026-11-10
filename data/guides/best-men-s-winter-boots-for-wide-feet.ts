@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31eCz1FsgKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FP4VZH7K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FP4VZH7K?tag=rvgearlab-amz-20",
     "description": "The NORTIV 8 Wide Winter boot lists 200g 3M Thinsulate insulation with a short plush lining, waterproof protection and wide-foot-friendly construction with roomy space for thick socks. A gusseted tongue blocks snow and a lightweight EVA midsole adds cushioning.\n\nCompared with the NORTIV 8 Wide Insulated, it states a waterproof construction rather than water-resistant. Against the LeIsfIt Wide Toe Box, it adds Thinsulate insulation for deep cold.\n\nIt suits wide-footed hikers and shovelers who want one boot for snow. The listing mentions strolls, snow sports and challenging hikes.",
     "specs": [
       "Wide width, roomy for thick socks",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ELyeJBizL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H93JWMXG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H93JWMXG?tag=rvgearlab-amz-20",
     "description": "The NORTIV 8 Wide Insulated boot lists 200g 3M Thinsulate, a water-resistant construction and an ergonomic wide-fit design with a roomy toe box. A rubber outsole with deep multi-directional lugs grips snow and ice, and an aluminum heat-reflective insole helps hold body heat.\n\nAgainst the NORTIV 8 Wide Winter, it adds a heat-reflective insole at a lower price. Compared with the LeIsfIt Wide Toe Box, it adds Thinsulate and deep lugs.\n\nIt suits wide-footed buyers who want insulation and traction without a high price. The EVA midsole cushions impact.",
     "specs": [
       "Ergonomic wide-fit, roomy toe box",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31j-e7n4C5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HB456M15?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HB456M15?tag=rvgearlab-amz-20",
     "description": "The LeIsfIt Wide Toe Box boot has a roomy toe box that lets toes spread, a faux fur lining throughout and a TPR outsole with textured traction. The zero drop sole keeps the heel and toe level for balanced support.\n\nCompared with the NORTIV 8 Wide Insulated, it skips named insulation for a softer, more casual build. Against the ziitop Zip Ankle, it adds a stated wide toe box.\n\nIt suits wide-footed walkers who like a natural stance. The listing pairs it with jeans and casual outfits.",
     "specs": [
       "Wide toe box, zero drop sole",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41TwNULSicL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B71RPJJK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B71RPJJK?tag=rvgearlab-amz-20",
     "description": "The FREE SOLDIER Velvet Lined boot has a full velvet lining that is removable, a waterproof and wind-resistant scratch-resistant nylon upper and a thick flexible rubber sole. A drawstring at the top and hook-and-loop strap adjust tightness.\n\nCompared with the ALEADER Pull-On, it has a removable lining that is easy to dry. Against the NORTIV 8 Wide Insulated, it relies on adjustable closures for fit rather than a stated wide cut.\n\nIt suits wider feet that need a fit-by-strap solution. The listing mentions indoor and outdoor winter use.",
     "specs": [
       "Removable full velvet lining",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41lnww5zfiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07TJP91DZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07TJP91DZ?tag=rvgearlab-amz-20",
     "description": "The ALEADER Pull-On boot has a cushioned footbed, insulation and a seam-sealed waterproof outsole. It pulls on with a drawstring and ankle Velcro strap.\n\nCompared with the FREE SOLDIER Velvet Lined, it uses a sealed waterproof outsole. Against the NORTIV 8 Wide Winter, it has no wide-width listing and a softer build.\n\nIt suits buyers who have moderately wide feet and value easy entry. The listing suggests checking the size chart because sizing may differ.",
     "specs": [
       "Seam-sealed waterproof outsole",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41CFgZcjX3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C9BSGRL7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C9BSGRL7?tag=rvgearlab-amz-20",
     "description": "The ziitop Zip Ankle boot has a waterproof oxford upper, a synthetic short fleece lining and non-slip rubber soles. Side zippers make this laceless boot easy to put on and take off.\n\nAgainst the LeIsfIt Wide Toe Box, it adds a waterproof upper and side zippers. Compared with the ALEADER Pull-On, it opens wider at the side for a bulky foot.\n\nIt suits wider feet that struggle with narrow openings. The listing names walking, fishing and dog outings.",
     "specs": [
       "Waterproof oxford upper",

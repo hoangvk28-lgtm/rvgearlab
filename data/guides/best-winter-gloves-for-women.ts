@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41h0WWwZhgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FNN55YR1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FNN55YR1?tag=rvgearlab-amz-20",
     "description": "The rivmount Water-Resistant glove has a lycra-spandex jersey shell, a polar fleece lining and a water-repellent layer between them. Conductive PU leather fingertips handle phones and tablets, a silica gel palm adds grip, and a reflective stripe sits on the back.\n\nIt is the only pair here with a water-repellent layer, which none of the knit pairs like the REACH STAR Two-Pack or PKWEEN Four-Pack list. The reflective stripe also helps drivers see you on early dog walks.\n\nIt suits a woman who walks, cycles or commutes in damp cold and wants a glove that sheds splashes. The listing says it works for men and women and in all seasons.",
     "specs": [
       "Water-repellent layer, fleece lining",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51rki+Hxh7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C98KXSZV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C98KXSZV?tag=rvgearlab-amz-20",
     "description": "The REACH STAR Two-Pack gives you two pairs of gloves with a plush acrylic cashmere lining under a cozy fleece outer. Three conductive fingertips (thumb, index and middle) work on a phone, and the thick elastic cuff is long enough to cover the wrist.\n\nA cashmere-feel lining is plusher than the single REACH STAR 3-Finger and sits above the YUHAN PRETTY in listed warmth. Two pairs mean one lives in the car and one in a coat pocket.\n\nIt suits women who drive, run errands and wait for school pickup in cold weather and want a thick cuff against drafts. The knit is stretchy enough for long nails or broader palms.",
     "specs": [
       "Acrylic cashmere lining",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/417UWPDJIIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DGXL7FB5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DGXL7FB5?tag=rvgearlab-amz-20",
     "description": "The PKWEEN Four-Pack bundles four pairs of knit gloves in different colors, each with a soft napped lining and conductive yarn on the thumb, index and middle fingers. The stretchy knit has thickened cuffs around the wrist for a windproof fit.\n\nFour pairs give you spares for the home, car, bag and gym, which beats the two-pair REACH STAR Two-Pack on count. The lining is thinner than a fleece, so it sits below the rivmount Water-Resistant for cold wind.\n\nIt suits a woman who loses gloves or wants one for every coat. Colors include black, light grey and pink according to the listing.",
     "specs": [
       "Four pairs in assorted colors",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41cfBfti74L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08FMBMM25?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08FMBMM25?tag=rvgearlab-amz-20",
     "description": "The REACH STAR 3-Finger glove is a one-size thermal knit with a skin-friendly acrylic lining and precision-stitched superconductive fingertips on three fingers. A 3D knit pattern and an elastic fit make it a close, form-fitting liner.\n\nIt carries the same three-finger touch as the REACH STAR Two-Pack and ships as a single pair. Its thinner lining breathes better in mild cold than the cashmere-feel one in the two-pack.\n\nIt suits women who want one stylish pair for walks and light commutes. The listing calls it one size for most women's palm sizes.",
     "specs": [
       "Acrylic lining, thermal knit",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41dfMgEIcxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FD35PS4Z?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FD35PS4Z?tag=rvgearlab-amz-20",
     "description": "The YUHAN PRETTY glove has a fleece-style acrylic lining and a double-layer structure with a stylish 3D knit outside. It lists two touchscreen fingers per hand and a palm-width guideline of 3.9 inches or less.\n\nIt is the only listing with a stated palm width, which makes sizing clearer than the one-size REACH STAR pairs. A double layer adds wind protection that the PKWEEN Four-Pack skips, with two touch fingers instead of three.\n\nIt suits women with smaller hands who want a snug fit and do not need three-finger touch. Measure your palm width first.",
     "specs": [
       "Fleece lining, double-layer knit",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41XDXkAltFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CBBJ1GSY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CBBJ1GSY?tag=rvgearlab-amz-20",
     "description": "The COTRUERE Magic Knit set is three pairs of stretchy black acrylic gloves sold for men and women. The listing calls it breathable, reusable and suited to gardening, camping, driving and daily work.\n\nIt is the cheapest option in the group and the plainest, with no touchscreen or lining claim, unlike the REACH STAR Two-Pack. Three pairs make it a good bin glove for the garage or the porch.\n\nIt suits a buyer who needs cheap spare gloves for chores and does not need a phone-friendly or lined pair. The one-size knit fits most hands.",
     "specs": [
       "Three pairs, stretch acrylic",

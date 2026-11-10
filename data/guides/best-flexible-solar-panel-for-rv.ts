@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31D-PaDHJ0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HJQQ6RY4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HJQQ6RY4?tag=rvgearlab-amz-20",
     "description": "The Renogy ShadowFlux 200W uses up to 25% efficient N-type cells and up to 30 bypass diodes so partial shade costs less output. It weighs as little as 7.72 lbs, is 0.1 in thick, bends up to 270 degrees and carries an IP68 rating.\n\nAt $269.99 it costs $20.00 more than the ZETAWALE Arch Pro 200W and $165.50 more than the Renogy Flex 100W, but the cell-level shade handling is its edge. Pick this if tree shade or roof vents will cast shadows; the caveat is that the listing gives no warranty term.",
     "specs": [
       "200W, 25% N-type cells",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51U7LvaWr3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H5BWD6R7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H5BWD6R7?tag=rvgearlab-amz-20",
     "description": "The ZETAWALE Arch Pro 200W has N-type 16BB cells rated up to 25% efficient, ETFE fiberglass construction and anti-shading bypass diodes. It weighs 7.94 lbs, bends up to 270 degrees and works with 12V and 24V systems.\n\nAt $249.99 it is $20.00 under the Renogy ShadowFlux 200W and nearly matches its specs, though it weighs 0.22 lb more. Pick this if you want the same class of panel for less; the caveat is a less known brand and no stated diode count or warranty.",
     "specs": [
       "200W, N-type 16BB, 25%",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51aBhmUVn8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H6B3VTHK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H6B3VTHK?tag=rvgearlab-amz-20",
     "description": "The Callsun 400W comes as two 200W panels with a heat-reflective white backsheet and up to 240 degrees of bend. It uses ETFE and multi-layer bonding, and the listing claims up to 2 kWh a day in ideal conditions, which matches 400W over about five sun hours.\n\nAt $341.99 it costs $158.00 less than two ZETAWALE panels would, roughly $0.85 per watt against the ZETAWALE's $1.25. Pick this if you want 400W in one purchase; the caveat is that 2 kWh is a best case, and the listing gives no weight or controller limits.",
     "specs": [
       "400W (2 x 200W), ETFE",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Nyii6tBJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09W21FRBC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09W21FRBC?tag=rvgearlab-amz-20",
     "description": "The Renogy Flex 100W uses half-cut PERC cells and a 240 degree bend, with an IP67 junction box and a rating for 5,400 Pa snow load and 2,400 Pa wind. It ships with pre-drilled mounting holes and 2.3 foot connector cables.\n\nAt $104.49 it is the cheapest panel here, about $1.05 per watt, and $165.50 below the Renogy ShadowFlux 200W. Pick this for a van or small camper where 500 Wh a day is enough; the caveat is that you will need several panels for a bigger bank.",
     "specs": [
       "100W half-cut PERC, 240 degree bend",
@@ -133,7 +133,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51DUVck9prL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HBBM1X4Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HBBM1X4Q?tag=rvgearlab-amz-20",
     "description": "The MHZSJLW 800W Kit is two 400W panels at 24%+ efficiency with ETFE coating, IP68 rating and a 30 degree bend. Each panel weighs 4.4 lbs, and the listing offers a 2-year materials warranty and a 25-year output promise of 80%.\n\nAt $388 it costs $0.485 per watt, far below the $1.35 per watt of the Renogy ShadowFlux 200W. Pick this only if you have roof space and a controller sized for about 67A at 12V; the caveat is the 30 degree bend, much stiffer than the 240 to 270 degrees on others.",
     "specs": [
       "2 x 400W, 24%+ efficiency",

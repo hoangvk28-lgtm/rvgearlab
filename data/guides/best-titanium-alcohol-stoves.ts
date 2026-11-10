@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41bDDAcBATL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7BPK97M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7BPK97M?tag=rvgearlab-amz-20",
     "description": "The Kuvik is a titanium siphon alcohol stove that weighs 2.6 oz (74 g) and folds to 2.9 inches tall by 3.0 inches wide. The listing says it needs no assembly and takes denatured alcohol, grain alcohol, isopropyl alcohol and proprietary blends.\n\nIt is the only stove here with a siphon design and legs and pot supports that unfold in seconds. It also lists the widest fuel range, ahead of the Boundless Voyage Set.\n\nIt suits hikers who want a quick-start, dent-resistant stove that stores small. A flat surface is needed when lighting.",
     "specs": [
       "2.6 oz (74 g), titanium",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51BVT7vEolL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B003DKK7MK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B003DKK7MK?tag=rvgearlab-amz-20",
     "description": "The Evernew is a Japan-made titanium alcohol stove sold with optional stands. The Cross Stand weighs 0.5 oz, while the DX Stand weighs 1.83 oz and adds multi-fuel versatility for wood, solid fuel and alcohol.\n\nIts stand options let you build the lightest or the most flexible setup, which the one-piece Kuvik cannot do. The DX Stand dimensions are given as 3.26 by 2.36 inches at the top.\n\nIt suits tinkerers and long-trail hikers who like to tune their kit. Titanium keeps the weight down.",
     "specs": [
       "Cross Stand 0.5 oz",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41JQStwqWyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09QCRXGKK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09QCRXGKK?tag=rvgearlab-amz-20",
     "description": "The Boundless Voyage Set is a titanium alcohol stove set that weighs 3.7 oz (107 g) with a fire cover and storage bag. A folding flame regulator and three wave-shaped non-slip brackets are listed.\n\nThe bracket can double as a small wood stove through 12 drain holes in the base, a trick the Kuvik does not offer. Its double-layer burner with 24 micropores aims for a stable flame.\n\nIt suits hikers who cook on alcohol most days and still want a twig backup. The fire cover also stores the flame out.",
     "specs": [
       "3.7 oz (107 g) set",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41pfExkyg7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CQQWGHZT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CQQWGHZT?tag=rvgearlab-amz-20",
     "description": "The Boundless Voyage Spirit Burner is a TA1 titanium stove with a stainless steel bracket and about 41 g total weight. The double-layer burner has 24 micropores on top, and markings show ounces and milliliters.\n\nThat graduated scale makes fuel measuring easy, and the price is the lowest in the group. Next to the Kuvik it gives up the folding legs for a cross stand and a lower price.\n\nIt suits budget hikers who want a very light titanium burner. A storage sack keeps the pieces together.",
     "specs": [
       "About 41 g total, TA1 titanium",

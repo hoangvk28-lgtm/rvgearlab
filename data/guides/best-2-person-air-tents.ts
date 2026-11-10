@@ -30,7 +30,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41COTZreGcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FZRFZPWT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FZRFZPWT?tag=rvgearlab-amz-20",
     "description": "The catnaoa 2-3 Person Inflatable Glamping Tent has integrated air poles and a hand pump that fills it in about three minutes. It measures 87 by 87 by 77 inches, uses 210D Oxford fabric and has one mesh door and three mesh windows. The listing says it fits 1 to 3 people, and it costs $199.99.\n\nAgainst the OUTZATA below it, the catnaoa costs $40 less and uses a manual pump, which also means the tent needs no power source at the campsite. The 77 inch center height lets adults stand up to change clothes, and the mesh door and three windows keep air moving on warm nights. There are no poles to thread or lose.\n\nThis is the pick for couples who want tall interior room, a lower price and a tent that sets up with a pump they carry themselves. It suits RV owners who want a roomy shelter beside the coach and campers who value standing headroom over the lightest possible pack.",
     "specs": [
       "87x87x77 in, 1 to 3 people",
@@ -60,7 +60,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/5141HyIV8mL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G43BD5GR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G43BD5GR?tag=rvgearlab-amz-20",
     "description": "The OUTZATA 2-3 Person Inflatable Camping Tent has integrated air poles and an electric air pump. It measures 87 by 87 by 77 inches, uses 210D Oxford with double stitching and a 3000mm PU coating, and has one mesh door and three windows. It is described for all-season use and costs $239.99.\n\nAgainst the catnaoa above it, the OUTZATA shares the same shape and adds the electric pump and a stated 3000mm PU rating, so you see a numeric water figure on the page instead of none. Against the JOYTUTUS below it, the OUTZATA stands taller and works anywhere on the ground, not only in a short truck bed. Double stitching adds strength at the seams.\n\nReach for this one if you want a stated water rating and fast, effortless inflation. It suits RV owners who can run the pump from a 12 volt or portable power source, couples who camp in changeable weather and anyone who dislikes working a hand pump at the end of a long drive.",
     "specs": [
       "Electric pump, 87x87x77 in",
@@ -90,7 +90,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51yGhJv3pYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G6KVQB1C?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G6KVQB1C?tag=rvgearlab-amz-20",
     "description": "The JOYTUTUS Inflatable Truck Bed Tent with Awning is built for short 5.0 to 5.2 foot beds and rated for 2 people, with a 30-second inflation. It works on a truck or on the ground, and it uses 210D Oxford with a 1200PU coating, taped seams and a roof shade that covers the gap between the roof and the bed. It costs $209.99.\n\nAgainst the OUTZATA above it, the JOYTUTUS is the only pick sized for a pickup, and it inflates in about 30 seconds instead of minutes. The taped seams and the roof shade add weather protection for the awkward gap above the tailgate. Compared with the catnaoa, it offers a dual-use design that turns a truck bed into a raised, dry bedroom.\n\nThis is the pick for short-bed pickup owners who want an air tent that sets up in seconds. It suits couples who tow an RV with a pickup and want a spare bedroom for friends, campers who sleep above the ground and anyone who values the fastest inflation here.",
     "specs": [
       "Inflates in about 30 seconds",

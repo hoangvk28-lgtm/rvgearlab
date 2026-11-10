@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51vYxVV5o9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H35K62LP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H35K62LP?tag=rvgearlab-amz-20",
     "description": "WildFinder gives two campers a 92.5 inch long interior and fits 5.5 to 6 foot beds on trucks such as the F150, Ram, Silverado and Tundra. Its 210D Oxford shell carries a PU3000mm coating, with a tunnel for running power cables or air conditioning and three vented windows.\n\nIt spans a wider bed range than the 5.5 foot Rightline and gives a higher waterproof rating than the JOYTUTUS 2.0. It costs less than either, which makes it the best all-round buy under the cap.\n\nIt suits couples with a short or standard bed who want an extension cord or a small fan run in from the truck. Color-coded poles keep setup simple.",
     "specs": [
       "92.5 x 65 x 66.9 in interior",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/415eMaXIpxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GXBVBDF7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GXBVBDF7?tag=rvgearlab-amz-20",
     "description": "The Nyiar tent uses 210D Oxford with a PU3000 coating and a detachable awning that attaches at the door. Dual-layer windows and doors pair an insect screen with a solid waterproof panel, and two people can pitch it in 10 to 15 minutes from illustrated instructions.\n\nIt adds shade and flexible window panels that the WildFinder skips, at the lowest price in the group. The Rightline offers a floorless design and no awning.\n\nIt suits six-foot-bed campers who want shade at the tailgate for cooking and relaxing. The awning detaches for a more open entrance.",
     "specs": [
       "210D Oxford, PU3000",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/414XvAj88cL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00FSBE7BE?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00FSBE7BE?tag=rvgearlab-amz-20",
     "description": "The Rightline Gear tent fits 5.5 foot full-size short beds and sleeps two. Its floorless design means you can set it up without removing gear from the bed, and tape-sealed seams with PU2000mm fabric keep it dry.\n\nIt sits above the WildFinder in price and wins on setup, since gear can stay put. Heavy-duty straps and nylon buckles avoid damaging the truck finish, and a sky view vent adds light and airflow.\n\nIt suits short-bed owners who live out of the truck bed and want to pitch in minutes. It is made in the United States.",
     "specs": [
       "Floorless, 5.5 ft short bed",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51i4zXdLOHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08XH7TK3M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08XH7TK3M?tag=rvgearlab-amz-20",
     "description": "The JOYTUTUS Pickup Truck Tent 2.0 is a two-person tent for 5.5 to 5.8 foot beds, roughly 90 inches long and 63 inches wide. It uses 210D polyester Oxford with PU2000, a double-layer build with rainfly, four fiberglass poles plus two spares and a carry bag.\n\nSpare poles come in the box, which sets it apart from every other tent in the group and explains its top price. It has a lower waterproof rating than the WildFinder and Nyiar.\n\nIt suits Ram, F150 and Silverado owners who want replacement poles in the box. Three windows give ventilation and views.",
     "specs": [
       "About 90 x 63 in floor",

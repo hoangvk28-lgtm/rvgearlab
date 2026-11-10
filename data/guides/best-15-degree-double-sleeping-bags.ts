@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41OLL3pvooL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B000F38YI2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B000F38YI2?tag=rvgearlab-amz-20",
     "description": "TETON's Mammoth 20 Degree is a 94 x 62 inch double with a poly-flannel lining, draft tubes at the zipper and shoulders, and a side and bottom unzip. A stuff sack comes in the box.\n\nThe 20 degree label sits closest to 15F, with the AGEMORE and WKFAMOUT labeled 0 degree. It is longer than the WKFAMOUT and wider than the AGEMORE, so it gives the most room of the three.\n\nA natural fit for couples who camp into the low 20s and want one big bag without a heavy canvas shell. Fluff it before use and add a pad.",
     "specs": [
       "94 x 62 inch double",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41a1JR+mk1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H6XC9CJ8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H6XC9CJ8?tag=rvgearlab-amz-20",
     "description": "AGEMORE uses 550GSM 3D synthetic fiber and a 100% cotton flannel lining in a 90 x 61 inch double that fits people up to 6.5 ft. The listing describes a 14 lb thick design and side zippers that let it separate into two pieces.\n\nIt is warmer by label than the TETON Mammoth 20 Degree and heavier than the WKFAMOUT. Three straps at the bottom make it easier to roll and stuff.\n\nPick it for families who camp in real cold and have a vehicle for the weight. The cotton lining feels warm to touch.",
     "specs": [
       "550GSM synthetic fill",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41KSXpfhJ7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FX3VCTY1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FX3VCTY1?tag=rvgearlab-amz-20",
     "description": "WKFAMOUT sells an 86.7 x 59 inch double for two adults up to 6 ft 2 in, filled with 5.73 lb of faux silk cotton and zipped apart into two singles. The listing states comfort at 30F and adds an oversized 210D Oxford compression sack.\n\nIt weighs far less than the AGEMORE and packs with an easier sack than the TETON. The stated comfort figure of 30F is the most transparent number in this group.\n\nA fit for couples who want a lighter double and the option to use two single bags. Choose it for fall trips more than hard freezes.",
     "specs": [
       "86.7 x 59 inch double",

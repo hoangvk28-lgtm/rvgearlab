@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31krZo-kHUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08R7BTKH2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08R7BTKH2?tag=rvgearlab-amz-20",
     "description": "The 33,000ft Waterproof Overpants are built with fully seam-sealed, welded TPU membrane fabric over a mesh lining with a stated 5000g/m2 breathability rating. A fully elasticated waist with drawstring, two flapped zip pockets and half leg zips with Velcro closures complete the design.\n\nCompared with the keihTrail Stretch, they give real sealed waterproofing instead of a repellent finish. Against the PIDO YOGA Ripstop, they are a separate shell worn over other pants.\n\nThey suit hikers facing steady rain who want a true waterproof layer. The listing names hiking, camping, cycling and fishing.",
     "specs": [
       "Sealed TPU membrane, mesh lining",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41DEyV-6sDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GMVMPFFN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GMVMPFFN?tag=rvgearlab-amz-20",
     "description": "The keihTrail Stretch trouser is made from a 90% nylon and 10% spandex blend that the listing calls water-resistant and quick-dry. UPF 50+ fabric protects from sun, and six pockets include two slants, two zip thigh pockets and two hip flap pockets.\n\nAgainst the LINLANG EN Cargo, it adds articulated knees and a technical cut. Compared with the 33,000ft Waterproof Overpants, it wears as a single layer with a repellent finish.\n\nIt suits hikers who want light rain protection in a trail pant. The elastic waist and pre-shaped knees help on climbs.",
     "specs": [
       "90% nylon, 10% spandex",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31fLDWcJ1pL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F29FT49T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F29FT49T?tag=rvgearlab-amz-20",
     "description": "The LINLANG EN Cargo is an 88% nylon and 12% elastic fiber trouser with a YKK zipper and metal buckle closure. Six deep pockets include a velcro strap pocket on the thigh and one waterproof zipper pocket, and UPF 50+ fabric covers sun.\n\nCompared with the keihTrail Stretch, it adds a YKK zipper and a packable build. Against the PIDO YOGA Ripstop, it uses a lighter nylon blend.\n\nIt suits travelers and hikers who want a quick-dry, packable pair. The listing says it suits spring, summer and fall.",
     "specs": [
       "88% nylon, 12% elastic",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41-bnHDS9LL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FMXGSQ25?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FMXGSQ25?tag=rvgearlab-amz-20",
     "description": "The PIDO YOGA Ripstop is a men's tactical pant in 65% polyester and 35% elastane ripstop with reinforced construction at the crotch and knees. The listing says the fabric is treated with waterproof technology to repel rain, oil and splashes, and six pockets include thigh cargo pockets.\n\nCompared with the LINLANG EN Cargo, it uses a tear-resistant ripstop. Against the LRYXXX Tactical, it adds thigh cargo pockets.\n\nIt suits hikers and workers who want tough pants with a repellent finish. The ergonomic cut helps movement.",
     "specs": [
       "65% polyester, 35% elastane ripstop",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/419T1QonyfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FKBF1LS8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FKBF1LS8?tag=rvgearlab-amz-20",
     "description": "The LRYXXX Tactical is a men's cargo pant in 65% polyester and 35% elastane with abrasion resistance and breathability. The listing says the waterproof technology withstands rain, oil and dirt, and each pocket has reinforced edges.\n\nCompared with the PIDO YOGA Ripstop, it stresses an elastic waistband for stable support without back pressure. Against the keihTrail Stretch, it carries a tactical cut.\n\nIt suits budget hikers and workers who want elastic waist comfort. The listing includes fishing, rock climbing and camping.",
     "specs": [
       "65% polyester, 35% elastane",

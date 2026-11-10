@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41iiSMENSML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00VK3C5CW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00VK3C5CW?tag=rvgearlab-amz-20",
     "description": "The STAR BRITE RV Wash and Wax Concentrated Cleaner and UV Protectant cleans and enhances shine in one step with PTEF polymers and UV protection. The listing says a few capfuls clean a full-size RV, it will not remove wax or polish or harm decals, and it is safe for all exterior RV surfaces.\n\nAgainst the STAR BRITE RV Wash, it adds wax-like shine and UV protection. Against the Camco Wash and Wax, it is a concentrate with a decal-safe statement.\n\nBest for owners who want a single concentrated wash that adds shine. Biodegradable and non-toxic.",
     "specs": [
       "Concentrated wash and UV protectant",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41iQQgCMCzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CWVN7VRV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CWVN7VRV?tag=rvgearlab-amz-20",
     "description": "The Spray and Forget RV and Camper Wash and Wax Combo has a 1 quart foaming wash and a 1 quart wax, each with a hose-end adapter. The listing says the wash gives a streak-free shine, the wax brings water-beading and protection from acid rain, and the wash can be applied to streaks and bugs directly.\n\nAgainst STAR BRITE Wash and Wax, it separates wash and wax into two steps. Against the Camco Wash and Wax, it adds a foaming wash with hose-end use.\n\nBest for owners who want a hose-end system. Wash first, then wax.",
     "specs": [
       "Wash and wax, 1 quart each",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51fqHZ5jiaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CPFXNVJK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CPFXNVJK?tag=rvgearlab-amz-20",
     "description": "The Walex Premium RV and Marine Black Streak Remover is a spray-on, wipe-off cleaner for black streaks, scuff marks and stains on RV and marine exteriors. The listing says it penetrates deep to dissolve stains and comes in several sizes.\n\nAgainst the STAR BRITE RV Wash, it targets streaks rather than general dirt. Against the Spray & Forget kit, it is a spot treatment.\n\nBest for sidewall streaks and scuffs. It pairs with a regular wash.",
     "specs": [
       "Black streak and scuff remover",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41S+hWFFiSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00VK3C5KY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00VK3C5KY?tag=rvgearlab-amz-20",
     "description": "The STAR BRITE RV Wash Ultimate Exterior Cleaner removes road grime and crud, and a few capfuls clean a full-size RV. The listing says it is safe on every part of the RV exterior without harming decals or finishes and is made for regular use.\n\nAgainst the STAR BRITE Wash and Wax, it costs less and adds no wax or UV protection. Against the Camco Wash and Wax, it is a concentrate rather than a wax product.\n\nBest for regular washing where wax is handled separately. A good everyday choice.",
     "specs": [
       "Concentrated RV wash",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41759L9CsXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00SL2NG0K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00SL2NG0K?tag=rvgearlab-amz-20",
     "description": "The Camco 40493 Pro-Strength Wash and Wax is a 32 ounce product with 100 percent carnauba wax. The listing says it needs no buffing, creates beading and is safe for all finishes.\n\nAgainst the STAR BRITE Wash and Wax, it costs far less and includes carnauba wax. Against the Spray & Forget kit, it is a single bottle.\n\nBest for budget owners who want wash and wax in one bottle. No buffing keeps it quick.",
     "specs": [
       "32 oz wash and wax",

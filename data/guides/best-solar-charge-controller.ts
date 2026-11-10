@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41oNd2nkV+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FFSJ7Y88?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FFSJ7Y88?tag=rvgearlab-amz-20",
     "description": "Qigreesol's 100A model is the only MPPT-style unit in this overview and the one with the widest battery-voltage range. The listing describes a 100A MPPT unit that accepts up to 100V of panel input and adapts to 12V, 24V, 36V and 48V battery systems. A backlit LCD reports battery voltage, PV and discharge current, temperature and error codes, and the controller can switch a load on a timer or by light level.\n\nCompared with the PWM units below it, it is the only one here whose listing talks about maximum power point tracking and a 100V panel input, which lets it work with higher-voltage panels. The tradeoff against the compact HUINE 20A is size and wiring effort, since 100A needs heavy cable.\n\nBest for a buyer who wants room to grow a roof array or move to 24V or 48V later. The amp rating is generous for a small array, so match it to your panel watts rather than paying for headroom you will never use.",
     "specs": [
       "100A MPPT, 12V to 48V",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/514WitupZ6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07CK2PCC7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07CK2PCC7?tag=rvgearlab-amz-20",
     "description": "HUINE's 20A model is the pick when the controller has to live somewhere that sees weather. This is a 20A four-stage PWM controller rated IP68, with short cables for panel, battery and load and a heat-sink base with two mounting holes. It senses a 12V or 24V battery automatically and runs in a 24-hour working mode.\n\nIt trades the LCD and USB ports of Anern 30A for an IP68 body, and gives up 10A of rating in the process. Next to SOLPERK 8A it offers more than twice the current and a 24V option.\n\nBest for mounting on a panel frame, bumper box or boat where moisture is likely. Three LEDs show charge, battery and load status but no numbers, so add a separate meter if you want to see actual amps.",
     "specs": [
       "20A PWM, 12V/24V auto",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51W5ZUZt0KL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B8VQ9ZL9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B8VQ9ZL9?tag=rvgearlab-amz-20",
     "description": "ACEIRMC sells two 30A PWM controllers in one order, which changes the cost math for owners with more than one battery system. This listing is a two-pack of 30A three-stage PWM controllers for 12V or 24V systems, each with an LCD, adjustable parameters and dual 5V USB ports rated 2.5A. Protections listed include overcurrent, short circuit, reverse connection and open circuit, all with automatic recovery.\n\nAgainst Anern 30A it adds a second controller and 2.5A USB output at a modest price premium. It is still PWM, so it cannot match the output a tracking unit like Qigreesol 100A pulls from high-voltage panels.\n\nBest for someone outfitting a trailer and a second rig, or keeping a spare. You pay for two units, which helps if you have two small systems but is wasted if you only need one.",
     "specs": [
       "Two 30A PWM units",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41irvFl3+ZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09HH3B2MK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09HH3B2MK?tag=rvgearlab-amz-20",
     "description": "Anern's 30A controller is the cheapest way here to get 30A of PWM regulation with a readable LCD. Anern's 30A controller uses three-stage PWM charging (direct, boost and float) on 12V or 24V systems and adds an LCD and a 5V/2A USB port. The listing states plainly that it is for lead-acid batteries (open, AGM, GEL) and not for lithium.\n\nIt costs less in total than ACEIRMC 30A 2-Pack but supports only lead-acid batteries, where the pricier units here name lithium or LiFePO4. That makes it a good fit only when your battery chemistry is already settled.\n\nBest for a flooded or AGM house bank on a tight budget. Because it is lead-acid only, skip it if your RV has a LiFePO4 house bank.",
     "specs": [
       "30A PWM, 12V/24V",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41aUXgg6npL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D3HR38QC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D3HR38QC?tag=rvgearlab-amz-20",
     "description": "SOLPERK's 8A controller is the smallest and simplest option, aimed at a single small 12V panel. SOLPERK's 8A model is built for 12V panels with a maximum current of 8A and carries an IP67 waterproof rating. The listing says it draws nothing from the battery when there is no sunlight and works with 12V LiFePO4, AGM and gel batteries.\n\nNext to HUINE 20A it gives up capacity and any 24V support in exchange for a basic IP67 body and zero-draw operation at night. It is also the one pick here that lists LiFePO4, AGM and gel in a 12V-only package.\n\nBest for keeping a stored trailer or camper battery topped up. At 8A it only suits a small panel, so treat it as a maintenance or trickle-charge unit rather than a roof-array controller.",
     "specs": [
       "8A, 12V only",

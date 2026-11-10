@@ -31,7 +31,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51RmGyXRxgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09H3PPL7Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09H3PPL7Q?tag=rvgearlab-amz-20",
     "description": "This Foamma topper is 3 by 48 by 75 inches in medium firm gel memory foam, with a removable organic cotton cover. It is CertiPUR-US certified and made in the USA. The gel layer sits on a high density base, which gives pressure relief and a cooler feel. At $179.99 it is the most complete option in the group.\n\nCompared with the gel version without a cover, this one adds a removable organic cotton cover that unzips for the washing machine, so keeping it clean is easy. Against the firm toppers, it softens the feel with a gel layer that cushions shoulders and hips, which suits side sleepers and anyone who finds the factory mattress too hard.\n\nIt is the pick for most owners of a three-quarter RV bed who want a plush, cooler topper they can wash, and who plan to use the bed for many nights a year.",
     "specs": [
       "3 x 48 x 75 inches",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/419lFgmMFTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08F5KR3BK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08F5KR3BK?tag=rvgearlab-amz-20",
     "description": "This Foamma topper uses the same 3 by 48 by 75 inch medium firm gel memory foam as the covered model, without a cover. The base has a density of 1.8 and a compression rate of 44 pounds, and the listing says it lasts 7 to 10 years. It is CertiPUR-US certified and costs $139.99.\n\nAgainst the covered gel topper, it keeps the same foam and saves $40, with the sheet on your bed doing the protective work a cover would. Compared with the firm toppers, it adds the gel layer for a softer, cooler surface at a price only ten dollars above the cheapest option.\n\nIt is the pick for value shoppers who want gel comfort and already own a good fitted sheet or mattress protector, and who are happy to treat the foam as a hidden layer.",
     "specs": [
       "3 x 48 x 75 inches",
@@ -85,7 +85,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41eqVGZNJUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08F2SB2D9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08F2SB2D9?tag=rvgearlab-amz-20",
     "description": "This Foamma topper is 3 inches of firm high density foam in 48 by 75 inches with no cover. The foam has a density of 1.8 and compression of 44 pounds, and it is made without ozone depleting substances and with low VOC. At $129.99 it is the lowest priced of the four.\n\nCompared with the gel toppers, it gives firm, supportive comfort that keeps the body level, which suits owners who dislike the sinking feel of memory foam. Against the covered firm model, it saves fifty dollars by skipping the cover and leaving protection to your sheet.\n\nIt is the pick for back sleepers, stomach sleepers and anyone who wants extra support and a lower price from a USA-made foam topper.",
     "specs": [
       "3 x 48 x 75 inches",
@@ -112,7 +112,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51RmGyXRxgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09H3LKHDV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09H3LKHDV?tag=rvgearlab-amz-20",
     "description": "This Foamma topper is 3 inches of firm high density foam in 48 by 75 inches, with an organic cotton cover that unzips for washing. It is CertiPUR-US certified, made in the USA, and listed with low VOC emissions. It costs $179.99.\n\nCompared with the firm topper without a cover, it adds a washable organic cotton cover, which makes it simple to refresh after a season of travel. Against the gel with cover, it keeps the same cover and price while offering firmer support in place of the gel layer.\n\nIt is the pick for sleepers who want firm support and a cover they can launder, such as couples sharing a small bed or owners who bring pets and kids on board.",
     "specs": [
       "3 x 48 x 75 inches",

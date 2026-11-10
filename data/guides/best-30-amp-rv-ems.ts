@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Dpu+Z9E3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07PRS5NPB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07PRS5NPB?tag=rvgearlab-amz-20",
     "description": "The Power Watchdog PWD30EPO is a 30 amp Bluetooth unit with 3,000 joules of surge protection and an IP65 body. Its listing says circuit analysis shuts off power in an emergency, adds a built-in 90 second power-on delay after a fault, and sends smartphone alerts for open ground, open neutral, reverse polarity and open circuit.\n\nIt ranks first because it states both an automatic shutoff and a restart delay, which protects an air conditioner compressor. The Progressive PT30X Portable below lists more named faults at a lower price, but it has no app or amp display.\n\nBest for a 30 amp owner who wants to watch voltage, amps and kilowatt hours from a phone. The replaceable surge module saves money after a big spike, though the unit costs about twice what the Progressive picks do.",
     "specs": [
       "30A, 3,000 joules, IP65",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410Z5nA8S4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01N0W4CZ8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01N0W4CZ8?tag=rvgearlab-amz-20",
     "description": "The Progressive Industries EMS-PT30X Portable is rated 30 amp, 120 volt and 3,600 watts, and absorbs surges up to 1,790 joules. Its listing names over and under voltage, open ground and neutral, reverse polarity, miswired pedestal, accidental 240V, surge failure and AC frequency faults.\n\nCompared with the Power Watchdog PWD30 above, it lists more named faults at a lower price but offers no app and no stated restart delay. Next to the Progressive PT30X Regulator Kit below, it is the same protector sold alone.\n\nBest for a 30 amp owner who wants a named, plug-in EMS without a smartphone. It is made in the USA per the listing, and the lack of a stated reconnect delay is the main thing to confirm.",
     "specs": [
       "30A, 120V, 3,600W",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31UiyPW9S+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BX9PC8JH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BX9PC8JH?tag=rvgearlab-amz-20",
     "description": "The Progressive PT30X Regulator Kit pairs the same EMS-PT30X (3-mode, 1,790 joules, 3,600 watts) with a Camco 40055 brass inline water pressure regulator. The listing names open ground, open neutral, reverse polarity, over and under voltage, miswired pedestal and accidental 240V protection.\n\nIt costs a little more than the Progressive PT30X Portable above, and the extra goes to the Camco regulator. The protector itself is the same, with a locking bracket and pull handle named in the listing.\n\nBest for a new 30 amp owner who needs a regulator anyway. If you already own one, the Progressive PT30X Portable is the better value.",
     "specs": [
       "30A, 120V, 3,600W",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51ssudRcRKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0050EH004?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0050EH004?tag=rvgearlab-amz-20",
     "description": "The Progressive Industries EMS-LCHW30 is listed as a hardwired 30 amp surge and electrical protector. The listing gives package dimensions and weight but names no specific protections, joule rating or fault list.\n\nUnlike the portable Progressive picks above, it lives inside the coach, so it avoids pedestal theft and weather. The tradeoff is that you learn far less from the listing, and installation means wiring it into the rig.\n\nBest for a 30 amp owner who wants a protector that stays inside. Confirm the voltage cutoffs, reconnect delay and wiring steps with the seller before you commit.",
     "specs": [
       "Hardwired 30 amp protector",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41a0C+4JtcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DRFT4BK9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DRFT4BK9?tag=rvgearlab-amz-20",
     "description": "The ENDMAN 30A is a TT-30P surge protector with an LCD that shows amps, watts, voltage, power factor and internal temperature, plus a kWh meter. It lists 12,000 joules and says it lets you monitor low voltage.\n\nNext to the Power Watchdog PWD30 above it gives you the same kind of data without an app, but the listing does not describe cutting power on a fault or a restart delay. That makes it a surge protector with a meter, not an EMS.\n\nBest for a 30 amp owner who wants to see power draw and avoid tripping the pedestal breaker. Pair it with an air-conditioner delay if compressor protection matters.",
     "specs": [
       "TT-30P plug, 12,000 joules",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Z06YRkpFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B2FF1D3W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B2FF1D3W?tag=rvgearlab-amz-20",
     "description": "The Southwire 30A is a portable surge protector that the listing says identifies faulty park power and analyzes circuits to verify pedestal wiring. It includes a circuit tester and an LED voltage monitor.\n\nIt costs about the same as the ENDMAN 30A Meter but shows less data, and the listing gives no joule rating, shutoff or restart delay. Compared with the Progressive picks above, it tells you about a bad pedestal but does not describe protecting against one.\n\nBest for a 30 amp owner who wants a pedestal tester with a voltage display and a light surge layer. Confirm the surge rating with the seller, since the listing does not state it.",
     "specs": [
       "Portable 30A surge protector",

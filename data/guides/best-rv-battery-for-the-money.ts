@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31nwzLZB-TL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FL72KPBZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FL72KPBZ?tag=rvgearlab-amz-20",
     "description": "RVLithTime's Mini is a 12V 100Ah LiFePO4 battery measuring 10.2 x 6.65 x 8.39 inches, with a 100A BMS and 1280Wh of energy. The maker rates it for 4000 cycles at 100% depth of discharge and 6000+ at 80%, and lists a charging range of 32F to 113F.\n\nIt ranks first because, at about $130, it delivers nearly twice the usable energy of the Weize AGM for less money. Compared with the LIPULS below, it is cheaper and slightly smaller, but the LIPULS spells out its protections more clearly.\n\nBest for budget buyers upgrading from a worn lead acid battery. The caveat is cold weather: the listing gives a 32F minimum charging temperature but does not clearly describe an automatic cutoff, so avoid charging it below freezing.",
     "specs": [
       "12V 100Ah, 1280Wh",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41-k-X5wrnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FX2W9GCC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FX2W9GCC?tag=rvgearlab-amz-20",
     "description": "LIPULS builds this 100Ah group 24 battery (10.23 x 6.61 x 8.30 inches) with cylindrical Grade A cells and a 100A smart BMS. It weighs 22.57 pounds and the maker claims 2.8 times the energy density of group 27 lead acid.\n\nIt ranks second because it costs about $36 more than the RVLithTime but gives clearer documentation on protections and fit across group 24, 27, and 31 trays. Against the CYCLENBATT below, it is cheaper but skips Bluetooth and does not mention a low-temperature cutoff.\n\nBest for buyers who want a no-frills lithium that drops into nearly any tray. The caveat is cold charging: plan to keep it above freezing when charging.",
     "specs": [
       "12V 100Ah, group 24",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41+xKq-jT8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F62HTNLN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F62HTNLN?tag=rvgearlab-amz-20",
     "description": "CYCLENBATT's Bluetooth model is a group 27 LiFePO4 weighing 21.49 pounds, with a BMS that cuts charging below 32F and discharging below -4F. Bluetooth 5.0 lets you check state of charge from your phone, and it carries a five-year warranty with CYCLENBATT covering return costs for quality issues.\n\nIt ranks third on price, but it packs the most features per dollar: Bluetooth, cold protection, and a long warranty, which the two cheaper lithium picks lack. Compared with the LiTime below, it costs about $100 less with a similar feature set.\n\nBest for value hunters who would otherwise buy a separate battery monitor. The caveat is that cycle life is rated at 5000+, lower than some competitors' claims, though still far beyond AGM.",
     "specs": [
       "12V 100Ah, group 27",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Si9oM1YsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CYT9NR5M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CYT9NR5M?tag=rvgearlab-amz-20",
     "description": "LiTime's group 24 battery weighs 21.9 pounds, fits group 24, 27, and 31 boxes, and includes Bluetooth monitoring with cutoffs that stop charging below 32F and discharging below -4F. LiTime rates it for up to 15,000 cycles and covers it with product liability insurance.\n\nIt ranks fourth because it costs more than double the RVLithTime for the same 100Ah, but brand reputation and support are part of value. Compared with the CYCLENBATT above, you pay about $100 more for similar features from a better-known RV brand.\n\nBest for buyers who see brand support as part of the value. The caveat is price; if budget is the priority, the CYCLENBATT offers nearly the same features for less.",
     "specs": [
       "12V 100Ah, 21.9 lbs",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41UbW9RSctL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CRQRMKFC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CRQRMKFC?tag=rvgearlab-amz-20",
     "description": "Weize's group 27M is a 92Ah dual purpose AGM with 580 CCA and 175 minutes of reserve capacity, backed by a two-year warranty. Weize recommends charging at 14.4V with up to 18.4A.\n\nIt ranks fifth because AGM delivers only about half its rating in daily use, so its cost per usable amp-hour is higher than any lithium pick. What it offers in return is compatibility: no lithium profile is needed, and lead acid can be charged in cold weather.\n\nBest for owners with older converters or winter campers who do not want to deal with lithium charging limits. The caveat is lifespan; expect fewer seasons than any of the lithium picks.",
     "specs": [
       "12V 92Ah, group 27M",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/418st-JvIXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G83YHSRK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G83YHSRK?tag=rvgearlab-amz-20",
     "description": "The MM-G24M is a 90Ah group 24M dual purpose AGM, with 550 CCA and 145 minutes of reserve capacity. It measures 10.25 x 6.63 x 8.63 inches, weighs 52.2 pounds, and Mighty Max publishes up to 700 cycles at 50% depth of discharge with a two-year warranty.\n\nIt ranks sixth because it costs about the same as the Weize 27M while offering 2Ah less, but it fits a smaller group 24 tray and comes with a published cycle-life figure. Against the RVLithTime lithium, it is heavier and shorter-lived but needs no charging changes.\n\nBest for small trailer owners replacing a stock group 24 battery cheaply. The caveat is weight and cycle life; over several years, lithium will usually cost less per cycle.",
     "specs": [
       "12V 90Ah, group 24M",
@@ -194,7 +194,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41aqWZlH+YL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CT43QFML?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CT43QFML?tag=rvgearlab-amz-20",
     "description": "Newport's 50Ah sealed AGM weighs 32 pounds and is the cheapest way to get a usable house battery into a small camper. Its sealed, leak-proof build needs no watering.\n\nIt ranks last because its cost per usable amp-hour is the worst here: at about 25Ah of daily use, the RVLithTime gives roughly four times the usable energy for the same money. It earns a spot for owners who truly need only a small battery.\n\nBest for teardrop and pop-up owners running a few lights and a water pump. The caveat is capacity; with a furnace fan on cold nights, it may not last until morning.",
     "specs": [
       "12V 50Ah AGM",

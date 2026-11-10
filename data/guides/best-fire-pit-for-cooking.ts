@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41lfMQE0p7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08H4MNQ3S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08H4MNQ3S?tag=rvgearlab-amz-20",
     "description": "The Hykolity is a 35 inch diameter, 26 inch high pit with two cooking grates, an 18.5 inch and a 15 inch, plus a log rack, a charcoal pan and a poker. The heavy-duty gauge steel has a high load-bearing capacity.\n\nIt is the only pit here with a charcoal pan, so you can cook over coals instead of open flame. Against the VINGLI, its grates are larger and the log rack aids airflow.\n\nIt suits backyard cooks who want to grill burgers and sear steaks on the same pit. The one-year warranty adds confidence.",
     "specs": [
       "35 inch, 18.5 and 15 inch grates",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/61pZEVS54oL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CRNPN3S1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CRNPN3S1?tag=rvgearlab-amz-20",
     "description": "The OutVue 42 inch pit includes two height-adjustable, 360 degree swivel grills, a lid, a table top and a poker. It holds up to 30 lbs of wood and takes about 20 minutes to assemble.\n\nIts 30 lb wood capacity gives a longer burn between refuels than the 20 lb OutVue 36 inch model. The lid and tabletop turn it into a serving surface between cooks.\n\nIt is for cooks who want a long-burning fire and a table surface for plates. The two swivel grills let one cook manage two heat zones.",
     "specs": [
       "42 inch, 2 swivel grills",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41F4NkjF9qL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DM1GDFKQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DM1GDFKQ?tag=rvgearlab-amz-20",
     "description": "The Verdeluxe is a 36 inch diameter, 26 inch high pit with two cooking grills, 15 and 18 inches, and a 24 inch fire bowl. The heavy-duty steel body has a fire ring design at the bottom and a disassembled design that is easy to carry camping.\n\nTwo people can put it together in fifteen minutes with the help of an installation video. It is the most packable of the six, which suits campers who also cook at home. A 24 inch fire bowl leaves plenty of room for a good bed of coals.\n\nIt suits families who want a pit for home and the campsite. A 24 inch fire bowl leaves plenty of room for a good bed of coals.",
     "specs": [
       "36 x 26 inch, two grills",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Z7+HmFglL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CNZ5BYB4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CNZ5BYB4?tag=rvgearlab-amz-20",
     "description": "The VINGLI is a 33 inch pit with two 360 degree swivel cooking grates, one for toasting and one for keeping food warm. Iron chrome-plated grates and an ultra-high temperature coating cover the cooking surface.\n\nIt is the lowest priced pit in this group, with a loop handle for easy movement and a 30 minute assembly. It gives up the larger grates and charcoal pan of the Hykolity in exchange for price.\n\nChoose it for casual cookouts where the budget is the main limit. The loop handle makes it easy to shift around the yard.",
     "specs": [
       "33 inch, two swivel grates",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/5179fN0FIxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G2BQ6KZB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G2BQ6KZB?tag=rvgearlab-amz-20",
     "description": "This 43 inch fire pit has two removable grill plates that rotate 360 degrees and adjust in height, a protective lid and a wide tabletop. A high-temperature coating and a surrounding metal mesh help contain sparks.\n\nIt offers more tabletop than the 35 and 36 inch pits and adds assembly hardware and a screwdriver in the box. It costs about the same as the Hykolity and more than the OutVue 42 inch.\n\nChoose it for hosts who want the cooking and the table in one. The surrounding mesh helps contain embers near guests.",
     "specs": [
       "43 inch, 2 removable grill plates",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51LKkKCBsHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H1Q47CTY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H1Q47CTY?tag=rvgearlab-amz-20",
     "description": "This 43 x 43 x 32.1 inch pit table has a high-temperature protective coating, two removable grill plates that rotate 360 degrees and adjust in height, and a protective lid. The hollowed tabletop surrounds the central bowl.\n\nIt matches the other 43 inch table in layout and is listed at a lower price. It shares the same grills and lid, so the choice comes down to cost and availability.\n\nIt suits patios and backyards that need a big surface and a cooking fire. The protective coating helps it stay rust-free over the season.",
     "specs": [
       "43 x 43 x 32.1 inch table",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/317ZdcvNF9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DFCGMC5L?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DFCGMC5L?tag=rvgearlab-amz-20",
     "description": "The Portal is a 14 ft by 8 ft cabin with an 80 inch center height, a 2-room layout with separate doors and a 14 ft by 7.5 ft porch. Two E-ports, wall pockets, a gear loft, a mud mat and a room divider come in the box, and seams are fully taped.\n\nAgainst the KTT tents it adds a porch, E-ports and taped seams for a lower price. The KTT models give more floor, while the Portal gives more built-in features.\n\nIt suits families who want real doors for each room and shelter outside. The listing names a 3 air bed fit.",
     "specs": [
       "14 x 8 ft, 80 in peak",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ByXHkVnvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B9LGGCLJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B9LGGCLJ?tag=rvgearlab-amz-20",
     "description": "The KTT 16 ft by 11 ft cabin has a 7.4 ft center height and a straight-wall design that fits four full-size air mattresses. It is divided into two rooms with 8 top corner hooks and a middle hook, and the listing names three doors and three mesh windows plus a big back window.\n\nIt is the biggest and most expensive tent here, and it gives much more floor than the Portal. Compared with the other KTT 16 ft model it is listed for 12 to 14 people.\n\nIt suits large groups that want the tallest ceiling and the biggest floor. Repair patches and buckles come in the package.",
     "specs": [
       "16 x 11 ft, 7.4 ft peak",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41xFmUpvMCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CLYSVGMG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CLYSVGMG?tag=rvgearlab-amz-20",
     "description": "This KTT tent shares the 16 ft by 11 ft by 7.4 ft floor plan and four-mattress fit with the top KTT. It is rated for 14 people and offers two rooms, three doors and three mesh windows in a straight-wall double layer design.\n\nCompared with the top KTT, it costs about 20 dollars less. Against the Portal it costs more and gives a much larger floor.\n\nIt suits families who want the big KTT footprint without paying the higher price. Hand setup with folding rods is part of the deal.",
     "specs": [
       "16 x 11 ft, 7.4 ft peak",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41NeOch-sKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DQJQMD9G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DQJQMD9G?tag=rvgearlab-amz-20",
     "description": "The KTT 12-person cabin measures 14.1 ft by 10 ft by 6.58 ft and fits four full air mattresses. Two bay windows with mesh, a separation curtain and a door curtain that turns into a sunshade canopy with two poles are listed.\n\nCompared with the 16 ft KTT tents it is smaller and cheaper. Against the cheaper KTT 12-person tent it adds bay windows and a full-fly design.\n\nIt suits mid-size families who like extra window light. The awning option adds shade at the door.",
     "specs": [
       "14.1 x 10 ft, 6.58 ft peak",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/413CYBjny0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B093X345LK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B093X345LK?tag=rvgearlab-amz-20",
     "description": "The KTT 12-person tent is 14.1 ft by 10 ft by 6.58 ft with a straight-wall design that holds four full air mattresses. It has two rooms, three doors, three mesh windows, a big back window, two top windows and 8 top corner hooks.\n\nIt is the least expensive KTT here, and it keeps the two-room layout of its larger siblings. Compared with the Portal it has more floor, with no porch.\n\nIt suits budget buyers who want a roomy two-room cabin with plenty of ventilation. The listing includes two repair patches and two buckles.",
     "specs": [
       "14.1 x 10 ft floor",

@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51zUtkieFVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00G6KGPFM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00G6KGPFM?tag=rvgearlab-amz-20",
     "description": "Dicor 501LSW-1 is a 4 pack of white self-leveling lap sealant. The listing says it seals roof edges, air vents, vent pipes and screw heads, adheres firmly to fiberglass, aluminum, galvanized metal, wood, vinyl and concrete, and is compatible with EPDM and TPO sheeting.\n\nAgainst Sealant 1021, it names the seal locations and a longer list of surfaces. Against LISRUX 12 Pack, it offers four tubes with a clear fiberglass statement.\n\nIt is the best match for fiberglass roofs that need flat lap and vent seals. Buyers focused on fiberglass laps will find it a sensible match.",
     "specs": [
       "4 pack, white self-leveling",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41v6rzMHFdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H3LZB8YG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H3LZB8YG?tag=rvgearlab-amz-20",
     "description": "Self-Leveling RV Roof Sealant 1021 is a low VOC white lap sealant for flat and horizontal roofs. The listing says it suits rubber, metal and fiberglass and helps seal roof edges, vents, skylights, antennas and trim.\n\nAgainst Dicor 501LSW, it adds antennas and skylights to the listed uses. Against LISRUX 12 Pack, it states fiberglass directly.\n\nIt suits fiberglass owners who want a low VOC formula. It earns its slot for roof fixtures.",
     "specs": [
       "White self-leveling, low VOC",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31VhuGJrrKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00YBFTCZE?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00YBFTCZE?tag=rvgearlab-amz-20",
     "description": "Dicor 610SASLW-1 is a 10.1 ounce white self-leveling Ultra Sealant System made from polyether. The listing says it is solvent free, has no isocyanates and stays non-yellowing, and that polypropylene accessories and some membranes must be primed with Dicor Ultra Sealant Primer.\n\nAgainst Dicor 501LSW, it is a polyether system with a primer step. Against LISRUX 12 Pack, it is one premium tube.\n\nIt suits owners who want a non-yellowing polyether and will follow the primer rule. It is a natural fit for polyether fans.",
     "specs": [
       "10.1 oz white polyether",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51MyxrrPBUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FWQSFPJW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FWQSFPJW?tag=rvgearlab-amz-20",
     "description": "LISRUX 12 Pack is a white self-leveling lap sealant that levels within 30 seconds and is stated to handle -40 to 200 degrees F. The listing says it makes a secondary seal along roof edges and vents and does not yellow or crack.\n\nAgainst Dicor 501LSW, it gives twelve tubes for a similar total cost. Against Sealant 1021, it states a temperature range.\n\nIt suits large jobs and owners who reseal several rigs. Think of it as the pick for large reseals.",
     "specs": [
       "12 tubes, self-leveling",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31KPb724qVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B019QGSE4C?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B019QGSE4C?tag=rvgearlab-amz-20",
     "description": "Dicor 551LSB-1 is a 10.3 ounce HAPS-free black non-leveling lap sealant. The listing says it gives a secondary seal along roof edges and termination rails and bonds to aluminum, fiberglass, vinyl, galvanized metal, wood and concrete.\n\nAgainst Dicor 501LSW, it is non-leveling for edges. Against LISRUX 12 Pack, it names fiberglass.\n\nIt suits fiberglass roof edges and sidewall trim. Buyers focused on edges and trim will find it a sensible match.",
     "specs": [
       "10.3 oz black non-leveling",

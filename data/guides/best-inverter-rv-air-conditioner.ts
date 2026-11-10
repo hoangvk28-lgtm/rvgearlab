@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/3126D4fMa-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DM6TYN94?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DM6TYN94?tag=rvgearlab-amz-20",
     "description": "The Furrion Chill Cube 18K is a ducted rooftop air conditioner with variable speed compressors. The listing says it can run continuously, avoiding the abrupt starts, stops and excessive amp draw of standard RV air conditioners, and that it has higher capacity and efficiency than typical units.\n\nAgainst the TURBRO Inverter 13.5K, it offers a higher 18,000 BTU rating in a ducted layout. Against the KNOLET 115V, it comes from an established RV brand with a bolt-on install guide.\n\nBest for large trailers and fifth wheels with existing ducts who want the inverter benefit at full size. The unit is sold alone, and an ADB is bought separately.",
     "specs": [
       "18,000 BTU, ducted rooftop",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4126XSvdlRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F8NC7KPZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F8NC7KPZ?tag=rvgearlab-amz-20",
     "description": "The TURBRO Inverter 13.5K is a rooftop unit with up to 13,500 BTU of cooling and heating through a heat pump. The listing says its inverter compressor delivers up to 30 percent greater efficiency than non-inverter systems and that the 10 inch body is up to 35 percent thinner than most competitors.\n\nAgainst the Furrion Chill Cube, it adds a heat pump with a smaller 13,500 BTU capacity. Against the KNOLET 115V, it lists a slim profile and app control.\n\nBest for travel trailers and campers that need both cooling and heat from a slim roof unit. It includes atmosphere lighting and app and remote control.",
     "specs": [
       "13,500 BTU heat pump",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/315QFvY-wAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DW3TYSNR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DW3TYSNR?tag=rvgearlab-amz-20",
     "description": "The Countrymod 12V DC RV Air Conditioner is a 10,000 BTU rooftop unit with a variable-frequency design and a 300 to 900W power range. The listing says it uses about 0.3 kWh per hour, runs 45 to 55 dB and has a horizontal compressor for lower vibration.\n\nAgainst the ICECOSMOS 12V, it lists a 300 to 900W range and a battery-life claim of up to 10 hours. Against the Furrion Chill Cube, it needs no shore power at all.\n\nBest for van and camper owners who run on a battery bank. The app remote is included.",
     "specs": [
       "10,000 BTU, 12V DC",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41sgRlbxr-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GTSMRT42?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GTSMRT42?tag=rvgearlab-amz-20",
     "description": "The ICECOSMOS Ultra-Slim 12V unit is a 10,000 BTU rooftop air conditioner with PTC heating and a 5.5 inch slim body. It operates directly on 12V DC without a power inverter and lists 39 dB in Eco mode.\n\nAgainst the Countrymod 12V 10K, it adds heating and a slimmer body at a lower price. Against the Sunster 12V Split, it is a single rooftop-style unit that needs a roof opening.\n\nBest for vans and small RVs where roof height and quiet matter. Direct 12V operation avoids the losses of an inverter.",
     "specs": [
       "10,000 BTU, 12V DC",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41y9gjOAL5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F23PQRDX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F23PQRDX?tag=rvgearlab-amz-20",
     "description": "The KNOLET 115V RV Air Conditioner is a 15,200 BTU rooftop unit with 6,600 BTU of heating. It uses a 20cc rotary compressor with R-410A refrigerant, inverter-style frequency adjustment and a wall-mounted control panel with low voltage protection.\n\nAgainst the TURBRO Inverter 13.5K, it offers more cooling BTU at a lower price. Against the Furrion Chill Cube, it adds heating and a compact price tag.\n\nBest for trailers and food trucks on 115V power. The listing says it adjusts operating frequency to the environment.",
     "specs": [
       "15,200 BTU, 115V",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41jAmyBxhAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FDG8XSK2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FDG8XSK2?tag=rvgearlab-amz-20",
     "description": "The Sunster 12V RV Air Conditioner is a 12,000 BTU split system with a variable-frequency compressor, four modes and low-voltage protection. It connects directly to the battery and uses a steel exterior with an aluminum condenser.\n\nAgainst the ICECOSMOS 12V 10K, it needs no roof cutout but has separate indoor and outdoor units. Against the Countrymod 12V 10K, it offers 2,000 more BTU of cooling at a much lower price.\n\nBest for trucks, vans and builds where a roof unit is awkward. Low-voltage protection helps safeguard the battery.",
     "specs": [
       "12,000 BTU split, 12V DC",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/414SLhxT6dL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H2952RL5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H2952RL5?tag=rvgearlab-amz-20",
     "description": "The SENLEETO electric pump is built for air tents, with a dedicated nozzle, 7 PSI pressure, 40 L/min flow and auto-shutoff. A 2000mAh battery charges by Type-C and gives four inflations of a 6.7 square meter tent or two of a 12 square meter tent.\n\nNext to the OUTZATA it adds a stated tent pressure and per-charge tent counts, and against the Mojimdo it gives a tent-specific nozzle at a much lower price. The listing says small tents inflate in 5 to 8 minutes and larger ones in 10 to 15.\n\nIt suits a family with a mid-size air tent who wants a pump matched to the job. A travel lock keeps it from switching on in the bag.",
     "specs": [
       "7 PSI, 40 L/min flow",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41j8+baduPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GYDF3FVL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GYDF3FVL?tag=rvgearlab-amz-20",
     "description": "The OUTZATA pump weighs 1.40 lbs, measures 3.35 by 6.42 inches and holds a 6000mAh battery that charges through Type-C from a power bank, laptop, car charger or wall adapter. The listing says it can inflate 25 to 30 camping tents on a charge.\n\nIt lists the largest battery capacity in the group and is far lighter than the 2.9 lb Mojimdo. Against the SENLEETO it comes with a single nozzle, designed for inflatable tents and thick air mattresses.\n\nIt suits a camper who wants one light pump for the tent and the air mattress. It charges from many sources.",
     "specs": [
       "6000mAh, Type-C charging",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Q59jNBFUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H9Y74N29?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H9Y74N29?tag=rvgearlab-amz-20",
     "description": "The Dierraotdr pump is rated for 10 PSI maximum pressure and has dual top and bottom ports for inflating and deflating. It comes with two tent valve adapters, a multi-nozzle set and a Type-C charging cable.\n\nIt is the only pick that ships tent valve adapters as well as a nozzle set, and it has a higher pressure ceiling than the SENLEETO's 7 PSI. It costs more than the SENLEETO and OUTZATA.\n\nIt suits a camper with several valve styles to cover. Deflation saves the end-of-trip squeeze.",
     "specs": [
       "10 PSI max, dual ports",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41IXTMtduAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F1TGW8J5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F1TGW8J5?tag=rvgearlab-amz-20",
     "description": "The Mojimdo is a 20 PSI smart pump with five presets, including a Tent Mode at 4.5 PSI, a SUP mode at 12 PSI and a pool float mode. It adds a deflation mode with 0.5 PSI control and a 12V car connector.\n\nIt is the most powerful and the priciest pump here, and a good fit for owners with paddle boards or kayaks as well. The listing says it weighs 2.9 lbs and measures 7 by 6 by 3 inches.\n\nIt suits a camper who also owns a paddle board or kayak. The preset buttons take the guesswork out of pressure.",
     "specs": [
       "20 PSI, 5 presets",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41qwx4xHwKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H2PRCGSZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H2PRCGSZ?tag=rvgearlab-amz-20",
     "description": "The SENLEETO hand pump delivers 6 liters of air per stroke at up to 15 PSI and includes a pressure gauge and five nozzles. It weighs 0.85 kg (1.87 lbs) and has an aluminum piston shaft and anti-slip handles.\n\nUnlike the electric pumps it needs no battery and costs the least. A gauge lets you stop at your tent's rated pressure.\n\nIt suits a camper who wants a backup or a battery-free pump. It also inflates other gear with its nozzle set.",
     "specs": [
       "6 L per stroke, 15 PSI",

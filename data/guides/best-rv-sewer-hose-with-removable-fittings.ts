@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51-Qw5kOw2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B084S9NLNQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B084S9NLNQ?tag=rvgearlab-amz-20",
     "description": "The Camco RhinoEXTREME 20 foot kit has two 10 foot sections with pre-attached swivel bayonet and lug fittings. It adds a 360 degree clear wye so two tank valves can share one dump port, and the TPE wall protects against pinholes and abrasion.\n\nIt costs the same as the Valterra Viper 20 foot kit and adds the wye. The wye is what separates it from every other full kit here.\n\nBest for rigs with two tank outlets who want a toughest wall. A strong choice for dual-tank dumping.",
     "specs": [
       "2 x 10 ft, TPE wall",
@@ -53,7 +53,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41JSGnNQsaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00BDEO7C4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00BDEO7C4?tag=rvgearlab-amz-20",
     "description": "Valterra's Viper 20 foot kit totals twenty feet from two collapsible 10 foot hoses, and it ships with a clear 90 degree adapter and four drip caps. Each hose collapses from 10 feet to 50 inches.\n\nIt costs the same as the Camco wye kit and has a longer collapsed length than the Dominator. The adapter fits six sewer types.\n\nBest for owners who like a clear elbow with rotating fittings. A familiar kit.",
     "specs": [
       "2 x 10 ft, collapses to 50 in",
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41bQXA3ecqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B004LFCFSK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B004LFCFSK?tag=rvgearlab-amz-20",
     "description": "The Valterra Viper 15 foot kit has one 15 foot hose with rotating fittings, a 90 degree universal adapter and two drip caps. It collapses from 15 feet to 80 inches.\n\nIt costs less than the 20 foot Viper and collapses longer than the OUTPRIZE. It is the most traditional kit.\n\nBest for mid-length use. A dependable kit.",
     "specs": [
       "15 ft, collapses to 80 in",
@@ -107,7 +107,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410t1UhV1FL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H8KZ8XC6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H8KZ8XC6?tag=rvgearlab-amz-20",
     "description": "The OUTPRIZE 15 foot kit has a 25 mil TPE hose with an inner wire, bayonet fittings and a 4-in-1 adapter elbow that connects to 3 inch slip, 3, 3.5 and 4 inch inlets. A 15 foot hose compresses to 5.4 feet.\n\nIt costs about half the Valterra Viper 15 Ft and has a thicker wall. It also names its compatibility with OUTPRIZE and Camco hoses.\n\nBest for buyers who want a thick wall at a lower price. A good value.",
     "specs": [
       "15 ft, 25 mil TPE",
@@ -134,7 +134,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41PbBkbJjNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GVDWX5BT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GVDWX5BT?tag=rvgearlab-amz-20",
     "description": "The Caravista 15 foot kit has a 23 mil polyolefin hose with a steel wire outer layer, a 4-claw bayonet with built-in gasket and a 90 degree clear adapter. It includes a wrench, gloves, two caps and a roll of tape.\n\nIt is priced below the OUTPRIZE kit and adds tools. The wrench and gloves are extras no other kit includes.\n\nBest for first-time owners who want everything in one box. A thoughtful starter kit.",
     "specs": [
       "15 ft, 23 mil polyolefin",
@@ -161,7 +161,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41232FyzcSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B002OUIXU8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B002OUIXU8?tag=rvgearlab-amz-20",
     "description": "The Camco RhinoFLEX wye fitting connects two sewer hoses to one dump station. It has 360 degree swivel ends with built-in gaskets and a translucent body.\n\nIt is the cheapest item and adds the wye to any hose you own. Compared with the RhinoEXTREME kit, it costs a fraction.\n\nBest for dual-tank rigs with a hose already. A handy add-on.",
     "specs": [
       "Two bayonet fittings",

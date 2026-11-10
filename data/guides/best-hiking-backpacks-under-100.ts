@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4192T9HVA1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09DQZBBFG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09DQZBBFG?tag=rvgearlab-amz-20",
     "description": "The TETON Scout is a 55L internal frame pack with multi-position torso adjustment for medium and tall users, an open-cell foam lumbar pad with molded channels and a large sleeping bag compartment. It includes a rain cover, multi-directional compression straps and a hydration pocket.\n\nIt costs about $96, around $4 less than the Mardingtop 70L, and its torso adjustment makes it the best-fitting pack here. It holds 15 liters less than the Mardingtop and weighs less than the 100L packs.\n\nIt suits weekend backpackers who want a framed pack to carry 25 to 30 pounds. The molded lumbar channels improve airflow.",
     "specs": [
       "55L internal frame",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/413ZwAmFKpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09YLZQ7XS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09YLZQ7XS?tag=rvgearlab-amz-20",
     "description": "The Mardingtop is a 70L internal frame pack in 600D polyester with YKK zippers and a rain cover. It has multi-position torso adjustment, a padded sternum strap and hip belt, a breathable mesh back and MOLLE webbing, with 4,272 cubic inches of space.\n\nIt costs about $100, the top of the budget and $4 more than the TETON 55L Scout, and it holds 15 liters more. It is tactical in style and bulkier than the TETON.\n\nIt suits hunters and long-trip hikers who need volume and a frame. The grid zipper bag and bladder compartment help organization.",
     "specs": [
       "70L internal frame",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41DkmlxeXiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07FR2HF77?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07FR2HF77?tag=rvgearlab-amz-20",
     "description": "The Loowoko is a 50L pack weighing 2.8 pounds, with a rain cover pouch at the base, a shoe divider and six external pockets. It has no internal frame.\n\nIt costs about $53, about half the TETON 55L Scout, and it weighs far less than the framed packs. It gives up the load-carrying ability of the TETON for lighter weight.\n\nIt suits light travelers and hikers who keep gear under about 20 pounds. The shoe divider helps with organization.",
     "specs": [
       "50L with rain cover",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41oxsOXu09L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CXJ9L9PP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CXJ9L9PP?tag=rvgearlab-amz-20",
     "description": "The Vaupan is a 70L pack that expands to 100L, weighing 3.31 pounds in 600D Oxford with MOLLE webbing. It has widened S-type shoulder straps and is water resistant.\n\nIt costs about $32, a third of the TETON 55L Scout, and it carries far more volume than any framed pack. It has no internal frame for a pack this big.\n\nIt suits campers who need a large volume for bulky gear on a car-supported trip. MOLLE webbing carries extra pouches.",
     "specs": [
       "70L expands to 100L",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ety2e0BKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B4SZ16J4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B4SZ16J4?tag=rvgearlab-amz-20",
     "description": "The King'sGuard is a 80/100L pack with four large external hanging systems, 902D Oxford fabric and an independent belt bag that doubles as a shoulder bag. A 3D breathable back system and a 4 cm honeycomb foam pad cushion the back.\n\nIt costs about $36, close to the Vaupan 100L, and it adds a detachable belt bag. It has no internal frame.\n\nIt suits campers who want a large pack and a small sling for day trips. The pad improves ventilation.",
     "specs": [
       "80/100L, 902D Oxford",

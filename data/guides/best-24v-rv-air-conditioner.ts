@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4105uTr-x-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H34DHSFQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H34DHSFQ?tag=rvgearlab-amz-20",
     "description": "The Treeligo 24V Mini Split RV Air Conditioner is a 12,000 BTU split-type unit with a scroll compressor, a 3,000 RPM motor and 350 CFM airflow. It lists 45 dB noise, an LCD remote and installation that needs no large roof cutout.\n\nAgainst the Tyoyfong 8900, it offers more cooling BTU and a split design that avoids a big roof hole. Against the SleYuYir 10K, it adds 2,000 BTU of cooling at a lower price while dropping the heating mode.\n\nBest for vans and campers where a roof cutout is a hassle. The split layout also suits low roofs and trucks.",
     "specs": [
       "12,000 BTU, 24V split",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Qv85PAuJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H1KY829W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H1KY829W?tag=rvgearlab-amz-20",
     "description": "The SleYuYir 24V RV Air Conditioner is a rooftop unit with 10,000 BTU cooling and 3,500 BTU heating. It lists a low-profile ABS shell, 45 dB operation and multi-layer electrical safety.\n\nAgainst the Tyoyfong 8500, it offers more cooling at a similar heating level and a higher price. Against the Tyoyfong 8900, it has more cooling but far less heat.\n\nBest for RV and van owners who want 10,000 BTU cooling with some heat. The listing says no professional help is needed to install.",
     "specs": [
       "10,000 BTU cool, 3,500 heat",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41xJeN0XBrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H2PDBV1B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H2PDBV1B?tag=rvgearlab-amz-20",
     "description": "The Tyoyfong 8900BTU 24V DC unit lists equal cooling and heating at 8,900 BTU, with five operating modes and a minimum draw of 0.24 kWh per hour. It claims noise as low as 30 decibels and an ABS shell with UV resistance.\n\nAgainst the SleYuYir 10K, it gives equal heat and cooling rather than a cooling bias. Against the Tyoyfong 8500, it adds 400 BTU of cooling and 5,500 BTU of heating.\n\nBest for campers in cooler regions who need strong heat from a DC unit. The low power consumption suits battery-limited builds.",
     "specs": [
       "8,900 BTU cool and heat",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41w38Zf5B7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FR1TDGS4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FR1TDGS4?tag=rvgearlab-amz-20",
     "description": "The Tyoyfong 8500 BTU 24V Rooftop Air Conditioner pairs cooling of 8,500 BTU with 3,400 BTU of heating and a vortex variable frequency compressor. It has a 5.5 inch ultra-thin body and fits standard 14 by 14 inch roof vents.\n\nAgainst the Tyoyfong 8900, it has a slimmer profile and lower cost with less heat. Against the SleYuYir 10K, it has less cooling and a variable-frequency compressor.\n\nBest for small RVs and vans where height matters. It runs at 45 to 60 dB.",
     "specs": [
       "8,500 BTU cool, 3,400 BTU heat",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41LPlEV9jjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DFM9ZNFC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DFM9ZNFC?tag=rvgearlab-amz-20",
     "description": "The Treeligo Universal 24V DC unit is built for trucks, buses, tractors and motorhomes, and runs on the vehicle battery or external power with the engine off. The listing names inverter technology and four modes: Fan Only, Manual, Eco and Turbo.\n\nAgainst the Helrgelrn 15K, it lists a compressor type and a more detailed spec set. Against the Treeligo Mini Split, it is a universal truck-style unit rather than a split design.\n\nBest for truck cabs and vehicles that idle without the engine. The listing also covers RVs and travel trailers.",
     "specs": [
       "24V DC, inverter technology",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31tP8p1AmKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GSZ4NC12?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GSZ4NC12?tag=rvgearlab-amz-20",
     "description": "The Helrgelrn 24V RV Air Conditioner is listed at 15,000 BTU with both cooling and heating and three adjustable air vents. The listing says it installs on a light truck without drilling holes.\n\nAgainst the Treeligo Universal, it claims more BTU at a lower price. Against the Tyoyfong 8500, it is a truck-cab style unit with three directional vents.\n\nBest for budget buyers fitting a light truck or work vehicle. The plastic housing is described as wear-resistant.",
     "specs": [
       "24V, 15,000 BTU claim",

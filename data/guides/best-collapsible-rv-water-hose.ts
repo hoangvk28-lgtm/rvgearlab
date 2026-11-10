@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/510UhufmTFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C34ZNMTW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C34ZNMTW?tag=rvgearlab-amz-20",
     "description": "The Clean Camper 35 ft hose lists a kink-free design that coils tightly for compact storage. It has 304 stainless steel food-grade fittings and is lead, BPA and phthalate free.\n\nIt is the pick that leads on coil size and it costs more than the Camco. It lists a 35 foot length.\n\nIt suits owners who want a space-saving coil. The stainless fittings resist rust.",
     "specs": [
       "35 ft, compact coil",
@@ -53,7 +53,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/518RwzPj8bL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B004VHXS20?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B004VHXS20?tag=rvgearlab-amz-20",
     "description": "The Camco TastePURE 35-Foot is NSF/ANSI 61 certified and lists zero memory retention with diamond-hatch reinforcement. The wall runs 20 percent thicker than premium hoses, which matters once a hose is rolled and packed repeatedly.\n\nIt is priced just below the Clean Camper and coils without holding its shape. It is thicker than the Nilight.\n\nIt suits owners who want a thick, certified hose that still coils flat. The UV-stabilized PVC suits sunny sites.",
     "specs": [
       "5/8 inch, 35 ft",
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41mC5NsIJtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D582WWC7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D582WWC7?tag=rvgearlab-amz-20",
     "description": "The Atlantic 8 ft hose is PVC-free and 30 to 40 percent lighter than heavy PVC or hybrid hoses. It uses a food-grade silicone inner tube and lists a range of -70°F to 200°F.\n\nIt is the lightest pick and the shortest of the hookup hoses. It costs more than the Nilight and RVSNAIL.\n\nIt suits owners who want the lightest hose at a short length. It stores in a small space.",
     "specs": [
       "8 ft, PVC-free",
@@ -107,7 +107,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41chL9ufapL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GFSS77SX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GFSS77SX?tag=rvgearlab-amz-20",
     "description": "The Nilight 25FT lists a 3-layer build, solid aluminum fittings and an included storage bag. Its usable temperature span runs from -4°F to 176°F.\n\nIt is priced lower than the Camco and Clean Camper and bundles a bag. It rolls up easily into its bag.\n\nA bag plus a mid-length hose makes it a fit for owners who pack light. It covers most pedestals at 25 feet.",
     "specs": [
       "5/8 inch, 25 ft",
@@ -134,7 +134,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41a8tLORvrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H3JRZ17T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H3JRZ17T?tag=rvgearlab-amz-20",
     "description": "The RVSNAIL 25FT is a food-grade rubber hose with a 360 degree swivel grip handle and 3-layer reinforced build. It lists aluminum fittings rated to 450 PSI.\n\nIt is the lowest priced of the 25 ft hoses and lists a swivel grip. It does not list a bag.\n\nIt suits owners who connect and disconnect often. The swivel grip reduces wrist strain.",
     "specs": [
       "5/8 inch, 25 ft",
@@ -161,7 +161,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ddMEOgdUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07Y5L5J73?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07Y5L5J73?tag=rvgearlab-amz-20",
     "description": "The RecPro Fresh Water Fill Hose is a 1 1/4 inch, 10 ft hose with a 5 inch ribbed section and a 3 inch smooth section. It is cold and heat resistant.\n\nIt is priced near the RVSNAIL and is for the tank fill. The ribbed design bends in tight places.\n\nIt suits owners replacing a filler neck hose. The 1 1/4 inch bore suits common fill necks.",
     "specs": [
       "1 1/4 inch, 10 ft fill hose",

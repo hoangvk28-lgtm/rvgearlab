@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51-XVY+eCzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FHM96LTK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FHM96LTK?tag=rvgearlab-amz-20",
     "description": "The Buck RV roof sealant tape is 6 inches by 55 feet at 40 mil. Its listing names skylights, vents, windows and seams, says it stays flexible from -40 to 140 degrees F, and bonds to EPDM, TPO, PVC, Hypalon, aluminum, steel and fiberglass.\n\nIt is the widest tape in this list and the one that spells out skylights and a long list of surfaces. The 4 inch Buck gives up two inches of overlap for a lower price.\n\nIt fits owners who need generous overlap around a wide skylight flange. On rv roof repair tape for skylights, wide skylight flanges is where it fits.",
     "specs": [
       "6 in x 55 ft, 40 mil",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/519mz9k8KML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FJ2X5F4P?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FJ2X5F4P?tag=rvgearlab-amz-20",
     "description": "The Buck 4 inch by 55 foot tape has the same 40 mil butyl construction and temperature range as the 6 inch roll. It names skylights, vents, seams and windows and needs no primer or heat gun.\n\nIt costs noticeably less than the 6 inch roll. It gives enough overlap for most narrow flanges.\n\nIt fits owners who want the Buck system for standard vent and skylight edges. On rv roof repair tape for skylights, standard flanges is where it fits.",
     "specs": [
       "4 in x 55 ft, 40 mil",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/413bARK2NSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F211YPX1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F211YPX1?tag=rvgearlab-amz-20",
     "description": "The AMOGATO 6 inch by 50 foot white tape has a butyl rubber backing and stays flexible from -40 to 248 degrees F. It bonds to EPDM, TPO, metal and fiberglass and the listing says it removes cleanly without residue.\n\nIts upper temperature figure is higher than Buck's 140 degrees F. It costs far less than the Buck 6 inch.\n\nIt fits owners in hot climates who want a wide white tape. For rv roof repair tape for skylights, it suits hot climate roofs.",
     "specs": [
       "6 in x 50 ft white",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41XzNTvjYCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B008HMYZKO?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B008HMYZKO?tag=rvgearlab-amz-20",
     "description": "EternaBond's white RoofSeal in 4 inch by 25 foot form carries MicroSealant at 35 mil total thickness with an aluminum backing that holds up under UV. The maker positions it as a stand-alone seal.\n\nIt is shorter than the Buck rolls, which suits a single skylight rather than a whole roof. It is white.\n\nIt fits owners who want the MicroSealant system for one or two skylights. With rv roof repair tape for skylights, one or two skylights fits it best.",
     "specs": [
       "4 in x 25 ft white",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41nSMSW60dL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CMHT3KBS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CMHT3KBS?tag=rvgearlab-amz-20",
     "description": "The MOGOFE Yellow Titan 4 inch by 50 foot white butyl tape seals roofs, windows and doors. Its listing says it works on flat, curve or corner surfaces with a clean, cut, peel, lay, press process.\n\nIts corner use matters for skylight frames. It costs less than Buck.\n\nIt fits owners who want an inexpensive tape for corners. On rv roof repair tape for skylights, corner repairs is where it fits.",
     "specs": [
       "4 in x 50 ft white",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41KfYwqr-xL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D2VYSGJW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D2VYSGJW?tag=rvgearlab-amz-20",
     "description": "The CHUANGSEED white tape is titled 4 inch by 50 feet with PDA film backed by butyl rubber. It lists waterproof, airtight, UV and chemical resistance.\n\nIts bullets mention 6 inches, so the width is inconsistent. It is among the lowest priced rolls here.\n\nIt fits owners who will check the width before buying. On rv roof repair tape for skylights, budget buyers who verify size is where it fits.",
     "specs": [
       "PDA film with butyl",

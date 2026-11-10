@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/419zRgz+qrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FH6TZM9D?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FH6TZM9D?tag=rvgearlab-amz-20",
     "description": "The ihuan Thermal is a waterproof kids ski glove with a high-quality thermal lining described as holding insulation even in freezing temperatures. It has a non-slip palm, an adjustable hook-and-loop wrist strap and touchscreen-friendly fingertips.\n\nCompared with the Odtmger Double Fleece, it adds a wrist strap and a touchscreen finger. Against the Azarxis Mittens, it offers separate fingers for better dexterity.\n\nIt suits kids who ski, sled and need warm hands for long mornings. The wrist strap seals out snow and is easy for children to adjust.",
     "specs": [
       "Waterproof, thermal lining",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51MmDHcgYxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09DGG2WHW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09DGG2WHW?tag=rvgearlab-amz-20",
     "description": "The Odtmger Double Fleece is a ski glove made of double-thickened thermal fleece, waterproof TPU and a splashproof outer, with a built-in waterproof PU lining. The palm has a soft anti-slip PU leather patch, the thumb and forefinger have touchscreen PU and the cuff adjusts.\n\nCompared with the ihuan Thermal, it layers fleece, a TPU membrane and an outer shell. Against the WFX Fleece, it adds a true waterproof lining and a parent-child matching size range.\n\nIt suits families who want a matching warm glove from toddler to adult sizes. The listing mentions skiing, snowboarding and sledding.",
     "specs": [
       "Double thermal fleece, waterproof TPU",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/419H-gwfTlL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07ZGPV1BY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07ZGPV1BY?tag=rvgearlab-amz-20",
     "description": "The Azarxis Mittens use water-resistant polyester designed on the lotus leaf principle, with multi-layer insulation and a fleece lining. The palm is diamond-patterned PU leather, and the cuffs are highly elastic knit with a hook-and-loop closure and an anti-loss buckle.\n\nCompared with the ihuan Thermal, they are mittens, which keep fingers together for more warmth. Against the Odtmger Double Fleece, they have a knit cuff and a simpler build.\n\nIt suits younger kids who need the warmest style and do not need finger control. S fits ages 6 to 7 and M fits ages 8 to 10.",
     "specs": [
       "Water-resistant shell, fleece lining",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31OinUi7QfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B8SQRLMP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B8SQRLMP?tag=rvgearlab-amz-20",
     "description": "The SIMARI Fleece is a stretchy spandex and thermal polar fleece glove with conductive PU fingertips and a water-resistant coating. The palm and fingertips have anti-slip silicone and reflective details.\n\nIt is a thinner, lighter glove than the ihuan Thermal and Odtmger Double Fleece, and it is windproof. Compared with the WFX Fleece, it adds a water-resistant coating and ages 3 to 15 in sizing.\n\nIt suits kids who want a light layer for cool days or as a liner under mittens. The listing says it is for cool fall or early winter.",
     "specs": [
       "Spandex and thermal polar fleece",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41VnWIjBY5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DP4MZR8J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DP4MZR8J?tag=rvgearlab-amz-20",
     "description": "The WFX Fleece is a kids sports glove with a thick fleece lining, conductive thumb and forefinger fabric and silicone grips on the palms and fingers. The listing calls it windproof, insulated and suited to running, hiking and ski sports.\n\nIt is the lowest-priced pair and the lightest on waterproofing. Compared with the SIMARI Fleece, it has a thicker fleece and a windproof shell.\n\nIt suits active kids who run, cycle and ski in cold, dry conditions. The silicone grips help on handlebars and poles.",
     "specs": [
       "Thick fleece lining, windproof",

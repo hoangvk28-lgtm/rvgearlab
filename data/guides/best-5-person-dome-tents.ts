@@ -32,7 +32,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ZqaK539ML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GCH8VK23?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GCH8VK23?tag=rvgearlab-amz-20",
     "description": "The 12'x10'x8' Dome Camping Tent names 5 to 6 sleepers, with a 12 by 10 foot floor, an 8 foot peak and a two-layer build with mesh. It uses 190T polyester and 150D Oxford fabric and carries a four-season label at $169.95.\n\nCompared with the Rotihom bubble tent below it, this dome offers more floor area and a fabric shell that stays cooler in sun. Compared with the Happy Travel, it adds a four-season label, a two-layer build and a taller roof for standing room.\n\nIt is the right tent for families of five who want a roomy base camp, stand-up headroom and weather coverage for a few nights beside the coach.",
     "specs": [
       "5 to 6 person, 12x10x8 ft",
@@ -62,7 +62,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/516affr565L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FWR12YC8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FWR12YC8?tag=rvgearlab-amz-20",
     "description": "The Rotihom 12x7 Ft Bubble Tent is a clear PVC dome rated for 4 to 5 people, offering a 360 degree view. Snap-fit pole connectors, a thick frame with supports and a large zipper make it quick to pitch at $284.99.\n\nCompared with the fabric domes in this roundup, the Rotihom turns the whole shelter into a window on the sky, ideal for stargazing at a fixed site. Compared with the 12 by 10 foot dome above it, it gives an experience no fabric tent can match.\n\nIt is a wonderful fit for couples and small groups who camp at a single spot and want to sleep under the stars while staying sheltered.",
     "specs": [
       "4 to 5 person, 12x7 ft",
@@ -92,7 +92,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31J8olyf7WL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DHP333DP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DHP333DP?tag=rvgearlab-amz-20",
     "description": "The Happy Travel Camping Tent comes in 4 and 6 person sizes, with the 4 person at 8.7 by 8 feet. It uses 190T taffeta and a removable rainfly, includes a large mesh top for stargazing and has an electrical access port, at $69.99.\n\nCompared with the 12 by 10 foot dome above it, this tent delivers a quick, light setup at a fraction of the price. Compared with the bubble tent, it gives airy mesh views and a rainfly you can leave off in warm weather.\n\nIt suits budget campers, kids camping beside an RV and summer weekends where a fan or light needs a cord through the electrical port.",
     "specs": [
       "4 or 6 person sizes",

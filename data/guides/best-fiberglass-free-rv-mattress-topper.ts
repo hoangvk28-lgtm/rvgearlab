@@ -27,7 +27,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51VbKK8tpkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FMRCCCQ8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FMRCCCQ8?tag=rvgearlab-amz-20",
     "description": "The Bestier is a gel-infused memory foam topper in full size (54 by 74 inches) with a Tencel cover and 3D mesh sides. The maker states it is completely free from fiberglass and heavy metals, and the foam is CertiPUR-US certified, so both the cover and the foam carry a clear safety statement.\n\nCompared with the Sure2Sleep, it adds four adjustable elastic straps and a non-slip bottom, so it stays put in a moving camper. The cover is removable and machine washable, which makes it easier to keep fresh in a small space. At 4 inches thick it is also more cushioning than the 3 inch Sure2Sleep, and the gel infusion and breathable Tencel fabric work together to move heat away.\n\nIt suits RV owners with a full bed who run warm, share a bed or want a topper that does not shift on bumpy roads. If you are sensitive to fiberglass and want a thick, strapped, washable topper in a size that matches a short full or double RV mattress, this is the strongest match here.",
     "specs": [
       "Full, 54 x 74 inches",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Lyj6Q1USL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07WJJ64YN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07WJJ64YN?tag=rvgearlab-amz-20",
     "description": "The Sure2Sleep is a 3 inch cooling gel swirl memory foam topper made in the USA and CertiPUR-US certified. The maker states it is made without harmful chemicals, fiberglass or toxins, and it comes with a 30-night trial and a 3-year warranty, which gives you time to judge the feel in your own camper.\n\nWhere the Bestier adds straps and a Tencel cover, the Sure2Sleep keeps it simple at a lower price, saving about $57. Its open-cell foam boosts airflow to draw heat away, and the 3 inch profile adds comfort with less height, which helps when a bed sits close to a slide-out or an overhead cabinet. The longer warranty and trial period are also stronger than many budget toppers offer.\n\nIt suits buyers with a compact bunk or single bed, since the version pictured here is the Twin XL size. Kids' bunks, a guest berth and a single sleeper who wants a fiberglass-free topper without paying for extras will find it a practical, low-cost choice.",
     "specs": [
       "3 inch gel swirl foam",

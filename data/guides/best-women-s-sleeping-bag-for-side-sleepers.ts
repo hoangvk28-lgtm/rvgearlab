@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31uYJysgEgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B06WGSNZ66?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B06WGSNZ66?tag=rvgearlab-amz-20",
     "description": "The Marmot Women's Trestles is a 15° synthetic bag with SpiraFil high-loft insulation and a water-resistant shell. It has an anatomical 3D footbox, wave construction on top and blanket construction on the bottom, plus a locking YKK two-way zipper.\n\nCompared with the JEAOUIA, it is a proper women's cut from a mountain brand and is rated far colder. Against the MEREZA XL, it trades width for a designed footbox and a technical build.\n\nIt suits women who sleep on their side and also want real cold-weather performance. A compression stuff sack comes included for the trip home.",
     "specs": [
       "15° rated, SpiraFil insulation",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41pVqDtlHqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BY7SQN4W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BY7SQN4W?tag=rvgearlab-amz-20",
     "description": "The MEREZA XL is an 86.6 by 32.3 inch boxy bag that the listing says fits campers up to 6 feet. Its filling reaches 3.5 pounds and feels comfortable at 59°F, with a 210T ripstop waterproof shell and a double pull tab zipper.\n\nNext to the Marmot Trestles, it gives a flat rectangular space you can curl up in, at a fraction of the cost. Against the JEAOUIA, it is wider and heavier on fill, and it is marketed as 20% larger than most adult bags.\n\nIt suits side sleepers who feel boxed in by mummies and camp in warm to mild weather. The storage bag packs it down quickly.",
     "specs": [
       "86.6 x 32.3 inch boxy shape",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41LcfXUmlTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B092D68L7B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B092D68L7B?tag=rvgearlab-amz-20",
     "description": "The JEAOUIA is a 31.5 by 86.6 inch bag that fits campers up to 5 ft 11 in. It weighs 3 pounds, packs to about 7.9 to 14.2 inches, and has a hood drawstring and a foot zipper for venting.\n\nCompared with the MEREZA XL, it is lighter and smaller, and it is the one meant for summer weather. Against the Marmot Trestles, it is much simpler and meant for warm backpacking trips.\n\nIt suits light packers who want a cheap summer bag with an easy-clean 190T nylon shell. The foot zipper lets you cool off without leaving the bag.",
     "specs": [
       "3 lb, packs to 7.9 inches",

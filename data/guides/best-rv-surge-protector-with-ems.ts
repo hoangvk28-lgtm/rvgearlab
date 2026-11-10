@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41xaBDuq-yL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B015Y9A4HU?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B015Y9A4HU?tag=rvgearlab-amz-20",
     "description": "The Progressive Industries SSP-50XL is a portable 50 amp smart surge protector rated for 120-240V and 12,000 watts. Its listing names protection against over and under voltage, open ground and neutral, so the fault coverage is spelled out, which is the key EMS question.\n\nAt $68.39 it is $331.60 below the Power Watchdog 50A and $36.08 below GEARGO 50A. It gives up WiFi alerts and a replaceable module. Pick this if you want proven fault coverage at a low price; the caveat is that it has no app, so you only see problems at the pedestal.",
     "specs": [
       "50A, 120-240V",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31OJukA1iCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DC17VXTL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DC17VXTL?tag=rvgearlab-amz-20",
     "description": "The Power Watchdog PWD50EPOW is a 50 amp smart protector with WiFi, IP65 and wireless fault alerts, plus a replaceable surge module that you swap instead of buying a whole unit.\n\nAt $399.99 it costs $331.60 more than the Progressive SSP-50XL and $90.00 more than the Power Watchdog 30A. The money buys phone alerts and a module you can replace after a big surge. Pick this for a full-timer who wants alerts while away; the caveat is the price.",
     "specs": [
       "50A, WiFi, IP65",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Dpu+Z9E3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07PRS5NPB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07PRS5NPB?tag=rvgearlab-amz-20",
     "description": "The Power Watchdog PWD30EPO is a 30 amp Bluetooth protector with 3,000 joules of surge protection, a smart circuit analyzer that shuts power down on a dangerous event, and a built-in 90-second power-on delay after a fault.\n\nAt $309.99 it is $90.00 below the 50A version and $250.00 above the Rvhouse 30A. The 90 second delay is a stated number, rare in this price class. Pick this for a 30A rig with a costly AC; the caveat is the modest joule figure.",
     "specs": [
       "30A, Bluetooth, IP65",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41LZd-zeJJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GT13LFG4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GT13LFG4?tag=rvgearlab-amz-20",
     "description": "The GEARGO 50 Amp offers 20,000 joules, auto shutoff and reset, a circuit analyzer with thermal protection and a real-time LED display for voltage and wiring status. It sells for $104.47.\n\nIt is $36.08 above the Progressive SSP-50XL but has a bigger surge rating and a live display. Pick this if lightning is your main worry; the caveat is that its cutoff thresholds and reconnect delay are not named.",
     "specs": [
       "50A, 20,000 joules",
@@ -133,7 +133,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ZlfAV7LkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FT3JYF9X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FT3JYF9X?tag=rvgearlab-amz-20",
     "description": "The Rvhouse 30A carries 14,000 joules, a smart LED display with kWh tracking and an auto power cut in under a second when it detects a fault. It costs $59.99.\n\nIt is $8.40 below the Progressive SSP-50XL but serves 30A, and $250.00 below the Power Watchdog 30A. It gives up the stated 90 second delay and app. Pick this as the cheapest EMS-style unit; the caveat is that reconnect timing is not listed.",
     "specs": [
       "30A, 14,000 joules",

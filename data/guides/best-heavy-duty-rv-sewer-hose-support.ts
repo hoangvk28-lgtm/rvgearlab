@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41q2Fg3JaxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07D9287TP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07D9287TP?tag=rvgearlab-amz-20",
     "description": "The Camco Rhino kit contains six 30 inch sections with four stakes each and supports up to 20 feet of sewer hose. Once the stakes are locked, the cradle lifts up to 10 inches off the ground, and six independent troughs make turns or climb curbs.\n\nIt costs twice as much as the Camco Sidewinder 15 Ft and is the only pick with stakes. The stakes are what let it hold position on slopes and soft ground.\n\nBest for rough pads, curbs and slopes that need a locked-down support. A truly heavy-duty setup.",
     "specs": [
       "Six 30 inch sections, stakes",
@@ -53,7 +53,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41l6NvwtmJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B71QSK7R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B71QSK7R?tag=rvgearlab-amz-20",
     "description": "The GESUNDTEK kit features independent troughs in five heights that can make turns or go over a curb. It sets up and stores in seconds with no assembly and is described as weatherproof, durable and corrosion resistant.\n\nIt costs about half the Camco Rhino and uses height steps instead of stakes. The independent troughs give more layout freedom than a telescoping unit.\n\nBest for pads with obstacles where stakes are not an option. A strong mid-priced pick.",
     "specs": [
       "Independent troughs, five heights",
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410KonpHTBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09MWKCLSB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09MWKCLSB?tag=rvgearlab-amz-20",
     "description": "A telescoping plastic cradle that folds away, the Camco Sidewinder 15 foot support is built around gravity flow. It curves around obstacles and stays closed when stored.\n\nIt costs about the same as the GESUNDTEK and is a single unit with no loose parts. Compared with the Sidewinder 10 foot, it adds five feet.\n\nBest for 15 foot hoses on moderately rough pads. A durable branded choice.",
     "specs": [
       "15 ft telescoping plastic",
@@ -107,7 +107,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41gGQBztXLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B000EDQQJ2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B000EDQQJ2?tag=rvgearlab-amz-20",
     "description": "The Camco Sidewinder 10 foot support has the same telescoping, folding plastic design with a built-in carry handle. It is sized for a 10 foot hose and stays compact when closed.\n\nIt costs less than the 15 foot Sidewinder and adds a carry handle. It is the best choice here for short runs that still need a solid build.\n\nBest for short hoses where a rugged support is wanted. A small, tough choice.",
     "specs": [
       "10 ft telescoping plastic",
@@ -134,7 +134,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51bgmu6EbvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DP8PQXJP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DP8PQXJP?tag=rvgearlab-amz-20",
     "description": "The WELLUCK 20 foot support has an upgraded steeper slope with nine height settings and four guy ropes plus a storage strap. It is made of weather-resistant plastic described as resistant to wind, rain and UV.\n\nIt costs about the same as the Kohree 15 foot and adds guy ropes, which no other accordion pick offers. The ropes give it the anchoring that heavy-duty use calls for.\n\nBest for windy sites on a budget. A smart anchored accordion pick.",
     "specs": [
       "20 ft, nine height settings",
@@ -161,7 +161,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41XdAlc9IkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DJT3C36B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DJT3C36B?tag=rvgearlab-amz-20",
     "description": "Polypropylene gives the Kohree 15 foot support its accordion body and deep U cradle. Height changes are built in, and no assembly is needed.\n\nThis is the cheapest support in the group and the listing names polypropylene as the material. Compared with the WELLUCK, it skips the ropes.\n\nBest for light use on flat pads. A simple, durable base.",
     "specs": [
       "15 ft accordion, polypropylene",

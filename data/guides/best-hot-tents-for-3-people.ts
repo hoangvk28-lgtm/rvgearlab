@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ybzCa4wuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GZ1X86Z8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GZ1X86Z8?tag=rvgearlab-amz-20",
     "description": "The Dandelion Shell Teepee is listed for 3 to 4 people and is built from 70D single-sided silicone-coated polyester. It has a heat-resistant stove jack, reinforced stress points, a double zipper and a layout that accommodates a wood stove inside.\n\nIt is the one pick here that names 3 to 4 people in the title and the stove-compatible design in the feature list, where the WaldWander leans on a 2 to 4 person range. Against the Naturehike it uses a silicone-coated polyester body instead of 210T flame-retardant polyester.\n\nIt suits a trio that plans to cook and heat inside on cold nights. The all-season design lets it work in summer when the stove stays home.",
     "specs": [
       "3 to 4 person capacity",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31s1MdOIU7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CDBYTG89?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CDBYTG89?tag=rvgearlab-amz-20",
     "description": "The Naturehike Ranch Fire is a double-wall tipi with a 10.8 by 10.8 by 6.9 foot shelter and a mesh inner tent included. The listing calls it suitable for 3 to 4 people and gives a fire-retardant stove jack, snow skirt, two doors and about 10.6 lbs of weight.\n\nNext to the Dandelion it adds the mesh inner tent and a published floor size. Compared with the WaldWander it has a tighter 10.8 ft footprint and adds the inner tent plus a flame-retardant fabric.\n\nIt suits three campers who want bug protection in warm weather and a stove option in cold weather. The 6.9 ft peak gives upright space in the middle.",
     "specs": [
       "10.8 ft tipi, 6.9 ft peak",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ukGLGJTfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F62YRZ3B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F62YRZ3B?tag=rvgearlab-amz-20",
     "description": "The WaldWander Tipi has a 13.12 foot diameter and a 6.89 foot standing height, made from 68D 210T ripstop polyester with a PU coating good for 3000mm. The kit includes a stove jack, center pole, 14 pegs, 6 wind ropes and a bag, and the whole tent weighs about 7 pounds.\n\nIt offers the widest floor of the three, 13.12 ft against the Naturehike's 10.8 ft, at roughly 3.5 lbs less. A foldable snow skirt, opposite doors and two roof vents handle ventilation and winter wind.\n\nIt suits a trio that needs floor space and packs light. The title says 2 to 4 person, so it works as a three-person tent with generous room.",
     "specs": [
       "13.12 ft diameter, 6.89 ft peak",

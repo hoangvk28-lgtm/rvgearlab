@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410knL1bxfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G6K63X8V?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G6K63X8V?tag=rvgearlab-amz-20",
     "description": "The ANJOUFEMME is a women's mid-cut boot with a sealed waterproof membrane that locks out rain, slush and mud. Deep, aggressive rubber lugs, a structured heel and a cushioned EVA midsole round out the build.\n\nIt is the only mid-cut collar here with a stated structured heel, which gives more ankle support than the NINGO Seam-Sealed and the NORTIV Women's Suede. Abrasion-resistant materials and reinforced stitching are named, which the NORTIV Men's Toe Cap does not list.\n\nIt suits a woman who hikes uneven ground and wants ankle structure while staying under the budget ceiling. It is the priciest here, near the top of what the ceiling allows.",
     "specs": [
       "Sealed waterproof membrane",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Xszz--giL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CC8VS537?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CC8VS537?tag=rvgearlab-amz-20",
     "description": "The NORTIV 8 Men's boot pairs a waterproof membrane with a suede leather upper, a rubber-capped toe and a reinforced heel counter. A multi-directional traction outsole, a removable flexible insole and a shock-absorbent MD midsole are listed.\n\nToe cap and heel reinforcement give it more protection against knocks than the NINGO Seam-Sealed lists, and the suede upper is stated as wear-resistant. It costs less than the ANJOUFEMME Mid-Cut.\n\nIt suits a man who hikes, hunts or camps and wants a boot that takes scuffs. It also works for everyday wear.",
     "specs": [
       "Waterproof membrane, toe cap",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31EWppSg6BL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C9J49MK1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C9J49MK1?tag=rvgearlab-amz-20",
     "description": "The NORTIV 8 Women's boot pairs a waterproof membrane lining with a soft suede upper trimmed in rubber and a protective toe cap. A textured sole, a heel-cupped insole with light arch support and a padded collar complete it.\n\nIt offers a toe cap and padded collar that the ANJOUFEMME Mid-Cut does not list, at a lower price. The heel cup and micro arch support give it more shaped comfort than the NINGO Seam-Sealed.\n\nIt suits a woman who wants a cushioned, protective boot for day hikes and travel without spending near the ceiling. The padded collar makes the first miles easier.",
     "specs": [
       "Waterproof membrane lining",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41phD2x5qnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GHQ62Z1W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GHQ62Z1W?tag=rvgearlab-amz-20",
     "description": "The NINGO is a men's hiking shoe-style boot with a seam-sealed membrane, a one-piece gusseted tongue and an ETPU midsole listed as 25 percent lighter and 40 percent more responsive than EVA. A TPU shank, a removable arch-support insole, deep lugs and a reinforced toe cap are named.\n\nIt has the lowest price of the four and the most modern midsole, ETPU, which the NORTIV 8 Men's Toe Cap does not list. The TPU shank adds torsional support that the ANJOUFEMME Mid-Cut does not describe.\n\nIt suits a man who wants a lightweight, cushioned boot for creek crossings and long days. The gusseted tongue keeps debris out.",
     "specs": [
       "Seam-sealed membrane, gusseted tongue",

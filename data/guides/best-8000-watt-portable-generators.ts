@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51tss4IH3iL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CZGTHDJF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CZGTHDJF?tag=rvgearlab-amz-20",
     "description": "The WEN DF8000X is a 340cc dual fuel unit rated at 8000 surge and 6500 rated watts on gasoline, and 7200 surge and 5850 rated watts on propane. It has electric start, a 6.7 gallon tank for up to 10.5 hours at half load, a wheel kit and a CO Watchdog shutdown sensor.\n\nAgainst the Briggs and Stratton it adds propane operation and a carbon monoxide shutoff, and it carries a lower price. Its outlet set includes a TT-30R RV receptacle and an L14-30R twist lock for a transfer switch.\n\nIt suits campers and homeowners who want to run the same generator on gas or a propane tank. The listing also names it as RV-ready.",
     "specs": [
       "8000 surge, 6500 rated watts",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41fsbusIn6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0845XVNY2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0845XVNY2?tag=rvgearlab-amz-20",
     "description": "The Briggs and Stratton 8000 watt generator uses a 420cc Briggs and Stratton engine with Power Surge technology, electric start and a remote choke. Its panel has four GFCI 120V outlets and one 120/240V 30A locking outlet, and the 7 gallon metal tank is rated for 9 hours at 50 percent load.\n\nCompared with the WEN it has a larger engine and a metal tank, which suits long run times and rugged use. It runs on gasoline only, while the WEN adds propane and a CO sensor.\n\nIt suits buyers who want a proven engine brand for home backup and large campsites. Power Surge handles the starting load of motor-driven tools and appliances.",
     "specs": [
       "420cc Briggs engine, electric start",

@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31pQrRly2eL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FRH7YQJX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FRH7YQJX?tag=rvgearlab-amz-20",
     "description": "The MaxxHaul 51191 is a complete weight distribution system sold as a sway control kit, with a 2 inch solid steel shank, a 2-5/16 inch ball and an 11,500 lb capacity in the title. The listing also mentions tapered spring bars, control brackets and a lift-assist bar, so it is one of the few picks here that arrives ready to hook up.\n\nNext to the VEVOR below it, the MaxxHaul advertises a far higher capacity figure and an 8.5 inch deep-drop shank for taller trucks. Compared with the bar kits further down the list, it also levels the truck and trailer, which a friction bar alone does not do.\n\nBest for a travel trailer owner who wants one boxed system and drives a truck that needs a deep drop. The listing does not state the sway mechanism type, so confirm how the control brackets work before assuming a specific style.",
     "specs": [
       "11,500 lb capacity listed",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31YvnyB3NOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F21W82JQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F21W82JQ?tag=rvgearlab-amz-20",
     "description": "The VEVOR is another weight distribution hitch with sway control, listed with a 1,500 lbs capacity, a 2 inch solid steel shank and a 2-5/16 inch alloy steel ball. The listing describes a four-way dynamic stability system and a tilt-head design for quick height calibration.\n\nCompared with the MaxxHaul above, it sells for less but the capacity wording is different and harder to compare, since the 1,500 lbs figure is not clearly labeled as tongue weight or trailer weight. Compared with the Shocker kit below, it is a full leveling system rather than a single bar.\n\nBest for a first-time buyer who wants an all-in-one hitch for less. Read the capacity figure with the seller before you buy so you can match it to your trailer's loaded tongue weight.",
     "specs": [
       "1,500 lbs capacity listed",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31VB3R1TQYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CP8LTD7F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CP8LTD7F?tag=rvgearlab-amz-20",
     "description": "The Shocker Sway Control Friction Arm Bar and Ball Kit is a stand-alone adjustable friction bar with a trailer-mounted ball and a mini hitch ball. The listing says to use one system for trailers under 10K and two systems for trailers over 10K.\n\nUnlike the first two picks, it does not distribute weight, and unlike the RVGUARD below it, it is built around Shocker's own sway tab mounts. The listing says it is used with Shocker hitches that have mounting tabs and can work with other mounts that have tabs.\n\nBest for a trailer owner whose mount already has sway tabs. If your ball mount has no tab, you will need an adapter, so check that before you order.",
     "specs": [
       "One kit under 10K trailers",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31zdljn-nwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CL65P2C9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CL65P2C9?tag=rvgearlab-amz-20",
     "description": "The RVGUARD Adjustable Sway Control Kit is a right-handed bar kit that includes a slide bar, crank handle, spring clips, a friction plate, a tongue ball plate, self-tapping screws and a tongue ball. The listing highlights adjustment for different trailer weights and towing conditions.\n\nCompared with the Shocker kit above, it costs less and ships with the trailer-side plate and screws, though the listing offers no weight guidance such as a trailer limit. Compared with the JIANBENKJ below, it is a working bar rather than only an adapter.\n\nBest for a budget buyer who wants a complete bar for a single driver-side mount. Remember it is a right-handed kit, so confirm which side your trailer needs.",
     "specs": [
       "Right-handed bar kit",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/2111sWSYyFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7HLYJZH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7HLYJZH?tag=rvgearlab-amz-20",
     "description": "The JIANBENKJ is a ball mount adapter listed as a replacement for part number 26003, made for Class III and Class IV 2 inch square ball mounts. It lets a friction bar attach to a ball mount that has no tab of its own.\n\nIt is not a sway control system by itself, which sets it apart from every pick above it. It pairs with a bar kit like the RVGUARD or Shocker, and the listing says no welding is needed.\n\nBest for someone who already owns a bar and needs a place to mount it. Skip it if you do not have the bar yet, because the adapter does nothing alone.",
     "specs": [
       "Replaces part 26003",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41sdPwzXzML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B000HLU8IG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B000HLU8IG?tag=rvgearlab-amz-20",
     "description": "The CURT 17201 is a trailer-mounted sway control ball that attaches to the trailer frame so a CURT 17200 sway control unit has something to connect to. It comes with four self-tapping bolts and a powder coat finish, and the listing says some drilling is required.\n\nCompared with the JIANBENKJ above, which sits on the tow vehicle side, this part sits on the trailer side, so the two are complementary. It is the cheapest and least complete pick on the list.\n\nBest for someone who already runs a CURT 17200 bar and needs a replacement or second frame ball. Anyone building a new setup should buy the bar first.",
     "specs": [
       "Trailer frame mount ball",

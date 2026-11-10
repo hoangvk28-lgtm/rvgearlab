@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41afM-yvDTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GY8WY7LL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GY8WY7LL?tag=rvgearlab-amz-20",
     "description": "The Daran 300W lists a 192Wh LiFePO4 battery, 300W continuous and 600W peak across two AC outlets, and a 60W USB-C PD port. It weighs 5.84 lb, measures 8.4 by 5.3 by 7.4 inches, and costs $139.99.\n\nIt costs $60.00 less than the Daran R200 and has 100W more AC output, though the R200 adds 100W USB-C and built-in MPPT. Pick this if you want the most output for the money. The caveat is that 192Wh runs a CPAP for only a night.",
     "specs": [
       "192Wh LiFePO4, 300W AC",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41raMn+AHDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H878NF4W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H878NF4W?tag=rvgearlab-amz-20",
     "description": "The Daran R200 lists 192Wh of LiFePO4, 200W rated and 400W surge on two pure sine AC outlets, and a 100W bi-directional USB-C port. It charges in about 2 hours by AC, solar with MPPT, car port or USB-C, at $199.99.\n\nIt costs $60.00 more than the Daran 300W and gives 100W less AC output, so the premium buys the 100W USB-C and MPPT. Pick this if you mainly charge laptops and want fast USB-C. The caveat is weight, which is not listed.",
     "specs": [
       "192Wh LiFePO4, 200W AC",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41vZtm9ylGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DR89VFT8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DR89VFT8?tag=rvgearlab-amz-20",
     "description": "The SinKeu lists 122.8Wh of UL-certified LiFePO4 with 150W continuous AC, pass-through charging, and 3,500 cycles. It weighs 4 lb, measures 7.5 by 4.5 by 6.5 inches, and charges by AC in about 4 hours, at $69.99.\n\nIt costs $70.00 less than the Daran 300W and gives up 70Wh and 150W. Pick this if you want a UL-certified small unit for phones, laptops and fans. The caveat is that 150W cannot start a mini fridge compressor over 100W reliably.",
     "specs": [
       "122.8Wh LiFePO4, 150W AC",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Iof-fnBBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G3XBT83Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G3XBT83Q?tag=rvgearlab-amz-20",
     "description": "The DaranEner lists 89.6Wh of LiFePO4 with two 100W AC outlets, a 45W USB-C PD port, and a 60W DC port. It weighs 2.54 lb, measures 6.5 by 3.3 by 4 inches, and reaches 80% in 1.5 hours, at $71.99.\n\nIt costs $2.00 more than the SinKeu 150W and gives 33.2Wh less capacity and 50W less AC. Pick this for the smallest, lightest pack. The caveat is that 89.6Wh is only a few phone charges plus a laptop.",
     "specs": [
       "89.6Wh LiFePO4, 100W AC",

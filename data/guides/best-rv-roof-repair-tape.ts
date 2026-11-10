@@ -31,7 +31,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41jtqxS8GuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B002RSIK4G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B002RSIK4G?tag=rvgearlab-amz-20",
     "description": "The EternaBond RoofSeal in 4 inch by 50 foot white is a 35 mil MicroSealant tape with a UV stable backing, priced at $55.00. The listing describes the original MicroSealant system, which bonds to a wide range of roof surfaces without extra sealing.\n\nIt costs more than any butyl roll in the guide, and it earns the premium with a thick sealant layer and a backing built to resist sunlight for years. The 4 inch width gives a wide bonding area on each side of a seam, a crack or a vent flange, which is the reason it leads the lineup for permanent repairs.\n\nOwners who want a long term fix on a seam, a skylight edge or a vent boot and are willing to pay for a recognized system will find it the strongest pick.",
     "specs": [
       "4 in x 50 ft white",
@@ -59,7 +59,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41+zi-7LuRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B075V98PQY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B075V98PQY?tag=rvgearlab-amz-20",
     "description": "The EternaBond 2 inch by 50 foot white roll carries the same 35 mil MicroSealant and UV stable backing as the 4 inch, at $41.00. It is the narrower, cheaper way to buy the brand's system.\n\nAgainst the 4 inch roll at $55.00, it saves $14 and suits narrow seams, trim edges and joints where a wide band would hang over the edge. Compared with the budget butyl rolls, it brings the same MicroSealant build in a thin strip rather than switching to a softer compound.\n\nIt fits owners who want the brand's sealant system on a narrow seam, a roof edge or the joint around a fixture, without paying for width they will not use.",
     "specs": [
       "2 in x 50 ft white",
@@ -87,7 +87,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41MQZehLp2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08JM337PP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08JM337PP?tag=rvgearlab-amz-20",
     "description": "The WELLUCK is a 6 inch by 50 foot white butyl tape made without binders or fillers and resistant to UV, priced at $32.95. A 6 inch width gives wide overlap on tears and seams, and a white finish reflects sunlight.\n\nIt costs about $22 less than the 4 inch EternaBond and doubles the width of the 4 inch butyl rolls, which makes it the strongest budget answer for wide repairs. The no extra sealing needed claim and a simple peel and press install keep the job easy for someone doing it alone.\n\nOwners with a wide crack, a long seam or a patch over a tear who want coverage for the dollar will find it the best butyl value.",
     "specs": [
       "6 in x 50 ft white",
@@ -115,7 +115,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41x1gnDTEfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D95XF7N8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D95XF7N8?tag=rvgearlab-amz-20",
     "description": "The generic RV Roof Sealant Tape is a 6 inch by 50 foot roll at $27.54, with a flexible high expansion adhesive and a silicone protective layer. The listing describes a three step install and weather resistance.\n\nIt is the lowest priced 6 inch roll in the guide, undercutting WELLUCK by about $5, and the flexibility helps on a roof that expands and contracts with heat. Compared with the 4 inch rolls at $21.39 and $22.99, it adds two inches of width for a few dollars more.\n\nIt works well for flexible, low cost repairs on aging roofs where a wide band and an expansion tolerant adhesive are the priority.",
     "specs": [
       "6 in x 50 ft",
@@ -143,7 +143,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41JuD19rxxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09MTL24DB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09MTL24DB?tag=rvgearlab-amz-20",
     "description": "The RV Roof Tape in white 4 inch by 50 foot is a butyl tape priced at $22.99, with a list of compatible materials that includes metal, rubber, fiberglass and others. The listing describes resistance to rain, snow and wind.\n\nIt names more surfaces than the other rolls, which gives mixed roof owners an easy checklist, and it sits just above the RVINGPRO at $21.39. Compared with the 6 inch rolls, it trims width and cost, and against the EternaBond it gives a butyl alternative at less than half the price.\n\nIt suits owners with roofs that combine several materials, such as a rubber membrane with metal vent flanges, and who want a 4 inch band at a low price.",
     "specs": [
       "Butyl, 4 in x 50 ft",
@@ -171,7 +171,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41fpdmr8K-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09WV7RRLJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09WV7RRLJ?tag=rvgearlab-amz-20",
     "description": "The RVINGPRO is a 4 inch by 50 foot white roll at $21.39 that comes with a roller and uses wax paper backing for a smooth peel, plus a silicone protective coating. It is the lowest priced roll in the guide.\n\nThe included roller is the difference maker, since pressing tape firmly is the most common step beginners skip, and it saves buying a separate tool. Compared with the 4 inch roll at $22.99, it costs about $1.60 less and adds the roller, and next to the 4 inch EternaBond at $55.00 it undercuts the price by more than half.\n\nFirst time installers who want a complete, low cost kit and a smooth peel off backing will appreciate the roller and the price.",
     "specs": [
       "4 in x 50 ft white",

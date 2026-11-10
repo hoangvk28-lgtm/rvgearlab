@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/519wpDcVOSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GHNMQD41?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GHNMQD41?tag=rvgearlab-amz-20",
     "description": "The Hoysicy kit has a built-in 10A controller with an LCD display and protection against overcharge, over-discharge, over-voltage and short circuits. It lists dual USB ports, an IP65 waterproof panel and compatibility with LiFePO4, lithium, AGM, SLA and gel batteries.\n\nIt offers an LCD readout and named battery types that the SOLPERK 20W does not list as plainly. Compared with the SOLUPUP, it connects straight to a 12V battery in place of a USB port.\n\nIt suits campers and boaters who keep a 12V battery topped up in an RV, trailer or camper. The 360 degree bracket tilts to the sun through the day.",
     "specs": [
       "10A controller with LCD",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51rWzFoEVTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08GX19KT9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08GX19KT9?tag=rvgearlab-amz-20",
     "description": "The SOLPERK 20W kit is a monocrystalline panel with a smart 10A MPPT controller using three-stage charging. It lists low-iron tempered glass, a rustproof frame, a 360 degree mount and compatibility with LiFePO4 and lithium batteries.\n\nIt is the cheapest 12V kit in this list and is priced the same as the Hoysicy. Against the Hoysicy it drops the USB ports and LCD for a plain trickle charger.\n\nIt fits car, boat and trailer owners who want to keep a battery from sulking in storage. The kit includes an alligator clip and mounting hardware.",
     "specs": [
       "20W, 21% to 30% cells",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41q-DQbi4kL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D6VRQ4VQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D6VRQ4VQ?tag=rvgearlab-amz-20",
     "description": "The SOLUPUP 30W is a foldable panel whose two USB sockets (A and Type-C) top out at 15W, built on cells rated 23% or higher. It weighs 2.4 lbs, folds to 10.63 inches and includes carabiners and a cable.\n\nIt is the bigger foldable option for battery packs, with five times the Aocoray's wattage. Next to the Hoysicy it charges USB batteries, not a 12V bank.\n\nIt suits hikers and campers who recharge a power bank or phone in the daytime. A smart chip adjusts charging for the connected device.",
     "specs": [
       "30W foldable, 23% cells",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41h4NBgxeyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F9XGF24D?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F9XGF24D?tag=rvgearlab-amz-20",
     "description": "The Aocoray is a 5V 6W monocrystalline mini panel for phones, power banks, cameras, fans and lanterns. The listing calls it waterproof and scratch-resistant, with a mini size aimed at camping and hiking.\n\nIt is the smallest and cheapest panel here, at about a fifth of the SOLUPUP wattage. That keeps it light enough to hang from a pack.\n\nIt suits campers who only need to trickle a small power bank or a lantern through the day. The listing names the 5V USB output.",
     "specs": [
       "5V 6W monocrystalline",

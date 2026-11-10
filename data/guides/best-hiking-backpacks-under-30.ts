@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41sf8haubrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G4118CXH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G4118CXH?tag=rvgearlab-amz-20",
     "description": "The TILYMOL is a 30L pack in ripstop fabric with a water-resistant finish, a stowable hip belt, a shoulder-strap pocket for a phone and a hydration sleeve that holds up to a 3L bladder. A padded compartment protects a tablet or laptop.\n\nAt about $20 it undercuts the HCC9STPS by $5 and stands alone in this group with a hip belt, which moves load from your shoulders to your hips on longer walks. The belt stows away for casual use.\n\nIt suits day hikers and travelers who want one bag for the trail and the airport. The phone pocket keeps navigation within reach.",
     "specs": [
       "30L ripstop, water-resistant",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/414UuQN43eL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HCC9STPS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HCC9STPS?tag=rvgearlab-amz-20",
     "description": "This 30L pack weighs 1.2 lb in high-density ripstop nylon with a 15 inch laptop sleeve, a hydration strap, two front pockets and a hidden pocket. A 3D honeycomb mesh back panel, padded straps, a hydration port, elastic side pockets for 20oz bottles and a trekking pole holder complete it.\n\nAt about $25 it costs $5 more than the TILYMOL and trades the hip belt for a pole holder, reflective strips and D-rings. The mesh back panel keeps air moving on summer hikes.\n\nIt suits hikers who carry trekking poles and want reflective strips for dawn and dusk. The hydration port routes a hose.",
     "specs": [
       "30L, 1.2 lb ripstop nylon",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41uEprAwEiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FDQB18P9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FDQB18P9?tag=rvgearlab-amz-20",
     "description": "The ECOHUB is a 30L hiking daypack of tear-resistant, water-resistant nylon with a breathable grooved carrying system and an adjustable chest buckle. Hooks inside the main compartment hold a hydration bladder, and a hose exit sits on the right side.\n\nAt about $15 it is $5 cheaper than the TILYMOL and has multiple compartments for a 2 to 3 day trip. It lacks the hip belt and pole holder of its costlier siblings.\n\nIt suits budget hikers and travelers who need space for a weekend. The multi-compartment layout keeps gear organized.",
     "specs": [
       "30L, tear-resistant nylon",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51cm6OGz+oL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07C17B65V?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07C17B65V?tag=rvgearlab-amz-20",
     "description": "The ZOMAKE is a 30L packable backpack weighing 0.74 lb, measuring 19 by 13 by 7 inches and folding to 10 by 8 by 3 inches. It is made of water-resistant, tear-resistant nylon with many pockets and a chest buckle.\n\nAt about $20 it sells for the same as the TILYMOL and is far lighter, with less back structure. It folds into its own pocket for travel.\n\nIt suits travelers who want a backup daypack in a suitcase. It also works for light day hikes.",
     "specs": [
       "30L, 0.74 lb",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51N0GrTg4uL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7W1HL24?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7W1HL24?tag=rvgearlab-amz-20",
     "description": "The MIYCOO is a 35L water-resistant daypack that folds into its inner pocket, with IPX4 splash resistance, three compartments including a wet section, anti-theft zipper clips, a built-in whistle and a pouch that swallows the whole bag. Empty, it weighs about half what a standard daypack does.\n\nAt about $20 it holds 5L more than the ZOMAKE and adds a wet pocket for damp clothes. It takes almost no room in a suitcase.\n\nIt suits travelers who want a day hike bag stashed in their luggage. The wet compartment holds a swimsuit or a rain jacket.",
     "specs": [
       "35L, IPX4 splash resistant",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41XP3ccIaiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B082GSSLH4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B082GSSLH4?tag=rvgearlab-amz-20",
     "description": "The Clostnature three-person tent measures 7 ft 3 in by 6 ft 3 in by 3 ft 11 in and uses a PU 5000 polyester fly and groundsheet. It has two aluminum poles, a freestanding frame, two D-shaped doors and full mesh interior walls.\n\nCompared with the Forceatt, it is more clearly built for backpacking and has a higher waterproof number. Against the Naturehike, it is a true three-person with two doors.\n\nIt suits three hikers who want a freestanding tent with real waterproofing. One person can set it up.",
     "specs": [
       "Floor about 87 x 75 inches",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31yYtL5P1fL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B083BKGF3M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B083BKGF3M?tag=rvgearlab-amz-20",
     "description": "The Forceatt three-person tent has internal dimensions of 88.4 by 72.7 by 47.2 inches, a 70D polyester fabric with a 200T waterproof coating and a large mesh window with two ceiling openings. A No. 8 zipper and a 3-minute setup are listed.\n\nCompared with the Clostnature, it has more height at 47.2 inches and a wider floor. Against the Coleman Sundome, it is lighter and built for packs.\n\nIt suits three hikers who want headroom and a wide floor. The listing says it can be installed in 3 minutes.",
     "specs": [
       "88.4 x 72.7 x 47.2 inches",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31LPn6klGSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7QLQNS5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7QLQNS5?tag=rvgearlab-amz-20",
     "description": "The Coleman Sundome is sold in 2, 3, 4 and 6 person sizes, with WeatherTec welded corners, inverted seams, Insta-Clip pole attachments and continuous pole sleeves. It has large windows and a ground vent.\n\nCompared with the backpacking tents, it is the car-camping choice and holds three with gear to spare. Against the Purebox, it uses a long-proven brand system.\n\nIt suits three campers who drive to camp and want a dependable tent. It sets up in about 10 minutes.",
     "specs": [
       "WeatherTec welded corners",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Mh9J8HOoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C992JY3R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C992JY3R?tag=rvgearlab-amz-20",
     "description": "The Naturehike Cloud River is sold in 2 and 3 person sizes and uses an X cross structure with 7001 aluminum alloy poles. The two-person size is 82.7 by 55.1 inches and 45.3 inches tall, with two doors and a 210T rip-stop polyester fly.\n\nCompared with the Clostnature, it uses a lightweight aluminum alloy frame and a rip-stop fly. Against the Forceatt, it has a cleaner double-layer design with two doors.\n\nIt suits three hikers who prefer a double-layer design and an aluminum frame. The listing puts setup at about 5 minutes.",
     "specs": [
       "X cross frame, 7001 aluminum",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ZFVA5v-iL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FX3ZS1MZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FX3ZS1MZ?tag=rvgearlab-amz-20",
     "description": "The Purebox dome tent comes in 2 and 3 person sizes with flexible cross poles, a bathtub-style sealed floor and reinforced seams. It has dual zippers and dual mesh side windows.\n\nCompared with the Clostnature, it is a budget pick. Against the Coleman Sundome, it is simpler and cheaper.\n\nIt suits casual groups who want a dome tent for short trips. Dual zippers open from inside or outside.",
     "specs": [
       "2 or 3 person dome",

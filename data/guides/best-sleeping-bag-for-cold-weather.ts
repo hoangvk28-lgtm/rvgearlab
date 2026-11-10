@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41OdlULxekL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D643KDKN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D643KDKN?tag=rvgearlab-amz-20",
     "description": "The Coleman North Rim is a 0°F-rated mummy built for big and tall campers up to 6 ft 2 in. Coletherm hollow polyester insulation and a Thermolock draft tube along the zipper are the two features that matter most on a freezing night.\n\nCompared with the Coleman Heritage, the mummy cut wastes less air around your body, so it has less space to heat. Against the HiZYNICE XXL, it carries a lower named rating and an adjustable hood instead of a cotton flannel lining.\n\nIt suits cold-weather car campers who want a shaped bag that still fits a larger frame. The hood cinches down to trade ventilation for warmth as the night changes.",
     "specs": [
       "0°F rated mummy",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zCMi67hJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CBX96X8T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CBX96X8T?tag=rvgearlab-amz-20",
     "description": "The HiZYNICE XXL is a 90 by 39 inch bag sized for sleepers as tall as 6 ft 7 in. It spells out three numbers, 30°F comfort, 15°F limit and 0°F extreme, so you can see what the bag is honestly built for.\n\nNext to the Coleman North Rim, it gives you far more room and a soft 100% cotton flannel lining, with a rectangular cut rather than a shaped one. Against the Londtren Large, its rating story is easier to read at a glance.\n\nIt fits big and tall sleepers and side sleepers who want to roll over inside the bag. The two-way zipper with dual pulls opens from either end for venting, and the bag is machine washable.",
     "specs": [
       "30°F comfort, 15°F limit",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41keO1KCq5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B004J2FB5Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B004J2FB5Y?tag=rvgearlab-amz-20",
     "description": "The Coleman Heritage Big & Tall is filled with 5 pounds of Holofill 808 insulation and rated to 10°F. It measures 40 by 84 inches, suits campers up to 6 ft 7 in, and uses a cotton cover with a synthetic flannel liner.\n\nCompared with the Coleman North Rim, it is rectangular and much heavier on fill, so it feels more like a blanket than a mummy. Against the HiZYNICE XXL, it states a colder rating and uses FiberLock to keep insulation from shifting.\n\nIt suits cabin, truck-bed and car campers who care about a thick, cozy bag and have no weight limit. The Wrap 'N' Roll system keeps it tidy in storage.",
     "specs": [
       "10°F rated, 5 lb Holofill 808",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/417rXa-hoDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BBBYY2SM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BBBYY2SM?tag=rvgearlab-amz-20",
     "description": "The Londtren Large is a 90 by 40 inch bag that the listing says accommodates people up to 7 feet. It has a flannel lining, a zipper draft tube, a thickened shoulder warmer and a drawstring hood on a waterproof 210T polyester shell.\n\nWhere the Coleman Heritage leans on heavy fill, the Londtren adds a shoulder collar to hold warmth around the neck. It gives more length than the HiZYNICE XXL on paper, and a drawstring hood that the rectangular rivals lack.\n\nIt fits very tall campers who struggle to find a bag that closes over the shoulders. The rip-stop shell sheds moisture from tent walls.",
     "specs": [
       "0 to 15°F rated, 90 x 40 inch",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hmnCg6OwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09KBN8GPC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09KBN8GPC?tag=rvgearlab-amz-20",
     "description": "The MEREZA 0 Degree bag is a 32.3 by 90.5 inch rectangle that fits campers up to 7 feet, with a waterproof windproof 210T polyester shell. A plush camping pillow and a compression sack come in the box.\n\nIt is the lowest-cost way into a roomy cold-weather bag here, adding a pillow that none of the others include. Against the Londtren Large, the cut is a bit narrower and the listing is blunt that comfort temperature is 40°F.\n\nIt fits budget campers who mostly camp in the shoulder seasons and want a bag that doubles as a guest bag. The 3D hood and compression sack make it easy to pack.",
     "specs": [
       "32.3 x 90.5 inch rectangle",

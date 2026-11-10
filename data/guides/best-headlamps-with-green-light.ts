@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41u-GhZ6LsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GXY8T9GD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GXY8T9GD?tag=rvgearlab-amz-20",
     "description": "The BORUIT RJ-3000 pairs a central white LED with dual green side lights and gives 3 modes: high white, low white and green. It charges over USB-C, comes with rechargeable batteries and has a 90 degree adjustable head.\n\nDedicated green side lights make it the most hunting-minded pick here, while the HOKOILN and EverBrite add red as a third color. The GRACETOP offers similar white and green modes and ships without a battery.\n\nIt suits anglers, hunters and trackers who want a simple switch between white and green. The listing names tracking and night navigation as uses.",
     "specs": [
       "White LED plus dual green lights",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/416OyADR6wL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GXDF42FH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GXDF42FH?tag=rvgearlab-amz-20",
     "description": "The HOKOILN 2-pack gives two headlamps with white, green and red beams and 7 modes: XPG main light on high and low, COB white side light, COB green and COB red. Each weighs 2.5 ounces, tilts 90 degrees, charges over USB-C in about 3 hours and carries an IPX4 rating.\n\nIt has more modes than the BORUIT RJ-3000 and brings two lamps for roughly the same price. The washable, sweat-wicking headband suits running and long wear.\n\nIt suits pairs and families who want a green and red option each. It also fits runners who want a light headband.",
     "specs": [
       "White, green and red, 7 modes",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41o1BxIRPyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09JNSLKM2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09JNSLKM2?tag=rvgearlab-amz-20",
     "description": "The GRABOYY is a rechargeable green LED headlamp with 3 light modes, a zoomable beam and a motion sensor mode that switches the light on and off with a wave of the hand. The body is aircraft-grade aluminum that the listing calls water resistant and shock resistant, and it tilts 90 degrees.\n\nNo other lamp in this list has a motion sensor, which helps when your hands are covered in bait or gear. The BORUIT RJ-3000 adds a white mode that this green-only lamp does not list.\n\nIt suits night anglers and hunters who want touch-free control. The listing also names precision work such as repairs.",
     "specs": [
       "Green LED, 3 modes, zoomable",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31LXCfhz3mL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FH28CMWW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FH28CMWW?tag=rvgearlab-amz-20",
     "description": "The GRACETOP gives high white, low white, white strobe and green modes, where white and green work separately. It has a zoomable flood and spot beam, a metal front housing, a 90 degree head and adjustable elastic straps, and ships with a USB cable.\n\nIt has more modes than the GRABOYY and a metal front housing. Its listing ships a USB cable and leaves the battery out.\n\nIt suits campers and anglers who already own a compatible battery and want strong zoom control. The strobe adds a signal option.",
     "specs": [
       "White and green, 4 modes",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41rmk5ITlbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08975WM6Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08975WM6Y?tag=rvgearlab-amz-20",
     "description": "The EverBrite 350LM has white, red and green light with 7 modes, memory function, stepless dimming and a 1,500mAh built-in battery giving up to 5 hours on medium. The head tilts 30 degrees and a power indicator shows remaining charge.\n\nPriced under every other lamp here, it alone adds stepless dimming and memory. The HOKOILN's 90 degree tilt is far wider than this lamp's 30 degrees.\n\nIt suits budget buyers and casual campers who want red, green and white in one lamp. Memory returns to the last brightness setting.",
     "specs": [
       "White, red, green, 7 modes",

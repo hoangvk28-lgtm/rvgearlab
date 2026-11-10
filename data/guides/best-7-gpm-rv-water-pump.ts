@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51F6J9w5fML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FMK5T3R2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FMK5T3R2?tag=rvgearlab-amz-20",
     "description": "The MRGVFLO is a 12V DC pump at 7 GPM and 70 PSI with a five-chamber self-priming diaphragm, a heavy-duty pressure switch and a strainer. Its listing mentions a smart pressure switch, ABS plastic and stainless steel parts.\n\nCompared with the Nilight and YoungTree, it carries the clearest feature list at a mid price, and it undercuts the TWERE sprayer-style unit. The automatic control keeps the pump idle when taps are closed.\n\nA strong all-around pick for 12V owners who want 7 GPM without paying brand-name prices. The strainer in the box covers the first install.",
     "specs": [
       "7 GPM, 70 PSI, 12V DC",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41MtI0cdRQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FDWLJ1SJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FDWLJ1SJ?tag=rvgearlab-amz-20",
     "description": "The Nilight pump runs on 12V DC at 7.0 GPM and 70 PSI with 1/2 inch NPT inlet and outlet threads. It lists a full-copper motor, polypropylene housing and thermal overload protection that shuts the pump off when it overheats.\n\nWhere the MRGVFLO has a stainless steel parts list, this one calls out the copper motor and housing material. It is a bit pricier than the MRGVFLO and the YoungTree.\n\nRight for buyers who want a named brand with a clear motor description. Included hose adapters help connect to standard hoses.",
     "specs": [
       "7.0 GPM at 70 PSI",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ggYkUtETL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GBTMB2NY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GBTMB2NY?tag=rvgearlab-amz-20",
     "description": "The YoungTree 55-Series is a 12V pump with a 183W motor, 7 GPM flow and 70 PSI pressure. It describes a smart pressure switch, self-priming that prevents dry-start problems and thermal overload protection.\n\nIt is the only pick here to list motor wattage, which helps with wire and fuse sizing. It shares the five-chamber layout of the MRGVFLO and Nilight at a lower price.\n\nA solid choice for owners planning the wiring and wanting a number to size the fuse. It also suits irrigation and wash-down use.",
     "specs": [
       "12V, 183W motor",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41wi0GdU8BL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GGGQ8RT9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GGGQ8RT9?tag=rvgearlab-amz-20",
     "description": "The Gidrox 115V is a 7.0 GPM pump factory-set at 70 PSI and adjustable from 30 PSI upward. It plugs into a standard outlet and ships with metal 1/2 inch to 3/4 inch garden hose adapters for direct hose connection.\n\nIt is the only AC pump on the list, which makes it the one to buy for full-hookup sites since all the 12V pumps need battery capacity. The garden hose adapters make it handy for tank filling.\n\nA good match for owners who run a fixed shore-power setup. It also works for camp transfer jobs.",
     "specs": [
       "7.0 GPM, 70 PSI preset",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/517nXIrVDgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FPFYBC3J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FPFYBC3J?tag=rvgearlab-amz-20",
     "description": "The YSVORTOT is a 12V marine washdown pump rated 7.0 GPM at 75 PSI with six foot vertical self-priming, an inlet strainer, a pressure switch and a five-chamber design. A premium trigger spray gun and 25 foot hose come in the kit version.\n\nIt hits the same 7 GPM as the others and offers the highest pressure rating in the group at 75 PSI. The kit adds a hose and gun that none of the others bundle.\n\nA fit for owners who want to wash the rig and run the freshwater lines from one pump. Its dual-ball-bearing motor and rubber mounts reduce vibration.",
     "specs": [
       "7.0 GPM at 75 PSI",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51jmgo4rBpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F48BYL3L?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F48BYL3L?tag=rvgearlab-amz-20",
     "description": "The TWERE is a 12V five-chamber pump rated 7.0 GPM and 75 PSI, with a thermally protected motor. Its listing mentions sprayer, RV and marine uses and says it follows the standard installation mode for spray tanks.\n\nIt is the cheapest here, and it undercuts the MRGVFLO and Nilight while matching their flow. The thermal protection function allows continued use under heat stress.\n\nA budget pick for owners who need 7 GPM and are comfortable with a sprayer-style listing. A pressure regulator is wise on older RV lines.",
     "specs": [
       "7.0 GPM, 75 PSI, 12V DC",

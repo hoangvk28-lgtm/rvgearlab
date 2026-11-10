@@ -24,7 +24,7 @@ Machine-checkable rules are enforced by `scripts/audit-editorial.ts` (see bottom
 9. The dek says what was compared and what decision the guide supports. Put it in `data/guide-deks.ts`. It is not the meta description.
 10. Rewrite the meta description to the new angle, with no price or count stuffing ("under $300" is fine when it is the search intent).
 11. Keep structured data consistent: Article headline/description, ItemList name/description, OG and Twitter. Update both the rich file and the `data/guides.ts` registry (`title`, `metaTitle`, `description`).
-12. Never change canonical URLs, routes, ASINs or affiliate URLs. Tag = `theofficejournal-20`; flag any other.
+12. Never change canonical URLs, routes, ASINs or affiliate URLs. Tag = `rvgearlab-amz-20`; flag any other.
 
 ## Structure
 13. **Intro:** 2–4 paragraphs that open on the real buying constraint. No SEO filler.

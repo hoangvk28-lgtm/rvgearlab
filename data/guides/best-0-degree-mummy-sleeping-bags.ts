@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31cIas4OpyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FHWKLZLZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FHWKLZLZ?tag=rvgearlab-amz-20",
     "description": "The Naturehike Snowbird SP is a 650 fill power RDS and IDS down mummy with a U-shaped hood, a three-dimensional wind barrier and a YKK two-way zipper. The listing prints an ISO comfort rating of 29 degrees F and a limit of 18 degrees F for the model it quotes.\n\nIts C-shaped wrap puts a 6:4 ratio of fill on top versus bottom, a design the TETON and AZITREK bags do not describe. The SP1000 and SP550 models add one or two windshield strips along the zipper.\n\nIt suits cold sleepers who want a cut that keeps heat close and a documented comfort figure. Choose the SP1000 for the coldest nights.",
     "specs": [
       "650 fill RDS and IDS down",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41aUXJ5DPUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CLCRL946?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CLCRL946?tag=rvgearlab-amz-20",
     "description": "The AZITREK is an XXL peanut-shaped mummy measuring 90.2 by 37.5 inches, built with the brand's Dually double-layer insulation and a waterproof outer. A compression sack is included.\n\nIts peanut shape gives side sleepers more knee and shoulder space than the narrower TETON mummies. It is a 3-4 season design that costs well below the Naturehike Snowbird.\n\nIt suits tall or broad campers who want a mummy that does not feel like a straitjacket. Pair it with an insulated pad for cold ground.",
     "specs": [
       "90.2 x 37.5 inch peanut shape",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31r1A1K2zeL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09LMNHNZQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09LMNHNZQ?tag=rvgearlab-amz-20",
     "description": "The TETON LEEF is a lightweight mummy with a compression sack and a roomier design that still packs small. Buyers choose from three sizes and a 0, 20 or 30 degree label.\n\nIt is more compact in intent than the TETON Celsius, and it offers size options that the AZITREK lacks. Compared with the Snowbird it prints far fewer specifics.\n\nIt suits backpackers who want an affordable mummy they can size to themselves. Make sure to pick the 0 degree option.",
     "specs": [
       "Mummy shape, three sizes",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31X8W-rTbwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01N5WKP8A?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01N5WKP8A?tag=rvgearlab-amz-20",
     "description": "The TETON Celsius Regular is a 0 degree bag with fiber fill, a poly-flannel lining, a half-circle mummy-style hood and draft tubes. It includes a stuff sack with heavy-duty straps.\n\nIt is the car-camping counterpart to the LEEF, with a cozier lining and draft tubes the LEEF listing does not mention. It costs a little less than the LEEF.\n\nIt suits car campers who want a hooded 0 degree class bag at a modest cost. Add a pad and a hat for cold nights.",
     "specs": [
       "Fiber fill, half-circle hood",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411ihNiFP0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F5Q92K35?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F5Q92K35?tag=rvgearlab-amz-20",
     "description": "The BISINNA is a 3-4 season mummy with synthetic fill, a 40D nylon shell with a DWR coating, a drawstring hood and a full zipper. It weighs 1.8 kg and packs to 15.7 by 11 inches, and fits users up to 6 ft 1 in.\n\nIts water-repellent shell is the most developed of the lower-priced bags here. It adds fill that copes with moisture, which the down bags cannot match when wet.\n\nIt suits campers in damp climates who want fill that handles moisture. It is a mid-weight bag rather than an ultralight one.",
     "specs": [
       "1.8 kg, 15.7 x 11 in pack",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41RoHnrwtOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08BTYY18X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08BTYY18X?tag=rvgearlab-amz-20",
     "description": "The SereneLife is a mummy bag sold as a set with a travel pillow, a phone pocket and a compression bag. The listing describes a waterproof, washable outer cover and a thick filling.\n\nPriced under every other mummy here, it is the only set with a pillow inside. It prints no temperature rating, fill or weight, unlike the Snowbird or BISINNA.\n\nIt suits casual campers and travelers who want an all-in-one kit for mild nights. Add a liner if it gets cold.",
     "specs": [
       "Mummy with pillow and sack",

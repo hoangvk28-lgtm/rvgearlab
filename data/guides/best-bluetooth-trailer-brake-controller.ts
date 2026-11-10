@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/318NLoTFUZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09MR8ZFX8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09MR8ZFX8?tag=rvgearlab-amz-20",
     "description": "The CURT 51190 Echo Under-Dash is a Bluetooth proportional controller with a triple-axis motion-sensing accelerometer. The listing says it operates 2-8 trailer brakes (1-4 axles), stores multiple trailer profiles, and uses a custom app that monitors brake activity and sends status updates.\n\nCompared with the in-line Echo just below it, it mounts under the dash instead of behind the 7-way socket, which suits a driver who wants the module inside the cab. Against the mobile Echo below it, it covers up to four axles instead of two.\n\nBest for a tandem or triple-axle travel trailer where you want app control and a hardwired install. The cost is high, so weigh it against the third-party options at the bottom.",
     "specs": [
       "Bluetooth, triple-axis accelerometer",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31CnKM4U1SL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BGQHDM7Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BGQHDM7Y?tag=rvgearlab-amz-20",
     "description": "The CURT 51200 Echo In-Line plugs in behind the existing 7-way socket using USCAR connectors. The listing describes a waterproof enclosure that seals the circuits against the elements, the same Bluetooth app control, and a triple-axis accelerometer.\n\nIt is the most expensive pick here. Compared with the Under-Dash Echo, it hides the hardware at the bumper end and trades cab-side access for a cleaner cabin, and unlike the mobile Echo it stays with the vehicle.\n\nBest for a dedicated tow vehicle where you want no visible controller at all. Check that your vehicle's 7-way connector matches the listed USCAR style, since the listing does not name vehicle fits.",
     "specs": [
       "Plugs behind existing 7-way",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/319qOS0RLDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07JQ99SDD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07JQ99SDD?tag=rvgearlab-amz-20",
     "description": "The CURT 51180 Echo Mobile installs between the vehicle and trailer 7-way blade connectors and transfers between vehicles without under-dash wiring. The listing says to use the OneControl Auto app on iOS 14+ or Android 9+ and to pair inside that app, not in the phone's Bluetooth settings.\n\nCompared with the two Echo models above, it supports 1-2 axles and 2-4 brakes rather than up to four axles, and costs less. Its listing notes that an existing factory or aftermarket brake controller will not work while Echo is installed.\n\nBest for a tandem trailer owner who tows with more than one vehicle. The vehicle's 7-way must supply active +12V power, so check before buying.",
     "specs": [
       "Plugs between 7-way connectors",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/312hx69qfcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HDY6NCLJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HDY6NCLJ?tag=rvgearlab-amz-20",
     "description": "The SILUXE is a third-party 51180-style unit with Bluetooth app control, five customizable profiles and LED diagnostics for connection, calibration and wiring. The listing describes an app that checks rear-light wiring and warns if the trailer connection is lost.\n\nCompared with the CURT Echo Mobile above, it lists more profile and diagnostic detail and costs noticeably less, but it is not made by CURT and support comes from the seller. It matches the TICANEE below on axle range.\n\nBest for a buyer who wants the plug-in Bluetooth idea at a lower price with real profile storage. Confirm the 7-way socket supplies +12V.",
     "specs": [
       "Five customizable profiles",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31lMz7EzdIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HCC5GPMR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HCC5GPMR?tag=rvgearlab-amz-20",
     "description": "The TICANEE is the lowest-priced pick in this list. The listing describes a 3-axis motion sensor, proportional braking, and an app-based setup where you pair inside the dedicated app instead of the standard Bluetooth menu.\n\nCompared with the SILUXE above it, it lists fewer diagnostics and no profile count, though it does say it works with cruise control, anti-lock braking and low-voltage systems. It is a third-party unit rated for 1-2 axles and 2-4 brakes.\n\nBest for a small single or tandem trailer on a vehicle with a powered 7-way socket and a tight budget. The listing says certain vehicles need extra steps, so read that note first.",
     "specs": [
       "3-axis motion sensor",

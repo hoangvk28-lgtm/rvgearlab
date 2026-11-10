@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41I1oa7yfBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B009DG1QR8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B009DG1QR8?tag=rvgearlab-amz-20",
     "description": "The POWTECH is a 6 foot 14 gauge UL listed cord with a 15 amp, 1875 watt rating at 125 volts, built for air conditioners and major appliances such as washers, dryers and refrigerators. It has heavy-duty vinyl insulation and an angled plug that sits flush against a wall.\n\nIt is the one cord whose listing names a UL mark and the only one with an angled plug rather than a flat one. Compared with the EP, it adds the UL mark and an angle plug at a small price step.\n\nIt suits campers who plug a compressor fridge into a post or outlet only a few feet away. The angle keeps the plug from sticking out.",
     "specs": [
       "6 ft, 14 gauge, 15A, 1875W",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41dHOoXD9PL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BVZB6NWQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BVZB6NWQ?tag=rvgearlab-amz-20",
     "description": "The EP is a 6 foot heavy-duty appliance cord with 14 AWG wire, a 3-prong flat plug, a 15 amp, 1875 watt rating and an ETL listing. Its vinyl jacket is described as protecting against moisture, abrasion and sunlight.\n\nIt is the only cord here whose listing mentions weather and sun protection. Compared with the POWTECH, it swaps the UL mark for an ETL listing and a flat plug.\n\nIt suits campers who run a fridge from a post on a covered site. The flat plug fits tight spots behind a cooler.",
     "specs": [
       "6 ft, 14 AWG, 15A, 1875W",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41rHYjTSRGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DCB88YX2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DCB88YX2?tag=rvgearlab-amz-20",
     "description": "The Elecan is a 4 foot SPT-3 flat wire cord with 14 AWG, at 15 amps and 1875 watts with ETL certification. The flat cable and low-profile plug are meant for tight spaces, and the listing says to stay within the rated power.\n\nIt is shorter than the 6 foot cords and flatter, so it tucks behind a fridge without kinking. Compared with the BN-LINK, it adds a foot of length and the same rating.\n\nIt suits campers with a small camper or van fridge in a tight cabinet. The flat wire resists tangling.",
     "specs": [
       "4 ft, 14 AWG SPT-3, 15A",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/416Cq5RhndL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CD9JRWH6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CD9JRWH6?tag=rvgearlab-amz-20",
     "description": "The ELECTERY is a 3 foot heavy-duty cord with 14 AWG copper wire, a 15 amp, 1875 watt rating and an ETL listing. It has a flat 3-prong plug, PVC insulation and easy-grip grooves for connecting and disconnecting.\n\nIt is the cheapest cord on the list and adds grip grooves that make pulling the plug easier. Compared with the BN-LINK, it matches the length and adds the grooves.\n\nIt suits campers who want the shortest, simplest link between a fridge and a post. The grooves help with cold or wet hands.",
     "specs": [
       "3 ft, 14 AWG, 15A, 1875W",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31mAGLtZACL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CYC1J8KQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CYC1J8KQ?tag=rvgearlab-amz-20",
     "description": "The BN-LINK is a 3 foot 14/3 SPT-3 flat cable with a grounded flat plug with a 1875 watt limit. The listing says it resists tangling and runs without overheating, and it is gray.\n\nIt matches the ELECTERY on length and rating and uses the flat SPT-3 cable. Compared with the Elecan, it is a foot shorter.\n\nIt suits campers who want a short flat cord for a fridge in an RV cabinet. The flat design stays out of the way.",
     "specs": [
       "3 ft, 14/3 SPT-3, 15A",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31-WE98YEGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01N9LQ5QC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01N9LQ5QC?tag=rvgearlab-amz-20",
     "description": "The Eonvic is a 1.5 meter 12V DC extension cable with a built-in 10 amp fuse, made of flame-retardant PVC. It extends a car fridge from the cigarette lighter socket to the rear seats, trunk or tent area and fits Type B plugs of 13 by 7 mm.\n\nIt is the only cord here for 12V coolers and mini fridges rather than 120V appliances. Compared with the household cords, it replaces an inverter for a car fridge.\n\nIt suits campers who run a 12V cooler from a vehicle. The fuse protects the fridge and the socket.",
     "specs": [
       "1.5 m 12V DC extension",

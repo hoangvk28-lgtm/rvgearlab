@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31r1A1K2zeL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09LMNHNZQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09LMNHNZQ?tag=rvgearlab-amz-20",
     "description": "The TETON LEEF is a mummy aimed at hiking and backpacking, offered in 0, 20 and 30 degree versions and three sizes. A compression sack is included, and a roomier body shape that still shrinks in the sack.\n\nIt is the only bag here that lets you choose both the rating and the size, which suits a wide range of trips. The page you land on shows the 0F version first, so select the rating you need.\n\nIt suits backpackers who want to tailor warmth and fit to their route. The roomier cut leaves space to move.",
     "specs": [
       "0, 20, 30F options",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31HtpgF5i4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D47YFZGW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D47YFZGW?tag=rvgearlab-amz-20",
     "description": "TETON offers the Trailhead as a 20 degree mummy filled with microfiber, including a vaulted footbox and a zipper draft tube. A hood closes gaps around the face, and a compression sack and hang loops complete it.\n\nIt is the least expensive of the TETON bags here, and it works as a shoulder-season backpacking mummy. The draft tube and footbox help it hold heat compared with the OneTigris.\n\nIt suits budget hikers who want a warm mummy for fall and spring. Hang loops let you store it lofted.",
     "specs": [
       "20F microfiber mummy",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41OdlULxekL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D643KDKN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D643KDKN?tag=rvgearlab-amz-20",
     "description": "Coleman sizes the North Rim for sleepers to 6 ft 2 in, using Coletherm hollow polyester, a Thermolock draft tube and an adjustable hood. It is 82 by 32 inches, machine washable and carries a 5-year limited warranty.\n\nThe 0F label makes it the coldest bag here and the widest at 32 inches, and it costs more than the Trailhead. The hood vents for warmth or airflow.\n\nIt suits bigger backpackers who expect hard frosts. The no-snag zipper helps in the dark.",
     "specs": [
       "0F rated mummy",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41YJtb5N+IL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CKVXNBCQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CKVXNBCQ?tag=rvgearlab-amz-20",
     "description": "OneTigris designs the Bushcrafter's for spring, summer and fall at about 46 to 59F. A 300T pongee shell, 190T lining and 7 oz polycotton fill are listed, and the zippers are YKK with a hood cord stop.\n\nIt measures 6.8 by 2.7 feet and compresses into a 7.8 by 16.5 inch tube sack, which is more detail than the others print. The warm range sets it apart from the colder bags here, and it costs the least.\n\nIt suits bushcraft and summer hikers who want a wide mummy. Machine washing is allowed on a delicate cycle.",
     "specs": [
       "46 to 59F range",

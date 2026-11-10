@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41tdCS6rqSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HC9RCC8X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HC9RCC8X?tag=rvgearlab-amz-20",
     "description": "The SENTORISE is a 12.8V 200Ah LiFePO4 battery rated at 2560Wh with a smart BMS listing more than 20 protections. It adds Bluetooth monitoring of state of charge, voltage, current and temperature, plus parallel expansion.\n\nCompared with the Rvpozwer and ECOBOSS it adds an app for live data, where those two lean on cycle counts and warranty. Against the WOXABHSL it lists 4000 or more cycles at 100% depth of discharge.\n\nIt suits RV and van campers who want to see battery data without a separate meter. A solar camper sizing a house bank gets the most feedback from this one.",
     "specs": [
       "2560Wh at 12.8V",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41VddMhVHDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FLJ8K4ZP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FLJ8K4ZP?tag=rvgearlab-amz-20",
     "description": "The WOXABHSL is a 12V 200Ah LiFePO4 pack with a 200A BMS and a listed maximum output of 2560W. Its listing names FCC and UL certificates and quotes 4000 cycles at 100% depth of discharge, 6000 at 80% and 15000 at 60%.\n\nIt is the most expensive 12V option here, which pairs with its stated certification claims. Compared with the SENTORISE it skips the app, while compared with the ECOBOSS it names its cycle claim by depth of discharge.\n\nIt suits campers who prefer a battery with named certifications and an automatic overload recovery feature. A fixed RV bank is the natural home for it.",
     "specs": [
       "200A BMS, 2560W output",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41nUI-JxlJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F1TMQX1G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F1TMQX1G?tag=rvgearlab-amz-20",
     "description": "The Rvpozwer is a 12.8V 200Ah LiFePO4 pack designed to Group 31 standards, with a smart 200A BMS and stated operation from -20C to 65C. It can connect up to 4 in series for 51.2V or in parallel up to 800Ah.\n\nAgainst the ECOBOSS it names a wider operating range, and compared with the SENTORISE it spends on warranty and support rather than an app. The listing mentions lifetime technical support and extensive warranty coverage.\n\nIt suits shoulder-season campers and van lifers who want a wider temperature range on paper. A buyer expanding later can parallel more units.",
     "specs": [
       "200A smart BMS",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41iUcLqUNOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H334QPRF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H334QPRF?tag=rvgearlab-amz-20",
     "description": "The ECOBOSS is a 12V 200Ah LiFePO4 battery with a 200A smart BMS and IP65 protection. It stops charging below 32F and resumes at 41F, and it can expand to 4S4P for up to 51.2V and 800Ah.\n\nIt is the lowest priced 12V 200Ah here, and the low-temperature behaviour is spelled out more precisely than on the Rvpozwer. Against the SENTORISE it gives up the app while keeping the same capacity.\n\nIt suits budget-minded campers building a first lithium bank. An IP65 rating helps when the battery sits in a damp storage bay.",
     "specs": [
       "200A BMS, IP65 rating",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41cCtCRh4ML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GVVKWYX5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GVVKWYX5?tag=rvgearlab-amz-20",
     "description": "The ECIENWELL is a 24V (25.6V) 200Ah LiFePO4 battery rated at 5120Wh with a 200A BMS and an IP65 rating. It supports 4 in parallel and 2 in series for a 48V bank of up to 40.96kWh.\n\nIt stores twice the energy of the 12V packs at a higher price, so it only makes sense in a 24V system or when you plan on 48V. The 12V picks are easier to drop into a standard camper.\n\nIt suits trolling motors, off-grid cabins or large solar builds already running 24V. It is not a direct swap in a normal 12V camper.",
     "specs": [
       "24V 200Ah, 5120Wh",

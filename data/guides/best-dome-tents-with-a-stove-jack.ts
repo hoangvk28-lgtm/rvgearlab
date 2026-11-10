@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31UwMmaq4qL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DSC3ZL7X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DSC3ZL7X?tag=rvgearlab-amz-20",
     "description": "The TOMOUNT is a 20D silicone-coated nylon dome with a stated PU 3000+ rating, taped seams and a rain cover on the door zipper. It stands 6.23 ft high with about 118.4 sq ft of usable space, three doors, six vented windows with mesh and inner and outer snow skirts.\n\nAgainst the Dandelion Shell it costs about 290 dollars less and uses aerospace aluminum alloy poles. Compared with the POMOLY it sleeps more people and adds a ground sheet and extra doors.\n\nIt suits small groups who want a lighter-weight hot tent for winter trips. The stated space is 3 to 8 people.",
     "specs": [
       "20D nylon, PU 3000+, taped seams",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31x1P3GVF9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G2LH2PGB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G2LH2PGB?tag=rvgearlab-amz-20",
     "description": "The Dandelion Shell S450 is a 4 to 6 person polyester dome sold as a four-season hot tent. It has a replaceable heat-resistant stove jack made of fiberglass and a reserved stove position inside.\n\nAgainst the TOMOUNT it targets a larger group and prices at the top of this list at roughly 290 dollars more. Compared with the POMOLY it adds glue-sealed double zippers and a bigger family footprint.\n\nIt suits families who want a four-season shell with a dedicated stove position. Floor and stove are sold separately, so you choose both.",
     "specs": [
       "4 to 6 person polyester dome",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410+2mr3WWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GJSWVFG1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GJSWVFG1?tag=rvgearlab-amz-20",
     "description": "The POMOLY Barracuda 2 is a freestanding single-layer hot tent for 1 to 2 people. It uses 40D ripstop silicone nylon, a PU coating rated 3000mm with UPF 50+ and four lightweight aluminum poles in an arched bridge frame.\n\nAgainst the TOMOUNT it has the lower price and the tougher 40D fabric. Compared with the Dandelion Shell it is far smaller and ships with 10 aluminum stakes and 8 guy lines.\n\nIt suits solo backpackers who want a stove-ready shell small enough to carry. Two opposite doors roll up for airflow.",
     "specs": [
       "1 to 2 person, 40D ripstop",

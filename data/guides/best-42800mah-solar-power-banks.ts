@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41GiI2mVEmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GLX13TWW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GLX13TWW?tag=rvgearlab-amz-20",
     "description": "The Mregb lists 42800mAh and charges three devices at once, with a USB-C port that works as both input and output. It carries an IP67 rating in an ABS shell and an LED flashlight rated to run up to 100 hours.\n\nIt is the only exact 42800mAh listing and has a higher IP rating than the YELOMIN. It lacks the YELOMIN's built-in cables.\n\nIt suits a camper who wants a big cell and a rugged shell at a moderate price. The long-range flashlight lasts through a weekend.",
     "specs": [
       "42800mAh, three devices",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Xl0qZKy3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FFF3TMN5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FFF3TMN5?tag=rvgearlab-amz-20",
     "description": "This 38800mAh model offers 22.5W over USB-C and keeps four cables on board, serving as many as six gadgets. Two LED lights and an IP65 shell are included.\n\nIt offers a named fast-charge wattage and cables, which the Mregb listing does not. It holds about 4000mAh less than the Mregb.\n\nIt suits a camper who prefers speed and built-in cables over the last bit of capacity. Six devices can charge together.",
     "specs": [
       "38800mAh, 22.5W USB-C",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51PYS+sTyoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GQBZXZX8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GQBZXZX8?tag=rvgearlab-amz-20",
     "description": "The Luvknit lists 20000mAh with 15W USB-C fast charging, a built-in solar panel and dual USB outputs on a 0.52 lb body that measures 5.63 x 2.91 x 0.85 inches. It holds an IP65 rating, a three-mode LED flashlight and TSA-approved carry-on status with a 24-month warranty.\n\nIt weighs a fraction of the other two and is the only one that is carry-on friendly. It carries less than half the Mregb's cell.\n\nIt suits a hiker or traveler who wants a light bank for a weekend. The 20000mAh cell gives about two iPhone charges, per the listing.",
     "specs": [
       "20000mAh, 15W USB-C",

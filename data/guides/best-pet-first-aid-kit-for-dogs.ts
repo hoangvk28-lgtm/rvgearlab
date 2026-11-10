@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51lTtLTFGpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09FKVQQVH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09FKVQQVH?tag=rvgearlab-amz-20",
     "description": "The ARCA PET kit has over 100 items, including a pet thermometer, a medicine feeder and a tick remover. A reflective zipper and fluorescent lettering make the case easy to find at night.\n\nIt carries more items than the 95-piece EVERLIT, and it is the only one with a high-visibility case. A printed manual covers topics from snake bites to minor injuries, which the PetVet guide describes in more general terms.\n\nIt is the right pick for dog owners who camp, hike and drive at night. The reflective case is easy to locate in a dark tent or car.",
     "specs": [
       "100+ items, thermometer included",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/517g0+oRJ3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DH2TXT68?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DH2TXT68?tag=rvgearlab-amz-20",
     "description": "The PetVet Medic kit includes a thermometer and bandages in a durable, weather-resistant bag built to hold up in the elements. A mini first aid guide gives step-by-step help for common problems.\n\nIts bag is sized for a vehicle or home base, which suits a dog traveling with a family. It costs the most here, so the value comes from the bag and the veterinarian-designed contents.\n\nIt suits families with larger dogs who want one dedicated pet kit in the car or camper. The portability makes it easy to move between the trunk and the tent.",
     "specs": [
       "Thermometer and bandages included",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51xBwJbyChL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DSKJ8W21?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DSKJ8W21?tag=rvgearlab-amz-20",
     "description": "The EVERLIT Care kit packs 95 pieces in clear compartments, with full-size metal tick removers and pet nail clippers. The listing describes the contents as vet-approved sterile and non-sterile essentials.\n\nIt costs well below the ARCA PET and PetVet kits while still covering the usual wound and tick basics. Against the rubyloo, it offers more pieces and clear compartments in a soft organizer.\n\nIt fits the budget-conscious dog owner who wants a clean, organized kit for weekend trips. The compartments make items easy to find when a dog is hurt.",
     "specs": [
       "95 pieces in clear compartments",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51jM-Q6ILKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B1W5R11Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B1W5R11Y?tag=rvgearlab-amz-20",
     "description": "The rubyloo kit ships in a water-resistant hard-sided case with vet wrap, a tick remover, first aid pads, saline wash, a styptic pencil and a slip leash. A thermal blanket and a vet-reviewed manual round it out.\n\nThe hard case protects supplies better than the soft bags on the ARCA PET and PetVet kits, and the slip leash and thermal blanket add emergency handling gear. It does not list a total piece count.\n\nIt is ideal for backpackers and RV owners who toss a kit in a pack or storage bin. The case keeps supplies dry and flat.",
     "specs": [
       "Water-resistant hard-sided case",

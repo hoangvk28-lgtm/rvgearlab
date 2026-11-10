@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/313lSEpASnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CYJDQ4X1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CYJDQ4X1?tag=rvgearlab-amz-20",
     "description": "The SoftStartUp is a plug-and-play RV A/C soft start that needs no installation, rooftop access or wiring. The SoftStartUp is a plug-and-play RV A/C soft start that needs no installation, rooftop access or wiring.\n\nIt is designed for travel trailers, Class B and Class C RVs and works with 30 and 50 amp power and generators as low as 2200 watts. It costs about 240 dollars more than the SoftStart Home.\n\nIt is designed for travel trailers, Class B and Class C RVs and works with 30 amp and 50 amp power and generators as low as 2200 watts. It suits owners who want to move one unit between rigs.",
     "specs": [
       "No installation required",
@@ -53,7 +53,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ECAmJ6AlL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BZQ44M4F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BZQ44M4F?tag=rvgearlab-amz-20",
     "description": "The SoftStart Home reduces startup power by up to 70 percent and covers units up to 6 tons on 110 to 240V. The SoftStart Home from NetworkRV reduces startup power by up to 70 percent and covers units up to 6 tons (72,000 BTU) on 110 to 240V.\n\nIt ships with a complete install kit and a 15-minute DIY guide. It costs about 44 dollars less than the Micro-Air Flex 398.\n\nIt runs on generators, RVs and solar, and ships with crimp connectors, zip ties, adhesive backing and a 15-minute DIY install guide. It suits owners who want one kit for an RV and a home.",
     "specs": [
       "Up to 70% startup reduction",
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/416gBH0Ss6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BZXSJ1Q4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BZXSJ1Q4?tag=rvgearlab-amz-20",
     "description": "Starting current falls 65 to 70 percent with the Briidea, and the listing says a 15,000 BTU air conditioner can start from a 2200W generator. That small-generator capability is what makes it easy to carry between rigs.\n\nA flame-retardant ABS enclosure houses it. It costs a fraction of the plug-in model.\n\nOverload and short circuit protection are built in, and one unit serves a 20A household outlet while a pair covers 30A. Budget buyers comfortable wiring a compact unit are its audience.",
     "specs": [
       "Cuts start current 65 to 70%",
@@ -107,7 +107,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/418WkcDXqXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DKQN4XRJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DKQN4XRJ?tag=rvgearlab-amz-20",
     "description": "The Micro-Air EasyStart Flex 398 cuts inrush by up to 75 percent and adds Bluetooth app diagnostics, with a 4-wire hookup. Up to 75 percent less locked-rotor inrush current arrives through a 4-wire hookup with color-coded wiring.\n\nIt covers 2 to 6 ton systems and uses color-coded wiring. It costs about 44 dollars more than the SoftStart Home.\n\nCompatibility reaches single-stage, two-stage and heat pump systems between 2 and 6 tons, with app diagnostics and install videos delivered over Bluetooth. It suits owners who want brand support and app diagnostics.",
     "specs": [
       "Up to 75% inrush reduction",
@@ -134,7 +134,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Ehb+kaVBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FH1QCV96?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FH1QCV96?tag=rvgearlab-amz-20",
     "description": "The Matirron has built-in over-voltage, over-current and short-circuit protection that regulates peak startup power. The Matirron soft start has built-in over-voltage, over-current and short-circuit protection that regulates peak startup power.\n\nIt is the lowest priced of the five. Its listing recommends professional wiring.\n\nThe listing recommends professional electrical wiring, and it targets starting an RV AC on a small generator. It suits budget buyers who will hire an electrician.",
     "specs": [
       "Over-voltage and over-current protection",

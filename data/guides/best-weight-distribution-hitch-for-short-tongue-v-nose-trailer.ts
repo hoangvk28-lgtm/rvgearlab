@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31cv2MHxAmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B004TR4MF4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B004TR4MF4?tag=rvgearlab-amz-20",
     "description": "The Equal-i-zer 90-00-1401 states 14,000 lb and 1,400 lb tongue weight with four-point sway control, and the title says no shank is included. The Equal-i-zer 90-00-1401 is a four-point sway control weight distribution hitch rated 14,000 lb trailer weight and 1,400 lb tongue weight. The title states it does not include a hitch shank.\n\nIt states more than the other kits here, but no listing states V-nose fit. It needs a shank bought separately.\n\nBest for a heavy short-tongue trailer after bracket clearance is confirmed. Buy a compatible shank at the same time.",
     "specs": [
       "14,000 lb, 1,400 lb tongue weight",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31s--HTl6ML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0788C5QR3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0788C5QR3?tag=rvgearlab-amz-20",
     "description": "CURT's 17499 TruTrack 4P is a trunnion hitch with four points of integrated sway control. CURT's 17499 is a TruTrack 4P weight distribution hitch with four-point sway control, a welded head with cast pieces and trunnion-style forged steel spring bars.\n\nIt states no rating and costs less than Equal-i-zer 90-00-1401. Its brackets mount on the frame.\n\nBest after the seller confirms the ratings and bracket fit. Ask for the tongue weight rating before ordering.",
     "specs": [
       "TruTrack 4P with 4-point sway",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31BDM4HumbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B005SB6S3Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B005SB6S3Y?tag=rvgearlab-amz-20",
     "description": "Camco's Elite 1,000 lb kit has manually adjusted sway control, a pre-installed ball and pre-installed U-bolts. Camco's Eaz-Lift Elite 1,000 lb weight distribution hitch kit has manually adjusted sway control disengaged by a clamp and a pre-installed 2-5/16 inch ball and sway control ball. The U-bolts and chain package are pre-installed.\n\nIt states a 1,000 lb class and costs less than the other kits. Its U-bolts need space on the frame.\n\nBest for a lighter trailer after U-bolt clearance is checked. It is a ready-to-tow kit for 1,000 lb tongue weight.",
     "specs": [
       "1,000 lb kit with sway control",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21ecGfpY-aL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B001GMTKUW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B001GMTKUW?tag=rvgearlab-amz-20",
     "description": "CURT's 17124 is a replacement shank with an 8-3/4 inch drop rated 15,000 lb GTW and 1,500 lb tongue weight. CURT's 17124 is a replacement shank for 2-inch receivers with an 8-3/4 inch drop, rated 15,000 lb GTW and 1,500 lb tongue weight.\n\nIt is a part, not a hitch, and helps with a head you already own. Its drop is fixed.\n\nBest for adding drop to a CURT head. It is only the shank, so it helps a buyer who already owns a head and bars and needs more drop.",
     "specs": [
       "Replacement shank, 2-inch receiver",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41JBZcKdyAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DPQ1N74Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DPQ1N74Q?tag=rvgearlab-amz-20",
     "description": "POOWEE sells a replacement hookup bracket made of heavy-duty welded steel. POOWEE sells a replacement weight distribution hookup bracket made of heavy-duty welded steel with a bolt-on design.\n\nIt is a part, not a hitch, and fit depends on the hitch. It costs far less than a kit.\n\nBest for replacing a damaged bracket. It is a replacement part, so confirm fit.",
     "specs": [
       "Replacement hookup bracket",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31767NlLW4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GKGCSP47?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GKGCSP47?tag=rvgearlab-amz-20",
     "description": "Yayapig's retainers replace CURT 17109 round bar retainers and come as two pieces. Yayapig's 17109 retainers are a direct replacement for CURT 17109 round bar retainers, sold as two pieces.\n\nIt is a part, not a hitch, and costs far less than POOWEE Hookup Bracket. It adds no rating.\n\nBest for replacing lost retainers. Buy them only to replace lost or worn retainers, and check the part number.",
     "specs": [
       "Replacement retainers, 2 pieces",

@@ -30,7 +30,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/3177hIU-FGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07VM5G7XN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07VM5G7XN?tag=rvgearlab-amz-20",
     "description": "The ROBLOCK pair measures 9 by 7.1 by 5.5 inches and weighs 13.2 pounds for the set. The blocks are made from durable, weather-resistant, oil-resistant rubber and include a steel eyebolt for a chain or rope. At $39.99 it is the best all-round choice for a heavy coach.\n\nAt 13.2 pounds, it is the heaviest set in this comparison, and that mass is the point: a heavy rubber block stays put under a big tire in a way a light plastic one does not. Against the MaxxHaul, it is a bit smaller in footprint, heavier and priced higher, which suits a coach that needs planted placement.\n\nIt is the pick for motorhome owners who want solid, planted rubber chocks with an eyebolt for easy retrieval and do not mind carrying a heavier pair.",
     "specs": [
       "9 x 7.1 x 5.5 inch",
@@ -57,7 +57,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/412PaZutIcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B06XHGBQXG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B06XHGBQXG?tag=rvgearlab-amz-20",
     "description": "The MaxxHaul large pair measures 10 by 8 by 6 inches in dense, oil-resistant rubber with a textured non-slip surface. A steel eyebolt supports a rope or chain. At $22.99 it is the lowest priced set that still offers a large footprint.\n\nLarger than the ROBLOCK in every dimension, it gives the most contact area against the tire, which spreads the load and helps resist movement. Compared with the SECURITYMAN, it focuses on size and texture rather than a stated weight rating, and it costs less than every other set in this guide.\n\nIt is the pick for owners of big-tire motorhomes who want the largest block and the best price, and who have room in a bay for a bulkier pair.",
     "specs": [
       "10 x 8 x 6 inch",
@@ -84,7 +84,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41wP7I7SceL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07KBDXV5N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07KBDXV5N?tag=rvgearlab-amz-20",
     "description": "The AFA set includes four chocks, each 9.1 by 3.7 by 4.7 inches and 3.4 pounds, rated for vehicles up to 8 tons gross weight. Handles and rope ties take the place of eyebolts. At $49.95 it is the only four-pack in this guide.\n\nFour chocks let you secure both the front and back of a full axle, or two tires on each side, which adds a layer of safety on slopes that a single pair cannot. Compared with the ROBLOCK and MaxxHaul pairs, each AFA chock is narrower and lighter, while the set gives more total coverage and the handles avoid rusting eyebolts.\n\nIt is the pick for owners who want to chock multiple tires, owners of dual-axle motorhomes and anyone who parks on a regular slope.",
     "specs": [
       "4 chocks per pack",
@@ -111,7 +111,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41MysEjmjsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07VMTLFD1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07VMTLFD1?tag=rvgearlab-amz-20",
     "description": "SECURITYMAN's solid rubber chocks are listed to hold up to 20,000 pounds, with a treaded grip, a predrilled hole for rope or chain and a molded grab handle. At $37.99 the set carries the highest stated load figure in this comparison.\n\nThe listed 20,000 pound figure is the highest here, which gives owners of heavier coaches a clearer number to compare against their gross weight. The treaded surface grips on slippery ground, and the molded handle gives a way to lift and pull the chock without a separate rope.\n\nIt is the pick for owners of heavy trailers and larger motorhomes who want a stated load rating, treaded grip and an easy-to-carry handle at a mid-range price.",
     "specs": [
       "Up to 20,000 lb",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51RcS3IFeGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CH8636NT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CH8636NT?tag=rvgearlab-amz-20",
     "description": "OULEME's pair is 8.3 by 4.4 by 4 inches each, with a 52 inch nylon rope and three reflective strips. The rubber is waterproof and non-slip, and the pair weighs 7.5 pounds. It costs $36.99.\n\nThe long rope makes pulling the chocks out easier than eyebolt designs, since you can reach under a big tire without crawling. Against the ROBLOCK and MaxxHaul pairs, the OULEME is smaller and about half the weight, which makes it easier to store and carry.\n\nIt is the pick for owners who park in the dark, want reflective strips for visibility and prefer a lighter set with a long pull rope.",
     "specs": [
       "8.3 x 4.4 x 4 inch",

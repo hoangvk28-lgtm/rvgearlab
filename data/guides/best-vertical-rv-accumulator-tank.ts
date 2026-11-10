@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/311wPVW1CZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B000N9VF6Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B000N9VF6Q?tag=rvgearlab-amz-20",
     "description": "The SHURFLO 182-200 is a 24 oz pre-pressurized tank with a built-in diaphragm, a factory 30 PSI charge and a stated 20 to 125 PSI working range. Its listing says it reduces pump cycling and smooths faucet pulses.\n\nCompared with the 0.75 L generics, it is the one that names a branded part number and a 30 PSI factory charge, so replacement matching is easier. It also has a smaller nominal volume than the 1 L MRGVFLO.\n\nA solid choice for owners replacing an existing Shurflo-style accumulator in a pump bay. The printed part number makes reordering simple years later.",
     "specs": [
       "24 oz, 125 PSI max",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41BVK8lHbaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GZZ4YD81?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GZZ4YD81?tag=rvgearlab-amz-20",
     "description": "The MRGVFLO tank holds 1.0 L with a 10 to 125 PSI range, a 1/2 inch MNPT port and a factory 10 PSI precharge. Its listing spells out a 12 by 5 by 4.49 inch body.\n\nNext to the Kingdder and RecPro 0.75 L tanks, it adds a third more nominal volume in a body that is long and narrow. The listed size makes it simple to plan a floor footprint.\n\nA good fit for owners with a lengthy cabinet who want the largest buffer among the small tanks. The stated 10 PSI charge gives a clear starting point for tuning.",
     "specs": [
       "1.0 L, 125 PSI max",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41gQljPP9OL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08DZHNQ4G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08DZHNQ4G?tag=rvgearlab-amz-20",
     "description": "The RecPro accumulator measures 5 1/8 inches wide, 4 1/2 inches high and 8 inches deep, with an internal volume of 0.75 L and barbed fittings. The listing explains that the pre-pressurized bladder goes on the pressurized side of the pump.\n\nIt is shorter in height than the MRGVFLO and ships with barbs where the generic MNPT tanks need adapters. Among the 0.75 L units it has the clearest dimension set.\n\nA strong pick for low-clearance spots where a 4.5 inch height is the limit. The barbs mean the first connection needs no adapters.",
     "specs": [
       "0.75 L, 5.1 x 4.5 x 8 in",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51NQWRb7gDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BQHK6T45?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BQHK6T45?tag=rvgearlab-amz-20",
     "description": "The Kingdder set is a 0.75 L, 125 PSI tank with PA plastic covers and NBR rubber mounting feet, packed with a 1/2 inch screw-in pipe strainer with a 50 mesh stainless screen. Its instructions point to the tank's own gauge for setting precharge.\n\nThat strainer is a real extra over the RecPro and MRGVFLO tanks, which add nothing to the box, and the rubber feet help it sit quietly. The strainer protects the pump inlet while the tank cushions the outlet.\n\nA useful pick for buyers who want a tank and an inlet strainer in one purchase. The rubber feet make it a tidy, quiet mount on a shelf.",
     "specs": [
       "0.75 L, 125 PSI max",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41NZm61PrqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FPCY35PB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FPCY35PB?tag=rvgearlab-amz-20",
     "description": "The GRahckv kit pairs a 12V DC pump rated 6 GPM and 70 PSI with a 0.2 gallon, 125 PSI pre-pressurized tank. It lists 1/2 inch hose barbs, PTFE tape, three clamps and a 9.8 foot self-priming lift.\n\nWhile the others are tank-only buys, this one hands you the pump, the tank and the connecting parts together. It also uses NSK bearings in the pump, which the listing ties to quiet running.\n\nBest for owners building or replacing a whole pump station who want everything matched. One purchase covers the pump, the cushion and the connecting hardware.",
     "specs": [
       "12V pump, 6 GPM, 70 PSI",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41NaSGf2mvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01L2VD41M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01L2VD41M?tag=rvgearlab-amz-20",
     "description": "The Jabsco 30573-0003 is a black mini accumulator tank from a long-standing marine pump maker. Its listing is brief, naming the part number and the mini size.\n\nIt sits between the generic 0.75 L tanks and the Shurflo-style 182-200 on branding, with the Jabsco name aimed at owners who match pump and tank by brand. Its listing does not print pressure or volume figures the way the others do.\n\nA reasonable pick for Jabsco system owners who want a same-brand mini tank. The compact size fits where a larger tank will not.",
     "specs": [
       "Jabsco 30573-0003",

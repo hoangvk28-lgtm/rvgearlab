@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41DARZmyWNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BZV5HVXJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BZV5HVXJ?tag=rvgearlab-amz-20",
     "description": "Cupohus builds the 35FT as a 5/8 inch extra thick wall drinking water hose, and it states a -4°F to 176°F operating range. A 3-layer hybrid polymer, freeze resistant flex and BPA and lead free construction are listed.\n\nIt is the lowest priced hookup hose here and the one that spells out its cold range most plainly. A bright green color makes it easy to see.\n\nCold-weather campers who want a flexible hose get a thick wall. That wall resists abrasion on rough ground.",
     "specs": [
       "5/8 inch, 35 ft",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41FUTLFAYwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GFSJD3VL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GFSJD3VL?tag=rvgearlab-amz-20",
     "description": "The Nilight 50FT is a 3-layer hose with food-grade synthetic rubber layers and a netted rope middle layer. It includes a storage bag and lists a -4°F to 176°F range with solid 3/4 inch aluminum fittings.\n\nIt has the same range as the Cupohus and adds a bag. It is shorter than the Nilight 75 FT and costs less.\n\nIt suits owners who want a flexible hose and storage in one package. The rope layer adds strength.",
     "specs": [
       "5/8 inch, 50 ft",
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41sW+T-qjbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GFTJXX96?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GFTJXX96?tag=rvgearlab-amz-20",
     "description": "The Nilight 75FT has the same 3-layer construction, storage bag and -4°F to 176°F range as the 50 ft version. It uses solid male and female aluminum fittings.\n\nIt gives 25 feet more reach than the Nilight 50 FT. It is priced slightly lower than the Camco.\n\nIt suits owners who need a long reach in cool weather. The bag keeps the hose tidy.",
     "specs": [
       "5/8 inch, 75 ft",
@@ -108,7 +108,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Miyv9Zz-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09WC3SMZH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09WC3SMZH?tag=rvgearlab-amz-20",
     "description": "The Camco EvoFlex 25-Ft is an extra flexible hose with no memory, nickel plated machined fittings and stainless steel strain reliefs. It is lead, BPA and phthalate free and made in the USA.\n\nIt is the highest priced pick and the most flexible by description. It focuses on fittings quality over a cold rating.\n\nIt suits owners who value flexibility and strong fittings. It lists no cold temperature range.",
     "specs": [
       "5/8 inch, 25 ft",
@@ -135,7 +135,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ddMEOgdUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07Y5L5J73?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07Y5L5J73?tag=rvgearlab-amz-20",
     "description": "This RecPro Fresh Water Fill Hose is 10 ft long with a 1 1/4 inch bore, and the listing calls it cold and heat resistant. It has a ribbed section and a smooth section.\n\nIt is for the tank fill rather than a hookup, which sets it apart from the other picks. It is sold without clamps.\n\nIt suits owners replacing a filler neck hose. It adds no stated temperature range.",
     "specs": [
       "1 1/4 inch, 10 ft fill hose",
@@ -162,7 +162,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41XDmAPovqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F3VYPR9Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F3VYPR9Y?tag=rvgearlab-amz-20",
     "description": "The DSRTLP is a 6 inch replacement shower hose in lead-free PVC with a stated range of -40°F to 140°F. It lists a crush-resistant design, thickened horn connectors and a 0.4 lb weight.\n\nIt has the widest cold range listed but is a short fitting-type hose. It is the lowest priced pick.\n\nIt suits owners replacing a shower hose in a camper. It is not a hookup hose.",
     "specs": [
       "6 inch shower hose",

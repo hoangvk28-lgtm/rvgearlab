@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51HG7UBui2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DQ7DV8GC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DQ7DV8GC?tag=rvgearlab-amz-20",
     "description": "The KingCamp is an instant SUV tent, 9.2 by 9.2 by 7.2 feet, sleeping 6 to 8 with a quick-open frame that sets up and packs down in 3 minutes. It uses 150D Oxford with a PU3000mm coating, three large windows and a mesh roof panel.\n\nA detachable vehicle sleeve lets the tent stand alone, and a movie screen option adds entertainment. It costs about $16 less than the Happy Travel and has a similar quick pitch.\n\nIt suits families who want fast setup, a PU3000 coating and a big floor. Mesh and windows cut condensation.",
     "specs": [
       "9.2 x 9.2 x 7.2 ft, 6-8 people",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41KpRpgEsNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GXT6ZFD7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GXT6ZFD7?tag=rvgearlab-amz-20",
     "description": "The Happy Travel has pre-attached poles that pitch in about a minute with a hydraulic device at the top. It measures 10 by 10 feet with an 83 inch height, fits a king-size air mattress and attaches to the tailgate of most SUVs, MPVs and trucks.\n\nIt pitches faster than the KingCamp and offers a larger square floor than the 9.2 foot KingCamp. A 3000mm PU-coated fabric and a mesh roof add comfort.\n\nIt suits families who want the fastest route from parking to sleeping room. It covers many vehicle types.",
     "specs": [
       "10 x 10 ft, 83 in tall",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410+UJ3nFuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DFYCMFWG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DFYCMFWG?tag=rvgearlab-amz-20",
     "description": "The UNP Dome gives a 10 by 10 foot floor under an 84 inch ceiling for 4 to 6 adults, with four mesh windows and a rainfly that has taped seams. A heavy-duty elastic sleeve with adjustable straps wraps the car.\n\nIt offers the same floor size as the Happy Travel at well under half the price. Poles are threaded by hand, so it pitches slower than the instant tents.\n\nBudget buyers with CUVs, SUVs and minivans get standing room without paying for an instant frame. Pole threading is the only extra work.",
     "specs": [
       "10 ft square, 84 in center",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51j5A6CE-aL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G4W542PV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G4W542PV?tag=rvgearlab-amz-20",
     "description": "The VEVOR connects to an SUV tailgate and opens as a 6 by 6 foot pop-up screen house for 4 to 6 people. High-density mesh walls keep mosquitoes out, fabric panels give shade and a curved roof sheds rain.\n\nCheapest of the five and the lone screened room, it does a different job than the sleeping tents. Fiberglass and steel poles make a sturdy frame, and a ground cloth, stakes and carry bag are in the box.\n\nIt suits families who eat and relax at the back of the vehicle. It pairs well with a sleeping tent.",
     "specs": [
       "6 x 6 ft pop-up screen house",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31c5BpWBheL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DS9KF52L?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DS9KF52L?tag=rvgearlab-amz-20",
     "description": "This hatch-attached tent offers an 8 by 8 by 7.2 foot floor for 4 to 6 adults, a PU3000mm shell, sealed seams and two layers of fabric. It connects to SUVs, crossovers, minivans and pickups and stands alone too.\n\nIt carries the same PU3000 rating as the instant tents while costing about half as much, and it pitches in roughly five minutes with a helper. The trade is a smaller floor and slower setup than the instant frames.\n\nWaterproof camping without an instant-frame premium is its job. The carry bag measures 23.6 by 11 by 11 inches.",
     "specs": [
       "Sealed PU3000 shell",

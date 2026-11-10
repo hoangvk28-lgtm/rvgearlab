@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41OdlULxekL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D643KDKN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D643KDKN?tag=rvgearlab-amz-20",
     "description": "The Coleman North Rim is a mummy rated for temperatures as low as 0F, with Coletherm hollow polyester insulation and a Thermolock tube that seals the zipper line. It measures 82 x 32 inches, fits campers up to 6 feet 2 inches and has an adjustable hood.\n\nNext to the TETON Trailhead 20F, it is the colder-rated bag, and a 5-year limited warranty backs it. Next to the Londtren Large, it is narrower and shaped like a mummy, which holds heat closer.\n\nA strong choice for winter campers who want a hooded mummy with a clear 0F label. It is machine washable.",
     "specs": [
       "0F rating, mummy cut",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31HtpgF5i4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D47YFZGW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D47YFZGW?tag=rvgearlab-amz-20",
     "description": "TETON built the Trailhead as a 20 degree hooded bag insulated with microfiber, with extra fill in a vaulted footbox. The box also holds a stuff sack with heavy-duty straps and storage loops, and the hood closes gaps around the face.\n\nCompared with the Coleman North Rim 0F, it is lower in price and rated 20 degrees warmer, which suits shoulder-season and mild winter nights. Microfiber insulation adds loft and compressibility without extra bulk.\n\nA good pick for backpackers who want a cold-rated mummy at a moderate price. Hang loops help keep the loft in storage.",
     "specs": [
       "20F mummy, microfiber fill",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/417rXa-hoDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BBBYY2SM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BBBYY2SM?tag=rvgearlab-amz-20",
     "description": "Londtren's XXL flannel bag measures 90 x 40 inches and accommodates most people up to 7 feet. The listing gives a temperature rating of 0 to 15F and a comfort rating of 20 to 55F, in a flannel-lined 210T polyester shell with a draft tube.\n\nAgainst the Coleman North Rim 0F, it is far roomier and costs less, with a padded shoulder collar and a cinching hood. It also unzips with a two-way zipper.\n\nA fit for tall winter campers who want space and a printed comfort range. It suits car camping where weight is not a concern.",
     "specs": [
       "0 to 15F rated, 90 x 40 in",

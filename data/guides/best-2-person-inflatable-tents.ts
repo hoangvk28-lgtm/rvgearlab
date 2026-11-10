@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/515L7QDAoiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GT5W766D?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GT5W766D?tag=rvgearlab-amz-20",
     "description": "The NANJEEN is the only pick listed for 1 to 2 people, and it uses 600D Oxford fabric that the listing calls waterproof and windproof. A black UV-coated interior layer blocks harmful rays, and mesh windows on all sides provide airflow.\n\nIt has the heaviest fabric of the four, and a hand pump sets it up in 5 minutes. Against the catnaoa it costs more and sticks to a 1 to 2 person size.\n\nIt suits couples and solo campers who want a compact, glamping-style air tent. Beginners can pitch it alone.",
     "specs": [
       "1-2 person air tent",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51d5Ek6aNIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F7KSSLWR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F7KSSLWR?tag=rvgearlab-amz-20",
     "description": "The SANHOVO is a 2 to 4 person inflatable with a 118 by 87 inch interior. The listing says it fits 2 adults plus kids or pets, with 210D Oxford at PU2000mm, PVC air tubes and two mesh doors with six mesh windows.\n\nIt has the biggest listed floor of the four, and the pump has a pressure-limit valve that stops overfilling. Against the NANJEEN it lists a floor size and a lighter 210D fabric.\n\nIt suits couples who want space for chairs, kids or a dog. It sets up in about 5 minutes.",
     "specs": [
       "2-4 person, 118 x 87 in",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41COTZreGcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FZRFZPWT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FZRFZPWT?tag=rvgearlab-amz-20",
     "description": "The catnaoa measures 87 by 87 by 77 inches and is listed for 1 to 3 people. Integrated air poles inflate in 3 minutes by hand pump, and 210D Oxford resists water and tears.\n\nIt has the tallest listed peak of the four at 77 inches and the fastest listed inflation. Against the SHANQUAN it costs more and stands 10 inches higher, with one mesh door and three windows.\n\nIt suits couples who want standing room and a fast pitch. The 77 inch height lets adults stand upright.",
     "specs": [
       "1-3 person, 87 x 87 x 77 in",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41YUT1qV-YL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F8QHN8T3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F8QHN8T3?tag=rvgearlab-amz-20",
     "description": "The SHANQUAN is a 2 to 4 person inflatable measuring 82.7 by 82.7 by 67 inches. It uses 210D anti-tear Oxford with a 3000mm waterproof rating, a built-in mosquito net and double doors.\n\nPriced lowest of the four, it also lists the highest stated waterproof number. Against the SANHOVO it has a smaller floor and a higher millimeter rating.\n\nIt suits budget campers and hikers who want the lowest cost. The listing calls it ultra-lightweight and compact when deflated.",
     "specs": [
       "2-4 person, 82.7 x 82.7 in",

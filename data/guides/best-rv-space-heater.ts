@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Z4LdvtMwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B097RG67QB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B097RG67QB?tag=rvgearlab-amz-20",
     "description": "The DREO Atom One is a 1500W portable electric heater with a thermostat, ECO mode, 70 degree oscillation and ETL-listed Shield360 tip-over and overheat protection. It is built on DREO Hyperamics technology for faster heat-up.\n\nAgainst the Amazon Basics Ceramic, it adds oscillation and ECO mode for a higher price. Against the Xtreme Heaters portable, it runs at 1500W with a thermostat.\n\nBest for a main cabin heater on shore power. Check your breaker before running 1500W with other loads.",
     "specs": [
       "1500W with thermostat",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41WZB-QvgQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07V6M3PDX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07V6M3PDX?tag=rvgearlab-amz-20",
     "description": "The Amazon Basics Ceramic Space Heater has High 1500W, Low 900W and Fan Only settings, a thermostat and a 43 dB noise level. It weighs about 3 pounds and measures 7.5 by 6.3 by 9.5 inches, and has overheat and tip-over protection.\n\nVersus the DREO Atom One, it is cheaper and smaller but does not oscillate. Versus the Performance Tool, it gives much more heat.\n\nBest for budget cabin heating where small size matters. It will not heat a large cabin quickly.",
     "specs": [
       "1500W high, 900W low",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41lcn26x3uL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GBPF4F8F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GBPF4F8F?tag=rvgearlab-amz-20",
     "description": "The Xtreme Heaters portable heater offers 750 and 1500W settings and is described as UL tested. It draws air from the top so it can sit against walls, and it has a low profile and a stable base to prevent tipping.\n\nCompared with the DREO Atom One, it gives a 750W step but no oscillation. Compared with the Amazon Basics Ceramic, it adds a wall-friendly design for a higher price.\n\nBest for tight boat or RV cabins where you want to set it against a wall. Check the safety features on the specific listing.",
     "specs": [
       "750 and 1500W settings",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41h5zpf-3kL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DCC5QWQ1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DCC5QWQ1?tag=rvgearlab-amz-20",
     "description": "The DREO Smart Electric Wall Heater is made for indoor and bathroom use, with an ALCI plug, flame-retardant 5VA materials, overheat protection and an IP24 waterproof rating. It uses PTC heating with a touch panel, remote, app and Alexa control.\n\nCompared with the DREO Atom One, it is a wall unit, not a portable one, and it costs more. It fits a bathroom, not a living area.\n\nBest for a bathroom or small wet room. Check mounting and the plug before installing.",
     "specs": [
       "ALCI plug, IP24 rating",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41C42R96QEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B8361KZG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B8361KZG?tag=rvgearlab-amz-20",
     "description": "The Performance Tool W5011 is a 250 watt personal space heater in white. The listing gives little detail beyond the wattage.\n\nCompared with the Amazon Basics Ceramic, it uses a sixth of the power and gives far less heat. It is the lowest-wattage option here.\n\nBest for warming a desk, feet or a small nook when power is limited. It will not heat a cabin.",
     "specs": [
       "250W personal heater",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41KGH5U8UzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H673XCX2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H673XCX2?tag=rvgearlab-amz-20",
     "description": "The Xtreme Heaters 1000W RV Heater is a forced-air heater for tanks, valves and plumbing under RVs, campers and skirted setups. It mounts in any direction, even upside down, and fits pump and tank bays.\n\nVersus the cabin heaters, it is not for living space and costs far more. It targets freeze protection in bays.\n\nBest for skirted RVs and underbelly freeze protection. It is not a cabin heater.",
     "specs": [
       "1000W forced-air heater",

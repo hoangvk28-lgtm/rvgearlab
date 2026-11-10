@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/312xTkDU2YL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C98RGY15?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C98RGY15?tag=rvgearlab-amz-20",
     "description": "The baleaf Fleece Waterproof is a fleece-lined legging described as suitable for cold weather under 40 degrees Fahrenheit. It adds a water-resistant fabric for light rain, a high-rise waistband and four pockets, two side and two deep side.\n\nAgainst the Heathyoga Waterproof, it states a temperature range outright and adds the extra pockets. Next to the GAYHAY, it offers a clearer cold rating and a firmer water-resistance description.\n\nIt suits hikers who step out at sub-40 degree mornings and want pockets plus rain protection. The listing mentions running, hiking, cycling and skiing as uses.",
     "specs": [
       "Fleece lined, under 40F",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31cickmJTvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CLNQPYV9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CLNQPYV9?tag=rvgearlab-amz-20",
     "description": "The Heathyoga Waterproof is a thermal legging with a fleece lining, hands-free cargo pockets and a stretch fabric. The listing says it helps protect against light rain, snow and splashes for hiking and winter travel.\n\nCompared with the baleaf, it has two pockets rather than four. Against the Heathyoga Pockets, it focuses on weather protection over reflective detail.\n\nIt suits snowy day walks and travel where splashes and flurries are the main concern. The cut is lighter than winter pants.",
     "specs": [
       "Fleece-lined thermal fabric",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31K8RMm1N5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DDLCV1XY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DDLCV1XY?tag=rvgearlab-amz-20",
     "description": "The Heathyoga Pockets pairs a heat-reflective fleece lining with a water-resistant outer, three pockets with a waist loop and a 4.5 inch waistband. Reflective details improve visibility in low light.\n\nAgainst the baleaf, it adds reflective detailing and a waist loop. Next to the GAYHAY, it adds visibility trim at a similar cost.\n\nIt suits early-morning or late-afternoon hikers on roads and trails in low light. The wide waistband holds well.",
     "specs": [
       "Heat-reflective fleece lining",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31HZaphnFZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H6MP2P32?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H6MP2P32?tag=rvgearlab-amz-20",
     "description": "The GAYHAY Fleece uses a dense fleece lining, a water-resistant outer and deep side pockets in a high-waist, tummy control design. The listing says it works for casual wear or under ski pants.\n\nAgainst the baleaf, it costs less and has simpler pockets. Compared with the FULLSOFT, it adds a water-resistant outer.\n\nIt suits budget shoppers who want warmth and shedding of light rain, snow flurries and spills. It layers under ski pants.",
     "specs": [
       "Dense fleece lining",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31YbnrJ2BBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H2XFMGFS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H2XFMGFS?tag=rvgearlab-amz-20",
     "description": "The FULLSOFT Thermal is a fleece-lined legging in 92 percent polyester and 8 percent spandex with two deep side pockets. It has a high waist, tummy control and a four-way stretch design.\n\nAgainst the GAYHAY, it has no water-resistance claim and costs the least. Next to the baleaf, it has fewer pockets and no stated temperature range.\n\nIt suits budget buyers who need a warm base layer for dry, cold days. It is fine under shell pants.",
     "specs": [
       "Fleece-lined, 92% polyester",

@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51OOmVRvKXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G1LRP8MW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G1LRP8MW?tag=rvgearlab-amz-20",
     "description": "The Kohree NSF 372 Certified 25-ft hose is independently tested to NSF/ANSI/CAN 372 lead-free standards. It lists a no odor, clean taste build with precision-machined fittings and a large rubber grip.\n\nIt is the only Kohree with NSF 372 wording, and it is priced between the two Camco hoses and the Kohree with bag. It is UV stabilized.\n\nIt suits owners who want documented lead-free testing at a mid price. The grip makes tight connections easy.",
     "specs": [
       "5/8 inch, 25 ft",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51OEGsMMuoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B004RNR9BY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B004RNR9BY?tag=rvgearlab-amz-20",
     "description": "Machined fittings and a 5/8 inch inner diameter anchor the Camco TastePURE 25-Foot, which is NSF/ANSI 61 and CSA lead-free certified. The wall is 20 percent thicker than premium hoses and resists kinks with a diamond-hatch pattern.\n\nPricing lands below the EvoFlex and above the Kohree hoses. It is built in the USA.\n\nChoose it for the most explicit potable water certification of the group. Zero memory means it coils back up without a fight.",
     "specs": [
       "5/8 inch, 25 ft",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51xc6W1kgLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09MWM8MH8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09MWM8MH8?tag=rvgearlab-amz-20",
     "description": "Camco's EvoFlex Professional Plus is a 25 ft, 5/8 inch hose free of lead, BPA and phthalates, with CSA lead-free certification to NSF/ANSI 372. Its wall is 20 percent thicker than premium hoses and has zero memory.\n\nIt is the most flexible pick and the top of the price range. The build uses UV-stabilized PVC with diamond-hatch reinforcement.\n\nTight turns around a pedestal are easy. It fits owners who prize flexibility above all.",
     "specs": [
       "5/8 inch, 25 ft",
@@ -109,7 +109,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51aRSH7ve8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CY4PR6Z1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CY4PR6Z1?tag=rvgearlab-amz-20",
     "description": "Kohree adds a storage bag to the 25FT, which has a 20 percent thicker build, brass-plated aluminum fittings and strain relief at both ends. CA65 compliance is stated as well.\n\nThe price is under the other Kohree and the cheapest among the Kohree and Camco picks. The bag is a bonus at that cost.\n\nThe bag keeps the hose clean between trips. That suits owners who want a sturdy build with a bundled carry solution.",
     "specs": [
       "5/8 inch, 25 ft",
@@ -136,7 +136,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ls1NpjQ-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BRKJ1915?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BRKJ1915?tag=rvgearlab-amz-20",
     "description": "The OULEME 25FT lists a temperature range of -22°F to 158°F and a 150 PSI maximum working pressure. It uses hybrid polymer layers and solid aluminum 3/4 inch fittings.\n\nIt is one of the few picks that states a working pressure. It matches the RVMATE on price.\n\nIt suits owners who want stated working limits. The numbers help match it to a regulator.",
     "specs": [
       "5/8 inch, 25 ft",
@@ -163,7 +163,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41eJk3lDRoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BQV3PR4G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BQV3PR4G?tag=rvgearlab-amz-20",
     "description": "For a 25 foot run, the RVMATE offers a 5/8 inch bore built from 3 layers of hybrid polymer, with CA65 compliance noted for drinking water. It lists lead-free aluminum connectors and a sealing ring.\n\nIt ties the OULEME on price and is the lowest priced. It uses compression technology.\n\nIt suits owners who want a plain low-cost hose. It is a simple spare to keep in the basement bay.",
     "specs": [
       "5/8 inch, 25 ft",

@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/2147QBSuU0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B007SXKAWK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B007SXKAWK?tag=rvgearlab-amz-20",
     "description": "The Crystal Quest CQE-RC-04008 is a replacement cartridge equipped with an arsenic-selective resin, sized 2-7/8 by 9-3/4 inches. The listing gives an operating pressure of 20 to 60 psi, a flow rate of 0.5 gallons per minute and a capacity of up to 1,000 gallons at hardness below 100 ppm.\n\nIt is the only product here whose title and first bullet name arsenic, which makes it the reference point for the other picks. The compact size fits Crystal Quest housings.\n\nThe pick for buyers whose water source has an arsenic concern and who already own a compatible Crystal Quest housing. It is also a good choice for anyone who wants a media-specific approach.",
     "specs": [
       "Arsenic-selective resin",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41RyE3nnj4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DPQK563C?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DPQK563C?tag=rvgearlab-amz-20",
     "description": "The Hansing 6-Layer RV Water Filter uses 0.5-micron pleated polyester, PP cotton, activated carbon fiber, molecular sieve and KDF-55 fiber. It lists a stand, pressure gauge, brass threads and a capacity of 12,000 to 25,000 gallons at high flow up to 6 gpm.\n\nCompared with the Crystal Quest cartridge, it is a complete system with a pressure gauge, which helps you see when the filter is loading. Its listing describes heavy metal removal as part of the six-layer media.\n\nBest for heavy users who want a stand-mounted multi-stage system. It also suits people who want a pressure gauge on the filter.",
     "specs": [
       "6-layer filtration",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51cEM+M8mIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0024E6V30?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0024E6V30?tag=rvgearlab-amz-20",
     "description": "The Camco Tastepure 2-pack uses GAC and KDF in a 6-step design, independently listed to NSF/ANSI 42 and 53 and CSA lead-free certified. It is made in the USA and attaches to any standard garden or drinking water hose.\n\nIt adds a certified taste and lead-content story on top of the Glacier Fresh options, which skip the certification lines. For arsenic, the listing does not make a claim, so it serves as a daily-use filter.\n\nA reliable everyday companion for campers whose water has no known arsenic issue. It pairs well with a dedicated cartridge when a test points to a problem.",
     "specs": [
       "NSF/ANSI 42 and 53 listed",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41k-Ktv32XL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07MG54R6F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07MG54R6F?tag=rvgearlab-amz-20",
     "description": "The GLACIER FRESH 2-pack uses lead-free, BPA-free GAC and KDF media and includes a flexible hose protector. The listing reports a lab-verified 97.9 percent chlorine reduction and a three-month season life.\n\nIt is the least expensive pick on this list and the simplest to use, with no tools. It does not claim arsenic removal, so its role is taste and chlorine.\n\nA fine spare filter for rural travelers who also use a dedicated arsenic solution. It is also a handy low-cost choice for first-time buyers.",
     "specs": [
       "GAC and KDF media",

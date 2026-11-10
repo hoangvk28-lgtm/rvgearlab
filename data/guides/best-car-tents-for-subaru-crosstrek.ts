@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51GkST4IZXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H69L9JXH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H69L9JXH?tag=rvgearlab-amz-20",
     "description": "The optrcn is an arch-style rear tent whose title names the Subaru Crosstrek for 2012 through 2026. It connects to the rear hatch for added covered space and can also stand on its own when the car leaves.\n\nIt carries the widest model-year range of the three and a water-resistant fabric made for light rain and debris. The LZBCIXA costs a third as much and is only an awning, while this one wraps the hatch.\n\nIt suits owners who want a sheltered space behind the open hatch for changing, gear or sleeping pads. The Crosstrek Hybrid has its own listing from the same maker.",
     "specs": [
       "Names Crosstrek 2012 to 2026",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41OGwc0mJML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HHWG5DP5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HHWG5DP5?tag=rvgearlab-amz-20",
     "description": "The OYZUOAU is titled for Subaru XV and Crosstrek 2012 through 2026 and uses a removable rainfly. It is a rear hatch shelter that can also be pitched alone when the hatch is not needed.\n\nIt matches the optrcn closely in shape and model coverage, and the removable rainfly is the listed difference. The price runs a little above it, so the choice comes down to the fly.\n\nIt suits campers who expect changing weather and want to pull the fly off for airflow on warm nights. The sturdy design is described for vehicle-attached or standalone use.",
     "specs": [
       "Names Subaru XV and Crosstrek",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Mf+3rqlSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G4W77LMQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G4W77LMQ?tag=rvgearlab-amz-20",
     "description": "The LZBCIXA is a car awning for the 2024 Subaru Crosstrek, measuring 280 by 380 cm. The kit includes 6 stakes, 6 ropes, 2 suction cups and 2 meter poles, and the stakes are aluminum alloy.\n\nIt costs roughly a third of the hatch tents and installs with suction cups on a clean surface. Unlike the optrcn and OYZUOAU it is shade, not an enclosed space.\n\nIt suits a Crosstrek owner who wants beach or trailhead shade quickly. The listing says it sets up in minutes.",
     "specs": [
       "For 2024 Crosstrek",

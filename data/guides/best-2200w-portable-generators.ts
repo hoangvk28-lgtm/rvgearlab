@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Pz7SQZoOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B099JZXBPW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B099JZXBPW?tag=rvgearlab-amz-20",
     "description": "The GENMAX GM2200i lists 2200 starting watts from a 79.7cc four-stroke engine with inverter output. It weighs 41.8 lb, runs as low as 58 dBA and states up to 6 hours at 50 percent load from a 1 gallon tank.\n\nIt names two 120V/20A outlets and a 120V/30A outlet, which suits an RV hookup, and adds a CO shutdown sensor, low oil and overload alarms. The RINADURS leaves out several of those outlet details.\n\nIt suits car campers and small-trailer owners who want a quiet, light generator with a clear safety package. Economy mode trims fuel use at light loads.",
     "specs": [
       "2200 starting watts, 79.7cc",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/419zOkMTEYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DR8HH28F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DR8HH28F?tag=rvgearlab-amz-20",
     "description": "The RINADURS lists 2200W in its title and calls it a 2000W portable inverter generator elsewhere in the listing, weighing 41.2 lb. It offers Eco Mode, a CO sensor, low oil shutdown, overheat protection and a parallel-ready design.\n\nIt is slightly lighter than the GENMAX and can pair with a second unit, which the GENMAX listing does not state. It costs a little less.\n\nIt suits campers who may later add a second generator for more power. The listing targets camping, tailgating and backup use.",
     "specs": [
       "2200W title, 41.2 lb",

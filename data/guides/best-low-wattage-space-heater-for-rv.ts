@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41fKCEXfCrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G113NGTB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G113NGTB?tag=rvgearlab-amz-20",
     "description": "The Brightown plug-in heater has P1 at 300W, P2 at 800W, an ECO mode and fan-only, with a thermostat set from 60 to 90°F and a remote. The listing says it is ETL certified with V0 flame-retardant materials and warms spaces up to 100 square feet.\n\nAgainst Minetom, it states clear wattage steps and ETL certification but costs less. Against shinic 500W, it offers a 300W step and a remote.\n\nBest for a bunk or small bedroom on limited power. At 800W it still draws about 6.7 amps.",
     "specs": [
       "300W and 800W settings",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/412yl8BwsGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07XK1R8QT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07XK1R8QT?tag=rvgearlab-amz-20",
     "description": "The Minetom wall-outlet heater is listed as 350 watts at 120 volts and 2.9 amps, with a digital thermostat in degrees, a 1 to 12 hour timer and a rotating plug. The title says 450W, so the listing contradicts itself, and you should confirm the real wattage.\n\nAgainst Brightown 800W, it draws less at 2.9 amps but gives no ETL note. Against Performance Tool 250W, it adds a thermostat and timer.\n\nBest for a tiny load budget with a digital thermostat. Resolve the 350 versus 450W question before relying on it.",
     "specs": [
       "350W per spec, 2.9 amps",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/414+zeHziUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CB892WWS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CB892WWS?tag=rvgearlab-amz-20",
     "description": "The shinic is a 2-pack of 500W PTC ceramic heaters measuring 3.46 by 4.33 by 6.22 inches, with tip-over and overheat protection and a noise level below 45 dB. The listing calls it an under-desk office heater.\n\nAgainst Gaiatop 500W, it gives two units for similar money. Against Brightown 800W, it lacks a thermostat or timer.\n\nBest for warming two spots, such as a bunk and a desk. Two at once is 1000W total, so mind the supply.",
     "specs": [
       "2 x 500W PTC ceramic",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41nTQGY6H-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FMY58RN9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FMY58RN9?tag=rvgearlab-amz-20",
     "description": "The DR.PREPARE is a 600W PTC ceramic heater that tilts manually from 10 degrees down to 40 degrees up, measuring 5.4 by 5.3 by 7.8 inches. The listing says it is made of V-0 flame-retardant materials and shuts the heat off if tipped while the fan keeps running.\n\nAgainst shinic 500W, it adds a tilt and a bit more power. Against Gaiatop 500W, it lists flame-retardant material and the fan-continues behavior.\n\nBest for aiming heat at feet or a bed from a desk or shelf. It still heats only a small area.",
     "specs": [
       "600W PTC ceramic",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41KIDZ-YY0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CCTSYJM6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CCTSYJM6?tag=rvgearlab-amz-20",
     "description": "The Gaiatop is a 500W mini ceramic desk heater with 45 degree tip-over protection and overheat protection, and the listing calls it quiet and energy saving. It uses a PTC element for fast warm-up.\n\nAgainst shinic 500W, it is a single unit at a lower price. Against DR.PREPARE 600W, it has no tilt but costs less.\n\nBest for the cheapest personal heater. Check the exact size before buying.",
     "specs": [
       "500W mini ceramic",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41C42R96QEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B8361KZG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B8361KZG?tag=rvgearlab-amz-20",
     "description": "The Performance Tool W5011 is a 250 watt personal space heater in white. The listing gives only the wattage and nothing about safety features.\n\nAgainst Minetom Wall Plug, it has no thermostat or timer and costs more. At 250W it is the lowest draw here and warms very little.\n\nBest only when you must keep power under about 2 amps. Ask the seller about shutoffs before use.",
     "specs": [
       "250W personal heater",

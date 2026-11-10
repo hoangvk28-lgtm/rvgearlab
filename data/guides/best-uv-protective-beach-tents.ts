@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41UI1ZMGupL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HGQJ69DY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HGQJ69DY?tag=rvgearlab-amz-20",
     "description": "The Jihfmo is an 8 by 8 foot cabana for 6 to 8 people with 300D sun-protective silver-coated polyester certified UPF 50 and a listed 99.9% UV block. It folds with a 3-section pole design, weighs 12.5 lb in the package and anchors with four reinforced sand pockets.\n\nIt has the highest UV-block figure in this list and the heaviest fabric, 300D against 190T and 180T on the others. At 64 square feet it is also the largest, so a group sits in shade rather than in a sliver of it.\n\nIt suits families who want maximum shade and the strongest fabric claim. The setup guide is stitched into the carry bag.",
     "specs": [
       "UPF 50, 99.9% UV block",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41wmZwTXy1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08SJFG5D7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08SJFG5D7?tag=rvgearlab-amz-20",
     "description": "The WhiteFang is a 3-person tent made of 190T sun-proof coated polyester with UPF 50+ blocking 98% of UV, backed by 8 mm fiberglass rods and three large roll-up mesh windows. It has an extendable floor with an omni-directional zipper, plus three sandbags, eight steel stakes and sand stakes.\n\nCompared with the Wolfwise Standard 3-person, it lists thicker 8 mm rods and a larger anchoring kit. Against the Jihfmo it covers less area while costing a fraction and packing smaller.\n\nIt suits small families who want UPF 50+ coverage and an extendable floor for kids. The windows can be rolled to balance airflow and shade.",
     "specs": [
       "UPF 50+, 98% UV block",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/412lQGKT5WL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GMZXY6TX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GMZXY6TX?tag=rvgearlab-amz-20",
     "description": "The Wolfwise Standard measures 78.7 by 59.1 by 48 inches for three people and uses 190T polyester coated for UPF 50+ blocking up to 98% of UV. It includes three large mesh windows, three sandbags, four plastic and four metal stakes and a front extension for privacy.\n\nAgainst the WhiteFang it skips the omni-directional floor zipper and costs less. Compared with the NORKIRK it adds a larger anchoring kit and a stated UV-block percentage.\n\nIt suits budget families who want a UPF 50+ tent without paying for extras. The front extension offers a private spot for changing.",
     "specs": [
       "UPF 50+, 98% UV block",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41VdGg30iQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08RQFKJS6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08RQFKJS6?tag=rvgearlab-amz-20",
     "description": "The Babymoov is a pop-up baby and toddler beach tent with UPF 50+ sun protection, mesh windows, open sides and an integrated floor mat with sensory details. It folds into a carry bag with a lightweight frame.\n\nIt is designed for a different job from the family tents, giving a small child a sun-safe spot beside parents. Against the Chihee it is smaller and more specialised.\n\nIt suits parents who want a branded baby shade with a floor mat. It is best used with supervision, as the listing notes.",
     "specs": [
       "UPF 50+ baby shade",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41bqGYupn9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G6TCQZCZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G6TCQZCZ?tag=rvgearlab-amz-20",
     "description": "The Chihee is a 1-2 person pop-up beach tent weighing 1.04 kg and folding to a 63 by 63 by 3 cm round bag. It uses 180T silver-coated polyester with B3 mesh panels, has no front door for easy entry and includes four sewn-in sandbags plus four removable ones.\n\nIt has the lightest listed weight here, and its fabric is thinner than the 190T and 300D models. It also has no door, so coverage depends on the sun angle.\n\nIt suits solo beachgoers and couples who want a quick UV-coated shade. The eight sandbags make it more stable than its weight suggests.",
     "specs": [
       "1.04 kg, 63 cm round bag",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51F9BIkxydL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GPR927T9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GPR927T9?tag=rvgearlab-amz-20",
     "description": "The NORKIRK is a pop-up beach tent with UPF 50+ UV-resistant fabric blocking UVA and UVB, reinforced fiberglass poles and built-in sandbags. The listing describes it as lightweight and quick for one person to set up.\n\nIts price is the lowest in this list, and it names UPF 50+ in plain terms. It makes the most sense as a low-cost second shelter.\n\nIt suits budget shoppers who want a named UPF 50+ rating. Fill the built-in sandbags to stabilise it.",
     "specs": [
       "UPF 50+ UV-resistant fabric",

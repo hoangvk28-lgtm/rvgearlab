@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31uomZWhStL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00BYA10F4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00BYA10F4?tag=rvgearlab-amz-20",
     "description": "The DAC lists the Ford Maverick first in its compatibility line, along with the Jeep Gladiator, Ranger, Frontier, Rivian R1T and Cybertruck. It needs a tailgate width of 58 inches or less and a flat-back camper shell, and it fastens with elastic shock cords and plastic-coated hooks.\n\nIt beats the LEIRUIYG on weight and pack size, at 5 pounds and 11 by 11 by 6 inches. It is also the only one with fire-retardant materials and no-see-um mesh windows.\n\nIt is for Maverick owners who run a cap and want a quick tailgate enclosure. Raise the rear window, drop the tailgate and slip it on.",
     "specs": [
       "5 lb, 11x11x6 in pack",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/514E+sXMIrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HGQ33K6K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HGQ33K6K?tag=rvgearlab-amz-20",
     "description": "The LEIRUIYG is titled for the Ford Maverick and lists a 170cm peak height, a 155cm bed length and a 55cm tailgate extension. It uses fiberglass poles, a dual-layer door and an Oxford fabric with a weather-resistant coating that the listing calls 20 percent thicker.\n\nIt is the only pick of the two built as a free-standing bed tent, so it works without a cap. Compared with the DAC it takes poles to set up and gives a real floor and headroom.\n\nIt suits Maverick owners who camp from an open bed and want a custom-named fit. The listing also mentions help with compatibility checks and replacement parts.",
     "specs": [
       "170cm peak, 155cm bed length",

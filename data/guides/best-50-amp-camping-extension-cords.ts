@@ -30,7 +30,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41GfwlPTt3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BZV1ZT3N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BZV1ZT3N?tag=rvgearlab-amz-20",
     "description": "The PlugSaf 50 FT RV/EV Extension Cord is a 50 amp STW cord rated 125V and 250V, giving 6,250W and 12,500W, with NEMA 14-50P and 14-50R ends and a nickel-plated pure copper finish. It is sold in 15, 30 and 50 foot sizes and carries an IP65 waterproof claim, flexibility to -40F and an ETL listing. At $169.99 for the 50 foot size, it is the top pick.\n\nCompared with the Ficstar below it, the PlugSaf gives you three length choices instead of one, so you can buy the exact reach your site needs. The plated finish resists corrosion at the contacts, which matters at coastal and wet campsites, and the wide insulated grip protects the plug when you pull it from a stiff receptacle. The listing also names Level 2 EV charging use.\n\nThis is the pick for an owner who wants a standard 50 amp extension in the correct length for a pedestal gap. It suits full-time RVers, owners who also charge an EV and anyone who wants a long-lasting default cord from a line with several sizes.",
     "specs": [
       "50A, 125V and 250V, 12500W",
@@ -60,7 +60,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41A8Ep+IkLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DWXLVXP6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DWXLVXP6?tag=rvgearlab-amz-20",
     "description": "The Ficstar 30FT 50 Amp RV Extension Cord is built with 6/3 plus 8/1 AWG wiring, a heat-resistant flame-retardant PVC jacket and IP65 waterproofing. It uses 14-50 ends with 90 degree heads to reduce plug stress, ergonomic grips and ETL certification, and it handles temperatures from -40F to +221F. It costs $119.59 for the 30 foot length.\n\nAgainst the PlugSaf above it, the Ficstar states its gauge up front, so you can see the thick wire you are paying for without hunting through the listing. The 90 degree heads sit flat against the pedestal and the rig, which saves clearance in tight spots and keeps the cord from pulling sideways on the plug. Against the POWGRN below it, the Ficstar adds five feet of reach and a stated wiring spec.\n\nChoose it when you want the wire size stated clearly and who visit both hot desert sites and freezing mountain campgrounds. It suits owners with a tight pedestal layout, a plug that sits close to the ground and a preference for knowing exactly what is inside the jacket.",
     "specs": [
       "50A, 6/3 plus 8/1 AWG",
@@ -90,7 +90,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41aJHcUC9tL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CB277RGB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CB277RGB?tag=rvgearlab-amz-20",
     "description": "The POWGRN 25 FT 50 Amp RV/EV Extension Cord is a NEMA 14-50P to 14-50R cord rated 50A, 125V and 250V, giving 6,250W and 12,500W, with an IP65 jacket, an insulated handle and flexibility to -40F. The listing names ETL certification and Level 2 EV charging compatibility. It costs $88.99.\n\nAgainst the Ficstar above it, the POWGRN trades five feet of length for a lower price, and it matches the PlugSaf on its stated 50 amp rating. It is also much lighter to handle than the 50 foot PlugSaf, which is easier to coil and stow in a basement bay. The listing advises unfolding the cable fully during use, a sensible habit for any high-load cord.\n\nThis is the pick for campers who need a short 50 amp extension of about 25 feet and want to spend less. It suits seasonal campers with a pedestal just out of reach, owners who store the cord in a tight compartment and anyone who wants an ETL-listed cord without paying for extra length.",
     "specs": [
       "50A, 125V and 250V",

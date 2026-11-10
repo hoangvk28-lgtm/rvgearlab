@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51TjjIrkVIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HGNQ1KJR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HGNQ1KJR?tag=rvgearlab-amz-20",
     "description": "The BravArrk puts its fire-retardant stove jack in a floorless front living room, with two bedrooms behind on a full air-column frame. It runs 16.4 ft long and has 3 doors, 4 mesh windows and PU3000 Oxford fabric.\n\nAgainst the SANISANO it has a separate living space for the stove, so heat and sleeping areas are apart. Compared with the generic 13 by 10 ft model it costs about 230 dollars less and sleeps fewer.\n\nIt suits families who want to keep the stove in its own room for cold trips. The living room is pole-stabilized, and the bedroom beams are rated anti-burst.",
     "specs": [
       "Jack in a floorless living room",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41D7e0GR5IL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H4GJY81J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H4GJY81J?tag=rvgearlab-amz-20",
     "description": "This 13 by 10 ft inflatable hot tent lists 129 sq ft of floor plus a 64.5 sq ft vestibule and a usable interior of 118 by 157 by 82.6 inches. It has a zippered blackout canopy that works as one rainfly or splits in two, a removable privacy curtain and a stated 48-hour leak test.\n\nAgainst the BravArrk it adds a bigger floor and a blackout canopy for sleeping in. Compared with the WaldZimmer it is nearly double the capacity and costs about 320 dollars more.\n\nIt suits groups of eight who want a heated glamping shelter with separate living and sleeping zones. A foot mat and a shoe pouch keep the entrance tidy.",
     "specs": [
       "129 sq ft plus 64.5 sq ft vestibule",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51lzFwGoMvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FZJVR6CY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FZJVR6CY?tag=rvgearlab-amz-20",
     "description": "The WaldZimmer is a green 84 sq ft air tent for 4 to 5 people with a stove jack. The body is 210D high-density Oxford, the floor is 300D Oxford, and the surface is rated to withstand 2000 mm of water pressure.\n\nAgainst the SANISANO it states a 300D floor and top rings for hanging lights. Compared with the BravArrk it costs about 90 dollars less and offers one open room.\n\nIt suits small families who want a stove-ready air tent at a mid price. A hand pump finishes the pitch in about 5 minutes.",
     "specs": [
       "84 sq ft, 4 to 5 people",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51iPHvmOHIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HFV8GVNB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HFV8GVNB?tag=rvgearlab-amz-20",
     "description": "The SANISANO measures 118 by 83 by 77 inches with a built-in stove-jack opening and 420D Oxford fabric. The kit includes a pump, a stove fire mat, a ground tarp, stakes, repair patches and seal tape.\n\nIt costs the least here and ships the stove mat that the others leave out. Against the WaldZimmer it has a taller 77 inch center and a thicker 420D body.\n\nIt suits first-time heated air-tent campers who want everything in one box. About 15 minutes of inflation sets the beams.",
     "specs": [
       "118 x 83 x 77 in",

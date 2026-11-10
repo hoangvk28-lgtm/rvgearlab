@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Qoy3h6dWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07BLHC2G3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07BLHC2G3?tag=rvgearlab-amz-20",
     "description": "The Coleman RoadTrip 285 is a portable propane grill with 3 adjustable burners, up to 20,000 total BTUs and 285 square inches of grilling area. Improved burner technology gives more precise temperature control.\n\nIt has the most power and the most cooking area of the four, which matters when you feed a tailgate crowd. It also carries a higher price than the Megamaster two-burner.\n\nChoose it for tailgates and big family camping trips. Three burners let you cook several foods at different heat.",
     "specs": [
       "20,000 BTU, 3 burners",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41dF7j49N+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07P8QXMH3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07P8QXMH3?tag=rvgearlab-amz-20",
     "description": "Megamaster's 2-burner tabletop grill is stainless steel with 16,000 BTUs from two burners and 199 square inches of cooking space. Foldable legs and a locking lid help portability.\n\nIt costs about a third of the Coleman 285 and still gives two heat zones. The stainless cooking grid retains heat and the construction resists weather.\n\nChoose it for tailgates on a budget. It folds to fit in a trunk.",
     "specs": [
       "16,000 BTU, 2 burners",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41b0qLD0vjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07BLHHP7V?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07BLHHP7V?tag=rvgearlab-amz-20",
     "description": "The Coleman RoadTrip 225 gives up to 11,000 BTUs from two adjustable burners over 225 square inches. It comes with a removable water pan that catches grease.\n\nIt is the compact middle step between the Fold 'N Go and the RoadTrip 285. The water pan makes cleanup faster than the Megamaster.\n\nChoose it for camp trips that also include a tailgate or two. The tabletop size fits a car trunk.",
     "specs": [
       "11,000 BTU, 2 burners",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31yywt4qqBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B001RU04XK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B001RU04XK?tag=rvgearlab-amz-20",
     "description": "The Coleman Fold 'N Go delivers 6,000 BTUs across 105 square inches of grilling surface with an adjustable horseshoe burner. It has a built-in handle for transport and folds flat for storage.\n\nIt is the smallest and cheapest grill here, fitting in a backpack-sized space. It is for a couple, not a crowd.\n\nChoose it for solo or duo camping, beach days and light tailgates. It is simple to pack.",
     "specs": [
       "6,000 BTU horseshoe burner",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41NgWUro5YL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07DTHCDVR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07DTHCDVR?tag=rvgearlab-amz-20",
     "description": "The Gerber Pack Hatchet has a 3.5 inch black oxide coated steel blade with a tall grind, full tang construction and an ergonomic handle with a lanyard hole. It measures 9.46 inches long, weighs 20.8 oz and comes with a removable nylon sheath that mounts to a pack or belt.\n\nIt costs about $52, which is nearly three times the DESHIL 15in, and the full tang and corrosion-resistant coating are what that money buys. It is far shorter than the Fiskars X7, so it chops less and fits a pack pocket.\n\nIt suits backpackers and bushcrafters who want a compact hatchet from an established knife maker. The sheath mounts to a belt or pack.",
     "specs": [
       "3.5 inch tall-grind blade",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41yVmtHYhsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D22KT2RT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D22KT2RT?tag=rvgearlab-amz-20",
     "description": "The HX Splitting G10 has a 5Cr15MoV steel blade, heat treated with a tall grind, an ergonomic non-slip G10 handle and a durable Kydex sheath. The head carries an axe edge and a hammer poll.\n\nIt costs about $65, the top of the range, and the G10 handle and Kydex sheath are tougher than the fiberglass and nylon of the cheaper tools. It is a small survival hatchet, so it is for bushcraft and kindling.\n\nIt suits bushcrafters and survival campers who want rigid, weatherproof materials in a small hatchet. The Kydex sheath keeps the edge sharp.",
     "specs": [
       "5Cr15MoV steel, tall grind",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41rrCRz6jSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0002YTO7E?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0002YTO7E?tag=rvgearlab-amz-20",
     "description": "Reach is the Fiskars X7 advantage: a 14 inch handle of FiberComp composite, an insert-molded head with proprietary blade grinding and a low-friction coating that eases the blade out of wood. The maker adds a lifetime warranty.\n\nIt costs about $35, $17 under the Gerber Pack Hatchet, and the 14 inch handle gives more reach and swing power than the Gerber. It is bigger and lighter in the head than the HX Splitting G10 with a larger striking arc.\n\nIt suits car campers who split small logs nightly. It is the pick if firewood matters more than portability.",
     "specs": [
       "14 inch FiberComp handle",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41AW92kgtjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FQKVBYDD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FQKVBYDD?tag=rvgearlab-amz-20",
     "description": "The Rhino USA Saw Combo packs a carbon steel axe head, a dual cut folding saw blade and a 2-in-1 sheath with a built-in ferro-magnesium fire starter. A lifetime replacement is included.\n\nIt costs about $40, $12 less than the Gerber Pack Hatchet, and the saw and fire starter turn a hatchet into a small camp kit. The axe itself is simpler than the Gerber Pack Hatchet.\n\nIt suits beginners and family campers who want one purchase to cover cutting and fire starting. The lifetime replacement is a safety net.",
     "specs": [
       "Carbon steel axe head",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41r1IUvyuhL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DKBSM45G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DKBSM45G?tag=rvgearlab-amz-20",
     "description": "The Freelander Tomahawk is a multi-functional tactical hatchet with a reinforced handle and a sheath. A sharp blade handles cutting and chopping, and it fits in the side pocket of a pack.\n\nIt costs about $23, less than half the Rhino USA Saw Combo, and it is lighter than the Fiskars X7. It has a lighter head than the bigger models, so it handles branches and kindling.\n\nIt suits campers who want a tactical-style carry tool that fits in a pack pocket. Expect light-duty performance.",
     "specs": [
       "Tactical tomahawk style",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Tsl8krpNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CPX6P2G6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CPX6P2G6?tag=rvgearlab-amz-20",
     "description": "The DESHIL 15in is a 15 inch chopping hatchet with a forged 45 carbon steel blade, a shock-reducing fiberglass handle, a hammer back and a locking blade cover. It weighs 600 g and sharpens easily with a stone.\n\nIt costs about $19, the lowest in this guide and about a third of the Gerber Pack Hatchet. It gives up the full tang of the Gerber Pack Hatchet and the coating of the Fiskars X7.\n\nIt suits campers who want a basic splitter for kindling at a very low price. Treat it as the benchmark the pricier tools are measured against.",
     "specs": [
       "15 inch, 45 carbon steel",

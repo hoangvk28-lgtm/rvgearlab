@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/311MLWC3MPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B075JD2WGZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B075JD2WGZ?tag=rvgearlab-amz-20",
     "description": "The TETON Altos-S is a mummy rated by the brand at 0 degrees, with a built-out footbox and extra shoulder and leg room. The listing highlights a water-resistant, breathable build and a compression sack with strong straps.\n\nAgainst the Browning, it is the practical one: a normal mummy shape in the 0 degree class where the Browning chases -30 with far more bulk. Its roomier cut lets you sleep in layers.\n\nIt suits restless sleepers and broad-shouldered hikers who camp in wet winter weather. A mid-range price makes it a fair step into a 0 degree class.",
     "specs": [
       "Built-out footbox, roomy cut",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31HdmVIMi0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09QDQGHDM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09QDQGHDM?tag=rvgearlab-amz-20",
     "description": "The Browning Denali is a mummy titled -30 degrees with TechLoft Silver synthetic insulation, 122 oz of it, in a two-layer offset design. The shell is 210T nylon diamond ripstop, and the whole bag weighs 9 lb 9 oz.\n\nIt is the colder choice by 30 degrees on the label and carries a lot more fill than the Altos-S. The chest baffle and mesh pocket add comfort on frozen nights.\n\nIt suits expedition-style campers using a sled or camping near their vehicle. The synthetic fill tolerates frost and damp.",
     "specs": [
       "-30 degree titled mummy",

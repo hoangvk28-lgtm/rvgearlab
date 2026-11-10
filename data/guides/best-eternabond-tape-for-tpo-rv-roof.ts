@@ -30,7 +30,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Ca3xGGI3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07F9659ZT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07F9659ZT?tag=rvgearlab-amz-20",
     "description": "The EternaBond 4 inch by 50 foot white roll is the one listing that names TPO and PVC directly. It flexes through changing weather, covers a broad list of roof surfaces and comes as a 50 foot continuous roll at $58.99.\n\nCompared with the RoofSeal below it, this roll is the better-documented choice for TPO and sits at a friendlier price. Compared with the Kohree rolls, it carries the EternaBond name and a clear statement about the membrane it suits.\n\nIt is the best match for TPO roof owners who want the most trustworthy seam tape, with the surface named in the listing.",
     "specs": [
       "4 in x 50 ft white",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41yP9YJbqmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07BRMRMWX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07BRMRMWX?tag=rvgearlab-amz-20",
     "description": "The EternaBond RoofSeal White 6 inch by 50 foot roll uses 35 mil MicroSealant with a UV-stable backing as a one-step repair system, priced at $89.99. The 6 inch width gives the widest overlap in the group.\n\nCompared with the 4 inch EternaBond above it, the RoofSeal spreads the repair across a wider area, which gives a generous margin around tears and vent flanges. Its thick MicroSealant layer adds body to the bond.\n\nIt suits owners tackling a major patch, a torn section or a vent flange who want the widest, most robust EternaBond product.",
     "specs": [
       "6 in x 50 ft white",
@@ -86,7 +86,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41THZ9bbacL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07F9G63N8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07F9G63N8?tag=rvgearlab-amz-20",
     "description": "The EternaBond 3 inch by 50 foot white roll is an authentic EternaBond roof seal and leak repair tape, priced at $54.98. It provides a moderate 3 inch overlap on a long 50 foot roll.\n\nCompared with the 4 inch roll above it, this roll fits narrow seams and trim edges at a lower price. Compared with the Kohree 6 inch below it, it brings the EternaBond name to the job.\n\nIt is a solid choice for owners sealing thin seams, edges and small repairs who prefer genuine EternaBond product.",
     "specs": [
       "3 in x 50 ft white",
@@ -114,7 +114,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Zk5kz31NL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BPWQLQ8X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BPWQLQ8X?tag=rvgearlab-amz-20",
     "description": "The Kohree RV Roof Tape 6 inch by 50 foot is a white, UV-resistant butyl tape with a self-priming seal, priced at $35.99. It stays flexible on curves and sticks well.\n\nCompared with the EternaBond 3 inch above it, the 6 inch width gives far more overlap for less money. Compared with the Kohree 4 inch below it, it spreads the bond wider, which helps on tears and flanges.\n\nIt is the best fit for budget-minded owners who want wide coverage in white to blend with a TPO roof.",
     "specs": [
       "Butyl, 6 in x 50 ft",
@@ -142,7 +142,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31AukqlGKTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07RKNM6QD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07RKNM6QD?tag=rvgearlab-amz-20",
     "description": "The Kohree RV Roof Tape 4 inch by 50 foot is a white butyl tape with UV resistance and a self-priming seal at $22.09. It is flexible, sticky and easy to handle.\n\nCompared with the 6 inch Kohree above it, this roll suits standard seams at a lower price. Compared with the low-cost tape below it, it comes from a name known for RV roof products.\n\nIt suits owners who want an affordable white tape for standard seams, spare rolls and small repairs.",
     "specs": [
       "Butyl, 4 in x 50 ft",
@@ -170,7 +170,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41LBG9kAy9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D95Z49WJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D95Z49WJ?tag=rvgearlab-amz-20",
     "description": "The RV Roof Sealant Tape is a 4 inch by 50 foot roll at $19.46, the lowest price in the roundup. It offers a high coefficient of expansion, a silicone protective layer, UV and weather resistance and a simple three-step install.\n\nCompared with the Kohree 4 inch above it, this roll gives the lowest entry price and a flexible, expanding construction that follows roof movement. It provides a protective top layer for sun exposure.\n\nIt is a smart pick for emergency kits, minor patches and low-stakes seams where an inexpensive roll is all that is needed.",
     "specs": [
       "4 in x 50 ft",

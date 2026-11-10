@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Nj43I11FL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F43Z98VS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F43Z98VS?tag=rvgearlab-amz-20",
     "description": "The OHOVIV is a 50,000mAh bank with a 22.5W PD output and QC support. It carries two USB-A ports and one USB-C port that takes 18W in and gives 22W out, and an LED display tracks remaining charge.\n\nCompared with the HotokGoo, it holds five times the mAh and powers phones, tablets and a headlamp together. It sits at the low end of price for its size.\n\nIt suits multi-day trips where no outlet is in reach and several devices share one bank. Li-polymer cells carry the smart protections the listing names.",
     "specs": [
       "50,000mAh, 22.5W PD",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/512+wvWBdeL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H2YP8751?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H2YP8751?tag=rvgearlab-amz-20",
     "description": "The HotokGoo is a 10,000mAh pack built for 5V heated vests, jackets and pants. It is a 5V/2A unit with Type-C input and output plus two USB ports, and the listing gives 3 hours on high, 5 on medium and 10 on low.\n\nIt is a fraction of the OHOVIV's capacity, and it is made for one job, which is dependable heat from a pocket-size 0.38 lb pack. The listing names UL certification with overcharge, short-circuit and related protection.\n\nIt suits campers who wear heated clothing at cold camps or on morning fishing trips. Its small body slips into a pocket or a pack and meets the listing's note that it is airplane-friendly.",
     "specs": [
       "10,000mAh, 5V/2A output",

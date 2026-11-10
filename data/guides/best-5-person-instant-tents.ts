@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41iHeo0-McL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GJS9TCQ2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GJS9TCQ2?tag=rvgearlab-amz-20",
     "description": "The ADSMART instant tent is sold for 4 or 5 people with a pre-attached pole structure that goes up in 60 seconds. It measures 126 x 108 x 68 inches, folds to 8.6 x 8.6 x 36.6 inches and weighs 15 lb.\n\nIt is the only one of the three with a listed weight, and it lists a 5 person size directly, with 6 steel leg poles for stability. Against the Rivenlo it gives up the skylight and a second layer, and against the Coleman it offers a simpler three-window design.\n\nIt suits a family of five that needs a quick, lightweight shelter for drive-up campsites. The 15 lb weight keeps the carry short.",
     "specs": [
       "126 x 108 x 68 in floor",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zCjX5xJXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GQGT17KY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GQGT17KY?tag=rvgearlab-amz-20",
     "description": "The Rivenlo is a 5 to 6 person automatic tent that measures 142 x 96 x 51.2 inches. A removable rainfly reveals an overhead skylight, and double panels let you close the outer layer on cold nights or roll it up.\n\nIt adds four mesh windows and two doors, which the ADSMART does not list, plus storage pockets and a lantern hook. The listing says it sleeps up to 6 in sleeping bags or 4 to 5 with plenty of gear.\n\nIt is aimed at families of five who like to see the stars and want the extra layer for shoulder-season nights. The long floor suits sleeping bags in a row.",
     "specs": [
       "142 x 96 x 51.2 in floor",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31NsFyuHaWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7QK1N81?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7QK1N81?tag=rvgearlab-amz-20",
     "description": "The Coleman Instant Tent comes in 4, 6, 8 and 10 person versions, with poles that stay attached to deliver setup in as fast as one minute. A rainfly is integrated into the body and the fabric is called Polyguard 2X, double-thick.\n\nFor five people, the 6 person size is the realistic choice, since the listing gives dimensions of 8 x 7 ft for the smallest version. It is the only one of the three with a named double-thick fabric.\n\nIt suits buyers who want a recognizable brand and a heavier fabric build for repeat use. Match the size to your sleeping gear before ordering.",
     "specs": [
       "Four sizes, 4 to 10 person",

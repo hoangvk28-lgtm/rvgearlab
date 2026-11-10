@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41WVc0l-2QL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FHDVYFMG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FHDVYFMG?tag=rvgearlab-amz-20",
     "description": "Fanspex 1500W is a compact milkhouse-style heater with an adjustable thermostat knob that cycles the heater on and off. The listing says it has overheat and tip-over protection, is ETL listed and has an all-metal frame, and measures 12.1 by 7.7 by 4.3 inches at 3.3 pounds.\n\nAgainst BEYOND HEAT, it adds an ETL listing and a stated size. Against Oprunsy, it has a thermostat knob.\n\nIt is the best match for RV owners who want a small, thermostat-controlled heater with a stated safety listing. Buyers focused on small rv cabins will find it a sensible match.",
     "specs": [
       "1500W milkhouse heater",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51dJDASVQaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FLK4JCMJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FLK4JCMJ?tag=rvgearlab-amz-20",
     "description": "FOHERE 1500W is an ETL certified PTC ceramic heater with a thermostat, overheat protection and V0 flame-retardant materials. It has a 24 hour timer and a memory function that saves your last temperature and mode.\n\nAgainst Fanspex 1500W, it adds a timer and memory function. Against Flymoon, it is a lower-priced ceramic option.\n\nIt suits owners who want a quiet heater that remembers its settings. It earns its slot for quiet, programmable heat.",
     "specs": [
       "1500W PTC ceramic",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31u1-XILSoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G4FVLF2X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G4FVLF2X?tag=rvgearlab-amz-20",
     "description": "Flymoon 1500W is a ceramic heater with a 60 degree oscillation, a remote, four modes and a temperature range of 41 to 95 degrees F. The listing says it runs below 40 dB, has a 12 hour timer and overheat and tip-over protection.\n\nAgainst FOHERE 1500W, it adds oscillation and a remote. Against Pereysi, it states a noise level.\n\nIt suits owners who want remote control in a bedroom or small cabin. It is a natural fit for bedroom heating.",
     "specs": [
       "1500W ceramic, 60° oscillation",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zjHvjpDLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C9Q1GXR6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C9Q1GXR6?tag=rvgearlab-amz-20",
     "description": "Pereysi 1500W is a PTC ceramic heater with a high-speed fan, 60 degree oscillation, a remote, a timer and an ECO function. The listing says it heats up to 200 square feet and the auto mode targets 79 degrees.\n\nAgainst Flymoon 1500W, it states a coverage area and an auto temperature. Against Fanspex 1500W, it is larger and more feature-rich.\n\nIt suits a larger RV living area. Think of it as the pick for larger living areas.",
     "specs": [
       "1500W PTC ceramic",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41DYuzF2zTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C9QFTY7G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C9QFTY7G?tag=rvgearlab-amz-20",
     "description": "Oprunsy 1500W is a PTC ceramic heater with a High 1500 watt and Low 900 watt setting plus fan-only mode. The listing says it is ETL certified with tip-over and overheat protection.\n\nAgainst Fanspex 1500W, it adds a 900 watt low setting that lowers the load. Against FOHERE 1500W, it has no timer.\n\nIt suits owners who want a lower-load setting for a shared 30 amp circuit. Buyers focused on shared 30 amp circuits will find it a sensible match.",
     "specs": [
       "1500W high, 900W low",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/417Kz5F9N2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CB65YF3J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CB65YF3J?tag=rvgearlab-amz-20",
     "description": "BEYOND HEAT 1500W is a milkhouse heater with three power levels, fan-only, 1300 watt and 1500 watt, and a thermostat. The listing says it has a tip-over switch that cuts power if it falls.\n\nAgainst Oprunsy, it offers a 1300 watt middle setting. Against Fanspex 1500W, it lists a power level choice but no ETL listing.\n\nIt suits owners who want a step between low and full power. It earns its slot for stepped power levels.",
     "specs": [
       "1500W milkhouse heater",

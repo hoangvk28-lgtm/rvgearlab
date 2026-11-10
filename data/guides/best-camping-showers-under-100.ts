@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41OTySm1j0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GRW7D3FD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GRW7D3FD?tag=rvgearlab-amz-20",
     "description": "The Cothb X is built around a 1500W immersion heater with a thermostat-style LCD controller, and it brings 5 gallons up to 100F in roughly 5 minutes. If the heater ever runs dry it shuts itself off, and the 6800mAh pump feeds a 5.3 gallon collapsible bucket for up to 90 minutes.\n\nAt about $50 it costs $20 less than the Zappyway Heated Kit and states a clear heat-up time. The temperature controller lets you stop at a comfortable 100F rather than overheating the bucket.\n\nIt suits campers on powered sites who want hot water fast. The two displays make it easy to see temperature and pump status.",
     "specs": [
       "1500W heater, LCD control",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51yhjOuNFFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H1VSPGZM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H1VSPGZM?tag=rvgearlab-amz-20",
     "description": "This Zappyway kit includes a 6.6 gallon foldable bucket, a 6000mAh pump, an immersion heater and four spray modes. A digital display and waterproof switch handle the controls, and a mesh bag keeps the parts together. It is also described as usable for pet bathing.\n\nAt about $70 it costs $20 more than the Cothb X and holds about 1.3 gallons more water. The bigger bucket means a longer shower for a group before a refill.\n\nIt suits families sharing one setup who want fewer refills. It is a sensible default for powered family car camping.",
     "specs": [
       "6.6 gallon foldable bucket",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41GX2KCP4JL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D737PP4H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D737PP4H?tag=rvgearlab-amz-20",
     "description": "This kit pairs a pop-up shower tent measuring 47.2 by 47.2 by 74.8 inches with a 20L (5 gallon) solar bag. The bag has a two-flow shower head and a metal rope with hooks, and the tent has side windows and a skylight. The whole kit weighs 6 lb and folds into a carry bag.\n\nAt about $51 it costs about the same as the Cothb X and provides privacy instead of hot water. The side windows and skylight add airflow that a closed tent lacks.\n\nIt suits families at busy beaches or campgrounds who need a private space for rinsing and changing. The solar bag means no charging.",
     "specs": [
       "Pop-up tent, 47.2 inch square",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41FmXmwOSBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D6RJ42M2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D6RJ42M2?tag=rvgearlab-amz-20",
     "description": "The Spopal Filter Kit runs a 6000mAh pack for 120 to 150 minutes and shows battery and water temperature on an LED panel. Its quiet motor feeds a four-setting head with a PP element that screens out impurities.\n\nAt about $33 it costs less than half the Zappyway Plus Kit and offers no heater. The filtered head sets it apart from the other pump kits.\n\nIt suits campers who use stream or tank water and want an inexpensive pump shower. The display helps judge temperature.",
     "specs": [
       "6000mAh, 120 to 150 minutes",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/315b8EaZEvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F8VLJMT2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F8VLJMT2?tag=rvgearlab-amz-20",
     "description": "The Spopal Bucket Kit puts a 6000mAh pump (120 to 150 minutes) in the same box as a 20L collapsible bucket with a carry handle. Its LED panel reads battery level and water temperature between 32F and 140F, and flow switches between high and low.\n\nAt about $36 it costs $3 more than the Spopal Filter Kit and adds the bucket. The pair share the same battery and display, so the choice is bucket versus filtered head.\n\nIt suits campers who want everything in one box. The bucket folds flat for the car.",
     "specs": [
       "6000mAh, 120 to 150 minutes",

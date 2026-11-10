@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41iiSMENSML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00VK3C5CW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00VK3C5CW?tag=rvgearlab-amz-20",
     "description": "The STAR BRITE RV Wash and Wax is a concentrate that cleans and adds shine in one step, with PTEF polymers that enhance shine and add UV protection to help prevent fading. A few capfuls clean a full-size RV, and the label says it will not remove wax or polish or harm decals.\n\nIt costs more than the smaller STAR BRITE listing and the gallon products, and it names RV use plainly. The decal and wax note sets it apart from the plain detergents below.\n\nBest for owners who want a trusted RV-specific one-step wash. A strong all-round pick.",
     "specs": [
       "Concentrated wash and wax",
@@ -53,7 +53,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41iQQgCMCzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CWVN7VRV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CWVN7VRV?tag=rvgearlab-amz-20",
     "description": "The Spray and Forget combo includes a quart of RV and camper wash and a quart of wax. The wash uses foaming action with water-beading technology, and the wax step follows the wash.\n\nIt costs less than the STAR BRITE and gives a separate wax step for longer protection. Unlike the one-step products, it is two bottles.\n\nBest for owners who want a distinct wash then wax routine. A good value set for campers.",
     "specs": [
       "Wash and wax, 1 quart each",
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41SXDW51+tS._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0971KD799?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0971KD799?tag=rvgearlab-amz-20",
     "description": "The 303 RV Wash and Seal is a pH neutral, high foaming wash that leaves a streak-free finish and a layer of protection. The listing names UV protection against cracking and fading, and the direction is 1 ounce per 5 gallons of water.\n\nIt costs less than the STAR BRITE and focuses on a streak-free result. The pH neutral formula is a detail the gallon wash and waxes do not state.\n\nBest for owners who care about a streak-free finish and a gentle wash. A premium feeling choice.",
     "specs": [
       "pH neutral, high foaming",
@@ -107,7 +107,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41yKYvnpvkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0027M3A1U?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0027M3A1U?tag=rvgearlab-amz-20",
     "description": "Gel Gloss RV Wash and Wax is a concentrated carnauba formula in a gallon bottle, used at 2 ounces per 5 gallons of water. It is listed as streak free, with UV protection to preserve paint and a biodegradable formula.\n\nIt costs about a quarter less than the STAR BRITE and names carnauba. A gallon covers many washes.\n\nBest for owners who wash often and want a large bottle. A good-value carnauba blend.",
     "specs": [
       "Concentrated carnauba",
@@ -134,7 +134,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/419nLPSBGgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B000NJ981K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B000NJ981K?tag=rvgearlab-amz-20",
     "description": "The Thetford Premium RV Wash and Wax is a gallon detergent and wax for RVs, boats, trucks and cars. It cleans black streaks, dried bugs, bird droppings and road film, and leaves an anti-static, water-repellent finish with UV protection.\n\nIt costs the least of the gallon products and works on more than RVs. The anti-static finish helps keep dust off.\n\nBest for owners who wash an RV and a tow vehicle with one jug. A versatile, low-cost pick.",
     "specs": [
       "Gallon wash and wax",
@@ -161,7 +161,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41irzFKUhoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00A8O8WMQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00A8O8WMQ?tag=rvgearlab-amz-20",
     "description": "This lower-priced STAR BRITE listing carries the same concentrated cleaner and UV protectant formula. It is a one-stop wash that removes road grime, debris and exhaust stains, and is listed as safe on all exterior RV surfaces.\n\nIt costs about a quarter of the first STAR BRITE listing and uses the same formula wording. It is the smallest, cheapest way to try the formula.\n\nBest for a first try or a small rig. A cheap entry to the STAR BRITE line.",
     "specs": [
       "Concentrated cleaner, UV protectant",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41P62EDaNTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DN9QHGG8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DN9QHGG8?tag=rvgearlab-amz-20",
     "description": "DaranEner stores 288Wh in LiFePO4 and puts out 350W (600W peak) from two AC outlets, plus a 60W USB-C port. It measures 10 by 6.6 by 8.2 inches, weighs 8.2 lb and charges from a wall outlet, a car socket or a solar panel.\n\nIt holds nearly double the Apowking kit and delivers 3.5 times its AC power, for $20 more. The PowerSmart runs for hours longer on fuel, and this one runs silently and indoors.\n\nChoose it for CPAP nights, a small fan, a laptop and phone charging. It suits campers who want quiet power with no fuel to carry.",
     "specs": [
       "288Wh LiFePO4, 350W AC",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hdcAPTtaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C4NY2BYY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C4NY2BYY?tag=rvgearlab-amz-20",
     "description": "PowerSmart is a 71cc two-stroke gas generator rated for 900 running and 1200 surge watts. It weighs 34 lb, has a 120V 7.5A AC outlet and a 12V 5.3A DC output with a charging cable, and meets ANSI/PGMA G300, UL2201 and EPA standards.\n\nIt is the only real engine at this price, which means it keeps running as long as you carry fuel. The DaranEner needs a wall outlet or panel to refill, and this one needs mixed gas and oil.\n\nChoose it for tailgates, work sites and long outages with lights, tools and a slow cooker. Run it outdoors at least 20 feet from tents and windows, and add a CO alarm to any nearby shelter.",
     "specs": [
       "900 rated, 1200 surge watts",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/419J+SgMmpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GD91M81M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GD91M81M?tag=rvgearlab-amz-20",
     "description": "Westinghouse iGen400s holds 183Wh and gives 400W through nine outlets: two 120V AC, three 30W USB-C, one 100W USB-C, two USB-A and a 12V DC. It charges to 80 percent in 2 hours from a wall outlet with a 100W adapter, and runs with no noise or fumes.\n\nIt offers more AC power than the Apowking and a bigger brand name, and stores about a third less than the DaranEner. A tri-mode light is built in.\n\nChoose it for a laptop-heavy desk setup or a car camp, with a USB-C 100W port for modern laptops. It suits people who want a recognized brand.",
     "specs": [
       "183Wh, 400W, nine outlets",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41OKaG04ZNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CWGWTSFS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CWGWTSFS?tag=rvgearlab-amz-20",
     "description": "Apowking bundles a 146Wh station with a 40W monocrystalline panel rated at 20.5 percent efficiency. It has seven outputs, including two 110V AC outlets within 100W (200W peak), and a dual LED flashlight with three modes.\n\nAt about $120 it is the only pick that includes solar, so it can be refilled with no wall outlet. The DaranEner holds twice the energy with no panel, and the Apowking trades capacity for independence.\n\nChoose it if you want a complete solar starter for phones, lights and a laptop. It suits first-time buyers who camp off-grid.",
     "specs": [
       "146Wh with 40W panel",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41vZtm9ylGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DR89VFT8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DR89VFT8?tag=rvgearlab-amz-20",
     "description": "SinKeu uses a UL-certified LiFePO4 battery of 122.8Wh with 3500 or more cycles and pass-through charging. It provides 150W of continuous AC, weighs 4 lb and measures about 7.5 by 4.5 inches.\n\nAt about $59 it is the cheapest pick in the guide, less than half the price of the DaranEner. It holds less than half the energy and puts out less than half the AC power.\n\nChoose it for the lowest price on a LiFePO4 station. It suits phones, cameras and a mini-fridge under 100W.",
     "specs": [
       "122.8Wh LiFePO4, 3500 cycles",

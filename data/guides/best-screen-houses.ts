@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41+2lGoWjRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00KJNLYFS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00KJNLYFS?tag=rvgearlab-amz-20",
     "description": "The TAILGATERZ Magnetic Screen House is 11 by 9 by 7.5 ft with front and back magnetic doors and large mesh walls. A perimeter floor design lets you set it directly over a picnic table, and a mud mat sits at the entry.\n\nIt has the most thoughtful dining features of the six and a color-coded steel and fiberglass frame that simplifies assembly. Against the DMH Screen House it costs much less.\n\nIt suits tailgaters and campers who eat outdoors and want mud and bugs left outside. The color-coded poles keep setup instructions simple.",
     "specs": [
       "11 x 9 x 7.5 ft",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51q6o5NbKNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CVXLBBRR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CVXLBBRR?tag=rvgearlab-amz-20",
     "description": "The DMH Screen House is 13 by 9 by 7.5 ft and gives nearly 120 square feet of shade with all-around mesh panels. Two magnetic doors and an included projection screen are listed.\n\nCompared with the TAILGATERZ Screen House it matches the 7.5 ft height and adds a projection screen in the box. It costs more than the TAILGATERZ Screen House.\n\nIt suits families who use the screen room for outdoor movies and want tall headroom. The two magnetic doors suit people carrying snacks.",
     "specs": [
       "13 x 9 x 7.5 ft",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51D9xjX66qL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H5PFZSM4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H5PFZSM4?tag=rvgearlab-amz-20",
     "description": "The Breezestival is a 10 by 10 ft six-sided gazebo with a 300D Oxford top, B3 netting and a rugged steel frame. It comes with six detachable wind cloths, two of which have mesh windows, plus stakes and guy ropes.\n\nIt is the only pick here that doubles as a covered gazebo, since the wind cloths can close it up. Compared with the Alvantor Screen House it adds weather panels.\n\nIt suits campers who need a shelter that works for both bugs and wind. Two of the wind cloths include mesh windows for airflow.",
     "specs": [
       "10 x 10 ft hexagon",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51CokL0v5BL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F1TK96FT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F1TK96FT?tag=rvgearlab-amz-20",
     "description": "The Alvantor Pop Up Screen House is 10 by 10 by 7 ft, weighs 15 pounds and has a fiberglass frame that pops open automatically. Its roof has UPF 50+ protection, and four mesh walls give 360 degree ventilation.\n\nIt is the lightest 10 by 10 ft room here and adds hooks for clothes or backpacks. Compared with the Breezestival Screen Gazebo it gives up weather panels to save weight.\n\nIt suits campers who carry the room a distance from the car. The hooks give you somewhere to hang a daypack.",
     "specs": [
       "10 x 10 x 7 ft",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41KW7sXApNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BS3KZD84?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BS3KZD84?tag=rvgearlab-amz-20",
     "description": "The CAMPROS 13x13 Screen House stands 86 inches at the center, with a 190T polyester roof and one optional sun wall. Stakes, tie downs and a bag come in the box, and there is no attached floor.\n\nIt is the largest footprint here and costs far less than the DMH Screen House. The listing says three people can set it up in about 10 minutes.\n\nIt suits groups who want maximum room at a low price and have help for setup. The optional sun wall blocks low-angle sun on one side.",
     "specs": [
       "13 x 13 ft, 86 in center",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/510SlNpd0WL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GWQH4GBF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GWQH4GBF?tag=rvgearlab-amz-20",
     "description": "The Abahub Screen House is 9.8 by 9.8 by 6.7 ft and rated for 4 to 6, with a listed packed weight of 6.6 pounds. It has two doors and classic manual assembly that the listing says suits some setup experience.\n\nIt is the cheapest and lightest here, and its two doors keep air moving. The CAMPROS 13x13 Screen House offers far more floor.\n\nIt suits backpack-style campers who want the lightest screen room. The two doors provide cross-ventilation on warm days.",
     "specs": [
       "9.8 x 9.8 x 6.7 ft",

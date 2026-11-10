@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41+fLmMW9tL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08MQMC8PL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08MQMC8PL?tag=rvgearlab-amz-20",
     "description": "The Membrane Solutions S2 is a four-pack of detachable straws that the listing says meets NSF/ANSI 42, 372 and 401. Both ends come apart so you replace only the filter element, and the detachable mouthpiece connects to a common bottle for backwashing with no syringe.\n\nIts four stages are a hollow fiber membrane rated at 0.1 micron, coconut shell activated carbon and double PP fiber, and it works straight from the source, on a soft pouch or bottle, or with an extension pipe. The listing notes the straw does not expire the way chemical tablets do.\n\nIt suits households building a kit that want to restore flow after a muddy fill. The extension pipe helps at awkward banks.",
     "specs": [
       "NSF/ANSI 42, 372, 401 listed",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51knEkQEf9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09LDFR8HX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09LDFR8HX?tag=rvgearlab-amz-20",
     "description": "The Practical Survival 5-Pack gives you five straws of 2 ounces each at 8 inches. The maker lists over 99.99 percent removal of bacteria such as E. coli and parasites such as Giardia, and a rating of up to 1,800 gallons per straw.\n\nA five-pack of this size supplies a household of four plus a spare, and it carries the longest gallon rating of the three. The listing says it suits power outages, hurricanes, earthquakes and floods.\n\nIt suits families building a long-term emergency stock who want many long-life straws. Each person can keep one in a bag.",
     "specs": [
       "Five 2 oz, 8 inch straws",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51xQGXWzmNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FQV7RNGY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FQV7RNGY?tag=rvgearlab-amz-20",
     "description": "The Lormandy 3-Pack lists a 0.1 micron filtration accuracy with 99.9999 percent of harmful substances removed, a flow of about 800 ml per minute and a weight under 1.8 ounces. It is made from BPA-free ABS, and the listing says each filter passed triple filtration testing before shipping.\n\nThe 800 ml per minute flow is higher than the 500 ml per minute printed for the Membrane Solutions S2. It is also sold in an 8-pack for larger households.\n\nIt suits small households that want an easy-sipping straw at a modest price. The larger 8-pack suits bigger households.",
     "specs": [
       "0.1 micron, about 800 ml per minute",

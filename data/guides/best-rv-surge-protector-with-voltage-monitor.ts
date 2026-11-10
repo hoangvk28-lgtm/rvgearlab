@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41gSH48ujYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FM2L4TJH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FM2L4TJH?tag=rvgearlab-amz-20",
     "description": "The Vehiker 50 Amp is rated 18,000 joules and pairs a circuit analyzer with a real-time voltage display. It is sold as a simple plug and play unit and lists safety certification, which is not common among budget models.\n\nAt $89.99 it is $14.00 above the Rvhouse 50A and $28.34 above the EPLCSE 50A. The extra buys more joules and a certification mention. Pick this for a 50A rig where you want the strongest surge rating; the caveat is that kWh tracking is not listed.",
     "specs": [
       "50A, 18,000 joules",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41tu5PulVFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DPZW8SK8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DPZW8SK8?tag=rvgearlab-amz-20",
     "description": "The Rvhouse 50A has a 16,000 joule rating and a smart LED that acts as a 3-in-1 power doctor with kWh tracking. Its listing says it cuts power in under a second when it finds a fault.\n\nAt $75.99 it is $14.34 above the EPLCSE 50A and $14.00 below the Vehiker 50A. Pick this if you want kWh numbers plus faster fault response; the caveat is that it has 2,000 fewer joules than the Vehiker.",
     "specs": [
       "50A, 16,000 joules",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/313m6jWh-dL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DXP6SPBC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DXP6SPBC?tag=rvgearlab-amz-20",
     "description": "The EPLCSE 50 Amp gives 16,000 joules with a real-time digital display that monitors voltage, current and kWh, plus an auto-shutoff on faults. It sells for $61.65.\n\nThat is $14.34 under the Rvhouse 50A with the same joule rating and a similar display, though Rvhouse lists a sub-second cut-off. Pick this for the cheapest 50A monitor; the caveat is that fault speed is not stated.",
     "specs": [
       "50A, 16,000 joules",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31KITx665jL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GXVPRP3K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GXVPRP3K?tag=rvgearlab-amz-20",
     "description": "The Losrik Smart 30 Amp has a waterproof LED screen with real-time kWh, voltage and current, over and under voltage protection, and 9,900 joules of surge protection with a full circuit analyzer.\n\nAt $79.99 it is $50.00 above the TOWTAMER 30A, and its joule rating is lower than TOWTAMER's 15,000. Pick this if you value the waterproof, readable kWh display; the caveat is the price against a bigger-joule alternative.",
     "specs": [
       "30A, 9,900 joules",
@@ -133,7 +133,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41+leiR3dpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DT3STQ68?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DT3STQ68?tag=rvgearlab-amz-20",
     "description": "The TOWTAMER 30A offers 15,000 joules, wiring fault detection for open ground and reverse polarity, and a clear LED display. It costs $29.99.\n\nThat is $50.00 under the Losrik 30A and $31.66 below the EPLCSE 50A, with a higher joule rating than the Losrik. Pick this to add a readout cheaply; the caveat is that it lacks kWh tracking and a stated waterproof rating.",
     "specs": [
       "30A, 15,000 joules",

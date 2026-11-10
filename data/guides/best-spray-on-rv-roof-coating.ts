@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51vgg-EP8XL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B9VDVX7G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B9VDVX7G?tag=rvgearlab-amz-20",
     "description": "The EverBond RV roof sealant is a flexible waterproof, solar reflective membrane for trailers and campers. Its listing says it applies by brush, roller or high-quality sprayer, at 1 gallon per 50 square feet.\n\nIt is designed to apply in one day. That ease sets it apart from slower multi-step systems on this list.\n\nIt suits owners who want a sprayable coating with a heavy-duty weather focus. For spray on rv roof coating, it suits one-day sprayer jobs.",
     "specs": [
       "Brush, roller or sprayer",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41rC13r2SZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09SVJBSKY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09SVJBSKY?tag=rvgearlab-amz-20",
     "description": "The Countryman 100 percent silicone coating comes in 1 gallon for RV and flat roofs. Its high-solids formula leaves more silicone after curing, and the listing says most applications need no primer.\n\nIt resists ponding water, unlike many acrylic or latex coatings. A single coat at the recommended rate restores the roof.\n\nIt fits owners with a small roof where water pools. In spray on rv roof coating, ponding roofs is its lane.",
     "specs": [
       "100% silicone, 1 gallon",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41SPnIYmiNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B077MZGTZ4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B077MZGTZ4?tag=rvgearlab-amz-20",
     "description": "The Rust-Oleum 710 elastomeric roof coating comes in 5 gallons of white. Its listing gives 84 percent initial reflectivity, 74 percent weathered reflectivity and rain resistance in 6 hours.\n\nThose two reflectivity numbers are rare in this group. They give a clearer picture than general cool roof claims.\n\nIt fits owners who want published reflectivity and a large pail. Among spray on rv roof coating, think reflectivity-minded owners.",
     "specs": [
       "84% initial reflectivity",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51efle4zvAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GH13HYHC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GH13HYHC?tag=rvgearlab-amz-20",
     "description": "The Limino coating is a 1 gallon water-based, low-VOC white coating built on acrylic and acrylate copolymer technology. It lists EPDM, TPO, fiberglass and aluminum roofs and starts with cleaning, drying and masking.\n\nIt is the low-fume choice in this list. It costs less than silicone options.\n\nIt fits owners who want a water-based coat they can apply in a driveway. In spray on rv roof coating, low-fume jobs is its lane.",
     "specs": [
       "Water-based, low VOC",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51qKW-5ERmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B009KM045U?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B009KM045U?tag=rvgearlab-amz-20",
     "description": "The Flex Seal 6 pack of 14 oz cans is a rubberized spray sealant that seeps into cracks and holes and dries to a watertight flexible coating. It is the only aerosol in this list.\n\nIt targets small leaks rather than whole roofs. The six cans give a quick patching stock.\n\nIt suits owners who need an emergency spray for pinholes. With spray on rv roof coating, emergency patches fits it best.",
     "specs": [
       "14 oz aerosol, 6 cans",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41xBDoSFOcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09SVJKZVV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09SVJKZVV?tag=rvgearlab-amz-20",
     "description": "The Countryman light gray quart is the same 100 percent silicone roof coating in a small size and gray color. It leaves a high-solids film and needs no primer for most surfaces.\n\nIt is the smallest size here and the only gray. It works for a test patch before ordering a larger pail.\n\nIt fits owners who want to try silicone on a small repair. For spray on rv roof coating, it suits small test patches.",
     "specs": [
       "100% silicone, quart",

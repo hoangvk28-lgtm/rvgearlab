@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41qO8TRPt3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09KRSB7BP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09KRSB7BP?tag=rvgearlab-amz-20",
     "description": "The LDCRE twist-on strainer uses an 80 mesh stainless steel screen with 1/2 inch NPSM inlet and outlet and is listed as compatible with Shurflo and WFCO pumps. It measures about 3 by 1 7/8 by 2 1/2 inches.\n\nIt carries the finest screen of the group, which catches smaller grit than the 50 mesh units. The listing notes it for the input side only, with a transparent body.\n\nBest for owners with silty tank water who want the finest screen. Among its strengths, compact size.",
     "specs": [
       "80 mesh stainless screen",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Ix3Smq8eL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08HZ33K9D?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08HZ33K9D?tag=rvgearlab-amz-20",
     "description": "The Honoson set includes a twist-on filter and a 304 stainless steel screen at 50 mesh with 1/2 inch NPSM inlet and outlet. The body is transparent, and the screen unscrews to rinse.\n\nIt is the one listing that states 304 stainless and bundles a spare screen. It is cheaper than the LDCRE 80 Mesh.\n\nRight for buyers who want a spare screen with the strainer. Another reason it earns a slot: low price.",
     "specs": [
       "50 mesh 304 stainless",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/417SMURLGZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D8VY2CSG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D8VY2CSG?tag=rvgearlab-amz-20",
     "description": "The YTXXDEUS strainer is listed for part numbers 255-213 and 255-313, with a 50 mesh stainless steel screen and 1/2 inch NPSM inlet and outlet. A transparent body and a twist-off bowl are described.\n\nIt names the Shurflo part numbers, which makes matching simple for a like-for-like replacement. It costs a little less than the Honoson.\n\nA fit for owners replacing a Shurflo 255-series strainer. Worth noting on the listing: low price.",
     "specs": [
       "50 mesh, 1/2\" NPSM",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51vvEF8g1AL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09G6TN1V2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09G6TN1V2?tag=rvgearlab-amz-20",
     "description": "The Dreyoo strainer is a swivel nut model for Shurflo 255-315, with a 50 mesh stainless screen and a 1/2 inch pipe fit. A swivel nut makes the inlet connection easier, and 6.6 feet of thread tape comes in the package.\n\nIt differs from the twist-on units because the nut rotates while the body stays put, which helps in tight bays. The listing says it fits all Shurflo pumps and any 1/2 inch MPT thread.\n\nA good fit for tight installs where turning the body is awkward. Among its strengths, lowest price.",
     "specs": [
       "50 mesh stainless, 1/2\" pipe",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41dOKjywiSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H6PMVQ49?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H6PMVQ49?tag=rvgearlab-amz-20",
     "description": "The Kitvance strainer is a 1/2 inch twist-on pipe strainer for the inlet side, made of plastic with a transparent body. It mounts to the pump inlet and unscrews for cleaning.\n\nIt is the plainest and cheapest option, giving a quick swap for a cracked strainer. The listing gives no mesh count, unlike the stainless units.\n\nBest for owners who just need a cheap spare for the inlet. Worth noting on the listing: mounts directly to pump inlet.",
     "specs": [
       "1/2\" twist-on strainer",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31euqPpS11L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GY89W49W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GY89W49W?tag=rvgearlab-amz-20",
     "description": "The SHYYOULQE strainer uses a food grade stainless steel screen, an internal thread and tool-free installation for standard 1/2 inch pipe interfaces. The listing says it removes most impurities and sediment.\n\nIt is a threaded in-line style rather than the twist-on bowl, which suits camper tanks and pipelines. It sits near the Honoson in price.\n\nA good fit for tank-line filtering rather than a pump inlet swap. Buyers also get this: low pressure loss claimed.",
     "specs": [
       "Food grade stainless screen",

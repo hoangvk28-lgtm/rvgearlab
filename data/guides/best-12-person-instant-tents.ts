@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41K7jXz6G1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07DRQH7RQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07DRQH7RQ?tag=rvgearlab-amz-20",
     "description": "The CORE 12 Person Instant Cabin Tent is 18 by 10 ft with an 80 inch peak, and the listing says it fits four queen air beds. It includes two room dividers that create up to three spaces.\n\nCompared with the CORE LED Tent it drops the built-in lights and costs less, keeping the same size and dividers. Against the CORE Rainfly Tent it has more beds on the floor plan and a lower price.\n\nIt is the best balance of space and price for a large family that wants three rooms and a two minute setup. The same layout appears in every CORE model here.",
     "specs": [
       "18 x 10 ft, 80 in peak",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41KbbvhpIvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07GZKMPC1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07GZKMPC1?tag=rvgearlab-amz-20",
     "description": "The CORE 12 Person LED Tent is the same 18 by 10 ft design, plus ceiling pole-integrated LEDs on a wall switch with high, low and night light levels. It keeps two room dividers for up to three spaces.\n\nNext to the CORE Base Tent it adds lighting for a higher price. Compared with the CORE Rainfly Tent it keeps four queen beds of floor plan instead of three.\n\nIt suits families arriving after dark or with children who need a night light. It keeps the divider setup of the base model.",
     "specs": [
       "Ceiling LEDs, wall switch",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31gBvVhXzvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G54DFXY3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G54DFXY3?tag=rvgearlab-amz-20",
     "description": "The CORE Full-Rainfly 12 Person tent shares the 18 by 10 ft footprint and 80 inch height, and its full rainfly forms a vestibule outside the tent. The listing says it fits three queen air beds and includes one room divider.\n\nThat vestibule is the one extra over the CORE Base Tent and CORE LED Tent, giving wet gear a place to sit outside. In exchange it has fewer beds on the floor plan and fewer dividers.\n\nIt is for campers who carry a lot of gear and want it covered and outside the sleeping area. The porch space is the reason to pay the premium.",
     "specs": [
       "Full rainfly with vestibule",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41OxKh5gBBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07WJVX8Z1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07WJVX8Z1?tag=rvgearlab-amz-20",
     "description": "The Bushnell Shield Series listing covers 6, 9 and 12 person tents; the version shown is the 9 person size. Its reflective Heat Shield coating on the underside of the rainfly blocks sun and keeps the tent darker.\n\nUnlike any CORE, it has two 12.5 by 17 inch mesh ground vents for an air conditioner, and 150 denier walls with a 240 denier floor. Its included room divider splits the interior into two rooms.\n\nIt is the cheapest option here and suits hot-weather campers who want to cool the tent. The room divider also helps families share it.",
     "specs": [
       "Heat Shield rainfly coating",

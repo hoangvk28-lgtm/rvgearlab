@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41f4QRpwjUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DGXWQHQ2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DGXWQHQ2?tag=rvgearlab-amz-20",
     "description": "The Friendly Swede double liner weighs 12 ounces and folds to 6 by 8 inches. It is a polyester sack measuring 59 by 79 inches that opens along one side with a long double zipper.\n\nThat is a fraction of the weight of any double bag here, which makes it the pick for hot nights when you need only a sheet. It is not a sleeping bag and adds no stated warmth, so it pairs with a quilt or sits on its own in hot weather.\n\nIt suits couples and hostel travelers counting ounces. A lifetime warranty covers it.",
     "specs": [
       "12 oz polyester",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41jCUckGCZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CRGTSVJL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CRGTSVJL?tag=rvgearlab-amz-20",
     "description": "AGEMORE says its cotton flannel double is engineered to compress tightly yet puff up in use, with a 210T water-resistant polyester shell. It splits into two single bags, and the listing gives a design range of 32 to 59F for this version.\n\nIt is the one double here that puts compressing and light weight at the front of its pitch, and zippers on both sides let either sleeper exit. It costs more than the Poimerk and oaskys.\n\nIt suits backpacking couples who want a flannel interior and the option to split. A carry bag is included.",
     "specs": [
       "Flannel interior, 210T shell",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41rmYwp3xFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H873F7G4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H873F7G4?tag=rvgearlab-amz-20",
     "description": "At 92 by 63 inches the Poimerk takes two adults up to 7 ft, and its page gives a 40 to 65F comfort band with a 30F low. Two pillows, an adjustable hood, anti-snag zippers and draft tubes are included, along with a compression sack.\n\nIt gives clearer numbers than the oaskys and more room than the AGEMORE, and it costs less than the AGEMORE. Neither weight nor packed size is printed.\n\nIt suits tall couples who want a spacious, washable double. The comfort figures make it easy to plan around.",
     "specs": [
       "92 x 63 inch queen",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41xnUFD9y4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BZRQZFTN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BZRQZFTN?tag=rvgearlab-amz-20",
     "description": "Sized around 220 by 145 cm, the oaskys includes two pillows and a strapped compression sack. Its design range is 10 to 20 degrees C, and a 210T polyester shell with a 190T pongee lining is listed.\n\nIt costs the least of the three bags, and the compression sack helps with packing. It is the warmest-weather option and prints the fewest details.\n\nIt suits budget couples on warm-weather trips who want pillows included. It splits into two singles.",
     "specs": [
       "About 220 x 145 cm",

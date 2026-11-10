@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31tyngKIW0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FXMD5T81?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FXMD5T81?tag=rvgearlab-amz-20",
     "description": "The Naturehike Cloud-Up weighs 3.97 lb on its listing and packs to 15.7 x 5.1 x 5.1 inches. It uses 20D silicone nylon with a PU4000mm waterproof rating, taped seams and an 82.7 x 49.2 x 41.3 inch interior, and it includes a footprint.\n\nIt undercuts the Star River on weight by only a hair, while adding a stated waterproof number and a footprint in the box. Compared with the Clostnature it is about a pound lighter, and the added ventilation window above the front door helps with condensation.\n\nIt suits two hikers who want a documented light freestanding tent with a footprint. The two-layer build leaves air between fly and inner.",
     "specs": [
       "3.97 lb, 15.7 x 5.1 x 5.1 in",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Y0JFkPsAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D31GK3SC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D31GK3SC?tag=rvgearlab-amz-20",
     "description": "The Naturehike UL Star River is built from 15D ultralight nylon and weighs about 4.07 lb with a 15.7 x 5.1 inch pack size. The inner tent measures 82.7 x 51.2 x 41.3 inches, and awning-style vestibules extend the outer tent to 86.6 x 57.1 x 43.3 inches.\n\nIt trades a fraction of a pound against the Cloud-Up for wider inner space and larger vestibules. The separate bags for each part let the two hikers split the load.\n\nIt suits partners who want a place for wet gear and an awning to cook under in the rain. Triangle storage space sits between the inner and the fly.",
     "specs": [
       "About 4.07 lb, 15D nylon",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41iP+YTFPUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DQZWBRXF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DQZWBRXF?tag=rvgearlab-amz-20",
     "description": "The ATEPA Voyage is a 2 person tent with 20D silicone nylon, fully taped seams and a 4000mm waterproof rating. It uses a single-pole 7001 aluminum alloy frame, B3 mesh, dual ceiling vents and double D-shaped doors, plus removable side storage panels.\n\nIts single-pole freestanding frame and ceiling lantern hook are unique in this list. The Cloud-Up states a weight where this listing states none.\n\nIt suits two campers who want four-season rated fabric and storage panels. Reflective guy lines and stake heads help at night.",
     "specs": [
       "20D silicone nylon, 4000mm",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41AhE1GLeWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BZ81SJHL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BZ81SJHL?tag=rvgearlab-amz-20",
     "description": "The Clostnature 2 person tent weighs 5.33 lb in full, with a minimum trail weight of 4.38 lb for just the fly, inner and poles. Its PU5000 coated polyester shell, two aluminum poles and an emergency pole repair kit come in a package about 220 cm long.\n\nIt is the only listing here with a minimum trail weight, and it is much cheaper than the Naturehike tents. The Cloud-Up is about a pound lighter in full trim.\n\nIt suits budget-minded pairs who will strip the kit to save weight. Removing the fly gives stargazing in clear weather.",
     "specs": [
       "5.33 lb, 4.38 lb trail weight",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31j1UGcPPGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DR8TS7X6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DR8TS7X6?tag=rvgearlab-amz-20",
     "description": "The ShinHye dome pairs a 210T polyester fly with a 210D Oxford floor and fine no-see-um mesh, all on a freestanding two-pole aluminum frame. SBS zippers, two large doors, a one-year warranty and three size options round out the listing.\n\nIt sits well below the Naturehike and ATEPA tents on price and shows no stated weight. Compared with the Clostnature it is a similar budget dome, sold as a family of sizes.\n\nIt suits pairs on a tight budget who want a freestanding dome for easy pitching. Large mesh sections boost airflow.",
     "specs": [
       "210T polyester, 210D Oxford",

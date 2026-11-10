@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31p1kbu9-dL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7QXCX69?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7QXCX69?tag=rvgearlab-amz-20",
     "description": "The GasOne 2-burner lists a combined 15,300 BTU across its two burners and runs on 8 oz butane canisters only. The listing says it is CSA approved and that an injection mechanism ejects the canister if pressure becomes irregular.\n\nIt leads the group on stated output, nearly double the 2 x 3,924 BTU of the HuaShuani, and it adds a piezo starter with a safety shut-off. It also ships with a carrying case and a manual.\n\nA good fit for RV owners and tailgaters who want a stove that boils fast and carries a recognized safety mark. The case keeps it tidy in a storage bay.",
     "specs": [
       "15,300 BTU, two burners",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41vSMFMrB4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CSS115R6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CSS115R6?tag=rvgearlab-amz-20",
     "description": "The HuaShuani gives two burners rated at 3,924 BTU each, a piezo ceramic igniter and a circular surround flame. The listing claims 50 percent heat efficiency and gas use of 166 grams per hour.\n\nUnlike the GasOne it comes as a kit with a baking pan and a tray you can switch between grilling and regular cooking. Its total output sits below the GasOne, and the iron shell has a sprayed finish for insulation.\n\nRight for apartment balconies, RVs and campsites where a grill tray and a pan matter as much as speed. The gas use figure helps plan canisters.",
     "specs": [
       "2 x 3,924 BTU",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41rdxixJNBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DKXLBTQ5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DKXLBTQ5?tag=rvgearlab-amz-20",
     "description": "The DDBESSIC is a butane two-burner with a lock that holds the canister in place and an over-pressure valve that disconnects the canister when pressure runs high. It comes with a non-stick grill tray and a storage case.\n\nAgainst the HuaShuani it adds a canister lock and an over-pressure valve, while the listing gives no BTU figure at all. Its body is iron and aluminum with a sprayed finish, and two knobs set each burner independently.\n\nA sound pick for families and RV cooks who put safety first and want an easy-clean tray. Piezo ignition means no lighter is needed.",
     "specs": [
       "Canister lock",

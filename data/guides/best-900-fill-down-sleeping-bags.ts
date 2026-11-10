@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31IrZyCtl0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GDP8D44W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GDP8D44W?tag=rvgearlab-amz-20",
     "description": "The Spark Pro is a 3-season mummy rated 15F for backpacking, bikepacking and touring, filled with 900+ fill power down that is Responsible Down Standard certified. The down is treated with Ultra-Dry Down for moisture, and the shell is a featherweight 10D nylon with a PFC-free DWR finish.\n\nAgainst the Therm-a-Rest Parsec, it gives a 15F rating at a higher list price, and a sibling version rated 30F is sold for 2-season use. Full box baffles, a YKK Free Flow Zip system and a footbox zipper keep weight low while managing heat.\n\nA top choice for ultralight backpackers who want a documented 900+ fill bag for three seasons. A lifetime guarantee backs the product.",
     "specs": [
       "900+ fill power RDS down",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31AVJIBLHAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GQLX8CKG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GQLX8CKG?tag=rvgearlab-amz-20",
     "description": "The Parsec is a 0F (-18C) down bag for 4-season fast-and-light camping, filled with 900-fill RDS-certified and PFAS-free hydrophobic down. A zoned baffle design puts down where you need it and trims weight.\n\nIt runs 15 degrees colder than the Sea to Summit Spark Pro 15F and costs less than that bag. A Toe-asis foot warmer pocket and a YKK anti-snag zipper with one-handed operation are the standout features.\n\nBest for winter and shoulder-season backpackers who want 900-fill down in a 0F bag. It compresses small for its warmth.",
     "specs": [
       "900-fill RDS hydrophobic down",

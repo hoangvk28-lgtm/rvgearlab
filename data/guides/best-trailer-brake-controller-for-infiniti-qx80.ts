@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31rPEIOiITL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D45QWSVX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D45QWSVX?tag=rvgearlab-amz-20",
     "description": "The Rizz-Man 8508211 is sold as a proportional brake controller with a wiring harness, and its listing names Infiniti QX56 2004 to 2013, QX60 2013 to 2020 and QX80 2014 to 2021, plus Nissan Armada, Frontier, NV vans, Pathfinder and more. It lists brake control for 1 to 4 axes.\n\nIt ranks first because it is the only kit here that the listing calls proportional, which brakes in step with the vehicle's deceleration for smoother stops. The Rizz-Man 8507111 below is timed, and the Rizz-Man 90195 does not state a type.\n\nBest for a 2014 to 2021 QX80 owner towing a heavier trailer who wants everything in one box. Confirm your model year, since the listing stops at 2021.",
     "specs": [
       "Proportional controller plus harness",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31e1-wu2ktL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CQLHTZGS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CQLHTZGS?tag=rvgearlab-amz-20",
     "description": "The Rizz-Man 90195 is a controller with wiring harness under the 90195 part number, and its fitment bullet names Infiniti QX56 2004 to 2013, QX60 2013 to 2020 and QX80 2014 to 2021, along with Nissan Armada and Frontier. It also lists 1 to 4 axle control.\n\nCompared with the Rizz-Man 8508211, the fitment and axle support are the same, but this listing does not say whether the controller is proportional or time-delayed. It is priced higher than the other two Rizz-Man kits, so the premium buys the 90195 part number rather than a stated advantage.\n\nA good choice if you specifically want the 90195 style of controller. Ask the seller about the activation type before ordering.",
     "specs": [
       "90195 controller plus harness",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ThNegErTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DGGLQ71S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DGGLQ71S?tag=rvgearlab-amz-20",
     "description": "The Rizz-Man 8507111 is a timed electric brake controller with wiring, and its listing names the same QX56, QX60 and QX80 years as the other Rizz-Man kits. It has a real-time LED display for brake voltage, adjustable power and sync rate control.\n\nTimed controllers ramp braking over a fixed interval, so they are simpler than the Rizz-Man 8508211 but can feel less smooth with a heavy trailer. It ranks third because the listing gives no axle count.\n\nBest for a QX80 owner with a light trailer who wants a display and straightforward settings. The caveat is the timed behavior and the missing axle rating.",
     "specs": [
       "Timed electric controller",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Wq6sUqhIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H7VVLRQD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H7VVLRQD?tag=rvgearlab-amz-20",
     "description": "The Shulgf TPH-014 is a third-party harness that replaces the TPH-014 part, and its listing names Infiniti QX56, QX60 and QX80 along with Nissan Titan, Frontier, Pathfinder, NV vans and Xterra, plus Honda Pilot. It connects behind the dash without cutting.\n\nUnlike the Rizz-Man kits it brings no controller, so it only suits owners who already have one. Against the Tekonsha 305000 below it gives no QX80 year range, and it asks you to confirm your connector style.\n\nA budget way to get the QX80 connector for an existing controller. Confirm the connector before buying, since the listing is general.",
     "specs": [
       "Replaces TPH-014",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41s2da8rU6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7QF3MQL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7QF3MQL?tag=rvgearlab-amz-20",
     "description": "The Tekonsha 305000 is a custom harness listing Infiniti QX56 2004 to 2013, QX60 2013 to 2020 and QX80 2014 to 2021, plus Nissan Armada, Frontier and NV vans, and it excludes the Titan XD. Four braided copper wires follow a factory-installed look.\n\nIt works with proportional or time-based Tekonsha controllers, and unlike the Shulgf TPH-014 it states the QX80 years. It is the clearest harness here, yet it lacks the bundled controller that makes the Rizz-Man kits convenient.\n\nBest for a QX80 owner who prefers to choose a Tekonsha controller separately. Verify the connector as the listing asks.",
     "specs": [
       "QX80 2014 to 2021 listed",

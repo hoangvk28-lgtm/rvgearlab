@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41FWd4s1M3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BRQQPTNS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BRQQPTNS?tag=rvgearlab-amz-20",
     "description": "Kelty's Tru.Comfort Doublewide is a 20F synthetic double with Cloudloft insulation, an oversized hood, two built-in blankets, independent ventilation and a zip-off top layer. Shared shoulder room runs 64 inches across, and the bag is 84 inches end to end.\n\nCompared with the AGEMORE Flannel Double, it is far colder-rated and gives each sleeper control over venting. Two-way zip foot vents and a hood bring it closer to a mummy's heat control than most doubles.\n\nA strong match for couples and families who camp through three seasons and want the nearest thing to a hooded, heat-controlled double. The fill is compressible and quick-drying.",
     "specs": [
       "20F synthetic double",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51jFot28IYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F43QK29X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F43QK29X?tag=rvgearlab-amz-20",
     "description": "AGEMORE lines this double with brushed flannel cotton under a 210T water-resistant polyester shell and states a 41 to 59F design range. Zippers on both sides let it work as one extra-large bag or two singles.\n\nIt costs far less than the Kelty Doublewide 20F and splits into two bags that you can use separately, which suits couples who may want tapered singles later. The listing says it compresses tightly for packing and puffs up in use.\n\nA fit for couples who camp in mild spring and fall weather and want a flexible, budget two-person bag. The flannel feels soft against the skin.",
     "specs": [
       "41 to 59F design range",

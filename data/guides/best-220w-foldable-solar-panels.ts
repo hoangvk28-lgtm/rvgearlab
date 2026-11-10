@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ElV6fLnZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GXFL8CCB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GXFL8CCB?tag=rvgearlab-amz-20",
     "description": "The OPTISOLEX lists N-type cells up to 25 percent efficiency, a weight of 9.0 lbs and an 18V optimum operating voltage. It has USB-C 45W and dual USB-A ports on a detachable junction box, with carabiner rings, shoulder straps and a handle.\n\nIt weighs 6 lbs less than the TPDEFZQ and 8 lbs less than the SOKIOVOLA, at the lowest price on the list. It is a bag-style design rather than a rigid-case fold.\n\nIt suits campers who carry the panel any distance. The detachable box makes cable handling easier.",
     "specs": [
       "N-type 25%, 9.0 lbs",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51e6+WMQ2VL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FSJGPGCW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FSJGPGCW?tag=rvgearlab-amz-20",
     "description": "The TPDEFZQ lists 25 percent A+ monocrystalline cells, 15.21 lbs and a folded size of 20.27 x 22.99 x 1.77 inches. A controller with 3 multifunctional ports, IP67 ETFE, 4 adjustable kickstands and a 10 ft 5-in-1 cable round out the kit.\n\nIt costs about $20 more than the OPTISOLEX and weighs 6 lbs more. Compared with the ZOUPW 220W, it is lighter and cheaper.\n\nIt suits campers who want a built-in controller and long cable. The kickstands give four angle options.",
     "specs": [
       "25% cells, 15.21 lbs",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41tXwynRo3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DYDRMCNL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DYDRMCNL?tag=rvgearlab-amz-20",
     "description": "The ZOUPW lists 25 percent A+ cells, 15.87 lbs and IP67 ETFE lamination. A built-in USB hub offers USB-A QC3.0 and USB-C PD 45W, with a 5-in-1 cable covering XT60, Anderson and several DC sizes.\n\nIts listing says the angled kickstand design captures 25 to 30 percent more energy than flat-laying panels. It costs about $50 more than the TPDEFZQ.\n\nIt suits mixed-brand station owners who want a USB hub. The 5-in-1 cable matches many ports.",
     "specs": [
       "25% cells, 15.87 lbs",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41rvm6iv7cL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FCS1577G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FCS1577G?tag=rvgearlab-amz-20",
     "description": "The SOKIOVOLA lists N-type 16BB A+ cells, 17.08 lbs and a folded size of 23 x 22.24 inches. It is rated IP68 with ETFE and includes a 10.49 ft 5-in-1 extension cable.\n\nIt is heavier than the ZOUPW and TPDEFZQ and carries a slightly longer cable than the TPDEFZQ. It claims IP68, a higher rating than the ZOUPW's IP67.\n\nIt suits campers who park the station far from the panel. The IP68 rating helps in wet climates.",
     "specs": [
       "N-type 16BB, 17.08 lbs",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51ULemZDQ5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G37TK7K2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G37TK7K2?tag=rvgearlab-amz-20",
     "description": "The LETSFAB lists bifacial cells up to 25 percent efficiency, a 4-fold design at 600 x 574 x 70 mm and about 8.6 kg. It operates from minus 10 to plus 65 degrees and ships with a storage bag and MC4 to Anderson, XT60, DC7909 and DC5521 adapters.\n\nIt is cheaper than the 24V bifacial panel and adds a stated temperature range. It weighs roughly 19 lbs, the heaviest of the group.\n\nIt suits campers over light ground such as sand or snow. The adapters need no additional purchases.",
     "specs": [
       "Bifacial, up to 25%",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51rfW33MudL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GGJ2JJ5Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GGJ2JJ5Y?tag=rvgearlab-amz-20",
     "description": "This 220W bifacial panel lists 24V high-voltage output with a 25.9 Voc, up to 15 percent extra energy from the back side and a 40 to 50 degree bracket with an angle guide. It includes a carrying bag and Anderson, XT60 and 5.5 x 2.1 mm connectors.\n\nIts stated voltage is higher than the 18V OPTISOLEX and it costs the most of the six. Compared with the LETSFAB, it lists both Voc and bracket angle.\n\nIt suits owners of stations that want a higher voltage input. The angle guide takes guesswork out of aiming.",
     "specs": [
       "220W bifacial, 24V, 25.9 Voc",

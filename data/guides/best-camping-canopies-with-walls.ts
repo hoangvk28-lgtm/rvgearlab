@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411afcr3QuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G6D8HDSY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G6D8HDSY?tag=rvgearlab-amz-20",
     "description": "The Vinabilia is a 10x10 pop-up canopy with four removable sidewalls and a frame built from 25mm by 25mm main tubes and 22mm by 11mm crossbars. It sets up in under 5 minutes with two people and weighs just under 31 lbs in its bag.\n\nNext to the GDY it gives a better frame description and a stated weight, while the GDY costs less. Against the MASTERCANOPY it brings solid walls instead of netting, so privacy and wind cover come first.\n\nCampers who want a full enclosure that still carries in one trip will like it. The interior fits a table and chairs for 6 to 8 people.",
     "specs": [
       "10x10 with four sidewalls",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51aMgw8it7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FDQP21H1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FDQP21H1?tag=rvgearlab-amz-20",
     "description": "The MASTERCANOPY is a 10x10 canopy with netting walls that attach with Velcro straps. Its 150D silver-coated top blocks 99 percent of harmful sun rays, and its steel frame adjusts leg height with a push button.\n\nNetting keeps insects out while air passes through, which solid-wall picks cannot do. Compared with the Vinabilia it adds a wheeled bag and a kit of 4 sandbags, 4 ropes and 8 stakes, and gives no privacy walls.\n\nWarm-weather campers in buggy country can eat in peace. The 600D PVC wheeled bag has reinforced handles.",
     "specs": [
       "10x10 with netting walls",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41fAI0gQUYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09X2YQRHL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09X2YQRHL?tag=rvgearlab-amz-20",
     "description": "The Crown Shades 10x10 covers 100 sq ft and holds up to 10 people. It has over 9 ft of interior height, 6 ft of valance clearance, a steel truss frame with reinforced bolts and one-push CenterLOK.\n\nIts Sto-N-Go system stores the fabric on the frame and keeps sandbags, stakes and guy lines in one pocket. Compared with the Vinabilia and GDY it brings only one wall, and it gains the sturdier truss frame.\n\nCampers who value a long-lasting frame and plan to add walls later will like it. The 150D silver-coated interior carries UPF 50+.",
     "specs": [
       "One side wall, 10x10 ft",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41+5J5NfaGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DKWQ1PL2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DKWQ1PL2?tag=rvgearlab-amz-20",
     "description": "The GDY is a 10x10 pop-up canopy with four side walls that carry decorative arched windows and a vented top. A reinforced cross-tube frame, UV-resistant fabric, sandbags and a carry bag arrive together.\n\nIt is the lowest priced canopy here and the only one with window panels in its walls. Against the Vinabilia it costs less and keeps the same four-wall layout.\n\nCampers on a tight budget who want shaded walls for a few trips can start here. The windows keep some light and air in the room.",
     "specs": [
       "10x10 with four windowed walls",

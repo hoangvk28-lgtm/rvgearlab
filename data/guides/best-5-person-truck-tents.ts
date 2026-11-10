@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51DwI+jnWaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CGX2XLXW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CGX2XLXW?tag=rvgearlab-amz-20",
     "description": "The TIMBER RIDGE is a 5 person tent measuring 10 by 8 feet with over 7.1 feet of height. It connects to a trunk or tailgate opening, has PU2000mm polyester taffeta, one large door, a top mesh skylight and two mesh storage bags.\n\nIt is the only pick that names five sleepers, and it also works free-standing. The others are bed tents with a 2 to 3 person label.\n\nIt suits a family that wants sleeping room beside the vehicle. The listing says it attaches to SUVs, vans and pickups with bed lids.",
     "specs": [
       "10x8 ft, over 7.1 ft tall",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51V97myP2dL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H1GZX61Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H1GZX61Y?tag=rvgearlab-amz-20",
     "description": "The GARIGLOOME is an inflatable bed tent that spans 5.5 to 8 foot beds with reinforced PVC air beams. It inflates in about two minutes with the included pump, has PU3000mm fabric, side and rear rain flaps and a starlight skylight.\n\nIt fits any bed in its range, so it is the flexible choice here. Against the BravArrk it lists dual-layer doors and double zippers.\n\nIt suits campers who want a pole-free bed tent for two or three. Breathable mesh windows keep insects out.",
     "specs": [
       "Air-beam frame, 2-minute setup",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51hEfqJuPmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GJTGWP5Z?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GJTGWP5Z?tag=rvgearlab-amz-20",
     "description": "The BravArrk is an inflatable shelter listed at 7.2 by 5.9 by 5.4 feet that fits beds from 5.5 to 8 feet. It has 4 inch PVC air beams, PU3000mm, a two-minute inflation and a detachable zippered awning.\n\nIt matches the GARIGLOOME on bed range and adds a zippered awning that comes off. Its listed width is larger than the Everfire's.\n\nIt suits campers who like adding shade only when needed. The integrated floor helps keep gravel out.",
     "specs": [
       "4-in PVC air beams",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411KIbjshaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CT91BSHZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CT91BSHZ?tag=rvgearlab-amz-20",
     "description": "The JOYTUTUS is a long-bed tent for 8 to 8.2 foot beds measuring 121.2 by 62.9 by 66.9 inches. It uses 150D polyester oxford with PU2000mm, aluminum poles and has three ventilated windows and four inner mesh bags.\n\nIt has the longest floor of the four and the lowest price of the group's long-bed picks. The inflatables fit more bed lengths and carry a higher price.\n\nIt suits crews with a full-size long box who want a pole tent. Aluminum poles keep it light for its length.",
     "specs": [
       "121.2 in long floor",

@@ -21,7 +21,7 @@ export const products = withAmazonUrls([
     badge: "Best overall",
     name: "Anker SOLIX C2000 Gen 2 Portable Power Station, 2,048Wh, 2,400W, Camping",
     amazonQuery: "Anker SOLIX C2000 Gen 2 Portable Power Station, 2,048Wh, 2,400W, Camping",
-    amazonUrl: "https://www.amazon.com/dp/B0FVFGL38H?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0FVFGL38H?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41iJKYxROtL._SL500_.jpg",
     specs: ["Capacity: 2,048Wh","Continuous output: 2,400W","Surge output: 4,000W","Listed weight: 41.7 lb"],
     specList: [{"label":"Capacity","value":"2,048Wh"},{"label":"Continuous output","value":"2,400W"},{"label":"Surge output","value":"4,000W"},{"label":"Listed weight","value":"41.7 lb"}],
@@ -36,7 +36,7 @@ export const products = withAmazonUrls([
     badge: "Best heavy-duty option",
     name: "MARBERO Solar Powered Generator 88Wh, 120W Surge",
     amazonQuery: "MARBERO Solar Powered Generator 88Wh, 120W Surge",
-    amazonUrl: "https://www.amazon.com/dp/B0DFGZ5FSR?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0DFGZ5FSR?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/51iRMhbcUoL._SL500_.jpg",
     specs: ["Capacity: 88Wh","Surge output: 120W","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Capacity","value":"88Wh"},{"label":"Surge output","value":"120W"},{"label":"Buyer check","value":"Verify current model compatibility"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -51,7 +51,7 @@ export const products = withAmazonUrls([
     badge: "Best compact option",
     name: "200W Solar Powered Generator, Portable Power Station",
     amazonQuery: "200W Solar Powered Generator, Portable Power Station",
-    amazonUrl: "https://www.amazon.com/dp/B0FBS5KZKB?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0FBS5KZKB?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/51ueD7s3b6L._SL500_.jpg",
     specs: ["Capacity: 146Wh","Continuous output: 200W","Listed weight: 3 lb","Included panel: 40W"],
     specList: [{"label":"Capacity","value":"146Wh"},{"label":"Continuous output","value":"200W"},{"label":"Listed weight","value":"3 lb"},{"label":"Included panel","value":"40W"}],
@@ -66,7 +66,7 @@ export const products = withAmazonUrls([
     badge: "Best value pick",
     name: "ABOK Ark3600 Portable Power Station",
     amazonQuery: "ABOK Ark3600 Portable Power Station",
-    amazonUrl: "https://www.amazon.com/dp/B0F47FKBQ4?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0F47FKBQ4?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/51jCu3HF5wL._SL500_.jpg",
     specs: ["Capacity: 3,840Wh","Continuous output: 3,600W","Runtime claim: Up to 1.29 hours","Battery chemistry: LiFePO4"],
     specList: [{"label":"Capacity","value":"3,840Wh"},{"label":"Continuous output","value":"3,600W"},{"label":"Runtime claim","value":"Up to 1.29 hours"},{"label":"Battery chemistry","value":"LiFePO4"}],
@@ -81,7 +81,7 @@ export const products = withAmazonUrls([
     badge: "Best backup pick",
     name: "ABOK Ark3600 Portable Power Station",
     amazonQuery: "ABOK Ark3600 Portable Power Station",
-    amazonUrl: "https://www.amazon.com/dp/B0FNCM7X5L?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0FNCM7X5L?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41AbN-SfMrL._SL500_.jpg",
     specs: ["Capacity: 3,840Wh","Continuous output: 3,600W","Surge output: 4,500W","Runtime claim: Up to 1.29 hours"],
     specList: [{"label":"Capacity","value":"3,840Wh"},{"label":"Continuous output","value":"3,600W"},{"label":"Surge output","value":"4,500W"},{"label":"Runtime claim","value":"Up to 1.29 hours"}],
@@ -183,7 +183,7 @@ export const relatedGuides = [
 export const sources = [
   {
     "title": "Anker SOLIX C2000 Gen 2 Portable Power Station, 2,048Wh, 2,400W, Camping product page",
-    "href": "https://www.amazon.com/dp/B0FVFGL38H?tag=rvgearlab-20&linkCode=osi&th=1&psc=1"
+    "href": "https://www.amazon.com/dp/B0FVFGL38H?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1"
   },
   {
     "title": "CPSC carbon monoxide safety center",

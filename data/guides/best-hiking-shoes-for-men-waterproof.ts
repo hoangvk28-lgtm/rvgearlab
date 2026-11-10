@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41EsBo8eweL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01N5QG0TE?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01N5QG0TE?tag=rvgearlab-amz-20",
     "description": "The KEEN Targhee 3 is a low waterproof hiking shoe with a KEEN.DRY breathable membrane, a bruise plate and a premium leather and mesh upper. It adds an external support shank, mid-height balance, a heel cradle and a removable footbed with arch support.\n\nAgainst the NORTIV 8 Leather, it has a firmer shank and a more refined, longer-lasting build. Compared with the SHULOOK Trail, it carries the more recognized membrane and a stiffer platform for rocky ground.\n\nIt suits hikers who want the most complete waterproof shoe and will pay for it. KEEN Original Fit gives generous toe room.",
     "specs": [
       "KEEN.DRY waterproof membrane",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41dTqLv3HrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B091KY5FSR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B091KY5FSR?tag=rvgearlab-amz-20",
     "description": "The SHULOOK Trail uses a suede and mesh upper with an SL-TEX waterproof membrane and a closed-cell tongue that keeps rain, muck and sand out. It weighs about 1.2 lb per the listing, and has a removable memory foam insole and a flexible EVA midsole.\n\nCompared with the KEEN Targhee 3, it is lighter and cheaper with a tongue seal designed to block debris. Against the NORTIV 8 Leather, it adds memory foam and heel cushioning.\n\nIt suits hikers who want a light waterproof shoe with a sealed tongue. The rubber anti-collision toe design protects against rock strikes.",
     "specs": [
       "SL-TEX waterproof membrane",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41OGiLW90tL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08P6MB2VV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08P6MB2VV?tag=rvgearlab-amz-20",
     "description": "The NORTIV 8 Suede is built from suede leather with a waterproof membrane and a mesh lining that vents vapor. It has a rubber toe cap, a Multi-Directional Traction outsole and a removable flexible insole with arch support.\n\nIt undercuts the KEEN Targhee 3 by a wide margin and keeps a leather upper. Compared with the NORTIV 8 Black Leather, it has the same construction in a dark grey and orange finish.\n\nIt suits buyers who want waterproof leather without paying KEEN prices. The MD midsole reduces foot fatigue and absorbs shock.",
     "specs": [
       "Suede leather, waterproof membrane",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hT+qvg9nL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CP7V51NZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CP7V51NZ?tag=rvgearlab-amz-20",
     "description": "The NORTIV 8 Black Leather uses the same suede leather, waterproof membrane and rubber toe cap as the NORTIV 8 Suede. It has a Multi-Directional Traction outsole and a removable arch support insole.\n\nIt is a more muted black and grey look, which suits everyday wear as well as trails. Next to the SHULOOK Trail, it has a sturdier leather upper and a firmer toe cap.\n\nIt suits hikers who want waterproof leather in a low-key color. The MD midsole softens impacts on hard ground.",
     "specs": [
       "Suede leather, waterproof membrane",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/412fVrV6NhL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B087428N5K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B087428N5K?tag=rvgearlab-amz-20",
     "description": "The NORTIV 8 Low Top is a waterproof membrane hiking shoe with a roomy toe box that accommodates wide feet. A robust rubber toe cap and reinforced heel protect against impacts, and a rugged outsole with deep lugs grips varied surfaces.\n\nIt leans lighter and roomier than the two NORTIV 8 leather shoes, with a synthetic build. Compared with the KEEN Targhee 3, it offers generous toe room for far less.\n\nIt suits broad-footed hikers who need waterproofing for shallow streams and puddles. The flexible MD midsole reduces foot fatigue.",
     "specs": [
       "Waterproof membrane, roomy toe box",

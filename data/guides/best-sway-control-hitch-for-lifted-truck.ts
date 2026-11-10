@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31bjdJ8OuLS._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07BT3CPS6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07BT3CPS6?tag=rvgearlab-amz-20",
     "description": "The Andersen 8-inch hitch pairs a 2 inch shank with an 8 inch drop, a 2-5/16 inch ball, and a 14,000 lb gross trailer weight rating. The listing says outright that the drop is meant for lifted tow vehicles pulling heavier trailers.\n\nNext to the Shocker Air Ride, it skips the air system and costs less, and next to the Camco TR3 Hitch it states its drop plainly instead of leaving you to guess. Tension chains replace spring bars, and an integrated friction cone adds sway control.\n\nIt is the strongest match for a lifted truck with a 2 inch receiver. Measure your own drop first, because a lift of a few inches can need more or less than 8.",
     "specs": [
       "8 inch drop, 2 inch shank",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51HVB5kOJ0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CT43VBKM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CT43VBKM?tag=rvgearlab-amz-20",
     "description": "The Shocker Air Ride is an air ride drop hitch with two sway arm bar kits and a 2-5/16 inch ball. The listing gives 4-1/2 to 8-1/2 inches of drop and a 20,000 lb gross rating on the larger ball, with a 2,000 lb tongue weight.\n\nCompared with the Andersen 8-Inch Hitch, it adds an air ride system that softens the trailer's bounce and offers an adjustable drop range. The cost is the highest in this guide, and it is a drop hitch with sway arms rather than a weight distribution hitch.\n\nIt suits a heavy-duty lifted truck owner who wants a smoother ride and a wider drop adjustment. Note the 2 inch ball is rated lower at 10,000 lb, so pick the ball size to match your trailer.",
     "specs": [
       "4-1/2 to 8-1/2 inch drop",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ktxF4He8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BP87DWGJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BP87DWGJ?tag=rvgearlab-amz-20",
     "description": "The Camco Eaz-Lift TR3 is a weight distribution hitch kit with an 800 lb maximum tongue weight and a pre-installed 2-5/16 inch ball. Sway control comes through a clamp adjustment that can be turned on and off.\n\nAgainst the Andersen 8-Inch Hitch, it is the lighter-duty choice and its listing does not state a drop height. It does highlight no-noise design and avoids metal-on-metal wear.\n\nIt fits a lifted truck pulling a lighter travel trailer. Confirm that the shank drop matches your lift, since the listing does not give one.",
     "specs": [
       "800 lb max tongue weight",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ISaUYtH7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B005JQNPG6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B005JQNPG6?tag=rvgearlab-amz-20",
     "description": "The Camco Eaz-Lift friction sway bar mounts on the driver's side and uses double friction pads for constant resistance, with an on and off control. The kit includes a slide bar, crank handle, spring clips, friction plate, ball tongue plate, self-tapping screws, and a chrome ball.\n\nIt is a bolt-on add-on, so it ranks below the full Camco TR3 Hitch. Its listing says it works with Eaz-Lift weight distribution hitches with adjustable sway control.\n\nChoose it if your lifted truck already has a compatible Eaz-Lift hitch. Remember to turn it off for backing and slick roads.",
     "specs": [
       "Driver side mount",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31HDxGVxU2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B003VAX5NA?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B003VAX5NA?tag=rvgearlab-amz-20",
     "description": "The Eaz-Lift ball mount adapter lets a friction sway control attach to a 2 inch ball mount. The listing says it fits most competitors' ball mounts with a 1 inch ball shank hole, and it bolts together for left or right side use.\n\nIt is only a connector, so it ranks beneath the Camco Friction Sway Bar, which is the actual bar. It is useful on a drop hitch with a plain ball mount.\n\nBuy it if you run a standard ball mount on a lifted truck and own a friction bar. Check your ball shank diameter first.",
     "specs": [
       "For 2 inch ball mounts",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/415Po7KYhcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B003VASX0A?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B003VASX0A?tag=rvgearlab-amz-20",
     "description": "The Eaz-Lift frame adapter bolts to the trailer frame to carry a sway control bar, and the listing says it suits 2 inch by 3 inch A-frame trailers. It uses a clamp-on design that avoids welding and protects wiring inside the frame.\n\nIt handles the trailer end, where the Eaz-Lift Ball Mount Adapter handles the truck end, and you need both ends for a bar to work. The listing warns it is not for trailers with surge brakes.\n\nIt fits owners with a standard 2 by 3 inch frame on a trailer without surge brakes. Measure the frame before you order.",
     "specs": [
       "For 2 by 3 inch A-frames",

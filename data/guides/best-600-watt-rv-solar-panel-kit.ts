@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51vNHtedOnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09KKYL94D?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09KKYL94D?tag=rvgearlab-amz-20",
     "description": "This kit contains six 100W monocrystalline panels (600W) rated up to 21% efficiency, a 60A MPPT controller with built-in Bluetooth and a digital display, a pair of 20 foot 10AWG solar cables, a pair of 6 foot 8AWG battery cables, six sets of mounting brackets and connectors. The controller auto-detects 12V, 24V, 36V and 48V systems and accepts up to 150V of PV input. It costs $759.99.\n\nIt costs $170 more than the ExpertPower 40A kit with the same six panels, and that money buys a controller that can pass about 840W at 12V and 14V instead of about 560W, so none of the 600W is clipped, plus built-in Bluetooth. Compared with the ACOPOWER 3x200W at $709, it costs $50.99 more but lists six sets of brackets for six panels and has the larger controller headroom.\n\nPick this if you want full output from 600W on a 12V bank and room to add panels later. The caveat is that six panels need more roof area and more connections than the two-panel and three-panel kits.",
     "specs": [
       "6 x 100W, 21% efficiency",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51OajhMtS-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09KKMWCSY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09KKMWCSY?tag=rvgearlab-amz-20",
     "description": "The 40A version of the ExpertPower kit has six 100W monocrystalline panels (600W), a 40A MPPT controller that auto-detects 12V and 24V systems, a pair of 20 foot 10AWG solar cables, a pair of 6 foot 8AWG battery cables, six mounting bracket sets and a set of connectors. The controller adjusts its charge profile for ambient temperature. It costs $589.99, or about $0.98 per watt.\n\nIt is $210 more than the 2x300 30A Kit but includes brackets and stated cable gauges, and it costs $170 less than the ExpertPower 60A with the same panels. The tradeoff is the controller: at about 14V charging, a 40A unit passes roughly 560W, so on a 12V bank a bright cold morning can clip the top of the 600W array. On a 24V bank the same controller has ample room.\n\nChoose it if you want a six-panel kit under $600 with stated cables, or if you will run a 24V bank. The caveat on 12V is a little lost output at peak sun, and the listing mentions no Bluetooth or display.",
     "specs": [
       "6 x 100W monocrystalline",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/511Ucf0Q84L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FHWGYNRL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FHWGYNRL?tag=rvgearlab-amz-20",
     "description": "The 2x300 30A Kit pairs two 300W N-type monocrystalline panels with 18BB cells and efficiency up to 24.6% with a 30A MPPT controller, MC4 connectors and pre-drilled mounting holes. The listing says the kit is for a 12 volt system. It costs $379.99, or about $0.63 per watt, the lowest in this group by a wide margin.\n\nThe price comes with an electrical mismatch that the listing does not mention. On a 12V battery at about 14V, a 30A controller passes roughly 420W, so about 180W of the 600W array is clipped, while wired for a 24V bank the same controller passes about 840W. Brackets, cables and monitoring are not described, so add them to the cost, and the price still ends up $210 below the ExpertPower 40A.\n\nPick this if you run a 24V battery or only need around 420W on 12V and want large, efficient panels at the lowest price. The caveat is that on 12V you are paying for 600W you cannot fully use.",
     "specs": [
       "2 x 300W N-type panels",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51kb3EfbkKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B8GZHV3Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B8GZHV3Q?tag=rvgearlab-amz-20",
     "description": "WUZECK supplies four 150W PERC monocrystalline panels with 23% conversion, an aluminum frame with IP65 or better protection, rated for 2400Pa wind and 5400Pa snow, Z brackets, black extension cable and a 50A controller. The listing says the controller works with sealed, gel, flooded and lithium batteries, and that panels can wire in parallel for 12V or in series for 24V. It costs $699.90.\n\nA 50A unit on 12V at about 14V passes roughly 700W, so all 600W gets through, which the cheaper ExpertPower 40A at $589.99 does not guarantee. It costs $109.91 more than that kit, but the listing does not say whether the 50A controller is MPPT or PWM, so a PWM unit would lose output the others avoid. Four 150W panels sit between the two-panel and six-panel layouts for roof fit.\n\nChoose it if you want four mid-size panels and a 50A controller from one maker. The caveat is that the controller type is undefined, so ask the seller before ordering.",
     "specs": [
       "4 x 150W PERC, 23%",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41RL2fq6Q8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B097T6PK6D?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B097T6PK6D?tag=rvgearlab-amz-20",
     "description": "ACOPOWER includes three 200W monocrystalline panels with 35 inch 12AWG leads and pre-drilled holes, a 50A MPPT controller with 99.5% peak efficiency, a 30 foot 12AWG solar adaptor kit, an 8 foot 8AWG tray cable, a cable entry housing, four Z bracket sets and 1Y3 branch connectors. The listing says the panels can be wired in parallel for 12V or in series for 24V, and that you only need a battery cable and fuse. It costs $709.\n\nIt is $9.10 more than the WUZECK 4x150 and $50.99 below the ExpertPower 60A. It is the only kit here that lists a cable entry housing and a tray cable, which makes the roof penetration and cable run tidier. It lists only four bracket sets for three panels, which is fine for three, but the order ships in multiple packages, so check that all parts arrive.\n\nPick this if you want three large panels, an MPPT controller sized for 12V and a complete cable package. The caveat is that 50A leaves 100W of headroom at best, so a 24V bank is the long-term plan.",
     "specs": [
       "3 x 200W monocrystalline",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51TnOIBulyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08Y13VQ8K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08Y13VQ8K?tag=rvgearlab-amz-20",
     "description": "RICH SOLAR supplies three 200W monocrystalline panels with anti-reflective coating, a 40A MPPT controller with a digital display for volts, amps and amp hours, a Bluetooth module, a fuse, Z brackets, an adaptor kit and tray cables. The listing highlights a pre-assembled wiring harness that needs no crimping, a 25-year output warranty and free lifetime after-sales support. It costs $799.99.\n\nIt is the most expensive kit here, $40 above the ExpertPower 60A, and its 40A controller carries the same 12V clipping limit as the ExpertPower 40A, so you are not paying for controller capacity. The money goes to the no-crimp harness, the stated 25-year output warranty and lifetime support, and it costs $90.99 more than the ACOPOWER 3x200 while carrying a smaller controller.\n\nChoose it if you do not want to crimp cable and want a stated warranty and support commitment. The caveat is that at $799.99 the controller is the weak point on a 12V bank, so a 24V bank suits it better.",
     "specs": [
       "3 x 200W monocrystalline",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51HGhWmYo6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01F24EL5S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01F24EL5S?tag=rvgearlab-amz-20",
     "description": "Mount Hagen comes as 25 single-serve sticks of organic medium roast Arabica. The packets are pocket sized, so one stick equals one mug with no measuring.\n\nCompared with the jars, sticks stay dry and portion themselves, which helps on windy mornings. It sits above the other picks for taste claims, being billed as award-winning organic instant.\n\nThat makes it a favorite for hikers who want an easy cup without a scoop. A handful of sticks weighs almost nothing.",
     "specs": [
       "25 single-serve sticks",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Rb78APwJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H4YGD8GB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H4YGD8GB?tag=rvgearlab-amz-20",
     "description": "Taplabs offers 18 individual servings of freeze-dried Arabica instant coffee that dissolves in hot or cold water within seconds. Each serving comes in a compact package built for outdoor travel.\n\nWhere the sticks are hot-water oriented, this one works in a cold water bottle too. That suits warm-weather hikes where a fire is too much effort.\n\nIt is a smart match for cold-brew fans who also want a hot cup at camp. The packets stow flat in a mug.",
     "specs": [
       "18 individual freeze-dried servings",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41MGa2A8dbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FH5VSYFG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FH5VSYFG?tag=rvgearlab-amz-20",
     "description": "Nescafe Clasico is a 14.1 ounce jar of dark roast instant coffee made with beans from around the world. It dissolves quickly for a bold, classic cup.\n\nA big jar covers a whole camping week for a family, and it costs less per cup than any of the packets. It is the right size for a camp kitchen box.\n\nCar campers who share the pot will love the volume. Just scoop what you need.",
     "specs": [
       "14.1 oz jar",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41mA1ujsGaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CRJT1YK9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CRJT1YK9?tag=rvgearlab-amz-20",
     "description": "Nescafe Gold Espresso Intense is a 3.5 ounce jar made with golden-roasted Arabica beans and café-style crema. It is ready in an instant without equipment.\n\nCompared with Nescafe Clasico, the espresso intensity gives a stronger, smoother cup in a smaller jar. It is a good size for a weekend.\n\nIt is a good pick for anyone who likes a concentrated drink or wants to build a camp latte. Add hot milk and it turns into a camp latte.",
     "specs": [
       "3.5 oz jar",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41A7mbdcSJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01LB1J9BW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01LB1J9BW?tag=rvgearlab-amz-20",
     "description": "Folgers Classic Roast Instant comes in an 8 ounce jar and is smooth enough to drink hot or iced. The limited-edition packaging marks America's 250th anniversary.\n\nIt is a familiar flavor, and it costs less than the premium sticks or the Nescafe Gold. The jar is a middle size between the big Clasico and small espresso jar.\n\nIt is a good value for campers who want a familiar morning cup. One jar keeps a couple going all weekend.",
     "specs": [
       "8 oz Classic Roast jar",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41xtqiHpZLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B074HCGPHQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B074HCGPHQ?tag=rvgearlab-amz-20",
     "description": "365 by Whole Foods Market Dark Roast instant comes in a 3.5 ounce jar. It is a simple, affordable jar for a quick cup.\n\nIt is the lowest-cost option and sits a notch smaller than Folgers. The dark roast suits black coffee.\n\nA good match for weekend campers who want an easy, low-cost jar. It tucks easily into a camp kitchen bin.",
     "specs": [
       "3.5 oz jar",

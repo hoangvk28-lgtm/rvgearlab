@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41RL0I+GqWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GTQ7BHVL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GTQ7BHVL?tag=rvgearlab-amz-20",
     "description": "The OUPES Mega 1 Lite stores 1,024Wh of LiFePO4 rated for 3,500 or more cycles to 80 percent, with a rated 2000W pure sine wave output and a 4,500W surge. It weighs 26.7 pounds, has two 140W USB-C PD ports among 9 ports, a UPS switchover under 20ms, 1,400W of AC input for a 0 to 100 percent charge in 46 minutes, up to 800W of solar through an Anderson port, and a 5-year warranty in the box list.\n\nAt $463 it is $6.99 below the OUPES Mega 1 and $23.01 above the Anker C1000 Gen 2. Against the Mega 1 it has faster AC input claims and a 140W USB-C, but the listing does not mention the B2 expansion batteries the Mega 1 supports. Against the ABOK Ark2000 at $749.99 it holds 512Wh less but costs $286.99 less.\n\nPick it if you want a lighter 2000W station with a long warranty and two fast USB-C ports for a laptop-heavy camper. The caveat is the capacity: at 1,024Wh the station is a short-burst appliance runner, not a long-haul bank, and the listing does not state expansion support.",
     "specs": [
       "1,024Wh LiFePO4, 2000W",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zmgYduoTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H7BF7TH8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H7BF7TH8?tag=rvgearlab-amz-20",
     "description": "The Anker SOLIX C1000 Gen 2 stores 1,024Wh of LiFePO4 that keeps at least 80 percent capacity after 4,000 cycles, and delivers 2,000W continuous, 3,000W peak, across 10 ports. It recharges in 49 minutes at 1,600W, takes 600W (60V max) of solar for a 1.8-hour charge, and switches over in under 10ms as a UPS, with a TOU mode in the Anker app. The listing calls it 14 percent smaller and 11 percent lighter than similar models but gives no weight.\n\nAt $439.99 it is the cheapest here, about $0.43 per watt-hour, $29.99 below the OUPES Mega 1 and $23.01 below the Mega 1 Lite. Its 4,000-cycle rating is above the OUPES units' 3,500, and its UPS time is under half theirs. The listing does not mention expansion batteries, so it is a single-unit buy unlike the ABOK and Mega 1.\n\nChoose it as the cheapest solid 2000W with a strong solar input for a campsite refill. The caveat is the missing weight and the lack of a stated warranty in the listing.",
     "specs": [
       "1,024Wh LiFePO4, 2000W",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41J42iP7mSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FRSCP2VS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FRSCP2VS?tag=rvgearlab-amz-20",
     "description": "The ABOK Ark2000 stores 1,536Wh in EVE LiFePO4 cells rated for 4,000 plus cycles, and delivers 2000W continuous with a 2400W A-Boost mode for compatible appliances and 3,500W peak, through 3 AC outlets, a 100W USB-C and a 20W USB-C. It charges 0 to 80 percent in 55 minutes with 1500W AC input, or about 1.2 hours with 1200W of solar from two 600W panels, with a 10ms UPS and a 2-year warranty plus 3 years of service support. One or two Ark2000E packs expand it to 3,072Wh or 4,608Wh.\n\nAt $749.99 it costs about $0.49 per watt-hour, which is $310 above the Anker C1000 Gen 2 for 512Wh more. The extra money buys the 50 percent larger battery, expansion and the highest solar input, but the listing gives no weight. A-Boost is a mode for compatible appliances, not additional continuous power.\n\nBuy it if you plan to add expansion batteries later and want a stronger solar input for a longer stay. The caveat is that price and the need to buy the Ark2000E separately for any capacity beyond 1,536Wh.",
     "specs": [
       "1,536Wh LiFePO4, 2000W",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41wgUhMXy3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DG8JQNS4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DG8JQNS4?tag=rvgearlab-amz-20",
     "description": "The OUPES Mega 1 holds 1,024Wh of LiFePO4 rated for 3,500 plus cycles, with a rated 2000W pure sine wave output and 4,500W surge. Its listing claims a 0 to 80 percent charge in 36 minutes on AC, or 26 minutes with AC and solar together, a Bluetooth app, a UPS under 20ms, dual 100W USB-C, four QC3.0 USB-A ports and 12V DC outputs. Up to two B2 Extra Batteries expand it to 5,120Wh.\n\nAt $469.99 it is $6.99 above the Mega 1 Lite and $29.99 above the Anker C1000 Gen 2. Compared with the Lite it trades the 140W USB-C ports for 100W, and gives you expansion support the Lite listing does not state. The Kit version below adds a 100W panel for $130.01. The listing gives no weight or warranty.\n\nPick it if you expect to add B2 batteries later or like the 36-minute fast charge. The caveat is that expansion batteries are sold separately, and the base unit is the same 1,024Wh as two cheaper picks.",
     "specs": [
       "1,024Wh LiFePO4, 2000W",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zSzY5ecJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FS71NRSZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FS71NRSZ?tag=rvgearlab-amz-20",
     "description": "This bundle is the OUPES Mega 1 with a 100W solar panel, so it keeps the 1,024Wh of LiFePO4, the 2000W rated pure sine wave output and the 4,500W surge. The listing adds 4 AC outlets, two 100W USB-C, four USB-A, two DC5521 and a car socket for 13 ports, a weight of 27.8 pounds, a UPS under 20ms and 3,500 plus cycles. It claims 0 to 80 percent in 36 minutes on AC, 1.3 hours with 3 by 240W panels, or 26 minutes with both.\n\nAt $599.99 it adds $130.01 over the plain Mega 1 for the 100W panel, which makes cost per watt-hour about $0.59. A single 100W panel is a trickle for a 1,024Wh battery, so the real value is the four outlets and the weight stated at 27.8 pounds. The ABOK Ark2000 at $749.99 gives 512Wh more for $150 more.\n\nChoose it if you want four AC outlets and a starter panel. The caveat is that the 100W panel is too small to do much, so plan to add bigger panels.",
     "specs": [
       "1,024Wh, 2000W, 100W panel",

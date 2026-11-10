@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41oY9x49HuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HD9GBNJX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HD9GBNJX?tag=rvgearlab-amz-20",
     "description": "The Tri-Power lists 5000 lumens and can run from a rechargeable battery, a solar panel or four D batteries. It has high, medium, eco and red modes, three color temperatures with dimming, and USB-C charging plus a USB-C output for devices.\n\nOnly this listing names 5000 lumens, with the AlpsWolf next at 4000. It is also the only one with a D-battery backup, which the Cullaby and CAPETRONIX do not offer.\n\nIt suits campers who want maximum light and several power options in one body. Color temperature options help match light to the task.",
     "specs": [
       "5000 lumens, 3 color temps",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/416QIV1q-+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F3CH78CY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F3CH78CY?tag=rvgearlab-amz-20",
     "description": "The AlpsWolf lists 4000 lumens with 360 degree light, four modes (high white, low white, steady red and red strobe) and a 4600mAh power bank battery. A memory function recalls the last setting and a foldable handle aids hanging.\n\nIt is the brightest of the nearest-fit picks, ahead of the CAPETRONIX at 3200 and Cullaby at 3000. It costs less than the Tri-Power.\n\nIt suits campers who want near-5000 output at a lower price. The memory function makes it easy for kids and seniors.",
     "specs": [
       "4000 lumens, 360 degree light",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41EYSwx1tSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B5WKNNFP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B5WKNNFP?tag=rvgearlab-amz-20",
     "description": "The CAPETRONIX lists 3200 lumens from double COB panels, a 4600mAh battery that charges a phone, and five modes ending with red steady and red strobe. The body measures 7 by 4 inches and weighs about 1.2 lb.\n\nThe listing states its 7 by 4 inch size and 1.2 lb weight, details the other three leave out. Its output sits just above the Cullaby and below the AlpsWolf.\n\nIt suits campers who want a compact bright lantern for a tent or table. The IPX4 body copes with splashes.",
     "specs": [
       "3200 lumens, double COB",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31j733mVWHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D11BJHG8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D11BJHG8?tag=rvgearlab-amz-20",
     "description": "The Cullaby delivers up to 3000 lumens with stepless dimming and five modes, including red and a red strobe. A 7500mAh pack sits behind a USB-C output that doubles as a phone charger.\n\nIt has the biggest battery of the four, ahead of the 4600mAh AlpsWolf and CAPETRONIX. Stepless dimming gives finer control than the preset modes of the Tri-Power.\n\nIt suits campers who want strong light and long run time on a dimmed setting. An IP54 body handles splashes and dust.",
     "specs": [
       "3000 lumens, 7500mAh",

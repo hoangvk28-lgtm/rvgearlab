@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41V5t21VddL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G64CB1SX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G64CB1SX?tag=rvgearlab-amz-20",
     "description": "The BougeRV lists 25 percent N-type cells, a fiberglass-reinforced layer to resist cracking, XT60 and DC7909 connectors and an 8.2 ft extension cable. It has built-in side handles.\n\nIt matches the Renogy kit on efficiency at a much lower price and adds an 8.2 ft cable. It costs the same as the GRECELL UB200.\n\nIt suits campers who want a tougher folding panel with a long cable. The fiberglass layer adds crack resistance.",
     "specs": [
       "25% N-type, fiberglass layer",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41EY-TitQPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B9SMD8BC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B9SMD8BC?tag=rvgearlab-amz-20",
     "description": "The GRECELL UB200 lists 23.5 percent cells, 10.14 lbs and a folded size of 21.46 x 22.95 x 1.77 inches. It has four connectors (DC7909, XT60, aviation and Anderson) and auto-optimization that reconnects when sunlight returns.\n\nIt weighs 18 lbs less than the Renogy suitcase kit and about 8 lbs less than the EBL. It claims to be more than 30 percent lighter than comparable panels.\n\nIt suits campers who want a slim 200W panel. The ETFE surface can bend at a limited angle.",
     "specs": [
       "23.5% cells, 10.14 lbs",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41lXOrWRnlL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07RFQVB9M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07RFQVB9M?tag=rvgearlab-amz-20",
     "description": "The Renogy suitcase lists 25 percent N-type cells, a pre-installed waterproof 20A PWM controller and alligator clip cables. It folds into a case at 28.46 lbs with low-iron tempered glass, an aluminum frame and an IP65 junction box.\n\nNothing else on the list pairs a controller with rigid glass, which makes it ready for a 12V battery. It weighs far more than the others.\n\nIt fits vans and trailers built around a 12V system. The tempered glass handles knocks.",
     "specs": [
       "25% N-type, 20A PWM",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41-eyTHabRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09725M32Z?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09725M32Z?tag=rvgearlab-amz-20",
     "description": "The ALLPOWERS SE200 lists monocrystalline cells at 23 to 25 percent, a flexible bracket from 0 to 180 degrees and an IP68 rating. It has a working voltage of 41.6V at 4.8A for 12V and 24V systems.\n\nIt is the only pick with an IP68 rating, and it is designed to pair with ALLPOWERS stations. The 41.6V figure is higher than the others' 20V units.\n\nIt suits ALLPOWERS owners. The wide-angle bracket helps aim at any sun position.",
     "specs": [
       "23 to 25%, IP68",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41salPO2KuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BTNTDZLT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BTNTDZLT?tag=rvgearlab-amz-20",
     "description": "The EBL lists 23.5 percent cells, PET lamination, an 840D Oxford cloth outer, 17.95 lbs and IP65. It folds to 25.31 x 20.87 x 2.17 inches and unfolds to 94.17 x 20.83 inches.\n\nIt is the only listing here that gives open dimensions, 94.17 inches long, and it includes an MC4 to 4-in-1 cable for XT60, Anderson, DC and aviation connectors. It weighs about 8 lbs more than the GRECELL UB200.\n\nIt suits campers who need a wide spread of sun-catching area. The 840D cloth is built to take abuse.",
     "specs": [
       "23.5% cells, 17.95 lbs",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41DfeCl9oJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FXW8RBX8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FXW8RBX8?tag=rvgearlab-amz-20",
     "description": "The CTOLITY lists 23.7 percent monocrystalline cells at 20.5V, an ETFE coating and adjustable legs. It has MC4, XT60, 5525 and Anderson outputs and folds to a briefcase shape.\n\nIt is the cheapest listing here and costs about half of the Renogy suitcase kit. It offers more output types than the BougeRV.\n\nIt suits budget campers with common station connectors. The adjustable legs help aim.",
     "specs": [
       "23.7% cells, 20.5V",

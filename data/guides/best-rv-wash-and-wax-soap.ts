@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41iiSMENSML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00VK3C5CW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00VK3C5CW?tag=rvgearlab-amz-20",
     "description": "STAR BRITE RV Wash and Wax is a concentrated cleaner and UV protectant that lists PTEF polymers for shine and UV protection. A few capfuls clean a full-size RV, and it is formulated for road grime, dirt and mud while not removing wax or polish or harming decals.\n\nAgainst Gel Gloss, it uses PTEF polymers instead of carnauba and states decal safety. Against the soap-only picks, it adds a protective layer.\n\nBest for RV owners who want an economical concentrate that is safe on decals. A strong pick for full-size rigs.",
     "specs": [
       "Concentrated RV wash and wax",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41yKYvnpvkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0027M3A1U?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0027M3A1U?tag=rvgearlab-amz-20",
     "description": "Gel Gloss RV Wash and Wax is a gallon concentrate with carnauba wax that cleans, polishes and protects for a streak-free shine. The directions call for 2 ounces in 5 gallons of water, and the formula lists UV protection and biodegradable ingredients.\n\nAgainst STAR BRITE, it is a carnauba formula with a lower price per use. Against Chemical Guys, it is made for RVs.\n\nBest for owners who want a gallon of RV wash and wax at a low cost. A top value for regular washing.",
     "specs": [
       "1 gallon carnauba concentrate",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41QLiBja+cL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B073PNNVPX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B073PNNVPX?tag=rvgearlab-amz-20",
     "description": "Chemical Guys Extreme Bodywash and Wax is a 64 oz pH-balanced soap with carnauba wax that leaves a slick, hydrophobic layer. It works with foam cannons, foam guns or two-bucket washing and is listed as safe on paint, glass, wheels and trim.\n\nAgainst STAR BRITE, it is a car soap with carnauba and foam cannon use. Against Gel Gloss, it foams thicker but costs more per ounce.\n\nBest for owners who want foam and wax in one soap. A strong choice for cannon users.",
     "specs": [
       "64 oz pH-balanced soap with carnauba",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41+twlyWN9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B001FCE5AI?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B001FCE5AI?tag=rvgearlab-amz-20",
     "description": "Gel Gloss RV Wash and Wax is a 32 oz bottle of the concentrated carnauba formula at the lowest wax-soap price here. It is the small size of the same product as the gallon.\n\nAgainst the gallon, it fits a single wash and a small storage space. Against STAR BRITE, it costs far less.\n\nBest for a first try or a small trailer. A low-risk way to test the brand.",
     "specs": [
       "32 oz carnauba concentrate",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41S+hWFFiSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00VK3C5KY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00VK3C5KY?tag=rvgearlab-amz-20",
     "description": "STAR BRITE RV Wash is an ultimate exterior cleaner for removing road grime and crud. A few capfuls are enough for a full-size RV, and the listing says it is safe on all exterior surfaces and decals.\n\nAgainst STAR BRITE Wash and Wax, it cleans without adding wax and costs much less. Against Meguiar's, it is RV-specific.\n\nBest for owners who wax separately. A strong cleaner before a wax step.",
     "specs": [
       "Exterior RV wash, concentrated",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41G3Fwb55kL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0000AXVCB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0000AXVCB?tag=rvgearlab-amz-20",
     "description": "Meguiar's M43 Marine and RV Boat Wash is a 64 oz pH-balanced soap that cleans dirt, grime and scum without stripping wax. It lists long-lasting suds, a non-streaking formula and rich conditioners.\n\nAgainst STAR BRITE RV Wash, it is cheaper and a larger bottle. Against the wash and wax picks, it cleans only.\n\nBest for RV and boat owners who want a gentle soap at a low price. A great base wash.",
     "specs": [
       "64 oz pH-balanced boat and RV wash",

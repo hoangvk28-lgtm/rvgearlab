@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41wJKu7gGRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B096JSQ7BX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B096JSQ7BX?tag=rvgearlab-amz-20",
     "description": "The WINDFIRE uses an unfiltered green LED listed at up to 600 lumens on high, with high, low and strobe modes, a zoom that spots as far as 250 yards and a 90 degree head swivel. It charges from any USB source and lasts about 5 to 12 hours per charge.\n\nIt lists a green output and a beam range that neither the BORUIT nor the Energizer Vision states. It has no white light, which the BORUIT RJ-3000 offers.\n\nIt suits hunters and trackers who want the strongest green beam. The title also lists a motion sensor for touch-free switching.",
     "specs": [
       "Unfiltered green, up to 600 lumens",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41gv9hVPqxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GVN7SXFL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GVN7SXFL?tag=rvgearlab-amz-20",
     "description": "The BORUIT RJ-3000 combines a central white LED with dual green side lights for 3 modes: high white, low white and green. It charges over USB-C and includes rechargeable batteries, with a 90 degree adjustable head.\n\nIt adds a white light that the WINDFIRE lacks at about the same price. The Energizer Vision offers red as well and charges by micro-USB.\n\nIt suits anglers and campers who want one lamp for tasks and for green-light movement. The listing names hunting, fishing and night navigation.",
     "specs": [
       "Central white, dual green LEDs",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41vePnr-LzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07JD4KNKQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07JD4KNKQ?tag=rvgearlab-amz-20",
     "description": "The Energizer Vision Ultra HD headlamp offers 7 light modes: high, low, wide, wide low, red, green and a flashing red. Smart Dimming controls intensity, VisionGuard gradually increases light, the lens is shatterproof and a micro-USB cable is included.\n\nIt is the only pick with a flashing red emergency mode, and it comes from a familiar brand. It charges by micro-USB, an older port than the BORUIT RJ-3000's USB-C.\n\nIt suits families and casual campers who want a familiar brand with red and green settings. The shatterproof lens helps on rocky trails.",
     "specs": [
       "7 modes with red and green",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51LCS7eB5AL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CPXRFZ4J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CPXRFZ4J?tag=rvgearlab-amz-20",
     "description": "The LHKNL Green 2-pack includes two lamps weighing 1.87 ounces each with 8 modes, an IPX4 rating, a 60 degree rotating head and a motion sensor. A 3 second long press turns it off from any mode.\n\nAlone among these five it comes as a pair, and it adds a long-press shutoff. Its tilt is smaller than the WINDFIRE's 90 degrees.\n\nIt suits partners who want matching lamps and hands-free switching. The long-press shut off saves cycling through modes.",
     "specs": [
       "Two lamps, 8 modes",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51OmlI9FptL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DBV3ZZ6W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DBV3ZZ6W?tag=rvgearlab-amz-20",
     "description": "The EverBrite 700 lists a 700 lumen high mode with a 100 meter spotlight, white, red and green light, memory and stepless dimming. A Type-C port on the base charges a built-in 1,200mAh battery from any 5V/1A USB source.\n\nIt lists a 700 lumen white mode that the Energizer Vision does not, and it charges by Type-C where the Energizer uses micro-USB. The WINDFIRE has the stronger green beam.\n\nCampers who need a bright white for hiking plus red and green for camp are the audience. The memory function returns to the last brightness.",
     "specs": [
       "700 lumens, 100 m spotlight",

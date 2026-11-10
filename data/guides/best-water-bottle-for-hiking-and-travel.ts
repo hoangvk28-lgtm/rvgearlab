@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/5112jA79AFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B35K8H4Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B35K8H4Q?tag=rvgearlab-amz-20",
     "description": "The KXIAOCHEN 32 oz bottle uses triple wall vacuum insulation with a copper layer and is rated on the listing for 48 hours cold. It includes a straw lid and a spout lid sealed with silicone rings, plus a paracord handle and carry options.\n\nIt states the longest cold time of the five and gives two lids. It holds more than the Opard and the Konokyo.\n\nIt suits hikers and travelers who want the coldest water. The paracord handle clips to a pack.",
     "specs": [
       "32 oz triple-wall steel, 48 hours cold",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41O18ttt6xL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C3756SBY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C3756SBY?tag=rvgearlab-amz-20",
     "description": "The Konokyo 18 oz bottle has a triple-layer 18/8 stainless steel body that holds cold for up to 24 hours or heat for up to 12. A sweat-proof exterior and a leak-proof lid make it bag-friendly.\n\nIt is the smallest and cheapest insulated bottle here, and it comes with a strap. It holds less than the KXIAOCHEN.\n\nIt suits travelers who want a small insulated bottle for a day bag. The strap makes it easy to carry.",
     "specs": [
       "18 oz triple-layer steel",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Ib6bb7qCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G3PLM9VX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G3PLM9VX?tag=rvgearlab-amz-20",
     "description": "The Opard Zip is a 20 oz Tritan bottle released in Nov. 2025 with a coating that the listing says never gets sticky. It has a leakproof flip-top lid, a sliding button lock for one-hand use and is top-rack dishwasher safe.\n\nIt is lighter than the steel bottles and the easiest to wash. It does not insulate.\n\nIt suits travelers who want a light bottle through security and into a bag. The wide mouth takes ice.",
     "specs": [
       "20 oz BPA-free Tritan",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31oRnidNAaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DXKN2WQ6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DXKN2WQ6?tag=rvgearlab-amz-20",
     "description": "The Edmyre is a 32 oz clear BPA-free Tritan bottle with a fast-flow spout lid, a wide mouth and a capacity scale. The listing says it is leakproof and suits sports and outdoors.\n\nIt holds 32 oz at a lower price than the KXIAOCHEN and weighs less than steel. It is not insulated.\n\nIt suits hikers who want a large, light bottle. The scale helps track intake.",
     "specs": [
       "32 oz clear Tritan",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31SoYWG4DcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H6Z93FC5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H6Z93FC5?tag=rvgearlab-amz-20",
     "description": "The Rotayi is a 16 oz silicone collapsible bottle that goes from 8.5 inches to 4.9 inches and weighs 140 g. It uses food-grade BPA-free silicone with a stainless steel lid and a carabiner.\n\nIt is the only collapsible bottle and the lightest by far. It holds the least here.\n\nIt suits travelers who need a bottle that packs flat. The carabiner clips to a bag.",
     "specs": [
       "16 oz collapsible silicone, 140 g",

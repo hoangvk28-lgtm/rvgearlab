@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hH3UbUtML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B015DEY2TM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B015DEY2TM?tag=rvgearlab-amz-20",
     "description": "The Renogy 200W 12V Kit pairs N-type panels with the Adventurer-Li 30A PWM charge controller. The listing gives 22 percent cell efficiency, 2400 Pa wind and 5400 Pa snow load ratings, pre-drilled mounting holes with plug-and-play cables, and Y branch connectors for parallel wiring. It says 800Wh a day is based on 4 hours of sunlight, and it is priced at $243.09.\n\nIt ranks first because the controller is included and flush-mounts on a wall, the panel has published load ratings, and the listing says it supports lithium, lead-acid and gel batteries. Against the $185.99 ECO-WORTHY kit, you pay about $57 more and gain a named controller and a five-year warranty against one year. Against the Renogy Flexible, the rigid frame needs more roof area but avoids the bendable panel's lower weight tradeoffs.\n\nPick this if you want a permanent roof array and a simple one-box purchase from a brand with a long warranty. The caveat is that the listing states rigid panel and controller details but not panel dimensions in the feature text, so measure your roof space against the product page before buying.",
     "specs": [
       "200W, 22% efficient N-type cells",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41WWXphNKML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09RZZHHHM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09RZZHHHM?tag=rvgearlab-amz-20",
     "description": "The ECO-WORTHY 200W kit includes two 100W monocrystalline panels, two sets of Z mounting brackets, a 30A solar controller, a pair of 16.4 ft 10 AWG solar cables and connectors. The listing cites 800Wh per day under 4 hours of full sun, 21.5 percent cell efficiency, a 2400 Pa wind rating and 5400 Pa snow load, and panels that wire in series for 24V or parallel for 12V. It costs $185.99.\n\nIt ranks second because it bundles brackets and cable, which most panel-only listings do not, and costs $57 less than the Renogy kit. The tradeoffs are a one-year warranty and the panel size of 35.2 by 23.1 by 1.37 inches each, meaning two panels need roughly 11 square feet side by side. Compared with the DOKIO, you get a controller and a second panel for $66 more.\n\nChoose it if you want to mount two panels on a flat roof this weekend with a complete parts list and you are comfortable drilling and sealing Z brackets. The caveat is the one-year coverage, so keep your purchase record and photograph the install.",
     "specs": [
       "Two 100W panels, 30A controller",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41lXOrWRnlL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07RFQVB9M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07RFQVB9M?tag=rvgearlab-amz-20",
     "description": "The Renogy 200W Suitcase is a foldable panel pair that closes into a carry case weighing 28.46 pounds. The listing gives up to 25 percent efficient N-type cells, an adjustable aluminum kickstand, an installed waterproof 20A PWM controller, alligator clip cables and a 5-year materials and workmanship warranty. It says up to 1000Wh per day, which matches 5 peak sun hours. Price is $229.99.\n\nIt ranks third because it is the only option here that needs no roof installation at all: you unfold it, tilt it toward the sun and clip it to a battery. That tilt can recover output a flat roof panel loses, and you can move it out of shade. Compared with the Renogy Kit, it costs $13 less but its 20A controller is smaller than the kit's 30A, and it is not a set-and-forget setup.\n\nPick this if you want to keep your roof unmodified, park in shade often, or need solar for a rented unit. The caveat is that you must set it up and stow it every stop, and clip leads are not a hardwired install, so a permanent system still needs fixed panels.",
     "specs": [
       "200W foldable, 28.46 lb",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41mwtCXZEVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FDB5PX9J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FDB5PX9J?tag=rvgearlab-amz-20",
     "description": "The BougeRV Arch Pro is a single 200W fiberglass flexible panel that weighs 7.94 pounds and is 2.5mm thick. The listing claims 16BB N-type cells with up to 25 percent conversion, bypass diodes for partial shading, an ETFE surface, IP68 water and dust resistance, 270 degrees of bend and a 5-year support promise. It is priced at $269.99, the most in this guide.\n\nIt ranks fourth because it is the most expensive and the listing carries a plain warning that its 36V open-circuit voltage range (plus or minus 5 percent) may not be compatible with certain power stations. Against the Renogy Flexible, it costs about $27 more and adds shade tolerance, but you also take on the usual flexible-panel caution about heat buildup from mounting flat against a roof with no airflow.\n\nChoose it if your roof is curved, you cannot add weight, or shade from vents is a problem. The caveat is voltage compatibility: confirm your charge controller or power station accepts this panel's 36V open-circuit voltage before you buy.",
     "specs": [
       "200W, 7.94 lb, 2.5mm thick",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41OSOgD6yHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BF4VHWJP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BF4VHWJP?tag=rvgearlab-amz-20",
     "description": "The Renogy Flexible 200W bends to 240 degrees, uses half-cut PERC cells, and weighs about half of a rigid panel according to the listing. It cites an average 1000Wh per day at 5 hours of sunlight, an IP67 junction box, 5400 Pa snow and 2400 Pa wind ratings, pre-drilled mounting holes and 12 AWG connector cables 27.6 inches long. It costs $242.99.\n\nIt ranks fifth because it has no included controller, mounts, or long cable, so the real cost goes up once you add a controller. Compared with the BougeRV Arch it costs $27 less but publishes no shading feature and bends 30 degrees less. Compared with the rigid Renogy Kit at $243.09, nearly the same price buys you a controller and a rigid panel, so flexibility is the only reason to choose it.\n\nPick this if a rigid frame will not fit your roof curve or weight limit and you already own a controller. The caveat is that the 27.6 inch leads are short, so plan for extension cables and a sealed cable entry.",
     "specs": [
       "200W, half-cut PERC cells",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41725sxEnRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DQ4SX3TV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DQ4SX3TV?tag=rvgearlab-amz-20",
     "description": "The DOKIO 200W is a single 200W, 18V panel with Z brackets, alligator clips and a 5 m MC4 cable, priced at $119.77. The listing states plainly that a PWM or MPPT controller is not included, and describes a half-cell layout with bypass diodes, pre-drilled mounting holes and up to 25 years of rated performance.\n\nIt ranks last because the missing controller adds cost and a design decision, and because a single panel leaves no room to split the array across roof spots like the two-panel ECO-WORTHY kit does. It does cost $66 less than the ECO-WORTHY and $123 less than the Renogy kit, which is its entire advantage. Mount hardware is included, which many panel-only listings skip.\n\nChoose it if you already own a controller or plan to buy an MPPT unit and want the lowest panel cost. The caveat is that the listing gives no warranty length or panel dimensions in its feature text, so check both on the product page before ordering.",
     "specs": [
       "200W, 18V single panel",

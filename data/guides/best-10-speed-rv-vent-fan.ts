@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/413Tz-uXq1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G2L7QQSV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G2L7QQSV?tag=rvgearlab-amz-20",
     "description": "The Kohree Deluxe is an all-in-one 14 by 14 inch roof fan with 10 adjustable speeds, reversible airflow and an ultra-silent motor. Its built-in rain cover keeps the vent usable in wet weather, and a photocatalyst air-freshening mode targets odors.\n\nWhere the EROMMY adds a thermostat, the Kohree stresses a complete set of features in one housing: moisture and smoke exhaust, intake mode and the freshening function. It suits owners who want a premium single-unit ventilator without piecing parts together.",
     "specs": [
       "10 speeds, reversible",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41vwvDkdmPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HBVMVD4S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HBVMVD4S?tag=rvgearlab-amz-20",
     "description": "The EROMMY is a compact 12V DC, 30W roof vent with 10 smooth speeds, reversible intake and exhaust, and a brushless motor. A thermostat lets you set an automatic temperature between 59 and 95 degrees F, and the remote handles day-to-day control.\n\nCompared with the Starvent, it keeps the thermostat but drops the powered lift and app, which keeps the design simple. It suits owners who want the fan to hold a cabin temperature on its own.",
     "specs": [
       "12V DC, 30W",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41f+Gv98VAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09WYL4G2T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09WYL4G2T?tag=rvgearlab-amz-20",
     "description": "The Starvent combines 10 manual speeds with automatic temperature control, an electric-powered lid lift with a manual crank backup, and a rain sensor that closes the dome when it gets wet. A remote and a dedicated app give two ways to run it, plus a timer.\n\nIt is the most automated fan here, going beyond the EROMMY with the powered lift and app. It suits owners who like the idea of the roof vent running itself, including shutting the lid before a storm.",
     "specs": [
       "Powered lid lift",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/413p6u8h-0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DNCMFXGJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DNCMFXGJ?tag=rvgearlab-amz-20",
     "description": "This RVLOVENT is a 14 by 14 inch fan with 10 speeds, remote control and a rain sensor that closes the cover at the first sign of rain. It is rated up to 1000 CFM, and an extra screen frame comes in the box as a spare.\n\nIt borrows the rain-sensor feature of the Starvent at a simpler level, with no app. It suits buyers who want rain protection and a remote without paying for the most advanced model.",
     "specs": [
       "10 speeds with remote",
@@ -133,7 +133,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41CWqdCoTpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B096Q6NBTR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B096Q6NBTR?tag=rvgearlab-amz-20",
     "description": "The manual RVLOVENT keeps the 10 speeds, reversible airflow and 1000 CFM rating of its remote sibling but uses a wall-mounted manual control and a UV-resistant polycarbonate cover. A spare screen frame is included as well.\n\nAgainst the remote RVLOVENT, it removes the wireless parts and the rain sensor, giving the simplest and lowest-cost way into 10 speeds here. It suits owners who can reach the control and want fewer electronics.",
     "specs": [
       "10 speed manual control",

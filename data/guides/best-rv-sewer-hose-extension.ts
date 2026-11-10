@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41VbKGO0wFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HGL3DGNZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HGL3DGNZ?tag=rvgearlab-amz-20",
     "description": "This OUTPRIZE extension adds 15 feet of 24 mil TPE hose with an inner steel wire, pre-attached swivel fittings and two storage caps. Packed length is listed at 5.4 feet.\n\nIt is the longest true extension in the group and costs less than the SheeChung kit. Compared with the 5 foot and 3 foot OUTPRIZE sections, it gives the most reach for the least cost per foot.\n\nBest for bridging a long gap to a distant riser. A solid choice for owners of OUTPRIZE or Camco 3 inch hoses.",
     "specs": [
       "15 ft, 24 mil TPE",
@@ -53,7 +53,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51dmc-TdHGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GC3HTP2F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GC3HTP2F?tag=rvgearlab-amz-20",
     "description": "SheeChung's 15 foot kit pairs a 24 mil TPE hose that recovers from crushing with four-prong swivel bayonets and a clear 90 degree adapter for 3 inch slip and threaded pipes. It can serve as a standalone hose or a long extension.\n\nIt costs slightly more than the OUTPRIZE 15 Ft Extension and includes an elbow the extension lacks. That makes it the pick when you want a hose that stands on its own.\n\nBest for owners who want a complete hose to anchor a longer run. A flexible choice for tight sites.",
     "specs": [
       "15 ft TPE, 24 mil wall",
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41SqkGgGAQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F2HTS789?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F2HTS789?tag=rvgearlab-amz-20",
     "description": "The OUTPRIZE 5 foot extension uses the same 24 mil TPE wall with an inner wire and swivel fittings on each end. Two storage caps come with it, and a 5 foot hose compresses to 2.5 feet.\n\nIt is far cheaper than the 15 foot option and covers small gaps. The compressed length is the shortest of the longer sections, so it fits in a small bin.\n\nBest for short gaps where 15 feet is too much. A neat spare to carry.",
     "specs": [
       "5 ft, 24 mil TPE",
@@ -107,7 +107,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41GWus94rHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F2HTTKYH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F2HTTKYH?tag=rvgearlab-amz-20",
     "description": "The OUTPRIZE 3 foot extension has a 24 mil TPE wall, inner wire, swivel fittings and two caps. A 3 foot section compresses to 1.7 feet.\n\nIt is the shortest extension and costs less than the 5 foot. The tiny pack size makes it the easiest to stash.\n\nBest for a small height or distance gap. A cheap add-on for odd angles.",
     "specs": [
       "3 ft, 24 mil TPE",
@@ -134,7 +134,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41CUfjj5V8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GFD8R7LW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GFD8R7LW?tag=rvgearlab-amz-20",
     "description": "This second 3 foot OUTPRIZE listing repeats the 24 mil TPE build, inner steel wire and two storage caps. The price equals the first 3 foot version.\n\nIt is an alternate listing for the same item class. Buying two covers a 6 foot gap with two joints.\n\nBest for owners who want two short jumpers. A handy pair for strange layouts.",
     "specs": [
       "3 ft, 24 mil TPE",
@@ -161,7 +161,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41AdfMNqjjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H4632PKB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H4632PKB?tag=rvgearlab-amz-20",
     "description": "This generic sewer drain pipe is a lightweight corrugated tube with multi-layer sealed connections. It is listed for 28 to 42 mm drainage ports and no-tool installation.\n\nIt is the lowest priced item and is aimed at a different port size than the 3 inch bayonet hoses above. It stands out as the lightest and cheapest.\n\nBest for small drain ports on lightweight setups. A budget trial for a small connection.",
     "specs": [
       "Corrugated lightweight tube",

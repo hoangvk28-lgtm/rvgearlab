@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41DYP+diRvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B072BMXDRC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B072BMXDRC?tag=rvgearlab-amz-20",
     "description": "The baleaf Sun Shirt is a long-sleeve UPF 50+ shirt in a polyester and spandex blend with 4-way stretch. The listing names surfing, swimming, paddling, snorkeling, sailing and extended saltwater activities, which is the clearest water-first positioning in this group.\n\nFlatlock seams and a tag-free collar sit between it and the skin, so it earns the top spot over the plainer Runhit Hoodie for long sessions in the water. Raglan sleeves and a relaxed athletic fit give your shoulders room to stroke or paddle.\n\nIt is the right pick for men who want one shirt for snorkeling, paddling and beach workouts. It also works as a daily sun layer on the boat.",
     "specs": [
       "UPF 50+ polyester-spandex blend",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41nrqK9byCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DSKTL8PB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DSKTL8PB?tag=rvgearlab-amz-20",
     "description": "The G Gradual Gradient Swim Tee is a UPF 50+ performance tee rated to stop 98 percent of UVA and UVB light. It combines ultra-breathable quick-dry fabric with 4-way stretch, flatlock seams, a tagless collar and reflective points on the sleeves and neck.\n\nWhere the baleaf Sun Shirt leans toward saltwater work, this tee leans toward a swim-to-street look in a gradient print. Its reflective details also set it apart from the hooded Boladeci and Roadbox shirts.\n\nIt suits men who swim in the morning, then keep the shirt on for errands or a run along the shore. The tee cut feels like everyday clothing.",
     "specs": [
       "UPF 50+, blocks 98% UVA/UVB",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31sMBHxRD9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G5XMH37R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G5XMH37R?tag=rvgearlab-amz-20",
     "description": "The G Gradual Grid Shirt uses a grid-knit polyester that the listing calls featherweight, stretchy and non-cling. The structure moves air and sweat away, and reflective dots and thumb holes round out the design for UPF 50+ coverage.\n\nCompared with the Gradient Swim Tee, the grid texture is more open and the thumb holes extend coverage to the back of the hands. Next to the Runhit Vented Hoodie, it drops the hood and sits a step higher in price.\n\nIt is aimed at men who swim warm-water laps, snorkel in the sun or paddle where airflow matters. Thumb holes make it a good partner for a kayak.",
     "specs": [
       "UPF 50+ grid-knit polyester",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/311dK953NZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B087JLHYX1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B087JLHYX1?tag=rvgearlab-amz-20",
     "description": "The Boladeci Swim Hoodie packs UPF 50+ protection that blocks 98 percent of UV rays into a lightweight, quick-dry, 4-way stretch hoodie. Thumb holes, raglan sleeves and a printed tag are all named on the listing, along with swimming and surfing among the uses.\n\nNext to the Roadbox Hoodie, it adds thumb holes and a no-logo look. Against the baleaf Sun Shirt, it trades the crew neck for a hood that covers the head and neck.\n\nIt fits men who stay in the sun on a boat or at the beach and want extra shade for the head. The hood and thumb holes cover most skin.",
     "specs": [
       "UPF 50+, hood, thumb holes",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41SSUCi93GL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CJF41XNX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CJF41XNX?tag=rvgearlab-amz-20",
     "description": "The Roadbox Mesh Hoodie is a UPF 50+ hooded shirt in soft lightweight mesh-knit fabric. A protective hood, thumbholes, a tag-free collar and raglan sleeves are all named, with swimming, boating and workouts in the use list.\n\nCompared with the Boladeci Swim Hoodie, it uses a mesh-knit for airflow and skips the 4-way stretch claim. Against the Runhit Hoodie, it costs a little more and lists a softer, smoother feel.\n\nIt works for men who want a simple hooded layer for a lake day. The design keeps things plain, with no extra pockets or panels.",
     "specs": [
       "UPF 50+ mesh-knit hoodie",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/312-lVczi-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F2FWBK16?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F2FWBK16?tag=rvgearlab-amz-20",
     "description": "The Runhit Vented Hoodie is a UPF 50+ polyester hoodie rated to stop 98 percent of UVA and UVB light. A hood with thumb holes, mesh ventilation holes, flatlock seams and a tagless design are all named on the listing.\n\nIt costs less than every other shirt in this group, and it adds mesh vents that the Roadbox Mesh Hoodie handles with a mesh knit instead. Against the baleaf Sun Shirt, it gives up the water-first marketing for a lower price.\n\nIt suits men who want a first sun shirt for beach weekends, or a spare to keep in the boat bag. It is an easy way to try a hooded cut.",
     "specs": [
       "UPF 50+ polyester, 98% UV blocked",

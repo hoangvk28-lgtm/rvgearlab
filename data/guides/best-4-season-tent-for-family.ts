@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51PHxTVhHGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FRRX9SW9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FRRX9SW9?tag=rvgearlab-amz-20",
     "description": "The ShinHye is a cotton canvas bell tent with PU 5000mm waterproofing, a sewn-in groundsheet and a stove jack. It comes in four sizes, with the 3 meter version at 9.85 feet across and about 7.22 feet high at the top.\n\nCompared with the VEVOR, it lists a higher waterproof number and a sewn-in floor. Against the WaldWander Oxford tents, it uses breathable canvas that handles condensation better.\n\nIt suits families who want a true canvas hot tent in a size that matches their group. Mesh windows and roof vents keep the air moving.",
     "specs": [
       "PU 5000mm canvas, stove jack",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41E-2hTT46L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CWNKXQSD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CWNKXQSD?tag=rvgearlab-amz-20",
     "description": "The VEVOR bell tent is a 4 meter, 13.12 foot diameter tent in TC technical cotton, sleeping up to 6. It has a 3 inch stove hole with a 43 by 43 cm flap, four mesh windows and 12 nylon ropes with aluminum tensioners.\n\nCompared with the ShinHye, it is larger at 4 meters and more affordable. Against the WaldWander 4-6, it uses TC fabric instead of Oxford, which breathes better.\n\nIt suits family groups of up to six who want canvas at a lower cost. The setup takes four steps.",
     "specs": [
       "4 m / 13.12 ft diameter",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51+zttLFe4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H1L3614G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H1L3614G?tag=rvgearlab-amz-20",
     "description": "The VELUVIA is a cabin-style hot tent for 6 to 8 people with a flame-retardant stove jack and a 210g TC poly-cotton roof. It has a 6.5 foot center peak and 4.6 foot vertical walls, dual front and rear doors and six large mesh windows.\n\nCompared with the bell tents, it has straight walls that give usable floor space to the edges. Against the VEVOR, it is a cabin layout with two doors for easy traffic.\n\nIt suits families who want a boxy layout for cots and a stove. The TC roof helps reduce dripping condensation.",
     "specs": [
       "6.5 ft peak, 4.6 ft walls",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41noLU28zLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GXXXCSP6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GXXXCSP6?tag=rvgearlab-amz-20",
     "description": "The WaldWander bell tent measures 16.4 feet across with a 9.2 foot center height and an octagonal structure. It has 8 mesh doors and windows, a stove jack and thickened Oxford fabric with a PU 3000mm coating.\n\nCompared with the VEVOR, it is the biggest here and fits two king-size air mattresses. Against the WaldWander 4-6, it is the heavier-fabric, larger version.\n\nIt suits big families and groups with lots of gear. The octagonal shape spreads wind load.",
     "specs": [
       "16.4 ft diameter, 9.2 ft peak",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51tVQ-LZAQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FKMKP7HX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FKMKP7HX?tag=rvgearlab-amz-20",
     "description": "The WaldWander 4-6 is a 16.4 foot bell tent in lightweight Oxford fabric that the listing says fits 4 to 7 campers with gear. It has mesh windows, insect-proof doors and a stove jack.\n\nCompared with the 6-10 version, it weighs less and costs less. Against the ShinHye, it skips canvas for lighter fabric.\n\nIt suits families who want a bell tent that is easier to carry and set up. The tall center gives standing room.",
     "specs": [
       "16.4 ft bell, 4 to 7 campers",

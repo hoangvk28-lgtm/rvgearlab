@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51snwG3Z8zL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0006IX87S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0006IX87S?tag=rvgearlab-amz-20",
     "description": "Camco's Tastepure is the pick that documents its claims most clearly. The listing states independent testing to NSF/ANSI 42 and NSF/ANSI 53, plus CSA lead-free content certification to NSF/ANSI 372, and it is built with GAC and KDF in a six-step design.\n\nAgainst the AQUA CREST below it, the difference is the Standard 53 listing, which is the standard tied to health-related claims rather than just taste. AQUA CREST lists 42 and 372 only, so Camco has the broader paper trail for a drinking-focused buyer.\n\nIt suits anyone who fills a fresh tank from campground spigots and mainly wants better taste and a documented certification. The listing does not spell out which contaminants the 53 listing covers, so check the performance data sheet before assuming specific reductions.",
     "specs": [
       "NSF/ANSI 42 and 53 listed",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41+6cuN6tFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07Z7ML4LW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07Z7ML4LW?tag=rvgearlab-amz-20",
     "description": "AQUA CREST is certified against NSF/ANSI 42 and 372, uses KDF with activated carbon, and ships with a rotating hose protector that has copper ends. The listing also describes pressure testing up to 400 PSI.\n\nCompared with Camco Tastepure above, it gives up the NSF 53 listing but costs a little more per filter in single form while adding the flexible hose protector. Against Kohree below, it has the stronger certification wording and sturdier fittings.\n\nGood for campers who want a certified filter plus a built-in hose protector and tool-free installation. Its three-month service life is the stated figure, so plan to swap it each camping season.",
     "specs": [
       "NSF/ANSI 42 and 372",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51lDcSuwW2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0892YBMW4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0892YBMW4?tag=rvgearlab-amz-20",
     "description": "Kohree sells a two-pack with a 20-micron sediment stage inside a five-layer GAC and KDF design. The listing states 0.5 gpm flow and up to 1,057 gallons of capacity, in a wider body meant to keep flow up.\n\nAgainst Beckacher below, Kohree states a lower capacity figure but also a specific flow rate, so you know what flow to expect. Compared with AQUA CREST above, you get two filters instead of one at a similar spend.\n\nIt is a sensible choice for a full season plus a spare. The NSF wording on the listing is general, so look at the certification line before relying on it for specific claims.",
     "specs": [
       "20-micron sediment stage",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51CY82OVmiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BX8M7G8N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BX8M7G8N?tag=rvgearlab-amz-20",
     "description": "Beckacher is another two-pack, built on GAC and KDF, with a stated 1,350 gallons over about three months. It reduces taste, odor, chlorine and sand, and it installs by hand in about five minutes.\n\nCompared with Kohree above, it states a higher gallon figure but offers no flow rate or micron rating on the listing. Against Crystala below, it gives you two filters rather than three plus a different hose build.\n\nIt works for weekend campers who want spares at a low cost. No NSF certification is named, so it is a taste and sediment pick rather than a documented-claims pick.",
     "specs": [
       "1,350 gallon rating",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4133yuVZpaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C4FC18HW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C4FC18HW?tag=rvgearlab-amz-20",
     "description": "Crystala packs three inline filters with two flexible hoses, using GAC and KDF to cut chlorine, taste and odor. The hose ends are anti-rust copper and swivel 360 degrees, and the filters fit any 3/4 inch standard hose.\n\nBeside Beckacher above, you get one extra filter and the swivel hoses, but again no named certification. Against RANSOTO below, you stay in the cheap, replace-it-each-season format instead of a canister system.\n\nBest for full-timers or long seasons who go through filters regularly. Treat it as a taste filter and confirm any other claim with the seller.",
     "specs": [
       "GAC and KDF media",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41bm+sZcDnS._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0995X7Y3W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0995X7Y3W?tag=rvgearlab-amz-20",
     "description": "RANSOTO is the odd one out: an external three-stage system on a powder-coated steel stand, rather than a throwaway hose filter. The listing says it filters sediment and reduces odor in the drinking water, and it can be mounted or staked.\n\nIt costs several times more than any hose filter above, in exchange for replaceable cartridges and a sturdier setup. Beside Camco Tastepure, it states no certification, so its appeal is the format rather than the paperwork.\n\nPick it if you camp in one spot for long stretches and want cartridges you can swap. The micron ratings are not given, so check cartridge specs before buying.",
     "specs": [
       "Three-stage external system",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41UpLGHbTOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HHMW7TY8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HHMW7TY8?tag=rvgearlab-amz-20",
     "description": "The MWKHZIL line is sold in separate listings for the Grand Cherokee 2011 to 2021 and the Grand Cherokee L from 2021 onward. Each is cut from waterproof-coated Oxford cloth and attaches around the open rear hatch to give access between the cargo area and the tent.\n\nIt is the only pick that splits the Grand Cherokee into an older range and a separate L listing, which helps owners of the longer body avoid a mismatch. Compared with the optrcn it describes a waterproof coating, and compared with the unbranded arch tent it gives the attachment method.\n\nIt suits owners who want to match a specific generation and body length. Large openings give easy entry and airflow, and the tent folds down for storage.",
     "specs": [
       "Oxford fabric, waterproof coating",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41enhb63WdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H69DTFKS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H69DTFKS?tag=rvgearlab-amz-20",
     "description": "The optrcn tent names the Grand Cherokee 2018 through 2026 and has a door on each side plus one at the front. It can join the rear hatch for extra covered space or stand independently, using water-resistant fabric for light rain and dust.\n\nOf the three, it has the cheapest ticket and the most entry points, which gives better airflow than a single-door sleeve. Next to the MWKHZIL it covers a narrower year span, and next to the unbranded arch tent it states the door count.\n\nIt suits road trippers who want to walk in and out from several sides. It also works as a freestanding shelter when the hatch is not needed.",
     "specs": [
       "Fits GC 2018 through 2026",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41eP6NG28mL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HHXL7TGL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HHXL7TGL?tag=rvgearlab-amz-20",
     "description": "This unbranded arch tent lists the Grand Cherokee 2018 to 2026 and combines water-resistant fabric with a removable rainfly and a sturdy frame. It can be attached to the vehicle on road trips or set up separately.\n\nIts removable rainfly is the extra coverage layer that neither of the other two listings names. It costs the most of the group, so the rainfly is the real reason to pay for it.\n\nIt suits campers who face changing weather and want to add or drop a rain layer. Compact folding makes it easy to stow in the cargo area.",
     "specs": [
       "Fits GC 2018 through 2026",

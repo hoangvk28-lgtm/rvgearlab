@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41DvNXR77oL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B7KKXVRG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B7KKXVRG?tag=rvgearlab-amz-20",
     "description": "Countryman 100 percent silicone roof coating in a 4.75 gallon light gray pail is a high-solids formula. The listing says it bonds to prepared metal, EPDM, fiberglass, SPF and modified bitumen without primer in most applications and applies in a single coat at the recommended rate.\n\nAgainst Countryman Quart, it is the large pail of the same coating. Against Liquid Rubber Silicone, it is a much larger and higher-solids formula with a stated no-primer note.\n\nIt is the best match for big roofs where one coat saves labor. Buyers focused on large silicone jobs will find it a sensible match.",
     "specs": [
       "100% silicone, 4.75 gallon",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41TkSSDvQNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09SVGTJ7V?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09SVGTJ7V?tag=rvgearlab-amz-20",
     "description": "Countryman 100 percent silicone quart is the same high-solids formula in a small white container. It is suited to vents, edges and small repair areas.\n\nAgainst Countryman Gray 4.75, it is a patch size. Against Ziollo Silicone, it states primer and substrate details plainly.\n\nIt suits owners who only need to coat a vent or a pop-up camper roof. It earns its slot for patch repairs.",
     "specs": [
       "100% silicone quart",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41DoVKBRToL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BJGPDG94?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BJGPDG94?tag=rvgearlab-amz-20",
     "description": "Liquid Rubber Silicone Roof Coating is a 1 gallon white UV-reflective coating usable on flat and sloped roofs, wood, concrete and metal. The listing gives over 237 percent elongation and about 1 gallon per 50 square feet.\n\nAgainst Countryman Quart, it is a full gallon with a stated elongation. Against Dicor Signature, it works without a branded primer step in its listing.\n\nIt is a fit for mixed-use roofs and sheds as well as an RV. It is a natural fit for multi-use roofs.",
     "specs": [
       "White silicone, 1 gallon",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41PAtzEJXvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01BDWDMOY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01BDWDMOY?tag=rvgearlab-amz-20",
     "description": "Dicor Signature Silicone RV Roof Coating is a 1 gallon white coating used with Dicor's primer. The listing describes it as permanently flexible and unaffected by sun rays or temperature extremes.\n\nAgainst Countryman Gray 4.75, it is a branded system with a primer step. Against Liquid Rubber Silicone, it targets RV roofs by name.\n\nIt suits owners who want a coating matched to the Dicor primer and cleaner line. Think of it as the pick for rv-specific system.",
     "specs": [
       "Signature silicone RV coating",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41uf2nZlOtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F7SZQ9MY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F7SZQ9MY?tag=rvgearlab-amz-20",
     "description": "Ziollo RV Roof Sealant is a 100 percent silicone liquid rubber with a self-leveling formula and a reflective white finish. The listing says it can drop interior temperatures by up to 15 degrees F.\n\nAgainst Countryman Quart, it is a low-cost entry with a system of cleaner and seam tape. Against Dicor Signature, it costs far less.\n\nIt suits owners with a tight budget or a small job. Buyers focused on budget small jobs will find it a sensible match.",
     "specs": [
       "100% silicone liquid rubber",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41W3EXMhWyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01LYNWNXY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01LYNWNXY?tag=rvgearlab-amz-20",
     "description": "Henry Coating Roof Silicone in white is a roughly 0.9 gallon container from a well-known roof coating maker. The listing gives only the product name and size.\n\nAgainst Liquid Rubber Silicone, it has less published detail. Against Ziollo Silicone, it carries the Henry name.\n\nIt suits buyers who prefer a familiar roof coating brand and will read the label. It earns its slot for brand-loyal buyers.",
     "specs": [
       "Henry roof silicone, white",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Bot5lfELL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DK7R8746?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DK7R8746?tag=rvgearlab-amz-20",
     "description": "NEMO's Disco Down is a men's 15F bag filled with 650 fill power hydrophobic down that is PFAS-free and RDS certified. Thermo Gill vents, an oversized Blanket Fold collar and a spoon shape add room at the knees and elbows.\n\nIt is the only true men's cut in the group and the only bag with zipper vents for regulating heat. Against the Kelty Cosmic 20 it is shaped for side sleepers, and it costs the most of the four.\n\nIt suits men who sleep on their sides and want a documented 15F rating. The vented zipper helps on mild nights.",
     "specs": [
       "15F men's down bag",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Ypf-hGnNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CSPKCJZK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CSPKCJZK?tag=rvgearlab-amz-20",
     "description": "Kelty's Cosmic 20 pairs 550 fill power traceable down with recycled fabrics finished in PFAS-free water repellent. The listing prints an ISO limit of 21F and an extreme of minus 11F, and the Short, Regular and Long sizes fit sleepers to 5 ft 6, 6 ft or 6 ft 6 respectively.\n\nIts Long size covers men up to 6 ft 6, which the NEMO listing does not spell out. Dual-direction zippers make it easy to vent.\n\nIt suits taller men who want printed ISO figures and a sizing choice. It costs less than the NEMO.",
     "specs": [
       "550FP RDS down",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411VseDpEXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DR8CYKJQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DR8CYKJQ?tag=rvgearlab-amz-20",
     "description": "The Naturehike 0 Degree line uses RDS-certified 650 fill down in a mummy top with a roomy lower body. Two models are offered, with ISO comfort at 29F for the CW700 and 12F for the CW1000, plus matching extreme figures, in medium and large.\n\nIt prints more cold-weather detail than the SYWSKW and sits at nearly the same price as the Kelty. The large size gives men with broader frames space in the shoulders.\n\nIt suits men who plan cold trips and want comfort ratings. Pick the CW1000 for the coldest nights.",
     "specs": [
       "650 fill RDS down",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31d97oh-wkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FJ2VZZ3K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FJ2VZZ3K?tag=rvgearlab-amz-20",
     "description": "The SYWSKW Large uses 680 fill power RDS duck down, an 80 g detachable pillow and a widened 33.5 inch shoulder design. The listing aims it at cold-weather and extended trips.\n\nIt gives the widest shoulders in the group and costs the least of the four. Against the Naturehike CW it includes a pillow and a roomier cut.\n\nIt suits broad-shouldered men who find mummies pinching. The pillow can come off.",
     "specs": [
       "680 fill RDS duck down",

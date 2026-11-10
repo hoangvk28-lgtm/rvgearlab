@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31B0l1OthrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09TB3NLJ4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09TB3NLJ4?tag=rvgearlab-amz-20",
     "description": "The AYAMAYA is a 13 by 9 ft ground cloth for 6 to 8 person tents, cut from 210T polyester with a PU3000 waterproof coating. Double sewing and embedded grommets reinforce the edges, and six aluminum stakes ship in the box.\n\nIt is the only footprint here that includes stakes, which saves a purchase. Against the HipierFx it is smaller and cheaper, and against the Clostnature sheets it is built for a family tent.\n\nIt is the pick for a family cabin or large dome that needs a dry, anchored floor. It also works as a rain tarp or sun canopy.",
     "specs": [
       "13 x 9 ft, PU3000",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ju3iIiHFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CTHQBDZL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CTHQBDZL?tag=rvgearlab-amz-20",
     "description": "The HipierFx is a 13.5 by 13.5 ft ground sheet made of 210D Oxford cloth whose waterproof index is listed above 5000. The effective area is 85 by 85 in for 2 to 3 people on the square cut, or 160 by 160 in for 6 to 8 people on the octagonal cut.\n\nIt has the highest waterproof figure in this guide and adds removable elastic corner bands so it can anchor without rope. Against the AYAMAYA it covers more floor in a square shape, with pegs also included.\n\nIt suits owners of large square or octagonal tents who want a high waterproof index. It also works as a hammock tarp, picnic mat or beach mat.",
     "specs": [
       "13.5 x 13.5 ft, 210D Oxford",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41GhpWvIYrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B085N37WKZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B085N37WKZ?tag=rvgearlab-amz-20",
     "description": "The Clostnature 87 by 92 in sheet is ripstop 210T polyester with a waterproof coating, weighing 14.8 oz. It packs into a drawstring bag about the size of a cellphone and fits the maker's 4 person tent.\n\nIt sits between the lighter 87 by 59 in Clostnature and the 13 by 9 ft AYAMAYA, matching a four-person floor without the bulk of a family sheet. Compared with the Bessport it covers more ground.\n\nChoose it for a 4-person dome or a pair of hammocks needing ground cover. It also works as a sunshade or beach cloth.",
     "specs": [
       "87 x 92 in, 14.8 oz",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31caaCTzB7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CKWYKSKY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CKWYKSKY?tag=rvgearlab-amz-20",
     "description": "The Frelaxy is made from 190T PU3000mm waterproof polyester in a 104 by 80 in size that weighs 0.9 lb. High-duty grommets, thickened straps and ripstop weave handle rough ground.\n\nIt comes in five sizes, from 33 by 80 in to 116.5 by 104 in, so you can match the exact tent or hammock. Compared with the Bessport it is a larger cloth at a similar 3000mm rating, and against the Clostnature 87x92 it gives you more size choices.\n\nIt suits hikers with a tent that does not match a standard footprint. It doubles as a hammock tarp or beach mat.",
     "specs": [
       "104 x 80 in, 0.9 lb",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41D8TyLv70L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07N1GM3XN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07N1GM3XN?tag=rvgearlab-amz-20",
     "description": "The Bessport is a 90.5 by 55 in cloth of 210D polyester Oxford with a PU coating rated to 3000mm, weighing 0.66 lb. It comes with a drawstring carry sack and metal grommet eyelets.\n\nIt is cut slightly smaller than a tent floor so water does not pool between tent and ground. Against the Clostnature 87x59, it is a little longer, and against the Frelaxy it weighs less.\n\nIt suits solo and two-person backpackers watching ounces. Stakes are not included.",
     "specs": [
       "90.5 x 55 in, 0.66 lb",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41GhpWvIYrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07MZ3CL2N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07MZ3CL2N?tag=rvgearlab-amz-20",
     "description": "The Clostnature 87 by 59 in sheet is ripstop 210T polyester with a waterproof coating, weighing 9.8 oz. It folds into a drawstring bag about the size of a cellphone and fits the brand's 2 person tent.\n\nIt is the lightest footprint in this guide by weight. Compared with the Bessport it is shorter, and compared with the Clostnature 87x92 it drops to a two-person size and saves ounces.\n\nChoose it for a two-person backpacking tent. It also works as a sunshade or picnic cloth.",
     "specs": [
       "87 x 59 in, 9.8 oz",

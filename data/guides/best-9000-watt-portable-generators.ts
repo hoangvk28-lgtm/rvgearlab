@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41GpGdbkvrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CQMZZ47V?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CQMZZ47V?tag=rvgearlab-amz-20",
     "description": "The Westinghouse iGen12000DFc is a dual fuel inverter generator rated at 12,000 peak watts with remote electric start, a 457cc engine and as low as 64 dBA in Eco mode. It has a 50A outlet and an L14-30R twist lock, both transfer switch ready, with an LED data center and under 3 percent THD.\n\nIt keeps to gasoline and propane and costs less than the tri-fuel iGen12000TFc, which makes it the simpler of the two. The listing quotes fuel savings of up to 50 percent against traditional generators.\n\nIt suits owners who want inverter-grade power and low noise for whole-home essentials or a large RV. A key fob start suits cold mornings.",
     "specs": [
       "12,000 peak watts, dual fuel",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51XUzND8ZCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F9LHST5Z?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F9LHST5Z?tag=rvgearlab-amz-20",
     "description": "The Westinghouse iGen12000TFc is a tri-fuel inverter generator rated at 12,000 peak watts, running on gasoline, propane or natural gas. It shares the 457cc engine, 64 dBA Eco mode, 50A outlet and data center of its dual fuel sibling, and includes a remote start key fob with a battery and 12V charger.\n\nIt is the only one that runs on natural gas, which suits a home with a gas line and a transfer switch. Compared with the iGen12000DFc, it adds a third fuel for a higher price.\n\nIt suits households that want extended runtime from natural gas or propane during long outages. It has the same under 3 percent THD.",
     "specs": [
       "12,000 peak watts, tri-fuel",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41I3mfK+ndL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G5879CZW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G5879CZW?tag=rvgearlab-amz-20",
     "description": "JVWKPU lists up to 7200W of output with built-in windproof shields, and says it boils 1 liter of water in under 2 minutes. Foldable arms expand to a 5.91 inch cooking diameter, and it weighs 20 oz with a carry case.\n\nIt is multi-fuel, compatible with isobutane, butane and 1 lb propane canisters, with a 50cm hose that keeps the fuel away from the flame. No other stove here takes all three.\n\nChoose it if you want one stove that works with whatever canister you can find. It suits backpacking and car camping alike.",
     "specs": [
       "7200W with windproof shields",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41JavTsgoZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01HQRD8EO?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01HQRD8EO?tag=rvgearlab-amz-20",
     "description": "The Gas One GS-3400P switches between butane and propane with a converter regulator. It has automatic piezo ignition, an adjustable heat dial and a pressure sensor that ejects the cartridge on irregular pressure, plus a gas flow cut-off for butane.\n\nIts safety features are the most detailed on the list, and the case comes included. It costs a bit more than the BIG HORN and Gospowor.\n\nChoose it if safety and fuel choice matter more than raw heat. It suits families and emergency kits.",
     "specs": [
       "Butane or propane via regulator",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41SxHkpL4wL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G58KTN9W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G58KTN9W?tag=rvgearlab-amz-20",
     "description": "Gospowor screws on top of a 16 oz propane cylinder and delivers up to 10,000 BTU. It has a brass regulator, a foldable bottle base and a free USB lighter.\n\nIt is the strongest of the four by BTU rating and costs less than the Gas One. Propane keeps working in cooler weather where butane stalls.\n\nChoose it if propane is your fuel and you want strong heat for little money. It also suits tailgates.",
     "specs": [
       "10,000 BTU propane burner",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41C7BfhshqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FHW3G1RZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FHW3G1RZ?tag=rvgearlab-amz-20",
     "description": "BIG HORN folds into a compact bucket with a carry bag, and delivers 2200W (7500 BTU) from a cast iron, copper and aluminum burner. One-touch ignition and flame control cover simmer to high heat.\n\nIt is the smallest and cheapest of the four. The folding design suits trunks and daypacks.\n\nChoose it as a backup or a coffee-and-soup stove. It handles small pots well.",
     "specs": [
       "2200W (7500 BTU) butane",

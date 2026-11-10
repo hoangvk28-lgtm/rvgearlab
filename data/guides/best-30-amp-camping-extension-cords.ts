@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41VV706TguL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BZNRKTSF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BZNRKTSF?tag=rvgearlab-amz-20",
     "description": "The PlugSaf is a 30 amp STW 10AWG cord rated 125V and 3750W with TT-30P and TT-30R ends, sold in lengths from 30 to 100 ft. It carries an ETL listing, an IP65 waterproof claim, a grip handle and an adjustable cord organizer.\n\nIt offers the widest range of sizes of the four and the best organizer for storage. Against the POWGRN it matches the spec and adds more length choices, and against the RVMATE it trades a lock for flexibility.\n\nIt suits an RV owner who needs a standard pedestal cord in a length that fits the site. The 50 ft size covers most pedestal gaps.",
     "specs": [
       "30A, 10AWG STW, 3750W",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41-hNOh4qSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CB28TXN7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CB28TXN7?tag=rvgearlab-amz-20",
     "description": "The POWGRN is a 50 ft, 30 amp 125V STW 10/3 cord with TT-30P and TT-30R ends. The jacket is IP65 waterproof, flame retardant and stays flexible at -40F, with an insulated handle and a grip storage strap.\n\nIt matches the PlugSaf 50 ft on spec and lists a lower temperature flexibility. The listing says to fully deploy the cable, which is good practice with any 30A cord.\n\nIt suits a camper who camps in cold weather and wants a cord that stays pliable. The insulated handle protects hands at the plug.",
     "specs": [
       "30A, STW 10/3, 125V",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41mvu0kxQbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08HGRQJVN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08HGRQJVN?tag=rvgearlab-amz-20",
     "description": "The RVMATE is a 30 ft cord with a TT-30P plug and a lockable L5-30R female connector, rated 10AWG 3C 30A 125V 3750W and ETL certified. It has a green LED indicator, a 90-degree UV-resistant plug with strain relief and a 60C maximum working temperature.\n\nIt is the shortest of the 30A TT-30 cords and the only one with a twist-lock female end. The LED shows when it is live, a feature the PlugSaf listing does not mention.\n\nIt suits a camper who wants the cord locked to the rig and a visible live indicator. The 90-degree plug saves space at a tight pedestal.",
     "specs": [
       "30A, 10AWG 3C, 30 ft",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51U8Kla6dtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FQ55H7LG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FQ55H7LG?tag=rvgearlab-amz-20",
     "description": "The Vockjour is a 50 ft, 10AWG L14-30P to L14-30R twist-lock cord rated 30A, 125V and 250V, up to 7500W, with an STW jacket and ETL listing. A portable cable organizer is included, and the listing describes it for portable generators.\n\nIt is the only pick for a generator with an L14-30 outlet. The listing notes the length helps keep the generator's exhaust away from camp.\n\nIt suits a generator user who wants the unit parked well away from the tent. Twist-lock ends resist pulling out.",
     "specs": [
       "30A, L14-30P to L14-30R",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41bp4r+VewL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FRYBCJGK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FRYBCJGK?tag=rvgearlab-amz-20",
     "description": "The WMXWAN is a set of four 5.3 gallon containers made of LDPE4 plastic that is BPA-free, with dual handles for easier carrying. Each has a heavy-duty PP spigot with ON/OFF control, a wide cap that fits most faucets and a one-piece molded outlet that the listing says leaves no leaking points.\n\nIt works out to the lowest cost per 5.3 gallon container of the three large packs, and the dual handles are not described on the ITRAZ or Gowithwind jugs. The listing also says it can hold dry goods such as beans, flour, rice or coffee.\n\nIt suits families, groups and RV travelers who want several large jugs at a low cost per jug. The dual handles help when you carry a full one.",
     "specs": [
       "Four 5.3 gal containers",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41C0WtXGpEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B1LYT9ZM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B1LYT9ZM?tag=rvgearlab-amz-20",
     "description": "The ITRAZ is a four-pack of 5.3 gallon containers with an LDPE body and PP valve, a soft molded handle and a removable gasketless spigot with an adjustable angle pipe. A capped air vent speeds flow to about 1 gallon per minute, which the listing says is 20 percent faster than traditional designs.\n\nThe vent separates it from the WMXWAN and Gowithwind, because the stream stays smooth while pouring. The listing frames one 5.3 gallon jug as enough water for three people for one day.\n\nIt suits campers who fill pots and bottles all day and want a smooth, controllable flow. The removable spigot rinses clean.",
     "specs": [
       "Four 5.3 gal containers",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31WVkdkGyuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07D38LLP1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07D38LLP1?tag=rvgearlab-amz-20",
     "description": "The Gowithwind is a two-pack of 5.3 gallon BPA-free LDPE jugs with a patented leak-proof spigot and an outer lid to prevent leakage in transport. The listing lists a free 36-page eBook on camping and emergency preparedness.\n\nIt gives you two large jugs without committing to a four-pack, and the outer lid protects the spigot in a vehicle. Against the ITRAZ 4-Pack it offers fewer jugs, and the cost per jug is higher than either four-pack.\n\nIt suits pairs and small families after two large jugs at a modest price. The outer lid keeps the spigot clean in the trunk.",
     "specs": [
       "Two 5.3 gal jugs",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Wo7m2-uvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H355FBR9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H355FBR9?tag=rvgearlab-amz-20",
     "description": "The CoreMuse is a 12 liter (3.17 gallon) container with a built-in spigot and a multi-layer food-safe construction. The listing says it carries 50 percent more water than the brand's 8 liter jug, folds flat when empty and comes with a lifetime warranty.\n\nAt 3.17 gallons it is a step smaller than the 5.3 gallon jugs, which makes a full container lighter to lift. The listing says to loosen the top cap slightly during use for smoother flow.\n\nIt suits solo campers, camp kitchens and RV trips that want a lighter jug. The lifetime warranty adds peace of mind.",
     "specs": [
       "12 L / 3.17 gal",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41E0MD58QrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H36L9RG4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H36L9RG4?tag=rvgearlab-amz-20",
     "description": "The TiddieBair is a two-pack of 2 gallon collapsible jugs made from thick material, with independent inlet and outlet openings for steadier flow and a practical spout. The listing says the material is odorless and sturdy enough for outdoor use.\n\nIt carries the lowest price on the page and the lowest cost per jug, while the jugs hold the least water here. The independent inlet and outlet lets air flow in while water pours, which the listing says keeps it steady.\n\nIt suits day trips, picnics and small groups where 2 gallons per jug is enough. The jugs fold flat when empty.",
     "specs": [
       "Two 2 gal jugs",

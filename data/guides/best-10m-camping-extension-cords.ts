@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/416RXWZo81L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FZSZC93S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FZSZC93S?tag=rvgearlab-amz-20",
     "description": "The cismorvex is a 10/3 gauge outdoor and indoor cord with a lighted end, oversized NEMA 5-15 plug and socket, and strain relief at both ends. It comes in a 25 ft version and a 50 ft version, with a vinyl jacket rated for moisture, sunlight and cold down to -50C.\n\nAt 10 gauge it is thicker than the Deeklify's 12 gauge, so it loses less voltage over a 25 to 50 ft run. The 50 ft version covers beyond 10 meters, which the PlugSaf and Nilight lines reach only with a different length.\n\nIt suits a camper running a heater, a tool or a kitchen appliance from a standard outlet to a site 25 to 50 feet away. The LED confirms power at the far end.",
     "specs": [
       "10/3 gauge, 25 ft or 50 ft",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/419eaiHtVVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BZNR5YXX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BZNR5YXX?tag=rvgearlab-amz-20",
     "description": "The PlugSaf is a 30 amp RV extension cord with STW 10AWG wire rated 125V and 3750W, TT-30P male and TT-30R female ends and ETL listing. It comes in 15, 25, 30, 50 and 100 ft lengths, with an IP65 waterproof claim, a grip handle and a cord organizer.\n\nIt is the only pick here that fits a 30A RV pedestal, where the cismorvex and Deeklify use household plugs. The 25 ft size sits closest to the 10 meter target of the four.\n\nIt suits an RV or camper owner who needs a few extra feet between pedestal and rig. The grip handle protects the plug during unplugging.",
     "specs": [
       "30A, STW 10AWG, 125V",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51HAyG7OA0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C3D58324?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C3D58324?tag=rvgearlab-amz-20",
     "description": "The Nilight is a 15 ft, 10 gauge 30A RV cord with TT-30P and TT-30R ends, UL and ETL certification and 100 percent pure copper stranded wire. It uses a flame-retardant PVC STW sheath and stays flexible for coiling.\n\nIt runs shorter than the PlugSaf at 25 ft and the cismorvex at 25 to 50 ft. The shorter run limits voltage drop, which the listing mentions as a concern on 30A runs.\n\nIt suits a camper who needs a little extra reach to a pedestal and values both UL and ETL marks. Stranded copper keeps the cord easy to coil.",
     "specs": [
       "30A, 10 gauge, 15 ft",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41FR7+NQBxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GHXWY6RG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GHXWY6RG?tag=rvgearlab-amz-20",
     "description": "The Deeklify is a 12 gauge, 10 ft outdoor cord rated 15A and 1875W with a 5-15 plug, ETL listing and a -58 to 158F temperature range. It has strain relief, a hook design and a power indicator light.\n\nIt is the shortest and lowest priced of the four, and it carries a standard household plug like the cismorvex. At 12 gauge it is thinner than the cismorvex's 10 gauge.\n\nIt suits a camper who needs a short outdoor hop for lights, a fan or a phone charger. The indicator makes a dead outlet easy to spot.",
     "specs": [
       "12 gauge, 10 ft, 15A",

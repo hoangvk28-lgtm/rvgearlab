@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/517d9nX2JbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H3NDLWWZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H3NDLWWZ?tag=rvgearlab-amz-20",
     "description": "The SKYFISH RVShield 30 Amp adds a 200 degree Fahrenheit thermal auto-shutoff, ground fault protection with automatic power cut-off, and an adjustable A/C delay of 0, 30 or 180 seconds. It is the only pick here with a heat trigger and a reset delay you can set.\n\nAt $145 it is $85.01 more than the AMEHO 30A. That premium buys protection against overheating plugs, a common fire source, plus compressor timing control. Pick this for a 30A rig with an expensive AC; the caveat is that the joule rating is not shown.",
     "specs": [
       "30A, 200F thermal shutoff",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51kyHYWamjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FCLTYWMR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FCLTYWMR?tag=rvgearlab-amz-20",
     "description": "The AMEHO 30 Amp carries 16,000 joules, IP67 waterproofing and a large LED screen with smart auto shutoff and real-time circuit analysis. It sells for $59.99.\n\nIt is $10.01 above the GEARGO 15000J and has 1,000 more joules plus a higher waterproof rating. Pick this for general 30A use at a fair price; the caveat is that it has no stated thermal trigger or adjustable delay.",
     "specs": [
       "30A, 16,000 joules",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41E2u5keMWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GVFBQLGY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GVFBQLGY?tag=rvgearlab-amz-20",
     "description": "The GEARGO 15,000J 30 amp has an IP68 rating, a built-in circuit analyzer and a plug with thermal protection. It lists auto shutoff and costs $49.98.\n\nIt is $10.01 cheaper than the AMEHO 30A and only one cent below the EPLCSE 30A, but it adds thermal protection the EPLCSE does not list. Pick this for the lowest price with a heat safeguard; the caveat is that its reset behavior is not stated.",
     "specs": [
       "30A, 15,000 joules",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410ZagegvAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FNC5XCMR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FNC5XCMR?tag=rvgearlab-amz-20",
     "description": "The EPLCSE 30 Amp gives 14,000 joules and a smart LED display, and shuts off power automatically when voltage drops below a set level before resetting. It costs $49.99.\n\nIt is one cent above GEARGO 15000J and has 1,000 fewer joules and no listed thermal protection. Pick this for simple voltage-based shutoff; the caveat is that GEARGO 15000J matches its price with more features.",
     "specs": [
       "30A, 14,000 joules",
@@ -133,7 +133,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41TpximWGNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GDDM1VCT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GDDM1VCT?tag=rvgearlab-amz-20",
     "description": "The PlugSaf 50 Amp gives 22,000 joules with auto shutoff and reset, and an LED real-time circuit analyzer that detects common wiring faults. At $44.99 it is the cheapest model here and the only 50A.\n\nIt is $5.00 below the EPLCSE 30A while serving a bigger plug, so the choice follows your coach, not the price. Pick this for any 50A rig; the caveat is that the cutoff voltage is not named.",
     "specs": [
       "50A, 22,000 joules",

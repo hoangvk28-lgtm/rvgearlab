@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Z2HBLhliL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FCBX4RF7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FCBX4RF7?tag=rvgearlab-amz-20",
     "description": "LVYUAN provides 4000W continuous and 8000W peak through four AC outlets and a USB port, with a hardwire terminal and a 16.4 ft wired remote. Its LCD displays battery input, output power, load and frequency.\n\nAt about $170 it leaves roughly $130 of the cap unspent and still outguns the TVNIKD 2500W by 1500W. It leaves out the pure sine waveform of the EGO and BELTTT.\n\nIt suits an RV, van or truck bed with a lithium bank and heavy loads. Install it with a proper fuse and thick cable.",
     "specs": [
       "4000W continuous, 8000W peak",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4154d4GMlYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DSF97Q83?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DSF97Q83?tag=rvgearlab-amz-20",
     "description": "The EGO kit contains the 400W inverter, a 56V 4.0Ah battery and a 100W PD charger. It delivers clean sine power, 400W steady and 800W for surges, through a USB-C PD, a USB-C and a USB-A port.\n\nAt about $250 it costs about $127 more than the bare EGO and includes everything needed to run. The BELTTT 1000W costs half as much and gives 600W more, while this one runs without a vehicle.\n\nIt suits a campsite where the car stays parked and laptops, lights and a phone need clean power. The battery doubles as a tool pack.",
     "specs": [
       "400W pure sine, 800W peak",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51clmwjfdpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09JGHKFXD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09JGHKFXD?tag=rvgearlab-amz-20",
     "description": "TVNIKD offers 2500W across three AC sockets and one 2A USB output. It guards the load with ten 30A fuses, and its LCD flags low battery with an alarm.\n\nAt about $155 it costs about $15 less than the LVYUAN and delivers 1500W less. It makes sense for those who will not use a hardwire remote.\n\nIt suits a truck or RV that runs a microwave or coffee maker off a bank. Three fans keep it cool.",
     "specs": [
       "2500W, three AC outlets",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41vWnqM2vNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DCJHY3TH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DCJHY3TH?tag=rvgearlab-amz-20",
     "description": "BELTTT puts out a clean sine wave at 1000W, with a 2000W surge ceiling, two AC sockets, a USB port and a status LCD. The box adds 3 ft heavy-gauge leads and a tool for the terminals.\n\nAt about $120 it costs less than half the EGO kit and delivers 600W more, which makes it the clean-power choice for a battery bank. It lacks the remote of the LVYUAN.\n\nIt suits campers who want pure sine power at a moderate price. Pair it with a deep-cycle or lithium battery.",
     "specs": [
       "1000W pure sine, 2000W peak",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zhqURspTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BW83F6QJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BW83F6QJ?tag=rvgearlab-amz-20",
     "description": "The EGO bare inverter gives clean sine power at 400W, with 800W surges, via a 100W USB-C PD port, a second USB-C and a USB-A port. It can also charge EGO 56V ARC batteries.\n\nAt about $123 it is half the price of the kit when you already own a pack. It works without a vehicle, which no wired pick can do.\n\nIt suits EGO owners who want a portable AC outlet. The battery and charger are sold separately.",
     "specs": [
       "400W pure sine, 800W peak",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ctUZeiwqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CQY798SV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CQY798SV?tag=rvgearlab-amz-20",
     "description": "The Dual-AC 1000W delivers 1000W continuous and 2000W peak across dual AC sockets, 36W Type-C and a 5V/3A USB-A port. An LCD shows voltage, battery state and protection codes.\n\nAt about $73 it is the cheapest pick and has the fastest USB-C of the six. It does not name its waveform, so it suits tools and lights better than delicate electronics.\n\nIt suits a van or truck where a laptop and a small appliance share one unit. Keep the engine on for heavy use.",
     "specs": [
       "1000W continuous, 2000W peak",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41C6ORFc2HL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HK6VF3VX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HK6VF3VX?tag=rvgearlab-amz-20",
     "description": "The LSJDNASHD lists the Kia Soul 2010 to the present and gives the tent a large entrance for moving coolers, luggage and sleeping gear. It has two setup modes, attached to the open rear hatch or freestanding, with a full-coverage structure against sun, wind and light rain.\n\nIt is the only pick that highlights a generously sized entrance, which helps when loading bulky coolers. Next to the XDGDHSH it covers the same start year with a single large door instead of three.\n\nIt suits Soul owners who load a lot of gear through the tent. Water-resistant fabric reduces exposure to light rain and dust.",
     "specs": [
       "Fits Soul 2010 to present",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41re95GDTtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HDH3XDGC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HDH3XDGC?tag=rvgearlab-amz-20",
     "description": "The XDGDHSH names the Soul 2010 to 2026 and has two side doors plus a front door. It attaches to the open hatch or stands apart, with water-resistant fabric and a lightweight foldable design.\n\nThree doors give it better cross-airflow than the LSJDNASHD and the RQIGHNC, which lists no door count. It also states an end year of 2026, which helps owners of a new Soul check the fit.\n\nIt suits campers who want to step in from several sides. It folds up for storage when the trip ends.",
     "specs": [
       "Fits Soul 2010 to 2026",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41KAC3DJRuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HDNZB7PY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HDNZB7PY?tag=rvgearlab-amz-20",
     "description": "The RQIGHNC lists the Soul from 2008 onward, the widest start year of the group, and uses Oxford fabric. It packs into a compact carry bag and makes extra covered room for relaxing and changing clothes.\n\nCompared with the LSJDNASHD and XDGDHSH it covers two additional model years and costs less. Its carry bag makes storage easier than the larger structures.\n\nIt suits owners of an early Soul and anyone who wants a tent that lives in the boot. Day trips, beach stops and picnics all fit its use.",
     "specs": [
       "Fits Soul 2008 onward",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41enhb63WdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H4Y8XR2D?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H4Y8XR2D?tag=rvgearlab-amz-20",
     "description": "The optrcn lists the Kia Soul EV for 2015 to 2019 and 2023 through 2026 only, and it uses an arch structure with a door on each side plus a front door. It joins the hatch or sets up independently, using water-resistant fabric.\n\nIt is the only pick written for the electric Soul, so it is the safe choice for that variant. It is also the cheapest tent in the group.\n\nIt suits Soul EV owners who want a three-door arch and a lower price. Check that your year falls inside the stated ranges.",
     "specs": [
       "Soul EV 2015 to 2019, 2023 on",

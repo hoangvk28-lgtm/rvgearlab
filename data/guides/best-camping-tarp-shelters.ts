@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Upp3q9zdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B082P6PVRQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B082P6PVRQ?tag=rvgearlab-amz-20",
     "description": "Kelty Noah's Tarp is a 12 ft by 12 ft shelter in 68D polyester with fully taped seams and multiple reinforced guyout points with attached guylines. The listing frames it as a canopy, rain tarp, sun shade, hammock shelter or awning.\n\nAgainst the HipierFx it is smaller and costs less, with fully taped seams and attached guylines. Compared with the budget tarps it comes from a long-established camping brand.\n\nIt suits campers who want a well-known tarp for a picnic table or a hammock. The 12 ft size balances coverage and pack size.",
     "specs": [
       "12 x 12 ft, 68D polyester",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/5167hblvmkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FFG56FBT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FFG56FBT?tag=rvgearlab-amz-20",
     "description": "The HipierFx is a 19 ft by 14 ft tarp in 210D Oxford with a 3000+ waterproof pressure rating and heat-pressed seams. It carries a silver back coating for UV50+ protection, widened edges with double-needle stitching and tarp poles in the package.\n\nIt is the biggest and priciest shelter here, covering 8 to 10 people. Against the Kelty it adds a pole and nearly double the area.\n\nIt suits groups that want one big roof over a camp kitchen. The widened, double-stitched edges resist tearing.",
     "specs": [
       "19 x 14 ft, 210D Oxford",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/415gx-6wsoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B073GQXMM9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B073GQXMM9?tag=rvgearlab-amz-20",
     "description": "The Wise Owl Outfitters rain fly is ripstop nylon with taped seams and a PU coating rated to 3000mm. It weighs 26 oz, and it includes six 10 ft guy lines, aluminum stakes, a stake pouch and a waterproof carry bag.\n\nIt is the lightest shelter here and the only nylon option. Against the Free Soldier it has taped seams and a complete anchor kit.\n\nIt suits backpackers and hammock campers who want a light, complete rain cover. It also works as a standalone tarp.",
     "specs": [
       "26 oz ripstop nylon",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/415z+oHO6ML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D836Q3BT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D836Q3BT?tag=rvgearlab-amz-20",
     "description": "The FREE SOLDIER 13 ft by 13 ft tarp uses 150D ripstop polyester with a 3000 PU rating and a heat-sealed, reinforced ridgeline seam. It has 19 guy points, four nylon guy lines with tensioners and a stuff sack.\n\nIt is larger than the Kelty and costs about half as much. Against the BravArrk it adds a higher fabric weight and a PU rating.\n\nIt suits campers who want a bigger tarp without the Kelty price. Two persons is the stated sleeping capacity.",
     "specs": [
       "13 x 13 ft, 150D ripstop",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/413hb1KhfWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HH3RQ52T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HH3RQ52T?tag=rvgearlab-amz-20",
     "description": "The BravArrk 10 ft by 10 ft tarp has fully taped heat-sealed seams, reinforced webbing attachments and UPF30-50 sun defense. It ships with 6 ground stakes, 6 guy lines and an accessory bag, and can be pitched as an A-frame or lean-to.\n\nIt is the least expensive shelter here and gives a six-stake, six-rope kit where many tarps give four. Against the FREE SOLDIER it is smaller and sealed along all seams.\n\nIt suits first-time tarp campers who want a complete kit at a low price. The A-frame and lean-to pitches work for a two-person camp.",
     "specs": [
       "10x10 ft, taped seams",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41RAzBWII3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FB992GLN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FB992GLN?tag=rvgearlab-amz-20",
     "description": "The ShinHye is a cotton bell tent whose breathable performance canvas carries a PU 5,000mm waterproof rating over a PE floor. The 5 m size measures 16.4 ft across with a 9.85 ft peak and a stove-jack hole about 4.1 ft up, and a sewn-in groundsheet, mesh windows and roof vents are included.\n\nCompared with the VEVOR TC tent it is larger and heavier in fabric, with a higher waterproof number than the Oxford WaldWander tents. It offers four size options, which the others do not.\n\nIt suits families and hunting groups who want a cotton canvas hot tent with real standing room. A central pole, tool kit and weatherproof bag are included.",
     "specs": [
       "Canvas, PU 5,000mm",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41E-2hTT46L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CWNKXQSD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CWNKXQSD?tag=rvgearlab-amz-20",
     "description": "Built from TC technical cotton, the VEVOR measures 4 m (13.12 ft) across and sleeps up to 6. Its 3 inch stove hole sits under a flame-resistant 43 by 43 cm cover, and 12 reflective ropes with tensioners hold the walls against wind.\n\nIt costs well below the ShinHye while staying in a cotton-blend fabric that breathes. Compared with the WaldWander 6-8 it uses a heavier fabric and a named flame-resistant flap.\n\nIt suits groups of up to six who want a bell tent with a named stove hole at a moderate price. A rain cap, stakes and a tent bag are included.",
     "specs": [
       "TC cotton blend, 4 m diameter",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/414uO65bbPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H4TBTFZW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H4TBTFZW?tag=rvgearlab-amz-20",
     "description": "The BravArrk is an inflatable air-beam tent with 129 sq ft of floor measuring 157 by 118 by 79 inches, built for 8 to 12 people. It has high-density Oxford with PU3000mm and UPF30+, a skylight and an integrated stove jack.\n\nIt is the quickest to pitch, with a listed 7 minute setup, and it avoids poles entirely. Compared with the ShinHye it is lower in height at 79 inches and uses Oxford instead of canvas.\n\nIt suits large groups who want a fast pitch with a stove option. The panoramic PVC skylight gives daytime light.",
     "specs": [
       "Inflatable, 129 sq ft floor",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/514RxB7S7dL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FVSS8MLS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FVSS8MLS?tag=rvgearlab-amz-20",
     "description": "The WaldWander 6-8 is a 16.4 ft wide polyester bell tent for 6 to 8 campers with a reinforced stove jack, multiple mesh windows and insect-resistant doors. The listing describes full standing height inside.\n\nIt is cheaper than the VEVOR and ShinHye and covers more floor than the VEVOR. Compared with the WaldWander 4-6 it is the larger sibling.\n\nIt suits larger families who want a tall bell tent at a lower price. It is positioned for year-round glamping with a stove jack.",
     "specs": [
       "16.4 ft wide, 6 to 8 person",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51tVQ-LZAQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FKMKP7HX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FKMKP7HX?tag=rvgearlab-amz-20",
     "description": "The WaldWander 4-6 is a 16.4 ft bell tent in lightweight Oxford fabric that the listing says fits 4 to 7 campers with gear. It has mesh windows, insect-proof doors and a built-in stove jack for wood stoves.\n\nIt is cheaper than the 6-8 sibling and lighter in fabric than the canvas tents. Compared with the Dandelion teepee it has a taller bell shape and more room.\n\nIt suits families wanting a hot-tent option without the canvas price. The listing describes light rain protection.",
     "specs": [
       "16.4 ft bell, Oxford",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ybzCa4wuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GZ1X86Z8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GZ1X86Z8?tag=rvgearlab-amz-20",
     "description": "The Dandelion Shell teepee is a 3 to 4 person hot tent made of 70D single-sided silicone-coated polyester with a heat-resistant stove jack. Reinforced stress points and a double zipper are listed.\n\nIt is the cheapest and the smallest here, and it is a pyramid rather than a bell. Compared with the WaldWander 4-6 it is much smaller and priced far lower.\n\nIt suits small groups and solo hunters who want a compact hot tent. It can accommodate a wood stove inside.",
     "specs": [
       "3 to 4 person teepee",

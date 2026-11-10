@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51KCl3VRKsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GTTY2BHC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GTTY2BHC?tag=rvgearlab-amz-20",
     "description": "The DABOUHORS carries a 20000mAh battery that doubles as a phone power bank, with four speeds, 45 or 90 degree oscillation and noise under 30 dB. A remote offers 1, 2, 4 and 8 hour timers, and a three-mode LED light replaces a lantern.\n\nIt costs about $32, well below the top of the budget, and it adds oscillation that the ROSHOPI lacks. The Lumtide covers a bigger canopy area, while this one fits on a table, hangs from a hook and spreads air through a whole tent.\n\nIt suits families who want a fan, a light and a backup charger in one body. Oscillation makes it the pick for a cabin tent.",
     "specs": [
       "20000mAh, doubles as power bank",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41C1QYBP2wL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GSV8FT1Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GSV8FT1Y?tag=rvgearlab-amz-20",
     "description": "The Lumtide is a 20000mAh canopy ceiling fan with four speeds, a quiet motor and a dimmable light that moves between 3000K, 4500K and 6000K. A 2.4G remote controls speed and light from anywhere in the tent, and the blades detach for storage.\n\nIt costs about $45, near the top of the budget, and it is the largest-coverage fan here. It out-moves the DABOUHORS in a screen room because it hangs overhead, and it costs more and is not waterproof.\n\nIt suits campers with a large canopy or screen house where a floor fan would get in the way. Hang it from the ridge and use the remote at night.",
     "specs": [
       "20000mAh ceiling fan",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51nXnmVvkGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CSMTV23H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CSMTV23H?tag=rvgearlab-amz-20",
     "description": "The VOSFEEL has a 20000mAh battery rated for 12 to 58 hours with two outputs, four speeds, a remote and a four-step timer. A three-level LED lantern and a foldable hook let it hang in a tent.\n\nAt about $42 it costs more than the DABOUHORS and does not oscillate, while the lantern is brighter and the runtime range is stated plainly. It sits between the ROSHOPI and the Lumtide on price.\n\nIt suits anyone who would rather pack a single gadget than a fan and a lantern, in a body that fits a daypack. The remote saves a climb out of the sleeping bag.",
     "specs": [
       "20000mAh, 12 to 58 hours",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/519O-B290hL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F21P79MM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F21P79MM?tag=rvgearlab-amz-20",
     "description": "The ROSHOPI folds a fan, a lantern and a power bank into one body with 2A Type-C fast charging. Runtime ranges from 8 to 30 hours, with 16 ft/s air speed, noise under 30 dB and a 270 degree adjustable head.\n\nAt about $25 it costs half the Lumtide and is the cheapest rechargeable fan here. A smaller pack than the 20000mAh picks shows in the runtime range, yet it adds Type-C charging on a simple two-button body.\n\nIt suits day trips and tent nights that run one or two evenings. Dual buttons control speed and light without a remote.",
     "specs": [
       "Fan, lantern and power bank",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41-7Yf0ZvdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GPPD3KM4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GPPD3KM4?tag=rvgearlab-amz-20",
     "description": "SOQSYS ships two fans in one box, each with a 12000mAh battery rated for up to 30 hours. Every fan has three speeds, a 360 degree head, a 2, 4 or 6 hour timer, an adjustable LED light and a foldable hook.\n\nTwo fans for the top-of-budget price means you can cool two tents or place one at each end of a long room. Each unit weighs about 1.04 lb, so it moves air near you rather than across a canopy the way the Lumtide does.\n\nIt suits families with two sleeping tents and groups that share a screen room. Either fan can also top up a phone from its USB output.",
     "specs": [
       "Two fans, 12000mAh each",

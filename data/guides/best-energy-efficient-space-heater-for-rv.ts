@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Z4LdvtMwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B097RG67QB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B097RG67QB?tag=rvgearlab-amz-20",
     "description": "The DREO Atom One delivers up to 1500 watts using Hyperamics technology and an ECO mode that adjusts heat to reach a set temperature. An ETL-listed Shield360 system provides tip-over and overheat protection, and 70 degree oscillation spreads the warmth.\n\nIt costs more than the OLIXIS and GENEREDGE and is the one with an ETL-listed protection system named on the page. The ECO mode is the efficiency feature that sets it apart from the plain high and low settings of cheaper heaters.\n\nBest for owners who want a full 1500 watt heater that can back off when the cabin is warm. A strong everyday RV heater.",
     "specs": [
       "Up to 1500W Hyperamics PTC",
@@ -53,7 +53,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41DZKMmRZ6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HGF2WJCM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HGF2WJCM?tag=rvgearlab-amz-20",
     "description": "The OLIXIS is a 23 inch tower with a 1500 watt heating element, 70 degree oscillation and four modes. Its thermostat runs from 50 to 95 degrees Fahrenheit, and a 12 hour timer, tip-over protection, overheat shut-off and a child lock are listed.\n\nIt costs noticeably less than the DREO and gives a wider stated thermostat range than most. The timer lets you set a stop time, which helps limit run hours overnight.\n\nBest for owners who want precise temperature control and a timer. A balanced, mid-priced choice.",
     "specs": [
       "1500W heating element",
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51klSrV65IL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FQGL1H7J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FQGL1H7J?tag=rvgearlab-amz-20",
     "description": "The GENEREDGE is a 1500 watt PTC ceramic heater with a digital thermostat, 80 degree wide-angle oscillation and a smart ECO mode. It lists a 41 to 95 degree range and noise levels as low as 42 dB.\n\nIt costs slightly less than the OLIXIS and oscillates wider at 80 degrees. The ECO mode and sensor give it an efficiency feature the OLIXIS does not name.\n\nBest for larger cabin areas where air movement matters. A good value for 1500 watt heat.",
     "specs": [
       "1500W PTC ceramic",
@@ -107,7 +107,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41XiIbff42L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FH4V4FKJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FH4V4FKJ?tag=rvgearlab-amz-20",
     "description": "The LYNBKLS is a 450 watt wall outlet heater that draws 2.9 amps at 120 volts. A ceramic PTC plate, LED display, 1 to 12 hour timer and remote control sit in a small body with a rotating plug.\n\nIt uses less than a third of the power of the 1500 watt heaters and costs about the same as the METKIIO. The low amperage leaves room on a shared circuit for other appliances.\n\nBest for small cabins, bunk rooms or as a backup heater on limited power. A smart low-draw choice.",
     "specs": [
       "450W, 2.9 amps at 120V",
@@ -134,7 +134,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/418X60j5HrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09GZ96K1N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09GZ96K1N?tag=rvgearlab-amz-20",
     "description": "The METKIIO offers three modes with a 900 watt high setting and a 400 watt medium setting, using PTC ceramic heating with overheat protection. It is a compact 7.7 by 4.4 by 5 inch body.\n\nIt costs less than the LYNBKLS and offers more power at the high setting. The stepped modes let you choose how many watts to use.\n\nBest for desks and sleeping quarters where you want a choice of watts. A flexible small heater.",
     "specs": [
       "900W high, 400W medium",
@@ -161,7 +161,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51vedQRvSEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FG8DX1J1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FG8DX1J1?tag=rvgearlab-amz-20",
     "description": "The ASNUG is a 500 watt PTC ceramic heater with a silent mode and automatic safety shut-offs. It measures 6.1 by 5.75 by 2.87 inches and operates with one touch.\n\nNothing else here costs less or takes up less room. Compared with the METKIIO, it gives a single 500 watt output rather than steps.\n\nBest for tight spaces and low-cost spot heat. A budget choice for a small area.",
     "specs": [
       "500W PTC ceramic",

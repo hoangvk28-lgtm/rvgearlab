@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51vX+IJclCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09KXZM2D8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09KXZM2D8?tag=rvgearlab-amz-20",
     "description": "Roundfire Bioethanol is a six-liter pack of six 1-liter bottles of 96 percent ethanol. The listing calls it smokeless, odorless and ash free, and names fireplaces, burners, spirit burners and stoves as uses.\n\nIt is the only liquid ethanol fuel here, so it fits open-cup spirit burners that the gel and tablets do not suit. Against the Swissmar gel it pours easily and can refill an open burner.\n\nIt suits campers with spirit burners and anyone who wants a clean-burning plant-derived fuel. The six-pack means a season of fuel.",
     "specs": [
       "96% ethanol, 6 x 1 liter",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41qla3IVIuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FP54F6MJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FP54F6MJ?tag=rvgearlab-amz-20",
     "description": "The QPQ Solid Fuel Tablets come as a 20-piece set made from natural paraffin wax. Each tablet burns up to 15 minutes, lights with a match or lighter, and leaves no residue, according to the listing.\n\nThey are named for solid fuel stoves, Esbit-style stoves and tabletop fire pits, and they need no kindling. Unlike liquid fuels they cannot spill in a pack.\n\nThey suit light hikers who want a simple, spill-free fuel for a solid-fuel stove. Twenty tablets cover many short boils.",
     "specs": [
       "20 tablets, 15 min each",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41p5q7P967L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0081FK4H0?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0081FK4H0?tag=rvgearlab-amz-20",
     "description": "Swissmar Fire Gel is a 16.9 oz methanol-based fuel gel made in Canada. The listing gives a burn of 45 to 60 minutes, an easy-pour bottle and a nozzle with a fire mitigation device against flashback.\n\nIt burns far longer than the 15 minute tablets, which suits slow simmering. The listing names fondue burners and portable stoves, so it is a fit for gel-rated burners.\n\nIt suits fondue, chafing dish and portable stove users who want a long, steady flame. Indoor and outdoor use is listed.",
     "specs": [
       "16.9 oz methanol-based gel",

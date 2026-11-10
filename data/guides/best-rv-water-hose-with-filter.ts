@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ArDnmRqPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GZKY1228?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GZKY1228?tag=rvgearlab-amz-20",
     "description": "Everything for a filtered hookup arrives in the Camco Freshwater Kit: a TastePURE filter with flexible hose protector, a 25 ft EvoFlex drinking water hose, a brass pressure regulator and a hose basket. The hose carries CSA lead-free certification to NSF/ANSI 372.\n\nPriced well below the rVandtt kit, it adds a basket that holds up to a 75 ft hose. The certified hose pairs directly with the filter.\n\nFirst-time owners who like buying from one maker get an organized setup out of the box. Nothing else needs to be sourced.",
     "specs": [
       "Kit with 25 ft hose",
@@ -53,7 +53,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51yLaKdijwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CKKHHZGX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CKKHHZGX?tag=rvgearlab-amz-20",
     "description": "The rVandtt Fresh Water Kit includes a regulator with gauge, a multi-stage filter, hose connectors, a leak repair kit, a carrying case and a 35 ft drinking water hose. The title adds a sanitation hose.\n\nIt is the only kit that includes both hose types. It removes chlorine, bad odor and taste per its listing.\n\nIt suits owners who want one case for all water jobs. The leak repair kit is a handy extra.",
     "specs": [
       "35 ft hose kit",
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41HCqXu9R7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DJR7YC9R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DJR7YC9R?tag=rvgearlab-amz-20",
     "description": "The Stokk RV Water Filter 2 Pack is NSF/ANSI 42 listed and uses GAC and KDF with a 10-micron sediment filter. It includes a flexible hose protector with a 360-degree swivel.\n\nIt is the lowest priced filter pair and lists an NSF standard. It lists a wide-body design for flow.\n\nIt suits owners who want two filters and a swivel protector. The pair covers a season.",
     "specs": [
       "2 pack NSF/ANSI 42",
@@ -107,7 +107,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41+6cuN6tFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07Z7ML4LW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07Z7ML4LW?tag=rvgearlab-amz-20",
     "description": "The AQUA CREST inline filter is NSF certified, has a premium hose protector that rotates 360 degrees and installs by hand in about five minutes. It is listed to last about three months in a camping season.\n\nIt is a single filter at a price near the OULEME pair and lists a service life. It lists a hose protector.\n\nIt suits owners who want one filter with a protector. Hand installation needs no tools.",
     "specs": [
       "NSF certified filter",
@@ -134,7 +134,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zxCohYHKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CY5J7YCG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CY5J7YCG?tag=rvgearlab-amz-20",
     "description": "The OULEME 2-pack lists a flow rate of 0.66 GPM, a capacity of up to 1000 gallons, a 60 psi maximum working pressure and an operating range of 34°F to 100°F. It uses a six-layer filter with KDF and GAC.\n\nIt is the only filter listing hard numbers for flow, capacity and temperature. It fits any standard 3/4 inch hose.\n\nIt suits owners who want documented limits. Note the 34°F lower limit before winter use.",
     "specs": [
       "2 pack, 0.66 GPM",
@@ -161,7 +161,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51x1kHuAnYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B004ME11FS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B004ME11FS?tag=rvgearlab-amz-20",
     "description": "Made in the USA, the Camco TastePURE 25-Ft is a 5/8 inch hose with NSF/ANSI 61 and CSA lead-free certification, which suits a filter setup. It lists diamond-hatch kink resistance.\n\nIt is the lowest priced pick and has no filter, so it pairs with any of the filters. It is a certified hose.\n\nIt suits owners who already have a filter and need a drinking hose. UV-stabilized PVC suits sunny sites.",
     "specs": [
       "5/8 inch, 25 ft",

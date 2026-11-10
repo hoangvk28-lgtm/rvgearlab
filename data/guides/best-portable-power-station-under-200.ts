@@ -21,7 +21,7 @@ export const products = withAmazonUrls([
     badge: "Best overall",
     name: "GRECELL Portable Power Station 500W, 519Wh/140400mAh Solar Generator Backup Lithium Battery Pack Power Su",
     amazonQuery: "GRECELL Portable Power Station 500W, 519Wh/140400mAh Solar Generator Backup Lithium Battery Pack Power Su",
-    amazonUrl: "https://www.amazon.com/dp/B0B9H8W8HP?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0B9H8W8HP?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41hnRsSVogL._SL500_.jpg",
     specs: ["Capacity: 519Wh","Continuous output: 500W","AC waveform: Pure sine wave","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Capacity","value":"519Wh"},{"label":"Continuous output","value":"500W"},{"label":"AC waveform","value":"Pure sine wave"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -36,7 +36,7 @@ export const products = withAmazonUrls([
     badge: "Best heavy-duty option",
     name: "DARAN Portable Power Station 89.6Wh LiFePO4 Battery 100W(200W Peak) Solar Power Bank, Portable Charger Sm",
     amazonQuery: "DARAN Portable Power Station 89.6Wh LiFePO4 Battery 100W(200W Peak) Solar Power Bank, Portable Charger Sm",
-    amazonUrl: "https://www.amazon.com/dp/B0CQT5G1ZR?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0CQT5G1ZR?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/51RqhJSR3sL._SL500_.jpg",
     specs: ["Capacity: 89.6Wh","Continuous output: 100W","Surge output: 200W","Listed weight: 2.54 lb"],
     specList: [{"label":"Capacity","value":"89.6Wh"},{"label":"Continuous output","value":"100W"},{"label":"Surge output","value":"200W"},{"label":"Listed weight","value":"2.54 lb"}],
@@ -51,7 +51,7 @@ export const products = withAmazonUrls([
     badge: "Best compact option",
     name: "ALLWEI Portable Power Station 300W, 256Wh Solar Generator LiFePO4 Battery",
     amazonQuery: "ALLWEI Portable Power Station 300W, 256Wh Solar Generator LiFePO4 Battery",
-    amazonUrl: "https://www.amazon.com/dp/B08CXN4TZR?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B08CXN4TZR?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41lUtZAkajL._SL500_.jpg",
     specs: ["Capacity: 256Wh","Continuous output: 300W","Surge output: 600W","Battery cycle claim: 3,000 cycles"],
     specList: [{"label":"Capacity","value":"256Wh"},{"label":"Continuous output","value":"300W"},{"label":"Surge output","value":"600W"},{"label":"Battery cycle claim","value":"3,000 cycles"}],
@@ -66,7 +66,7 @@ export const products = withAmazonUrls([
     badge: "Best value pick",
     name: "EnginStar Portable Power Station 300W 296Wh Solar Generator",
     amazonQuery: "EnginStar Portable Power Station 300W 296Wh Solar Generator",
-    amazonUrl: "https://www.amazon.com/dp/B0FJD7LCY4?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0FJD7LCY4?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41gapbcAKVL._SL500_.jpg",
     specs: ["Capacity: 296Wh","Continuous output: 300W","Listed weight: 6.5 lb","AC waveform: Pure sine wave"],
     specList: [{"label":"Capacity","value":"296Wh"},{"label":"Continuous output","value":"300W"},{"label":"Listed weight","value":"6.5 lb"},{"label":"AC waveform","value":"Pure sine wave"}],
@@ -81,7 +81,7 @@ export const products = withAmazonUrls([
     badge: "Best backup pick",
     name: "DaranEner Portable Power Station, 192Wh LiFePO4 Battery Backup Solar Generator",
     amazonQuery: "DaranEner Portable Power Station, 192Wh LiFePO4 Battery Backup Solar Generator",
-    amazonUrl: "https://www.amazon.com/dp/B0C6K5ZPNJ?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0C6K5ZPNJ?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41cRxC-B-dL._SL500_.jpg",
     specs: ["Capacity: 192Wh","Continuous output: 300W","Surge output: 600W","Battery chemistry: LiFePO4"],
     specList: [{"label":"Capacity","value":"192Wh"},{"label":"Continuous output","value":"300W"},{"label":"Surge output","value":"600W"},{"label":"Battery chemistry","value":"LiFePO4"}],
@@ -171,7 +171,7 @@ export const relatedGuides = [
 export const sources = [
   {
     "title": "GRECELL Portable Power Station 500W, 519Wh/140400mAh Solar Generator Backup Lithium Battery Pack Power Su product page",
-    "href": "https://www.amazon.com/dp/B0B9H8W8HP?tag=rvgearlab-20&linkCode=osi&th=1&psc=1"
+    "href": "https://www.amazon.com/dp/B0B9H8W8HP?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1"
   },
   {
     "title": "CPSC carbon monoxide safety center",

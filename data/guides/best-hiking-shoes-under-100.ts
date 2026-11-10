@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41GVGoSmbzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CP7VC3YQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CP7VC3YQ?tag=rvgearlab-amz-20",
     "description": "The NORTIV 8 Men's Waterproof Leather uses a suede leather upper with a rubber toe cap, a breathable mesh lining and a waterproof membrane construction. A rugged rubber outsole with multi-directional traction, a removable flexible insole with arch support and an MD midsole complete the build.\n\nCompared with the OL OUTJET LEGEND, it names its membrane construction and adds a removable arch-support insole. Against the Columbia Crestwood, it is built for wet ground rather than dry environments.\n\nIt suits men who want one waterproof leather shoe for muddy and rocky trails at a friendly price. The toe cap and multi-directional lugs add confidence.",
     "specs": [
       "Suede leather, rubber toe cap",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4180hbF1G3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01MY7S9M5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01MY7S9M5?tag=rvgearlab-amz-20",
     "description": "The Columbia Men's Crestwood is a lightweight trail shoe in breathable suede mesh, with a high-traction tread for dirt, rocks and varied terrain. The listing says it is ready out of the box with no break-in period.\n\nNext to the NORTIV 8 Waterproof Leather, it is lighter and cooler. It costs more than the NORTIV 8 and does not claim waterproofing.\n\nIt suits men who hike dry trails in warm weather and want a brand-name shoe that feels good immediately. The shoe also works for everyday wear.",
     "specs": [
       "Breathable suede mesh upper",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41dTqLv3HrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B098NC7216?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B098NC7216?tag=rvgearlab-amz-20",
     "description": "The SHULOOK Men's Waterproof Trail has a waterproof, breathable upper with a reinforced protective toe cap and a durable outsole with multi-directional lugs. A lightweight cushioned midsole absorbs impact on long walks.\n\nCompared with the NORTIV 8, it is lighter and costs a bit more. Against the OL OUTJET LEGEND, it uses a lightweight build instead of a leather one.\n\nIt suits men who want a light waterproof hiking shoe for trails, travel and camp. The toe cap adds protection.",
     "specs": [
       "Waterproof, breathable upper",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Vf84qJSiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CC326DZB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CC326DZB?tag=rvgearlab-amz-20",
     "description": "The OL OUTJET LEGEND Leather has a genuine leather upper with OL-TEX waterproof design, a thickened EVA midsole for cushioning and a rubber outsole with strong grip. The brand cites over 26 years of design and offers free returns within 12 months.\n\nCompared with the NORTIV 8, it uses a thicker EVA midsole and a returns promise. Against the SHULOOK Waterproof Trail, it is heavier and more rugged.\n\nIt suits men who want a leather low-top that can handle work and trails. The extended return window reduces fit risk.",
     "specs": [
       "Genuine leather upper",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411xcZdjvgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FF4X7BKQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FF4X7BKQ?tag=rvgearlab-amz-20",
     "description": "The FitVille Men's Wide Toe has a wide to extra-wide toe box, a full rubber lugged sole and a water-resistant microfiber suede upper. An arch-support insole and high-rebound cushioning are listed for long hikes.\n\nCompared with the NORTIV 8, it gives more toe room and a water-resistant, not waterproof, upper. It costs about the same.\n\nIt suits men with broad forefeet who find standard hiking shoes cramped. The arch support helps alignment on longer routes.",
     "specs": [
       "Wide/extra-wide toe box",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41MmKgoMknL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H8X2XJ9J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H8X2XJ9J?tag=rvgearlab-amz-20",
     "description": "The AIVEJE Mesh has a breathable mesh upper, a rubber outsole with an MD midsole and grooved tread, and adjustable elastic straps so you do not have to tie laces. Ventilation holes in the sole help release heat and moisture.\n\nIt is by far the cheapest pair and the lightest in feel. Compared with the Columbia Crestwood, it offers fewer protective details.\n\nIt suits men who want a very cheap, breathable trail-style shoe for walks and light hikes. The elastic strap makes it easy on and off.",
     "specs": [
       "Breathable mesh upper",

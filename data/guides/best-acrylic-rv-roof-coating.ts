@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41QM7OV4XXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BL1RGKHG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BL1RGKHG?tag=rvgearlab-amz-20",
     "description": "Marlin Acrylic Top Coat is a plasticizer free, single component, 100 percent acrylic elastomeric coating. The listing names RV roofs, trailers, metal, PVC, Hypalon, EPDM and primed asphalt among compatible surfaces, and gives an average coverage of 60 square feet per gallon.\n\nAgainst the Dicor RP-CRC-1, it covers a wider list of roof types. Against Gardner Sta-Kool, it is sized for RV use and states its application methods of brush, roller or spray.\n\nIt is the best match for owners with an EPDM or PVC roof who want a stated, checkable coverage rate. Think of it as the pick for epdm and pvc roofs.",
     "specs": [
       "100% acrylic elastomeric",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411LMN-of0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B004A32HUY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B004A32HUY?tag=rvgearlab-amz-20",
     "description": "The Dicor RP-CRC-1 is an acrylic coating made for EPDM and PVC roofs, applied after Dicor Rubber Roof Cleaner and Activator for adhesion. It covers 125 square feet per gallon per coat and is described as saving over 25 percent in labor.\n\nCompared with Marlin Acrylic, it delivers more coverage per gallon on its two target roof types. Compared with the Dicor RP-FRC-1, it is for rubber and PVC while the other is for fiberglass.\n\nIt suits owners who want a coating matched to the brand's cleaner and a stated 125 square foot coverage. Buyers focused on epdm roof upkeep will find it a sensible match.",
     "specs": [
       "Acrylic for EPDM and PVC",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41kv1OF8lyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B007TQI96K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B007TQI96K?tag=rvgearlab-amz-20",
     "description": "The Dicor RP-FRC-1 is a 100 percent acrylic coating system for maintaining fiberglass RV roofs. The listing pairs it with Dicor's Clean and Prep and a primer to refresh an old or worn roof.\n\nAgainst Dicor RP-CRC-1, it targets fiberglass in place of rubber. Against Marlin Acrylic, it is a system with a primer and prep step, while Marlin is a topcoat.\n\nIt is the right choice for fiberglass roofs that look worn but are structurally sound. It earns its slot for fiberglass roofs.",
     "specs": [
       "100% acrylic fiberglass system",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411OjpzMGLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B69R7RBM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B69R7RBM?tag=rvgearlab-amz-20",
     "description": "Gardner-Gibson Sta-Kool 15-Year Turbo-Dri is a 5 gallon white acrylic elastomeric coating with cool-core pigments. The listing says it is rain safe in 30 minutes and can be recoated in three hours.\n\nAgainst Marlin Acrylic, it offers a larger 5 gallon pail and a faster dry window. Against the Dicor systems, it is a general-purpose roof coating with no RV-specific roof list.\n\nIt is a fit for large roofs and owners who work in a one-day window. It is a natural fit for one-day recoat windows.",
     "specs": [
       "5 gallon white acrylic",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51wfKTqT2xL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D94FYY98?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D94FYY98?tag=rvgearlab-amz-20",
     "description": "Wadities RV Roof Coating is a white solar reflective coating with a stated 1000 percent flexibility. The listing says one gallon coats an RV up to 30 feet at 50 square feet per gallon and takes 2 to 3 heavy coats.\n\nCompared with Marlin Acrylic, it is a lower-priced gallon with a thicker coat recommendation. Compared with BEEST, it is nearly identical in coverage and wording.\n\nIt suits DIY owners who want a budget gallon with clear thickness guidance. Think of it as the pick for budget gallon jobs.",
     "specs": [
       "1000% flexibility stated",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51O8vVuGuzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C6NJWTFF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C6NJWTFF?tag=rvgearlab-amz-20",
     "description": "BEEST RV Roof Coating is a white solar reflective liquid rubber coating that covers up to 50 square feet in two coats. The listing says a 5 gallon pail covers RVs up to 30 feet and names metal, flat roofs and trailers as uses.\n\nAgainst Wadities, it names metal and flat roofs more directly. Against Marlin Acrylic, it uses liquid rubber wording and lower coverage.\n\nIt fits owners with a mixed-surface roof who want a flexible liquid rubber layer. Buyers focused on mixed roof surfaces will find it a sensible match.",
     "specs": [
       "Liquid rubber, white",

@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41fNQM9mrZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07CZTXL8P?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07CZTXL8P?tag=rvgearlab-amz-20",
     "description": "The CURT 51170 Spectrum is a proportional controller controlled by a push-button rotary knob. The listing describes a clean dash-mounted, OEM-style interface with 10 tri-color LEDs, a main module that can be mounted out of sight, a triple-axis motion-sensing accelerometer, and a manual override button.\n\nCompared with the Tekonsha Prodigy iD below it, the Spectrum keeps all control on the knob with no phone needed, and it costs a bit less. The listing does not name an axle range, so confirm it before buying.\n\nBest for a driver who wants a knob-and-LED dash look that blends in with the interior. It is a complete controller, unlike the spare knob at the bottom of this list.",
     "specs": [
       "Push-button rotary knob",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41gzZiwkAAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09QBCQ945?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09QBCQ945?tag=rvgearlab-amz-20",
     "description": "The Tekonsha 90920 Prodigy iD is a controller for 1-4 axles (2-8 brakes) with an OEM-style in-dash design and a rotary-style knob in the dash, while the power module sits out of sight. It pairs with a phone or tablet through Bluetooth using the EDGE app.\n\nCompared with the CURT Spectrum above, it adds an app, a front-facing color LED display with real-time diagnostics and a stated 1-4 axle range, at a slightly higher price. Compared with the REDARC Liberty below, it uses a flush OEM-style head.\n\nBest for a buyer who wants the knob and also a phone log of alerts. The listing asks you to verify vehicle compatibility, so check it before ordering.",
     "specs": [
       "OEM-style in-dash knob",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41RvQCXx1DL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08YK48XHT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08YK48XHT?tag=rvgearlab-amz-20",
     "description": "The REDARC Tow-Pro Liberty uses a compact dash dial as the main control, and the listing says it includes a remote head with knob, bezel and a 3 ft 3 in cable. It is a proportional unit for 1 to 2 axle trailers with sway control and active calibration, and a two-year limited warranty.\n\nAgainst the CURT Spectrum above, it costs much less and is a branded universal-fit unit, but it supports fewer axles. Next to the briidea below, it is a branded product with a stated warranty.\n\nBest for a single or tandem trailer owner who likes a small dial instead of a screen. A triple-axle trailer needs a different pick.",
     "specs": [
       "Compact dash dial",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31aOU6O+4ML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H5NTL8GZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H5NTL8GZ?tag=rvgearlab-amz-20",
     "description": "The briidea proportional controller has a rotary knob that adjusts brake gain from 0 to 10, plus a manual/menu button and an LCD for real-time readings. The listing mentions boost settings, overcurrent and short-circuit protection, automatic fault detection and 1-4 axle support.\n\nCompared with the REDARC Liberty above, it costs less and covers up to four axles, though it is an unbranded import with fewer warranty details. Against the REDARC Toyota Kit below, it is a bare controller without any harness.\n\nBest for a budget buyer who wants a knob and four-axle range. Confirm vehicle fit on your own, since the listing speaks in general terms.",
     "specs": [
       "Rotary knob, gain 0-10",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/413YmM+QvmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D9DQCS96?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D9DQCS96?tag=rvgearlab-amz-20",
     "description": "The REDARC Tow-Pro Liberty kit for Toyota includes the controller with its dash dial, a Toyota-suitable harness (TPH-015) and a switch insert. The listing names Tundra 2015-2021 and Tacoma 2016-2023, with the 2022-2023 Tundra needing a different harness and insert.\n\nCompared with the REDARC Liberty above, it adds the plug-and-play harness and insert for a higher price. It is the only complete kit in the list, and a two-year limited warranty is stated.\n\nBest for Toyota Tundra and Tacoma owners within the listed years. For any other vehicle, it is the wrong box.",
     "specs": [
       "Dash dial with sway control",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31fvS6pBS6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D8JS5PXY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D8JS5PXY?tag=rvgearlab-amz-20",
     "description": "The CURT 19301 is a replacement knob assembly for the Spectrum 51170, not a full controller. The listing says it has factory-wired connectors, a 1.9 inch outside diameter knob, 10 tri-color LEDs, harnesses and mounting hardware, and that the main brake controller module is not included.\n\nCompared with the CURT Spectrum above it, it costs far less but does nothing on its own. It is placed last because it is only useful for repairing an existing Spectrum.\n\nBest for an owner of a CURT Spectrum with a damaged knob. Anyone else should buy a real controller.",
     "specs": [
       "Spectrum 51170 knob",

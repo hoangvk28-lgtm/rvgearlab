@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Py88qWlXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DT3K9VYS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DT3K9VYS?tag=rvgearlab-amz-20",
     "description": "The Wevelel is a self-inflating memory foam pad that measures 77 by 26.98 inches and 3.1 inches thick. Its 50D foam is advertised as denser than the 19D foam in many camping pads, and it inflates in about 30 seconds with a dual-use valve.\n\nIt costs about $55, around $13 above the Wakeman Foam Mat, and it gives an inch of padding more than any foam mat here. Its 50D stretch knit cover and three valves make it easier to deflate and store than a roll of foam.\n\nIt suits car campers and side sleepers who want a thick, quiet pad without pumping. The advertised R-value of 9.5 marks it as a cold-ground pad.",
     "specs": [
       "3.1 inch memory foam",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51GRY3yqYuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F32BSQSQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F32BSQSQ?tag=rvgearlab-amz-20",
     "description": "The FNARMW is a self-inflating double pad that measures 79 by 55 inches and 6 inches thick when inflated. It has a built-in foot pump that fills it in about 3 minutes, a 50D waterproof nylon and TPU build and a one-year warranty.\n\nIt costs about $56, the most in this guide, and it is twice as wide as the Wevelel Memory Pad. A 6 inch thickness doubles the Wevelel's 3.1 inches, which is what the extra money buys.\n\nIt suits couples and families, or a solo camper who wants a wide bed. It packs larger than the single pads.",
     "specs": [
       "79 x 55 x 6 inches",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Q5qXNupJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07XZT797H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07XZT797H?tag=rvgearlab-amz-20",
     "description": "The Wakeman is a 76 by 25 inch NBR foam mat that is 0.75 inch thick and weighs 5 pounds. It rolls to 25 by 11 by 11 inches, grips the ground with a textured underside and sheds spills, and comes with a carry strap.\n\nIt costs about $43, around $12 less than the Wevelel Memory Pad, and it never needs inflating or patching. It is thinner than the Wevelel, which is the cost of that simplicity.\n\nIt suits campers who want a no-fuss mat for car camping, an RV topper or a gym floor. It also doubles as an under-bag layer for insulation.",
     "specs": [
       "76 x 25 x 0.75 inches",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41RyqWDgEFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H3T8J54N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H3T8J54N?tag=rvgearlab-amz-20",
     "description": "The Uniqwamer is a 74.8 by 27.56 inch memory foam pad with double-sided lamb fleece. It weighs about 2 kg and rolls up for carrying.\n\nIt costs about $42, close to the Wakeman Foam Mat, and it has a softer fleece surface that the Wakeman lacks. It is lighter than the Wevelel Memory Pad, which makes it easier to carry.\n\nIt suits side sleepers and cold sleepers who like a plush top. It is a good pad for cabin and tent use.",
     "specs": [
       "74.8 x 27.56 inch foam pad",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/518MbYtN3ML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C84Z17CV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C84Z17CV?tag=rvgearlab-amz-20",
     "description": "The THINTON is a foldable closed-cell IXPE foam mat that weighs 396 grams and measures 72.8 inches long. It has an aluminum film on the back and folds to a small square block.\n\nIt costs about $27, the lowest here and about half the Wakeman Foam Mat. It weighs far less than any other pick, and it never needs inflating or patching.\n\nIt suits hikers and backpackers who want a basic insulating layer. It also works as a seat pad.",
     "specs": [
       "Closed cell IXPE foam",

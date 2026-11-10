@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41nEHfIDjsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B2J7WSDK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B2J7WSDK?tag=rvgearlab-amz-20",
     "description": "The GL.iNet Slate AX is a pocket-sized Wi-Fi 6 travel router with 1800 Mbps combined speed and OpenVPN and WireGuard preinstalled for 30+ VPN services. OpenVPN runs up to 500 Mbps and WireGuard up to 550 Mbps.\n\nAgainst the A1300, it adds Wi-Fi 6 and much faster VPN throughput. It suits RVers who stream on a VPN and want a router small enough to pack.",
     "specs": [
       "Wi-Fi 6 AXT1800",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21twzrDAZUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CL4FQNG4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CL4FQNG4?tag=rvgearlab-amz-20",
     "description": "The ASUS RT-AX57 GO is an AX3000 Wi-Fi 6 portable router with 160 MHz channels for up to 70 devices. It supports 4G and 5G tethering and public Wi-Fi in WISP mode, with one-touch VPN across up to 30 providers and site-to-site VPN.\n\nNext to the Slate AX, it covers more devices and adds AiProtection security and DNS over TLS. It suits users who want a simple app-based setup.",
     "specs": [
       "AX3000 Wi-Fi 6",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31VKdnsfk1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B4ZSR2PX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B4ZSR2PX?tag=rvgearlab-amz-20",
     "description": "The GL.iNet GL-A1300 Slate Plus is a dual-band AC router with 400 Mbps on 2.4 GHz and 867 Mbps on 5 GHz. It runs OpenWrt with OpenVPN and WireGuard preinstalled, as both VPN client and server, and supports network storage.\n\nIt is the least expensive of the four, with VPN speed of up to 28 Mbps on OpenVPN and 170 Mbps on WireGuard. It suits RVers who want a VPN router without paying for Wi-Fi 6.",
     "specs": [
       "AC1300 dual band",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31bBXzUWRYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CY4GRGH5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CY4GRGH5?tag=rvgearlab-amz-20",
     "description": "The MOFINETWORK MOFI6500 is a 4G LTE and 5G dual SIM cellular router with amplified Wi-Fi 6. It lists VPN compatibility, ZeroTier certification, IP pass-through, failover and band lock in a full metal case with detachable antennas.\n\nCompared with the travel routers, it carries its own SIM and modem, so it needs no phone or campground link. It suits full-time RVers who want a business-class cellular gateway.",
     "specs": [
       "4G and 5G dual SIM",

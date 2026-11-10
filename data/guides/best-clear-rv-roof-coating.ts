@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41TkOeySV-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01EV4EXG2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01EV4EXG2?tag=rvgearlab-amz-20",
     "description": "The Liquid Rubber 5 gallon coating is a white elastomeric with heat-reflecting behavior for roofs of EPDM, TPO, fiberglass or aluminum. It uses a weekend 3-step system.\n\nNext to BEEST and SENVEN, it carries the longest roof compatibility description in this group. It is white, not clear.\n\nIt fits owners who accept a white finish for the strongest reflection and branded system. Under clear rv roof coating, expect white-roof recoats to suit it.",
     "specs": [
       "White, heat reflective",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/417FSHdeNlL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C7LWBY4F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C7LWBY4F?tag=rvgearlab-amz-20",
     "description": "The BEEST silicone coating covers up to 167 square feet in two coats from a 5 gallon pail. Its listing calls it ultra low VOC and environmentally friendly, applied by brush, roller or sprayer.\n\nIt is the silicone choice in this group versus the water-based pails. It is white and not a clear coat.\n\nIt suits owners who want silicone with low VOC over a large roof. Under clear rv roof coating, expect low-VOC silicone to suit it.",
     "specs": [
       "Silicone, 5 gallon",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51R2ib7yddL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C79WF69B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C79WF69B?tag=rvgearlab-amz-20",
     "description": "The BEEST 3.5 gallon coating covers up to 175 square feet in two coats. It is a solar reflective, flexible liquid rubber with 1 gallon per 50 square feet minimum.\n\nIt sits between the 5 gallon BEEST and the 1 gallon pails. It is white.\n\nIt is right for a mid-size roof. Among clear rv roof coating, think mid-size roofs.",
     "specs": [
       "3.5 gallon liquid rubber",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/61phZ6TRZQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FX9QCK7T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FX9QCK7T?tag=rvgearlab-amz-20",
     "description": "The SENVEN 5 gallon kit is a white waterproof solar reflective coating for EPDM, TPO, fiberglass and aluminum roofs and vent covers. It rolls on like paint at 1 gallon per 50 square feet.\n\nIt lists the same surfaces as Liquid Rubber 5 Gal at a lower price. It is white.\n\nIt suits full roof recoats. In clear rv roof coating, value kit is its lane.",
     "specs": [
       "White kit, 5 gallon",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51J3nG0rkRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D2TX2LZC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D2TX2LZC?tag=rvgearlab-amz-20",
     "description": "The Tufinein 70 oz sealant is a water-based, semi-transparent coating that dries clear. It is for roofs, walls, basements, sheds and gutters, indoors and outdoors, with 2 to 3 even coats covering about 28 square feet per 2 kg.\n\nIt is the only clear product in this list and a general sealant, not an RV roof-specific coating. It is also the cheapest.\n\nPick it only if a clear finish matters more than a branded RV roof system. With clear rv roof coating, clear finish needs fits it best.",
     "specs": [
       "Clear water-based sealant",

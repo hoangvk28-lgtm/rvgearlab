@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51UlBrtjzZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07FKVZ8XS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07FKVZ8XS?tag=rvgearlab-amz-20",
     "description": "TST's 507 eight-sensor kit has cap sensors with user-replaceable CR2032 batteries and a 3.5 inch color display. TST's 507 eight-sensor kit has cap sensors with user-replaceable CR2032 batteries and a 3.5 inch color display. The listing says the system monitors a towing truck and up to four towable vehicles.\n\nIt covers a truck plus tandem, unlike TST 507 6 Cap, and costs more. Cap sensors must be removed to add air.\n\nBest for a tow vehicle plus tandem with replaceable batteries. It suits a tow vehicle plus tandem trailer with replaceable batteries.",
     "specs": [
       "8 cap sensors, CR2032",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51cqX2KdgvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B078P5GG76?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B078P5GG76?tag=rvgearlab-amz-20",
     "description": "TST's 507 six-sensor kit has cap sensors with user-replaceable CR2032 batteries and low sensor battery alerts. TST's 507 six-sensor kit has cap sensors with user-replaceable CR2032 batteries, a 3.5 inch color display and audible and visual alerts. It can monitor a towing truck and up to four towable vehicles.\n\nIt costs less than TST 507 8 Cap and covers six tires. It can expand later.\n\nBest for a six-tire rig that wants replaceable batteries. It is the mid-size TST kit with replaceable batteries.",
     "specs": [
       "6 cap sensors, CR2032",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41R0u12Mf0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DPM1N92R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DPM1N92R?tag=rvgearlab-amz-20",
     "description": "GUTA's GT80 ten-sensor kit uses flow-through sensors and a touchscreen, but its listing does not say the sensor batteries are replaceable. GUTA's GT80 ten-sensor kit has flow-through sensors that allow inflation without removal and a large vertical touchscreen showing up to 22 tires per page. The listing says the monitor saves its battery by sleeping after 10 minutes without motion.\n\nIt adds flow-through convenience that the TST cap kits lack and costs less than TST 507 8 Cap. The battery question stays open.\n\nBest only after battery serviceability is confirmed. It is a premium flow-through system.",
     "specs": [
       "10 flow-thru sensors, touchscreen",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51UNKa3p8VL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B009BEGV6S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B009BEGV6S?tag=rvgearlab-amz-20",
     "description": "EEZTire's six-sensor kit has a 4.5 by 3 inch monitor and AT sensors, and its listing does not state the battery type. EEZ RV Products' EEZTire kit has six AT sensors and a 4.5 by 3 inch color monitor that is motion sensitive and checks pressure and temperature every 6 seconds. The monitor has separate controls for RV and trailer sensors so the trailer can be turned off when driving the RV alone.\n\nIt has a larger monitor than TST 507 6 Cap but states nothing about replaceable batteries.\n\nBest only after the battery is confirmed. The listing does not state whether the sensor batteries are replaceable, so ask before buying.",
     "specs": [
       "6 AT sensors, 4.5 x 3 inch color monitor",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51CoODPzhZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GLYY7C8Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GLYY7C8Q?tag=rvgearlab-amz-20",
     "description": "GUTA's GT90 eight-sensor kit reads 0 to 188 psi and alerts when a sensor battery is low. GUTA's GT90 eight-sensor kit tracks pressure up to 188 psi with alerts that include low sensor battery. The monitor and sensors are pre-paired.\n\nIt states a low-battery alert but not replaceable batteries. It costs less than TST 507 8 Cap.\n\nBest only after battery serviceability is confirmed. The listing mentions low battery alerts but not replaceable batteries.",
     "specs": [
       "8 sensors, 0 to 188 psi",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51nrAmrennL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B009BE069Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B009BE069Q?tag=rvgearlab-amz-20",
     "description": "EEZTire's Pro 518C has a 3.5 inch display and four AT sensors and is not compatible with older EEZ models. EEZ RV Products' Pro 518C kit has a 3.5 inch color display and four AT sensors, with checks every 6 seconds and separate controls for RV and trailer. The title warns it is not compatible with the T515, E518 or E618 models.\n\nIt states no battery type and costs less than EEZTire 6AT. Confirm compatibility.\n\nBest only for a new EEZTire setup. Confirm compatibility before mixing with older EEZ parts.",
     "specs": [
       "4 AT sensors, 3.5 inch color display",

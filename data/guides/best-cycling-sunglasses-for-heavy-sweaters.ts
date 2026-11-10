@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31YZKpzIapL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09TXKR2PF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09TXKR2PF?tag=rvgearlab-amz-20",
     "description": "The ROCKBROS Photochromic has photochromic lenses that adjust to changing light, non-slip nose pads and a removable elastic band. The listing says the ergonomic design conforms to the face for stability even during sweaty workouts.\n\nAgainst the BUCKLOS Photochromic, it adds a removable elastic band. Next to the ROCKBROS Polarized, it trades polarization for lenses that adapt from shade to sun.\n\nIt suits sweaty riders who want a secure fit and one lens for changing light. The band can come off when you want a lighter feel.",
     "specs": [
       "Photochromic adaptive lenses",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Ac0YnxIUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GX93YQJB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GX93YQJB?tag=rvgearlab-amz-20",
     "description": "The BUCKLOS Photochromic has photochromic lenses that adapt within seconds, adjustable nose pads and a TR90 frame with rubber temples. The listing gives a 31.5 gram weight and blocks 99.99 percent of UVA and UVB.\n\nAgainst the ROCKBROS Photochromic, it adds rubber temples and a stated weight. Compared with the QALLY Polarized, it uses adaptive lenses instead of a polarized shade.\n\nIt suits riders who sweat heavily and want a firm hold from rubber temples. The adjustable pads fit a range of nose shapes.",
     "specs": [
       "TR90 frame, rubber temples",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41BHcHWmAbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F28L2J8G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F28L2J8G?tag=rvgearlab-amz-20",
     "description": "On the QALLY Polarized, the lenses are polarized TAC with a hydrophobic coating that sheds water, and the featherlight flex frame uses non-slip nose pads. The listing calls the fit universal and rates UV400 at 99 percent.\n\nAgainst the ROCKBROS Photochromic, it adds a water and smudge-resistant coating. Compared with the X-TIGER, it is a single polarized lens set.\n\nIt suits sweaters who also fight smudges, since the coating makes wiping easier. The flex frame is built for all-day comfort.",
     "specs": [
       "TAC polarized, UV400 lenses",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41U8+lmzdvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07QK5MMRX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07QK5MMRX?tag=rvgearlab-amz-20",
     "description": "The ROCKBROS Polarized is a 25 gram polycarbonate frame with rubber nose pads and adjustable rubber ear pads. The lenses are polarized with UV400 protection and a curved design for wind cover.\n\nAgainst the BUCKLOS, it is lighter by about six grams. Next to the QALLY Polarized, it adds adjustable ear pads for grip behind the ears.\n\nIt suits riders who want light weight and a snug ear fit. The rubber pads help hold on a damp face.",
     "specs": [
       "25g polycarbonate frame",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41dIYtPMbBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09GXY2YLY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09GXY2YLY?tag=rvgearlab-amz-20",
     "description": "The X-TIGER 5 Lens comes with five interchangeable lenses, including a polarized black lens and a yellow lens for low light. It has a TR90 frame, adjustable nose pads and an interchangeable lower frame color.\n\nAgainst the QALLY Polarized, it adds lens options and a swappable frame trim. Compared with the BUCKLOS, it relies on swaps rather than photochromic lenses.\n\nIt suits riders who sweat in changing conditions and want to swap lenses. The adjustable nose pads help with fit.",
     "specs": [
       "5 interchangeable lenses",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/311vSEKEtBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GVYGYYKC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GVYGYYKC?tag=rvgearlab-amz-20",
     "description": "The Reglaaly Polarized has scratch-resistant TAC polarized lenses in a wraparound rectangular frame. The package includes a cleaning cloth, pouch, strap, case and a polarization test card.\n\nAgainst the QALLY Polarized, it adds a strap and costs far less. Compared with the ROCKBROS Photochromic, it uses a fixed polarized lens.\n\nIt suits riders who want a cheap spare pair with a strap. The strap helps keep the frame on a sweaty face.",
     "specs": [
       "TAC polarized lenses",

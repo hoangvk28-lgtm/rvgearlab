@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41H-QDANxVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CPT6WY76?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CPT6WY76?tag=rvgearlab-amz-20",
     "description": "The Champion 2500 Ultralight weighs 39.7 pounds and is rated at 53 dBA from 23 feet, a distance that makes the noise figure comparable. It lists a 5-20R household outlet with under 3% distortion and accepts an optional parallel kit to pair with a second unit.\n\nIt costs $136 more than the AMERISUN 2500 at $382.59 and $101.74 less than the A-iPower at $619.99. You pay for the lighter frame and the documented noise distance. Pick this if you want one-person lifting and an upgrade path to parallel. Caveat: the listing excerpt does not state running watts, so confirm that before sizing for an air conditioner.",
     "specs": [
       "2500 starting watts",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41JJT-xrrqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C3NCKZ5M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C3NCKZ5M?tag=rvgearlab-amz-20",
     "description": "The A-iPower pairs an 80cc Yamaha engine with 2500 starting and 2000 running watts, the highest running figure in this group. It claims 52 dB, 3% THD clean power, a CO sensor light and USB ports on the panel.\n\nAt $619.99 it sits $101.74 above the Champion 2500 Ultralight and $250.40 above the WEN 56250i. The extra money buys 100 more running watts than the 1900 watt picks and the named engine. Pick this if you run a small air conditioner on soft start or want the most headroom. Caveat: weight and runtime are not listed, and the 52 dB distance is not stated.",
     "specs": [
       "2500 start, 2000 running watts",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41XRGRwZluL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FJM98BLM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FJM98BLM?tag=rvgearlab-amz-20",
     "description": "The AMERISUN B0FJM98BLM produces 2500 surge and 1900 rated watts, weighs 39 pounds and measures 19.3 x 12 x 20 inches. It adds a CO sensor, two 120V receptacles and a 5V USB port.\n\nAt $382.59 it is $13 above the WEN 56250i and $135.66 below the Champion 2500 Ultralight. Its 59 dB(A) rating is louder than Champion's 53 dBA, so you trade some quiet for savings. Pick this if you want a CO sensor and compact footprint at a mid price. Caveat: no parallel option and no TT-30 outlet is listed.",
     "specs": [
       "2500 surge, 1900 rated watts",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41wFmLbeWAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DNV2TFPT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DNV2TFPT?tag=rvgearlab-amz-20",
     "description": "The WEN 56250i is an 80cc inverter generator rated at 2500 surge and 1900 rated watts, weighing 37.5 pounds, the lightest here. A fuel shutoff burns off carburetor fuel before shutdown, which helps storage between trips.\n\nAt $369.59 it is $13 below the AMERISUN 2500 Quiet and $59.60 above the PowerSmart. You get the lowest weight and the fuel shutoff for that bump. Pick this if you store the unit for months and want less carburetor gumming. Caveat: the excerpt lists no CO sensor, noise figure or runtime, so check those before buying.",
     "specs": [
       "2500 surge, 1900 rated watts",
@@ -133,7 +133,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41U7avjMVcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D9615XGJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D9615XGJ?tag=rvgearlab-amz-20",
     "description": "The PowerSmart lists 2500 starting and 1900 running watts, 7.5 hours at 25% load from a 1.06 gallon tank, and 59 dBA at 23 feet. Its panel has a 20A 5-20R outlet, a 12V 8A DC port, two USB ports and an Eco mode.\n\nAt $309.99 it is $59.60 under the WEN 56250i and $208.26 under the Champion 2500 Ultralight. The 20A outlet is a real plus over the 15A style, though it is still not a TT-30. Pick this if price is the main constraint. Caveat: weight and CO sensor are not stated, and runtime is given only at 25% load.",
     "specs": [
       "1900 running watts",

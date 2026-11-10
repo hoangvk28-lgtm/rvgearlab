@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31fB+VQt2TL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09C4VQL6G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09C4VQL6G?tag=rvgearlab-amz-20",
     "description": "The Merino.tech Midweight Set is a 100 percent merino wool top and long johns at 250 g/m² with 17.5 micron superfine fibers. The listing says it is soft, odor resistant and breathable, and includes free merino hiking socks.\n\nAgainst the X-thud Top, it brings natural odor resistance and temperature regulation. Compared with the BOOJO 2 Pack, it covers top and bottom in a premium fiber.\n\nIt suits hikers who want a layer for multi-day trips where washing is rare. The brand offers a satisfaction promise.",
     "specs": [
       "100% merino, 250 g/m²",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31OFKJ5sfAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FH25LMTB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FH25LMTB?tag=rvgearlab-amz-20",
     "description": "The X-thud Hiking Top is a 100 percent polyester long-sleeve base layer with quick-dry, moisture-wicking fabric and 4-needle flatlock seams. The listing also mentions sun protection and a round neck design.\n\nAgainst the Merino.tech, it dries faster and costs a fraction. Compared with the Sailwind, it is aimed squarely at active use.\n\nIt suits hikers who want a light, sun-protective layer for warm to cool days. It is a compression-style top.",
     "specs": [
       "100% polyester, quick dry",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41xndZjsinL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FCM4PH8G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FCM4PH8G?tag=rvgearlab-amz-20",
     "description": "The Sailwind Wool Blend is a polyester and wool crewneck long-sleeve shirt described as lightweight and thermal. It is machine washable and designed for layering under jackets or hoodies.\n\nAgainst the Merino.tech, it uses a blend rather than pure merino. Compared with the X-thud Top, it adds wool for warmth without bulk.\n\nIt suits hikers who want a casual layer for cool trails and town use. The wool blend adds comfort on chilly days.",
     "specs": [
       "Polyester and wool blend",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41vlpM6hF9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H71FPYPT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H71FPYPT?tag=rvgearlab-amz-20",
     "description": "The BOOJO 2 Pack Bottoms is a two-pack of fleece-lined long johns with four-way stretch and an adjustable waistband. The listing describes moisture-wicking, breathable fabric and an inner wool layer.\n\nAgainst the Barjneel Bottoms, it gives two pairs. Compared with the Merino.tech, it costs far less and omits the top.\n\nIt suits hikers who need cold-morning leg warmth. The adjustable waistband helps with fit.",
     "specs": [
       "2 pack, fleece-lined",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31HnJQC+n7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H7GW18X5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H7GW18X5?tag=rvgearlab-amz-20",
     "description": "The Barjneel Bottoms are fleece-lined long johns with a stretch fabric, moisture-wicking and an adjustable elastic waistband. The listing suggests hunting and cold snow scenarios.\n\nCompared with the BOOJO, it is a single pair. Against the BESTENA, it covers legs instead of the torso.\n\nIt suits hikers who need a basic warm layer under pants. The soft fleece lining adds comfort.",
     "specs": [
       "Fleece-lined long johns",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/315KN8iO-wL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DB1GFW3F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DB1GFW3F?tag=rvgearlab-amz-20",
     "description": "The BESTENA Top is a fleece-lined long-sleeve thermal shirt with a snug fit and stretchy fabric. The listing claims breathable moisture wicking and durable construction.\n\nAgainst the X-thud, it is warmer thanks to fleece. Compared with the Sailwind, it is a technical thermal rather than a casual layer.\n\nIt suits hikers on a tight budget who need a warm top. The long sleeves add extra coverage.",
     "specs": [
       "Fleece-lined thermal top",

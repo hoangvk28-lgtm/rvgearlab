@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Poc4+4pPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GLFVJ6CX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GLFVJ6CX?tag=rvgearlab-amz-20",
     "description": "The TUSOMA RV Air Conditioner is an 18,000 BTU heat pump with 10,236 BTU heating on 110-120V in a non-ducted layout. The listing says it can cool RV interiors within 5 to 8 minutes and runs at 50 dB.\n\nAgainst the LAOFINA 18K, it offers the same capacity and price with a stated cool-down time. Against the Dometic Penguin II, it gives 4,500 more BTU and a heat pump for far less.\n\nBest for large rigs in hot regions that also see cool nights. It requires both 115V AC and 12V DC.",
     "specs": [
       "18,000 BTU, 10,236 BTU heat",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/318hdRbKUZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H4YZZQ3Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H4YZZQ3Y?tag=rvgearlab-amz-20",
     "description": "The LAOFINA RV Air Conditioner is an 18,000 BTU heat pump with 10,236 BTU heating at 50 dB. It requires both 115V AC and 12V DC and carries UV-resistant heavy-duty housing.\n\nAgainst the Tusoma 18K, it matches the capacity and price with a UV-focused housing description. Against the RecPro 13.5K, it offers 4,500 more BTU and heat for a lower price.\n\nBest for buyers who want UV protection described for a sun-baked roof. The streamlined housing reduces wind resistance.",
     "specs": [
       "18,000 BTU, 10,236 BTU heat",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41VST+roAZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B237WDG3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B237WDG3?tag=rvgearlab-amz-20",
     "description": "The RecPro 13.5K Non-Ducted RV Air Conditioner is a cooling-only unit with a low amp draw and 59.7 dB noise. It carries a wireless remote with an LED touch display and UV-resistant plastic.\n\nAgainst the Tusoma 18K, it has less BTU and no heat. Against the Dometic Penguin II, it matches the 13,500 BTU class for far less money.\n\nBest for medium rigs in hot, dry places that use a separate furnace in winter. The low amp draw helps on limited power.",
     "specs": [
       "13,500 BTU cooling only",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/2172SHDIjLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00NRDHTVA?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00NRDHTVA?tag=rvgearlab-amz-20",
     "description": "The Dometic Penguin II is a 13,500 BTU cooling-only unit in a low-profile EPP foam housing, usable ducted or non-ducted. It uses R410A refrigerant and the listing says the foam housing reduces weight and improves cooling efficiency.\n\nAgainst the RecPro 13.5K, it gives the same capacity from a long-established RV brand at a much higher price. Against the Tusoma 18K, it has less BTU and no heat.\n\nBest for owners who value the Dometic name and want flexible ducted or non-ducted use. It suits RVs that need a premium, lightweight unit.",
     "specs": [
       "13,500 BTU cooling only",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31OgyrTDvBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H4QJRMRT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H4QJRMRT?tag=rvgearlab-amz-20",
     "description": "The outequip 12V RV Air Conditioner mounts on a roof or a wall and runs on pure 12V DC, with a variable-speed DC scroll compressor that the listing says draws as little as 21A. It offers 10,000 BTU cooling and 4,500 BTU PTC heat with 40 dB Sleep mode.\n\nAgainst the Tusoma 18K, it needs no shore power and installs in more places. Against the 115V units, it removes the generator from the picture.\n\nBest for hot-climate boondockers who want 12V cooling. The dual-mount design suits vans, campers and trailers.",
     "specs": [
       "12V DC, 10,000 BTU",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41+InyhSzuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GPKCG86X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GPKCG86X?tag=rvgearlab-amz-20",
     "description": "The KoolRV kit is made for ducted Coleman Mach 1, 3, 10, 15 and Q rooftop air conditioners. The listing says compatibility depends on your rooftop unit and duct layout, not your RV brand, and offers support to confirm fitment.\n\nAgainst the full units here, it is a low-cost add-on rather than a new air conditioner. Against the Dometic Penguin II, it keeps an existing Coleman Mach system running.\n\nBest for owners of a ducted Coleman Mach who want to improve what they already have. A useful, inexpensive step before replacing a unit.",
     "specs": [
       "For Coleman Mach 1, 3, 10, 15, Q",

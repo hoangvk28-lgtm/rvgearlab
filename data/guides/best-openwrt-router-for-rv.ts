@@ -30,7 +30,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21PMphkIQTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GF1J99S4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GF1J99S4?tag=rvgearlab-amz-20",
     "description": "The GL.iNet GL-MT3600BE Beryl 7 is a dual-band Wi-Fi 7 travel router running OpenWrt 21.02, with dual 2.5G Ethernet ports and USB 3.0. Its listing states WireGuard throughput up to 1100 Mbps, and it supports WPA3 in a pocket-sized body at $129.99.\n\nCompared with the GL-X750V2 below it, the Beryl 7 brings Wi-Fi 7 and 2.5G ports that suit fast campground connections and wired work gear. Compared with the budget Opal, it adds the processing headroom to keep a VPN running at high speed.\n\nIt is the best match for remote workers and streamers who rely on campground Wi-Fi or Ethernet and want a fast, secure private network inside the coach.",
     "specs": [
       "Wi-Fi 7, dual 2.5G ports",
@@ -57,7 +57,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31++5IgyJ0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08TRCSSZ4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08TRCSSZ4?tag=rvgearlab-amz-20",
     "description": "The GL-X750V2 is an AC750 router with a built-in 4G LTE CAT4 modem, OpenWrt preinstalled and certification for AT&T and T-Mobile. It has a SIM slot, a microSD slot for extra storage and a two year warranty, priced at $125.99.\n\nCompared with the Beryl 7 above it, this router carries its own cellular modem, so one box covers both Wi-Fi sharing and mobile data. Compared with the Cudy below it, it travels easily and gives an instant backup when campground internet drops.\n\nIt suits RVers who want a single device for cellular internet, who park where campground Wi-Fi is unreliable and who value a long warranty.",
     "specs": [
       "4G LTE CAT4 modem",
@@ -84,7 +84,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31TCo8t0-gL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BFVQK2ZD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BFVQK2ZD?tag=rvgearlab-amz-20",
     "description": "The Cudy Gigabit Multi-WAN Router offers five gigabit Ethernet ports, multi-WAN load balancing and OpenWRT support at $40.49. Its VPN suite includes WireGuard and IPsec.\n\nCompared with the GL-X750V2 above it, the Cudy lets several internet sources work together, such as campground Wi-Fi plus a phone hotspot or cellular router. Compared with the Opal below it, it adds many more wired ports for a desk, a TV and an access point.\n\nIt is a great fit for full-timers with a stationary setup who want to combine connections and wire several devices at a very low price.",
     "specs": [
       "Five GbE ports",
@@ -111,7 +111,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ghUfztYXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09N72FMH5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09N72FMH5?tag=rvgearlab-amz-20",
     "description": "The GL.iNet GL-SFT1200 Opal is an AC1200 dual-band travel router at $39.99 that weighs just 145 grams. A setup guide and video are provided, which helps first-time users.\n\nCompared with the Cudy above it, the Opal is built for the road, small enough for a jacket pocket and quick to deploy at each new site. It gives a private network and a captive portal workaround for the lowest price in the group.\n\nIt is ideal for travelers who want a simple, light, inexpensive router for a phone, laptop and tablet, with no extra gear to manage.",
     "specs": [
       "AC1200 dual-band",

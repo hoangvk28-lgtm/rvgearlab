@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hOYf87xmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B083HSQMHX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B083HSQMHX?tag=rvgearlab-amz-20",
     "description": "The RVGUARD CSA is made from C46500 lead-free brass treated by hot casting, and the listing says it meets NSF/ANSI 61 and NSF/ANSI 372 and is CSA approved. It ships with a factory setting of 45 psi and can be adjusted by turning.\n\nIt is the most explicit of the six about certifications, ahead of the STMOUTUO Cartridge, which cites NSF/ANSI/CAN 372:2024 but names no alloy. It costs the most of the group, a price for the documented claims.\n\nIt fits owners who want the clearest paper trail for potable water. The caveat is the highest price in this guide.",
     "specs": [
       "CSA approved, NSF 61 and 372",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41NH97afS3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CQF8G4TX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CQF8G4TX?tag=rvgearlab-amz-20",
     "description": "The STMOUTUO Cartridge states full compliance with NSF/ANSI/CAN 372:2024, the lead content standard for drinking water components. It is preset to 45 psi, adjustable, and includes 2 additional inlet cartridges and a roll of water tape.\n\nAgainst the RVGUARD CSA it gives you spares and a lower price but names no alloy. It adds more practical extras than the SheeChung Hand-Twist or the vidonio Handle.\n\nIt suits buyers who want a current standard cited and spares. Confirm the certificate details if the listing matters for your rig.",
     "specs": [
       "NSF/ANSI/CAN 372:2024",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51oD-dx1AsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DZMMSJWX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DZMMSJWX?tag=rvgearlab-amz-20",
     "description": "The SheeChung Hand-Twist uses C46500 lead-free brass and the listing says it complies with NSF/ANSI 372. Adjustment is by hand twist, and the inlet has a built-in screen filter for debris.\n\nIt undercuts the RVGUARD CSA while still naming the alloy and a standard, though it does not cite CSA or NSF/ANSI 61. It is similar to the STMOUTUO Cartridge but without the included spares.\n\nIt suits buyers who want a documented alloy at a lower price. The catch is thinner certification detail than the top pick.",
     "specs": [
       "C46500 lead-free brass",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41UgswneK0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B088KQRQWT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B088KQRQWT?tag=rvgearlab-amz-20",
     "description": "The MEASUREMAN Glycerin describes an all lead-free system, including lead-free brass reducer and copper fittings, with a 2 inch glycerin-filled gauge reading 0 to 160 psi. It has a two-piece sealed structure with copper tube connections and a stainless steel inlet filter.\n\nIt is stronger on build and gauge detail than the LIULO Handle, but names no NSF or CSA mark on its listing, unlike the RVGUARD CSA. It sits in the middle on price.\n\nIt suits owners who want a detailed construction and a larger gauge. Look for a named standard on the packaging.",
     "specs": [
       "2 inch glycerin gauge, 0 to 160",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/416htMyni3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FSXFJ5N4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FSXFJ5N4?tag=rvgearlab-amz-20",
     "description": "The LIULO Handle is described as food-grade lead-free brass that is non-toxic and odorless, with an ergonomic adjusting handle and a clear gauge. It adds a dense integrated inlet screen that blocks sand and gravel.\n\nIt matches the vidonio Handle on price, but its listing is stronger on filtering than on standards, with no NSF or CSA named. It is a step below the SheeChung Hand-Twist for documentation.\n\nIt suits buyers whose water source is gritty. Remember that a dense screen needs regular cleaning.",
     "specs": [
       "Food-grade lead-free brass",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41h4tzgjY-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DXV2Z1Z7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DXV2Z1Z7?tag=rvgearlab-amz-20",
     "description": "The vidonio Handle is a lead-free brass regulator preset at 45 psi with an adjustable handle and a gauge. The listing says it comes with 2 inlet screened filters and a roll of water tape, and mentions silicone in its materials.\n\nIt costs about the same as the LIULO Handle but includes spares, similar to the STMOUTUO Cartridge. It cites no standard, so it is weaker on documentation than the RVGUARD CSA.\n\nIt suits buyers who want spares and a gauge and who are comfortable with a general lead-free statement. Look for a certificate before using it as a drinking water component.",
     "specs": [
       "Preset 45 psi, handle adjust",

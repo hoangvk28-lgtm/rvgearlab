@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51o4IMwzppL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07D4PHKLP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07D4PHKLP?tag=rvgearlab-amz-20",
     "description": "The ACOPOWER pairs a 200W foldable panel with a 20A charge controller that protects against overcharge, overload, short circuit and reverse connection. It carries a handle and adjustable kickstands, and the listing names Anderson and universal solar connectors.\n\nIt offers double the panel wattage of the 100W kits and twice the controller current of the 10A units, which makes it the one built for larger 12V batteries. Next to the Voltset it trades an MPPT claim for more raw power.\n\nIt suits trailer, RV and boat owners who top up a 12V battery or a power station. Anderson connectors help it plug into common battery leads.",
     "specs": [
       "200W foldable panel",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51DLUJmievL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CCXS741Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CCXS741Q?tag=rvgearlab-amz-20",
     "description": "The Voltset 12V 100W kit ships with a 10A controller that the listing calls MPPT, and a foldable panel with an IP65 ETFE surface. It uses tempered solar glass in an aluminum frame, carries a small suitcase and has two flexible kickstands.\n\nIt claims a conversion advantage over PWM controllers, which none of the other 100W kits here list. Compared with the DOKIO it moves up to a named MPPT controller and a more rugged glass build.\n\nIt fits campers who charge a 12V battery for lights, a fridge or a power station and want the efficiency the MPPT claim implies. The listing names compatibility with most portable power stations.",
     "specs": [
       "100W, 10A MPPT controller",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51ZoRLmsG6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07VN68ZBV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07VN68ZBV?tag=rvgearlab-amz-20",
     "description": "The DOKIO 100W suitcase panel works out of the box by clipping alligator leads to a battery, with a smart PWM controller that protects against reverse polarity, overcharge, short circuit and reverse current. It has a 9.8 ft cable, built-in 5V 2A USB ports and a 25-year transferable output warranty.\n\nIt sits below the Voltset on controller claims and above the SOLPERK 20W on panel size. The long cable lets the panel sit in the sun while the battery stays in the shade.\n\nIt suits first-time buyers who want to clip on and charge a 12V AGM or gel battery. The USB ports also top up phones.",
     "specs": [
       "100W, smart PWM controller",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51O153RGVFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G11FG29G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G11FG29G?tag=rvgearlab-amz-20",
     "description": "The SOLPERK 100W 24V kit includes a waterproof 10A PWM controller for 24V batteries such as LiFePO4, AGM and gel. It uses monocrystalline cells with a listed conversion up to 30%, pre-drilled frame holes and adjustable mounts.\n\nIt is the only pick here set up for 24V battery systems, which the 12V kits cannot serve. Next to the ACOPOWER it offers a rigid, mountable frame in place of a foldable suitcase.\n\nIt suits van, boat and tractor owners who run a 24V bank and want a mounted panel. The listing names a one-year after-sales policy.",
     "specs": [
       "100W, 24V system",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51rWzFoEVTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08GX19KT9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08GX19KT9?tag=rvgearlab-amz-20",
     "description": "The SOLPERK 20W kit uses an A+ monocrystalline panel with low-iron tempered glass and a 10A MPPT-style smart controller listed with three-stage charging. The mount rotates 360 degrees, and the kit includes an alligator clip.\n\nIt is the cheapest here by a wide margin and the one aimed at maintaining a battery rather than refilling one. Against the DOKIO it is a fixed trickle charger and not a suitcase panel.\n\nIt suits boat, car and trailer owners who want to hold a 12V LiFePO4, lithium or lead battery topped up. The listing names a lifespan up to 25 years.",
     "specs": [
       "20W, monocrystalline A+",

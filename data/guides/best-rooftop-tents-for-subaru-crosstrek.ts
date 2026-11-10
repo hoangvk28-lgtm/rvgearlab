@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/513QdPDvCjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HHD9DRQC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HHD9DRQC?tag=rvgearlab-amz-20",
     "description": "The AvaaHazerl is an aluminum hard shell built for SUV, truck, Jeep and van roof racks, with a lightweight shell and compact folded profile. Stainless steel gas struts lift it, and a recessed pad plus a moisture layer protect the mattress.\n\nIt is the cheapest of the four and the one that stresses a compact profile. Against the ARCTWONDER and JOYINRUTE it states fewer measurements.\n\nIt suits Crosstrek owners who want the lightest and cheapest hard shell. Polyester fabric is rated for light snow.",
     "specs": [
       "Aluminum, stainless struts",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41HQFL6DYJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GVJ5NVWN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GVJ5NVWN?tag=rvgearlab-amz-20",
     "description": "The ARCTWONDER is a triangle-structure hard shell with aluminum plates and corners, a removable winter thermal layer and air pressure rods that pop it up in 10 seconds. It includes a 6 cm mattress, two luggage poles and a long LED light.\n\nIt lists wind resistance up to level 7 and widened eaves for rain cover. It costs about the same as the JOYINRUTE and gives a fuller accessory set.\n\nIt suits Crosstrek owners who want an easy two-step close. The closing height keeps the profile low.",
     "specs": [
       "Pops open in 10 seconds",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51RakULc07L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DM5SNPPC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DM5SNPPC?tag=rvgearlab-amz-20",
     "description": "The JOYINRUTE is an aluminum hard shell with a removable winter thermal liner, 320G blackout polyester, 5000mm water resistance and four hydraulic support rods. It has four windows and a flocked-lining floor.\n\nIt matches the ARCTWONDER on winter use and lists a clear waterproof number. The Nebula XL is stronger and much more expensive.\n\nIt suits Crosstrek campers who want a winter-ready shell at a middle price. The flocked floor keeps the mattress drier.",
     "specs": [
       "5000mm, wind grade 6",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41vEJ37AM-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DQPZKMNS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DQPZKMNS?tag=rvgearlab-amz-20",
     "description": "The TOPOAK Nebula XL stands out on weather, with 10,000mm waterproofing, a 420D oxford rainfly and a 2 inch memory foam mattress. An X-frame expands the sleeping space by 50 percent. It uses Stabilus gas springs with a lifetime assurance.\n\nIt lists the best waterproof number of the four and a premium mattress. It costs far more than the AvaaHazerl.\n\nIt suits Crosstrek campers who face heavy storms and have a strong rack. The velvet-covered foam adds comfort.",
     "specs": [
       "10,000mm waterproof rating",

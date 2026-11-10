@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41nzvzxs5eL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DNHLHMT1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DNHLHMT1?tag=rvgearlab-amz-20",
     "description": "The Qualencey is a 5 to 5.2 foot bed tent with Tacoma in its title and Frontier, Ranger and Colorado in its fits. It uses 210D oxford with PU5000mm, stands 67 inches tall and includes an awning.\n\nIt is the only open-bed Tacoma pick, with the highest coating number. Against the Dipurman it uses poles and adds a floor and standing headroom.\n\nIt suits Tacoma owners with no cap who want a waterproof tent at a low price. Fiberglass poles and screened doors do the job in wind and bugs.",
     "specs": [
       "PU5000mm oxford",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410PIaiRpWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GT8D2GFR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GT8D2GFR?tag=rvgearlab-amz-20",
     "description": "The Dipurman is a pole-free tent for full-size trucks with caps and lists Tacoma 2005 and later. It uses 600D waterproof Oxford, shock cords with coated hooks and two mesh air vents, and fits tailgates of 58 inches.\n\nWhere the Qualencey needs an open bed, this attaches to the topper opening. It is also quicker to raise.\n\nIt suits Tacoma owners with a camper shell who want fast setup. Two door panels roll up or pull down for privacy.",
     "specs": [
       "600D Oxford, no poles",

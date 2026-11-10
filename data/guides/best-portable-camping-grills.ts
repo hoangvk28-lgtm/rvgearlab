@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31v3btxhdhL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07BLH19MX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07BLH19MX?tag=rvgearlab-amz-20",
     "description": "Coleman RoadTrip 285 is a stand-up propane grill with three adjustable burners, up to 20,000 total BTUs and 285 square inches of grilling area. Instastart ignition lights it without matches.\n\nIt has the most cooking space and burner control of any pick here, and the stand-up legs mean no table is required. It is the one that feels like a full backyard grill at camp.\n\nFamilies camping from a car will like how many burgers fit at once. The wheeled stand makes setup quick.",
     "specs": [
       "285 sq in, 3 burners",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41wLtAyLekL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7VBMHXQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7VBMHXQ?tag=rvgearlab-amz-20",
     "description": "Royal Gourmet PD1305H is a 3-burner propane tabletop that combines grill and griddle surfaces in a 364 square inch combined cooking area. A lid is included.\n\nThe griddle side handles eggs, pancakes and smash burgers that grates cannot, which sets it apart from the Coleman and Megamaster. It is also priced well below the Coleman.\n\nBreakfast-and-dinner cooks who want both surfaces will love the versatility. It sits on a picnic table.",
     "specs": [
       "364 sq in grill and griddle",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41dF7j49N+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07P8QXMH3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07P8QXMH3?tag=rvgearlab-amz-20",
     "description": "Megamaster is a stainless steel tabletop gas grill with two burners totaling 16,000 BTUs. Foldable legs and a locking lid make it easy to transport and store.\n\nIt is more compact than the Royal Gourmet and keeps stainless steel construction for rust resistance. The locking lid keeps it closed on the road.\n\nCouples and small groups will find it the right size for car camping or a tailgate. Foldable legs mean it stows in a gear bin.",
     "specs": [
       "16,000 BTU, 2 burners",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31tA6QBVsTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00004TBJ4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00004TBJ4?tag=rvgearlab-amz-20",
     "description": "Char-Broil Portable Convective is a 1-burner propane grill with porcelain-coated grates and 190 square inches of cooking space. It measures 15 inches high, 24.1 wide and 12.3 deep.\n\nThe porcelain grates resist rust and clean easily, and the single burner keeps it simple compared with the multi-burner picks. It costs far less than the Coleman.\n\nSolo campers and couples who want a quick propane grill will appreciate how easy it is. Propane keeps cleanup minimal.",
     "specs": [
       "190 sq in cooking space",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hmG6HQrVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00B58A0QU?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00B58A0QU?tag=rvgearlab-amz-20",
     "description": "Cuisinart is a 14 inch tabletop charcoal grill with a 196 square inch chrome-plated grate. It weighs 4 lbs, has dual adjustable vents and a locking lid.\n\nIt is light enough for a hike-in site, which the propane grills are not, and the vents give real temperature control for low and slow or high heat. The locking lid doubles as a carry latch.\n\nHikers, beach goers and tailgaters will find it the best balance of weight and grill space. A locking lid keeps ash inside while it travels.",
     "specs": [
       "14 inch, 196 sq in grate",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41lp1xJHheL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F8LCV9R6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F8LCV9R6?tag=rvgearlab-amz-20",
     "description": "GasOne 15 inch grill folds flat for travel and is built with heavy-duty construction. It suits camping, bonfires and patio use.\n\nIt is the lowest-priced pick and folds smaller than the Cuisinart. It works as a fire pit grill over a ring.\n\nBudget campers and bonfire cooks will like how little it asks for. It folds down to fit behind a seat.",
     "specs": [
       "15 inch foldable charcoal grill",

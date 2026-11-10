@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51odzuo7HmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BLVT2Y9N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BLVT2Y9N?tag=rvgearlab-amz-20",
     "description": "The Blukar offers 8 lighting modes with stepless dimming, COB and XPG LEDs, red and red-strobe settings, a motion sensor and a 1,200mAh battery that charges over USB-C. It carries an IPX5 rating and has a removable, washable, breathable headband.\n\nIts stepless dimming and red modes make it easier on tent mates than the two-mode ODEAR. The washable band beats the sponge pads on the LHKNL pair for sweaty summer nights.\n\nIt suits campers who want a flood for cooking, a red mode for the tent and rain protection. The listing names night fishing, dog walking and car repair among its uses.",
     "specs": [
       "8 modes, stepless dimming",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/512S1rQoalL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B096M2M91S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B096M2M91S?tag=rvgearlab-amz-20",
     "description": "The GearLight S500 comes as a pair of 1.8 ounce lamps (3 ounces with batteries) with 7 lighting modes, a 45 degree pivoting head, a removable washable headband and a USB-C cable included. The listing calls it water resistant and drop tested, suitable for rain and snow.\n\nIt gives two lamps for a modest price, where the Blukar is a single lamp. Both lamps ship with rechargeable batteries and a manual.\n\nIt suits couples and families who want matching lamps for the tent and the cookstove. The weight is stated, which helps for kids.",
     "specs": [
       "Pair of 1.8 oz lamps",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51AJv25RQwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08D6BHP9H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08D6BHP9H?tag=rvgearlab-amz-20",
     "description": "The LHKNL 2-pack weighs 1.76 ounces per lamp and offers 8 modes, a motion sensor and a long press that shuts it off from any mode. The head rotates 60 degrees and locks in place, and the shell carries an IPX4 rating.\n\nIts price is under every other pick, and at 1.76 ounces it is a hair lighter than the GearLight S500's 1.8. It does not list the stepless dimming of the Blukar.\n\nIt suits budget campers who want a spare lamp in the car. The long press saves cycling through modes in the dark.",
     "specs": [
       "1.76 oz each, 8 modes",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41za2rSGhSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B06XRF146C?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B06XRF146C?tag=rvgearlab-amz-20",
     "description": "The ODEAR is a large rechargeable spotlight headlamp with a listed beam of up to 2,600 feet (800 meters), a 0 to 90 degree adjustable angle and two modes, high and low. A built-in battery gives 8 hours of continuous light on strong mode and the lamp can sit on the ground as a work light.\n\nIts listed beam reaches far beyond the other three, and its two modes keep it simpler than the Blukar. It also costs the most of the four.\n\nIt suits hunters, boaters and campers who need to scan a field or the water. The elastic headband keeps the big head steady.",
     "specs": [
       "Up to 2,600 ft beam",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31EB5+tw7UL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FNMDXP2S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FNMDXP2S?tag=rvgearlab-amz-20",
     "description": "The Onewind 10 by 10 foot tarp is made from 1.1 ounce 20D silnylon rated at 4000 mm, and weighs 740 g (1.63 lb). It packs to about 3.5 by 11 inches and has 16 side and 3 ridgeline tie-outs, seam-sealed.\n\nIt has the highest waterproof rating in this group and ships with 4 aluminum stakes, 4 guyline tensioners and 6 reflective guylines. Compared with the 12 by 10 Onewind hammock tarp, it is more square and 0.17 pounds lighter.\n\nIt is the best all-round choice for a backpacker who wants a flexible tarp shelter for ground sleeping or hammock use. The listing names bushcraft and mesh inner tent setups too.",
     "specs": [
       "1.1 oz silnylon, 4000 mm",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41KcJVGFhJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B087BL2S4Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B087BL2S4Y?tag=rvgearlab-amz-20",
     "description": "The Onewind 12 by 10 foot hammock tarp is 1.1 ounce 20D ripstop silnylon and weighs 1.8 pounds. Doors on the tarp, 4 aluminum stakes and a no-knot setup system come included.\n\nAgainst the 10 by 10 Onewind, it adds two feet of length and doors to close the ends. Against the NoCry and Wise Owl, it adds built-in doors and a no-knot pitch system.\n\nIt suits hammock campers who want end-door protection from wind-driven rain and need a four-season tarp. The ripstop silnylon keeps the 12 foot length at a manageable weight.",
     "specs": [
       "12 x 10 ft ripstop silnylon",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/415gx-6wsoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B073GQXMM9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B073GQXMM9?tag=rvgearlab-amz-20",
     "description": "The Wise Owl hammock rain fly uses PU-coated nylon rated 3000 mm, with taped seams, and weighs 26 ounces. It ships with six 10 foot guy lines, aluminum stakes, a stake pouch and a waterproof carry bag.\n\nAt 26 ounces it weighs about the same as the Onewind 10 by 10. It carries a lower waterproof rating and a cheaper price tag.\n\nIt suits hammock campers and weekend hikers who want a tarp and all accessories in one bag. The waterproof carry bag and stake pouch keep the kit tidy.",
     "specs": [
       "Ripstop nylon, 3000 mm, 26 oz",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/415kfi2cUVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07V4F2MTH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07V4F2MTH?tag=rvgearlab-amz-20",
     "description": "The NoCry rain fly is 12 by 10 feet in 210T polyester with a TPU coating and Diamond Ripstop. It weighs 1.65 pounds, and the kit adds 6 aluminum stakes with reflective paracord, 6 carabiners and 7 adjustable ropes.\n\nIt is about 0.15 pounds lighter than the Onewind 12 by 10 and sells for much less. Its reflective paracord ties make stakes visible at night.\n\nIt suits hammock campers and survival shelters where the kit includes carabiners and a rope bag. The listing also stresses full UV protection for shade.",
     "specs": [
       "12 x 10 ft, 1.65 lb",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Ktw5rOJLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CGWRCVSB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CGWRCVSB?tag=rvgearlab-amz-20",
     "description": "The Clostnature tarp is made of 210D Oxford with a PU3000 coating and sealed seams, unfolding to 120 by 115 inches. It has 8 guyline points, 6 stakes and 6 guylines, and a one-year guarantee.\n\nIt is the lowest priced tarp here and carries a PU3000 rating. It uses a heavier 210D Oxford than the silnylon of the Onewind tarps, which makes it a better fit for car camping than ultralight packs.\n\nIt suits casual campers who want a hammock fly or a ground tarp at a low price. The center ridge fold makes setup simple.",
     "specs": [
       "210D Oxford, PU3000",

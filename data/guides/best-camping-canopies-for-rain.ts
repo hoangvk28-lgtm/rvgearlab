@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41DKFjmDGLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HG9GQL7C?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HG9GQL7C?tag=rvgearlab-amz-20",
     "description": "The HOEYITO 14.5 by 11 ft tarp canopy uses 210D Oxford fabric with a PU9000mm waterproof rating and a 99.99 percent UV block claim. It comes with two poles and a dual retainer that locks onto sand, gravel and lawn, fits 6 to 8 campers and weighs 8.9 lbs.\n\nAgainst the bigger HOEYITO it has a higher PU rating and costs less. Compared with the SANWAY pop-up it offers a bigger covered area and a lighter pack.\n\nIt suits campers who want the highest water rating here. The packed size is 17.3 by 6.3 by 4.72 inches.",
     "specs": [
       "14.5 x 11 ft, PU9000mm",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41mYo07s23L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HDYWPH4N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HDYWPH4N?tag=rvgearlab-amz-20",
     "description": "The HOEYITO 15 by 12.5 ft tarp canopy uses 210D Oxford with a PU8000mm rating and seam-taped construction. Two retainers anchor it on sand, gravel and soft ground, and it covers 8 to 10 people.\n\nIt is slightly larger than the 14.5 ft model and costs a little more. Against the pop-up SANWAY, it covers more ground per dollar.\n\nIt suits groups that want one big covered area for a rainy afternoon. UPF100+ sun shade is listed too.",
     "specs": [
       "15 x 12.5 ft, PU8000mm",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31sTDa5GbaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GS4ZGF94?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GS4ZGF94?tag=rvgearlab-amz-20",
     "description": "The SANWAY 10x10 canopy is a one-push, pre-assembled model with a flame-retardant, silver-coated top that blocks 99 percent of UV and provides waterproof protection. The extended high-peak roof sheds rain quickly, and legs adjust from 5.8 to 8.9 ft with three height options.\n\nIt is the only one-push frame in this list and sets up in seconds. Against the tarp canopies it has a steel truss, foot pads and four sandbags.\n\nIt suits campers who want a fast pop-up that sheds rain. It seats up to 10 people on 100 sq ft.",
     "specs": [
       "10x10 ft one-push steel",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41OeCRV7mLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GSR3J2HJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GSR3J2HJ?tag=rvgearlab-amz-20",
     "description": "The PAHTTO 15 by 10 ft camping canopy weighs only 5.6 lbs and uses high-density Oxford fabric with a silver-coated inner layer. Poles adjust from 16.5 to 90 inches, foot pads add stability and the guyline-free structure avoids tangled ropes.\n\nIt is the lightest covered canopy here, and it costs less than the HOEYITO tarps. Against the SANWAY it lacks a steel frame.\n\nIt suits campers who want light rain cover that sets up fast. The kit includes 8 glow-in-the-dark stakes.",
     "specs": [
       "15 x 10 ft, 5.6 lbs",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41uph+bb88L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GXQW58C9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GXQW58C9?tag=rvgearlab-amz-20",
     "description": "The jijingtansuo tarp is 14.7 by 11.1 ft with upgraded polyester Oxford and a thick silver PU coating. Reinforced triangular corner patches, double-stitched edges, 2.3 m aluminum poles and 8 wind ropes are listed.\n\nIt costs the least of the pole-style canopies and covers 8 to 12 people. Against the PAHTTO it has stronger corners and a larger area.\n\nIt suits budget campers who need a big rain cover with heavy-duty corners. A storage bag is included.",
     "specs": [
       "14.7 x 11.1 ft, PU coating",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41EM7nhQa7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07C3PWWX7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07C3PWWX7?tag=rvgearlab-amz-20",
     "description": "The Gold Armour Rainfly is a waterproof ultralight tarp rated to 5,000mm with 2 centerlines and 33 tie-down points. Stakes, ropes and tensioners are included, and the tarp comes in sizes from 8 ft to 14 ft.\n\nIt is the least expensive and lightest shelter here. Against the other tarps it is a hammock rain fly, not a family canopy.\n\nIt suits hikers and hammock campers who want a rated, compact rain cover. A 33-point anchoring system gives many pitch options.",
     "specs": [
       "5,000mm waterproof rating",

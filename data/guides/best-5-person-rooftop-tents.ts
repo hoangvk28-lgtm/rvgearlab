@@ -32,7 +32,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411Yz68lLnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H2GHG4PV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H2GHG4PV?tag=rvgearlab-amz-20",
     "description": "The Kermode Basecamp 190 is a soft shell rooftop tent sold as 4 to 5 person, and the listing describes it as a three-season design for spring, summer and autumn. At $1,566.75 it is the more affordable option by a wide margin, and it sleeps up to five.\n\nCompared with the hard shell BVWBCR, it costs roughly a quarter as much and carries a four-to-five capacity, so the price per sleeper is far lower. A soft shell also folds flatter against the roof when closed, which helps keep the tent profile lower while driving than a tall hard shell.\n\nIt is the pick for families who camp from spring through autumn and want the most sleepers for the money, and for owners who want a rooftop platform without a five-figure budget.",
     "specs": [
       "Soft shell, 4 to 5 person",
@@ -62,7 +62,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/418J7Uz282L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GHYXBDST?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GHYXBDST?tag=rvgearlab-amz-20",
     "description": "The BVWBCR is a side-open hard shell titled 5 person and described as four-season, with ABS panels on an aluminum frame and a built-in air conditioner duct hole. The listing describes a heavy-duty family design, and it costs $5,810.00.\n\nIt is the only four-season option in this comparison, which makes it a different tool from the soft shell: the hard panels shed snow and wind better than fabric, and the duct hole lets you run a portable air conditioner into the tent in hot weather. The side-open layout also eases entry from the side of a vehicle.\n\nIt is the pick for families who camp year-round, want a hard shell and have the roof capacity to carry a heavy tent, and who value four-season use above the lowest price.",
     "specs": [
       "Side-open hard shell, 5 person",

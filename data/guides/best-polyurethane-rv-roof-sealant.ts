@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51rYdoPRb-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DJWV8PBR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DJWV8PBR?tag=rvgearlab-amz-20",
     "description": "FORTIVO Professional Automotive Seam Sealer is a paintable, quick-set polyurethane in a black 2 pack. The listing says it bonds to primed, painted or bare metal, is ready for paint in 30 minutes and uses a standard urethane caulk gun.\n\nAgainst FORTIVO Single, it adds a second tube. Against Dicor 551LSW, it names polyurethane while Dicor is a roof lap sealant.\n\nIt is the best match for owners who want a polyurethane seam sealer for metal panel seams, not a roof membrane. It earns its slot for metal seam repairs.",
     "specs": [
       "Quick-set polyurethane, 2 pack",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41CSSWLKzxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DJWT5T9Z?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DJWT5T9Z?tag=rvgearlab-amz-20",
     "description": "FORTIVO Single is the same black paintable polyurethane automotive seam sealer sold as one tube. It bonds to bare, primed or painted metal and works with a standard urethane caulk gun.\n\nAgainst FORTIVO 2 Pack, it is cheaper for one repair. Against SENVEN Kit, it is a seam sealer, not a roof coating kit.\n\nIt suits a one-off metal seam fix. It is a natural fit for one-off seam fixes.",
     "specs": [
       "Quick-set polyurethane tube",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ahatSjeML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B003YJLIW8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B003YJLIW8?tag=rvgearlab-amz-20",
     "description": "Dicor 551LSW-1 is a 10.3 ounce white non-leveling lap sealant made for roof edges, air vents, vent pipes and screw heads. The listing says it is formulated for EPDM and compatible with DiFlex II, Tufflex, PVC and PriTEK TPO.\n\nAgainst FORTIVO 2 Pack, it is made for RV roof edges rather than automotive seams. Against RVGUARD 4 Pack, it is non-leveling, not self-leveling.\n\nIt is a strong fit for vertical roof edges and screw heads, though it does not name polyurethane. Think of it as the pick for roof edge sealing.",
     "specs": [
       "10.3 oz white non-leveling",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/61nVxOS9IaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H28X3HZC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H28X3HZC?tag=rvgearlab-amz-20",
     "description": "SENVEN is a 1 gallon roof coating plus self-leveling lap sealant kit. The listing says the system works with EPDM, TPO, fiberglass and aluminum roofs and uses 1 gallon per 50 square feet.\n\nAgainst RVGUARD 4 Pack, it adds a gallon of coating to the sealant. Against Dicor 551LSW, it is mostly for flat areas.\n\nIt suits owners who want a coating and lap sealant in one order. Buyers focused on coating plus sealant will find it a sensible match.",
     "specs": [
       "Gallon coating plus lap sealant",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/518bnBDmSEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G3PFS3QT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G3PFS3QT?tag=rvgearlab-amz-20",
     "description": "RVGUARD is a 4 pack of 10.3 ounce self-leveling roof sealant tubes. The listing says it stays stable from -40 to 90 degrees F and seals roof edges, air vents and more, and works with EPDM, TPO, vinyl, aluminum and metal.\n\nAgainst PAULINN Self-Leveling, it gives four tubes. Against Dicor 551LSW, it is for horizontal surfaces only.\n\nIt suits flat roof laps where you need several tubes. It earns its slot for flat roof laps.",
     "specs": [
       "4 pack, 10.3 oz tubes",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51vWMHmxcZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09DCTBPCK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09DCTBPCK?tag=rvgearlab-amz-20",
     "description": "PAULINN Self Leveling Lap Sealant is a white single-tube sealant that the listing says sets within 30 minutes and fully cures in 24 hours. It is described as odorless, non-toxic and usable on flat roofs, windows and sinks.\n\nAgainst RVGUARD 4 Pack, it is one tube with a stated cure schedule. Against Dicor 551LSW, it is self-leveling.\n\nIt suits small flat repairs with a quick set. It is a natural fit for small flat repairs.",
     "specs": [
       "Self-leveling, white",

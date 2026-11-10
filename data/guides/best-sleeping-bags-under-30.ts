@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31UF8unBJoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GRV98B9V?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GRV98B9V?tag=rvgearlab-amz-20",
     "description": "The BORULL measures 87 by 34 inches and uses 300GSM one-piece synthetic fill rated for 40 to 65F, with limits of 30F and 70F. It has a draft collar, an insulated zipper guard, a two-way zipper and an adjustable half-circle hood.\n\nIt sits near the top of the budget and is the only bag here with both a draft collar and a zipper guard, which are the parts that stop cold air at the neck and along the zipper. The cheaper TANSTRIDER has a collar with no zipper guard, and the NewDoar ultralight packs smaller with less insulation.\n\nIt suits car campers and trailhead camping from spring to fall who want a roomy 3-season bag at a low price. Adults up to roughly 6 feet 4 inches fit inside.",
     "specs": [
       "87 x 34 inch cut",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/314Ru2qiU-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08FHP7QMR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08FHP7QMR?tag=rvgearlab-amz-20",
     "description": "The ECOOPRO envelope bag runs 83 inches long and 30 wide, with a nylon waterproof shell over a polyester lining. It packs into a compression sack and works with a liner in warm weather.\n\nIt is the only bag on the list sold specifically as a warm-weather bag, and it costs the most of the five, with a nylon shell that wipes clean after a damp night. The BORULL is roomier and has a draft collar, while the ECOOPRO has a trimmer 83 inch length.\n\nIt suits summer camping, Scouts and sleepovers where the temperature stays well above 50F. Add a liner if the night turns cool.",
     "specs": [
       "83 x 30 inch envelope bag",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51TnRkxW-6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B077XQDZW4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B077XQDZW4?tag=rvgearlab-amz-20",
     "description": "The MalloMe carries a 50 to 77F temperature range and weighs about 3 lb. It fits an adult up to 6 feet, with a waterproof outer shell that wipes clean and a liner that is machine washable.\n\nIt is a good value near the bottom of the price range and weighs more than the NewDoar ultralight. The wipe-clean shell and washable liner make it easier to keep fresh than a plain polyester bag.\n\nIt suits families who share one bag between trips and need something that goes in the washing machine. It is rated for warm weather only.",
     "specs": [
       "About 3 lb, fits to 6 ft",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ITLrJK8JL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F83BP6VQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F83BP6VQ?tag=rvgearlab-amz-20",
     "description": "The NewDoar weighs 1.5 lb and packs to an 11.8 by 6.5 inch bundle. It has a 380T ripstop nylon shell, a heavy-duty compression sack and two-way zippers, and it is rated for 50 to 70F.\n\nOf the five, this is the lightest and smallest bundle, which is why it costs a few dollars more than the heaviest bags. The two-way zippers let two bags join into a double, a feature the BORULL and ECOOPRO do not offer.\n\nIt suits backpackers and summer hikers who count ounces and sleep in warm weather. It comes in a medium size only.",
     "specs": [
       "1.5 lb, 11.8 x 6.5 inch pack",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41imdQSdq+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FQ4ZBCYC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FQ4ZBCYC?tag=rvgearlab-amz-20",
     "description": "The TANSTRIDER is 31.5 inches wide and 86.6 long, and it lists a comfort range of 55 to 60F with a recommended limit of 40F. It has a draft collar with drawstrings, separate foot zippers, a water-resistant shell and a compression sack.\n\nIt is one of the two cheapest bags here and gives a roomy cut and a draft collar that the lowest-priced bags often skip. The separate foot zippers let you vent your feet without opening the whole bag, a convenience the pricier bags here do not offer.\n\nIt suits campers on a tight budget who want an adult-sized bag for summer and early fall. Sleepers to about 6 feet 1 inch fit comfortably.",
     "specs": [
       "31.5 x 86.6 inch cut",

@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31CL-L4q20L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BGYXHZ72?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BGYXHZ72?tag=rvgearlab-amz-20",
     "description": "The Dometic FreshJet 3 is 13,500 BTU, 14 percent lighter than Brisk II models and backwards-compatible with existing air distribution boxes. The Dometic FreshJet 3 is a 13,500 BTU rooftop unit that the listing says has higher cooling capacity and airflow than competitors.\n\nNext to the Coleman units it lists higher airflow and a lighter body, at a price about 65 dollars higher than the Mach 3+. It slots into an existing ADB.\n\nIt is 14 percent lighter than Dometic Brisk II models and is backwards-compatible with existing air distribution boxes. It suits owners replacing an older Dometic or similar unit.",
     "specs": [
       "13,500 BTU rooftop unit",
@@ -53,7 +53,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31o5i0qlSQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F2N9Z7F5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F2N9Z7F5?tag=rvgearlab-amz-20",
     "description": "The Coleman-Mach 3 Plus is a 13,500 BTU top and down mount unit with a 320 CFM, 1/3 hp fan motor. The Coleman-Mach 3 Plus is a 13,500 BTU top and down mount unit with a 1/3 hp fan motor moving 320 CFM.\n\nIt gives the clearest airflow figure here and fits 14 by 14 inch vents. It costs about the same as the Dometic.\n\nLarge evaporator and condenser coils help dissipate heat, and it fits 14 by 14 inch vent openings. It suits owners who want a classic, widely used unit.",
     "specs": [
       "13,500 BTU, 320 CFM",
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31l1p3P+izL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00KPQWHX2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00KPQWHX2?tag=rvgearlab-amz-20",
     "description": "The Coleman Mach 3+ 48203C966 lists 13,500 BTU cool and heat capacity with a 5,600 BTU electric heat element on 115 VAC. The Coleman Mach 3+ 48203C966 lists 13,500 BTU cool and heat capacity with a 5,600 BTU electric heat element on 115 VAC at 60Hz.\n\nIt is the only pick here that states a heat element, and it costs about 65 dollars less than the Mach 3 Plus. Heat is electric strip, not a heat pump.\n\nThe listing is spec-focused and shows both cooling and heat capacity. It suits owners who want warmth from the same unit.",
     "specs": [
       "13,500 BTU cool/heat",
@@ -107,7 +107,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41LdKJ+FnNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DYJFMQBH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DYJFMQBH?tag=rvgearlab-amz-20",
     "description": "The VEVOR is a 13,500 BTU non-ducted unit with 3,956W power output and an air distribution box included. The VEVOR is a 13,500 BTU non-ducted rooftop unit with 3,956W power output, R32 refrigerant and three modes.\n\nIt is the least expensive option here and ships complete with an operation panel and parts. It lists 65 dB.\n\nIt includes an air distribution box and an operation panel, and fits a standard 14.25 by 14.25 inch roof opening. It suits budget buyers replacing a non-ducted unit.",
     "specs": [
       "13,500 BTU non-ducted",
@@ -134,7 +134,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41D6ubi4FPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08QSMPPK1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08QSMPPK1?tag=rvgearlab-amz-20",
     "description": "The RecPro 13.5K is a ducted, cooling-only unit with a low amp draw and 59.7 dB operation. The RecPro 13.5K is a ducted, cooling-only rooftop unit with a low amp draw and 59.7 dB operation.\n\nIt lets more appliances run at once than higher-draw units. It costs about 70 dollars more than the Mach 3 Plus.\n\nUV-resistant plastic and a sleek profile help it handle the road. It suits owners with a ducted rig and limited power.",
     "specs": [
       "13,500 BTU ducted",
@@ -161,7 +161,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31tmgxYWQsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GJ7NRNV9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GJ7NRNV9?tag=rvgearlab-amz-20",
     "description": "The Coleman-Mach Mach 10 Signature Series is low profile and uses R32 refrigerant. The Coleman-Mach Mach 10 Signature Series is a low-profile rooftop unit that uses R32 refrigerant.\n\nIts lower height means less drag and more clearance than the Mach 3+ lines. It is the highest priced of the six.\n\nIts low height means less drag, better fuel efficiency and more clearance on fifth wheels and taller rigs. It suits fifth wheels and taller rigs.",
     "specs": [
       "Low-profile rooftop unit",

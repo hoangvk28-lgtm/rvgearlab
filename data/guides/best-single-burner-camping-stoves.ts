@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31LySLQ7LBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09HN31PCH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09HN31PCH?tag=rvgearlab-amz-20",
     "description": "The Coleman Cascade 18 is an 8,000 BTU propane cooktop that fits a 12 inch pan. A rotary igniter, a flip-over grate and an aluminized steel top come with it, and the burner works with an optional grill or griddle accessory.\n\nRuntime is up to 2.5 hours on high from one 16 oz propane cylinder, well beyond a butane cartridge. It costs the most of the group and is the only one that handles a 12 inch pan.\n\nA classic for couples who cook with a full-size skillet at the campsite. A regulator stores on top of the stove.",
     "specs": [
       "8,000 BTU propane",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/316vjyh7SnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09HMZH8Z6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09HMZH8Z6?tag=rvgearlab-amz-20",
     "description": "The Coleman Classic 1-Burner uses 8.8 oz butane cylinders for 7,650 BTU, with Instastart ignition and a wind baffle. A large base and a porcelain-coated removable grate fit a 10 inch pan.\n\nIt trades the long propane runtime of the Cascade 18 for a smaller, lighter cooker that comes in a carry case. A cylinder lasts up to 1.25 hours on high.\n\nRight for picnics, roadside lunches and casual camps in mild weather. The grate lifts out for cleaning.",
     "specs": [
       "7,650 BTU butane",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51HnBG25+wL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H5881DKX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H5881DKX?tag=rvgearlab-amz-20",
     "description": "The JoChef has a brass single burner, a windshield, a hard shell carrying case and a three-year warranty. The listing says it is CSA certified with a safety lock, a pressure sensor that cuts the flame and a gas leakage guard.\n\nBeside the Coleman Classic it lists CSA certification and a longer warranty, with a reinforced frame for pans up to 10 inches wide. At 3.1 pounds it is no backpacking stove, and the listing gives no BTU number.\n\nA sound choice for families who want a certified, protected butane stove. It runs on butane.",
     "specs": [
       "Brass burner, windshield",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/310zJ+RVtBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08WTNVPB7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08WTNVPB7?tag=rvgearlab-amz-20",
     "description": "The Gas One Butane Stove is a 7,650 BTU single burner for 8 oz butane canisters. Its listing claims CSA approval, piezo ignition, safety shut-off and an ejection feature that triggers at 0.7 kilogram force.\n\nIt costs much less than the Coleman Classic and has the same BTU, with a carrying case and manual. It lists no wind baffle.\n\nA good backup stove or a tailgate cooker for casual use. Quiet burn, outdoor only.",
     "specs": [
       "7,650 BTU butane burner",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41PHUHg9-WL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0009PUR5E?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0009PUR5E?tag=rvgearlab-amz-20",
     "description": "The Coleman Bottletop sits directly on a 16.4 ounce propane cylinder, with a regulator, wind baffles and an adjustable burner for an 8 inch pan. It lists up to 10,000 total BTU and up to 2.5 hours of runtime.\n\nThe burner and base separate from the cylinder, so it stores smaller than the Cascade 18. It handles a smaller pan.\n\nA tidy pick for camps with a small skillet and a love for propane. A three-year limited warranty comes with it.",
     "specs": [
       "Up to 10,000 BTU propane",

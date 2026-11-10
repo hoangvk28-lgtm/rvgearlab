@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Ja7YiNicL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D3WW1CSQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D3WW1CSQ?tag=rvgearlab-amz-20",
     "description": "The WEN DF480iX is a 224cc dual-fuel inverter generator rated at 4,000 watts on gasoline with a 4,800 watt surge, and on propane it still lists 4,000 rated watts with a 4,320 watt surge. That flat rating across both fuels is unusual in this price class. It has a TT-30R RV receptacle, four three-prong 120V receptacles, a 12V DC outlet, two USB ports, wheels and a telescoping handle, and the WEN Watchdog sensor shuts it down if carbon monoxide builds up.\n\nIt costs $647, which is $151 less than the WEN DF680iX and $7.01 more than the Champion 4000. Against the Champion it adds 1,000 more rated watts (4,000 versus 3,000 running) and dual-fuel flexibility, but it does not list a decibel figure, only a comparison to normal conversation. Against the budget picks it is $248 more than the Westinghouse 4650 ($647 versus $399) and delivers 400 more rated watts on gasoline.\n\nPick this if one rooftop air conditioner plus other trailer loads is your normal summer scenario and you want the same output whether you run gas or a propane tank. The caveat is that only 3,600 of those 4,000 watts can leave through the TT-30 plug, so the remainder is reachable only through the 20A outlets, and the listing does not publish weight.",
     "specs": [
       "4,000 rated watts, both fuels",
@@ -55,7 +55,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41i49zsHhPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D6PM5XN1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D6PM5XN1?tag=rvgearlab-amz-20",
     "description": "The Champion 4000 is a gasoline inverter generator with 4,000 starting watts and 3,000 running watts, weighing under 49 pounds, with a listed noise level of 64 dBA from 23 feet and up to 10 hours of runtime. Its panel has a 120V TT-30R outlet, a 120V 20A household outlet with less than 3 percent total harmonic distortion, a 12V automotive-style outlet and parallel outlets. CO Shield shuts the engine off when carbon monoxide builds up.\n\nAt $639.99 it is $7.01 under the WEN DF480iX, but it runs on gasoline only and its 3,000 running watts are 1,000 fewer than the WEN's rated figure. Against the EFURDEN 4300 it is $250 more ($639.99 versus $389.99) and the EFURDEN lists 300 more running watts, so the Champion's premium is paid for lower weight, a published noise figure, the three-year warranty and the optional parallel kit, not for output.\n\nPick this if you carry the generator in and out of a truck bed yourself and expect to run a single rooftop air conditioner with modest other loads. The caveat is that 3,000 running watts leave little room for a second large appliance, and the parallel kit that doubles output is sold separately.",
     "specs": [
       "3,000 running watts",
@@ -84,7 +84,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/413AI-l4XIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DVF1RPCJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DVF1RPCJ?tag=rvgearlab-amz-20",
     "description": "The WEN DF680iX is a 224cc dual-fuel inverter generator with 6,800 surge watts and 5,100 rated watts on gasoline, and 6,000 surge and 4,500 rated on propane. It has a TT-30R RV receptacle, an L14-30R 120V/240V receptacle, two three-prong 120V receptacles and a 12V outlet. The listing describes a bonded-neutral 240V configuration that can also give low-power Level 2 charging to an electric vehicle, and it includes the CO Watchdog sensor.\n\nIt is the most expensive pick at $798, which is $151 above the WEN DF480iX and $158.01 above the Champion 4000. For that it delivers 1,100 more rated watts than the DF480iX on gasoline (5,100 versus 4,000), and unlike the others it offers a 240V receptacle. It still sends at most 3,600W through the TT-30, so the extra capacity is only useful if you spread loads across the other outlets or a transfer-switch connection.\n\nPick this if you run two air conditioners, a 50 amp trailer through an adapter, or want the generator to double as home backup with the 240V outlet. The caveat is that the listing does not publish weight, and the bonded neutral configuration should be checked against your RV's surge protector before connecting.",
     "specs": [
       "5,100 rated watts on gasoline",
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51prSXmo6VL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B099KR6PTG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B099KR6PTG?tag=rvgearlab-amz-20",
     "description": "The Westinghouse 4650 is a 212cc dual-fuel generator rated at 4,650 peak watts, 3,600 rated watts on gasoline and 3,240 on propane. It has a TT-30R, an L5-30R, a 5-20R duplex outlet, a 4-gallon tank with a fuel gauge, and up to 14 hours of runtime per tank. The listing mentions automatic low oil and carbon monoxide shutdown, rubber outlet covers, and a 3-year limited warranty.\n\nAt $399 it is $248 below the WEN DF480iX and 400 rated watts under it on gasoline. Its listing does not describe inverter output or distortion, so it is best treated as a conventional generator, which means a Champion 4000 or WEN pick is the safer choice for sensitive electronics. Against the PowerSmart 4400 it costs $29.01 more ($399 versus $369.99) and adds a TT-30R receptacle where the PowerSmart lists only an L5-30R twist-lock.\n\nPick this if you want the lowest entry price with both fuels and a true TT-30R plug on the panel. The caveat is that it is not described as an inverter model, the weight is not stated, and a 3,240 watt propane rating is about 10 percent below the gasoline figure.",
     "specs": [
       "3,600 rated watts on gasoline",
@@ -142,7 +142,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41YcCuxXWvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GXZXX3KK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GXZXX3KK?tag=rvgearlab-amz-20",
     "description": "The EFURDEN 4300 lists 4,300 starting watts and 3,300 running watts, with less than 2 percent total harmonic distortion, a weight of 45 pounds and a size of 18.5 by 11.5 by 20 inches. It produces 60 dBA at 23 feet according to the listing and has five outputs: one AC 120V 30A port, two 120V 20A ports, a USB port and a QC 3.0 Type-C port.\n\nIt costs $389.99, which is $9.01 below the Westinghouse 4650 and $250 below the Champion 4000. It runs 5 hours at 50 percent load on a 1.1-gallon tank, shorter than the Westinghouse's 4-gallon capacity, and it does not run on propane. Against the Champion it lists 300 more running watts and a lower noise figure of 60 versus 64 dBA, and it is lighter at 45 versus under 49 pounds, with a 2-year warranty compared with the Champion's three.\n\nPick this if you need a light, quiet generator that one person can carry and you accept refueling every few hours. The caveat is that the listing does not specify the shape of the 30A port, so confirm whether it is a TT-30R or an L5-30R before buying an adapter.",
     "specs": [
       "3,300 running watts",
@@ -171,7 +171,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51ySH-k5pgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HKFMPPFX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HKFMPPFX?tag=rvgearlab-amz-20",
     "description": "The PowerSmart 4400 is a dual-fuel inverter generator rated at 4,400 starting and 3,600 running watts on gasoline, and 4,000 starting and 3,300 running watts on LPG. The gas tank holds 1.6 gallons for an 8-hour run at 25 percent load, and a standard 20-pound propane tank gives up to 24 hours at 25 percent load. Its panel has one L5-30R 120V 30A twist-lock outlet, one 5-20R duplex outlet and a 12V 8A DC port, with Eco-Mode and less than 3 percent distortion.\n\nAt $369.99 it is the cheapest pick, $20 under the EFURDEN 4300 and $29.01 under the Westinghouse 4650. It matches the Westinghouse's 3,600 gasoline rated watts and adds the inverter-grade power the Westinghouse listing does not claim, but it lacks a TT-30R receptacle, so an L5-30R to TT-30R adapter is likely needed to reach a trailer cord. Its two-year warranty is shorter than the Westinghouse's and the Champion's three.\n\nPick this if you want dual-fuel flexibility, clean power and the lowest price and are willing to buy an adapter for the RV plug. The caveat is that the listing does not state weight, noise or any CO shutdown, so verify those before relying on it near a camper.",
     "specs": [
       "3,600 running watts on gas",

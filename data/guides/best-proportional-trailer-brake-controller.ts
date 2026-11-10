@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51RQ707G7PL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CYH5QXCD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CYH5QXCD?tag=rvgearlab-amz-20",
     "description": "The FEITON 90195 is sold as a replacement for the Tekonsha P3 90195, which makes it a third-party design, not a Tekonsha product. The listing describes built-in inertia sensing, an LCD showing output, voltage and diagnostics, three boost levels, and storage for up to five trailer or driver settings.\n\nCompared with the A-Outsanding below it, it adds saved settings and a richer display but costs more. It lists 1-4 axle support and includes a wiring pigtail, mounting hardware and instructions.\n\nBest for a heavier tandem or triple-axle trailer where saved settings help when you swap loads. The listing says vehicle fit should be verified, so confirm your truck's connector style.",
     "specs": [
       "Replaces Tekonsha P3 90195",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ZNBjWQv-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GL81VVGY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GL81VVGY?tag=rvgearlab-amz-20",
     "description": "The A-Outsanding package pairs a TriFlex proportional controller with a 24-inch 51515 universal wiring pigtail. The listing describes a three-axis accelerometer, automatic leveling, and the ability to manage four axles (8 brakes).\n\nAgainst the FEITON above it, you get a built-in manual slider and live LED feedback on gain settings and system health, but no saved-settings feature is named. The universal pigtail suits vehicles with no factory plug but needs splicing.\n\nBest for a buyer who wants automatic leveling and a slider for emergency sway. Check the pigtail wiring against your vehicle before connecting.",
     "specs": [
       "Three-axis accelerometer",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31p+hncEWyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D45SNS3N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D45SNS3N?tag=rvgearlab-amz-20",
     "description": "The Rizz-Man 8508211 is a proportional controller sold with a wiring harness, and its listing names fits across Cadillac Escalade, Chevrolet Avalanche, Silverado, Suburban and Tahoe, and GMC Sierra by year. It describes control for 1-4 axles and a dash-hugging design.\n\nCompared with the A-Outsanding above it, you get a vehicle-specific harness so no splicing is needed, at a lower price. Compared with the Timilge below it, the harness is included instead of bought separately.\n\nBest for a GM truck or SUV owner whose model year appears in the listing. Check the exact year range before ordering, because it varies by model.",
     "specs": [
       "Proportional, 1-4 axles",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41MKS+tuDWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H9J1FNRT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H9J1FNRT?tag=rvgearlab-amz-20",
     "description": "The Rizz-Man 5535 is the same style of kit with a harness for the Chrysler Pacifica, Voyager, Grand Caravan, Dodge Durango and Jeep Grand Cherokee families as named in the listing. It also describes control for 1-4 axles.\n\nIt costs the same as the GM version above but is only useful on its own list of vehicles. Compared with the Timilge below it, you pay more for the included harness.\n\nBest for an owner of one of the listed Chrysler, Dodge or Jeep models. For anyone else, it is the wrong kit.",
     "specs": [
       "Proportional, 1-4 axles",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31mAbZVjY5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B45R82Z4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B45R82Z4?tag=rvgearlab-amz-20",
     "description": "The Timilge 8508211 is a proportional controller with an LED display showing voltage to the trailer's brakes. The listing says it fits 1-4 axles (2-8 brakes), and wiring ports let you use vehicle-specific harnesses.\n\nCompared with the Rizz-Man kits above, it costs half as much but does not include a harness. Against the Valkynx below, it is close in price and function, with similar wording and a four-color wire guide in the listing bullets.\n\nBest for a buyer who already owns a compatible harness or can buy one separately. It is a good fit for light-to-moderate towing at low cost.",
     "specs": [
       "Proportional, 1-4 axles",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41jYgEnpuqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GWD1FVFV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GWD1FVFV?tag=rvgearlab-amz-20",
     "description": "The Valkynx 8508211 is the lowest-priced controller here and lists proportional braking with built-in motion sensors, an LED display, manual slide control and 1-4 axle support. It also mentions mounting brackets and screws and a reserved plug-in port.\n\nCompared with the Timilge above, it undercuts it slightly. Its listing contrasts itself against older time-delay controllers and states that it avoids abrupt, delayed braking, but it gives the same limited diagnostics.\n\nBest for a buyer who wants proportional behavior at the lowest price and can supply a harness. Support terms are not stated, so keep your order record.",
     "specs": [
       "Motion-sensor proportional",

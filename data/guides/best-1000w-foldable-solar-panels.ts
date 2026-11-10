@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41lZ666bxVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H1ZMBRX7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H1ZMBRX7?tag=rvgearlab-amz-20",
     "description": "The XLB-TYNFD is a 1000W foldable panel with A+ monocrystalline cells at 25 percent efficiency and an IP67 rating. It ships with a 10 ft 4-in-1 cable covering XT60, Anderson, aviation and DC5521, ten DC adapters and four carabiners.\n\nIt is the only genuine foldable 1000W panel in this list, so it carries the field setup of a portable panel. Against the DOKIO and the generic flexible set, it folds for carrying instead of needing a permanent mount.\n\nIt suits campers with a large power station or battery system who want fast daytime recharging at camp. The TPE rubber handle and wide operating range from 5 to 158 degrees F help for travel use.",
     "specs": [
       "1000W, 25% monocrystalline",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51PtRtHhh+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GK1CRDXG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GK1CRDXG?tag=rvgearlab-amz-20",
     "description": "The DOKIO set is ten 100W, 18V ETFE panels totaling 1000W for 12V systems. The panels can be wired in series for higher voltage or in parallel for more current, and each bends up to 30 degrees.\n\nCompared with the XLB, it spreads the 1000W over ten slim panels that mount on curved surfaces like van roofs and trailers. Against the generic set, it uses a standard 100W module size that is easier to rearrange.\n\nIt fits RV and van owners building a permanent array with their own charge controller. The foam-protected packaging helps each panel arrive intact.",
     "specs": [
       "Ten 100W 18V ETFE panels",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/517bACOBWIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GQLFJ2M8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GQLFJ2M8?tag=rvgearlab-amz-20",
     "description": "This set pairs two 500W flexible monocrystalline panels with a 40A charge controller. The listing states up to 25 percent cell efficiency and a bending angle of up to 260 degrees.\n\nIt costs less than the DOKIO and the XLB and puts only two panels on the roof instead of ten. Pre-drilled threaded holes allow fastener mounting on uneven surfaces.\n\nIt suits budget builders who want a controller in the box and fewer panels to mount. The curved-surface flexibility works on van, boat and cabin roofs.",
     "specs": [
       "2x500W monocrystalline",

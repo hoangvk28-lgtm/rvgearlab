@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hMDYL8eIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GY6Y42LD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GY6Y42LD?tag=rvgearlab-amz-20",
     "description": "Yottix is the only one of the three built for the RV hookup. It uses a 1 micron cartridge with PP cotton, non-woven fabric, activated carbon fiber and KDF-55 fiber, rated to 90 psi with a stated 4 gpm and a quoted 7,000 gallon capacity.\n\nCompared with iSpring CU-A4, it protects the whole RV water supply instead of one tap, and it costs less. It lacks the 0.01 micron ultrafiltration membrane of both iSpring kits.\n\nBest for campers who want a four-layer cartridge at the hose. A visible cartridge life window and a removable stand are included, though no NSF certification is named.",
     "specs": [
       "1 micron, four-layer cartridge",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41NE8jJ66hL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B009AEJWZG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B009AEJWZG?tag=rvgearlab-amz-20",
     "description": "iSpring CU-A4 is a 4-stage under-sink system with a 5 micron sediment filter, an ultrafiltration membrane, KDF and GAC stages, push-to-connect fittings and a brushed nickel faucet. The listing says it uses no storage tank and creates no wastewater.\n\nIt is the cheaper of the two iSpring kits, and the tank-free design saves space compared with RO systems. It filters only the tap it feeds, unlike Yottix 4-Stage which protects the whole supply.\n\nBest for full-timers who want a drinking tap upgrade in the galley. It needs a hole for a faucet and cannot be used at the hose.",
     "specs": [
       "5 micron, UF, KDF, GAC",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/416Dwr-IuaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FL8F2XL6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FL8F2XL6?tag=rvgearlab-amz-20",
     "description": "iSpring CUA4-BLK uses the same four-stage layout: PP sediment, KDF, GAC and a 0.01 micron ultrafiltration membrane. It comes with a lead-free faucet and the listing says every water-contact part meets NSF/ANSI standards.\n\nIt costs about twice as much as iSpring CU-A4 for essentially the same filtration idea, with the premium being finish and component upgrades. Versus Yottix 4-Stage it again filters one tap only.\n\nBest for buyers who want a lead-free faucet and a premium finish. The extra cost does not buy more stages.",
     "specs": [
       "PP, KDF, GAC, 0.01 UF",

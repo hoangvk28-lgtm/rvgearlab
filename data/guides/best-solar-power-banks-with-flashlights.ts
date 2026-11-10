@@ -33,7 +33,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Xcqpec6NL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DZH8RBTD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DZH8RBTD?tag=rvgearlab-amz-20",
     "description": "The MINRISE bank holds 40000mAh and supports 20W power delivery, with three built in output cables and dual LEDs that the listing says reach up to 165 feet. Silicone corners and a port cover guard against bumps and dust, and it costs $33.99.\n\nIts cell is the largest in this comparison by a wide margin, 40000mAh against 24000mAh, which means more phone charges before you need to recharge the bank itself. The three built in cables remove the need to pack separate wires for different devices, and the dual LEDs give a long reaching beam for walking to a bathroom or checking a campsite.\n\nCampers who want maximum capacity, strong night lighting and a simple built in cable setup will find it the better all rounder, especially for multi day trips.",
     "specs": [
       "40000mAh, 20W PD",
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51fsTh0HiPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C4XZ9XZH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C4XZ9XZH?tag=rvgearlab-amz-20",
     "description": "The GOODaaa bank holds 24000mAh and offers five outputs, three integrated cables, a carabiner clip and a built in thermometer, at $34.98. Silicone bumpers and port covers add protection, and three flashlight modes cover steady light and signaling.\n\nIt costs about $1 more than the MINRISE and carries a smaller cell, yet it brings features that suit trail use: a carabiner that clips to a pack, a thermometer that reads the air around you and five outputs for charging more than one device at a time. The compact size makes it easier to carry on a daypack.\n\nHikers, kayakers and campers who clip gear to a backpack and want several ports and a few extras in a smaller package will like it best.",
     "specs": [
       "24000mAh, 5 outputs",

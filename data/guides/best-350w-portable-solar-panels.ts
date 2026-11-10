@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41LR-hOLK6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DSFT9FZT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DSFT9FZT?tag=rvgearlab-amz-20",
     "description": "The ZOUPW 350W uses N-type 16-busbar cells with a 50.2V open-circuit voltage aimed at stations of 1kWh and up. It weighs 22.2 lbs, folds into a briefcase shape with a magnetic handle and carries IP68 protection with an IP67 junction box.\n\nIt weighs about 8 lbs less than the BLUETTI 350W and costs about half as much. Compared with the 480W ZOUPW, it gives up 130 watts for a lower price and an easier carry.\n\nIt suits owners of large stations who want a 350W panel with a 3-year warranty and lifetime technical support. A 4-in-1 cable, extension cable and storage bag are included.",
     "specs": [
       "350W N-type, 50.2V Voc",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31gcmB1NhHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09SD23Y6V?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09SD23Y6V?tag=rvgearlab-amz-20",
     "description": "The BLUETTI 350W uses monocrystalline cells at up to 23.4 percent efficiency with an ETFE coating and IP67 rating. Its listing names compatibility with the AC70, AC180, AC240, AC200L, Elite 200 V2, AC300 and AC500 through an MC4 connector.\n\nIt folds to 35.6 by 24.1 inches at 30.6 lbs, so it is the heaviest 350W here and the most expensive. Against the ZOUPW 350W, it brings a long named-station list and brand fit.\n\nIt suits BLUETTI owners who want a matched panel and a named compatibility list. The box includes a manual.",
     "specs": [
       "350W, 23.4%, IP67",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41JiOFXoSdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G3PJF9W8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G3PJF9W8?tag=rvgearlab-amz-20",
     "description": "The ZOUPW 480W is a double-sided panel that adds as much as 30 percent from reflected light, on a 42.5V design with IP68 protection. A composite build instead of glass keeps it to 22.5 lbs.\n\nIt weighs almost the same as the ZOUPW 350W and delivers 130 more watts. It costs about 250 dollars more than that panel.\n\nIt suits large-station owners who want maximum watts for the carry weight. The rear gain adds output over bright ground.",
     "specs": [
       "480W bifacial N-type",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/314VZRXnq9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CNWFWJXN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CNWFWJXN?tag=rvgearlab-amz-20",
     "description": "The LINLANG Women's Softshell has a polar fleece lining behind a windproof, water-repellent softshell face that the listing calls waterproof and abrasion resistant. Six pockets, a partially elasticated waist and sun protection fabric round out the build.\n\nAgainst the Wespornow Women's, it adds a fuller weather description and an extra pocket. Compared with the G Gradual joggers, it is cut as a technical trouser rather than a sweatpant.\n\nIt suits women who hike in snow, wind and cold rain and want true outer-shell protection. The slim fit leaves room for a thermal base layer.",
     "specs": [
       "Polar fleece lining",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31fVCnZM+KL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08GKRG36Z?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08GKRG36Z?tag=rvgearlab-amz-20",
     "description": "The Wespornow Women's Fleece-Lined has a premium fleece lining and a water-repellent, windproof surface layer the listing describes as breathable. Front slant pockets, a back zipper pocket, a zipped thigh pocket and ergonomic knee design finish the pair.\n\nIt costs a little less than the LINLANG Women's Softshell and keeps most of the shell features. Against the G Gradual joggers, it focuses on shell protection with room to move at the knees.\n\nIt suits women who want warm softshell trousers for snow walks, camping and ice sports at a friendlier price. Knee shaping avoids bunching.",
     "specs": [
       "Premium fleece lining",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31OQyxUfz5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BCKJ27B5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BCKJ27B5?tag=rvgearlab-amz-20",
     "description": "The G Gradual Women's High-Waist Joggers have a warm fleece lining the listing pitches for temperatures under 30 degrees Fahrenheit. A four-inch high waistband, tapered cuts and two zipper pockets finish the casual cut.\n\nCompared with the LINLANG Women's Softshell, they feel more like sweatpants and move easily. Next to the Heathyoga leggings, they have more structure and a water-resistant coating.\n\nThey suit women who walk dogs, tackle winter errands and take easy trail hikes in the cold. The tapered cuffs seal in heat.",
     "specs": [
       "Thermal fleece lining",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31e125OssJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FJ8H51S1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FJ8H51S1?tag=rvgearlab-amz-20",
     "description": "The G Gradual Women's Cargo Joggers add a water-repellent shell over a thick, stretchy fleece lining and four zipper pockets. A three-inch high-rise waistband and drawstring complete the cut, with tapered cuffs sealing in warmth.\n\nAgainst the G Gradual High-Waist Joggers, it adds a thigh pocket and more storage. The listing describes it as ready for wind, rain, sleet or snow.\n\nIt suits women who want a slim jogger-style pant with secure phone storage. The shell resists mud, which wipes off quickly.",
     "specs": [
       "Fleece lining, water-repellent shell",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31cickmJTvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CLNQZQY2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CLNQZQY2?tag=rvgearlab-amz-20",
     "description": "The Heathyoga Fleece-Lined Leggings combine a soft thermal fleece interior with stretch and a surface that protects against light rain, snow and splashes. Two side cargo pockets give hands-free storage.\n\nCompared with the G Gradual joggers, they fit closer and carry less bulk. Next to the LINLANG Women's Softshell, they give up some protection and gain easier movement.\n\nThey suit women who want a warm base-layer-style pant for winter travel and easy trails. The stretch moves with each step.",
     "specs": [
       "Thermal fleece interior",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Jf5mBP5lL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07HSYJZYY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07HSYJZYY?tag=rvgearlab-amz-20",
     "description": "The Toomett Men's Snow Pant is a fleece-lined, insulated softshell winter pant with zipper pockets. The listing is aimed at skiing and outdoor winter use.\n\nIt is the only men's pick here, and it is priced in the middle of the group. Compared with the women's softshells, it gives men an insulated trouser with a similar shell-and-fleece idea.\n\nIt suits men who need a warm outer pant for snow days and hikes. Zipper pockets keep small items secure.",
     "specs": [
       "Fleece-lined softshell",

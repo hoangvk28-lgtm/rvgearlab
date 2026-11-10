@@ -21,7 +21,7 @@ export const products = withAmazonUrls([
     badge: "Best overall",
     name: "Generac 1086Wh Portable Power Station",
     amazonQuery: "Generac 1086Wh Portable Power Station",
-    amazonUrl: "https://www.amazon.com/dp/B0BDHQ38DS?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0BDHQ38DS?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/412qtFeAutL._SL500_.jpg",
     specs: ["Capacity: 1,086Wh","Continuous output: 1,600W","Surge output: 3,200W","Runtime claim: Up to 22.5 hours"],
     specList: [{"label":"Capacity","value":"1,086Wh"},{"label":"Continuous output","value":"1,600W"},{"label":"Surge output","value":"3,200W"},{"label":"Runtime claim","value":"Up to 22.5 hours"}],
@@ -36,7 +36,7 @@ export const products = withAmazonUrls([
     badge: "Best heavy-duty option",
     name: "Generac 2,500 Watt Gas Powered Portable Inverter Generator, Outdoor Use",
     amazonQuery: "Generac 2,500 Watt Gas Powered Portable Inverter Generator, Outdoor Use",
-    amazonUrl: "https://www.amazon.com/dp/B0DD28FF4R?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0DD28FF4R?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/51aRnziqerL._SL500_.jpg",
     specs: ["Continuous output: 2,200W","Runtime claim: Up to 8 hours","Fuel format: Gasoline","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Continuous output","value":"2,200W"},{"label":"Runtime claim","value":"Up to 8 hours"},{"label":"Fuel format","value":"Gasoline"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -51,7 +51,7 @@ export const products = withAmazonUrls([
     badge: "Best compact option",
     name: "Generac 3,300 Watt Gas Powered Portable Inverter Generator, USB Charging",
     amazonQuery: "Generac 3,300 Watt Gas Powered Portable Inverter Generator, USB Charging",
-    amazonUrl: "https://www.amazon.com/dp/B0DD1R1CXC?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0DD1R1CXC?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/515W7jwOXEL._SL500_.jpg",
     specs: ["Continuous output: 2,500W","Runtime claim: Up to 7 hours","Fuel format: Gasoline","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Continuous output","value":"2,500W"},{"label":"Runtime claim","value":"Up to 7 hours"},{"label":"Fuel format","value":"Gasoline"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -66,7 +66,7 @@ export const products = withAmazonUrls([
     badge: "Best value pick",
     name: "Jackery Explorer 300 Portable Power Station,292Wh",
     amazonQuery: "Jackery Explorer 300 Portable Power Station,292Wh",
-    amazonUrl: "https://www.amazon.com/dp/B082TMBYR6?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B082TMBYR6?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41-Ey75o-WL._SL500_.jpg",
     specs: ["Capacity: 292Wh","Continuous output: 300W","Surge output: 600W","Listed weight: 7.5 lb"],
     specList: [{"label":"Capacity","value":"292Wh"},{"label":"Continuous output","value":"300W"},{"label":"Surge output","value":"600W"},{"label":"Listed weight","value":"7.5 lb"}],
@@ -81,7 +81,7 @@ export const products = withAmazonUrls([
     badge: "Best backup pick",
     name: "Generac 12,500 Starting Watt Tri-Fuel Portable Generator, Electric Start",
     amazonQuery: "Generac 12,500 Starting Watt Tri-Fuel Portable Generator, Electric Start",
-    amazonUrl: "https://www.amazon.com/dp/B0GP2QCSZQ?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0GP2QCSZQ?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/51NFkbMy58L._SL500_.jpg",
     specs: ["Continuous output: 9,500W","Runtime claim: Up to 9.5 hours","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Continuous output","value":"9,500W"},{"label":"Runtime claim","value":"Up to 9.5 hours"},{"label":"Buyer check","value":"Verify current model compatibility"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -183,7 +183,7 @@ export const relatedGuides = [
 export const sources = [
   {
     "title": "Generac 1086Wh Portable Power Station product page",
-    "href": "https://www.amazon.com/dp/B0BDHQ38DS?tag=rvgearlab-20&linkCode=osi&th=1&psc=1"
+    "href": "https://www.amazon.com/dp/B0BDHQ38DS?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1"
   },
   {
     "title": "CPSC carbon monoxide safety center",

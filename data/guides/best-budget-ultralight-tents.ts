@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31QjIAP7f-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G5Y7WV4C?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G5Y7WV4C?tag=rvgearlab-amz-20",
     "description": "The TOMOUNT is an ultralight backpacking tent that weighs 3.1 lbs and packs to 16.9 by 5.9 by 5.9 inches. The rainfly is 15D silicone-coated nylon, the floor is 20D silicone-coated nylon rated 3000mm PU, and 7001 aluminum poles come pre-threaded on all four corners.\n\nIt is the lightest of the three by listed weight apart from the poleless Underwood, and it is the only one that names a 15D fly. Next to the Clostnature it saves over 2 lbs with a double-wall build and pre-threaded poles for quick pitching.\n\nIt suits weekend backpackers who want a double-wall shelter at a trail-friendly weight. Pre-threaded poles make setup simple on a dark evening.",
     "specs": [
       "3.1 lbs, 15D nylon fly",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41AhE1GLeWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BZ81SJHL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BZ81SJHL?tag=rvgearlab-amz-20",
     "description": "The Clostnature is a freestanding 2-person tent with a total weight of 5.33 lbs and a minimum trail weight of 4.38 lbs. It measures 7 feet 3 inches by 4 feet 11 inches by 3 feet 10 inches, with a PU5000 rainfly and bathtub floor and two aluminum poles.\n\nIt is the only pick sized for two people, and the box adds an emergency kit for damaged poles along with 14 aluminum stakes. Compared with the TOMOUNT it is about 2 lbs heavier, with more floor and a higher PU rating.\n\nIt suits a couple or a solo hiker who wants extra interior room without paying much. The rainfly can come off for stargazing on clear nights.",
     "specs": [
       "5.33 lbs total, 4.38 lbs trail",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Wj05iY3EL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09J8DFDKP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09J8DFDKP?tag=rvgearlab-amz-20",
     "description": "The Underwood is a 1-person trekking pole tent that sets up with trekking poles or any stick longer than 46 inches. It has a net and fabric double-layer door, a side mesh ventilation window and a waterproof fabric.\n\nIt leaves out tent poles on purpose, which is how it stays the lowest-priced of the three and keeps pack weight down for hikers who already own poles. Next to the TOMOUNT it asks for trekking poles as part of the system.\n\nIt suits hikers who already carry trekking poles and want the least cost and weight possible. The listing includes tips for reducing condensation by staking down the vestibule.",
     "specs": [
       "1 person, no tent poles",

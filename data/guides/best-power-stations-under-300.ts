@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41RgJx852vL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G7TFCBKT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G7TFCBKT?tag=rvgearlab-amz-20",
     "description": "AFERIY's Nomad400 is a 256Wh LiFePO4 station with 400W rated (800W peak) AC output, a 100W USB-C PD port and a 12V car port, powering up to six devices at once. A bidirectional pure sine wave inverter supports up to 300W wall charging for a fast refill, and the cells are rated for more than 4,000 cycles.\n\nAt about $189 it holds more than the 192Wh Daran for the same price and adds a higher AC rating. The Jackery and BLUETTI cost $70 to $100 more and add brand support.\n\nWeekend campers who want LiFePO4 cells, strong AC output and a fast recharge will like it. It handles a laptop, lights and a small fan.",
     "specs": [
       "256Wh LiFePO4, 4,000+ cycles",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Oo8ZguiRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BN38B5PS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BN38B5PS?tag=rvgearlab-amz-20",
     "description": "ENOFLO is a 228Wh station with a 300W (600W surge) pure sine wave output through two 110V AC outlets, plus two DC ports, USB-A and USB-C. A built-in MPPT controller speeds recharging from a 30W or 60W solar panel, and a large rear LED lamp doubles as a camp light.\n\nAt about $122 it is the cheapest pick and runs CPAP-class devices and small fridges within its 300W limit. It uses lithium-ion cells, which wear out sooner than LiFePO4.\n\nBudget campers who want a 300W pure sine wave output will like it. It suits car camping and a small van.",
     "specs": [
       "228Wh, 300W (600W surge) pure sine",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41mlAIEyjVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HBQ26RYC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HBQ26RYC?tag=rvgearlab-amz-20",
     "description": "This unit offers a 296Wh battery with 300W continuous AC output on a pure sine wave inverter, a 100W USB-C port, a 12V 10A DC output and seven outputs in total. An MPPT controller supports solar and a 100W fast input charges it from a wall outlet.\n\nAt about $150 it gives more capacity than any pick under $190 and costs $28 more than the ENOFLO. A 360 degree camping light and a 20W flashlight with SOS are built in.\n\nCampers who want more watt-hours at a moderate price will like it. It runs a laptop, lights and a small cooler fan for a weekend.",
     "specs": [
       "296Wh, 300W pure sine",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41afM-yvDTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GY8WY7LL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GY8WY7LL?tag=rvgearlab-amz-20",
     "description": "Daran's 192Wh station uses a LiFePO4 battery rated for 3,500 or more cycles, with two 300W (600W peak) AC outlets, two USB-C ports (60W PD), a USB-A, a car port and two DC5521 ports. It weighs 5.84 lb and charges 0 to 70 percent in 2.2 hours from a 90W AC adapter.\n\nAt about $190 it costs the same as the AFERIY with less capacity, and its strength is weight and port count. It is the lightest 300W LiFePO4 pick here.\n\nBackpackers with a car and day-hikers who want a light, safe station will like it. It slides into a bag.",
     "specs": [
       "192Wh LiFePO4, 3,500+ cycles",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41-Ey75o-WL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B082TMBYR6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B082TMBYR6?tag=rvgearlab-amz-20",
     "description": "Jackery's Explorer 300 weighs 7.5 lb and stores 292Wh in LiFePO4 cells, with a 300W rated (600W peak) inverter feeding two AC sockets. A 100W USB-C PD port, a pair of USB-A jacks and a 120W car socket round out the outputs. The cells are rated for more than 4,000 cycles, and a 100W Jackery panel recharges it to 80 percent in about 2.8 hours.\n\nAt about $259 it costs $70 more than the AFERIY and holds more capacity. Its edge is a well-known brand and a matching solar panel range.\n\nCampers who value brand support and a straightforward interface will like it. It suits RV trips and tailgating.",
     "specs": [
       "292Wh LiFePO4, 4,000+ cycles",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41YTEqBbTsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F42HLLSC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F42HLLSC?tag=rvgearlab-amz-20",
     "description": "The BLUETTI Elite 30 V2 stores 288Wh in LFP cells and delivers 600W continuous AC, with a Power Lifting mode that reaches 1500W for resistive loads. It weighs 9.4 lb and fast charges from 0 to 80 percent in 45 minutes at 380W.\n\nAt about $290 it is the priciest pick and offers twice the continuous AC watts of the 300W models. The Power Lifting mode runs gear that no other pick here can.\n\nCampers who want to run a small coffee maker or a blender will like the power. It suits RV trips and tailgating.",
     "specs": [
       "288Wh LFP, 600W continuous",

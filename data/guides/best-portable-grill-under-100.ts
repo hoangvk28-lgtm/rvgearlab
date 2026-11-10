@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31P9tuxGIML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FQFPY63B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FQFPY63B?tag=rvgearlab-amz-20",
     "description": "The Weber Smokey Joe is a 14 inch portable charcoal grill with a porcelain-enamel finish that resists scratches and rust. A Tuck-N-Carry lid lock doubles as a lid holder and carrying clip.\n\nIt is the best-known name here, and the lid lock makes it the easiest to carry without ash spilling. It costs more than the other charcoal grills.\n\nChoose it for a durable grill that lasts for years. It suits camping, picnics and backyard use.",
     "specs": [
       "14 inch charcoal kettle",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41D88ZE7fxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B4PY2MDQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B4PY2MDQ?tag=rvgearlab-amz-20",
     "description": "Gas One's 14 inch portable grill has 150 square inches of cooking surface, a 3-point locking lid that traps heat, a dual ventilation system and an ash catcher. It is compact and lightweight for backyard, patio and camping use.\n\nThe 3-point lid lock is what separates it from the plain folding grills, and it holds heat like a small oven. It costs about half of the Weber.\n\nChoose it for kettle-style grilling at a low price. The ash catcher keeps the area clean.",
     "specs": [
       "14 inch, 150 sq in surface",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41uSrunSvkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H8FNC619?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H8FNC619?tag=rvgearlab-amz-20",
     "description": "This GasOne 14 inch charcoal grill has 150 square inches of cooking surface, a red lid with a 3-point locking system and a built-in thermometer. Dual ventilation keeps air flowing to the fire.\n\nThe built-in thermometer is the addition over the other GasOne 14 inch model. It is also slightly cheaper.\n\nChoose it if you want to monitor lid temperature while you cook. It suits steaks and chicken.",
     "specs": [
       "14 inch, 150 sq in",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41MN5H5exiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GW6HQ1PX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GW6HQ1PX?tag=rvgearlab-amz-20",
     "description": "Run Jee is a tabletop charcoal grill with a dual-sided grate and griddle, folding to 16.1 x 9.8 x 12.2 inches. It weighs 7.7 lbs and is made of thickened cold-rolled steel with a separate charcoal tray for airflow.\n\nThe griddle side lets you cook eggs and pancakes, which none of the other grills can. It serves 2 to 6 people.\n\nChoose it for camp breakfasts and dinners from one grill. It folds flat for storage.",
     "specs": [
       "Grill grate and griddle",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/61SY5hTA7DL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GKNQCBW7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GKNQCBW7?tag=rvgearlab-amz-20",
     "description": "Minxchen is a foldable stainless steel charcoal grill with a 17.3 x 11.4 inch grilling space, five side vents and unfolding legs with no assembly. A split design and food-grade stainless grid make cleanup easy.\n\nIt is the cheapest grill here and has more surface than the 14 inch kettles. It lacks a lid.\n\nChoose it for quick picnics and car camping. It sets up in seconds.",
     "specs": [
       "17.3 x 11.4 inch grill area",

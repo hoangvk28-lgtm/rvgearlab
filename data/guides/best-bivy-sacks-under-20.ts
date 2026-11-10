@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31tkPyRMDDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H5QKBZFF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H5QKBZFF?tag=rvgearlab-amz-20",
     "description": "This bivy bag is a nylon PU sleeping bag cover that weighs about 260 grams, folds small and sheds water and dust. It doubles as a rainproof shelter sheet, a ground cover or a sunshade when you open it flat.\n\nAmong the five picks, it is the one made as a reusable outer cover for a sleeping bag, where the others are mostly thin mylar for emergencies. It weighs far less than a sleeping bag cover from a big outdoor brand, and its price is just under the cap.\n\nIt suits backpackers who need extra wet-weather protection for a down bag. Slip your bag inside and leave the zipper for ventilation.",
     "specs": [
       "About 260g, nylon PU",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410OmaNSJeL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H6DV6G1F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H6DV6G1F?tag=rvgearlab-amz-20",
     "description": "The MADIKRI bag measures about 78 by 37.5 inches and uses tear-resistant Oxford fabric on the outside with a reflective polyester film inside. It has a half zipper and a drawstring hood.\n\nA zipper and an Oxford shell make it more durable than the foil two-packs below it, and it can be reused many times. It costs about the same as the SURVIVE kit and offers a more complete cover.\n\nIt suits car campers and hikers who want an emergency layer that survives more than one use. It packs into a bag roughly 8 by 5 inches.",
     "specs": [
       "78x37.5 in, Oxford shell",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41lR9wQvGUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H1Y1L2DQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H1Y1L2DQ?tag=rvgearlab-amz-20",
     "description": "The NovaMedic pack includes two 84 by 36 inch thermal mylar bags that are packed separately. They are waterproof, wind-resistant and fold small enough for a glove box or a pack.\n\nAt 84 inches the NovaMedic is the longest bag here, which matters for taller campers. It is cheaper than the MADIKRI and gives you two bags for the money.\n\nIt suits families or couples who want one bag per car or pack. Keep one in the vehicle and one in your hiking kit.",
     "specs": [
       "Two 84x36 in mylar bags",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41oJvyEjrZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07VLY4558?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07VLY4558?tag=rvgearlab-amz-20",
     "description": "The Zmoon bag opens to 78 by 47 inches and uses mylar foil that reflects about 95 percent of body heat. It comes in a small carry bag, and the set holds two sacks.\n\nIt is the widest bag in the group, wider than the 36-inch NovaMedic and the 37.5-inch MADIKRI, which gives room for winter layers. It is also the cheapest pick, so it works as a spare.\n\nIt suits larger campers who find narrow emergency bags too tight. Use it as a ground sheet if you need to cover wet soil.",
     "specs": [
       "78x47 in mylar foil",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51hZUAAokdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GWS3H6MX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GWS3H6MX?tag=rvgearlab-amz-20",
     "description": "The SURVIVE set includes two mylar bivy bags, each with a whistle and 14 inches of paracord. A packed bag measures about 2.5 by 4 inches and weighs 5 ounces.\n\nThe whistle and cord turn each bag into a small survival kit, which the foil-only NovaMedic and Zmoon do not offer. It costs a few dollars more than those two and has the smallest pack size.\n\nIt suits hikers and kids who want a signal tool in the same package as the bag. Clip the whistle to a pack strap.",
     "specs": [
       "Two mylar bags, 5 oz each",

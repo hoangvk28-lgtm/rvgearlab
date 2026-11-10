@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31LJHCY0T9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08F7HQHXQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08F7HQHXQ?tag=rvgearlab-amz-20",
     "description": "The Forceatt two-person shelter comes in at 5.5 lb with a floor roughly 7.4 ft long and 4.4 ft wide. Its shell reaches a 3000mm waterproof index and pairs a welded floor with 7001-series aluminum poles, two D doors, two vestibules and ceiling vents.\n\nIt is the strongest all-weather build here, thanks to aluminum poles and a welded floor that the 4-person Happy Travel dome lacks. The tradeoff against the Happy Travel is a narrower footprint.\n\nIt suits campers who want one solid, weather-ready tent for two and plan to use it across seasons. Two vestibules keep boots and packs out of the sleeping area.",
     "specs": [
       "5.5 lb, 3000mm waterproof index",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31J8olyf7WL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DHP333DP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DHP333DP?tag=rvgearlab-amz-20",
     "description": "The Happy Travel dome comes in 4 and 6 person sizes, and the 4-person version has an 8.7 by 8 ft floor that fits a queen air mattress. It uses 190T polyester taffeta with a PU coating rated at 2000mm, a removable rainfly and an electrical access port.\n\nIt has the biggest floor in this tier and the only electrical port, which separates it from the Forceatt 2P. It uses less advanced poles than the Forceatt, so it suits calm weather.\n\nIt fits families and groups who want a large floor and ventilation from a mesh top. The e-port lets a cord reach a fan or charger without opening a door.",
     "specs": [
       "8.7 by 8 ft floor, queen fit",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41e2F-BIeiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CCV98MM9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CCV98MM9?tag=rvgearlab-amz-20",
     "description": "The Night Cat Upgraded is a 4.4 lb tent for one and a half people, and it hangs on clips instead of pole sleeves. Its packed length is only about 16.5 in, and PU3000 coatings cover both the 210T fly and the 150D Oxford floor.\n\nIt is the lightest tent in this tier and clips onto the pole frame for faster pitching than the Happy Travel. Its trade against the Forceatt 2P is a smaller floor in exchange for a shorter setup.\n\nIt suits scouts, solo hikers and motorcycle campers who need a tent that disappears into a pack. Taped seams on the fly give extra rain confidence.",
     "specs": [
       "4.4 lb, packs about 16.5 in",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41QhQdeJlfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FVLLTDPG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FVLLTDPG?tag=rvgearlab-amz-20",
     "description": "The Night Cat two-person tent gives two sleepers about 6.8 ft of length and 4.6 ft of width, framed by two aluminum poles with a door and vestibule on each side. A full-coverage rainfly, welded floor and taped seams handle rain.\n\nIt sits between the Forceatt 2P and the Night Cat Upgraded in weight and room. Two doors and two vestibules make it easier to share than the clip-style Upgraded.\n\nIt suits couples who hike to camp and want separate exits. Pitch time is around three minutes.",
     "specs": [
       "About 6.8 ft long, 4.6 ft wide",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31KRDuy9QdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0831HH4QC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0831HH4QC?tag=rvgearlab-amz-20",
     "description": "The Mobihome is an instant pop-up dome for 2 to 3 adults with an 82.7 by 74.8 by 43.3 inch interior. It weighs 8.5 lb, stores in a 40 by 6.6 by 6.6 in bag and combines 190T polyester, taped seams and a PE floor.\n\nIt beats every other pick here on setup speed, with a hub that opens in seconds and pulls down with a drawstring. The cost is a heavier, longer bag than the Night Cat Upgraded.\n\nIt suits families, kids and anyone who dislikes pole sleeves. Large mesh panels keep insects out in summer.",
     "specs": [
       "Pop-up hub, 8.5 lb",

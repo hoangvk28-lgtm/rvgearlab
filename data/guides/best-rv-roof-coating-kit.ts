@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51vL8HVZcIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DPNJ7J5L?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DPNJ7J5L?tag=rvgearlab-amz-20",
     "description": "The BEEST RV Roof Repair Kit includes a 5 gallon roof coating, a 1 gallon EPDM primer, a 32 oz RV cleaner, non-sag and self-leveling lap sealants, a seam roller and more. It is described as a water-based elastomeric coating that meets cool roof reflectivity requirements, with a primer made for EPDM and TPO and a seam tape and roller for a firm bond.\n\nAgainst the larger BEEST kits, it suits a typical 30 foot RV and costs far less. Against Liquid Rubber, it adds lap sealants and a seam roller in the box.\n\nBest for owners who want every component for an EPDM or TPO roof in one purchase. A smart pick for a 30 foot trailer.",
     "specs": [
       "5 gal coating, 1 gal EPDM primer",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51c4ciWMiIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HDDLWFDW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HDDLWFDW?tag=rvgearlab-amz-20",
     "description": "The BEEST 3.5 gallon kit is a 10-piece EPDM and TPO repair set that covers 175 sq ft in 2 coats. It includes a 1 gallon multipurpose primer and a cleaner, and its coating is listed as water-based and elastomeric with 100 sq ft of coverage per gallon.\n\nAgainst the 5 gallon BEEST kit, it covers less and costs less. Against the 8.5 gallon kit, it suits a small trailer or camper van.\n\nBest for smaller roofs such as pop-ups and travel trailers under 20 feet. A good starting kit.",
     "specs": [
       "3.5 gal coating, covers 175 sq ft",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ZYTtlxwxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HDF95683?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HDF95683?tag=rvgearlab-amz-20",
     "description": "The BEEST 8.5 gallon kit is an 11-piece EPDM and TPO repair kit that covers 425 sq ft in 2 coats. It includes 1 gallon of multipurpose primer and a concentrated cleaner, and the coating is described as reflecting heat to keep surfaces up to 27 degrees F cooler.\n\nAgainst the 5 gallon BEEST kit, it covers far more roof for the same system. Against the Liquid Rubber 40 foot kit, it costs less.\n\nBest for large fifth wheels and motorhomes with 400 sq ft of roof. A single order for a big job.",
     "specs": [
       "8.5 gal coating, covers 425 sq ft",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ipdKAjnrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CSHW2ZH4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CSHW2ZH4?tag=rvgearlab-amz-20",
     "description": "The Liquid Rubber 30 foot kit is a flexible elastomeric roof coating system for EPDM, TPO, fiberglass and aluminum roofs. The listing describes a 3-step system with RV Smart Cleaner, EPDM and TPO Primer and RV Roof Coating that rolls on in a weekend.\n\nAgainst the BEEST 5 gallon kit, it is a named three-step system from a single brand and costs more. Against the 40 foot kit, it is sized for shorter rigs.\n\nBest for owners who want a single-brand cleaner, primer and coating sequence. A reliable pick for a 30 foot rig.",
     "specs": [
       "30 foot leak repair kit",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41tqgvPkamL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GQDL73X6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GQDL73X6?tag=rvgearlab-amz-20",
     "description": "The Liquid Rubber 40 foot kit uses the same three-step cleaner, primer and coating system as the 30 foot kit, sized for a 40 foot roof. It lists use on EPDM, TPO, fiberglass and aluminum roofs, skylights and vent covers.\n\nAgainst the 30 foot Liquid Rubber kit, it covers more roof at a higher price. Against the BEEST 8.5 gallon kit, it is a named system with a primer step.\n\nBest for large motorhomes and fifth wheels where a single-brand system matters. A premium way to coat a big roof.",
     "specs": [
       "40 foot leak repair kit",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51+-qmcSMdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B003VASSDC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B003VASSDC?tag=rvgearlab-amz-20",
     "description": "The Dicor RP-RRK-30 Roof Renew Kit includes 4 gallons of Dicor acrylic roof coating, 2 quarts of cleaner and activator, a 4 inch by 50 foot roll of coating-ready cover tape, a metal pan, a 9 inch paint roller and roller covers. It works with all Dicor sealants, tapes and adhesives.\n\nAgainst the BEEST kits, it uses an acrylic coating with an applicator set in the box. Against Liquid Rubber, it is built around Dicor products.\n\nBest for owners already using Dicor sealants and tapes. A convenient, tool-included kit.",
     "specs": [
       "4 gal acrylic coating",

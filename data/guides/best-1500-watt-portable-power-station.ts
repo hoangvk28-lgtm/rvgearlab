@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31+D1tNXreL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7PPG25F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7PPG25F?tag=rvgearlab-amz-20",
     "description": "The Jackery Explorer 1000 v2 stores 1,070Wh in LiFePO4 cells rated to keep over 70 percent capacity after 4,000 cycles, and delivers 1,500W continuous, 3,000W surge, through three pure sine wave AC outlets. It weighs 23.8 pounds with a foldable handle, has two USB-C ports including a 100W PD, one USB-A and a DC car port, and recharges in 1 hour with emergency charging turned on in the app, or 1.7 hours by default.\n\nAt $499 it costs about $0.47 per watt-hour, which is $50 less than the HomePower 1000 v2 but 46Wh larger. The Anker S2000 holds 940Wh more for $180.99 more, yet weighs 11.9 pounds more at 35.7 pounds. Solar panels are not included, which is why the two Jackery bundles below cost $200 and $500 more.\n\nPick it as the default 1500W camper station: light enough to carry, big enough for a morning of coffee and a night of CPAP. The caveat is that the one-hour charge must be re-enabled in the app each time, and the default 1.7-hour mode is what you get otherwise.",
     "specs": [
       "1,070Wh LiFePO4, 1500W",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41oUWN32k+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GY4TQ2P8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GY4TQ2P8?tag=rvgearlab-amz-20",
     "description": "The Anker SOLIX S2000 stores 2,010Wh in 314Ah LFP cells rated for 10,000 cycles and 15 years, and delivers 1,500W continuous, 3,000W peak, through 8 outlets split between front and rear. It measures 8.2 by 11.1 by 12.7 inches, weighs 35.7 pounds, has a 6W idle draw that the listing says keeps a fridge running up to 35 hours, takes up to 400W of solar input and switches over in under 10ms as a UPS. It has no 12V DC port.\n\nAt $679.99 it is about $0.34 per watt-hour, the lowest here, which is $0.13 less than the Jackery 1000 v2 at $0.47. It holds 940Wh more than the Jackery 1000 v2 for $180.99 more, but weighs 11.9 pounds more, and has no DC car port, which the Jackery models include. It also has no solar panel in the box.\n\nChoose it for a camper that needs a full day of fridge and lights, or a sticks-and-bricks backup that stays put. The caveat is the 35.7 pounds, which is a genuine two-hand carry up RV steps.",
     "specs": [
       "2,010Wh LFP, 1500W",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31CDYRxIXgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H74XYX77?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H74XYX77?tag=rvgearlab-amz-20",
     "description": "The Jackery HomePower 1000 v2 stores 1,024Wh of LiFePO4 rated for 6,000 or more cycles with over 70 percent capacity retained, and outputs 1,500W through three pure sine wave outlets. Its listing stresses a 10ms UPS, 3,000V surge resistance with lightning protection, a 50-minute emergency charge or 1.25-hour default, up to 400W of solar input and a weight of 23.4 pounds, with 5 years of after-sales support.\n\nAt $549 it is $50 above the Jackery 1000 v2 and holds 46Wh less, but it has a higher stated cycle life, 6,000 against 4,000, and states the UPS time and surge protection that the Explorer listing does not. Against the Anker S2000 it is $130.99 cheaper but holds 986Wh less.\n\nPick it for a desk or home office in the camper where a PC, router and monitor must not blink, or where you want the surge and lightning shield. The caveat is that the extra $50 buys protection and cycle life, not runtime.",
     "specs": [
       "1,024Wh LiFePO4, 1500W",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Li2jDBgqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D2L1G66J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D2L1G66J?tag=rvgearlab-amz-20",
     "description": "This bundle ships the Explorer 1000 v2 with one 200W solar panel, 1,070Wh of LiFePO4 and the same 1,500W, 3,000W surge and three pure sine wave outlets, all at 23.8 pounds. The listing mentions a 600W alternator charger option for a 3-hour full charge, and includes 5 years of coverage in the box list.\n\nAt $699 it adds $200 to the standalone Jackery 1000 v2, which is the effective price of the panel, so cost per watt-hour with panel is about $0.65 against $0.47 without. The second bundle adds another 200W panel for $300 more. A single 200W panel is a slow refill for 1,070Wh, which is why this sits as the starter solar setup, not the full off-grid one.\n\nBuy it if you will run the station mostly on sun on weekend trips and want a single order. The caveat is the sun math: roughly, a 200W panel in good light gives well under 200W, so a full recharge takes many hours.",
     "specs": [
       "1,070Wh, 1500W + 200W panel",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31aRjvEft0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GLNK2BPD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GLNK2BPD?tag=rvgearlab-amz-20",
     "description": "This is the same 1,070Wh Explorer 1000 v2 with two 200W panels for 400W of solar input, which the listing says takes only about 3 hours to reach 80 percent from the sun. It keeps the 1,500W rating, 3,000W surge, three pure sine wave AC outlets, 100W PD USB-C and the 4,000-cycle, 70 percent LFP rating, with 5 years of coverage.\n\nAt $999 it costs $300 more than the single-panel bundle and $500 more than the standalone Explorer 1000 v2, so each extra 200W panel is about $250 to $300. Cost per watt-hour with panels is about $0.93, the highest here, but it is the only one that promises wall-like recharge speed from the sun.\n\nChoose it for off-grid weeks where grid charging is not an option. The caveat is price, and the panel footprint to carry and place, which the listing does not give as weight.",
     "specs": [
       "1,070Wh, 1500W + 2 panels",

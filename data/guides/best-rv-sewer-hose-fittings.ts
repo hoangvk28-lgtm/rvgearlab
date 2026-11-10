@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/314iXDg4qrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B006OQ3NMQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B006OQ3NMQ?tag=rvgearlab-amz-20",
     "description": "The Camco RhinoFLEX Clear 90 Degree Sewer Hose Swivel Fitting has a swivel lug and bayonet connection with a transparent body. The clear design lets you see when the tank is clean and empty.\n\nAgainst the Camco 45 Clear, it makes a sharper turn for a hose that exits straight down, while the 45 suits gentler angles. It costs a bit more.\n\nBest for most RVs with a downward-facing outlet. Confirm your outlet type and the bayonet fit before ordering.",
     "specs": [
       "Clear 90 degree elbow",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31vr2pku-aL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B006OQ35GU?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B006OQ35GU?tag=rvgearlab-amz-20",
     "description": "The Camco RhinoFLEX Clear 45-Degree fitting uses a swivel lug and four-prong bayonet connection with UV-stabilized resin. It connects a sewer hose to the RV waste valve fitting.\n\nVersus the Camco 90 Clear, it turns more gently for smoother flow, but needs more clearance. It is slightly cheaper.\n\nBest when your outlet sits lower or you want less abrupt turns. Check the clearance behind the outlet.",
     "specs": [
       "Clear 45 degree elbow",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Hm4J0AddL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B000BQKBP2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B000BQKBP2?tag=rvgearlab-amz-20",
     "description": "The Camco Sewer Cap with Hose Connect is a bayonet-style cap in durable black plastic. It caps the sewer connection and lets you attach a hose to drain the gray tank, with tabs that lock to the RV drain valve.\n\nCompared with the elbows, it is a cap, not a hose elbow, so it is a different tool. It is the lowest-priced fitting here.\n\nBest as a spare cap or a gray-water drain adapter. Check the listing's size note before buying.",
     "specs": [
       "Bayonet cap with hose connect",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Vx1XTle-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D9QH7JVW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D9QH7JVW?tag=rvgearlab-amz-20",
     "description": "The TagRecove two-piece wrench set fits 3 inch and 4 inch sewer hose couplers, with an interlocking offset design to fit coupler grooves. Each is 11.02 inches long, made of ABS plastic and lightweight.\n\nCompared with the Camco fittings, it is a tool, not a fitting, so it does not replace one. It costs about the same as a fitting.\n\nBest as a companion for owners who struggle with tight connections. It is not a fitting itself.",
     "specs": [
       "Two wrenches, 3 and 4 inch",

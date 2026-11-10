@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31FQ+m0Lt2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CZ9M6X8Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CZ9M6X8Q?tag=rvgearlab-amz-20",
     "description": "The Anker Zolo 10K is a 10,000mAh power bank with 30W output, 20W input and a built-in 5.4 inch USB-C cable rated for over 10,000 bends. It measures 4.32 by 2.58 by 0.98 inches and lists up to 2 full charges for an iPhone 15.\n\nAgainst the INIU 45W it gives up 15W of output yet brings a built-in cable that cannot be forgotten at home. Compared with the Anker Slim, it is shorter and faster, with two-way fast charging.\n\nIt suits campers who want one reliable pocket pack for phone and tablet top-ups. An 18-month warranty is listed.",
     "specs": [
       "10,000mAh, 30W two-way charging",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41tJgJ3SZlL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DQD35SQ4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DQD35SQ4?tag=rvgearlab-amz-20",
     "description": "The INIU Mini packs 10,000mAh into a body about the size of an AirPods Pro case, with 45W PD output. It uses a detachable nylon-braided USB-C lanyard cable and is listed as TSA approved and flight-safe.\n\nIt outputs 15W more than the Anker Zolo and can charge a laptop-class device in a pinch. The detachable cable means a broken cord is a cheap swap, while the Zolo's cable is fixed.\n\nIt suits travelers who want maximum speed in minimum size. Samsung and iPhone flagships are listed charging to over 70 percent in about 30 minutes.",
     "specs": [
       "10,000mAh, 45W PD output",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41GzG-D9AsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GBWR19SB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GBWR19SB?tag=rvgearlab-amz-20",
     "description": "The FLEXTAILGEAR Zero 10000C weighs 5.1 oz and is 0.39 inches thin, with a carbon fiber shell, IPX4 water resistance and a rating for -10 degrees C. It delivers 22.5W, adds a Smart Range-Extension mode, and has a built-in USB-C cable that doubles as a strap.\n\nIt is the lightest and thinnest pack here and costs about twice as much as the Anker Zolo. Where the Anker is general purpose, the FLEXTAILGEAR targets outdoor use with cold and splash tolerance.\n\nIt suits backpackers who count ounces. A 10 percent emergency lock holds back a reserve for later.",
     "specs": [
       "5.1 oz, 0.39 inch thin",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31RX5AmwvYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D5CLSMFB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D5CLSMFB?tag=rvgearlab-amz-20",
     "description": "The Anker PowerCore Slim 10000 measures 5.99 by 2.81 by 0.61 inches, weighs 8.6 oz and carries a two-way USB-C port. It lists 2 charges for an iPhone 15, a 3.2 foot drop test and a USB-C to USB-C cable in the box.\n\nIt is slimmer than the Anker Zolo and gives less speed, and it has no built-in cable. It costs less than the INIU 45W.\n\nIt suits campers who keep the pack flat in a jacket or back pocket. The scratch-resistant finish handles pack-rattling.",
     "specs": [
       "10,000mAh, 0.61 inch slim",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/417i8Tql58L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FGDCY95C?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FGDCY95C?tag=rvgearlab-amz-20",
     "description": "The Evopow 2-Pack gives two 10000mAh banks, each 0.55 inches thick and about 219g. Each offers 3 outputs (dual USB-A and a USB-C) plus 2 inputs and USB-C bidirectional charging, and can run an iPhone 16 about 1.9 times.\n\nIt is the cheapest option per bank and the only one here with two USB-A ports for older devices. Compared with the INIU Mini, it gives up the 45W output.\n\nIt suits families or groups who want one pack per tent. Three devices can charge at once from a single bank.",
     "specs": [
       "Two 10,000mAh banks",

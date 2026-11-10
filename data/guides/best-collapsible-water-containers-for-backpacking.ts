@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41lrQCNEk7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G1BMPT1S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G1BMPT1S?tag=rvgearlab-amz-20",
     "description": "The CoreMuse is a 2.1 gallon (8 liter) collapsible jug with a spout, a separated inlet and outlet to balance air pressure, and reinforced seams with upgraded sealing. The listing includes a lifetime warranty handled through the Amazon order.\n\nIt strikes the balance between the 1.3 gallon bags and the 5.3 gallon Alaeseje pair, holding enough for a few people at camp without the full weight of a larger jug. The separate inlet and outlet gives smoother pouring than the MIAJO.\n\nIt suits backpackers who want a camp water jug for cooking and washing. The reinforced seams add confidence on a rough trail.",
     "specs": [
       "2.1 gal (8 L) jug",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51hEFMdGBFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D4Q3Z8BB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D4Q3Z8BB?tag=rvgearlab-amz-20",
     "description": "The SOCATER is a four-pack of 1.3 gallon bags made from PET PA PE plastics that the listing says are free of BPA, PVC and DEHP. The listing says they are freezer-safe down to -10 degrees C and have a 1.27 inch opening.\n\nThe bags are the smallest containers here, so each weighs about 11 lb when full, and four let you split water between several people. Compared with the WaterStorageCube bags, the listing gives the freezer temperature and the opening size.\n\nIt suits backpackers who want to carry water in small, shareable portions. A bag per hiker keeps the weight even.",
     "specs": [
       "Four 1.3 gal bags",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41fMKvWNYoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07MQR8YD4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07MQR8YD4?tag=rvgearlab-amz-20",
     "description": "The WaterStorageCube is a four-pack of 1.3 gallon collapsible bags made from BPA-free, food-grade PET plastic. The listing says they fold flat and can be used to chill beverages or store frozen items.\n\nIt is a lean four-pack like the SOCATER, with a freeze-friendly use that doubles as a cooler pack. The SOCATER adds a stated freezer temperature.\n\nIt suits backpackers who want small bags that double as ice packs. They fold flat when empty.",
     "specs": [
       "Four 1.3 gal bags",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41OuIWBsy-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GWYZBGVP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GWYZBGVP?tag=rvgearlab-amz-20",
     "description": "The MIAJO is a 2 gallon collapsible jug with an upgraded leak-resistant spigot, a food-safe material and a flat fold. The listing positions it for camping, hiking, car camping and survival gear.\n\nPriced under every other pick, it still gives a spigot where the bags do not. Compared with the CoreMuse it lacks a stated warranty and a separate inlet.\n\nIt suits budget-minded hikers who want a simple camp jug. The spigot lets you pour without lifting the whole jug.",
     "specs": [
       "2 gal capacity",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/415duQT3hRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GYHFLDXT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GYHFLDXT?tag=rvgearlab-amz-20",
     "description": "The Alaeseje is a pair of 5.3 gallon BPA-free containers with a spigot, a hook and reinforced carry handles. The listing describes a wide-mouth opening for fast filling and easy cleaning, and food-contact thickened material.\n\nIt holds the most water of the five, with the wide mouth that the 1.3 gallon bags lack. The listing says it suits vehicle, cabinet and backpack carrying.\n\nIt suits trailhead camps and vehicle-supported trips where weight is less critical. The hook lets you hang the jug at a wash station.",
     "specs": [
       "Two 5.3 gal containers",

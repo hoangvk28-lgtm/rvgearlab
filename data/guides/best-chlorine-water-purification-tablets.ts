@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/5137dzgLG1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B007W5D13O?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B007W5D13O?tag=rvgearlab-amz-20",
     "description": "The Aquatabs 49mg is a 30-pack of NaDCC tablets that the listing says removes 99.9999 percent of bacteria and 99.99 percent of viruses. It is EPA registered and certified to NSF/ANSI standard 60, and the water has no unpleasant taste, color or odor unlike iodine-based products.\n\nIt is the only pick here that cites both an EPA registration and an NSF/ANSI standard, which gives it the best paper trail of the three. The line also comes as a 397mg 100-pack that the listing says purifies 4 gallons in 30 minutes.\n\nTravelers and backpackers who want a documented tablet will find it here. The small tablets weigh almost nothing in a first aid kit.",
     "specs": [
       "EPA registered, NSF/ANSI 60",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41jwQuu6VHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FFB2JSXH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FFB2JSXH?tag=rvgearlab-amz-20",
     "description": "The ROZJOVU is a 100-count bottle of NaDCC tablets that the listing says purifies up to 4 gallons in 30 minutes to 1 hour, leaving no aftertaste, color or odor. The listing gives a shelf life of up to 5 years.\n\nIt gives you more than three times the tablets of the Aquatabs 49mg pack for under twice the price. The listing is also upfront that its time estimate excludes cryptosporidium.\n\nFamily campers and emergency kits get the most from the large count and long shelf life. One bottle can sit in a car kit for years.",
     "specs": [
       "100 NaDCC tablets",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31wodRstAoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H8XRYZ6T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H8XRYZ6T?tag=rvgearlab-amz-20",
     "description": "The Fastimals is a 100-count bottle of NaDCC tablets with a fast-dissolving effervescent formula designed to limit changes to taste and odor. The listing says to add the recommended number of tablets for your water volume and wait 30 minutes before use.\n\nIt suits containers from small bottles to larger storage, per the listing, and costs slightly less than the ROZJOVU. The effervescent tablet dissolves without stirring.\n\nRV owners and campers who treat both bottles and tanks will like the flexible dosing. The tablet fizzes apart without any stirring.",
     "specs": [
       "100 NaDCC tablets",

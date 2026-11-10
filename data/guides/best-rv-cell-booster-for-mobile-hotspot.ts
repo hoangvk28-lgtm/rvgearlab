@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41aDM0wpzkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08WTRVG61?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08WTRVG61?tag=rvgearlab-amz-20",
     "description": "The weBoost Destination RV is a cell signal booster for stationary use that supports 5G and 4G LTE for all US and Canadian carriers. It is FCC-approved, installs yourself, and works with all US carriers including Verizon.\n\nCompared with the SureCall Fusion2Go XR, it targets parked campsites rather than driving, with a brand-backed US build. It suits RVers who stay in remote spots and rely on a hotspot there.",
     "specs": [
       "5G and 4G LTE support",
@@ -53,7 +53,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Hi7HvTihL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DD1M2S3F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DD1M2S3F?tag=rvgearlab-amz-20",
     "description": "The SureCall Fusion2Go XR boosts 5G and 4G LTE signals for all US carriers and uses a high-gain omni-directional exterior antenna that mounts to a ladder or a short mast. A SureCall mobile app helps find the best antenna position.\n\nAgainst the weBoost Destination RV, it is built for motorhomes with an outdoor antenna you position using the app. It suits owners who want help placing the antenna for the strongest signal.",
     "specs": [
       "High-gain exterior antenna",
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51blLN4gcUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DF7SYLWS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DF7SYLWS?tag=rvgearlab-amz-20",
     "description": "The HiBoost Travel 2.0 boosts 4G and 5G LTE for all US carriers and includes a flexible indoor antenna with a 13 foot cable. It is FCC approved and comes with the Signal Supervisor app with no subscription.\n\nCompared with the SureCall Fusion2Go XR, it costs less while giving a movable indoor antenna and a monitoring app. It suits budget RVers who want a complete kit with signal monitoring.",
     "specs": [
       "4G and 5G LTE",
@@ -109,7 +109,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41E-zqtGDkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H9KZWH15?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H9KZWH15?tag=rvgearlab-amz-20",
     "description": "The Metarepeater MT1 is a cell booster for RVs and trucks with a large color LCD that shows working status. Its omni-directional antenna captures signals from all directions, and it supports multiple users and bands.\n\nNext to the HiBoost Travel 2.0, it adds an LCD display for at-a-glance checks. It suits owners who want to see the booster's status without an app.",
     "specs": [
       "Color LCD status display",
@@ -137,7 +137,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51yfKTYjwnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H8MWS8G6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H8MWS8G6?tag=rvgearlab-amz-20",
     "description": "The Truck RV Booster is a five-band cell phone signal booster for trucks, RVs, and overland vehicles that supports 3G, 4G LTE, and 5G. It connects several users at once, with a compact indoor antenna and a smart LCD.\n\nAgainst the Metarepeater MT1, it costs less and also uses an LCD, with simple install guides. It suits budget RVers who want basic multi-user boosting.",
     "specs": [
       "Five-band support",

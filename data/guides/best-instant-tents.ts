@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41qtFPpYBlL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D2W12RYZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D2W12RYZ?tag=rvgearlab-amz-20",
     "description": "Fanttik's Alpha C4 Ultra is a 4 person tent measuring 94 by 94 inches, with a pop-up X-frame, a removable rain cover and a 300D bottom fabric. The packed length is 57.8 inches, which the listing says is 9.8 inches shorter than typical tents.\n\nIt has the sturdiest stated floor and the shortest listed pack here, and the Coleman Tent offers more size options. Sealed seams at doors and windows are named.\n\nIt suits campers who want a tough instant tent that goes up in about a minute. The boxy walls help with headroom.",
     "specs": [
       "94 x 94 in, X-frame",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31NsFyuHaWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7QK1N81?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7QK1N81?tag=rvgearlab-amz-20",
     "description": "Coleman's family listing brings pre-attached poles, an integrated rainfly and Polyguard 2X double-thick fabric. It is an 8 by 7 ft design in the 4 person size, and setup runs from one to five minutes.\n\nColeman sells sizes from 4 to 10 person on one listing, a wider range than the PEAK Tent's 6 and 8. Its integrated rainfly also improves airflow.\n\nIt suits campers who want one brand across different group sizes. The double-thick fabric adds some reassurance.",
     "specs": [
       "8 x 7 ft, 4 person size",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31eIxXXAsyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GS58XBC1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GS58XBC1?tag=rvgearlab-amz-20",
     "description": "The PEAK OUTDOORS 6/8 Person tent features a 74 inch center height in the 6 person size and galvanized metal poles. The 190T polyester has a PU 2000mm coating with waterproof tape on the rainfly seams.\n\nIt undercuts the Fanttik Tent and Coleman Tent on price and has a large mesh roof. The listing says the rainfly can come off for stargazing at night.\n\nIt suits campers who want a tall cabin and a stated waterproof rating at the lowest price here. The mesh roof makes it good for warm nights.",
     "specs": [
       "74 in center height",

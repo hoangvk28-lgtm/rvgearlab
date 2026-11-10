@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51vg7yqG05L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FJ7L4RXN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FJ7L4RXN?tag=rvgearlab-amz-20",
     "description": "The Marcala V2.0 is the six-sensor kit in this budget list, rated for 0 to 144 PSI, which covers most travel trailer tires without paying for a premium brand. It arrives ready to watch all six tires and can be set up to monitor anywhere from one to six wheels.\n\nAgainst the Tymate TM12 below it, the Marcala gives you two extra sensors for roughly the same money, but the hub range is quoted at up to 26 feet, so a long trailer may need the separate Marcala range extender that boosts the signal up to 80 feet. The TM12 quotes 50 feet and a larger expansion path instead.\n\nIt suits a tandem-axle trailer owner who wants every tire on one screen for the lowest outlay. The caveat is range: if your rig is long, budget for the extender or choose a kit that already quotes a longer reach.",
     "specs": [
       "Six sensors, 0 to 144 PSI",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41J7kHAmpcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FH1L3LM1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FH1L3LM1?tag=rvgearlab-amz-20",
     "description": "The Tymate TM12 four-sensor set uses IP67 waterproof external sensors with a 433Hz color display that can show up to 12 tires across four zones. At this price it is the most expandable system here, since extra sensors can be added later.\n\nCompared with the Marcala above, you get fewer sensors out of the box but a longer quoted range of 50 feet, extendable past 100 feet with the Tymate Repeater. Compared with the Masoll 4-Sensor below it, the TM12 costs a little more and adds the multi-zone display and USB-C charging.\n\nPick it if you start with four tires today but expect to add a second axle or a tow vehicle later. The repeater is an accessory you would buy separately, so plan for that on a long rig.",
     "specs": [
       "Up to 12 tires, four zones",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41d8GfFpChL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CRB4TGX5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CRB4TGX5?tag=rvgearlab-amz-20",
     "description": "The Masoll four-sensor kit pairs a solar and USB rechargeable monitor with four pre-programmed tire sensors. It tracks pressure and temperature on four tires at once and offers six alarm modes with automatic alarm values.\n\nIt sits just above the Tymate TM7 in cost and does not need a vehicle outlet, because the monitor charges from its own solar panel or a USB cable. Against the Masoll M13 below, it is the more general four-wheel kit, while the M13 spells out a trailer length and a pressure ceiling.\n\nIt is a good fit for a single-axle trailer or a camper van where simplicity matters most. The listing does not state a PSI range in the title, so confirm the maximum before putting it on high-pressure tires.",
     "specs": [
       "Four pre-programmed sensors",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41A0hx+PWPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CPPDR25B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CPPDR25B?tag=rvgearlab-amz-20",
     "description": "The Tymate TM7 is a four-sensor set that powers its display from a cigarette lighter plug and dual USB ports, rather than relying on solar charging. It reads 0 to 144 PSI with a stated accuracy of plus or minus 1.5 PSI or 3 degrees F.\n\nCompared with the Marcala 6-Sensor, the TM7 has fewer sensors but a plug-in design that avoids a dead display on cloudy trips. It also has the same 0 to 144 PSI ceiling for the same low price, which is a real edge over the Masoll M13 and its 87 PSI limit.\n\nIt works best for people who already have a dash outlet and want a color LCD with adjustable backlight on four tires. Skip it if you want a solar-charged display with no cable across the dash.",
     "specs": [
       "0 to 144 PSI, plus or minus 1.5",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41MvQZ30D7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D943S8NW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D943S8NW?tag=rvgearlab-amz-20",
     "description": "The Masoll M13 is a four-sensor kit the listing positions for vehicles with four tires, including a travel trailer under 38 feet. It reads 0 to 87 PSI with a stated 1.5 PSI accuracy and automatically sets alarm values from the pressure you set.\n\nIt matches the Tymate TM7 on price, but the 87 PSI ceiling is the key difference: the TM7 reads to 144 PSI. The M13 offsets that with a solar panel and an anti-reflective, auto-backlight screen that stays readable in strong light.\n\nIt suits a bumper-pull trailer on standard passenger-style trailer tires with pressures well under 87 PSI. Do not buy it for tires that run 80 PSI or more cold, since there is almost no headroom.",
     "specs": [
       "0 to 87 PSI, 1.5 PSI accuracy",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51O2tO3JGLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09STJXT9R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09STJXT9R?tag=rvgearlab-amz-20",
     "description": "The GUTA GT30 comes with ten sensors and a large screen that shows up to 10 tires on one page, switching automatically between views. Its built-in rechargeable lithium battery runs 12 to 14 days after a four hour charge.\n\nIt costs several times more than every other budget pick, so it only belongs here as a step-up for large rigs. Against the Marcala 6-Sensor, the GT30 adds four more tires and alerts for missing sensor signal and low sensor battery, but you pay far more for that coverage.\n\nChoose it for a fifth wheel with a tow truck on one screen, or a long rig with spares. The listing describes the sensors as programmed wirelessly rather than naming a type, so check the style on the product page.",
     "specs": [
       "Ten sensors, ten tires per page",

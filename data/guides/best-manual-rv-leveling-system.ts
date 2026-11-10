@@ -31,7 +31,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41pp9VRR6XL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BS1VBD6V?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BS1VBD6V?tag=rvgearlab-amz-20",
     "description": "The CARMTEK Fit Kit is a curved leveler set that includes wheel chocks, rubber mats and a carry bag, with a patented anti-slip jointing system and a polymer build made for repeated use. The FIT design is shorter than the standard CARMTEK so it suits tight dual axles. At $85.40 it is the most complete kit in the group.\n\nAgainst the Beech Lane, the CARMTEK FIT puts its effort into dual-axle fit, with the shorter length meant to work between closely spaced tires. The anti-slip joint also links the leveler to the chock, which helps keep the ramp from creeping as you drive up.\n\nIt is the pick for travel trailer owners with dual axles who want chocks, mats and a bag in one box and expect to level at nearly every stop.",
     "specs": [
       "Curved levelers, chocks, mats",
@@ -59,7 +59,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41J7d0hmA8S._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07PPC57T7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07PPC57T7?tag=rvgearlab-amz-20",
     "description": "The Beech Lane 2 Pack contains two curved levelers, two chocks, two grip mats and a carrying bag, all in a patented ultra strong nylon polymer design. The custom rubber grip mats stop the levelers sliding while you back onto them. It costs $84.99.\n\nCompared with the CARMTEK Fit Kit, the contents are nearly the same, so the real difference is length and fit. The Beech Lane gives the curved ramp profile and a premium nylon polymer body at a price a few cents lower, which makes it a strong alternative for single-axle trailers and larger gaps between tires.\n\nIt suits owners of travel trailers and campers who want a premium curved leveler with grip mats and a bag and who are comfortable trimming a leveler if their axle spacing requires it.",
     "specs": [
       "Nylon polymer construction",
@@ -87,7 +87,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hVG9st99L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DRV258XX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DRV258XX?tag=rvgearlab-amz-20",
     "description": "The ROBLOCK system lifts from 1/2 inch to 6.3 inches, the tallest range in this group, and uses a gear mesh design that locks the ramps and blocks together. It is suited to vehicles up to 35,000 lbs gross weight and stores in a carrying bag. It costs $64.99.\n\nAgainst the LEIDGG kits, which top out at 4 and 4.7 inches, the ROBLOCK gives much more reach for steep or uneven sites, so it solves a problem the shorter systems cannot. Compared with the CARMTEK and Beech Lane kits, it trades curved ramps for stackable gear mesh blocks that build up height in steps.\n\nIt is the pick for owners who regularly camp on sloped pads, gravel sites or uneven ground and need the greatest lift for the money.",
     "specs": [
       "1/2 to 6.3 inch lift",
@@ -115,7 +115,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51ugcFMC0hL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G69X5247?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G69X5247?tag=rvgearlab-amz-20",
     "description": "The LEIDGG block system with handles is rated for 35,000 lbs and made of UV-resistant polypropylene that resists cracking and fading. It adjusts from 0.5 to 4.7 inches. The built-in handles make each block easy to carry and place, and it costs $29.99.\n\nCompared with the plain LEIDGG 2-Pack, it gains a little more lift at 4.7 inches against 4 and adds the handles, which matter every time you haul blocks from a bay to the tire. Against the ROBLOCK, it costs less than half as much while keeping the same 35,000 lb load rating.\n\nIt is the pick for owners who handle their blocks often, whether they are older, working alone or simply tired of awkward lifting, and who stay on sites that need less than about 4.7 inches.",
     "specs": [
       "0.5 to 4.7 inch range",
@@ -143,7 +143,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41k+PIkXyRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DJSPP741?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DJSPP741?tag=rvgearlab-amz-20",
     "description": "The LEIDGG 2-Pack uses solid polypropylene with a triple anti-slip gear mesh system. It levels in under 5 minutes from 1/2 to 4 inches and needs no trimming for fit. It is the lowest priced system in this list at $26.99.\n\nCompared with the LEIDGG with handles, it saves three dollars and keeps the same basic gear mesh approach, which makes it the entry point to a working leveling kit. Against the premium CARMTEK and Beech Lane kits, it delivers the leveling job without the bag and mats for roughly a third of the price.\n\nIt suits first-time owners, small trailers and campers who level on mostly flat sites and want a dependable system without spending much.",
     "specs": [
       "Triple anti-slip",

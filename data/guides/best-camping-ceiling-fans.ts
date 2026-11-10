@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41YIf3scW4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GFW1X5BZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GFW1X5BZ?tag=rvgearlab-amz-20",
     "description": "The Ausic is a 21-inch portable ceiling fan with a 20,400mAh battery, a brushless motor, a detachable lantern design and a remote that works from up to 40 ft with 360 degree coverage. It lists 40% more LED bulbs than typical outdoor ceiling fans.\n\nIt has a larger battery than the 15,600mAh Coycomn and a longer remote range than most, and it costs less than the Lumtide. The detachable part means the light can leave the fan and act as a lantern.\n\nIt suits campers with a canopy, gazebo or big tent who want one hanging unit with light and a remote. Patio and cruise use are also listed.",
     "specs": [
       "21-inch, 20,400mAh battery",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41UYHtdssgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GWVNX4YQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GWVNX4YQ?tag=rvgearlab-amz-20",
     "description": "The Lumtide is a 20-inch ceiling fan with a 20,000mAh battery and a 30W solar panel, four speeds, and a dimmable light from 3000K to 6000K with stepless dimming from 10 to 100 percent. It uses a 2.4G wireless remote with 360 degree coverage and detachable blades for storage.\n\nIt is the only pick here that can recharge itself from the sun, which sets it apart from the Ausic. The Type-C port can also power small gadgets.\n\nIt suits campers on multi-day trips who want to recharge from solar. It hangs, mounts or sits on a surface with the included hook.",
     "specs": [
       "20-inch, 20,000mAh, 30W solar",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51OyQI2-+AL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G8F4JXJH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G8F4JXJH?tag=rvgearlab-amz-20",
     "description": "The LANMEL is a 28-inch ceiling fan with a 16.5 ft plug-in cord, hook and screws, a 6-speed remote, a 3000K to 6000K light and timing. It has an IP65 waterproof rating for rain and snow and is listed for gazebos, pergolas, patios and garages.\n\nIt has the widest blades here by a margin, and it is the only weather-rated pick. Against the battery fans it needs an outlet or generator, which the Ausic does not.\n\nIt suits campers with a power source who want a big, rain-ready fan over a picnic area. The listing says it installs without an electrician.",
     "specs": [
       "28-inch, IP65 waterproof",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31MRXZSsRkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GV5YR6Z6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GV5YR6Z6?tag=rvgearlab-amz-20",
     "description": "The Coycomn is an 18-inch camping ceiling fan with a 15,600mAh battery that the listing puts at up to 25 hours of cooling. It has a built-in LED light, quiet operation and detachable blades for storage.\n\nIt sits below the Ausic on battery size and above the Roodike on runtime freedom, because it needs no cord. It costs less than half the Ausic.\n\nIt suits tent and RV campers who want a quiet fan overhead with light for cooking or reading. The listing frames it for gazebo and night fishing use.",
     "specs": [
       "18-inch, 15,600mAh",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41GJK-GMfoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09WXZYT87?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09WXZYT87?tag=rvgearlab-amz-20",
     "description": "The DUKUSEEK combines a camping lantern, a hanging fan and an emergency power bank in one small unit. It uses a brushless motor, a remote with timer mode, a high-strength ABS body and lists CE and FCC certification.\n\nIt has the lowest price here and is the most compact of the battery fans. It gives up the 20 inch blades of the Lumtide for a small tent-size fan.\n\nIt suits solo and two-person tents where a large fan would not fit. The power bank function tops up a phone.",
     "specs": [
       "3-in-1 fan, lantern, power bank",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31RWclZgsRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CSVN13HM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CSVN13HM?tag=rvgearlab-amz-20",
     "description": "The Roodike is a 17-inch USB ceiling fan with 5 blades and a 330 RPM motor listed at 36 dB. It comes with a 13.2 ft UL-listed cord with an on/off button, and the listing says 5W of power use.\n\nIt is the only pick that runs straight off a power bank, car charger or laptop, and it costs little. It has no battery of its own, unlike the Coycomn.\n\nIt suits campers who already carry a power bank and want a quiet, low-draw fan for a tent or RV. The listing notes it is small for a ceiling fan.",
     "specs": [
       "17-inch, 5 blades, 330 RPM",

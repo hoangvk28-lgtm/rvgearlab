@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41D7e0GR5IL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H4GJY81J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H4GJY81J?tag=rvgearlab-amz-20",
     "description": "This 13 by 10 ft inflatable lists 129 sq ft of floor plus a 64.5 sq ft vestibule, with a usable interior of 118 by 157 by 82.6 inches. A zippered blackout canopy works as one big rainfly or splits into two covers.\n\nWithin the 13x10 group it is the one built around separation: a removable curtain divider turns the single room into living and sleeping zones. The foot mat and shoe pouch keep the entry zone tidy, which the other large models do not mention.\n\nIt suits a group of up to eight that wants a heated base camp with a darker sleeping half. A stated 48-hour leak test and 420D Oxford fabric back the weather claims.",
     "specs": [
       "129 sq ft plus vestibule",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/413grawh-8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FT7DD3JG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FT7DD3JG?tag=rvgearlab-amz-20",
     "description": "The Rainfly Pad model is a 13 by 10 ft inflatable rated for 8 to 10 people, with a 157 by 118 by 83 inch usable area. It pairs a silver-coated rainfly with an anti-moisture floor pad, two doors and six windows.\n\nWhere the blackout model leans on a divider, this one leans on damp control: the floor mat blocks ground moisture and the silver coating sheds heavy rain. Its two-layer walls, one airtight and one mesh, give it better airflow than the smaller FICISOG.\n\nIt fits cold, wet trips where condensation and damp ground are the real problem. Inflating takes about 10 minutes by hand pump.",
     "specs": [
       "Silver-coated rainfly",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41HYXMH7QCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GVNJS7H3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GVNJS7H3?tag=rvgearlab-amz-20",
     "description": "This 13 by 10 ft model lists 6 inch integrated air columns, a blackout interior that blocks 95 to 98 percent of sunlight and a 14 oz PVC floor. It adds two doors, two windows, two skylights, a stove jack and an AC port.\n\nIts beams are the thickest in the group, which the listing contrasts with 4.7 inch columns on typical air tents. That sturdier frame and heavy floor set it apart from the blackout and rainfly 13x10 models, which describe fabric rather than structure.\n\nIt suits windy campsites and hot-and-cold swing seasons where a stiff frame and a dark interior both matter. The AC port lets you route power in.",
     "specs": [
       "6 inch air columns",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51dNWpXCKkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FKBWMG9W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FKBWMG9W?tag=rvgearlab-amz-20",
     "description": "The FICISOG gives 67.8 sq ft of floor (9.8 by 6.9 by 6.4 ft) in a tent that sets up in about five minutes with reinforced TPU air beams and a hand pump. It lists a built-in insulated stove jack, 420D Oxford fabric rated PU3000mm and UPF50+ protection.\n\nNext to the three 13x10 tents it is far smaller and cheaper, which makes it the easy one to carry and warm. It also has two large doors, six windows and double-layer mesh for airflow.\n\nA couple, or a family of up to six sharing one space, is the buyer here. It also works for anyone who wants an inflatable hot tent without a huge bill.",
     "specs": [
       "67.8 sq ft interior",

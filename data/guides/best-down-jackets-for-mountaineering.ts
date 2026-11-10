@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41YpYe6NSUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FCPL8XWK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FCPL8XWK?tag=rvgearlab-amz-20",
     "description": "The Rab Electron Pro is an all-mountain midweight puffy with 800-fill hydrophobic down and a Pertex Quantum Pro shell that is windproof, downproof and treated for extreme water resistance. It weighs 16.8 ounces and has a helmet-compatible hood with a stiffened peak.\n\nAgainst the Rab Microlight Alpine, it uses higher 800 fill and a more weatherproof shell. Compared with the Pioneer Camp, it is built with midi and micro baffles for mobility.\n\nIt suits mountaineers who want a proven alpine layer. The adjustable hem and regular fit layer easily.",
     "specs": [
       "800-fill hydrophobic down",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41mr+aHz5pL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H3V1L2HL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H3V1L2HL?tag=rvgearlab-amz-20",
     "description": "The Pioneer Camp 800 Fill is a goose down jacket with 90 percent goose down at 800 fill power, 7 ounces of fill in size L and a 20D ripstop shell with Teflon protection. A graphene-integrated lining and a 3D-adjustable hood add heat retention and wind protection.\n\nAgainst the Rab Electron Pro, it states a temperature range of 5 to 32 degrees at rest. Compared with the Rab Microlight Alpine, it uses higher fill power for less weight.\n\nIt suits climbers who want 800-fill warmth at a lower price than the Rab. Handwarmer pockets and a raised collar seal out cold.",
     "specs": [
       "90% goose down, 800 fill",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ca5zrCYcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08CKCY3GX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08CKCY3GX?tag=rvgearlab-amz-20",
     "description": "The Rab Microlight Alpine is a 700-fill RDS recycled hydrophobic down jacket with a Pertex Quantum ripstop shell. Zoned micro and nano baffles add warmth where it matters without bulk.\n\nAgainst the Rab Electron Pro, it is lighter and cheaper with lower fill power. Next to the Pioneer Camp, it adds ethical recycled down and a Rab-quality shell.\n\nIt suits climbers who want a packable layer for alpine mornings. The shell blocks light flurries and gusts.",
     "specs": [
       "700-fill recycled hydrophobic down",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31BaHgj+PKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B5FQ75TC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B5FQ75TC?tag=rvgearlab-amz-20",
     "description": "The Eddie Bauer CirrusLite is an ultralight, packable down jacket with 650-fill insulation and a recycled polyester shell with a StormRepel DWR finish. Zip side pockets hold small essentials and a higher neckline holds heat.\n\nAgainst the Rab Microlight Alpine, it uses lower 650 fill and costs a fraction. Compared with the fit space, it is true down.\n\nIt suits approach hikes and mild mountain days. It also makes a good under-shell layer.",
     "specs": [
       "650-fill down insulation",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31rgf8u7gUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CLGV2JQP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CLGV2JQP?tag=rvgearlab-amz-20",
     "description": "The fit space Synthetic is a women's puffer with 200 grams of synthetic insulation, a full nylon shell and a removable hood. The listing says the synthetic fill resists moisture and dries faster than down.\n\nAgainst the Eddie Bauer, it uses synthetic fill that keeps insulating when wet. Compared with the Rab pieces, it is far less expensive.\n\nIt suits women who want a wet-weather insulated layer. The listing names winter hiking, ski touring and mountaineering.",
     "specs": [
       "200g synthetic insulation",

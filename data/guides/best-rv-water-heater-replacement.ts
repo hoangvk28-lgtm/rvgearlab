@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41HeRtQZGZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GL7ZNV7G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GL7ZNV7G?tag=rvgearlab-amz-20",
     "description": "The KINGRVER 6 gallon tank heater is a propane, direct spark ignition unit sized for most 4 to 6 gallon cutouts, at 21 by 12.7 by 12.7 inches. It needs at least 3 inches of extra clearance, runs on 12V DC ignition and has a controller with three temperature levels.\n\nAgainst the Suburban SW6D, it adds a remote controller but is a newer brand. Against KINGRVER 10 Gal, it fits the smaller cutout and costs less.\n\nBest for swapping a failed 6 gallon tank in a standard opening. Confirm the dimensions and clearance first.",
     "specs": [
       "6 gal propane, DSI",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/514TLfNQdfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01NBTVDBC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01NBTVDBC?tag=rvgearlab-amz-20",
     "description": "The Suburban SW6D is a 6 gallon direct spark ignition heater with a porcelain-lined steel tank and a replaceable anode rod. The listing says an optional electric element can add campsite or generator power.\n\nAgainst KINGRVER 6 Gal, it is a familiar brand with an anode rod to service but has no remote. Against KINGRVER 10 Gal, it holds less water.\n\nBest for a like-for-like swap with an existing Suburban. Confirm whether you get the electric element version.",
     "specs": [
       "6 gal DSI, porcelain-lined",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41TY+9kBdlL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GS5LK95T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GS5LK95T?tag=rvgearlab-amz-20",
     "description": "The KINGRVER 10 gallon heater combines a 12,000 BTU propane burner with electric operation and can run on propane, electric or both. The listing says it fits many common 10 gallon openings with standard water and gas connections and has an indoor temperature control.\n\nAgainst the 6 gallon units, it holds more water and recovers faster in hybrid mode but costs more and needs a 10 gallon cutout. Against the ORBEK tankless, it is a tank rather than on demand.\n\nBest for a 10 gallon opening and heavy hot water use. Measure the cutout carefully.",
     "specs": [
       "10 gal propane and electric",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41l0bDLT7WL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FR8NDM36?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FR8NDM36?tag=rvgearlab-amz-20",
     "description": "The ORBEK RV Tankless Water Heater is a propane, 12V DC unit with a 60,000 BTU burner, oxygen-free copper heat exchangers and a high altitude mode. Door panels in black or white are sold separately for 15 by 15, 15 by 18 and 18 by 18 inch cutouts.\n\nAgainst the tank heaters, it heats on demand rather than storing water, and it costs less than the 10 gallon KINGRVER. It needs 12V power, which a tank heater like the Suburban SW6D does not.\n\nBest for owners who want to replace a tank with an on-demand unit. Confirm the door size and gas supply.",
     "specs": [
       "60,000 BTU propane, 12V DC",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51V5Bk2visL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FLDJMQ69?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FLDJMQ69?tag=rvgearlab-amz-20",
     "description": "The AutoAlly kit bundles an Atwood 93844 gas valve, a 93868 igniter and a 91638 burner tube for Atwood 6 and 10 gallon heaters. The listing says the igniter is pre-set to a 1/8 inch gap and the parts drop into the original positions in under an hour.\n\nAgainst a whole heater, it only fits a no-light fault on a compatible Atwood and costs a fraction. It is not a replacement for a rotted tank.\n\nBest for an Atwood that will not light or lights intermittently. Check your model number against the listed parts.",
     "specs": [
       "Gas valve, igniter, burner tube",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41-b3qj-QWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09NVTS98F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09NVTS98F?tag=rvgearlab-amz-20",
     "description": "The Dreyoo is a 1/2 inch NPT male brass drain valve with a hardened steel handle and PTFE tape, sold as a replacement for a leaking RV water heater drain plug. It fits RV, camper and trailer heaters with that thread.\n\nAgainst the AutoAlly Gas Kit, it fixes a drip at the drain rather than a heating fault. It is by far the cheapest pick here.\n\nBest when water drips from the drain plug. Check the thread size and use the supplied tape.",
     "specs": [
       "1/2 inch NPT brass drain valve",

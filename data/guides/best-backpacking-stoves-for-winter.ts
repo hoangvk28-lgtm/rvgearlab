@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41OKuwDPDCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H3KCVBXF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H3KCVBXF?tag=rvgearlab-amz-20",
     "description": "The Cafelite splits the burner from the canister with a 39.4 inch braided hose and a 15,000 BTU direct-injection flame. Its listing says the split design keeps gas output stable in freezing environments and lists use in winter camping.\n\nCompared with the AOTU Piezo it carries a carbon steel stand rated for 55 pounds of cookware, a windproof swirl burner and an external igniter pen instead of a built-in piezo. It also fits both threaded isobutane/propane canisters and long butane tanks with the supplied adapter.\n\nA strong choice for winter backpackers and motorcycle campers who want the canister away from the flame and a rigid case. The kit includes a hose, adapter, igniter and pot support.",
     "specs": [
       "15,000 BTU, 39.4 inch hose",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41aPJtKsHJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08NLVKHPP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08NLVKHPP?tag=rvgearlab-amz-20",
     "description": "The Kuvik is a Grade-1 titanium wood stove that assembles to 6.25 by 5 by 5 inches and collapses to 0.2 inch. It weighs 6.8 ounces and comes with a carrying case that keeps soot off the rest of your pack.\n\nUnlike the Cafelite it needs no canister, so cold-soaked gas is never an issue; twigs and sticks are the fuel. It is a bare firebox, which means less heat control than the gas picks.\n\nFits winter hikers in forested terrain who want a wood fire and no fuel to carry. The listing calls it fit for winter survival kits.",
     "specs": [
       "Grade-1 titanium",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hybCmWPwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07NJYV3NP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07NJYV3NP?tag=rvgearlab-amz-20",
     "description": "The AOTU is a 3,000 W canister stove with an adjustable valve that runs from a hot boil down to a simmer. The burner is aluminum alloy with a honeycomb windproof net, and the threaded port takes 7/16 canisters of butane or a butane-propane mix.\n\nAt the lowest price here it is the plain gas choice next to the Cafelite 15000 BTU, with no hose and no winter claim of its own. A burner platform of 9.5 by 9.5 cm suits one to three people.\n\nA sensible budget stove for shoulder-season trips where you will warm the canister in your jacket. Fold-away parts pack into a small box.",
     "specs": [
       "Suits 1 to 3 people",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51kUZkyzcnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07VHMZTJ1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07VHMZTJ1?tag=rvgearlab-amz-20",
     "description": "The REDCAMP is a stainless steel wood-burning stove that unfolds to 8.3 by 5.9 by 5.5 inches and folds to 1.5 inches thick. A stainless grid backing plate creates a stable cooking platform, and it burns leaves and twigs.\n\nIt weighs 1.9 pounds, well above the 6.8 ounce Kuvik Titanium Stove, in exchange for a lower price and steel in place of titanium. A carry bag comes with the stove.\n\nA budget wood-burning pick for car-supported winter trips where weight matters less. The cuboid body gives pots a steady base.",
     "specs": [
       "1.9 lb stainless steel",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41dj8udLdPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G5PYWD3P?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G5PYWD3P?tag=rvgearlab-amz-20",
     "description": "The Zarkind is a 304 stainless steel wood stove with foldable legs, a detachable chimney pipe, a spark arrestor and a glass window. The listing positions it for hot tents, winter camping and ice fishing shelters, with a large firebox for longer burns.\n\nIt is the only pick here built to heat a shelter as well as cook, which separates it from every stove above. It costs the most of the five and is aimed at base camps rather than ultralight trips.\n\nRight for hot tent campers and ice fishers who want warmth and a cooktop in one. The airtight sealing helps hold heat and limit smoke.",
     "specs": [
       "304 stainless steel",

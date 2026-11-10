@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51ecf1xUrwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CS6J4H1H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CS6J4H1H?tag=rvgearlab-amz-20",
     "description": "WildFinder is a 3 by 2 foot folding table with two reversible wing panels that add tabletop space when you need it. Adjustable legs take it from 15.7 inches up to a taller dining height.\n\nCompared with the Coleman, it adds the wings and height flexibility, and it is bigger than the Anbte table. It lists a waterproof, fireproof top and assembles without tools.\n\nA great match for couples and small families who want one table that works for meals and cooking. Set it up once and it handles breakfast, dinner and cooking.",
     "specs": [
       "3x2 ft with wing panels",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31DOGV8Jl-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B005G0XFEM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B005G0XFEM?tag=rvgearlab-amz-20",
     "description": "The Coleman has a slat top of aluminum that rolls up for compact storage, a strong steel frame and a snap-together design. It seats four and packs into a carry bag.\n\nIt is simpler than the WildFinder, with no wings or height adjustment, and the roll-up top packs smaller and feels like a traditional campsite table. It suits repeated use at the same kind of site.\n\nBest for family car campers who want a familiar, sturdy table with a carry bag. The roll-up top keeps it easy to stow in a trunk.",
     "specs": [
       "Aluminum roll-up slat top",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41A1H62Ea4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CKQTB4CF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CKQTB4CF?tag=rvgearlab-amz-20",
     "description": "VEVOR is a camp kitchen station with an aluminum tabletop, three adjustable heights, a zippered storage compartment and a slim 5.5-inch folded profile. It sets up in under a minute without tools.\n\nWhere the other tables are for eating, this one is for cooking and prep, with a three-sided wind screen around the stove. The MDF countertop and reinforced frame give it a cook-station feel.\n\nA top choice for campers who cook full meals and want storage built into the table. Storage on the side keeps utensils within reach.",
     "specs": [
       "Three adjustable heights",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41k1F5OD0eL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09F96VQRF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09F96VQRF?tag=rvgearlab-amz-20",
     "description": "Anbte measures 24 by 16 inches with three fixed heights of 10, 18.89 and 27.5 inches. It folds into a briefcase-sized package and includes an under-table storage net.\n\nIt is smaller than the WildFinder and cheaper, and offers more height positions than the beach tables. The aluminum alloy frame and easy-clean top suit a stove, a cooler lid or snacks.\n\nA fit for couples, picnic spots and anyone who wants a side table at each campsite. Three heights let it double as a low stove stand.",
     "specs": [
       "24x16 in tabletop",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41LYTJB4INL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GCDTYX7V?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GCDTYX7V?tag=rvgearlab-amz-20",
     "description": "The hediya set includes two folding tables, each 16.5 by 13.9 inches and about 2.46 pounds. They have a reinforced triangular support structure and set up without tools.\n\nTwo tables for one price lets you split food and gear, which the single beach tables cannot. They are heavier than the ROCK CLOUD and sturdier thanks to the triangular supports.\n\nA fit for beach days, picnics and campsites where one table is never enough. Each one is light enough to carry in one hand.",
     "specs": [
       "Two tables per set",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/419UZ2egB6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09FJT72DJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09FJT72DJ?tag=rvgearlab-amz-20",
     "description": "ROCK CLOUD weighs 2.2 pounds, unfolds to 16 by 14 by 11.5 inches and packs to 17 by 6 by 3 inches. It uses an aerospace-grade aluminum alloy and a nylon hinge on the folding top.\n\nIt is the lowest price and lightest here, which makes it better for hiking than the hediya pair or the WildFinder. It trades surface area for portability.\n\nBest for solo campers, backpackers and hammock campers who want a small stove table. It slips into a pack side pocket.",
     "specs": [
       "2.2 lb, packs 17x6x3 in",

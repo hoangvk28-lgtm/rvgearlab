@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31NncQAQ8LL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B002RNB70A?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B002RNB70A?tag=rvgearlab-amz-20",
     "description": "The EternaBond RSW-6-50 RoofSeal in white is a 6 inch by 50 foot tape that suits sunny environments. Its listing says the elongation factor is very high, so the tape expands and contracts with changing conditions.\n\nThe silicone lining on the adhesive side stops it sticking before application. It costs less than the black roll while giving a cooler look.\n\nIt fits owners with a white roof who want the original system. Among 6 inch eternabond tape for rv roof, think white roofs.",
     "specs": [
       "6 in x 50 ft white",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/215UoxRm0ZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07NPVD2VF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07NPVD2VF?tag=rvgearlab-amz-20",
     "description": "The EternaBond RSB-6-50 RoofSeal in black is a 6 inch by 50 foot MicroSealant tape. Its listing says it is meant for re-seaming roofs regardless of material and makes a permanent watertight seal.\n\nIt is the same system as the white roll, but in black. It costs slightly more.\n\nIt fits owners with metal or dark roofs. In 6 inch eternabond tape for rv roof, metal and dark roofs is its lane.",
     "specs": [
       "6 in x 50 ft black",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Zk5kz31NL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BPWQLQ8X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BPWQLQ8X?tag=rvgearlab-amz-20",
     "description": "The Kohree 6 inch by 50 foot butyl roll is white and UV resistant. Its listing calls it a self-priming seal for roofs, windows and doors and notes it is made with premium butyl.\n\nIt is one of the lowest priced 6 inch rolls. It adds super sticky, flexible handling on curves.\n\nIt fits owners with a wide tear who want a low price. Among 6 inch eternabond tape for rv roof, think wide tears on budget.",
     "specs": [
       "Butyl, 6 in x 50 ft",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41RExkpDzWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B099S3NV67?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B099S3NV67?tag=rvgearlab-amz-20",
     "description": "The PAULINN 6 inch by 50 foot roll uses natural rubber, with a surface that primes itself and silicone coating. Its listing highlights a natural pure white color closer to the roof.\n\nIt sits in the mid price of this list. It adds silicone UV protection.\n\nIt fits owners who want a clean look on visible wide seams. On 6 inch eternabond tape for rv roof, visible wide seams is where it fits.",
     "specs": [
       "Natural rubber, 6 in x 50 ft",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41x1gnDTEfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D95XF7N8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D95XF7N8?tag=rvgearlab-amz-20",
     "description": "The IONCAT 6 inch by 50 foot tape carries a high expansion coefficient for camper roofs. Its listing names UV and weather resistance with a protective silicone layer and a 3 step install.\n\nIt is among the cheapest 6 inch rolls. It lists wide compatibility.\n\nIt fits owners who want a flexible, low-cost wide roll. Among 6 inch eternabond tape for rv roof, think low-cost wide roll.",
     "specs": [
       "6 in x 50 ft",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41V0yk3+4fL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DXQCKD9T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DXQCKD9T?tag=rvgearlab-amz-20",
     "description": "The CHUANGSEED white tape is titled 8 inch by 50 feet with a butyl rubber layer on PDA film. It resists UV, moisture and chemicals and creates a waterproof airtight seal.\n\nIts bullets say 6 inches, so size must be confirmed. It is priced higher than the other butyl rolls.\n\nIt fits owners comfortable confirming the width before ordering. Among 6 inch eternabond tape for rv roof, think large tears if verified.",
     "specs": [
       "PDA film with butyl",

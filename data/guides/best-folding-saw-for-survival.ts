@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31I9GUgkS5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01LWZ4ZLA?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01LWZ4ZLA?tag=rvgearlab-amz-20",
     "description": "The AGAWA Boreal21 is a 21-inch folding saw with a 6063 anodized aluminum frame, stainless hardware and a three-hinged trapezium shape. It weighs 18 oz and unfolds in seconds.\n\nIt reaches farther than any saw on this list and weighs far more than the 2.5 oz Outdoor Edge. The frame design lets it saw larger limbs than the short blades can handle.\n\nIt is the right pick for a survival kit built around shelter and fire, where larger wood is the job. It packs into a backpack.",
     "specs": [
       "21-inch frame, 18 oz",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31qf5keSvGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0001IX7OW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0001IX7OW?tag=rvgearlab-amz-20",
     "description": "The Bahco Laplander has a 7-1/2 inch blade with XT toothing at 7 TPI and a rust-resistant, low-friction coating. It locks in both open and closed positions and has a two-component 9 inch handle with a leather strap.\n\nIt is shorter than the Craft911 and LAGOM yet cuts green or dry wood, bone and plastic with its toothing. The lock in both positions is a safety plus over saws that lock only open.\n\nIt is for survivalists who want a proven, compact folder. It fits a belt pouch or kit.",
     "specs": [
       "7-1/2 inch XT blade, 7 TPI",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/415pe4tmBXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C6WRJ9GG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C6WRJ9GG?tag=rvgearlab-amz-20",
     "description": "The LAGOM has an 11.4 inch curved SK5 steel blade made in Taiwan with a 3-gear lock design. The blade is high-carbon steel and the saw is lightweight and foldable.\n\nIt has a longer blade than the Bahco Laplander and costs more than the budget Craft911. The 3-gear lock holds the saw open or closed.\n\nIt suits survival kits that call for a bigger cut than a pocket saw gives. The curved blade pulls into wood.",
     "specs": [
       "11.4 inch curved SK5 blade",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zfzY4of4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B003ZSHCJG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B003ZSHCJG?tag=rvgearlab-amz-20",
     "description": "The Outdoor Edge Flip N' Zip has a 4.4 inch 65Mn spring steel blade with a triple-ground tooth pattern and a 6061-T6 aluminum handle in orange. It weighs 2.5 oz and uses a lock-back safety.\n\nIt weighs a fraction of the other saws, which makes it the easiest to carry every day. The bright handle is easy to find in snow or leaves.\n\nIt is for emergency kits where weight is the limit. It handles small branches and game.",
     "specs": [
       "4.4 inch 65Mn spring steel blade",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41LMKrWOdDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C4D8BF25?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C4D8BF25?tag=rvgearlab-amz-20",
     "description": "The Mossy Oak folding saw has a 7 inch D6A and M2 bimetal blade with Teflon coating and 7 TPI triple-ground teeth. It locks automatically when fully opened and comes with a pouch.\n\nIt gives a bimetal blade at a lower price than the Bahco Laplander, with auto-lock and a handle hole for attachments. The blade is shorter than the LAGOM.\n\nIt suits budget kits that want a hard blade. The hole in the handle lets you add a lanyard.",
     "specs": [
       "7 inch bimetal blade, 7 TPI",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41lMhm88RvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GR5FLGQ5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GR5FLGQ5?tag=rvgearlab-amz-20",
     "description": "The Craft911 has an 11 inch triple-cut SK5 steel blade with 7 TPI razor teeth and an ergonomic non-slip handle. It is a pruning saw sold for camping and bushcraft.\n\nIt has a longer blade than the Mossy Oak and costs less than the LAGOM. It is a basic design without a rated lock, so it is the entry pick.\n\nIt is best for survivalists building a cheap backup kit. It cuts limbs and firewood.",
     "specs": [
       "11 inch SK5 triple-cut blade",

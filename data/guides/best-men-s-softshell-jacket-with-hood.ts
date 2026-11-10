@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41XpNjqPYIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CF9HZNQ3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CF9HZNQ3?tag=rvgearlab-amz-20",
     "description": "The Rdruko Hooded Softshell is built in three layers: a water-resistant softshell outer, a TPU membrane in the middle and a fleece lining. It has a full zip, adjustable hood and hem, Velcro cuffs and five pockets, including a zippered chest pocket and two spacious interior pockets.\n\nCompared with the TACVASEN Rain Softshell, it adds reflective strips and a more traditional hood. Against the Zoofly Fleece Softshell, it keeps the hood fixed and gives a lined three-layer build.\n\nIt suits men who want one hooded layer for fall hikes, camping and ice fishing. Reflective strips on the front and back help in low light.",
     "specs": [
       "3-layer shell, TPU membrane",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/419rZ0uiy+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FY66DBY2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FY66DBY2?tag=rvgearlab-amz-20",
     "description": "The TACVASEN Rain Softshell lists a 10,000 mm waterproof rating and 5,000 g per square meter per 24 hours breathability. A rainproof brim extends the hood, and a double-headed zipper lets you open from the bottom for sitting or driving.\n\nNext to the Rdruko Hooded Softshell, it names waterproof and breathability numbers and adds a hood brim. Against the EIGIOO Lightweight Softshell, it states a higher waterproof rating.\n\nIt suits men who face real rain and want a brimmed hood and a flexible zipper. Large chest pockets hold the essentials.",
     "specs": [
       "10,000 mm waterproof rating",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/418GcD4xIHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B089SGF4PK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B089SGF4PK?tag=rvgearlab-amz-20",
     "description": "The Outdoor Ventures Softshell is a midweight water-resistant jacket with a windproof mid-layer and brushed fleece lining. It has an adjustable drawcord hood, cuffs and hem, two roomy inside pockets and three outside zippered pockets with reflective zip pullers.\n\nCompared with the Zoofly Fleece Softshell, it has fewer pockets and a more everyday look. Against the Rdruko Hooded Softshell, it adds reflective zip pulls and a brushed fleece lining.\n\nIt suits men who want a casual hooded jacket for fall travel, work and cycling. The stretch fabric keeps the fit comfortable.",
     "specs": [
       "Brushed fleece lining",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41mNUubm4pL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H6PZ8WVW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H6PZ8WVW?tag=rvgearlab-amz-20",
     "description": "The Zoofly Fleece Softshell has a DWR coating that blocks light rain, snow and chilly wind, a soft fleece interior and a detachable hood. It offers nine pockets in total: two zip chest, two zip side hand, one zip arm and four open inner pockets.\n\nCompared with the Outdoor Ventures Softshell, it has far more pockets and lets you take the hood off. Against the Reebok Sherpa Softshell, it is lighter and more technical.\n\nIt suits men who switch between hooded and hoodless looks and carry plenty of gear. The regular cut with subtle stretch allows climbing and bending.",
     "specs": [
       "DWR coating, fleece interior",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/316j2wi6SML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GZ1892LN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GZ1892LN?tag=rvgearlab-amz-20",
     "description": "The Reebok Sherpa Softshell is a midweight bonded sherpa jacket with a hooded design and a weather-resistant softshell shell. It has hidden zip hand pockets, reversed-coil zippers with logo pulls and a flexible shell that moves with the body.\n\nCompared with the Rdruko Hooded Softshell, it swaps the fleece lining for plush sherpa and stays more casual. Against the EIGIOO Lightweight Softshell, it is warmer and less technical.\n\nIt suits men who want a cozy hooded layer for cold errands and dog walks. The listing names breezy days and shifting temperatures.",
     "specs": [
       "Midweight bonded sherpa lining",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31sxg-29G9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FQV6MW3G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FQV6MW3G?tag=rvgearlab-amz-20",
     "description": "The EIGIOO Lightweight Softshell uses 96 percent polyester and 4 percent spandex over a fleece liner. The listing gives an 8,000 mm waterproof rating and 1,000 g per square meter per 24 hours breathability, with an adjustable drawcord hood and hook-and-loop cuffs.\n\nCompared with the TACVASEN Rain Softshell, it costs less and lists a lower waterproof number. Against the Reebok Sherpa Softshell, it is lighter and more technical.\n\nIt suits men who want a hooded waterproof-rated shell at the lowest price here. Five pockets include two inner patch pockets and a covered chest pocket.",
     "specs": [
       "8,000 mm waterproof rating",

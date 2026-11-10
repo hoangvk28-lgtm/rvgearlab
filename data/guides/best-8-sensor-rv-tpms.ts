@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51x81VNIKNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CW9DXNNH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CW9DXNNH?tag=rvgearlab-amz-20",
     "description": "The GUTA GT20 8-Set reads 0 to 188 psi and tire temperature from minus 40 F to 221 F, with 6 alert modes including rapid air loss, abnormal pressure or temperature and low battery. The listing says the display can show information for up to 24 tires and its orientation can be adjusted.\n\nIt ranks first because it combines the widest stated pressure and temperature ranges with a 24-tire display for expansion. It costs more than twice the price of the B-Qtech 8-Set below.\n\nBest for a truck and trailer or motorhome and toad where you may add tires later. It supports PSI or BAR and customizable thresholds.",
     "specs": [
       "8 sensors, 0-188 psi",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51fIvP+ptOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DRCN9LMP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DRCN9LMP?tag=rvgearlab-amz-20",
     "description": "The GUTA GT40 8-Set includes cap sensors with a stated transmission distance of up to 36 ft, and the listing says it can monitor up to 8 main tires and 2 spares. It has 6 alarm modes, solar and USB charging and an HD LCD with auto backlight.\n\nCompared with the GUTA GT20 8-Set it costs a little less and shows fewer tires, but lists spare tire support. Against the B-Qtech 8-Set below it states a transmission distance.\n\nBest for a rig with eight tires plus spares. A 36 ft range may be tight for a long trailer, so check the cab-to-axle distance.",
     "specs": [
       "8 cap sensors, up to 36 ft",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41xCkECjetL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F9NKBR3S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F9NKBR3S?tag=rvgearlab-amz-20",
     "description": "The B-Qtech 8-Set reads 0 to 108 psi on a 3.15 inch HD color display, and the listing says it can monitor up to 10 sensors: four for your vehicle, four for trailers or RVs and two for spares. It switches between a 4-wheel mode for solo driving and an 8-wheel mode for towing.\n\nIt costs less than half of the GUTA GT20 8-Set and reads lower, at 108 psi. The magnetic mount, USB-C charging of a 1000mAh display battery and 4 or 8 wheel modes are the stand-out features.\n\nBest for someone who drives the truck or motorhome solo some of the time and tows other days. It is a better match for tires under about 100 psi.",
     "specs": [
       "8 sensors, 0-108 psi",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51mVKEnnE6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H1WLVTMP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H1WLVTMP?tag=rvgearlab-amz-20",
     "description": "The SYNJAUPO 8-Set has a 7 inch LCD with manual brightness, a 4, 6 or 8 wheel mode, and a stated range up to 188 psi and 185 F. The listing says the sensors have a pure copper core, that a signal booster is included, and that solar and USB charging are supported.\n\nIt is the cheapest eight-sensor kit here, with a larger screen than the B-Qtech 8-Set and a booster included. The listing claims higher accuracy from the copper sensors, which is the maker's own claim.\n\nBest for a budget buyer who wants a big screen and a booster. Treat the accuracy claim as unverified.",
     "specs": [
       "8 sensors, up to 188 psi",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Ha5DUneYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H5J4R2C4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H5J4R2C4?tag=rvgearlab-amz-20",
     "description": "The Avutrel 8-Set has a 7 inch full-color display, six alarm modes and solar and USB dual charging with a smart sleep-wake function. The listing says it suits RVs, travel trailers and heavy-duty trucks.\n\nCompared with the SYNJAUPO 8-Set it costs more and does not list a booster or a psi range. It lists low and high pressure, over temperature, slow leaks and sensor faults.\n\nBest for a large-screen preference where the maker confirms the range. Ask the seller for the psi range before buying.",
     "specs": [
       "8 sensors, 7 inch display",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41PKOTkWxFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FLPWSMDQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FLPWSMDQ?tag=rvgearlab-amz-20",
     "description": "The AUTOSIRS 8-Set reads 0 to 108 psi and lists a vivid color screen with alerts for pressure, temperature changes and potential problems. The listing says setup is tool-free and compatible across vehicles.\n\nIt costs the same as the B-Qtech 8-Set but gives less detail on modes and charging. The listing text also contains garbled wording around temperature fluctuations.\n\nBest only for a simple eight-tire setup under 108 psi. Compare the specifics with the B-Qtech 8-Set first.",
     "specs": [
       "8 sensors, 0-108 psi",

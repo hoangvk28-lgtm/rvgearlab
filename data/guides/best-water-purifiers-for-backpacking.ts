@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31MbTYqEWdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C1JHC2M6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C1JHC2M6?tag=rvgearlab-amz-20",
     "description": "GRAYL designed the GeoPress as a 24 oz bottle within a bottle: you push the inner one down by hand, and nothing else needs assembling. Its listing says it removes rotavirus, norovirus and hepatitis A, plus E. coli, Salmonella, Giardia and Cryptosporidium.\n\nNo other pick here spells out virus removal, and the page adds adsorption of VOCs, PFAS, pesticides and heavy metals. A replaceable cartridge is good for 65 gallons, or 250 liters.\n\nBest for backpackers who want one device for questionable sources and travel. Press, wait a moment and drink.",
     "specs": [
       "Purifier: viruses, bacteria, protozoa",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51U5YkHN7BL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CZF46VG2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CZF46VG2?tag=rvgearlab-amz-20",
     "description": "The TRAILGO Pro is a hand pump that moves 1.5 liters per minute through a 5 micron pre-filter, PP cotton and an ultrafiltration membrane. The listing says it handles bacteria, protozoa and cysts for a group of 4 to 6 and includes tubes, clamps and a bag.\n\nWhere the GRAYL GeoPress treats 24 oz at a time, the TRAILGO Pro fills bottles and pots for several people. It does not name viruses, so it works as a filter, not a purifier.\n\nA fit for groups and base camps who want a pump with a complete kit. Replacement cartridges are sold.",
     "specs": [
       "Hand pump, 1.5 L per minute",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41BgM4uXJcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07NVCBWVV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07NVCBWVV?tag=rvgearlab-amz-20",
     "description": "The Purewell pump runs water through a 0.01 micron hollow fiber membrane, carbon fiber, a coconut carbon rod and PP cotton. The listing gives a flow of up to 1,400 ml per minute and 3,000 liters before the carbon needs replacing.\n\nCheapest of the three, it also gets the longest cartridge life, and rubber on the base keeps it steady on the ground. The listing claims reductions in fluoride, arsenic, chlorine, lead and heavy metals, and never names viruses.\n\nGreat for budget backpackers and emergency kits who want chemical reduction and a long cartridge life. It needs no electricity.",
     "specs": [
       "0.01 micron UF membrane, four parts",

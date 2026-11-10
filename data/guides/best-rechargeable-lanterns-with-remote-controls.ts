@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41r62ZGdhOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DBZD462P?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DBZD462P?tag=rvgearlab-amz-20",
     "description": "The Yonktoo pairs a 10 meter full-function remote with a 6400mAh battery rated up to 300 hours on its lowest setting. It reaches 1000 lumens and offers cool, natural and warm white plus red and SOS in a 3 x 3 x 2.5 inch, 8 ounce body.\n\nIts battery is bigger than the Sinvitron's 5200mAh and far larger than the 1200mAh cells in the flame-effect lanterns. The remote controls power, modes and brightness together.\n\nIt suits tent campers who want the longest-running remote lantern in a small package. An IPX5 housing with hook and magnet handles rain and hanging.",
     "specs": [
       "6400mAh, up to 300 hours low",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41kteNqGRHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CWD8BGX4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CWD8BGX4?tag=rvgearlab-amz-20",
     "description": "Five modes with stepless dimming sit on top of 1000 lumens and a 5200mAh cell in the Sinvitron. A 10 meter remote handles control and the IPX5 shell copes with rain.\n\nIt matches the Yonktoo on remote range and rain rating while carrying a smaller battery. Compared with the flame-effect pairs, it offers a far brighter output.\n\nIt suits campers who dim often and want smooth control from bed. Storm and outage use is named in the listing, so it also serves as a home backup.",
     "specs": [
       "1000 lumens, 5200mAh",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51+3xB0UirL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DQW32H2M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DQW32H2M?tag=rvgearlab-amz-20",
     "description": "The Wondrastical pair gives each lantern a 1200mAh battery that charges in 2.5 hours and runs up to 10 hours. The four modes include a flickering flame and cool, neutral and warm white, and the remote sets timers, including dusk-on and dawn-off.\n\nIt is the only pair with flame light and an IP44 body, which turns it into a patio or porch light. Output is soft compared with the Yonktoo and Sinvitron.\n\nIt suits campers who want atmosphere around a site more than task light. A bronze vintage finish completes the look.",
     "specs": [
       "2 lanterns, 1200mAh each",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51VAmOIERqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B5V1RPZB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B5V1RPZB?tag=rvgearlab-amz-20",
     "description": "The Marlrin is a two-pack of retro lanterns with a remote and four modes, including a flame mode and three lighting colors. A 1200mAh battery lasts up to 10 hours, and an IP44 rating covers rain and snow.\n\nIt offers a similar flame effect to the Wondrastical pair, with a slightly higher price. A durable handle suits carrying or hanging.\n\nIt suits campers who want a vintage look with a sturdy handle. The ABS body does not rust.",
     "specs": [
       "2 lanterns, 1200mAh each",

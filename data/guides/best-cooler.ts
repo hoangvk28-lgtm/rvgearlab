@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31nqCbhcT4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07XMMB6SG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07XMMB6SG?tag=rvgearlab-amz-20",
     "description": "Coleman Classic is a 52 quart cooler that holds up to 80 cans. Swing-up handles ease carrying, and the lid has molded cup holders with drains that fit up to a 30 oz tumbler.\n\nIt offers the most capacity of the four and the simplest design, a plain hard box that is easy to load. Compared with the soft options, it takes more space and suits car camping.\n\nThat makes it the dependable choice for a family weekend. The cup holders turn the lid into a handy table.",
     "specs": [
       "52 qt, up to 80 cans",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41-sNjqgt4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BLM3MK31?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BLM3MK31?tag=rvgearlab-amz-20",
     "description": "Titan 16 Can cooler has a patented zipperless flip-open lid for quick access, with Deep Freeze insulation and a radiant heat barrier. It is listed to keep ice up to 2 days.\n\nA soft-sided design makes it lighter than the Coleman Classic, and the flip-top lid is faster than a zipper. It holds 16 cans, which suits a couple.\n\nIt is a smart pick for day trips, picnics and kayak outings where easy access matters. It also suits short camping trips.",
     "specs": [
       "16 can capacity",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Lr+tkRv6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CPFGZ5PD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CPFGZ5PD?tag=rvgearlab-amz-20",
     "description": "Maelstrom is a 30-can collapsible soft cooler measuring about 14.43 by 8.97 by 10.14 inches. Five insulated layers and a leakproof design are listed to keep cold up to 24 hours.\n\nIt folds flat, which a hard cooler cannot, and it has multiple pockets and a bottle opener. It holds more cans than the Titan.\n\nBeach days, hikes and road trips are where it shines. It stores in the closet between trips.",
     "specs": [
       "30 can collapsible cooler",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31q3fCsFZGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GGV77CXV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GGV77CXV?tag=rvgearlab-amz-20",
     "description": "Coleman Chiller 9 Quart uses TempLock foam insulation to keep drinks icy for 24 hours. It fits 4 standard 12 oz cans with 4 lbs of ice, or up to 9 cans without ice.\n\nIt weighs only 2.9 lbs empty, making it the smallest and lightest of the group. It is the cheapest cooler here.\n\nA good fit for lunch, a solo hike or a kid's picnic. It fits easily in a backpack-sized space.",
     "specs": [
       "9 qt, 24 hours cold",

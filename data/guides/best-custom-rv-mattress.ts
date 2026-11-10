@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/412k3zSIfKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FSKLXTS6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FSKLXTS6?tag=rvgearlab-amz-20",
     "description": "The Foam Global Roam-M2 is a 10 inch order-to-size gel memory foam mattress with a luxury medium feel, built in the USA with CertiPUR-US certified foam. A soft cool fabric sits over gel memory foam and a firmer base so sleepers get cradling comfort without bottoming out.\n\nIt is the thickest option here, which gives it more cushioning than the 8 inch class of custom foam and a more finished sleep surface than the cut-foam pads below it. It suits RV owners who want a true replacement bed in a nonstandard size, not a DIY project.",
     "specs": [
       "10 inch gel memory foam",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41wuhpvqNdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G87KRTLL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G87KRTLL?tag=rvgearlab-amz-20",
     "description": "The Foam Global Sydney is a custom RV and van mattress made to order for DIY builds and camper conversions. It uses an all-foam CertiPUR-US construction with a quilted breathable cover and is made in the USA.\n\nCompared with the Roam-M2 above it, the Sydney is a slimmer, simpler build aimed at van platforms and camper beds where height is limited. It suits builders who want a fitted, finished mattress at a modest price.",
     "specs": [
       "Made to order",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/513PrLTjOnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FJ45ZK1W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FJ45ZK1W?tag=rvgearlab-amz-20",
     "description": "The Coaseb is a medium firm, high density foam mattress sold in custom sizes for beds, RVs, daybeds and bunks. Its polyester cover is machine washable, which suits a camper that sees sand, pets and damp.\n\nAgainst the Foam Global picks it trades gel and quilting for a simpler high density foam core and an easy-clean cover. It suits families who need a durable bunk or dinette bed that can go through the wash.",
     "specs": [
       "High density foam",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51mL7GsjTxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FRS58G8F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FRS58G8F?tag=rvgearlab-amz-20",
     "description": "The FoammaUSA custom RV mattress is a polyurethane foam pad sold by size, with firmness choices from firm high density to softer mid density and optional cover choices. It is the lowest cost way to fill an odd shape.\n\nIt sits below the Coaseb in finish and above it in flexibility, since the density can be matched to a sleeper or to a seat cushion project. It suits budget builders who plan to add their own topper or sheet set.",
     "specs": [
       "Polyurethane foam",

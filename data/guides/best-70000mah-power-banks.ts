@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4158JCECHLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HC71813J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HC71813J?tag=rvgearlab-amz-20",
     "description": "The MOVE SPEED lists 70000mAh and 260Wh with 140W PD 3.1 output and 100W recharge, plus four outputs and two inputs. It adds a three-level emergency light with an SOS strobe and a pass-through function on a display that shows current and voltage.\n\nIt is the only pick here with laptop-class output, where the JOKO and Relliphent top out around 22.5W to 30W per port. The 100W recharge also refills the big cell far faster than the lower-wattage inputs on the other four.\n\nIt suits a camper who runs a laptop, phones and a tablet from one bank. The light and SOS mode make it useful during a night power failure.",
     "specs": [
       "70000mAh, 260Wh",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41C6fJlrjaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GTLKPGL3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GTLKPGL3?tag=rvgearlab-amz-20",
     "description": "The Feidyns lists 35W maximum output from a single USB-C port and 70000mAh in a footprint described as about 30 percent smaller. It carries three integrated cables (USB-C, USB-A and Lightning) and charges seven devices.\n\nAgainst the MOVE SPEED it gives up laptop wattage and adds cables that never get left behind. Next to the Liahomco, its fastest port runs higher at 35W and it adds a three-year warranty.\n\nIt suits a family with a mix of iPhones and Android phones who want charging with no cable bag. The 35W lane tops phones up quickly between meals.",
     "specs": [
       "70000mAh, 35W max output",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31xmP4jX3KL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FHCTS7DT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FHCTS7DT?tag=rvgearlab-amz-20",
     "description": "The Liahomco lists two 30W USB outputs, two 15W outputs and a 20W USB-C port across five outputs and two inputs. An LED display tracks the remaining power and an embedded lanyard keeps it hung or carried.\n\nIt offers two 30W ports where the Relliphent has one 30W total, so two people can fast-charge at once. Compared with the Feidyns, it needs your own cables and skips the 35W lane.\n\nIt suits a cabin or campsite where several phones need steady fast charging. The lanyard loop makes it easy to hang from a tent hook.",
     "specs": [
       "70000mAh, five outputs",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Eoa4uq9QL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GSVM6YS1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GSVM6YS1?tag=rvgearlab-amz-20",
     "description": "The Relliphent lists 30W PD and QC 3.0 fast charging across five output ports and two input ports. A digital screen shows exact remaining power and a lanyard is included.\n\nIt carries the same 70000mAh cell as the Liahomco with a total 30W fast rating instead of dual 30W ports. Compared with the JOKO, it adds PD and QC 3.0 at 30W while the JOKO tops out at 22.5W.\n\nIt suits a group trip where the goal is lots of phone charges from one simple bank. Five outputs keep several devices running together.",
     "specs": [
       "70000mAh, 30W PD and QC 3.0",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31zk1nvYw8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CC4Q8WX1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CC4Q8WX1?tag=rvgearlab-amz-20",
     "description": "The JOKO lists 70000mAh and 259Wh with 22.5W two-way fast charging, 20W PD and seven outputs across two inputs. An LCD readout and a carry handle come with it.\n\nIt has the most outputs of the five, two more than the Liahomco, and its fastest port runs below the 30W banks. Against the MOVE SPEED, it carries a similar Wh rating at a fraction of the wattage.\n\nIt suits a large group with many small devices rather than a laptop. The carry handle helps when moving it between tent and car.",
     "specs": [
       "70000mAh, 259Wh",

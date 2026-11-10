@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/418eSJBRPuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DBRWHVZ6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DBRWHVZ6?tag=rvgearlab-amz-20",
     "description": "The PowerMax 4008-101-A65 with strainer (4008-101-AE65) is a 12V pump rated up to 3.0 GPM at 55 PSI for sinks, showers and toilets. Its internal bypass is listed as reducing rapid cycling, and the design is self-priming and run-dry capable.\n\nIt is the one pick that names the AE65 strainer variant, which saves a separate purchase. The A65 variant below drops the strainer for a lower price.\n\nFits a 4008 swap where the screen should come in the box. The bypass helps keep the flow smooth.",
     "specs": [
       "3.0 GPM at 55 PSI",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41GRaGBBDqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HD2966SL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HD2966SL?tag=rvgearlab-amz-20",
     "description": "The PowerMax 4008-101-A65 is a 12V pump listed at up to 3.0 GPM at 55 PSI with the same bypass, self-priming and run-dry design. The listing points to RV freshwater use for sinks, showers and toilets.\n\nIt is the plain A65 version, a step below the AE65 in parts and a step above the generic pumps in brand clarity. It is the cleanest like-for-like of the group.\n\nA good fit for owners who already have a strainer and just want the pump. The part number matches a common factory original.",
     "specs": [
       "3.0 GPM at 55 PSI",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41pJLNja11L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DKFJFKCC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DKFJFKCC?tag=rvgearlab-amz-20",
     "description": "The DC HOUSE 55 is a direct replacement for 4008-101-A65 and E65 models with the same port size and mounting holes. It lists 3.5 GPM at 55 PSI, an adjustable 40 to 80 PSI switch, a stated 45 dB noise level and 9.8 foot self-priming.\n\nIt adds adjustability and half a gallon more flow than the PowerMax pumps, and it is the only one with a noise figure. It supports up to 3 faucets per the listing.\n\nRight for buyers who want a quiet, tunable replacement. The 131 foot lift suits low-tank rigs.",
     "specs": [
       "3.5 GPM at 55 PSI",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51bebQnecrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FL6K8KSH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FL6K8KSH?tag=rvgearlab-amz-20",
     "description": "The chddorn is a 12V pump listed as 4008-101-A65 and E65, with 3.0 GPM at 55 PSI. Its listing cites an internal bypass, a one-piece diaphragm said to cut noise by 40 percent and thermal protection with dry-run capability.\n\nIt undercuts the PowerMax pumps on price while naming both the A65 and E65 numbers. It does not include the strainer mention the AE65 PowerMax does.\n\nA good fit for owners swapping a 4008 pump on a budget. Both part numbers appear in the title.",
     "specs": [
       "3.0 GPM at 55 PSI",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41WRJWWHaaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09878FQPJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09878FQPJ?tag=rvgearlab-amz-20",
     "description": "The Kohree is a 12V pump with a four-chamber diaphragm rated 4 GPM at 55 PSI and self-priming up to 3 meters. Run-dry capability, thermal overload protection and an anti-leak build are listed.\n\nIt brings a full gallon more flow than the 3.0 GPM pumps and costs less than the DC HOUSE 55. It does not name a 4008 part number.\n\nA good fit for owners who want more flow at the same 55 PSI. The four chambers smooth the tap.",
     "specs": [
       "4 GPM at 55 PSI",

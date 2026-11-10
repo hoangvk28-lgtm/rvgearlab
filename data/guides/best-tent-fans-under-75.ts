@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51nXnmVvkGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CSMTV23H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CSMTV23H?tag=rvgearlab-amz-20",
     "description": "The VOSFEEL is a 20,000mAh fan with four speeds, a three-level LED lantern and a remote with four timer presets of 1, 2, 4 and 8 hours. Its battery runs 12 to 58 hours and has two outputs for charging a phone.\n\nIt costs about $42, roughly $33 under the OGERY Stand Fan, and it alone pairs a lantern with a timer and phone charging. It does not oscillate, which is the feature the OGERY adds for the extra money.\n\nIt suits tent campers who want one hanging device for light, airflow and a power bank. A foldable hook mounts it on a pole or ceiling loop.",
     "specs": [
       "20000mAh, 12 to 58 hours",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/516pxWU7VPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GQM8HHD8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GQM8HHD8?tag=rvgearlab-amz-20",
     "description": "The OGERY is a 20,000mAh fan on a telescoping stand that rises to 3.7 feet, with oscillation up to 120 degrees and a 270 degree tilt. It runs up to 200 hours on low and 17 hours on high and charges in about 7.5 hours.\n\nIt costs about $75, the top of the budget and nearly double the VOSFEEL, and it is the only pick that stands on the floor and sweeps the whole tent. The stand and oscillation are what the money buys beyond a hanging fan.\n\nIt suits families in big tents or screen rooms that need air across several cots. It also converts to a desk fan beside a bed.",
     "specs": [
       "20000mAh, 3.7 ft stand",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41C1QYBP2wL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GSV8FT1Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GSV8FT1Y?tag=rvgearlab-amz-20",
     "description": "The Lumtide is a ceiling-style canopy fan with a 20,000mAh battery, four speeds and a dimmable light with three color temperatures from 3000K to 6000K. A 2.4G remote works without aiming, and the blades detach for storage.\n\nIt costs about $45, close to the VOSFEEL, and it gives stepless dimming from 10 to 100 percent that the VOSFEEL lantern lacks. It is bigger than the VOSFEEL, so it fits a tent roof loop rather than a pole hook.\n\nIt suits campers under a canopy or in a large tent who want a ceiling-style fan and a warm reading light. It must stay under cover because it is not waterproof.",
     "specs": [
       "20000mAh, four speeds",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31JvPPBch4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GX73FQVJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GX73FQVJ?tag=rvgearlab-amz-20",
     "description": "The 18-Inch Tent Fan is a ceiling-style fan with a 15,600mAh battery, a remote, an LED display and a 2 to 8 hour timer. It runs about 8, 13 and 25 hours by speed and assembles in under a minute.\n\nIt costs about $33, about $9 less than the VOSFEEL, and it has the largest blades of the group. Its battery is smaller than the 20,000mAh models, which is why it tops out at 25 hours.\n\nIt suits campers who want strong air from big blades at a modest price. It works for family tents with a ceiling loop.",
     "specs": [
       "18 in, 15600mAh",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21amLxu6yfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FH6NGNJN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FH6NGNJN?tag=rvgearlab-amz-20",
     "description": "The Tonree is a gazebo-style ceiling fan light with a 15,600mAh battery, a brushless motor, a bright LED and a remote. The blades detach for storage.\n\nIt costs about $25, the lowest in this group, and it undercuts the VOSFEEL by around $17. It has no timer and no stand, which keeps the price low.\n\nIt suits campers with a small tent or a gazebo who want fan and light in one. It is a good tier-one pick for a first fan.",
     "specs": [
       "15600mAh battery",

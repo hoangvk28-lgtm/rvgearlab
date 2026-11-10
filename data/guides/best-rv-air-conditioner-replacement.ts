@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31YdfpQ0DHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BZH2WF1Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BZH2WF1Y?tag=rvgearlab-amz-20",
     "description": "The Dometic FreshJet 3 Series R32 uses R32 refrigerant and is 14 percent lighter than previous Brisk II units. The listing says it is backward-compatible with existing Dometic and competitor air returns and controls and has a hidden-screw shroud.\n\nAgainst the Dometic FreshJet 5, it costs about 40 percent less and drops the hard start. Against the parts here, it replaces the whole unit.\n\nBest for owners whose unit is beyond repair. Compatibility with existing controls keeps installation simpler.",
     "specs": [
       "R32 refrigerant rooftop unit",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31PgwkwN6TL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GNTGJQNS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GNTGJQNS?tag=rvgearlab-amz-20",
     "description": "The Dometic FreshJet 5 Series Mechanical 15K BTU unit has a heat pump, a built-in hard start and an optimized blower that cuts noise by up to 9 dB. It has a 10.5 inch low profile and a steel-reinforced base.\n\nAgainst the Dometic FreshJet 3, it adds a heat pump, a hard start and lower noise at a higher price. Against the parts, it replaces everything.\n\nBest for owners who want a quiet, refined replacement. The hard start eases generator loads.",
     "specs": [
       "15,000 BTU heat pump",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41L8VaQsBtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DLRP96YY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DLRP96YY?tag=rvgearlab-amz-20",
     "description": "The Bonbo vented shroud replaces the cover on Dometic Penguin II air conditioners in the 11,000 to 15,000 BTU range, with model numbers such as 641816C and 651815C listed. It has an aerodynamic low-profile design for better airflow and fuel economy.\n\nAgainst the ICON Shroud, it fits Penguin II units rather than Brisk Air units. Against the full units, it fixes only the cover.\n\nBest for Penguin II owners with a cracked shroud. Mounting hardware is not included, so keep the old screws.",
     "specs": [
       "Fits Dometic Penguin II shroud",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31HkzertXIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00IABG9YC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00IABG9YC?tag=rvgearlab-amz-20",
     "description": "The ICON Aftermarket A/C Shroud fits Dometic Brisk Air and Duo Therm units in white. The listing says it is impact resistant, UV protected and aerodynamic and designed for easy DIY replacement.\n\nAgainst the Bonbo Shroud, it fits Brisk Air models rather than Penguin II. Against the Dometic FreshJet units, it only replaces the cover.\n\nBest for owners with a faded or broken Brisk Air shroud. It restores the outside of an older unit.",
     "specs": [
       "Fits Dometic Brisk Air Duo Therm",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31FomKiHQ1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CR6H3T4Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CR6H3T4Q?tag=rvgearlab-amz-20",
     "description": "The JIANBENKJ 3313107.015 fan blade replaces Dometic part numbers including 317937.000 and 3107914.008 for Brisk Air and Duo-Therm units. It measures 10-1/2 inches in diameter and 3 inches thick with a D-shaped 1/2 inch shaft hole.\n\nAgainst the shrouds, it fixes a mechanical part inside the unit. Against the Dometic FreshJet units, it costs a fraction as much.\n\nBest for owners whose condenser fan blade is cracked or noisy. Check the model number list before ordering.",
     "specs": [
       "10-1/2 inch fan blade",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51sw8NGdtQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07JN2GNX2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07JN2GNX2?tag=rvgearlab-amz-20",
     "description": "The WEHOPE RV A/C Ducted Air Grille is a replacement for Dometic 3104928.019 and Duo-Therm ducted air conditioners. The listing says the grille and filter cotton rinse clean with water and can be reused.\n\nAgainst the fan blade, it replaces a ceiling part rather than a roof part. Against the full units, it is a very low-cost maintenance item.\n\nBest for owners with an old or worn ceiling grille. The washable filter cotton makes routine cleaning easier.",
     "specs": [
       "Ducted grille, Dometic 3104928.019",

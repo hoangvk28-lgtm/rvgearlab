@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41bt4OsOAmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G4C7DYWB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G4C7DYWB?tag=rvgearlab-amz-20",
     "description": "Kodilin Water Pressure Regulator has a 304 stainless steel body, an integrated pressure gauge and an adjustable piston design with 1/2 inch NPT female connections. The listing describes the stainless as lead-free.\n\nAgainst DERPIPE, it adds a gauge. Against Camco Flow, it is adjustable and uses 1/2 inch NPT instead of hose threads.\n\nIt is the best match for owners who want an adjustable stainless regulator with a gauge. Think of it as the pick for plumbed-in installs.",
     "specs": [
       "304 stainless, adjustable",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41wYYZmaUQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C372HM9N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C372HM9N?tag=rvgearlab-amz-20",
     "description": "DERPIPE is a 304 stainless steel regulator with 1/2 inch NPT female ends and a screwdriver-adjustable range from 0 to 140 PSI. The listing says it uses a piston structure, has a working temperature range of -68 to 212 degrees F and a 240 PSI maximum, and cannot shut off flow.\n\nAgainst Kodilin Stainless, it has no gauge and states a wider range. Against Camco Flow, it is adjustable.\n\nIt suits owners who want an adjustable stainless unit and will add their own gauge. Buyers focused on adjustable stainless will find it a sensible match.",
     "specs": [
       "304 stainless, 1/2 inch NPT",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41uVDH0xVRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07X4B88RF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07X4B88RF?tag=rvgearlab-amz-20",
     "description": "Camco Flow Stainless-Steel Regulator reduces water pressure to a stated 50 to 60 PSI while keeping high flow and attaches to 3/4 inch garden hose threads. The listing says the stainless construction is drinking water safe.\n\nAgainst Kodilin Stainless, it is a fixed hose-end unit with no gauge. Against the brass picks, it is stainless.\n\nIt suits owners who want a simple stainless hose-end regulator. It earns its slot for hose-end protection.",
     "specs": [
       "Stainless, 50 to 60 PSI",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41bOpa0X+QL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B092NJDWR4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B092NJDWR4?tag=rvgearlab-amz-20",
     "description": "Morvat is a lead-free nickel-plated brass regulator with a silicone oil filled gauge and an adjustment range of 0 to 160 PSI. The listing says each valve is tested to under 0.13 percent lead and ships with a screwdriver, washers and tape.\n\nAgainst Kodilin Stainless, it is brass and costs less. Against Ficstar Brass, it needs a screwdriver rather than a knob.\n\nIt suits owners who accept brass and want a gauge at a low price. It is a natural fit for brass with gauge.",
     "specs": [
       "Nickel-plated brass",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41UqWoaystL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GN9BFK2W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GN9BFK2W?tag=rvgearlab-amz-20",
     "description": "Ficstar is a lead-free brass regulator made from C46500 brass with a tool-free adjustable knob, a gauge and a 3/4 inch garden hose thread. The listing says it has an inlet screen and lead content under a stated limit.\n\nAgainst Morvat Brass, it adjusts by hand. Against Camco Flow, it is brass and adjustable.\n\nIt suits owners who want to adjust pressure without tools. Think of it as the pick for tool-free adjusting.",
     "specs": [
       "Lead-free brass, gauge",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51omP04apCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DDVV4T1F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DDVV4T1F?tag=rvgearlab-amz-20",
     "description": "Renator is a lead-free brass regulator that ships with Teflon tape and two extra filters. The listing says each batch tests under 0.13 percent lead and gives a one-year warranty with US-based phone and email support.\n\nAgainst Morvat Brass, it adds spare filters and support. Against Ficstar Brass, it lists a warranty.\n\nIt suits owners who value support and spare filters. Buyers focused on support-minded buyers will find it a sensible match.",
     "specs": [
       "Lead-free brass",

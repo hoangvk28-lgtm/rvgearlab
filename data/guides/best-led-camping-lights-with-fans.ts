@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51BQVDPSLYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DQW6SWTZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DQW6SWTZ?tag=rvgearlab-amz-20",
     "description": "The Doublepow pairs a 20000mAh battery that lists 8 to 100 hours of use with 16 LED beads and 5 brightness settings, three cold and two warm. A double clover blade design, 4 fan speeds and 270 degree rotation are included, with separate fan and light controls.\n\nAgainst the Coycomn, it is a base-and-hook style unit with a bigger cell and more light modes. Four battery lights and four speed lights show its status at a glance.\n\nIt suits tent campers who want one body to cool and light a space, with separate switches for each. The ABS body is described as fall-proof for rough floors.",
     "specs": [
       "20000mAh, 8 to 100 hours",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31MRXZSsRkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GV5YR6Z6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GV5YR6Z6?tag=rvgearlab-amz-20",
     "description": "The Coycomn is an 18-inch ceiling fan with a built-in LED light and a 15,600mAh battery that the listing puts at up to 25 hours. The blades detach for storage, and the listing names quiet operation.\n\nCompared with the Doublepow, it moves air across a larger area from a hanging position and costs less. It gives up some battery and light modes for that size.\n\nIt suits larger tents, canopies and gazebos where air needs to spread across a group. Hanging it from the ceiling keeps it off the floor.",
     "specs": [
       "18-inch, 15,600mAh",

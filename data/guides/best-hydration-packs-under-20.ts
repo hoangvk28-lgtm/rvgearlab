@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/512L14lldJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FL1S7SMM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FL1S7SMM?tag=rvgearlab-amz-20",
     "description": "This hydration backpack holds 20 liters in a roughly 18 by 11 by 3.9 inch body with a 2L TPU leakproof bladder and an insulated compartment. Breathable mesh shoulder straps, an adjustable sternum strap with reflective trim and built-in reflective panels add comfort and visibility.\n\nAt about $15 it costs $4 less than the Unigear and holds far more than the running vests, enough for a jacket and lunch. The insulated compartment keeps water cool in summer.\n\nIt suits day hikers and cyclists who want to carry real gear and water for the price of a sandwich. The reflective trim helps at dawn.",
     "specs": [
       "20L with 2L TPU bladder",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ZpUSkha8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G5YNKGDB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G5YNKGDB?tag=rvgearlab-amz-20",
     "description": "The ECOHUB pairs a 2L bladder and insulated sleeve with adjustable shoulder and chest straps, a breathable mesh back and several pockets for a phone, keys, snacks and small gear. It is a lightweight running pack for hiking, cycling and festivals.\n\nAt about $15 it costs the same as the 20L pack and is the lighter, closer-fitting choice for running. The adjustable straps reduce bounce.\n\nIt suits runners and short hikers who want a snug pack and cold water. The mesh back panel improves airflow.",
     "specs": [
       "2L bladder, insulated compartment",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ckyO9YguL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GXF69Q7M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GXF69Q7M?tag=rvgearlab-amz-20",
     "description": "This running-vest style pack weighs 14 oz with a 2L BPA-free PEVA bladder and bite valve. An adjustable chest strap and elastic compression system keep it bounce-free, and an air mesh back panel moves moisture away.\n\nAt about $11 it is the cheapest pick and the lightest, almost half the weight of the Unigear with its bladder. Multiple pockets hold a phone, keys, gels and a wallet.\n\nIt suits runners, cyclists and fast hikers. It holds little, so it is for light loads.",
     "specs": [
       "14 oz, 2L PEVA bladder",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Qtdv-Xa7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B074GLQ9CW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B074GLQ9CW?tag=rvgearlab-amz-20",
     "description": "This hydration backpack with a 2L bladder weighs 0.79 lb together, with adjustable shoulder, chest and waist straps and water-resistant nylon. Exterior zip pockets hold small items, and a replacement guarantee backs the pack.\n\nAt about $16 it costs $5 more than the running vest and has waist straps that others lack. The waist strap keeps it steady on bumpy trails.\n\nIt suits runners and cyclists who want three-point adjustment. The nylon sheds light rain.",
     "specs": [
       "0.79 lb with 2L bladder",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51vCrgNTENL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07C1TQ7DD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07C1TQ7DD?tag=rvgearlab-amz-20",
     "description": "The Unigear pack measures 16.5 by 8 by 6 inches and adjusts for chest sizes from 27 to 50 inches, so it fits teenagers and adults. With the 2L bladder it weighs 1.1 lb and the splash-resistant nylon keeps gear dry in light rain.\n\nAt about $19 it tops the price range here and fits a wider range of torsos than the others. A screw cap lets you add ice cubes.\n\nIt suits teens, smaller adults and racers who want a snug fit. The small front pocket holds keys and a bar.",
     "specs": [
       "16.5 by 8 by 6 inches, 1.1 lb",

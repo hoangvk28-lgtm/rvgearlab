@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31vE17Sy1GL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B078XR1CS8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B078XR1CS8?tag=rvgearlab-amz-20",
     "description": "The Crown Shades grid canopy has a one-push center lock, a clip-on canopy fabric and a Sto-N-Go system that stores with the fabric on the frame. It covers 100 sq ft with an interior height above 9 ft, a steel truss frame with hardened through bolts and a UPF 50+ silver coating.\n\nAgainst the one-sidewall Crown Shades it costs less and skips the side wall. Next to the Pone·vora it has a clip fabric and a storage pocket for sandbags and stakes.\n\nIt suits campers who set up often and want the easiest pack-down. The storage pocket keeps the anchoring kit with the canopy.",
     "specs": [
       "100 sq ft, 9+ ft interior",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Ayt9tEGmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09KLVB9X7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09KLVB9X7?tag=rvgearlab-amz-20",
     "description": "The Crown Shades canopy ships with one side wall and uses the same one-push CenterLOK frame and Sto-N-Go system. It adds 150D fabric that is water and fade resistant, UPF 50+ protection and a pocket for 4 sandbags, 8 stakes and 4 guy lines.\n\nIt is the most expensive canopy here, and the side wall makes it a better fit for beach and wind. Compared with the grid model it adds protection on one side.\n\nIt suits campers who want wind and sun cover on one side. The frame supports up to 120 lbs.",
     "specs": [
       "One-push CenterLOK frame",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51nz3jSHMoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H2D4FMZY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H2D4FMZY?tag=rvgearlab-amz-20",
     "description": "The Pone·vora is a 10x10 one-push canopy with 210D fabric, UPF 50+ and sealed seams. It adds three removable sidewalls, a vented roof, three height settings and a full sandbag and stake kit under a 2-year limited warranty.\n\nAgainst the Crown Shades pair it includes three side walls and costs less. Compared with the Vinabilia and SANWAY, its 210D fabric is heavier.\n\nIt suits campers who want an enclosed shelter for wind and privacy. Setup takes about five minutes.",
     "specs": [
       "210D, UPF 50+, sealed seams",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31cFOyHqKAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GXR39GQX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GXR39GQX?tag=rvgearlab-amz-20",
     "description": "The SANWAY canopy is a 10x10 one-push model with a removable 420D sidewall, air vents and a quick-snap fastener that resists wind lift and rain pooling. The steel frame supports up to 120 lbs and comes with 4 sandbags and 8 stakes under a 2-year parts warranty.\n\nIt is the second-cheapest canopy here and gives a heavy 420D wall. Against the Vinabilia it adds a sidewall and vents.\n\nIt suits tailgaters and market vendors who need a wind-resistant booth. The center-pole-free design leaves the floor open.",
     "specs": [
       "One-push center lock, steel",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41BT0KqlFKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GLF1DFDV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GLF1DFDV?tag=rvgearlab-amz-20",
     "description": "The Vinabilia canopy is a 10x10 one-push model with an 8.9 ft interior height and no overhead crossbars. It folds to 46 by 7.9 by 7.9 inches in an Oxford carry bag, and the powder-coated steel frame supports 120 lbs.\n\nIt is the least expensive canopy here, and the UPF 50+ fabric has heat-sealed seams. Against the SANWAY it drops the side wall.\n\nIt suits budget campers who need basic shade for six to ten people. Reinforced foot pads help on grass or pavement.",
     "specs": [
       "10x10, 8.9 ft interior",

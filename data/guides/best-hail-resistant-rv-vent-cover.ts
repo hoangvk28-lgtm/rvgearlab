@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31DqcgPeMEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B74GVHCS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B74GVHCS?tag=rvgearlab-amz-20",
     "description": "The Supermotorparts set is three 14x14 inch roof vent lids made from impact-resistant plastic with rust-resistant reinforced rods. A reinforced center support beam and continuous hinge add stability, and the low-profile shape blocks UV.\n\nAgainst the single Camp'N, it gives spares and a stronger rod frame. It suits owners who want extra lids for a trailer with several vents.",
     "specs": [
       "14x14 in, 3 lids",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41-LISuoUKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BCYQ6M5J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BCYQ6M5J?tag=rvgearlab-amz-20",
     "description": "The caqeg pack contains two 14 inch lids measuring 14-13/16 by 14-13/16 by 2-7/8 inches, made from impact-resistant plastics for all-weather use. They fit Ventline vents before 2008 and Elixir vents from 1994.\n\nCompared with the Supermotorparts, it gives two lids at a similar price with a stated depth. It suits RVs with a bathroom vent and one more.",
     "specs": [
       "14 in universal, 2 lids",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31NM+g3GOwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DM1KTTXW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DM1KTTXW?tag=rvgearlab-amz-20",
     "description": "The Sporthfish is a single 14 inch universal vent lid in thickened durable plastic with rounded corners. It works with a crank arm to open and close, and fits Ventline before 2008 and Elixir after 1994.\n\nIt is the lowest price here and steps down from the Camp'N by listing thickened plastic instead of OEM styling. It suits buyers replacing one cracked lid.",
     "specs": [
       "14 in universal lid",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31obVprDjNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07LBBVPHM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07LBBVPHM?tag=rvgearlab-amz-20",
     "description": "The Camp'N is a single 14.5 inch OEM-style replacement vent lid made from impact-resistant plastics. It fits Ventline roof vents before 2008 and Elixir vents from 1994, and it is a 14 by 14 inch lid.\n\nNext to the Sporthfish, it follows the original lid pattern more closely and costs the same. It suits owners who want a like-for-like swap.",
     "specs": [
       "14.5 in OEM-style lid",

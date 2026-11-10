@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41IIax7ZYAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07GBZ83HH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07GBZ83HH?tag=rvgearlab-amz-20",
     "description": "Beech Lane's dual system pairs a 5 micron sediment cartridge with a 0.5 micron carbon block, in housings with 3/4 inch lead-free brass fixtures and a mounting bracket. A lifetime manufacturer warranty is named on the listing.\n\nIt undercuts the Filterelated 3-Stage and Ziwshom 5-Stage on price, and trades their extra stages for a simpler two-step layout. Against MOPUEHEL Dual it adds the bracket and the warranty, which are worth more than a see-through bowl.\n\nBest for most campers who want one reliable canister setup. The listing makes no health-contaminant claims, so it is a sediment and taste filter.",
     "specs": [
       "5 micron plus 0.5 micron",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51l3LtshqzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GY4G198F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GY4G198F?tag=rvgearlab-amz-20",
     "description": "Ziwshom's system uses five stages with a 0.01 micron ultrafiltration membrane, a clear housing and a stated flow of 4.5 gallons per minute. A brass thread kit, 1 inch to 3/4 inch adapters, wrench and O-ring ship with it.\n\nIt tops the Beech Lane Dual on stages and finest filtering, but costs several times as much and includes more cartridges to replace. Compared with the Filterelated 3-Stage it adds a visible housing and a carry handle for moving between sites.\n\nBest for a rig that fills and showers heavily and wants a see-through check on cartridge condition. The listing does not name an NSF certification.",
     "specs": [
       "5 stages, 0.01 micron UF",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41EqNnGDqfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DR2J7QXD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DR2J7QXD?tag=rvgearlab-amz-20",
     "description": "Filterelated's three-element kit stacks a 1 micron polypropylene sediment cartridge, 5 micron compressed carbon and a granular activated carbon stage, with 3/4 inch brass fittings. The extra carbon stage is the main reason to pick it over a dual kit.\n\nIt adds a third carbon stage over the Beech Lane Dual, aimed at taste, odor and chlorine, but its 5 micron carbon block is looser than Beech Lane's 0.5 micron. Compared with Ziwshom 5-Stage it saves a lot of money by dropping the membrane.\n\nBest for campers who want extra carbon contact time for chlorine taste. No bracket or warranty is named on the listing.",
     "specs": [
       "1 micron sediment stage",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41CkpazI4uL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GW2FR7HK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GW2FR7HK?tag=rvgearlab-amz-20",
     "description": "MOPUEHEL's dual-stage kit has a transparent housing, a 5 micron sediment cartridge in stage one and a 5 micron carbon block in stage two. The port is 3/4 inch brass with a 304 stainless garden hose fitting.\n\nIts see-through bowl matches the Ziwshom 5-Stage for monitoring, at a fraction of the cost, but it drops the finer filtering. Against Beech Lane Dual it is looser on the carbon stage and gives no warranty.\n\nBest for a first-time buyer who wants to watch the cartridge. The listing says it was tested against NSF standards without naming which, so do not read that as a certification.",
     "specs": [
       "Dual stage, 5 micron each",

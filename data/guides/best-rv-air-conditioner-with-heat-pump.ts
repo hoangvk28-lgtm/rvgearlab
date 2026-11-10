@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41j77g6xV+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CV4ZRVXT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CV4ZRVXT?tag=rvgearlab-amz-20",
     "description": "The TOSOT GO Cool is a 16,000 BTU rooftop unit with a 12,500 BTU heat pump, WiFi through the Gree+ app and a remote control. Its listing states 43 dB operation, a 23 to 115 degree F ambient range and a fit for 14.25 inch roof vent openings.\n\nAgainst the 18,000 BTU Arsenda units, it gives up 2,000 BTU of cooling and adds a stated heat pump rating and WiFi control. Against the COOLIGO units, it lists a lower dB figure.\n\nBest for RVs from 16 to 24 feet whose owners want app control and a clearly stated heat pump rating. A smart pick for year-round travel in mild climates.",
     "specs": [
       "16,000 BTU cool, 12,500 BTU heat",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31txWl+4XmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GS92J6XW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GS92J6XW?tag=rvgearlab-amz-20",
     "description": "This Arsenda is an 18,000 BTU non-ducted rooftop unit with a heat pump on 110 to 120V power. The listing states 50 dB operation, UV-resistant construction and a 23 to 115 degree F outdoor range.\n\nAgainst the TOSOT, it has more cooling capacity for larger coaches. Against the Tusoma, it is the same size and price tier with the same 50 dB rating.\n\nBest for larger travel trailers and fifth wheels that need 18,000 BTU of cooling. A natural step up when a 15,000 BTU unit struggles.",
     "specs": [
       "18,000 BTU with heat pump",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41PWldxS99L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GS8VV4TJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GS8VV4TJ?tag=rvgearlab-amz-20",
     "description": "The second Arsenda listing mirrors the first, with 18,000 BTU cooling, a heat pump, 50 dB operation and a 110 to 120V non-ducted design. It carries the same UV-resistant shell and temperature range.\n\nAgainst Arsenda 18K Heat Pump A, it reads the same, so either serves as the pick if stock differs. Against the TOSOT, it offers more cooling for large coaches.\n\nBest for owners who want a second source of the Arsenda unit. A fit for big rigs that want a 50 dB rooftop heat pump.",
     "specs": [
       "18,000 BTU heat pump",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41LwPiCIvPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GSD65MDG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GSD65MDG?tag=rvgearlab-amz-20",
     "description": "The Tusoma is an 18,000 BTU rooftop unit with a heat pump on 110 to 120V power and a high-efficiency compressor. Its listing states 50 dB operation and a 23 to 115 degree F outdoor range.\n\nAgainst the Arsenda units, it sits at a lower price tier with the same capacity and noise rating. Against the TOSOT, it offers more cooling but no WiFi.\n\nBest for buyers who want an 18,000 BTU heat pump unit at the lower end of the price range. A decent pick for full-size trailers.",
     "specs": [
       "18,000 BTU with heat pump",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410Pxeh+lWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H6WFX4TV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H6WFX4TV?tag=rvgearlab-amz-20",
     "description": "The COOLIGO 15,000 BTU unit uses a dual-rotary compressor, R32 refrigerant and 500 cubic meters per hour of airflow on 115V power. It fits a 14.25 inch roof opening and measures 29.7 by 14.2 by 27.6 inches.\n\nAgainst the 18,000 BTU units, it gives up cooling capacity and keeps the same standard roof fit. Against the second COOLIGO, it lists R32 and a dual-rotary compressor.\n\nBest for mid-size trailers and camper vans that want a compact heat pump on household-style power. A balanced pick for 20 to 28 foot rigs.",
     "specs": [
       "15,000 BTU, dual-rotary compressor",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/415vZFGflsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FPQY6XHM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FPQY6XHM?tag=rvgearlab-amz-20",
     "description": "This COOLIGO is a 15,000 BTU rooftop unit with 1,650W electric heat and 800 CFM of airflow on 110V power. It lists an automatic defrost function and a remote control.\n\nAgainst the other COOLIGO, it costs much less and states 800 CFM and the defrost feature. Against the TOSOT, it has less heating output and no WiFi.\n\nBest for budget buyers who want a rooftop unit with heating for mild weather. A practical choice for an older trailer swap.",
     "specs": [
       "15,000 BTU, 1,650W electric heat",

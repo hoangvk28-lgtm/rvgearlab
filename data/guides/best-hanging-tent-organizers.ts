@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31j5eUfJEIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DLBP2M7L?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DLBP2M7L?tag=rvgearlab-amz-20",
     "description": "The Davis Tent organizer is a hanging mesh pocket system made for canvas tent walls and outdoor shelter frames, with see-through screen compartments. Its listing names plates, silverware, flashlights, towels and small tools as typical contents.\n\nNext to the AYAMAYA, it focuses on wall storage with clear mesh sections instead of cup holders and zip-together panels. Compared with the straps, it gives ready-made compartments at a higher price.\n\nIt suits wall tent and canvas tent campers who cook inside and want utensils at arm's length. The tool-free hang takes seconds.",
     "specs": [
       "Mesh pockets, canvas wall hang",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51opNSP63TL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C9T4Q8MM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C9T4Q8MM?tag=rvgearlab-amz-20",
     "description": "The AYAMAYA is a 600D Oxford bag with net pockets, cup holders, a paper towel holder and hanging hooks, expanding to 40 by 15.7 inches. Metal hooks are listed for up to 150 lb, and two straps let you hang it on a car, tree or inside a tent.\n\nZippers along both sides let two or more units join into a larger storage wall, a feature the Davis does not list. Compared with the Ayaport, it provides pockets so small items do not slip through a strap.\n\nIt suits campers who move between a tent, a vehicle and a tree and want one organizer that works in all three. It folds compact for travel.",
     "specs": [
       "600D Oxford, 40 x 15.7 in",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41aT4Z-VCoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DT3X133H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DT3X133H?tag=rvgearlab-amz-20",
     "description": "The Ayaport pack includes a double cam buckle strap, two wrap straps, four carabiner hooks, six stainless S hooks and two hook and loop straps in a storage bag. The strap spans roughly 20 feet and has 20 loops.\n\nIt differs from the pocket bags because it is a gear line, suited to lanterns, utensils and clothes rather than small loose items. Against the COOZMENT it comes with more hooks and a longer 25 foot strap.\n\nIt suits campers with trees or a canopy frame who want a customisable hanging line. The cam buckles tighten without knots.",
     "specs": [
       "25 ft strap, 20 loops",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/314eA6ItYXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GCVLBVD6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GCVLBVD6?tag=rvgearlab-amz-20",
     "description": "The COOZMENT is a 175 cm (68.9 inch) strap made from 2.6 cm double-layer nylon webbing with a metal clasp and a daisy chain of loops every few inches. It folds down to the size of a small sandwich bag.\n\nIt is the lowest priced option here and the most compact, with fewer attachment accessories than the Ayaport. Against the pocket organizers it gives open attachment points and a quick drying line for towels.\n\nIt suits solo or backpacking campers who want a minimal hanging line. It also works as a water jug hanger or towel line.",
     "specs": [
       "175 cm nylon daisy chain",

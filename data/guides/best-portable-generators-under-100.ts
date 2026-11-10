@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31FBcuGw68L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DKFR196Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DKFR196Q?tag=rvgearlab-amz-20",
     "description": "Akiisolo packs 192Wh into a 4.6 by 4.6 by 7 inch body that weighs 3.9 lb. It has one 100W AC outlet with a 200W surge, a pair of USB-C ports, a pair of USB-A ports, two DC jacks and an LED light with an SOS mode.\n\nAt about $74 it is the cheapest unit here and holds more than double the energy of the 88.8Wh and 89.6Wh stations. The DaranEner trades that capacity for sturdier cells and a silent fanless body.\n\nBuy it if you want the most watt-hours per dollar for charging phones, a tablet and a laptop over a weekend. It suits campers who value capacity over cell life.",
     "specs": [
       "192Wh, 100W AC (200W surge)",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51RqhJSR3sL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CQT5G1ZR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CQT5G1ZR?tag=rvgearlab-amz-20",
     "description": "DaranEner is about the size of a smartphone at 6.5 by 3.3 by 4 inches and weighs 2.54 lb. A LiFePO4 battery of 89.6Wh feeds 100W of AC (200W peak) and reaches 80 percent from empty in roughly 90 minutes, with no fan noise at all.\n\nIt holds less than half of the Akiisolo's energy and costs $16 more, which pays for long-life cells and silent running. The MARBERO 88.8Wh has a similar size and uses ordinary lithium-ion.\n\nChoose it if you plan to use the unit for years or want silent power by the bed. It suits phones, a headlamp and a small fan.",
     "specs": [
       "89.6Wh LiFePO4, 100W AC",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41dEeb6IpTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BZ7VFK25?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BZ7VFK25?tag=rvgearlab-amz-20",
     "description": "This MARBERO stores 150Wh (40,540mAh) and gives one AC outlet, three USB ports at 5V/2.1A, a QC3.0 port and four DC ports of 5 to 12V. Two LED flashlights sit on the side, and the package includes wall and car adapters.\n\nIt offers four DC jacks where the Akiisolo has two, which suits 12V gear such as routers, small pumps and LED strips. The Akiisolo holds 40Wh more for $21 less.\n\nBuy it if you run mostly low-voltage camping gear and want built-in lights. It suits tent campers with a 12V setup.",
     "specs": [
       "150Wh, one AC outlet",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41InHhvkgJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CYXB6CF5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CYXB6CF5?tag=rvgearlab-amz-20",
     "description": "MARBERO 88.8Wh measures 6.12 by 3.69 by 4.19 inches and weighs 2.27 lb, about the size of a DSLR. It gives two 100W AC outlets (150W max), two QC3.0 USB-A ports and two USB-C ports at 18W and 30W, and reaches 80 percent from the wall in 3 hours.\n\nLightest of the five, it is also the sole unit under $100 with two AC outlets, with a 150W maximum shared between them. The DaranEner gives longer cell life, and this one gives an extra outlet and USB-C power delivery.\n\nChoose it for flights, day hikes and car glove boxes. It suits people who carry a laptop, a camera and a phone.",
     "specs": [
       "88.8Wh, two 100W AC outlets",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41z1XbcGC+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F6YP2KWV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F6YP2KWV?tag=rvgearlab-amz-20",
     "description": "JLYNOWPT is a hand-crank generator with a foldable aluminum handle, a 5V/2.1A USB output and a 110V AC outlet rated 150W max. It has front and rear displays for voltage and charge level, and the crank runs at a comfortable 60 RPM.\n\nIt is the only pick that makes power with no sun and no wall outlet, so it trades speed for independence. Cranking yields a trickle compared with a wall charge for the Akiisolo.\n\nChoose it as a backup for storms and long outages, kept in a go bag with a phone or radio. It suits preparedness buyers more than daily campers.",
     "specs": [
       "Hand crank, 150W AC max",

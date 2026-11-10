@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/3186Rn2eEnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CTH9P1YP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CTH9P1YP?tag=rvgearlab-amz-20",
     "description": "The Portal 8-person measures 20 ft (14 plus 6) by 8 ft by 76 inches and fits two full-size airbeds with gear. A 6 ft by 8 ft screen room sits at the front, and the tunnel shape, 66D water-resistant fabric and removable rainfly protect the sleeping area.\n\nCompared with the Timber Ridge it lists a faster setup, about 10 minutes against 15, and a lower price. Against the two-room Portal it keeps one open sleeping area and a screen room.\n\nIt is the pick for large families who want a bug-free porch and a tall tunnel. An E-port and color-coded poles help with setup.",
     "specs": [
       "8 person, 20 ft (14+6) long",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31dTS5Yp5HL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CNQYNK82?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CNQYNK82?tag=rvgearlab-amz-20",
     "description": "This Portal 8-person is 14 ft by 8 ft by 80 inches and fits three full-size airbeds. It has two rooms with separate doors, an attached 14 ft by 7.5 ft by 6.5 ft porch and a PU-coated exterior with fiberglass and steel poles and fully taped seams.\n\nIt adds privacy and a bigger porch compared with the other Portal, plus six mesh windows and two ground vents. Against the CAMPROS it gives a taped seam rating and an attached porch.\n\nIt suits families who want two sleeping rooms and a gear porch in one tent. A 10 minute setup is listed.",
     "specs": [
       "14 x 8 ft, 80 in height",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41cRMvMDl4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FY591RK5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FY591RK5?tag=rvgearlab-amz-20",
     "description": "The Timber Ridge 8-person is a tunnel tent with 66D water-resistant fabric, upgraded fiberglass poles and a built-in E-port. A screen porch, full mesh ceiling and removable rainfly are part of the build.\n\nIt is the priciest of the five and pitches in about 15 minutes with two people, longer than the Portal. Compared with the UNP it gives a screen porch and an E-port.\n\nIt suits campers who want a tunnel with a porch and good ventilation. Color-coded poles and illustrated instructions help new campers.",
     "specs": [
       "8 person, screen porch",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31CXARCKGxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C4H2RDJG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C4H2RDJG?tag=rvgearlab-amz-20",
     "description": "The UNP 8-person is a cabin measuring 12 ft by 9 ft by 80 inches that fits two air mattresses or 8 sleeping bags. The listing calls six people plus gear the most comfortable count, and it weighs 26.8 lb with two mesh doors and six windows.\n\nIt has no porch and sits at the low end of the price range, and it lists a 1000mm coating. Against the CAMPROS it lists a floor figure and a 1-year warranty.\n\nIt suits families who want a plain cabin with a clear floor size. Two people can pitch it in about 10 minutes.",
     "specs": [
       "12 x 9 ft, 80 in height",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31hETzhJqvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DP2K91VS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DP2K91VS?tag=rvgearlab-amz-20",
     "description": "The CAMPROS CP 8-person has straight walls and a 72 inch center, sealed seams and a waterproof strip. A mesh top and doors give ventilation, and a curtain divides it into two rooms or acts as a projector screen.\n\nPriced under every other tent here, it pitches in about 5 minutes with two people. Against the UNP it adds a divider curtain and a mesh top, and it states no floor size.\n\nIt suits budget families who want two rooms and a movie-night screen. Color-coded poles keep setup quick.",
     "specs": [
       "8 person, 72 in center",

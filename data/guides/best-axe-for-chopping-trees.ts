@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21T3czDDXcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B69PQJRZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B69PQJRZ?tag=rvgearlab-amz-20",
     "description": "The Kings County Tools felling axe is a German-style axe made in Italy with a 31.25 inch gently curved ash handle and a 5 inch striking face. The listing describes an extra long blade edge that cuts wood grain more effectively, with measurements of 31.25 inches long, 5 inches wide and 3 inches tall.\n\nThe wide 5 inch edge is the main difference from the other axes, which run shorter bits. The curved ash handle gives a classic swing and shock absorption.\n\nIt fits homeowners and property owners who fell trees and want a traditional tool. A felling axe like this needs a sharpening file and an occasional oil.",
     "specs": [
       "31.25 inch curved ash handle",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/312SY3U2wdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08NJKC2SV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08NJKC2SV?tag=rvgearlab-amz-20",
     "description": "This chopping axe has a head weighing 3.3 pounds, a 5.5 inch blade and a 36.7 inch shockproof fiber handle, for a total of 5.66 pounds. A fine-polished head and blade protection are included, and the axe is sold for limbing felled trees, cutting branches and splitting firewood.\n\nIt has the longest handle of the six and the widest listed blade at 5.5 inches. That gives the most reach and a wide bite compared with the Fiskars.\n\nIt fits taller users and anyone who wants reach for trees and limbs. The blade protection keeps the edge safe between jobs.",
     "specs": [
       "3.3 lb head, 5.5 inch blade",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51IUX+F0w2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GR541K78?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GR541K78?tag=rvgearlab-amz-20",
     "description": "The THANKSFINE is a 4.5 pound felling and splitting axe with a carbon steel head and a 33.5 inch shock-absorbing fiberglass handle. A textured non-slip grip and a weather-resistant shaft support control in sweaty or damp conditions.\n\nIt is heavier overall than the Hitdudu and has a longer handle than the Fiskars X15. The carbon steel head is easy to sharpen.\n\nIt fits property owners who clear trees and brush. The textured grip stays secure when damp.",
     "specs": [
       "4.5 lb carbon steel head",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41RzCv660nL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FBWSZ52F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FBWSZ52F?tag=rvgearlab-amz-20",
     "description": "This 33.5 inch chopping axe weighs 4.5 lbs and has a textured rubber handle that holds firm when wet, over a shock-absorbing fiberglass core. The listing says the fiberglass handle is resistant to rain, water and long-term storage.\n\nIt is similar in size to the THANKSFINE and adds a rubber grip for wet hands. It splits harder, knotty wood well.\n\nIt fits users who work in damp weather. The rubber grip also helps when wearing gloves.",
     "specs": [
       "33.5 inch, 4.5 lbs",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/419WhTZzfVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B000BX4SBI?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B000BX4SBI?tag=rvgearlab-amz-20",
     "description": "The Fiskars X15 is a 24 inch chopping axe with a PermaHead over-molded design that stops the blade separating from the handle, and a shock-absorbing FiberComp handle. It is designed for felling and limbing, with a lifetime warranty.\n\nIt is the shortest felling axe here, which makes it easier for small users and tight spaces. The balance and power-to-weight ratio increase swing speed.\n\nIt fits campers and small property owners who limb and fell small trees. The lifetime warranty covers handle and head.",
     "specs": [
       "24 inch FiberComp handle",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21iOu7rll2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CWRYFR6K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CWRYFR6K?tag=rvgearlab-amz-20",
     "description": "The Hitdudu is a 27 inch forged carbon steel axe weighing 4.1 lbs total with a 5 inch blade, a flat poll and an anti-skid, shock-absorbing fiberglass handle. A limited lifetime warranty is included.\n\nIt is the lowest priced axe here and has a flat poll for driving wedges. The 5 inch blade is similar to the Kings County at a fraction of the price.\n\nIt fits budget-conscious users who clear small trees and brush. The limited lifetime warranty adds some security.",
     "specs": [
       "27 inch, 4.1 lbs, 5 inch blade",

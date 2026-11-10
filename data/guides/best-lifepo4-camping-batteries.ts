@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51z6WGt3HJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FN3TVVD8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FN3TVVD8?tag=rvgearlab-amz-20",
     "description": "The Super Empower packs 100Ah at 12.8V into a BCI Group 24 case that weighs 21.6 lb, with M8 terminals and Grade A cells. Charging pauses automatically once the pack falls under freezing.\n\nIt is the lightest 100Ah pick here and the one that states a charging cutoff at freezing, which protects the cells in a winter camp. Its Group 24 case drops into an existing box, unlike the larger VATRER 300Ah.\n\nIt suits campers swapping a tired lead-acid battery for lithium without rebuilding the box. It names solar, generator and alternator charging.",
     "specs": [
       "12.8V 100Ah, Group 24",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ntErG5hKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FKYCXTMP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FKYCXTMP?tag=rvgearlab-amz-20",
     "description": "The VATRER is a 12.8V 300Ah LiFePO4 battery with over 5000 cycles at 100 percent depth of discharge, a self-heating function and app monitoring. It lists an enhanced BMS guarding against over-charge, over-discharge, high and low temperature, overcurrent and short circuits.\n\nIt holds three times the capacity of the 100Ah batteries here, which is roughly 3840Wh, and it is the only one with built-in self-heating. The app shows live status in a way the CHITOLI and Super Empower do not list.\n\nIt suits van and cabin owners running a fridge, lights and a laptop for days off-grid. The self-heating helps with winter charging.",
     "specs": [
       "12.8V 300Ah, 5000+ cycles",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41bRdVjy7kL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DY72MKZ2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DY72MKZ2?tag=rvgearlab-amz-20",
     "description": "The CHITOLI is a Group 24 LiFePO4 battery rated at 100Ah with a 100A smart BMS. The cycle claims climb as depth shrinks, from 4000 plus at full discharge to 15,000 at 60 percent, and the listing adds a 10-year life and a refill in about 5 hours at 20A.\n\nIt states cycle counts at three discharge depths, which the BUKNUWO and VATRER do not break out. Against the Super Empower Group 24, it offers the same case size and a stated charge time.\n\nIt suits campers who want published lifespan data and a standard Group 24 swap. It also fits trolling motor use.",
     "specs": [
       "12V 100Ah Group 24",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41yLVdD9T3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GHJJN1K5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GHJJN1K5?tag=rvgearlab-amz-20",
     "description": "The BUKNUWO is a 12.8V 100Ah LiFePO4 battery weighing 22 pounds, with Bluetooth 5.0 monitoring on iOS and Android. It has a 100A BMS, Grade A cells, an ABS case that is dustproof and weather resistant and support for series and parallel expansion.\n\nIts Bluetooth app gives live battery status, which the CHITOLI 100Ah and Super Empower Group 24 do not list. It also states a 95 percent utilization rate against lead-acid.\n\nIt suits campers who want to watch state of charge from a phone. The expandable series and parallel options allow a bigger bank later.",
     "specs": [
       "12.8V 100Ah, 22 lb",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41YM6RhcXLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F9WPFMHL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F9WPFMHL?tag=rvgearlab-amz-20",
     "description": "The LIPULS is a 12.8V 15Ah LiFePO4 battery with 192Wh of capacity, a built-in 20A BMS and Grade A cells. It weighs 3.38 lbs, lists 4000 or more cycles and a 10-year design life and connects up to 4 in series or parallel.\n\nIt is the best size for powering fans, LED lights, fish finders and small devices without carrying a large battery. It holds 192Wh, more than the Enegitech 10Ah and far lighter than the 100Ah options.\n\nIt suits tent campers and anglers who need quiet, light, safe power for small loads. Up to 4 batteries can be linked later.",
     "specs": [
       "12.8V 15Ah, 192Wh",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41R6TDzOlOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DSPLSBG5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DSPLSBG5?tag=rvgearlab-amz-20",
     "description": "The Enegitech is a 12V 10Ah LiFePO4 battery with Grade A cells, listed at 2000 or more cycles and a lifespan up to 10 years. Its compatibility list names Garmin Striker 4 and Humminbird HELIX 5 fish finders and APC UPS models using RBC17 batteries.\n\nIt costs the least of the six and is the smallest pack, at about half the energy of the LIPULS 15Ah. The listing says it suits small UPS backup under 100W, fish finders and lighting.\n\nIt suits campers who need a simple battery for a light or a fish finder. Do not connect it in series or parallel, as the listing warns.",
     "specs": [
       "12V 10Ah, 2000+ cycles",

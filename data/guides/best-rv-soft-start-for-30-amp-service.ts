@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41tpKjscFUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B098NJ6W2K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B098NJ6W2K?tag=rvgearlab-amz-20",
     "description": "The SoftStartRV 2-Pack is a pair of units that the listing says start two air conditioners on 30-amp service. They are described as 40 percent smaller to fit low-profile RV A/C units, 100 percent waterproof, and able to start one A/C on a small generator or 15-amp supply.\n\nAgainst the ActiveStart Gen2, it covers two air conditioners in a single purchase rather than one plug-and-play box. Against the TURBRO Kit and Wodli Kit, it offers waterproofing and live support.\n\nBest for travel trailers and campers with two roof air conditioners on 30-amp service. The listing also describes a 2200 watt generator running up to 36,000 BTUs.",
     "specs": [
       "Pack of 2, 40 percent smaller",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/3135B1SG2AL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D68TXMCV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D68TXMCV?tag=rvgearlab-amz-20",
     "description": "The ActiveStart SoftStart 30 Amp Gen2 is a plug-and-play unit with no wiring or modification required. The listing says it lets you run up to 2 RV air conditioners on a single generator or limited power supply and ramps power up gradually.\n\nAgainst the ActiveStart Bluetooth unit, it is the newer and more expensive generation with a higher stated capability. Against the SoftStartRV SoftStartUp, it is another plug-and-play option with ActiveStart branding.\n\nBest for owners who want a plug-and-play box and no wiring. The listing says it also suits camper air conditioners and other HVAC systems.",
     "specs": [
       "30 amp plug and play",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/313lSEpASnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CYJDQ4X1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CYJDQ4X1?tag=rvgearlab-amz-20",
     "description": "The SoftStartRV SoftStartUp is a plug-and-play soft start for travel trailers, Class B and Class C RVs. The listing says it works with 30-amp and 50-amp power and small generators as low as 2200 watts, and cuts startup inrush by up to 50 percent.\n\nAgainst the ActiveStart Gen2, it lists a stated inrush reduction and built-in overload protection at a lower price. Against the SoftStartRV 2-Pack, it is a single plug-and-play box, so it suits one air conditioner.\n\nBest for campers with a small generator who also camp on 30-amp hookups. Its 30A/50A compatibility lets it move to a bigger rig.",
     "specs": [
       "Plug and play, 30A and 50A",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31CPN8eiFtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BL1N2BZD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BL1N2BZD?tag=rvgearlab-amz-20",
     "description": "The ActiveStart SoftStart 30 Amp Plug and Play kit has built-in Bluetooth that pairs with the ActiveStart app for real-time power monitoring and setup. It carries a 2100-joule surge module and watertight outdoor-ready connections.\n\nCompared with the ActiveStart Gen2, it adds Bluetooth and a surge module at a lower price. Compared with the TURBRO Kit, it is a plug-and-play unit with app monitoring.\n\nBest for owners who like to see power data on a phone. It works with RVs, campers and portable power stations.",
     "specs": [
       "30 amp plug and play",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51os22rWmfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DK8BXHWH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DK8BXHWH?tag=rvgearlab-amz-20",
     "description": "The TURBRO RV AC Soft Start Kit says it reduces starting power by 60 to 75 percent and fits air conditioners up to 15,000 BTU. It is described as ideal for non-inverter units that need over 40 amps to start.\n\nAgainst the Wodli Kit, it adds IPX5 waterproofing and a 100 to 240 volt range. Against the ActiveStart units, it costs far less.\n\nBest for owners who want a low-price kit and are comfortable with a kit-style install. The listing says two air conditioners can run under 30 amps on a 30-amp hookup.",
     "specs": [
       "60 to 75 percent start cut",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51-KdP1RcvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DF2SS14J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DF2SS14J?tag=rvgearlab-amz-20",
     "description": "The Wodli Soft Start Kit says it starts a 15,000 BTU air conditioner on a 2200 watt generator and cuts starting current by 65 to 70 percent. It also runs an air conditioner on a 20-amp household hookup, or two at once on a 30-amp hookup.\n\nAgainst the TURBRO Kit, it has four LED indicators for status and a similar reduction claim at a slightly lower price. Against the ActiveStart Bluetooth, it offers LED status lights instead of an app.\n\nBest for budget buyers with a small generator and one air conditioner. The four LEDs make troubleshooting easier.",
     "specs": [
       "65 to 70 percent start cut",

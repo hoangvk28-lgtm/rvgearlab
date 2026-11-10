@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41JkScra4pL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H6F6HQ66?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H6F6HQ66?tag=rvgearlab-amz-20",
     "description": "The sofirn H25LR pairs a 660nm red light with a white beam of up to 500 lumens, four brightness levels and 90 CRI color rendering. A USB-C port recharges it, an IPX6 rating covers rain and sweat, and a memory function returns to your last mode.\n\nHolding the button from off jumps straight to red, which spares your eyes the white flash. It outputs more white light than the 350-lumen motion-sensor lamp and names a single 660nm red source.\n\nIt suits campers and anglers who switch between red for night vision and white for trail work. One-hand operation works with gloves on.",
     "specs": [
       "660nm red, 500 lumens white",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51+zDrcA0vL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DFZ3FP2D?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DFZ3FP2D?tag=rvgearlab-amz-20",
     "description": "This rechargeable headlamp throws 350 lumens in a 230-degree wide beam across seven modes, and a motion sensor switches modes with a wave of the hand. A 630 to 660nm red mode and SOS are listed, and a 1,200mAh USB-C battery gives up to 10 hours with a 3 hour recharge.\n\nIt gives a wider spread than the sofirn and glove-friendly hand control, while the sofirn has more peak output. The IPX4 rating handles rain and snow.\n\nIt suits campers who cook and clean with wet or gloved hands. Red and SOS modes cover night vision and signaling.",
     "specs": [
       "350 lumens, 230-degree beam",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41X9T+XEs3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B7B1VQKT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B7B1VQKT?tag=rvgearlab-amz-20",
     "description": "The BORUIT 2-Pack gives two headlamps with a white main LED and two red LED side lights, up to 120 lumens, and four modes: high white, medium white, red steady and red strobe. Each runs on three AAA cells and has a 45-degree tilt and IPX4 rating.\n\nIt takes AAA batteries you can swap in the field, which the USB-C lamps cannot, and the second lamp is a spare. It has the lowest output of the five.\n\nIt suits kids, families and backup kits that want a pair of cheap red-capable lamps. The red strobe also helps runners and cyclists be seen.",
     "specs": [
       "Two lamps, 120 lumens, 3 AAA",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51HD8XXqIPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09WDGNHCY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09WDGNHCY?tag=rvgearlab-amz-20",
     "description": "The EverBrite 5-Pack comes with five headlamps in different colors and 15 AAA batteries. Modes are high white, medium white, red, red flashing and green, with up to 300 lumens on high for about 4 hours and 150 lumens on medium.\n\nIt adds a green mode that none of the others offer, and five lamps cost less than the one sofirn. The elastic strap fits adults and kids, and a memory function recalls your last mode.\n\nIt suits groups, scout troops and families who want a lamp per person. Batteries are included for immediate use.",
     "specs": [
       "Five lamps, 15 AAA included",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Le-Xz-+IL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FVM14TLK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FVM14TLK?tag=rvgearlab-amz-20",
     "description": "The DARKBEAM 2-Pack is a red-only headlamp with three modes: two main red levels and a side red flash. The listing says the main red runs for about 3 hours and the side red for 28 hours, with a 60-degree up and down tilt and IPX4 rating.\n\nIt is the one pick with no white light at all, which keeps your night vision fully intact for sky watching. It also costs less than the sofirn and gives two lamps in the box.\n\nIt suits stargazers and astronomers who only need red light. The headband is elastic and fits the family.",
     "specs": [
       "Red-only, three modes",

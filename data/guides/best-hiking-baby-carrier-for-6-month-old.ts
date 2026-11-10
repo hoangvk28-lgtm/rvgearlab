@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zDqDOykYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BQC7MWDD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BQC7MWDD?tag=rvgearlab-amz-20",
     "description": "The Chicco SmartSupport is a lightweight aluminum-frame backpack carrier with a two-position, height-adjustable seat and a padded backrest. A five-point harness holds the child in, and the listing describes a built-in kickstand and an adjustable canopy rated 50+ for sun.\n\nNext to the ClevrPlus Deluxe, the seat adjusts in two positions so a smaller child sits higher while a bigger one gets room, and the kickstand makes loading far easier. Against the WIPHA carriers, it comes from a mainstream baby-gear brand with a straightforward feature list.\n\nIt suits parents of a baby who is just starting to sit well and who want one carrier to last into the toddler months. Padded 3D mesh on the lumbar, back and straps keeps the wearer cooler on warm trails.",
     "specs": [
       "Two-position adjustable seat",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41YvbGh7fpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0773Y363J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0773Y363J?tag=rvgearlab-amz-20",
     "description": "The ClevrPlus Deluxe names its range outright: children from 9 to 48 months, up to 33 pounds. It weighs 5.2 pounds, uses a one-piece frame with no assembly and adds five-point belts, stirrups and padded lumbar support.\n\nCompared with the Chicco SmartSupport, it bundles more in the box, including a rain cover, a sun canopy, a changing pad and a detachable mini backpack. Against the besrey Carrier, it is a pound lighter and spells out the age window.\n\nIt fits families who want the clearest age guidance and plenty of storage for diapers and bottles. Foot stirrups keep a growing child's legs supported on longer carries.",
     "specs": [
       "9 to 48 months, up to 33 lbs",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41luzESgrgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DCZGP9C5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DCZGP9C5?tag=rvgearlab-amz-20",
     "description": "The WIPHA Toddler carrier weighs 1.5 kg (3.3 lbs) on a lightweight aluminum frame and folds compactly like a laptop. The listing cites TÜV safety standard testing, adjustable waist and leg straps and a breathable, supportive backrest.\n\nIt is roughly 2 pounds lighter than the besrey Carrier and the ClevrPlus Deluxe, so it eases shoulder and neck strain on longer hikes. Compared with the WIPHA Ultralight, it keeps the folding frame at a lower cost.\n\nIt suits lighter parents and travelers who need a carrier that packs flat for car trunks and flights. The sunshade covers a child on sunny trails.",
     "specs": [
       "3.3 lb aluminum frame",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41HG3sKDz7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BZC1VKKQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BZC1VKKQ?tag=rvgearlab-amz-20",
     "description": "The besrey Carrier weighs 5.5 pounds and handles a combined load of 16 to 44 pounds including child, gear and the pack itself. It has five-point seat belts, padded shoulders and waist belt, and under-seat storage.\n\nIts detachable sunshade doubles as a rain and wind cover, and a washable drool pad protects the fabric. Against the Chicco SmartSupport, it adds weather protection and a clear load range; against the WIPHA Toddler, it is heavier.\n\nIt fits parents who hike in changeable weather and want a cover that goes on and off quickly. Pockets hold wipes, water bottles and a small light.",
     "specs": [
       "5.5 lb, 16 to 44 lb load",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/418lNhvMgiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GLFW151C?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GLFW151C?tag=rvgearlab-amz-20",
     "description": "The WIPHA Ultralight is the top-priced carrier here. The listing describes a burden-free ultralight design, TÜV safety certification, a three-point carrying system across shoulder, back and waist, and a zipper back pocket.\n\nCompared with the WIPHA Toddler, it adds the three-point load system and a UPF 50+ sunshade that stores in its own pocket. Against the Chicco SmartSupport, it is the lighter-feel choice for parents who carry for hours.\n\nIt suits parents who put comfort and certification first on long trail days. A soft, breathable seat gives the child a good view.",
     "specs": [
       "Three-point carrying system",

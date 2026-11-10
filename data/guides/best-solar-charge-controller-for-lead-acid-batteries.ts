@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/415I8KTKnXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08JBLMC33?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08JBLMC33?tag=rvgearlab-amz-20",
     "description": "ECO-WORTHY's 30A PWM adds built-in Bluetooth to a lead-acid friendly controller, with a stated measurement accuracy under 1%. ECO-WORTHY's 30A PWM controller has Bluetooth built in for app operation and lists suitability for lead-acid, gel and lithium phosphate batteries. The listing gives a 10A discharge (load) current and short-circuit, open-circuit and reverse protection.\n\nIt has more monitoring than EpRec 30A and more amps than Renogy Wanderer 10A, though its load output is listed at 10A. It also lists lithium phosphate, so it is flexible.\n\nBest for owners who want app monitoring on a lead-acid bank. It is the lower-cost route to app monitoring here, but expect a PWM controller and a modest load output.",
     "specs": [
       "30A PWM, 12V/24V",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410p3KHdviL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07NPDWZJ7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07NPDWZJ7?tag=rvgearlab-amz-20",
     "description": "Renogy's Wanderer 10A lists four-stage charging and under 10mA self-consumption for 12V and 24V systems. Renogy's Wanderer 10A is a four-stage PWM controller for 12V or 24V systems that lists self-consumption under 10mA. It has a backlit LCD, USB charging and a lithium setting with manual activation.\n\nIt is smaller than ECO-WORTHY 30A Bluetooth but gentler on the battery in storage. Compared with SOLPERK 8A it offers 24V and a backlit LCD.\n\nBest for a van or pop-up with one or two panels. It is a small, simple unit for a van or pop-up camper with one or two panels.",
     "specs": [
       "10A PWM, 12V/24V auto",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41aUXgg6npL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D3HR38QC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D3HR38QC?tag=rvgearlab-amz-20",
     "description": "SOLPERK's 8A model is a 12V IP67 unit that lists AGM and gel alongside LiFePO4. SOLPERK's 8A model is built for 12V panels with a maximum current of 8A and carries an IP67 waterproof rating. The listing says it draws nothing from the battery when there is no sunlight and works with 12V LiFePO4, AGM and gel batteries.\n\nIt is smaller than Voltset 10A and cannot do 24V. It is better for a single small panel than a roof array.\n\nBest for keeping a stored lead-acid battery topped up. At 8A it only suits a small panel, so treat it as a maintenance or trickle-charge unit rather than a roof-array controller.",
     "specs": [
       "8A, 12V only",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51xx0ZmHRFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HDYKXJ1Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HDYKXJ1Q?tag=rvgearlab-amz-20",
     "description": "Voltset's 10A controller lists AGM, gel and LiFePO4 in a sealed IP67 case with tri-color LEDs. Voltset's 10A controller is built for 12V solar panels and works with 12V LiFePO4, AGM and gel batteries. It carries an IP67 rating, tri-color LEDs for solar input, charging and full battery, and a list of protections.\n\nIt has slightly more amps than SOLPERK 8A but still only suits small panels. Against EpRec 30A it is more compact and sealed, but less capable.\n\nBest for a small sealed lead-acid system. It suits a small sealed 12V system or a portable panel on a pop-up camper.",
     "specs": [
       "10A, 12V only",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41FnD76Sq4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07VDWTWTW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07VDWTWTW?tag=rvgearlab-amz-20",
     "description": "EpRec's 30A PWM lists lead-acid types (open, AGM, gel) plus lithium and four-stage charging. EpRec's 30A PWM controller covers 12V and 24V systems with four-stage charging and names lithium-ion, lithium iron phosphate and lead-acid (open, AGM, gel) batteries. A backlit LCD shows PV, battery and load data, and dual USB ports supply 5V 2.5A.\n\nIt carries three times the current of Voltset 10A and adds a backlit LCD and dual USB. It lacks Bluetooth, which ECO-WORTHY 30A Bluetooth includes.\n\nBest for a mid-size array on a 12V or 24V lead-acid bank. It is a flexible low-cost chemistry-spanning unit, but pick the right battery profile.",
     "specs": [
       "30A PWM, 12V/24V",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41opvkWthjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08NFSCZ4V?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08NFSCZ4V?tag=rvgearlab-amz-20",
     "description": "Depvko's 30A PWM is lead-acid only, with an LCD and automatic 12V/24V adaptation. Depvko's 30A PWM controller adapts automatically to 12V and 24V systems and carries an LCD with auto parameter setting. The listing states it is only suitable for lead-acid batteries (open, sealed, colloid) and lists overcurrent, short-circuit, reverse and low-voltage protection.\n\nIt undercuts EpRec 30A on cost and is similar in rating, but it never supports lithium. That makes it a clean fit for a flooded or AGM bank.\n\nBest for a budget lead-acid system that will stay lead-acid. Pick it only for flooded or AGM banks, and never for a lithium battery.",
     "specs": [
       "30A PWM, 12V/24V auto",

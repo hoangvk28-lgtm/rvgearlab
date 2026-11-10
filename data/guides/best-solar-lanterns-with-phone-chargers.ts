@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41-CdefyRBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08JX5STJ6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08JX5STJ6?tag=rvgearlab-amz-20",
     "description": "The LuminAID Titan lists 300 lumens with Red Light and Turbo modes, a 4000mAh battery that charges most phones 2 to 3 times, and about 100 hours of light on Low. Its larger solar panel recharges in 16 to 20 hours of direct sun, and it weighs 12.5 ounces.\n\nIt strikes the best balance of light and battery of the group, ahead of the Max at 200 lumens and the Trio at 2000mAh. It expands and collapses in one motion and is made of rugged TPU.\n\nIt suits campers and outage kits who want a real power bank and a strong light in one. The waterproof, shatterproof build suits rough use.",
     "specs": [
       "300 lumens, 4000mAh",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31MMLq-s-YL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CK1831BX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CK1831BX?tag=rvgearlab-amz-20",
     "description": "The LuminAID Survivor runs from Turbo at 600 lumens for 2.5 to 4 hours down to Low at 15 lumens for 100 to 130 hours, with a flashing mode. Two 5V 2.1A ports charge phones, and it recharges in 24 to 30 hours of sun or 2 to 2.5 hours by USB.\n\nIt is the brightest of the five and the only one with two phone ports, and it floats and is waterproof to 1 meter. It also lists a full run-time table, which makes planning easy.\n\nIt suits boaters, kayakers and emergency kits that need bright light and dual charging. Twist-to-inflate construction keeps it simple.",
     "specs": [
       "600 lumens Turbo, 15 lumens Low",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31NibOTsqfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CVYMMHJ4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CVYMMHJ4?tag=rvgearlab-amz-20",
     "description": "The LuminAID Max is an expandable solar lantern and phone charger listed at 200 lumens with a Turbo mode. A 5V 2.1A output charges most phones from 75 to 100 percent, and it weighs under 10 ounces with an IP67 rating.\n\nIt states a lighter weight than the Titan's 12.5 ounces, plus an IP67 rating. Its full solar charge is the same 16 to 20 hours.\n\nIt suits backpackers and travelers who want a flat, light pack-in lantern that can still top up a phone. IP67 handles immersion.",
     "specs": [
       "200 lumens, Turbo mode",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31lpa4BbZ2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DTBJG1XR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DTBJG1XR?tag=rvgearlab-amz-20",
     "description": "The LuminAID Trio has three detachable LED units that connect to a shared solar docking station. The rectangular unit has a 2000mAh battery that charges phones, and every unit has three brightness levels, cool and warm white and a candle flicker mode.\n\nIt is the only modular set, so you can light three spots at once, which the Titan, Survivor and Max cannot do. Its battery is the smallest of the LuminAID group.\n\nIt suits families and gatherings that want lights in several places plus a small power bank. It works indoors and outdoors.",
     "specs": [
       "3 detachable LED units",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41rc3BHlyWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DW48CVCY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DW48CVCY?tag=rvgearlab-amz-20",
     "description": "The Lichamp Collapsible joins a flashlight to a 360 degree lantern at 300 lumens. Solar and USB both recharge it, and overcharge protection plus a USB port for Android devices round out the kit.\n\nIt costs well under the LuminAID units and equals the Titan on listed lumens. Its low price and flashlight handle set it apart from the inflatables.\n\nIt suits budget campers who want a flashlight, lantern and small phone top-up in one body. A folding handle doubles as a grip.",
     "specs": [
       "300 lumens, flashlight handle",

@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41CahWS3ohL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00BCRG22A?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00BCRG22A?tag=rvgearlab-amz-20",
     "description": "The Renogy 200W kit pairs two panels with a Wanderer 30A PWM controller that handles sealed, gel, flooded and lithium batteries. Renogy rates it at about 1000Wh a day on 5 hours of direct sun, and the cells are listed at 22% efficiency. Z-brackets and cables come in the box.\n\nAgainst the Renogy 400W Kit it costs $294.08 less and fits a typical van roof without crowding the vent. It also gives you real mounting hardware, which the flexible panels do not. Pick this if you want a complete plug in system for a van with a 100Ah to 200Ah bank. The caveat is PWM charging, which wastes some voltage headroom versus MPPT.",
     "specs": [
       "200W, 12V kit",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41al2vtltlL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07CTKT56Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07CTKT56Y?tag=rvgearlab-amz-20",
     "description": "The Renogy 400W kit is the biggest system here, at $524.07, and the listing only states a 32V maximum battery voltage, so check the controller type and panel count on the product page before ordering. Four times 100W worth of glass gives the most daily energy, roughly double what the 200W class makes.\n\nCompared with the Renogy 200W Kit you pay $294.08 more for twice the nameplate watts. That only pays off if the roof has room for it, since a van with a fan and a vent often cannot fit that much rigid area. Pick this if you run a compressor fridge, laptop and induction cooktop. The caveat is that the listing leaves out weight and dimensions.",
     "specs": [
       "400W kit",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zmkmE-4cL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07BMNGVV3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07BMNGVV3?tag=rvgearlab-amz-20",
     "description": "The Renogy Flexible 100W panel bends up to 240 degrees, sits about a tenth of an inch thick and weighs 70% less than a standard panel. The listing rates it for 2400 Pa wind and 5400 Pa snow loads. That makes it the practical choice for a high top van with a curved roof where rigid frames will not lie flat.\n\nIt costs $104.49, which is $34.50 more than the Topunive Flex 100W for the same nameplate wattage. You pay for the brand and its support. Pick this if you want a stealth look and no roof drilling beyond the cable gland. The caveat is that this is panel only, so you must buy a controller and wiring separately.",
     "specs": [
       "100W flexible, 240° bend",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51xRPn8m1ZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BQ1Y8JMH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BQ1Y8JMH?tag=rvgearlab-amz-20",
     "description": "The Topunive 100W flexible panel measures 36.22 by 23.22 inches, weighs 4.4 lb and bends to a minimum radius of 17.7 inches. It uses 9 busbar monocrystalline cells with ETFE surface and an IP67 junction box. At $69.99 it is the cheapest panel in this comparison.\n\nIt undercuts the Renogy Flex 100W by $34.50 for the same wattage, but you lose the larger brand's support network. The 17.7 inch minimum radius also means very tight curves are off the table. Pick this if you want to add 100W to a small van on a budget. The caveat is no controller or mounting hardware, and ETFE glued panels tend to run hotter than framed ones.",
     "specs": [
       "100W, 4.4 lb",

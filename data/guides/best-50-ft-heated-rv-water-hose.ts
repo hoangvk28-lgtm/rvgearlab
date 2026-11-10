@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41EST4uPZeL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G7XBVTSB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G7XBVTSB?tag=rvgearlab-amz-20",
     "description": "Ficstar's 50ft hose keeps its heated copper wire inside the hose and starts heating below about 8.5°C (47°F). Ficstar's 50ft hose has an auto-adjusting thermostat that turns on below about 8.5°C (47°F).\n\nIt costs about 33 dollars less than the YKXJM and roughly half of the OEBLD. Leak-proof washers and Teflon tape protect the fittings.\n\nBoth ends are sealed with leak-proof washers and Teflon tape, so the copper heating wire stays protected inside the line. It suits buyers who want a self-regulating 50 ft hose without paying a premium.",
     "specs": [
       "50 ft self-regulating hose",
@@ -53,7 +53,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41UGuNuPJnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DH3543ZH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DH3543ZH?tag=rvgearlab-amz-20",
     "description": "The YKXJM 50FT has pure copper end adapters and drinking-water-safe materials. YKXJM's 50FT hose has pure copper end adapters and drinking water safe materials, in a range from 15 to 100 feet.\n\nIt sits between the cheap Ficstar and the pricier RVGUARD. The line runs from 15 to 100 feet, which makes swapping lengths easy.\n\nA straightforward thermostat-controlled design at a mid-range price keeps this 50 foot option simple to live with. It suits owners who may change length later.",
     "specs": [
       "50 ft of a 15 to 100 ft range",
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/516fhy-U0nL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C6LW9XSV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C6LW9XSV?tag=rvgearlab-amz-20",
     "description": "Metal hardware sets this 50 foot RVGUARD apart: stainless steel connectors on a five-layer hose, with a thermostat that switches on near 47°F. Freeze protection is listed down to -20°F, which fits long winter hookups in moderate cold.\n\nWhere the WABUPD leads on cold rating, this one leads on durable metal fittings. It costs less than the three -45°F premium hoses.\n\nFive layers, stainless steel connectors, a 3/4 inch GHT adapter and lead and BPA free water contact make up the build. Campsites that rarely drop below about -10°F are its natural home.",
     "specs": [
       "50 ft, -20°F protection",
@@ -107,7 +107,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51ha55roQyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DZ15XXKM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DZ15XXKM?tag=rvgearlab-amz-20",
     "description": "The WABUPD 50FT uses thickened heating wires and a five-layer shell with a -45°F rating. WABUPD titles this hose 50FT with -45°F protection and thickened heating wires.\n\nIt costs about 20 dollars more than the RVGUARD and offers a deeper-cold rating. It is priced a dollar under the OEBLD and Bipeoo.\n\nThe shell is a five-layer thickened build and the listing promises strong heating performance in cold. It suits colder sites that need a strong heating wire.",
     "specs": [
       "50 ft, -45°F protection",
@@ -134,7 +134,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/418LnOaIwNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F8VJPB6M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F8VJPB6M?tag=rvgearlab-amz-20",
     "description": "At 50 feet, the OEBLD keeps a 5/8-inch inner diameter for flow and wraps it in a braided PVC-coated polyester jacket good to -45°F. OEBLD lists this 50FT hose with a 5/8-inch ID, -45°F protection and a 3/4-inch GHT fitting with thick gaskets.\n\nIt moves more water than the WABUPD and matches the Bipeoo on price. The triple-seal fitting adds leak resistance.\n\nThe jacket is PVC-coated polyester braid described as abrasion and UV resistant. It fits owners who run a pump or filter over 50 feet.",
     "specs": [
       "50 ft, 5/8 inch ID",
@@ -161,7 +161,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51bEIDcolPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F9WMLDRC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F9WMLDRC?tag=rvgearlab-amz-20",
     "description": "The Bipeoo 50FT has intelligent temperature adjustment, a food-grade hose and -45°F protection. Bipeoo titles this hose 50FT with -45°F protection and an intelligent temperature adjustment function.\n\nIt sells at the top of the price range, alongside the OEBLD. It is also pitched for livestock use.\n\nThe inner hose is food-grade, lead and BPA free, and it is pitched for RVs, campers and livestock use. It suits buyers who want smart temperature control above price.",
     "specs": [
       "50 ft, -45°F protection",

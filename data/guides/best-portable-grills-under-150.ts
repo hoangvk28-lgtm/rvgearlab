@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41VkHx7OopL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G8ZJ4Y5Z?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G8ZJ4Y5Z?tag=rvgearlab-amz-20",
     "description": "Grills House has 369 square inches of cooking space that fits up to 15 burgers, a 12,000 BTU stainless steel burner, piezo ignition and a built-in temperature gauge. It folds to 25.94 by 18.60 by 11.37 inches with the side tables and legs collapsed.\n\nAt about $90 it has the largest cooking area of the five and a much bigger surface than the Megamaster, which costs $45 more. The Megamaster has two burners, and this one gives the most space per dollar.\n\nFamilies, tailgaters and groups of five or six will like the generous surface. The folded size is workable for most SUV cargo areas.",
     "specs": [
       "369 sq in, 12,000 BTU burner",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41dF7j49N+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07P8QXMH3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07P8QXMH3?tag=rvgearlab-amz-20",
     "description": "Megamaster is a stainless steel tabletop grill with two burners producing 16,000 BTU and 199 square inches of cooking space. It has foldable legs and a locking lid.\n\nIt costs about $135 and is the only pick with two burners, so you can sear on one side and keep food warm on the other. The Grills House has more surface for $45 less, and the Megamaster has more control.\n\nCampers who cook full meals with a main and a side will like the two zones. It suits RV exteriors and campground tables.",
     "specs": [
       "16,000 BTU, 2 burners",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31tA6QBVsTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00004TBJ4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00004TBJ4?tag=rvgearlab-amz-20",
     "description": "The Charbroil Portable Convective has a single burner, 190 square inches of cooking space and porcelain-coated grates. It uses liquid propane and sits about 12 inches tall.\n\nAt about $54 this is the lowest price in the guide, and it is the simplest gas grill to learn. It lacks the Grills House's gauge and igniter.\n\nCampers who want a basic gas grill at the lowest price will be satisfied. It also works as a spare for RV campers.",
     "specs": [
       "190 sq in, single burner",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Z-ibVOqGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H7R3BNG7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H7R3BNG7?tag=rvgearlab-amz-20",
     "description": "IRONYAK is an 18 inch charcoal grill and smoker with 319 square inches of chrome-plated cooking space, a lid thermometer and reinforced legs. A removable ash pan and a custom nylon cover are in the box.\n\nIt costs about $69 and gives nearly as much space as the Grills House for $21 less. The gas grills light faster, and this one gives smoky flavor.\n\nCampers who cook on charcoal for larger groups will like the space. It also works as a small smoker.",
     "specs": [
       "18 inch, 319 sq in",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ZReqr7aIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H797M5H5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H797M5H5?tag=rvgearlab-amz-20",
     "description": "Outvita is a 1600W electric grill with a removable stand, an interlocking hood and bowl and chrome-plated grates over stainless heating tubes. It cooks up to 10 burgers at once and has a waterproof plug.\n\nAt about $70 it is a plug-in alternative to the gas and charcoal grills here, with no fuel to carry. It suits powered sites and campgrounds that restrict open flames.\n\nRV owners on shore power and anyone who bans open flames will like it. It also suits a balcony.",
     "specs": [
       "1600W electric, 10 burgers",

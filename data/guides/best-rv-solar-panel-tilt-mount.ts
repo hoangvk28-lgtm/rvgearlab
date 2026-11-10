@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/518vbRRp47L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GHMWY4G3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GHMWY4G3?tag=rvgearlab-amz-20",
     "description": "The Hoysicy 30W kit has a 10A controller with an LCD display and dual USB ports, plus a bracket described as adjustable 360 degrees. It is IP65 rated, works with 12V LiFePO4, AGM and other batteries, and costs $44.99.\n\nIt is $25.00 cheaper than the Voltset 30W and adds an LCD and USB ports, while the Voltset adds an MPPT controller. Pick this if you want a screen and a cheap tilting setup. The caveat: the listing does not say MPPT or PWM, so output may be lower.",
     "specs": [
       "30W, 10A controller",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Otq8BEJhL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C9PRGVKM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C9PRGVKM?tag=rvgearlab-amz-20",
     "description": "The Voltset 30W includes a 10A MPPT controller said to generate 20 to 30% more power than ordinary controllers, plus a 60 degree heavy-duty bracket with an alloy ball joint. It has LED status lights and an aluminum frame and costs $69.99.\n\nIt costs $25.00 more than the Hoysicy 30W but has the MPPT controller and ball-joint bracket. Pick this if you want the best energy from 30W. The caveat: the bracket tilts 60 degrees, and the claim of 20 to 30% extra is a manufacturer figure.",
     "specs": [
       "30W with 10A MPPT",

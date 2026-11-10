@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51DxdgoqKcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FY4QSCD7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FY4QSCD7?tag=rvgearlab-amz-20",
     "description": "The LONRI HEAT is the only pick whose title lists a 10 foot length, which makes it the direct answer to this keyword. LONRI HEAT lists a 10FT heated hose in its title, rated to -45°F, with a UL certified LED plug.\n\nNext to the 15 foot Cupohus and RVMATE it trims five feet of cable you would otherwise coil in the snow. That shorter run is also less hose to plug in, store and keep dry.\n\nIts inner hose is described as drinking water safe and free of lead and BPA, with leak-proof washers and Teflon tape at the ends. It suits campers who park close to a post-mounted spigot and want the shortest heated run possible.",
     "specs": [
       "10 ft heated hose",
@@ -53,7 +53,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41SPWCbeleL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BRSNTT58?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BRSNTT58?tag=rvgearlab-amz-20",
     "description": "The Cupohus is a 15 foot step up from the 10 foot size that adds a 5/8 inch bore for stronger water flow. This 15FT Cupohus hose is rated to -45°F and uses a 3/4-inch GHT fitting with thick rubber gaskets and sealing tape.\n\nCompared with the RVMATE it uses a braided polyester jacket and a triple-seal GHT fitting, while the LONRI is shorter but narrower on documented materials. The extra five feet also gives slack when the spigot sits a little farther than planned.\n\nThe PVC-coated polyester braided outer layer is described as resistant to abrasion and UV, and the inner diameter is 5/8 inch. It fits owners who want more reach than 10 ft and a rugged jacket for snow, slush and drag.",
     "specs": [
       "15 ft, -45°F rating",
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51S-zdH3uRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D6Z6SB55?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D6Z6SB55?tag=rvgearlab-amz-20",
     "description": "The RVMATE is the lowest priced option here, a 15 foot hose with a UL Listed heating cable at 7 watts per foot. RVMATE lists this 15FT hose with -20°F antifreeze protection and a UL Listed heating cable running at 7 watts per foot.\n\nAgainst the REHOSEUP it gives up the -45°F rating for -20°F protection, but its compression ends and copper nickel connectors keep the price down. It undercuts the LONRI while adding five feet of reach.\n\nThe connectors are lead-free copper nickel plated parts instead of aluminum, joined with compression technology to reduce leaks. It is a sound choice for milder winters where the hose rarely sees more than a hard freeze.",
     "specs": [
       "15 ft, -20°F protection",
@@ -107,7 +107,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51VV16gtr5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B5RL56SF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B5RL56SF?tag=rvgearlab-amz-20",
     "description": "The REHOSEUP 15 ft hose is rated to -45°F and uses a self-regulating external thermostat. It is a 15 foot REHOSEUP hose rated to -45°F, controlled by a smart self-regulating external thermostat.\n\nIt matches the Cupohus on rating but adds a setup video and double washers at both ends, while the LONRI offers a shorter run. Among the 15 foot picks it is the one with the most beginner support.\n\nDouble washers at each end and a durable jacket come with instructions and a video for setup. It suits first-time buyers in cold regions who want guidance as well as a strong rating.",
     "specs": [
       "15 ft, rated to -45°F",
@@ -134,7 +134,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/418zlzRHnuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DH357S2L?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DH357S2L?tag=rvgearlab-amz-20",
     "description": "The YKXJM is a 15 foot hose from a line that runs up to 100 feet, with pure copper adapters on both ends. YKXJM sells this hose in lengths from 15 to 100 feet, and the version here is the 15FT size.\n\nCompared with the REHOSEUP it offers a clear path to a longer size from the same maker, while the Cupohus tops out at fewer options. That makes swapping lengths simple if the campsite changes.\n\nBoth ends use pure copper adapters and the inner hose is described as meeting drinking water safety rules. It works for travelers who park at different pedestals and want to stay within one hose family.",
     "specs": [
       "15 ft of a 15 to 100 ft range",
@@ -161,7 +161,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51VV16gtr5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B7X6VM2S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B7X6VM2S?tag=rvgearlab-amz-20",
     "description": "The REHOSEUP 30 ft is the longest hose here, rated to -45°F with a self-regulating thermostat and a 3-year warranty. Its title lists 30 feet of heated hose with a -45°F freeze rating and a self-regulating external thermostat.\n\nNext to the 15 foot REHOSEUP it triples the reach of a 10 foot hose, which helps when the spigot is across the site. The shorter picks are easier to store, while this one covers more ground.\n\nDouble washers at both ends and a durable outer jacket round out the build, and the listing offers a 3-year warranty. It suits owners who often camp where the water source is far from the rig.",
     "specs": [
       "30 ft, rated to -45°F",

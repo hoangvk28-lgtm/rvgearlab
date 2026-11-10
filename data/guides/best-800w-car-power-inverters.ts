@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Va9-npM9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H1V7TBYR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H1V7TBYR?tag=rvgearlab-amz-20",
     "description": "The LVYUAN lists 800W continuous and 1600W surge pure sine power. It has an LCD with real-time voltage, load readings and error codes, an aluminum body, and protections against overvoltage, low voltage, overload, short circuit, overheating and reverse polarity.\n\nAgainst the WZRELB 800W it adds a full LCD and error codes instead of a DC voltage readout. Compared with the Go Power GP-800HD, it moves from modified to pure sine for gentler output on electronics.\n\nIt suits a camper who wants one reliable 800W unit with clear feedback when something trips. The error codes make troubleshooting easier at a dark campsite.",
     "specs": [
       "800W pure sine, 1600W surge",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41cEII-GV8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G7ZCKR5G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G7ZCKR5G?tag=rvgearlab-amz-20",
     "description": "The WZRELB lists 800W continuous and 1600W surge true pure sine output, with efficiency above 90 percent. It has a DC LED display, a remote controller, soft-start technology and an all-aluminum housing with a cooling fan.\n\nCompared with the LVYUAN 800W, it includes a remote and costs less, with a DC voltage readout in place of load. Next to the modified sine units, it offers a cleaner waveform at a similar price.\n\nIt is a smart pick for campers who want pure sine and a remote on a tight budget. The soft start eases inrush on motor loads like fans.",
     "specs": [
       "800W pure sine, 1600W surge",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Y5Cqget1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B074RBCVSG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B074RBCVSG?tag=rvgearlab-amz-20",
     "description": "The Go Power GP-800HD is a modified sine wave 800W inverter with 1600W surge, pre-lugged cables, two 10 ft #4 AWG battery cables and a Class T 110A fuse. Installation instructions are included for a plug-and-play setup.\n\nCompared with the pure sine units, it saves the cost of buying cable and fuse separately. Against the clamp-style budget units, it is built for a more permanent connection.\n\nIt suits a camper wiring an inverter into a trailer or truck for repeated use. The included fuse and heavy cables take the guesswork out of the install.",
     "specs": [
       "800W modified sine, 1600W surge",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41EoD8Es-5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G64G6MMM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G64G6MMM?tag=rvgearlab-amz-20",
     "description": "The EFFORTWAY lists 800W continuous and 1600W peak with 2 AC outlets and a 2.1A USB port. It ships with a cigarette lighter adapter and battery clamps, and the listing says to use the socket only for devices under 150W.\n\nCompared with the Go Power GP-800HD, it uses clamps rather than hardwired cable and is much lighter at roughly cellphone size. Against the BYGD 800W, it gives both connection options in the box.\n\nIt suits a car camper who wants to charge phones from the socket and then clamp to the battery for a laptop or small appliance. The compact size fits a glove box.",
     "specs": [
       "800W peak 1600W, 2 AC outlets",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51+D7Gd+CKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B081GFJFWD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B081GFJFWD?tag=rvgearlab-amz-20",
     "description": "The BYGD lists 800W with 2 US AC sockets, 2 quick-charging 2.4A USB ports and an on/off switch. It measures 7.9 x 5.5 x 2.9 inches and weighs 3.1 lb, with an 18-month warranty.\n\nCompared with the EFFORTWAY 800W, it offers faster USB and a listed weight of 3.1 lb. Next to the XYZ INVT 800W, it adds a listed isolation transformer in its safety description.\n\nIt is a pick for campers who want a compact 800W with strong USB charging. The small footprint stores easily in a car trunk.",
     "specs": [
       "800W, 2 AC sockets",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4149qQ6wgNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G1BCYQBW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G1BCYQBW?tag=rvgearlab-amz-20",
     "description": "The XYZ INVT lists 800W modified sine wave output at 60Hz with dual AC outlets, soft start, and overload, low-voltage, over-voltage, overheat and short-circuit protection. The listing says it works only with 12V batteries.\n\nCompared with the EFFORTWAY 800W, it drops the socket adapter and focuses on battery connection at a similar price. Against the pure sine picks, it gives up waveform quality for a lower cost.\n\nIt is a good fit for campers who only run laptops, chargers, lights and small fans. The soft start is a helpful extra at this price.",
     "specs": [
       "800W modified sine wave",

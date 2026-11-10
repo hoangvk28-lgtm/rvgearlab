@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41fxEeryGVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GH6WXSL5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GH6WXSL5?tag=rvgearlab-amz-20",
     "description": "The CAODITU is a 9.8 by 9.8 foot camping awning made from 210D ripstop polyester with a PU waterproof coating and fully taped seams. The kit includes 2 adjustable poles, 8 aluminum stakes, 8 guy lines, tensioners, a mallet and a carry bag.\n\nThis is the one pick here that arrives with poles and guy lines, so you can pitch it as a rain fly or a hammock cover with nothing extra to buy. The Cartman and Vandham give more raw area for less money, and they need your own cord and poles.\n\nIt suits solo campers, hammock sleepers and anyone who wants a fast shade or rain shelter. It also works as a picnic mat or a groundsheet.",
     "specs": [
       "9.8x9.8 ft 210D ripstop",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/515YYJ52PoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B083NXHN6W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B083NXHN6W?tag=rvgearlab-amz-20",
     "description": "This 14 by 20 foot sheet from Cartman is 5 mil poly with sealed hems and edge rope, and metal grommets every 36 inches. It spreads over about 280 square feet.\n\nIt has the biggest area here for under $21, so one sheet can cover a vehicle, a stack of wood or an entire group kitchen. The 5 mil weight is lighter than the 8 mil Vandham, so it flaps more in wind.\n\nIt suits groups and car campers who need a large overhead cover. Hang it with a ridge line in fair weather.",
     "specs": [
       "14x20 ft, 5 mil poly",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/415rwuqy1NL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FJ52LQL8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FJ52LQL8?tag=rvgearlab-amz-20",
     "description": "The Vandham is a 10 by 12 foot, 8 mil HDPE tarp with rubber triangular corners and double-layer edges. Grommets sit about every meter along the hems.\n\nCompared with the 14 by 20 Cartman it covers less area, yet the heavier 8 mil body holds up better to wind and abrasion. It costs about $3.50 less.\n\nIt suits car campers who want a sturdy sheet for tent floors, picnic cover or a lean-to. Rinse and dry it before folding.",
     "specs": [
       "10x12 ft, 8 mil HDPE",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41IgrwKg8YL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0748FG2Z6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0748FG2Z6?tag=rvgearlab-amz-20",
     "description": "Measuring about 7.5 by 9.5 feet, this AmazonBasics sheet has a rip-stop weave coated in polyethylene on both faces. It has reinforced edges and grommets for tie-downs.\n\nAt about $14 it is the second cheapest pick and it adds the rip-stop weave that the Vandham and Kotap lack. It covers less area, which suits a two-person tent floor or a small gear pile.\n\nIt suits solo backpackers and car campers who want a tear-resistant ground cloth. Pair it with the Cartman 14x20 if you want both a floor and a roof.",
     "specs": [
       "About 7.5x9.5 ft rip-stop",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Ab-hu1sTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0096LZJX2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0096LZJX2?tag=rvgearlab-amz-20",
     "description": "The Kotap is a 5 mil poly tarp with a finished size of 7 feet 4 inches by 19 feet 6 inches. Rustproof aluminum grommets sit every 3 feet and at each corner.\n\nIt is the longest sheet in the group and the lightest-weight poly. The Cartman 14x20 is wider and costs about $6 more, while the Kotap fits narrow jobs like a woodpile or a canoe.\n\nIt suits campers with long, low loads that need covering. Tie it down along both edges for wind.",
     "specs": [
       "5 mil poly, 7'4\" x 19'6\"",

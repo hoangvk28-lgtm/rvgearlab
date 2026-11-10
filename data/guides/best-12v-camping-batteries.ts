@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41D-MVVOU-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FBRNSM3G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FBRNSM3G?tag=rvgearlab-amz-20",
     "description": "The yeagulch is a 12V 100Ah Group 31 LiFePO4 battery with a 100A BMS and 1280Wh of capacity. The listing cites up to 4,000 cycles at 100% depth of discharge, a flat discharge curve and a weight of 21.6 lbs.\n\nIt carries about eight times the energy of the 12Ah LiTime and many times the ExpertPower. Series or parallel wiring is allowed for up to four units, which the small batteries also list.\n\nIt suits campers building a real off-grid system for lights, a fridge and a small inverter. It pairs well with a solar charge controller set for LiFePO4.",
     "specs": [
       "12V 100Ah, 1280Wh",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31U2UuZA6EL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BNKZPL6V?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BNKZPL6V?tag=rvgearlab-amz-20",
     "description": "The LiTime is a 12V 12Ah mini LiFePO4 battery with a 12A BMS covering overcharge, over-discharge, current, temperature and short circuits. It lists 4000+ cycles at 100% depth of discharge and CE, RoHS and FCC certification.\n\nIt holds a little more than the 10Ah Nermak units and has a stated certification list. It works for a fish finder, LED lights and small gear.\n\nIt suits campers who power a few lights or a small speaker. The compact body sits in a gear box.",
     "specs": [
       "12V 12Ah, 12A BMS",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41IKSf30K9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09H3FG1D5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09H3FG1D5?tag=rvgearlab-amz-20",
     "description": "The Nermak gives two 12V 10Ah LiFePO4 batteries with built-in BMS, 2000+ cycles and a 5A quick charge. Each supports up to 10A continuous discharge, and up to four identical units can link in series or parallel.\n\nA pair means a spare for lights and a spare for a router or camera. Against the single LiTime, the two units give more total capacity.\n\nIt suits campers who run LED strips, a 12V router or a trail camera. The listing names RV and outdoor camping among its uses.",
     "specs": [
       "Two 12V 10Ah batteries",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41uyT5cEmEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00ME3ZH7C?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00ME3ZH7C?tag=rvgearlab-amz-20",
     "description": "The Talentcell is a lithium-ion pack with a 12V DC output and a 5V USB output, listed at 66.6Wh (11.1V 6000mAh). Five LED indicators show charge, and a 12.6V 1A wall charger and splitter cable come in the box.\n\nIt is the only portable pack here and the most mobile in the group. Its 12V output swings from 12.6 down to 9V, unlike the steady output of a LiFePO4 battery.\n\nIt suits campers who power a camera, LED strip or modem. A DC5521 plug connects the output.",
     "specs": [
       "66.6Wh, 12V and 5V outputs",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41rqv+Co8yL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B003S1RQ2S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B003S1RQ2S?tag=rvgearlab-amz-20",
     "description": "The ExpertPower EXP1270 is a 12V 7Ah sealed lead-acid battery with F1 terminals, a maintenance-free case and a spill-proof design. It replaces a range of 1270 batteries and suits alarms, UPS units and power wheels.\n\nIt costs the least here and covers small loads for the lowest spend. LiFePO4 options hold more usable energy per pound.\n\nIt suits campers who want a cheap spare for a small light or an alarm. A rugged ABS case resists vibration.",
     "specs": [
       "12V 7Ah, SLA",

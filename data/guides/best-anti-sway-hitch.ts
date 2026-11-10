@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/315WPNES0CL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FJRMT633?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FJRMT633?tag=rvgearlab-amz-20",
     "description": "This FAHKNS kit is the only full system here that pairs weight distribution with a sway control lever and spring bars, and the listing states a towing capacity of up to 14,000 lbs. The ball on the head is pre-installed and the square shank has 6 height adjustment holes, which matters when you are dialing in level.\n\nIt sits above the FAHKNS 12K Kit on capacity headroom, and it costs more for that margin. Against Fastway Connect it adds a named sway control lever, where the Fastway listing talks about chains and weight distribution but names no sway device.\n\nChoose it if you want one purchase that covers both jobs on a mid-to-large travel trailer. The caveat is that the listing does not state a tongue weight figure, so check that number before ordering.",
     "specs": [
       "Up to 14,000 lbs towing capacity",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21RGx+w5dWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D41KYVTT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D41KYVTT?tag=rvgearlab-amz-20",
     "description": "This is the lower-capacity sibling of the 14K kit, with the listing stating up to 12,000 lbs of towing capacity and tongue weights up to 1,200 lbs. It has the same pre-installed ball and a square shank with 6 holes for height changes.\n\nNext to the FAHKNS 14K Kit you give up 2,000 lbs of stated capacity and save money, which is a fair swap if your loaded trailer is well under that mark. It is a complete system, unlike the Fastway Connect, whose listing leans on chain-based weight distribution alone.\n\nBest for midsize travel trailer owners who want sway resistance and weight distribution in one box. If you plan to upgrade to a bigger trailer soon, the extra headroom of the 14K version is cheap insurance.",
     "specs": [
       "12,000 lbs towing capacity",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31URi7WhldL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B61YZP43?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B61YZP43?tag=rvgearlab-amz-20",
     "description": "The Fastway Connect is a weight distribution hitch with hardened steel chains that run from the arms to the trailer frame hooks. The listing states 1,000 lb maximum tongue weight and 10,000 lb maximum trailer weight, and says it installs with no frame drilling.\n\nAdjustment is by moving the chain to a different link, which is simpler than bracket-based systems like the FAHKNS 12K Kit. The tradeoff for an anti-sway shopper is that the listing describes improved towing stability but never names a sway control device.\n\nPick it for a lighter trailer where weight distribution is the main need and you may add a separate sway bar later. If sway is your specific worry, treat it as the foundation, not the whole answer.",
     "specs": [
       "1,000 lb max tongue weight",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/417nki7s5IL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7HFY47Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7HFY47Q?tag=rvgearlab-amz-20",
     "description": "This is not a hitch but a two-sided sway control adapter that lets a friction sway bar bolt to a standard ball mount. The listing says it fits Class III and Class IV 2 inch square ball mounts and is made of thickened steel.\n\nCompared with the SHUJUKU Single-Sided, the two-sided design is described as an upgrade from one side, so it can carry a bar on either side. Compared with the full kits, it costs a fraction but needs a friction sway bar bought separately.\n\nA smart fit if you already own a compatible ball mount and want to add sway resistance cheaply. Skip it if you want one complete system, because this is only the mounting piece.",
     "specs": [
       "Fits Class III and IV 2\" mounts",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31QGI2fJP2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GKRC2SZ5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GKRC2SZ5?tag=rvgearlab-amz-20",
     "description": "The SHUJUKU adapter is the single-sided version of the same idea, listed as a 26003-style friction sway control adapter for Class III and IV 2 inch square ball mounts. It lists a 1.02 inch main hole, a 0.66 inch secondary hole and 0.3 inch thickness, with a black anti-rust coat.\n\nIt is slightly cheaper than the JIANBENKJ Two-Sided but opens to one side only, so you get one bar position. Against the CURT 40093 Ball, it is the bracket rather than the ball, so the two parts solve different problems.\n\nGood for a simple one-bar setup on a ball mount you already own. Measure your ball stud against the listed hole sizes first, since the adapter does not do anything on its own.",
     "specs": [
       "Class III and IV 2\" mounts",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31JQ+n36DXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0007M1UO6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0007M1UO6?tag=rvgearlab-amz-20",
     "description": "This is a 1-1/4 inch replacement sway control ball with a 5/8 x 1-3/4 inch shank, made for the CURT sway control unit #17200. It is high-strength steel with a chrome finish and comes with a zinc hex nut and helical lock washer.\n\nIt is the cheapest line item in this guide and the only one that is purely a spare, so it ranks last against adapters like the SHUJUKU Single-Sided that at least extend a hitch. Its job is to restore a worn or lost ball on a system you already own.\n\nBuy it only if you already run a compatible sway unit, because the listing states that sway control is sold separately. It will not add sway resistance to a hitch by itself.",
     "specs": [
       "1-1/4\" ball, 5/8\" shank",

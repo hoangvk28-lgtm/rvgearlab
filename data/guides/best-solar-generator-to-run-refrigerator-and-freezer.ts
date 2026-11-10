@@ -21,7 +21,7 @@ export const products = withAmazonUrls([
     badge: "Best overall",
     name: "Jackery Solar Generator 1000 v2 and 200W Solar Panel,1070Wh,1500W AC",
     amazonQuery: "Jackery Solar Generator 1000 v2 and 200W Solar Panel,1070Wh,1500W AC",
-    amazonUrl: "https://www.amazon.com/dp/B0D2L1G66J?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0D2L1G66J?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41Li2jDBgqL._SL500_.jpg",
     specs: ["Capacity: 1,070Wh","Continuous output: 1,500W","Surge output: 3,000W","Listed weight: 23.8 lb"],
     specList: [{"label":"Capacity","value":"1,070Wh"},{"label":"Continuous output","value":"1,500W"},{"label":"Surge output","value":"3,000W"},{"label":"Listed weight","value":"23.8 lb"}],
@@ -36,7 +36,7 @@ export const products = withAmazonUrls([
     badge: "Best heavy-duty option",
     name: "Anker SOLIX S2000 Portable Power Station, 2,010Wh, 1,500W",
     amazonQuery: "Anker SOLIX S2000 Portable Power Station, 2,010Wh, 1,500W",
-    amazonUrl: "https://www.amazon.com/dp/B0GY4TQ2P8?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0GY4TQ2P8?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41oUWN32k+L._SL500_.jpg",
     specs: ["Capacity: 2,010Wh","Continuous output: 1,500W","Surge output: 3,000W","Listed weight: 35.7 lb"],
     specList: [{"label":"Capacity","value":"2,010Wh"},{"label":"Continuous output","value":"1,500W"},{"label":"Surge output","value":"3,000W"},{"label":"Listed weight","value":"35.7 lb"}],
@@ -51,7 +51,7 @@ export const products = withAmazonUrls([
     badge: "Best compact option",
     name: "Jackery HomePower 3600 Plus Power Station, 3584Wh, 3600W AC Output",
     amazonQuery: "Jackery HomePower 3600 Plus Power Station, 3584Wh, 3600W AC Output",
-    amazonUrl: "https://www.amazon.com/dp/B0FM8653F1?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0FM8653F1?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/31MKjmDYAXL._SL500_.jpg",
     specs: ["Capacity: 3,584Wh","Continuous output: 3,600W","Runtime claim: Up to 2 hours","Battery cycle claim: 6,000 cycles"],
     specList: [{"label":"Capacity","value":"3,584Wh"},{"label":"Continuous output","value":"3,600W"},{"label":"Runtime claim","value":"Up to 2 hours"},{"label":"Battery cycle claim","value":"6,000 cycles"}],
@@ -66,7 +66,7 @@ export const products = withAmazonUrls([
     badge: "Best value pick",
     name: "Jackery Explorer 1000 v2 Portable Power Station,1070Wh,1500W",
     amazonQuery: "Jackery Explorer 1000 v2 Portable Power Station,1070Wh,1500W",
-    amazonUrl: "https://www.amazon.com/dp/B0D7PPG25F?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0D7PPG25F?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/31+D1tNXreL._SL500_.jpg",
     specs: ["Capacity: 1,070Wh","Continuous output: 1,500W","Surge output: 3,000W","Listed weight: 23.8 lb"],
     specList: [{"label":"Capacity","value":"1,070Wh"},{"label":"Continuous output","value":"1,500W"},{"label":"Surge output","value":"3,000W"},{"label":"Listed weight","value":"23.8 lb"}],
@@ -81,7 +81,7 @@ export const products = withAmazonUrls([
     badge: "Best backup pick",
     name: "BLUETTI Elite 200 V2 Solar Generator & 2x200W Solar Panel Included 2073.6Wh",
     amazonQuery: "BLUETTI Elite 200 V2 Solar Generator & 2x200W Solar Panel Included 2073.6Wh",
-    amazonUrl: "https://www.amazon.com/dp/B0FSJM6NZC?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0FSJM6NZC?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41Q6JjGYa7L._SL500_.jpg",
     specs: ["Capacity: 2,073.6Wh","Included panel: 200W","Runtime claim: Up to 5.5 hours","Battery cycle claim: 6,000 cycles"],
     specList: [{"label":"Capacity","value":"2,073.6Wh"},{"label":"Included panel","value":"200W"},{"label":"Runtime claim","value":"Up to 5.5 hours"},{"label":"Battery cycle claim","value":"6,000 cycles"}],
@@ -183,7 +183,7 @@ export const relatedGuides = [
 export const sources = [
   {
     "title": "Jackery Solar Generator 1000 v2 and 200W Solar Panel,1070Wh,1500W AC product page",
-    "href": "https://www.amazon.com/dp/B0D2L1G66J?tag=rvgearlab-20&linkCode=osi&th=1&psc=1"
+    "href": "https://www.amazon.com/dp/B0D2L1G66J?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1"
   },
   {
     "title": "CPSC carbon monoxide safety center",

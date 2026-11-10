@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41oWXkvptqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HGFPY6HW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HGFPY6HW?tag=rvgearlab-amz-20",
     "description": "The HINYFVOZ 9-inch GPS lists customized routes for cars, trucks and RVs from entered dimensions and 2026 maps with free lifetime updates. It has an HD touchscreen, voice guidance and an FM transmitter.\n\nIt is the one pick that names RVs directly in its route planning feature. It is priced below the OHREX and MRSXWPY.\n\nIt suits owners who want an RV profile on a budget. The FM transmitter sends voice through car speakers.",
     "specs": [
       "9 inch HD touchscreen",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41RndtGDcrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HB2X31K6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HB2X31K6?tag=rvgearlab-amz-20",
     "description": "The MRSXWPY 9 inch GPS lists customized truck routes by size and weight with bridge height and weight limit alerts. Maps update free for life by Windows PC or an external TF card.\n\nIt lists over 40 voice languages and a package with a car charger, suction mount, rear holder and sun visor. It costs more than the HINYFVOZ.\n\nIt suits owners who want a detailed accessory kit. The sun visor and rear holder add mounting options.",
     "specs": [
       "9 inch GPS",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51dFNnRuuTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09J4WBX76?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09J4WBX76?tag=rvgearlab-amz-20",
     "description": "The OHREX N900 is a 9 inch GPS with advanced lane guidance, 2D and 3D maps and over 40 voice languages. It lists 2026 North America maps with lifetime updates.\n\nIt is priced the same as the LOVPOI and is the one that leads with lane guidance. It lists a US support team.\n\nIt suits drivers who rely on lane guidance. Customized truck routing covers size and weight.",
     "specs": [
       "9 inch GPS",
@@ -109,7 +109,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/515f5VUkBPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08Q41VHLT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08Q41VHLT?tag=rvgearlab-amz-20",
     "description": "The LOVPOI 9 inch truck GPS lists 2026 maps for the US, Canada and Mexico with free lifetime updates. It lists custom routing and alerts for bridge heights and weight limits.\n\nIt is priced the same as the OHREX and below the MRSXWPY. It includes a US-based technician team for support.\n\nIt suits owners who want truck-style alerts at a lower price. The 9 inch screen is easy to read.",
     "specs": [
       "9 inch truck GPS",
@@ -136,7 +136,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/518-C8+aRrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H8TSXZTD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H8TSXZTD?tag=rvgearlab-amz-20",
     "description": "The YDSWRDN 9-inch GPS lists preloaded North America maps, 800 by 480 pixel resolution and memory from 256 MB to 16 GB. It lists multilingual voice alerts for sharp turns, speed and height limits.\n\nIt is the highest priced pick here and lists the most hardware specs. It includes a car charger.\n\nIt suits owners who like seeing screen resolution and memory listed. The listing names a car charger in the box.",
     "specs": [
       "9 inch, 800 x 480",
@@ -163,7 +163,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41-oL7K8-HL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FF9ZQ97Z?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FF9ZQ97Z?tag=rvgearlab-amz-20",
     "description": "The VEVOR 9 inch GPS has 16GB of storage, 1GB of RAM and a TF card slot, with a built-in 2500mAh battery. It lists an anti-glare HD screen, a built-in dash cam and lane assist.\n\nIt is the lowest priced pick by a wide margin. It lists overspeed and speed camera alerts.\n\nIt suits drivers who want a dash cam and basic navigation for cars. It is listed as a car GPS.",
     "specs": [
       "9 inch, 16GB storage",

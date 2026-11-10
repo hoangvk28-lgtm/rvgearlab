@@ -21,7 +21,7 @@ export const products = withAmazonUrls([
     badge: "Best overall",
     name: "EF ECOFLOW Portable Power Station DELTA 2 Max 2048Wh, 2400W LiFePO4 Battery",
     amazonQuery: "EF ECOFLOW Portable Power Station DELTA 2 Max 2048Wh, 2400W LiFePO4 Battery",
-    amazonUrl: "https://www.amazon.com/dp/B0C4DW17PD?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0C4DW17PD?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/31FHPLyvAEL._SL500_.jpg",
     specs: ["Capacity: 2,048Wh","Runtime claim: Up to 1.1 hours","Battery cycle claim: 3,000 cycles","Battery chemistry: LiFePO4"],
     specList: [{"label":"Capacity","value":"2,048Wh"},{"label":"Runtime claim","value":"Up to 1.1 hours"},{"label":"Battery cycle claim","value":"3,000 cycles"},{"label":"Battery chemistry","value":"LiFePO4"}],
@@ -36,7 +36,7 @@ export const products = withAmazonUrls([
     badge: "Best heavy-duty option",
     name: "EF ECOFLOW DELTA 2 Max Solar Generator 2048Wh",
     amazonQuery: "EF ECOFLOW DELTA 2 Max Solar Generator 2048Wh",
-    amazonUrl: "https://www.amazon.com/dp/B0C5DHGMRW?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0C5DHGMRW?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/31lLovnwXjL._SL500_.jpg",
     specs: ["Capacity: 2,048Wh","Runtime claim: Up to 1.1 hours","Battery cycle claim: 3,000 cycles","Battery chemistry: LiFePO4"],
     specList: [{"label":"Capacity","value":"2,048Wh"},{"label":"Runtime claim","value":"Up to 1.1 hours"},{"label":"Battery cycle claim","value":"3,000 cycles"},{"label":"Battery chemistry","value":"LiFePO4"}],
@@ -51,7 +51,7 @@ export const products = withAmazonUrls([
     badge: "Best compact option",
     name: "EF ECOFLOW Solar Generator Delta 2 Max",
     amazonQuery: "EF ECOFLOW Solar Generator Delta 2 Max",
-    amazonUrl: "https://www.amazon.com/dp/B0DLL14Z7N?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0DLL14Z7N?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/31hVNA0hQOL._SL500_.jpg",
     specs: ["Included panel: 160W","Runtime claim: Up to 1.1 hours","Battery chemistry: LiFePO4","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Included panel","value":"160W"},{"label":"Runtime claim","value":"Up to 1.1 hours"},{"label":"Battery chemistry","value":"LiFePO4"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -66,7 +66,7 @@ export const products = withAmazonUrls([
     badge: "Best value pick",
     name: "EF ECOFLOW DELTA 2 Max Solar Generator 2048Wh",
     amazonQuery: "EF ECOFLOW DELTA 2 Max Solar Generator 2048Wh",
-    amazonUrl: "https://www.amazon.com/dp/B0C5XHCZLC?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0C5XHCZLC?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41YdYgEKSjL._SL500_.jpg",
     specs: ["Capacity: 2,048Wh","Listed weight: 15.4 lb","Runtime claim: Up to 11.6 hours","Battery chemistry: LiFePO4"],
     specList: [{"label":"Capacity","value":"2,048Wh"},{"label":"Listed weight","value":"15.4 lb"},{"label":"Runtime claim","value":"Up to 11.6 hours"},{"label":"Battery chemistry","value":"LiFePO4"}],
@@ -81,7 +81,7 @@ export const products = withAmazonUrls([
     badge: "Best backup pick",
     name: "EF ECOFLOW Solar Generator DELTA 3 Classic",
     amazonQuery: "EF ECOFLOW Solar Generator DELTA 3 Classic",
-    amazonUrl: "https://www.amazon.com/dp/B0GSFMPYHL?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0GSFMPYHL?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/31arw2XLffL._SL500_.jpg",
     specs: ["Continuous output: 3,600W","Runtime claim: Up to 6.4 hours","Battery chemistry: LiFePO4","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Continuous output","value":"3,600W"},{"label":"Runtime claim","value":"Up to 6.4 hours"},{"label":"Battery chemistry","value":"LiFePO4"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -183,7 +183,7 @@ export const relatedGuides = [
 export const sources = [
   {
     "title": "EF ECOFLOW Portable Power Station DELTA 2 Max 2048Wh, 2400W LiFePO4 Battery product page",
-    "href": "https://www.amazon.com/dp/B0C4DW17PD?tag=rvgearlab-20&linkCode=osi&th=1&psc=1"
+    "href": "https://www.amazon.com/dp/B0C4DW17PD?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1"
   },
   {
     "title": "CPSC carbon monoxide safety center",

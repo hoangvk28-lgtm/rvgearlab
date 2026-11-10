@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51f7eDLfIfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B000BGK25G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B000BGK25G?tag=rvgearlab-amz-20",
     "description": "The Valterra T1027 is a black RV waste outlet adapter with 3 inch male threads and bayonet hooks. Its listing says it rotates for easy connection.\n\nIt is simple and priced low. It costs less than the TonGass pieces.\n\nIt fits owners who need a rotating outlet adapter. With rv sewer hose bayonet fitting, outlet connection fits it best.",
     "specs": [
       "3 in male thread x bayonet",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41FoZdtzQpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CQ6QQWCT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CQ6QQWCT?tag=rvgearlab-amz-20",
     "description": "The TonGass 3 inch rotating rigid bayonet adapter with male thread and hooks is sold as a combo pack with a termination adapter. Its listing says the rotating adapter is a standard 3 inch waste outlet piece.\n\nIt gives two parts in one pack. It costs more than Valterra.\n\nIt fits owners who want rotating and termination parts. Under rv sewer hose bayonet fitting, expect rotating and termination to suit it.",
     "specs": [
       "3 in rotating rigid adapter",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31hsS1fIYdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BTBL8KFV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BTBL8KFV?tag=rvgearlab-amz-20",
     "description": "The TonGass combo pack includes a rotating rigid pipe adapter and a termination adapter. Its listing says the termination adapter has a nub end for a 3 inch twist-on connection.\n\nIt costs less than the other TonGass listing. It is aimed at PVC connections.\n\nIt fits owners who want the cheaper combo. On rv sewer hose bayonet fitting, combo on a budget is where it fits.",
     "specs": [
       "2-piece pipe adapter pack",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4157vn+RKVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0006MRS7U?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0006MRS7U?tag=rvgearlab-amz-20",
     "description": "The Valterra F02-3108 EZ Coupler is a red bayonet fitting that creates an extension hose with the F02-3101. Its listing says it is self-threaded and secure.\n\nIt joins hose ends. It costs more than Valterra T1027.\n\nIt fits owners building a custom extension hose. On rv sewer hose bayonet fitting, extension hoses is where it fits.",
     "specs": [
       "EZ Coupler bayonet fitting",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31U8r1x7P0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B003VASR4M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B003VASR4M?tag=rvgearlab-amz-20",
     "description": "The Camco Rhino Flex cap set has one cap for a bayonet fitting and one for an elbow fitting. Its listing says it seals both ends of the hose and works with Revolution, Easy Slip and RhinoFLEX fittings.\n\nIt forms an odor-tight seal. It costs less than the adapters.\n\nIt fits owners who store the hose after dumping. For rv sewer hose bayonet fitting, it suits hose storage.",
     "specs": [
       "Bayonet and elbow caps",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41tlaQP63VL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01MZ1FKZ9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01MZ1FKZ9?tag=rvgearlab-amz-20",
     "description": "The Camco sewer hose storage cap set includes a lug cap and a bayonet cap. Its listing says it seals both hose ends before storing and works with Rhino, Revolution and Easy Slip fittings.\n\nIt is the cheapest item here. It forms an odor-tight connection.\n\nIt fits owners who want simple caps. With rv sewer hose bayonet fitting, simple storage caps fits it best.",
     "specs": [
       "Lug and bayonet caps",

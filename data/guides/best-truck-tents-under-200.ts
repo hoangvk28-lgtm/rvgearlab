@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41LQM6RgQcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07HXML6M9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07HXML6M9?tag=rvgearlab-amz-20",
     "description": "The Backroadz is a Napier tent for full-size short beds of 5.5 feet, offered in several bed sizes. Weather gear includes a complete rainfly, seams that are taped and reinforced, flaps over every window, door and vent, and nine adjustable straps that cinch it to the truck.\n\nTape-sealed seams and storm flaps give the strongest weather protection in the group, and the 10 minute color-coded pole setup is faster than most. It costs more than any other pick.\n\nIt suits campers who want a name-brand tent made to fit with the truck's engineering. It sleeps two with optimized headroom.",
     "specs": [
       "Full rainfly, taped seams",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41tJ7IFW1BL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D6BMTNT6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D6BMTNT6?tag=rvgearlab-amz-20",
     "description": "The JOYTUTUS awning tent is made for full-size trucks with a soft topper or camper shell, including the F150, F250, Ram, Silverado, Sierra and Tundra. It has an extended awning, a bite-proof mesh door, an opaque privacy door, an openable PVC skylight, 210D Oxford with PU2000 and aluminum alloy rods.\n\nIt is the only tent here that fits a topper, which none of the bed tents manage. The awning adds shade and rain cover at the tailgate.\n\nIt suits topper owners who want an attached living space. Multiple straps and ground stakes keep it steady.",
     "specs": [
       "For soft topper or camper shell",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41gYcGwhphL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D2XHJ6T2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D2XHJ6T2?tag=rvgearlab-amz-20",
     "description": "Umbrauto sizes this tent for 6.3 to 6.8 foot beds and sleeps 2 to 3 people. PU3000 coats the 210T polyester, and a 4 by 4 foot awning pulls out from the door.\n\nIt is the best-priced long-bed tent here and keeps PU3000 where the JOYTUTUS awning tent has PU2000. It costs less than the Backroadz.\n\nA natural fit for a standard 6.5 foot bed when you want an awning and rain protection. It is a three-season build.",
     "specs": [
       "78.7 in length, 6.3-6.8 ft beds",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51H6yRizNVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DH2BK94G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DH2BK94G?tag=rvgearlab-amz-20",
     "description": "The JOYTUTUS 6.5 ft tent fits 6.4 to 6.7 foot beds and offers 30 percent more space than a regular truck tent through its straight aisle design. It uses double-layer 210D polyester Oxford with PU2000 and a rainfly, with a top mesh roof and four-side windows.\n\nIt costs about $50 less than the Umbrauto and gives a roomier entry, with a lower rain rating. The kit includes a rainfly, four fiberglass poles and two storage bags.\n\nIt suits long-bed owners who want space without an awning. The mesh roof lets you stargaze.",
     "specs": [
       "Fits 6.4-6.7 ft beds",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51698xZt57L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GL7Y3JX7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GL7Y3JX7?tag=rvgearlab-amz-20",
     "description": "The Bosvell truck tent covers 5.0 to 5.8 foot beds with 210D polyester Oxford, a PU3000 coating and a rainfly. A connection tunnel supports power access and airflow, and storage pockets and ventilation windows add convenience.\n\nIt has the widest short-bed range on the list and the only tunnel here, and it costs the least. It lacks the awning of the Umbrauto.\n\nIt suits couples with a short or mid bed who want truck power for a fan or lights. Color-coded poles keep setup quick.",
     "specs": [
       "Fits 5.0-5.8 ft beds",

@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/312-7Lp7wZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01NAGOJJF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01NAGOJJF?tag=rvgearlab-amz-20",
     "description": "Andersen's 3 inch shank with a 4 inch drop is the standard-height version, rated 16,000 lb GTWR with a 2-5/16 inch ball. Andersen's 3 inch shank weight distribution hitch has a 4 inch drop and a 2-5/16 inch ball and is rated 16,000 lb GTWR. It offers four bracket sizes and a tension chain system.\n\nIt suits a truck and trailer at similar heights, unlike the 8 inch drop version, and it costs less than the 8 inch model. All three share the same rating.\n\nBest for a 3 inch receiver at near-level ride height. It is the standard-height version for a 3 inch receiver.",
     "specs": [
       "3 inch shank, 4 inch drop",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31eWNrSuQRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CLBBX7V4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CLBBX7V4?tag=rvgearlab-amz-20",
     "description": "Andersen's 3 inch shank with a 6 inch drop covers trucks that sit a little higher than the trailer. Andersen's 3 inch shank weight distribution hitch has a 6 inch drop and a 2-5/16 inch ball and is rated 16,000 lb GTWR. It offers four bracket sizes and tension chains.\n\nIt sits between the 4 inch and 8 inch versions and costs the same as the 4 inch. Measure before choosing.\n\nBest for a modestly raised truck. It fits between the 4 inch and 8 inch drop versions.",
     "specs": [
       "3 inch shank, 6 inch drop",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/312pkQprM3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01MSWL5IV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01MSWL5IV?tag=rvgearlab-amz-20",
     "description": "Andersen's 3 inch shank with an 8 inch drop is built for lifted trucks and heavy trailers. Andersen's 3 inch shank weight distribution hitch has an 8 inch drop and a 2-5/16 inch ball and is rated 16,000 lb GTWR. The listing offers 3, 4, 5 or 6 inch brackets and tension chains.\n\nIt costs more than the shorter-drop versions and shares their 16,000 lb GTWR. The drop is the only difference.\n\nBest for lifted trucks with a 3 inch receiver. It suits commercial-grade or lifted trucks with a 3 inch receiver.",
     "specs": [
       "3 inch shank, 8 inch drop",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31URi7WhldL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B61YZP43?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B61YZP43?tag=rvgearlab-amz-20",
     "description": "Fastway's Connect is a chain-style weight distribution hitch with hardened steel chains and link-based adjustment. Fastway's Connect is a chain-style weight distribution hitch that uses hardened steel chains between the hitch arms and the trailer frame. Tension is adjusted by changing which chain link attaches to the frame hook.\n\nIt costs far less than the Andersen hitches but the listing states no receiver size, tongue weight or trailer rating. It does not describe sway control.\n\nBest for a buyer who confirms every rating with the seller. Ask for the ratings before using it, since the listing does not state tongue weight or trailer weight.",
     "specs": [
       "Chain-style weight distribution",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31UQY+KmF+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CWSFTLMH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CWSFTLMH?tag=rvgearlab-amz-20",
     "description": "Bulletproof's 3 inch solid steel shank includes a corrosion-resistant pin and R-clip. Bulletproof's 3 inch weight distribution shank is solid steel and includes one corrosion-resistant pin and R-clip to secure it in the receiver. The listing gives no capacity rating.\n\nIt is a shank only and costs far less than the hitches. The listing states no capacity rating.\n\nBest for replacing or adding a 3 inch shank to a compatible head. It is a shank only, and the listing gives no rating, so confirm one before using it.",
     "specs": [
       "3 inch solid steel shank",

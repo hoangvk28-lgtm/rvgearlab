@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51V3x5AqkmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CQMK94H7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CQMK94H7?tag=rvgearlab-amz-20",
     "description": "The Westinghouse 4000 Dual Fuel is rated 4,000 peak and 3,300 rated watts at under 3% THD, with a remote key fob, electric start and a recoil backup. It has a TT-30R outlet, a 5-20R household outlet, two USB ports, low oil and CO shutoff, and a data display showing fuel level and remaining run time.\n\nAt $749.99 it costs $20.99 more than the gas Westinghouse 4000 and $99.52 less than the Champion 4500 Remote, while adding propane. Pick this if you want a remote start with the option of propane in an RV. The listing does not give the fob range.",
     "specs": [
       "3,300W rated, dual fuel",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41nMpppy0uL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CPZLCDMV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CPZLCDMV?tag=rvgearlab-amz-20",
     "description": "The Champion 4500 is a 4,500 starting and 3,500 running watt inverter with a wireless fob that starts and stops it from up to 80 feet away. It lists 61 dBA, up to 14 hours on 2.3 gallons of gasoline, CO Shield auto shutoff, an EZ Start dial and a 3 year warranty.\n\nAt $849.51 it costs $99.52 more than the Westinghouse 4000 DF and adds 200 rated watts and the longest stated fob range. Pick this if you park the generator far from the RV or want 14 hours of runtime. It is gas only, and the listing does not name an RV outlet.",
     "specs": [
       "3,500W running, 4,500W start",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51YGuuInC8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DRP8C7Y7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DRP8C7Y7?tag=rvgearlab-amz-20",
     "description": "The LIFAN 4800W lists 4,800 starting and 3,800 running watts, a key fob that starts and stops it from up to 50 feet, and a 30A RV ready outlet. It runs 58 dB at 25% load, holds 2.64 gallons for up to 10 hours, and has a CO-MINDER detector and low oil shutoff.\n\nAt $559.99 it costs $190.00 less than the Westinghouse 4000 DF but gives up propane and 30 feet of fob range compared with Champion. Pick this if you want the lowest price for 3,800 running watts and remote start. Its 50 foot range is the shortest in the group.",
     "specs": [
       "3,800W running, 4,800W start",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51HN9wCipsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CQ21P1BT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CQ21P1BT?tag=rvgearlab-amz-20",
     "description": "The maXpeedingrods MXR4000GT uses a Bluetooth app for remote start, plus electric and recoil start, and runs dual fuel with 4,000 peak and 3,200 rated watts on gasoline, 3,600 and 3,000 on propane. It has an NEMA L5-30R RV outlet with an adapter and 58 to 60 dB in Eco mode at 23 feet and 25% load.\n\nAt $699.99 it costs $140.00 more than the LIFAN and has lower rated watts than it, though it takes propane. Pick this if you prefer starting from a phone. Bluetooth range is not listed and is usually short, so it suits a generator close to the RV.",
     "specs": [
       "3,200W rated, dual fuel",
@@ -133,7 +133,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51QtTpfeOmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CQN6BP44?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CQN6BP44?tag=rvgearlab-amz-20",
     "description": "The Westinghouse 4000 gas model is rated 4,000 peak and 3,300 rated watts, with a remote key fob, electric start with auto choke, and recoil backup. It shares the TT-30R and 5-20R outlets, two USB ports, 52 dBA and 7 hour runtime with the dual fuel version.\n\nAt $729.00 it is $20.99 cheaper than the Westinghouse 4000 DF and $29.01 above the maXpeedingrods 4000, so the real choice is whether you want propane or Bluetooth start. Pick this if you only burn gasoline. The auto choke makes cold starts easier, but propane is not an option.",
     "specs": [
       "3,300W rated, gas only",

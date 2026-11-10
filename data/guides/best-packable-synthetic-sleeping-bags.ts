@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21xOwMW+c8S._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B082P5Y6SZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B082P5Y6SZ?tag=rvgearlab-amz-20",
     "description": "The Kelty Rambler 50 lists a stuffed size of 7 by 11 inches, a total weight of 2 lb 12 oz and an 11.3 oz fill of Cloudloft synthetic insulation. It is a semi-rectangular 50F bag for sleepers to 6 ft, with a J-shaped zipper, a 260T polyester shell and liner, and compression straps.\n\nIts stuffed bundle is shorter than the Kelty Cosmic's 15 by 8 inch figure, and the semi-rectangular cut is roomier than a mummy. The zipper opens fully into a two-person blanket.\n\nIt suits summer campers and travelers who want a small stuffed size and a roomy cut. The J zipper lets a foot stick out.",
     "specs": [
       "Stuffed 7 by 11 in, 2 lb 12 oz",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/319sFnqrvkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B082P5VGGT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B082P5VGGT?tag=rvgearlab-amz-20",
     "description": "Kelty gives the Cosmic Synthetic 40 a 2 lb 6 oz total weight, 24 oz of Cirroloft fill and an uncompressed stuff size of 15 by 8 inches. An integrated compression stuff sack with straps shrinks it further.\n\nIt is the warmest of the three at 40F and the only mummy, and it packs larger than the Rambler's printed figure before compression. Against the ECOOPRO it holds heat better.\n\nIt suits packers who need a real mummy for shoulder-season trips. A spacious footbox and a stash pocket add comfort.",
     "specs": [
       "2 lb 6 oz, 24 oz fill",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41fu3se401L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B011AZ3O9W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B011AZ3O9W?tag=rvgearlab-amz-20",
     "description": "The ECOOPRO is an 83 by 30 inch envelope that compresses to 11 inches in height and weighs 1.7 lb. It has a waterproof nylon shell, a polyester lining and a smooth zipper, and it comes with a carrying sack.\n\nIt is the lightest of the three at 1.7 lb. The 55 to 60F range makes it the warmest-weather choice.\n\nIt suits summer travelers who want the lightest synthetic bag. The waterproof shell sheds dew.",
     "specs": [
       "83 by 30 in, 1.7 lb",

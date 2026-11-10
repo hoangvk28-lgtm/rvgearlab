@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/412+dzwvEQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01N5O7551?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01N5O7551?tag=rvgearlab-amz-20",
     "description": "The MSR PocketRocket 2 weighs 2.6 ounces and packs down to a 2 x 2 x 3 inch bundle inside its protective case. Maker's figure for one liter of water is 3.5 minutes, with no priming or preheating.\n\nIt is the smallest and lightest stove here by a wide margin, and serrated pot supports take a wide range of pot sizes. Next to the Odoland 3500W Windproof it costs more and adds no windshield.\n\nA superb match for minimalists who already own a pot and want a burner that vanishes in a pocket. Unfolded it spans 4.8 inches square and 3.6 inches high.",
     "specs": [
       "2.6 oz, 2 x 2 x 3 in folded",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41oxFcZEApL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0829RKQXZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0829RKQXZ?tag=rvgearlab-amz-20",
     "description": "The Odoland 3500W is a folding stove with a built-in windshield, piezo ignition and a flame controller. A boil of 1 liter in around 3 minutes is claimed, and it takes 7/16 thread propane, butane or mixed canisters through two connectors.\n\nIt adds the windshield and igniter that the MSR PocketRocket 2 lacks, and it costs less. Its folded dimensions are not given, so it is bulkier on paper than the MSR.\n\nA strong value for hikers who want built-in wind protection and a lighter-free start. A carry case is included.",
     "specs": [
       "Up to 3500W output",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41aPJtKsHJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08NLVKHPP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08NLVKHPP?tag=rvgearlab-amz-20",
     "description": "Kuvik makes its wood burner from Grade-1 titanium, and the 6.25 by 5 by 5 inch firebox flattens to 0.2 inch. A case holds the 6.8 ounce stove and keeps soot off other gear.\n\nUnlike the gas picks it needs no canister, and flat storage lets it ride against a pack frame. A rack on top takes a range of pot and pan sizes.\n\nGood for backpackers in wooded areas who want to drop fuel weight altogether. Tabs slot together without tools.",
     "specs": [
       "Grade-1 titanium",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41XqM5TM8eL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CR4W66C3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CR4W66C3?tag=rvgearlab-amz-20",
     "description": "The Odoland Heat Exchanger Kit has nine pieces: a 1,300 W stove, 0.6 and 0.8 liter pots, a canister stabilizer, a 16 ounce mug and a utensil set in a mesh bag. It weighs 660 grams and packs to about 4.9 by 6.6 inches.\n\nCompared with the single burners, it gives you a full cook system that nests into itself. The heat exchanger design is said to raise efficiency by 30 percent and boil 0.5 liter in about 2 minutes.\n\nA neat choice for first-time backpackers who want everything in a single purchase. The stabilizer steadies the canister.",
     "specs": [
       "1300 W stove, two pots",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41F0AAPilZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07Q5WCNDJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07Q5WCNDJ?tag=rvgearlab-amz-20",
     "description": "The Odoland 6-piece set bundles a folding stove with two non-stick anodized aluminum pots, a spork, a wiping cloth and a bag. Pot and stove handles fold, and all of it packs together with room left over for a gas tank.\n\nIt is the cheaper cousin of the Odoland Heat Exchanger Kit, with fewer pieces and no mug or utensil set. It still gives you a pot, a stove and a place to carry them.\n\nA sound entry kit for beginners and kids' trips on a budget. The mesh bag keeps pieces together.",
     "specs": [
       "6 pieces including stove",

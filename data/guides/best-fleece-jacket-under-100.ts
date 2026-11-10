@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/416UeV0VmEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BQC4SXLM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BQC4SXLM?tag=rvgearlab-amz-20",
     "description": "The 33,000ft Softshell is a hooded men's jacket with a three-layer build of soft shell, TPU membrane and fleece lining. The listing describes waterproof, windproof and breathable performance, five utility pockets and an adjustable hood and hem.\n\nAgainst the FREE SOLDIER Softshell, it states a lighter build and a left arm zip pocket. Compared with the Columbia Benton Springs, it adds waterproofing and a hood.\n\nIt suits men who want one jacket for cold wet days. The spandex blend gives a bit of stretch.",
     "specs": [
       "3-layer shell, TPU membrane",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41-FEeW8JqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B06Y5WW9FT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B06Y5WW9FT?tag=rvgearlab-amz-20",
     "description": "The FREE SOLDIER Softshell is a fleece-lined softshell with a 10,000mm waterproof index, DWR finish and a thermal 8000mm fleece liner. It has articulated elbows, drawstrings at the waist and hood and nine pockets.\n\nAgainst the 33,000ft, it states a waterproof index and adds nine pockets. Compared with the Columbia Benton Springs, it is a rain-ready shell.\n\nIt suits men who want a rugged, utility-focused jacket. The tactical styling suits hunting and hiking.",
     "specs": [
       "10000mm waterproof index",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31DwP9q5EwS._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0815H6LZ8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0815H6LZ8?tag=rvgearlab-amz-20",
     "description": "The Columbia Benton Springs is a women's full-zip fleece in 100 percent polyester MTR filament fleece with a collared neck, two zippered security pockets and a classic fit. The listing calls it lightweight with an active cut.\n\nAgainst the Lands' End Fleece, it adds zippered pockets. Compared with the Trendy Queen Sherpa, it is a lighter, plain fleece.\n\nIt suits women who want a classic layer under a shell. The collar covers the neck.",
     "specs": [
       "100% polyester MTR fleece",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31EO9ZJNynL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09C2L55ZF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09C2L55ZF?tag=rvgearlab-amz-20",
     "description": "The Lands' End Fleece is a women's full-zip jacket with a stand-up collar, an anti-pill and anti-static finish and two seam pockets. The listing calls it light and packable.\n\nAgainst the Columbia Benton Springs, it adds anti-pill treatment. Compared with the Trendy Queen Sherpa, it packs much flatter.\n\nIt suits women who want a thin travel layer. It is machine washable.",
     "specs": [
       "Full-zip fleece",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/415+MCj3JgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H9KY2PJK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H9KY2PJK?tag=rvgearlab-amz-20",
     "description": "The Trendy Queen Sherpa is a women's sherpa fleece jacket made of 70 percent polyester and 30 percent cotton with a full zip and two deep zippered side pockets. It has a stand mock neck collar and elastic binding at the cuffs, hem and placket.\n\nAgainst the Columbia Benton Springs, it uses a plush sherpa texture. Compared with the Lands' End, it has a relaxed streetwear cut.\n\nIt suits women who want a cozy casual jacket. The listing says it is unlined.",
     "specs": [
       "Sherpa fleece, 70% polyester",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31tllKRVkwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H6GPBY6F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H6GPBY6F?tag=rvgearlab-amz-20",
     "description": "The COOFANDY Zip Sweatshirt is a men's fleece-lined zip-up with a stand collar, raglan sleeves, two side pockets and ribbed cuffs. It has a regular fit with room for layers.\n\nAgainst the 33,000ft, it is a casual layer with no hood or weather features. Compared with the Columbia Benton Springs, it is cut for men.\n\nIt suits men who want a cheap everyday zip layer. It pairs with joggers and jeans.",
     "specs": [
       "Fleece-lined interior",

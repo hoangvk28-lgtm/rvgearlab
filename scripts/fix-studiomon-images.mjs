@@ -178,7 +178,7 @@ function buildContent(product, fileTheme, rank, badge, idBase) {
     name: cleanTitle,
     price: price || "Check price",
     imageUrl: img,
-    amazonUrl: `https://www.amazon.com/dp/${asin}?tag=theofficejournal-20`,
+    amazonUrl: `https://www.amazon.com/dp/${asin}?tag=rvgearlab-amz-20`,
     description: `${para1}\n\n${para2}\n\n${para3}`,
     specs: specs.slice(0, 3),
     pros: pros.slice(0, 3),

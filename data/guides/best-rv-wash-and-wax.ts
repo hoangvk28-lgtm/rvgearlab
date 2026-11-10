@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31HZHmoxi8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00KARB4TO?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00KARB4TO?tag=rvgearlab-amz-20",
     "description": "The Thetford Premium RV Wash and Wax is a 64 oz 2-in-1 detergent and wax for RVs, boats, trucks and cars. It cleans black streaks, dried bugs, bird droppings and road film, and leaves a non-oily, anti-static, water-repellent finish with UV protection.\n\nAgainst the Camco Wash & Wax, it gives a larger bottle at a lower price. Against the 303 Wash & Seal, it offers a wax finish rather than a sealer, but gives less dilution detail.\n\nBest for routine bucket washes of an RV. Check the dilution on the label and rinse well.",
     "specs": [
       "64 oz 2-in-1 wash and wax",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41SXDW51+tS._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0971KD799?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0971KD799?tag=rvgearlab-amz-20",
     "description": "The 303 RV Wash & Seal is a pH-neutral, high-foaming wash with a streak-free finish and UV protection for paint. The directions say to add 1 ounce to 5 gallons of water, scrub with a wash mitt and rinse.\n\nCompared with the Thetford, it states a dilution and is pH-neutral but costs more per bottle. Compared with the Camco, it is a seal rather than a carnauba wax.\n\nBest for owners who want a stated dilution and a gentle wash. Check the bottle size for the price.",
     "specs": [
       "pH-neutral, high foam",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41toeFxGwtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00SL2NG5K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00SL2NG5K?tag=rvgearlab-amz-20",
     "description": "The Camco Wash & Wax Cleaner contains 100 percent carnauba wax and is said to give a clean, shiny finish without buffing. It creates waterproof beading action and is described as safe for all finishes.\n\nVersus the Thetford, it states carnauba content and beading but costs more. Versus the Aero Cosmetics, it is a wash rather than a waterless spray.\n\nBest for owners who like carnauba protection. The listing gives no bottle size or dilution detail.",
     "specs": [
       "100% carnauba wax",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31KtLAn9BvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B003WM9RZW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B003WM9RZW?tag=rvgearlab-amz-20",
     "description": "The Aero Cosmetics Wash Wax ALL is a waterless spray using the damp-towel method: spray, damp towel, dry towel. It washes and leaves a wax coating and is water-based, with no alcohol, ammonia or citrus.\n\nAgainst the Aero Kit, it is the bottle alone at a lower price. Against the Thetford, it needs no hose or bucket, so it suits water-restricted sites.\n\nBest for waterless washes at campgrounds with restrictions. A badly soiled rig needs a pre-rinse.",
     "specs": [
       "Waterless spray wash and wax",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41arhEW1ZaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00X04JRMU?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00X04JRMU?tag=rvgearlab-amz-20",
     "description": "The Aero Cosmetics Wash Wax ALL Kit bundles the waterless spray detailer for RV and boat use with towels as part of a kit. It uses the same damp-towel method and states it meets Boeing and Airbus cleaning specifications.\n\nCompared with the Aero Wash Wax ALL bottle, it adds kit contents for a higher price. Compared with the Thetford, it avoids water entirely.\n\nBest for first-time waterless buyers who want everything in one box. Check what the kit includes.",
     "specs": [
       "Waterless kit with towels",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41+twlyWN9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B001FCE5AI?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B001FCE5AI?tag=rvgearlab-amz-20",
     "description": "The Gel-Gloss RV Wash & Wax is a 32 oz concentrated carnauba formula described as streak-free. The listing gives almost no other detail.\n\nCompared with the Thetford, it is a smaller, concentrated bottle with little supporting detail. It costs more per ounce.\n\nBest for owners who already know and trust the brand. Read the label for dilution before use.",
     "specs": [
       "32 oz concentrated carnauba",

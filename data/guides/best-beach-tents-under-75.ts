@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/512y1Xwd84L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GRVN5FNV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GRVN5FNV?tag=rvgearlab-amz-20",
     "description": "The Trend Tents canopy is a 10 by 10 foot beach shelter with UPF 50+ elastic spandex fabric, four sturdy poles and a four-corner sandbag system. One person can pop it up in about 5 minutes, and it shades roughly 9.3 square meters.\n\nIt covers far more ground than the 8 by 8 foot Hqeeun and more than double the footprint of the Amazon Basics tent. That extra coverage is why it takes first place, since shade area is the thing a beach tent is bought for.\n\nIt suits families or groups of six or more who want chairs, a cooler and a nap spot all under cover. Pack the sandbags flat and fill them with sand once you arrive.",
     "specs": [
       "10x10 ft, UPF 50+ spandex",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Q6O0O2hzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GY1CS1CB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GY1CS1CB?tag=rvgearlab-amz-20",
     "description": "The Hqeeun cabana is an 8 by 8 foot shelter made from 300D fabric with a double-layer silver coating rated UPF 50+. It uses a thickened aluminum alloy pole frame, includes sandbags and a side wall, and pops up with one person.\n\nIts 300D fabric and metal frame are a step up from the fiberglass poles on the Wolfwise and Amazon Basics shelters. It gives up about 36 square feet of floor next to the Trend Tents 10x10, which is the price of a sturdier build.\n\nIt suits beach regulars who have lost a lighter tent to a gusty afternoon. The side wall also blocks low afternoon sun and sand spray.",
     "specs": [
       "300D silver-coated, UPF 50+",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/416rJLmqLaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GGHVZ894?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GGHVZ894?tag=rvgearlab-amz-20",
     "description": "The Wolfwise cabana opens to 94.5 by 65 by 55.1 inches, enough for up to four beach chairs. It has three adjustable mesh windows, 8mm fiberglass poles, 190T polyester with UPF 50+ and three sandbags for anchoring.\n\nIt gives more headroom and seating space than the Amazon Basics tent while costing about the same as the NexusOutdoor. Next to the Trend Tents canopy it covers less ground and encloses the space, which helps against wind and sand.\n\nIt suits a family of three or four that wants a walled cabana feel with airflow control. The adjustable windows let you vent it open or half closed as the breeze changes.",
     "specs": [
       "94.5 x 65 x 55 in interior",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41dHDft16KL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FF4FGVQ1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FF4FGVQ1?tag=rvgearlab-amz-20",
     "description": "The NexusOutdoor shelter opens automatically and has an interior of about 3.9 feet square and 3.3 feet tall. It carries UPF 50+ protection, uses steel studs for anchoring and adds roll-up mesh screens on the front doors.\n\nIt is the fastest to deploy in this group, with no pole threading at all, and it is the smallest. The Wolfwise and Amazon Basics shelters give more room, while this one wins on speed and a light carry.\n\nIt suits couples, solo beachgoers and parents who need a shaded spot for a toddler nap. Throw it open at the shore and move on to the rest of the setup.",
     "specs": [
       "Auto pop-up, UPF 50+",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/3135W7RUUSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DPH2D56S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DPH2D56S?tag=rvgearlab-amz-20",
     "description": "The Amazon Basics beach tent measures 7 by 4 by 4 feet and fits two or three people. It has three large mesh windows, UPF50+ polyester panels, tool-free setup and a carrying case.\n\nIt has the simplest layout of the group, with no sandbags or pop-up frame to manage. It trails the Wolfwise on headroom and the Trend Tents on area. Its mesh windows give good cross-breeze at a modest price.\n\nIt suits solo travelers, couples and small families who want a plain, familiar-brand shelter. The same tent works at the beach and in the backyard.",
     "specs": [
       "7 x 4 x 4 ft, 2-3 people",

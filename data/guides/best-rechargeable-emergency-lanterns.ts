@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/413XCSzVJTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09YT5D357?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09YT5D357?tag=rvgearlab-amz-20",
     "description": "This AYL puts out 1800 lumens through 46 LEDs and keeps a 4400mAh cell that can top up a phone in a blackout. It carries an IP44 splash rating, and its dimmable modes range from daylight and warm white to a flash signal.\n\nCompared with the LETMY, it throws far more light from a single lantern and doubles as a phone charger in an outage. It charges by cable only.\n\nIt suits families and campers who want one bright lantern that also keeps a phone alive. Up to 12 hours per charge is listed.",
     "specs": [
       "1800 lumens, 46 LEDs",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Kc5vhBgzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08Y8X8JPF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08Y8X8JPF?tag=rvgearlab-amz-20",
     "description": "The LETMY set gives four collapsible lanterns that can run on solar, USB charging or AA batteries. A COB LED gives 360 degree light and the listing describes a water-resistant, tough body for outdoor leisure.\n\nAgainst the AYL, it spreads light across four lanterns instead of one big one and adds the solar and AA options. Having three power sources is a real advantage in a long outage.\n\nIt suits households that want one lantern per room or per tent. The collapsible design is made to pack small.",
     "specs": [
       "Solar, USB and AA power",

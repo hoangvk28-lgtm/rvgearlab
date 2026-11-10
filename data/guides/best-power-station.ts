@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41LPWKTY8CL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FN7MSY4L?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FN7MSY4L?tag=rvgearlab-amz-20",
     "description": "Anker SOLIX C1000 Gen 2 has 1,024Wh of capacity and delivers 2,000W (3,000W peak) through 10 ports. HyperFlash recharging reaches a full charge in 49 minutes at 1,600W.\n\nIt has more than three times the capacity of the 288Wh and 292Wh stations here, so it can run a small fridge or a heater overnight. The fast recharge turns a short stop at home into a full battery.\n\nCar campers and RV travelers who want real power will like the capacity and 10 ports. It also sits quietly at home as an outage backup.",
     "specs": [
       "1,024Wh, 2,000W output",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41-Ey75o-WL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B082TMBYR6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B082TMBYR6?tag=rvgearlab-amz-20",
     "description": "Jackery Explorer 300 has 292Wh of capacity, weighs 7.5 lbs and has two AC outlets, a 100W USB-C PD port, two USB-A ports and a 120W car port. It uses LiFePO4 chemistry rated for over 4,000 charge cycles.\n\nThe LiFePO4 cells give it a long lifespan, which the cheaper 192Wh DaranEner also offers at lower capacity. It powers six devices at once.\n\nWeekend campers who run phones, lights and a laptop will like the size and the cycle life. It slips into a trunk next to the cooler.",
     "specs": [
       "292Wh LiFePO4 battery",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41YTEqBbTsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F42HLLSC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F42HLLSC?tag=rvgearlab-amz-20",
     "description": "BLUETTI Elite 30 V2 has 288Wh of LFP capacity, 600W continuous output and 1,500W surge power in a 9.4 lb body. UltraCell technology and smart cooling cut power consumption by 50%.\n\nThe 600W output is double what the listing says others offer, so it can run a small cooker or heater that the Jackery cannot. It stays portable at 9.4 lbs.\n\nCampers who need to run a few higher-draw gadgets will like the output. The surge rating helps with devices that kick on hard.",
     "specs": [
       "288Wh LFP, 600W output",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hnRsSVogL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B9H8W8HP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B9H8W8HP?tag=rvgearlab-amz-20",
     "description": "GRECELL is a 500W pure sine wave station with 519.48Wh capacity and up to 10 simultaneous devices. It offers USB-C PD 60W and USB-A QC 18W fast charging.\n\nIt has nearly double the capacity of the 288Wh BLUETTI at a lower price. It is the best amount of storage per dollar here.\n\nCampers on a budget who want more hours of power will like it. Charge it before the trip and run lights and fans all weekend.",
     "specs": [
       "519.48Wh, 500W pure sine",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41cRxC-B-dL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C6K5ZPNJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C6K5ZPNJ?tag=rvgearlab-amz-20",
     "description": "DaranEner is a 192Wh LiFePO4 station with 300W output (600W surge) and pure sine wave AC. It lists over 3,500 cycles and recharges by AC wall (up to 100W), car charger or solar.\n\nLiFePO4 at this price is unusual, and it costs less than the Jackery and Bluetti with a similar cycle life. It is small enough to carry anywhere.\n\nBudget buyers who want a long-lived battery will like it. It handles lights and chargers without drama.",
     "specs": [
       "192Wh LiFePO4, 300W",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31VvYAA+NUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FS6429MD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FS6429MD?tag=rvgearlab-amz-20",
     "description": "BLUETTI Elite 10 Mini is a 128Wh station that weighs 4.0 lbs and is palm-sized with an ergonomic handle. It has a built-in 10ms UPS and 350W bypass output.\n\nIt is the smallest and lightest here, and the listing calls it airline friendly. It replaces about four standard power banks.\n\nHikers and flyers who want a bigger bank for phones and cameras will like it. It rides in a backpack without a second thought.",
     "specs": [
       "128Wh, 200W output",

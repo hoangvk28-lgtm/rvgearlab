@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41O-6BKw0+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DXPMMKR3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DXPMMKR3?tag=rvgearlab-amz-20",
     "description": "The Amkulop is a transparent rechargeable lantern listed at 5000 lumens with a 12000mAh battery and an IPX5 waterproof rating. It hangs from tents and canopies and is built for long nights of lighting.\n\nIt has the biggest battery and the highest lumen figure here. It costs the most of the four.\n\nIt suits campers who want a very bright tent or canopy light that lasts several nights. The transparent shell spreads the light.",
     "specs": [
       "5000 lumens, 12000mAh",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41o366VQekL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GR3NKRPH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GR3NKRPH?tag=rvgearlab-amz-20",
     "description": "The PopoIron pack has 2 rechargeable lanterns with a 4000mAh battery each, 300 lumens, 3 color modes, stepless dimming, a 360 degree rotatable stand and an elastic clip. A side LED works as a handheld flashlight and the body folds flat.\n\nIt gives two lights for one price and has dimming that the Lepro lacks. It has less brightness than the Amkulop.\n\nIt suits couples and two-tent groups who want a light each. The flat fold fits a pack.",
     "specs": [
       "2 lanterns, 4000mAh each",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/413TbkOsSVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B083TXB5QY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B083TXB5QY?tag=rvgearlab-amz-20",
     "description": "The Lepro 4-pack lists 3 modes: 80 lumens at 6000K and 80 lumens at 3000K for 10 hours each, and 140 lumens at 5000K on high. Each lantern runs on 3 AAA batteries, included as 12 cells, weighs 55 g with batteries and has a hanging hook.\n\nIt is the lowest-priced light set apart from the rope, and it is the only one with batteries included. It is far dimmer than the Amkulop.\n\nIt suits families and emergency kits who want ready-to-use lights. The hook hangs from a tent loop or a backpack.",
     "specs": [
       "4 lanterns, 12 AAA included",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/61U1VcMDffL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07NTBCZMJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07NTBCZMJ?tag=rvgearlab-amz-20",
     "description": "The Ollivage is a 40 ft rope light with 120 LEDs, 8 lighting modes and 10 brightness levels, powered by 3 AA batteries that are not included. A remote has a timer for 6 hours on and 18 off, and an IP44 battery case protects it.\n\nIt is the cheapest pick and a decorative light, not a lantern. It bends into shapes.\n\nIt suits campers who want to outline a tent, an awning or a table. The tubing protects the wires.",
     "specs": [
       "40 ft, 120 LEDs, 8 modes",

@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31vy2mkmnzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H34L276B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H34L276B?tag=rvgearlab-amz-20",
     "description": "The Wszrfozn 7000 BTU Portable Camping Air Conditioner is built for tents and weighs 33 pounds at 21.38 by 12.4 by 14.29 inches. The listing says it cools within 5 minutes, adjusts from 60 to 86 degrees F, runs 58 dB in sleep mode and has a drain-free dehumidifying mode below 70 percent humidity.\n\nAgainst the CYMYYDS 2700, it offers far more BTU in a similar compact size. Against the COSTWAY window unit, it avoids needing a window opening.\n\nBest for pop-up campers where a rooftop unit will not work. It carries with one hand and sets up in minutes.",
     "specs": [
       "7,000 BTU portable, 33 lbs",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41YMpSH5tFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H4VWSK2M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H4VWSK2M?tag=rvgearlab-amz-20",
     "description": "The COSTWAY RV Window Air Conditioner is ETL-certified with 6,500 BTU cooling and 118 CFM airflow. It offers WiFi app control, Alexa and Google Home voice control, a 24 hour timer and around 50 dB operation.\n\nAgainst the Wszrfozn 7000, it is quieter at about 50 dB and adds smart controls but needs a window. Against the Arsenda 18K, it weighs far less and does not need a roof cutout.\n\nBest for pop-ups or small campers with a sturdy window where a window unit fits. The ETL certification is a plus for safety-minded buyers.",
     "specs": [
       "6,500 BTU window unit",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51yCX2vnLxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H7C1PH5Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H7C1PH5Q?tag=rvgearlab-amz-20",
     "description": "The CYMYYDS Small Air Conditioner is a 2,700 BTU portable unit with a 900W real compressor and 280W rated power. The listing cites about 45 dB in sleep mode, touch control and remote, and a 1 to 12 hour timer.\n\nAgainst the Wszrfozn 7000, it uses much less power at far less cooling. Against the COSTWAY window unit, it needs no window and costs less.\n\nBest for small pop-ups on a 15-amp hookup or a portable power station. The 280W rating makes it gentle on limited power.",
     "specs": [
       "2,700 BTU portable",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31txWl+4XmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GS92J6XW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GS92J6XW?tag=rvgearlab-amz-20",
     "description": "The Arsenda 18000 BTU Rooftop RV Air Conditioner is a non-ducted 110-120V unit with 10,236 BTU heating and 50 dB operation. The listing says it requires both 115V AC and 12V DC.\n\nAgainst the COSTWAY window unit, it gives nearly three times the cooling. Against the portable units, it mounts on the roof and keeps the floor free.\n\nBest for a hard-sided pop-up or a larger camper with a rooftop opening. It shows what a full-size rooftop option offers.",
     "specs": [
       "18,000 BTU, 10,236 BTU heat",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31XbQaF2jdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00HJQ86UO?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00HJQ86UO?tag=rvgearlab-amz-20",
     "description": "The Dometic Air Distribution Box is a ceiling control and distribution kit for compatible Dometic air conditioners, with manual control and a universal fit. The listing says it is for non-ducted applications only.\n\nAgainst the full air conditioners here, it is a replacement part. Against the ICON shroud, it works on the inside of the ceiling.\n\nBest for pop-up owners who already have a Dometic unit and need a new ceiling box. It is an inexpensive way to restore control.",
     "specs": [
       "Ceiling control kit, manual",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31HkzertXIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00IABG9YC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00IABG9YC?tag=rvgearlab-amz-20",
     "description": "The ICON Aftermarket A/C Shroud fits Dometic Brisk Air and Duo Therm units. The listing says it is impact resistant, UV protected and aerodynamic, and that it is designed for easy DIY replacement of damaged or brittle parts.\n\nAgainst the Dometic ADB, it covers the outside of the unit rather than the inside. Against the full air conditioners, it is a cosmetic and protective part.\n\nBest for owners who already have a Dometic Brisk Air and a cracked shroud. A low-cost way to restore the outside of an older unit.",
     "specs": [
       "Fits Dometic Brisk Air Duo Therm",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31J8olyf7WL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DHP333DP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DHP333DP?tag=rvgearlab-amz-20",
     "description": "The Happy Travel dome measures roughly 8.7 ft by 8 ft in its 4-person size and fits a queen air mattress. It uses 190T taffeta with a PU rating of 2000mm, a removable rainfly, a mesh top and an electrical access port.\n\nIt has the biggest family-ready floor in this list and the only e-port. The MOON LENCE has more instant-setup appeal and the Zikbrynoo sleeps more, yet the Happy Travel hits the balance.\n\nFamilies of four who want a queen bed and a fan will like it. The mesh top lets in air when the fly is removed.",
     "specs": [
       "About 8.7 ft by 8 ft floor",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Y-FpT57GL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G4D44D18?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G4D44D18?tag=rvgearlab-amz-20",
     "description": "The Zikbrynoo is an instant pop-up for 4 to 6 people with a floor near 10.5 ft by 7.2 ft and a 51 inch peak. Its fiberglass pole junctions carry steel protection tubes, and four mesh windows and two doors with double panels provide airflow.\n\nIt opens when you toss it in the air, which gives it the fastest setup in the group. The MOON LENCE is similar and pricier, and the Happy Travel is steadier in wind.\n\nGroups who care about speed and capacity will like it. Fold-down is quicker than most hub tents.",
     "specs": [
       "10.5 ft by 7.2 ft floor",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41cSOsaXraL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0827J5ZNF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0827J5ZNF?tag=rvgearlab-amz-20",
     "description": "The MOON LENCE is a pentagon-shaped quick-pop tent for 3 to 4 people with about 9.5 ft by 10.1 ft of floor and a 52 inch peak. It has four large mesh windows, a D-shaped arch door with mesh panel and a detachable rainfly over 190T PU fabric.\n\nA quick-pop mechanism raises it in about ten seconds. It offers more floor than the Londtren, and it costs about $15 more than the Happy Travel.\n\nBackyard campers and festival-goers who want instant shelter will like it. The pentagon layout adds room.",
     "specs": [
       "Pentagon floor, 52 in peak",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41v-SB66U2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08RYX1ZL7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08RYX1ZL7?tag=rvgearlab-amz-20",
     "description": "The Londtren is a spring pop-up for 4 people with a 4.3 ft center height and a floor close to 9 ft long. It uses 190T polyester sides, a 110G PE groundsheet, mesh front and back doors and a vestibule for shoes.\n\nIt is simpler than the MOON LENCE and cheaper, with a vestibule that the Zikbrynoo lacks. The floor is smaller, so it suits couples with kids better than four adults.\n\nIt suits quick trips and camps where mud is likely. Keep the vestibule zipped to shield gear.",
     "specs": [
       "Floor near 9 ft long",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31-qntNOuuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G2BZB5ZK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G2BZB5ZK?tag=rvgearlab-amz-20",
     "description": "The CAMPROS is a 7 ft square, three-person dome with a 47 inch center height that fits a queen mattress. It has sealed seams, a waterproof strip and mesh on the top and doors.\n\nIt costs about half of the Happy Travel and has a smaller floor. Compared with the pop-ups, it needs a few minutes and two sets of hands.\n\nIt suits couples with a small child. A rainfly is included.",
     "specs": [
       "7 ft square, 47 in peak",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41tyug8U+OL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CSCWN2R7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CSCWN2R7?tag=rvgearlab-amz-20",
     "description": "The JELUCAMP dome is a 4.3 lb two-person tent with PU3000 polyester and 7.9mm fiberglass poles. It has a double-layer door and a floor about 7.2 ft long.\n\nIt is the cheapest and lightest here, with the least floor of the six. The CAMPROS adds a queen-bed floor for a modest premium.\n\nIt suits first-time campers and kids. It also works as a cheap guest tent.",
     "specs": [
       "4.3 lb, PU3000 polyester",

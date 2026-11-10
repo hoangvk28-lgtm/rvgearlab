@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41o-BAvLysL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08QC7ZC7S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08QC7ZC7S?tag=rvgearlab-amz-20",
     "description": "The baleaf Trail Shell lists fully seam-sealed, water-repellent fabric that handles over 5000mm of pressure head, with a 3000g/m2 breathability rating. At about 285g it folds into its back pocket, and back vents let heat escape on climbs.\n\nNext to the SWISSWELL Nylon Shell, it trades a lined interior for sealed seams and vents. Against the MOERDENG Softshell, it is lighter and packs far smaller.\n\nIt suits trail runners and hikers who want a technical shell. Five pockets include room for a 6.5 inch phone.",
     "specs": [
       "Sealed seams, 5000mm rating",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31kv0XKffDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F6XY477B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F6XY477B?tag=rvgearlab-amz-20",
     "description": "The SWISSWELL Nylon Shell uses a premium nylon fabric that weighs 0.66 lb and packs into its own pocket. A three-layer build adds a water-repellent coating, nylon and a waterproof layer, with a 3000g/m2/24hr breathability rating and a soft mesh lining.\n\nCompared with the baleaf Trail Shell, it adds a mesh lining and an extended hood brim. Against the 33,000ft Hideaway, it adds a reflective stripe and stated breathability.\n\nIt suits hikers who want a soft inside and a hood with a brim. Two roomy pockets hold small gear.",
     "specs": [
       "Nylon, 0.66 lb, packs to pocket",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41j3TCsJhDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D6TXL2FZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D6TXL2FZ?tag=rvgearlab-amz-20",
     "description": "The MOERDENG Softshell is a women's hooded hiking jacket in 100% polyester with Watertight IV technology and a mesh lining. It has a tuck-away hood with an adjustable drawstring, a drawcord hem, two zippered flap hand pockets and one inner chest pocket.\n\nCompared with the baleaf Trail Shell, it has a lined softshell build and a tucking hood. Against the Columbia Switchback, it carries more pockets.\n\nIt suits hikers who carry maps, gloves and a phone. The listing also names sailing and camping.",
     "specs": [
       "Watertight IV, mesh lining",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zmw7pc66L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FYJSTVCL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FYJSTVCL?tag=rvgearlab-amz-20",
     "description": "The Columbia Switchback IV treats its fabric with Omni-Shield to repel light rain, resist stains and dry quickly. It folds into its own hand pocket, has a stow-away hood and adds zippered hand pockets, adjustable cuffs and a drawcord hem.\n\nCompared with the baleaf Trail Shell, it uses a repellent finish and a stow-away hood. Against the Muzeca Plus Size, it adds a brand-backed finish.\n\nIt suits day hikers who face showers instead of storms. The listing frames it as light-precipitation gear.",
     "specs": [
       "Omni-Shield repels light rain",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ljcE-Yj8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CC94FVV3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CC94FVV3?tag=rvgearlab-amz-20",
     "description": "The 33,000ft Hideaway is a lightweight women's shell with a carrying pouch and a hide-away hood that you can stow when not needed. A casual, loose cut and an adjustable drawcord hood round out the design.\n\nCompared with the Muzeca Plus Size, it is lighter and carries a hide-away hood. Against the SWISSWELL Nylon Shell, it has no stated breathability number.\n\nIt suits hikers who like a roomy fit that layers over fleece. The listing covers hiking, cycling and travel.",
     "specs": [
       "Super lightweight, pouch",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Z41WLb1TL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C8JC8LKS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C8JC8LKS?tag=rvgearlab-amz-20",
     "description": "The Muzeca Plus Size is a packable windbreaker-style rain jacket that the listing says folds into a compact carrying bag. Elastic cuffs, a drawstring hood and a drawstring hem customize the fit, and it comes in plus sizes.\n\nCompared with the 33,000ft Hideaway, it explicitly offers plus sizing. Against the Columbia Switchback, it has a looser cut and no brand finish.\n\nIt suits hikers who need a plus-size cut at a low price. The listing says it works for all seasons.",
     "specs": [
       "Packs into carrying bag",

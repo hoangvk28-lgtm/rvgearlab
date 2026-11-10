@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31O9bim-a5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FH7B4G3V?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FH7B4G3V?tag=rvgearlab-amz-20",
     "description": "The CAMPLUX burns propane at 8,500 BTU with two adjustable heat levels. It carries two safeguards, a safety tilt switch that shuts it off if it tips and an oxygen depletion sensor that cuts power as oxygen drops, and a detachable tripod base steadies it on uneven ground.\n\nNothing else under the cap combines both sensors with a tripod, which is why it takes first place. It puts out more heat than the Little Buddy, and it asks roughly $30 more for the extra output and protection.\n\nIt suits campers at open-air camps, fishing spots and picnic tables who want the best-protected flame heater available at this price. Set it on level ground before you light it.",
     "specs": [
       "8,500 BTU propane, two levels",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Lljo7oH4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HKH3GW63?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HKH3GW63?tag=rvgearlab-amz-20",
     "description": "The Buyplus is a 10,000 BTU propane heater with a heavy steel body, safety mesh guards and a tip-over switch. It lights with a match through an ignition hole in about 3 seconds and needs no electricity.\n\nIt has the strongest output here and costs about $57 less than the CAMPLUX. The savings come from skipping the oxygen sensor and the tripod.\n\nIt suits big patios, screen rooms with the sides open and group gatherings where raw heat matters more than fine control. Allow plenty of clearance on every side.",
     "specs": [
       "10,000 BTU propane heater",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31+0oURWZUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B001CFRF7I?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B001CFRF7I?tag=rvgearlab-amz-20",
     "description": "Mr. Heater's Little Buddy delivers 3,800 BTU per hour and covers up to 95 square feet. It starts with one button and balances on a round 8 inch stand.\n\nIt costs about $30 less than the CAMPLUX and gives up some heat and the oxygen sensor in return. It is the smallest burner on this list, which makes it easier to tuck into a vehicle.\n\nIt suits campers who want a recognized brand for a vestibule, porch or garage and who will follow the maker's ventilation rules. Its stand leaves room to place it on a table or the ground.",
     "specs": [
       "3,800 BTU radiant propane",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/418iLMbIe+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DSFDVM7B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DSFDVM7B?tag=rvgearlab-amz-20",
     "description": "The Naturehike heater runs on an 8 ounce butane canister and produces 3750 BTU through a porous mesh burner. A canister lasts up to 240 minutes, or 180 minutes at full power, and a magnetic connection and automatic overpressure shutoff handle the gas side.\n\nIt costs about $14 less than the Little Buddy and gives a warming shelf and a long burn time in exchange. Butane weakens in the cold, so it favors mild nights.\n\nIt suits fall campers, fishing shelters and picnics where a warm shelf for a mug is welcome. Pack a spare canister for longer stays.",
     "specs": [
       "3750 BTU butane, 8 oz canister",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51zGpNb1IEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HCSQFHNY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HCSQFHNY?tag=rvgearlab-amz-20",
     "description": "This electric heater pushes out hot air from a PTC ceramic element within about 2 seconds, with a selector for fan-only, 750 watts or 1500 watts. The shell is V-0 flame retardant, it has overheat protection and it measures 6 by 8 by 15 inches with a handle.\n\nIt makes no flame or fumes, which makes it the easiest of the five to live with in a tent. It costs about the same as the Buyplus and needs a campsite power hookup.\n\nIt suits powered sites, screen rooms and garages where you want quiet, fume-free warmth. Point it away from bedding and fabric.",
     "specs": [
       "1500W PTC ceramic heater",

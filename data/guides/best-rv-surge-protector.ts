@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ckfJZ9KAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GLFYXJ2B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GLFYXJ2B?tag=rvgearlab-amz-20",
     "description": "This GEARGO is a 30 amp plug-in protector rated at 15,000 joules with an LED display for line voltage and wiring status, a circuit analyzer that names six conditions, an IP68 cover and a three-year warranty. Its listing states that it cuts power below 103 volts or above 132 volts and automatically restores power when voltage returns to the 103 to 132 volt range.\n\nIt ranks first because it combines a stated cutoff window, a display and a warranty at $99.99, which is $189.96 below the hardwired Power Watchdog PWD30EPOH and $40.00 above the plain MILLIONHOME 50 amp unit that has no stated cutoff. It costs $70.99 less than the GEARGO 50 amp 32000J. Against the CREATIVE DESIGN 30 amp it adds a relay and a display for $82.40 more.\n\nPick this if you have a 30 amp rig and want brownout protection that you can carry to any park. The caveat is that it is not hardwired, so it can be unplugged by anyone and you must carry it with you.",
     "specs": [
       "15,000J, 103 to 132V cutoff",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41cZxDOgZfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07PRVV53V?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07PRVV53V?tag=rvgearlab-amz-20",
     "description": "The Power Watchdog PWD30EPOH is a 30 amp hardwired surge protector with an emergency power off function that cuts power at extreme voltage, Bluetooth wireless alerts, and an optional RVWhisper add-on for WiFi and cellular monitoring. Its listing highlights a replaceable surge module, so after a spike you swap the module rather than the whole protector, and notes that hardwiring helps prevent theft.\n\nIt ranks second at $289.95 because installation inside the rig removes the theft and forgetting problem entirely, but it costs $189.96 more than the GEARGO 30A 15000J and $110.04 less than the PWD50EPOW. The replaceable module is the distinguishing cost advantage over time, since the plug-in units all need to be replaced whole. It lists no joule rating or cutoff numbers in the listing.\n\nChoose it if you full-time, store the rig at a seasonal site, or simply never want to carry or lose a protector. The caveat is the price and the need to wire it in, which is a job for someone comfortable with RV electrical work.",
     "specs": [
       "30A hardwired, EPO",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41e38s0etUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GXVY4179?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GXVY4179?tag=rvgearlab-amz-20",
     "description": "This GEARGO 50 amp unit lists 32,000 joules with TVS technology, a Bluetooth app with a live dashboard of voltage, current and wiring integrity, a larger LED display, a pre-connection circuit analyzer and an IP68 cover. Its listing describes an automatic cutoff relay on high or low voltage that deliberately does not auto-reconnect: a manual reset is required after a fault.\n\nIt ranks third at $170.98, which is $229.01 less than the PWD50EPOW WiFi unit but $110.99 more than the plain MILLIONHOME. Against the 30 amp GEARGO it costs $70.99 more for the 50 amp plug and bigger joule claim. Its manual-reset design is a real tradeoff: it protects compressors from immediate restart but leaves a coach dark if you are away.\n\nPick this if you have a 50 amp rig and want app alerts and a relay without the Power Watchdog price. The caveat is the manual reset and that the listing states no voltage window.",
     "specs": [
       "32,000J, 50A plug-in",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31OJukA1iCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DC17VXTL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DC17VXTL?tag=rvgearlab-amz-20",
     "description": "The Power Watchdog PWD50EPOW is a 50 amp smart surge protector with WiFi monitoring and wireless fault alerts, an IP65 heavy-duty weather-resistant build, a replaceable surge module, and compatibility with dogbone adapters. The listing says WiFi lets you check voltage meter data from anywhere.\n\nIt ranks fourth at $399.99, the highest price here, $110.04 above the hardwired PWD30EPOH and $229.01 above the GEARGO 50A 32000J. What the money buys over the GEARGO is remote monitoring that works beyond Bluetooth range and a replaceable module. It lists no joule rating, and it states no voltage cutoff numbers.\n\nChoose it if you leave a 50 amp rig parked and want to check voltage from a distance. The caveat is the price, and that the listing does not publish the cutoff window.",
     "specs": [
       "50A smart, WiFi",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41OBeyRHx2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CKN5Q76V?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CKN5Q76V?tag=rvgearlab-amz-20",
     "description": "The MILLIONHOME is a $59.99 plug-in 50 amp protector rated at 18,000 joules with a circuit analyzer, flame-retardant materials, a waterproof design and a plug-and-play setup. The listing says it is safety-certified without naming the certification, and it offers 24-hour customer service.\n\nIt ranks fifth because it is the cheapest 50 amp pick but documents very little: no stated cutoff, no display, no named standard and no warranty length. It costs $110.99 less than the GEARGO 50A 32000J and $40.00 less than the 30 amp GEARGO that does state a cutoff, so it suits a rig where price is the whole decision.\n\nPick it if you have a 50 amp rig on a tight budget and camp at parks with decent power. The caveat is that the safety claim is unnamed, and nothing says it disconnects at low voltage.",
     "specs": [
       "50A, 18,000J",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41-NXkVDPDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DXTSNXQG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DXTSNXQG?tag=rvgearlab-amz-20",
     "description": "The CREATIVE DESIGN 30 amp unit costs $17.59 and lists 12,000 joules, a dual-color LED status indicator, a 360 degree waterproof seal cap with dual-layer silicone gaskets, a UL94 V-0 flame-retardant shell, a two-meter drop test and compliance with UL1449 4th Edition, with a two-year warranty. The listing claims a lifespan of over 10 years.\n\nIt ranks last because at the lowest price it gives only a status light and no stated cutoff: it is $42.40 below the MILLIONHOME and $82.40 below the GEARGO 30A, which states a cutoff and has a display. Its listed UL1449 compliance is a specific standard claim, though a listing claim is not the same as a verified listing. The over-10-year lifespan figure is the seller's claim.\n\nChoose it for a spare or a rarely used 30 amp rig where price matters most. The caveat is that nothing in the listing says it disconnects at low voltage.",
     "specs": [
       "12,000J, UL1449 claimed",

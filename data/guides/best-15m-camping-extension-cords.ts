@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41CMJ3xHsPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FSLN3NHJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FSLN3NHJ?tag=rvgearlab-amz-20",
     "description": "The Gutedeal is a 50 foot SJTW outdoor cord at 16 AWG, rated 13 amps, 125 volts and 1625 watts, ETL listed, with 100 percent tinned copper conductors. It uses 2-prong NEMA 1-15 ends and a thermoplastic jacket described as thick, wear resistant and weatherproof.\n\nIt is the only cord here that actually reaches about 15 meters. Compared with the 15 foot cords, it trades ground-pin protection for three times the length.\n\nIt suits campers who need to reach a picnic table, a patio set or a far corner with ungrounded gear such as lights or a charger. Uncoil it fully before use, as the listing advises.",
     "specs": [
       "50 ft, 16AWG, 13A, 1625W",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41OVtPlfrOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B085HP6BFC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B085HP6BFC?tag=rvgearlab-amz-20",
     "description": "The RVGUARD is a 15 foot 30 amp RV cord rated 3750 watts, with TT-30 male and female ends, a 10/3 STW jacket and ETL/cETL approval. A disconnect handle makes unplugging easier, and a power indicator light shows when it is live. It ships with a storage bag and strap.\n\nIt is the only cord here for 30 amp RV pedestals, which none of the 5-15 cords can connect to. Compared with the Deeklify, it carries more than double the watts.\n\nIt suits RV owners who need a short extension from a 30 amp post to the rig. The handle keeps fingers away from the cord.",
     "specs": [
       "15 ft, 30A, 3750W, TT-30",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41VLZJuYCtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F7RPBR1J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F7RPBR1J?tag=rvgearlab-amz-20",
     "description": "The Deeklify is a 15 foot 12 AWG outdoor cord rated 15 amps and 1875 watts, with 5-15P and 5-15R ends and ETL/cETL approval. It lists a temperature range from minus 58 to plus 158 degrees Fahrenheit, pure copper conductors and an indicator light.\n\nIt carries the thickest wire among the 15 foot cords and a higher amp rating than the 16 gauge options. Compared with the Gutedeal, it is far shorter, grounded and heavier duty.\n\nIt suits campers who want a heavy short cord for a fridge or heater from the post to the camp. It passed more than 2,000 bending tests, according to the listing.",
     "specs": [
       "15 ft, 12 AWG, 15A, 1875W",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ZG3+dGUOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DJ19F62N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DJ19F62N?tag=rvgearlab-amz-20",
     "description": "The Skrizcable is a 15 foot 16/3 outdoor cord rated 13 amps and 1625 watts, ETL/cETL listed, with a core of three strands of pure copper and an IP65 vinyl jacket. The plug and socket have long strain relief, and the listing says it passed 20,000 large-angle bends.\n\nIt is among the cheapest cords here and adds a stated bend test that the other cheap 15 foot cords do not print. Against the Deeklify, it uses thinner wire for a much lower price.\n\nIt suits campers who need a short, grounded cord for lights, a fan or chargers. The IP65 jacket handles rain.",
     "specs": [
       "15 ft, 16/3, 13A, 1625W",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41vBsDmd+0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09TGSSH8V?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09TGSSH8V?tag=rvgearlab-amz-20",
     "description": "The huanchain is a 15 foot 16/3 SJTW cord rated 13 amps, 125 volts and 1625 watts, ETL/cETL listed, with flame and weather resistance. The plug and socket have strain relief and a hook on the socket end.\n\nIt is priced alongside the Skrizcable and Tiffcofio and adds a hook that keeps the connection off wet ground. Against the Deeklify, it gives up wire thickness for a much lower price.\n\nIt suits campers who want a basic grounded cord with a way to hang the connection. It handles lights, chargers and a small fan.",
     "specs": [
       "15 ft, 16/3 SJTW, 13A",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41pC7fj-VgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G4ZYHWN5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G4ZYHWN5?tag=rvgearlab-amz-20",
     "description": "The TiFFCOFiO is a 15 foot 16 AWG cord rated 13 amps and 1625 watts, ETL listed, with a V0 grade fire-resistant PVC shell. The listing names electric grills and pressure washers as example uses.\n\nIt matches the other 16 gauge cords on price and adds the fire-resistance grade. Compared with the Deeklify, it is thinner and lighter on the rating.\n\nIt suits campers who want a short outdoor cord with a stated fire rating for a grill or patio lighting. The sun-resistant PVC resists cracking.",
     "specs": [
       "15 ft, 16 AWG, 13A, 1625W",

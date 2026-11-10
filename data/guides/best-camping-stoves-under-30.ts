@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31J8o9U++EL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08VWLWFRT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08VWLWFRT?tag=rvgearlab-amz-20",
     "description": "The KOMAN is a single-burner propane stove with up to 10,000 BTU, a solid brass pressure regulator and a built-in windscreen. It carries CSA certification and a 2-year guarantee.\n\nNo other stove on this list carries a certification mark and a warranty, which is why it comes first in a budget range. The SHINESTAR adds safety features and a case, while the JVWKPU gives more fuel flexibility for less.\n\nIt suits car campers who use a 1 lb propane cylinder and want a certified regulator. It also suits tailgating.",
     "specs": [
       "10,000 BTU, brass regulator",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41iwUW9W9ML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FMXTY2WH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FMXTY2WH?tag=rvgearlab-amz-20",
     "description": "SHINESTAR builds this butane tabletop stove around a 7,800 BTU annular burner and a one-click piezo igniter that is tested for over 10,000 lights. Triple protection covers cartridge ejection, a safety lock and automatic shut-off, and the kit adds a removable porcelain grate and a carrying case.\n\nIt costs about $5 more than the KOMAN and gives lower output with more protection features. The annular burner spreads heat evenly across the pot base.\n\nIt suits campers who want a compact butane stove with a safety system and a case. It works well for tabletop cooking.",
     "specs": [
       "7,800 BTU, annular burner",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41OKuwDPDCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H3KCVBXF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H3KCVBXF?tag=rvgearlab-amz-20",
     "description": "The CAFELITE keeps its canister off to one side on a long braided hose, 39.4 inches of it, feeding a 15,000 BTU burner. A carbon steel stand rated for 55 lb and an external igniter pen come in the box.\n\nIts 15,000 BTU burner is built for big pots, and the remote canister sits away from the flame for safety. The hose design suits colder weather, and it is bulkier than a top-mount stove.\n\nIt suits car campers who cook with large pots or in cold weather. Place the canister on the ground and keep the hose straight.",
     "specs": [
       "15,000 BTU, 39.4 inch hose",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41OYN9BDKML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BBTW4PTZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BBTW4PTZ?tag=rvgearlab-amz-20",
     "description": "CAMPINGMOON makes the XD-2-NE from 430 stainless steel, with a pot support that folds and lifts off the body to fit in the canvas storage bag. A micro regulator inside keeps gas flow steady regardless of canister pressure.\n\nIt costs about $5 less than the KOMAN and gives a regulator in a small, folding body, with no windscreen or igniter. The CAFELITE and SHINESTAR give more output, and this one packs smaller.\n\nIt suits campers who want a compact regulated stove for small pots. Keep a lighter handy.",
     "specs": [
       "430 stainless steel body",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41I3mfK+ndL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G5879CZW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G5879CZW?tag=rvgearlab-amz-20",
     "description": "JVWKPU lists up to 7200W with built-in windproof shields. The foldable arms open to a 5.91 inch cooking diameter, and the stove weighs 20 oz with a carry case.\n\nIt is the cheapest of the five at about $23 and works with isobutane, butane or 1 lb propane. Its output claim is the maker's figure and it has a smaller cooking area than the KOMAN.\n\nIt suits budget campers who want a folding windproof stove with several fuel types. It also suits tailgating.",
     "specs": [
       "7200W with windproof shields",

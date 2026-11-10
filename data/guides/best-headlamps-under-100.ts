@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51xyQZ62LGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07D27L1NR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07D27L1NR?tag=rvgearlab-amz-20",
     "description": "The SLONIK is a rechargeable headlamp rated at 1,000 lumens with a 60 foot beam, six brightness levels and three modes. It has an aero-grade aluminum body that is dustproof and IPX4 water resistant, and a lamp head that swivels up and down 90 degrees.\n\nIt is the only pick here built primarily as a trail and camp headlamp rather than a diving light. It detaches from the nylon headband to work as a hand flashlight, and the single-button control is easy in gloves.\n\nIt fits campers, hikers and anyone who wants a metal-bodied headlamp for night camp chores. The six levels let you save battery for late evenings.",
     "specs": [
       "1,000 lumens, 60 foot beam",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41b+Hot26XL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CN4JWGRZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CN4JWGRZ?tag=rvgearlab-amz-20",
     "description": "The PRUBOVI is a rechargeable headlamp with three lighting modes, a spotlight and floodlight adjustment switch and up to 40 hours of runtime on a low setting. An aerospace aluminum front housing adds durability.\n\nIt is the only pick in the group that can also charge a phone through USB at 5V 1A, which suits an emergency kit. Compared with the SLONIK it adds the flood and spot switch and a longer low-mode runtime.\n\nIt fits campers who take multi-night trips and want to charge a lamp rarely. The spotlight and flood switch handles both distance and close tasks.",
     "specs": [
       "Up to 40 hours on low",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/6135ju01QiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B075JF7HZ8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B075JF7HZ8?tag=rvgearlab-amz-20",
     "description": "The Goldengulf is an aluminum-alloy headlamp listed as waterproof up to 100 meters with an on-off switch. It ships with a rechargeable battery and charger, and the listing names diving, camping, hiking, hunting and fishing.\n\nIts sealed body is far more waterproof than the IPX4 SLONIK, so it suits wet camps and kayaking. It has a simple on-off design with no fiddly modes.\n\nIt fits paddlers, river campers and anyone who gets caught in storms. The included charger means it is ready to use out of the box.",
     "specs": [
       "Aluminum alloy, 100 meter waterproof",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/413DLPp9OCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09JNRN149?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09JNRN149?tag=rvgearlab-amz-20",
     "description": "The GRABOYY is an IPX8 rechargeable headlamp with a single-button switch for high, low and strobe modes. The switch flashes red when the battery is almost out, and the lamp lists applications for camping, fishing and hiking.\n\nIt adds a power indicator that the Goldengulf lacks and pairs it with IPX8 sealing. The three-mode switch is simple to use with cold hands.\n\nIt suits campers who want a battery warning and strong waterproofing. The three modes cover work, walking and signaling.",
     "specs": [
       "IPX8 waterproof, rechargeable",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41833R-0vaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B6JFCMGL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B6JFCMGL?tag=rvgearlab-amz-20",
     "description": "The Oreq is a rechargeable headlamp listed at IPX8 up to 100 meters, with five modes (low, medium, high, SOS and flashing) and a head that rotates 180 degrees. It is made from aviation aluminum with a hard anodized shell.\n\nIt has the most modes and the widest tilt of the group, ahead of the GRABOYY's three modes. The listing names camping, swimming, hiking and fishing as uses.\n\nIt fits campers who want flexibility to point light exactly where they need it. The anodized shell stands up to sand and salt.",
     "specs": [
       "IPX8 up to 100 meters",

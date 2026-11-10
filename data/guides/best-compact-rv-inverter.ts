@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/316nnunNO9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CZR27R4J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CZR27R4J?tag=rvgearlab-amz-20",
     "description": "The Renogy Inverter PUH is a 1000W pure sine wave unit with a built-in UPS transfer switch, Bluetooth app control and UL/CE/FCC certification. The app shows settings, load and error codes.\n\nAt $219.99 it is $162 above the BESTEK 300W Pure Sine at $57.99 and $178 above the BESTEK Tesla-ready. You pay for 700 extra watts, the transfer switch and app. Pick this if you want to power a microwave-class load or a coffee maker. Caveat: weight and idle draw are not listed.",
     "specs": [
       "1000W pure sine wave",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/519I1cTYXWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B082PN7C6J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B082PN7C6J?tag=rvgearlab-amz-20",
     "description": "The BESTEK 300W pure sine inverter plugs into a 12V source and has an intelligent cooling fan plus overvoltage, undervoltage and overheat protection. It converts DC to 110V AC for small devices.\n\nAt $57.99 it is $16 above the BESTEK Tesla-ready at $41.99 and $162 below the Renogy PUH 1000W. The difference over its sibling is mostly the connection style, since both are 300W. Pick this if you charge laptops and phones. Caveat: 300W cannot run a hair dryer or microwave.",
     "specs": [
       "300W pure sine wave",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Zx6eX3j6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08L919L4X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08L919L4X?tag=rvgearlab-amz-20",
     "description": "The BESTEK B08L919L4X is a 300W pure sine inverter with two AC outlets, two USB fast charge ports and a 40 amp fuse. It accepts 11 to 17V input, so it works with Tesla-style systems.\n\nAt $41.99 it is $16 below the BESTEK 300W Pure Sine and $178 below the Renogy PUH 1000W. It adds a second AC outlet and USB ports at a lower price. Pick this if you want the cheapest pure sine option with several outlets. Caveat: still 300W, and no transfer switch.",
     "specs": [
       "300W pure sine wave",

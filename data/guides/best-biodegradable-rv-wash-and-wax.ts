@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41yKYvnpvkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0027M3A1U?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0027M3A1U?tag=rvgearlab-amz-20",
     "description": "Gel Gloss RV Wash and Wax is a concentrated carnauba formula in a gallon bottle, with the listing stating it is biodegradable. Directions are 2 ounces to 5 gallons of water, scrub with a mitt, rinse and dry immediately.\n\nAgainst Thetford, it is the only listing that states biodegradable. Against Camco Armada, it gives a mixing ratio and UV protection wording.\n\nIt is the best match for RV owners who want a concentrated, biodegradable-labeled wash. It earns its slot for concentrate buyers.",
     "specs": [
       "Concentrated carnauba, 1 gallon",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41arhEW1ZaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00X04JRMU?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00X04JRMU?tag=rvgearlab-amz-20",
     "description": "Aero Cosmetics Wash Wax ALL is a waterless spray used with a damp towel and a dry towel. The listing says it is water-based with no alcohol, ammonia or citrus and is safe on paint, chrome, glass, vinyl, decals and ceramic coatings.\n\nAgainst Gel Gloss Gallon, it needs no rinse water. Against Thetford, it states broad surface safety.\n\nIt suits owners who wash where runoff is restricted. It is a natural fit for restricted-runoff washes.",
     "specs": [
       "Waterless spray wash and wax",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31HZHmoxi8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00KARB4TO?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00KARB4TO?tag=rvgearlab-amz-20",
     "description": "Thetford Premium RV Wash and Wax is a 64 ounce 2-in-1 detergent and wax for RVs, boats and cars. The listing says it cleans black streaks, bugs, bird droppings and road film and leaves a non-oily, anti-static, water-repellent finish with UV protection.\n\nAgainst Camco Pro-Strength, it names black streaks and a larger bottle. Against Gel Gloss Gallon, it is ready for general use but not labeled biodegradable.\n\nIt suits owners who want one RV-made wash for streaks and road film. Think of it as the pick for general rv washes.",
     "specs": [
       "64 oz detergent and wax",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ZXgbzYxcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B001HXXWGS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B001HXXWGS?tag=rvgearlab-amz-20",
     "description": "Camco Armada Carnauba Wash and Wax comes in a 32 ounce bottle. The listing is brief and names a carnauba formula.\n\nAgainst Camco Pro-Strength, it is a carnauba-named wash. Against Gel Gloss Gallon, it is a smaller bottle with fewer details.\n\nIt suits owners who want a carnauba wash from a familiar RV brand. Buyers focused on basic carnauba washes will find it a sensible match.",
     "specs": [
       "32 oz bottle",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41759L9CsXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00SL2NG0K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00SL2NG0K?tag=rvgearlab-amz-20",
     "description": "Camco Pro-Strength Wash and Wax is a 32 ounce wash with 100 percent carnauba wax. The listing says it gives a clean shiny finish with water beading and does not require buffing.\n\nAgainst Camco Armada, it states water beading and no buffing. Against Thetford, it is a smaller bottle at a lower price.\n\nIt suits owners who want an easy wash with no buffing step. It earns its slot for low-effort washes.",
     "specs": [
       "32 oz, 100% carnauba",

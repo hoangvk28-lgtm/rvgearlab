@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41LSN3i5LoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H98TT1MN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H98TT1MN?tag=rvgearlab-amz-20",
     "description": "PowerSmart delivers 4000 starting and 3200 running watts at 59 dBA from 23 feet, with Eco Mode for light loads. It has a 30A twist-lock outlet and a 20A outlet, and it is parallel capable with a kit sold separately.\n\nIt costs about $400, the same as the MaXpeedingrods and Oxseryn, and is quieter than both on paper. The Westinghouse costs $350 more for dual fuel and a remote start.\n\nChoose it for an RV with a 30A inlet, a cabin or a campsite where noise rules matter. It suits owners who may want a second unit later.",
     "specs": [
       "4000 starting, 3200 running watts",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51YzqLF-2hL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HHRDJ3YP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HHRDJ3YP?tag=rvgearlab-amz-20",
     "description": "EFURDEN is an open-frame inverter generator with 6000 peak and 4500 running watts, under 5 percent THD and a 3 gallon tank. It has a 30A RV outlet, two 120V AC outlets, a USB port and a Type-C port, and a 2-year warranty.\n\nIt offers 1300W more running power than the PowerSmart for $40 more. An open frame is louder, and the PowerSmart is the quieter pick.\n\nChoose it for a big RV, an outage fridge and tools in one setup. It suits users who value watts per dollar.",
     "specs": [
       "6000 peak, 4500 running watts",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Xsjm+woeL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09PBFVWFK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09PBFVWFK?tag=rvgearlab-amz-20",
     "description": "maXpeedingrods gives 3500 peak and 3000 running watts with pure sine wave output. A single 30A RV outlet, two 20A outlets and two USB ports are on the panel, and Eco mode extends runtime to 8.3 hours at a quarter load or 4.5 hours at half.\n\nIt runs at 58 dB in Eco mode at 23 feet, quieter than the Oxseryn at 70 dB. It costs the same as the PowerSmart with 200W less running power.\n\nChoose it for a mid-size trailer or a campsite with quiet hours. It suits owners who value the lowest stated noise.",
     "specs": [
       "3500 peak, 3000 running watts",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51ZjngYQA2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GCCRR7DM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GCCRR7DM?tag=rvgearlab-amz-20",
     "description": "Oxseryn offers 4000 rated and 5000 peak watts with THD under 5 percent and a 30A outlet for RV connection. A 2 gallon tank lasts about 6 hours at half load, and ECO mode adjusts engine speed to demand.\n\nIt has 800W more rated power than the PowerSmart at about the same price, and it runs louder at 70 dB from 23 feet. The EFURDEN gives more watts for $40 more.\n\nChoose it for a home backup and RV setup where power matters more than noise. It suits owners with a campground that allows generators.",
     "specs": [
       "4000 rated, 5000 peak watts",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41v48x8PTeL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C1Q4K2G7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C1Q4K2G7?tag=rvgearlab-amz-20",
     "description": "WEN 56360i gives 2900 rated and 3600 surge watts from a 149cc engine and weighs a listed 46 lb. Outputs include two 120V outlets, a TT-30R RV receptacle and a 12V DC jack, with two USB ports, a fuel shut-off valve and a 3-year warranty.\n\nIt is the lightest of the six and costs about $100 more than the 3500W units, which pays for a longer warranty. The PowerSmart gives more running watts for less money.\n\nChoose it for a solo RV or a small trailer where weight matters. It suits owners who value a known brand.",
     "specs": [
       "2900 rated, 3600 surge watts",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51V3x5AqkmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CQMK94H7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CQMK94H7?tag=rvgearlab-amz-20",
     "description": "Westinghouse offers 4000 peak and 3300 rated watts at under 3 percent THD, runs on gas or propane and starts by remote key fob, electric start or recoil. It has a 5-20R household outlet, a TT-30R RV outlet, two USB ports and a rotating digital display that shows fuel level and run time.\n\nIt lists as low as 52 dBA and up to 7 hours on 1.69 gallons, with a 3-year warranty. It costs $350 more than the PowerSmart and adds propane, remote start and the quietest rating.\n\nChoose it for storm backup that can run on stored propane, or for a quiet RV. It suits buyers who value convenience.",
     "specs": [
       "4000 peak, 3300 rated watts",

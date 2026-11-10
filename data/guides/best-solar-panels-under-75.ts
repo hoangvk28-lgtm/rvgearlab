@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31V1k93DfnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DD4BNTG4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DD4BNTG4?tag=rvgearlab-amz-20",
     "description": "STAR is a 100W frameless panel with 25 percent cells, listed as a 24V panel and certified to ETL, ISO9001 and CE standards. The frameless design stops dust and water from building up at the edge, and the maker claims 15 percent more output from a clean surface.\n\nAt about $60 it costs $10 more than the HQST, and adds a self-cleaning, low-maintenance design. The Sanpyl is $29 cheaper and includes a controller.\n\nChoose it for an RV roof where you want fewer chores and snow that slides off. A 24V panel suits a 24V bank, or a 12V battery through an MPPT controller.",
     "specs": [
       "100W frameless, 25% cells",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41XfEtRGmNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H4152J7K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H4152J7K?tag=rvgearlab-amz-20",
     "description": "HQST is a 100W 12V monocrystalline panel with Grade A+ cells at up to 23 percent efficiency, 31.8 by 27.5 by 1.18 inches in size and an IP65 junction box. It resists 2400Pa wind and 5400Pa snow and has pre-drilled mounting holes.\n\nAt about $50 it is the pick that connects directly to a 12V controller with no 24V conversion. The STAR costs $10 more for a different design.\n\nChoose it for a van, a shed or a boat with a standard 12V battery bank. It carries a 5-year product assurance.",
     "specs": [
       "100W 12V, up to 23% efficiency",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41HcPu2itxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FJXNQ911?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FJXNQ911?tag=rvgearlab-amz-20",
     "description": "Sanpyl is a 100W monocrystalline panel kit at 23 percent efficiency with a 12V controller that has USB, Type-C and DC outputs and a display for voltage, current and power. The frame is corrosion-resistant aluminum and the junction box and connector are IP67 rated.\n\nAt about $31 it is the cheapest 100W option and includes the controller that the HQST and STAR leave out. The panel itself is less proven than the HQST's.\n\nChoose it for a first solar setup where you want a controller included. It suits small 12V batteries and USB charging.",
     "specs": [
       "100W kit, 23% efficiency",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41MicNx9-aL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B092872NYT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B092872NYT?tag=rvgearlab-amz-20",
     "description": "MARBERO is a foldable 30W panel measuring 8.9 by 12 by 1.8 inches folded and weighing 2.4 lb. It has a USB-C port with 5, 9 and 12V profiles, a QC3.0 port and a DC output, and an IP65 rating.\n\nAt about $49 it is the only portable pick here, and the 30W is a third of the output of the 100W panels. It trades output for size.\n\nChoose it for hiking and tent camping, to keep phones and small power banks full. It folds to the size of a laptop bag.",
     "specs": [
       "30W foldable, 2.4 lb",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41pgRw+njcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DNJK223C?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DNJK223C?tag=rvgearlab-amz-20",
     "description": "Callsun pairs 16BB N-type cells with low-iron tempered glass in a 50W panel and adds an IP67 junction box. Either a PWM or an MPPT controller will drive it, and 12V AGM, gel and lithium banks all suit it.\n\nAt about $44 it is the smallest and cheapest rigid panel of the five. It makes half the output of the HQST in a smaller footprint.\n\nChoose it for a small trailer battery, a cabin pump or a tender. It suits compact roofs.",
     "specs": [
       "50W N-type, 25% efficiency",

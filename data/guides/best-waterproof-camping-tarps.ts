@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41EM7nhQa7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07C3PWWX7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07C3PWWX7?tag=rvgearlab-amz-20",
     "description": "The Gold Armour is a rainfly tarp with a 5,000mm waterproof rating, 2 centerlines and 33 tie-down loops. It comes with stakes, ropes and tensioners, in sizes from 8 ft up to 14 ft by 12 ft.\n\nIt is the only pick with a millimeter rating and the only one built for a taut pitch rather than lying flat. Against the Amazon Basics and Vandham poly sheets, it holds a pitched shape over a hammock or tent.\n\nBackpackers and hammock campers who want rated waterproofing at a low price will like it. It also serves as a footprint or ground sheet.",
     "specs": [
       "5,000mm waterproof rating",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41IgrwKg8YL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0748HGDVD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0748HGDVD?tag=rvgearlab-amz-20",
     "description": "The Amazon Basics tarp measures 9.5 x 11.3 ft in rip-stop fabric laminated with polyethylene on both sides. Reinforced corners and edges carry strategically placed grommets.\n\nIts rip-stop weave stops small tears from spreading, a feature the Vandham plain poly sheet does not name. Against the Gold Armour it has no rating or cord kit, and it costs less than half as much.\n\nCampers who want a cover for firewood, gear or under a tent get a tear-resistant sheet. The listing also names vehicle covers and emergency shelters.",
     "specs": [
       "9.5 x 11.3 ft rip-stop",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/415rwuqy1NL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FJ52LQL8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FJ52LQL8?tag=rvgearlab-amz-20",
     "description": "The Vandham is a 10x12 ft 8 mil tarp made from high-density polyethylene. Rubber triangular reinforcements strengthen the corners, and double-layer edges carry grommets spaced every meter.\n\nIt is the larger of the two poly sheets and comes with complimentary ropes. Against the Gold Armour it has no rating and far fewer tie-down points, and it costs less than half as much.\n\nCamp-site basics like a groundsheet under the tent or a cover over the woodpile suit it. Grommets every meter give wide tie-down spacing.",
     "specs": [
       "10x12 ft, 8 mil HDPE",

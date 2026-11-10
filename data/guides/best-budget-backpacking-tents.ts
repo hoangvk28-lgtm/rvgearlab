@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31XC6vQGRqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CSC7BB38?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CSC7BB38?tag=rvgearlab-amz-20",
     "description": "The JELUCAMP is a 1 to 2 person dome that weighs 4.3 lb on its listing and is 86.6 inches long, 59.1 wide and 43.3 tall. It uses PU3000 coated polyester over 7.9mm fiberglass poles, with a double-layer door for ventilation and insect protection.\n\nAmong the budget picks it pairs a low listed weight with a stated PU3000 coating, which the Wakeman at a similar spend does not give. The Forceatt has aluminum poles and costs more, with no weight figure on its listing.\n\nIt suits a solo hiker or couple on short trips who care about price and a sub 5 lb carry. Setup takes just a few minutes on its listing.",
     "specs": [
       "4.3 lb listed weight",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Yb0O8oi1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CB7MJ8TS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CB7MJ8TS?tag=rvgearlab-amz-20",
     "description": "The Forceatt is a two-person tent with 7001 aluminum poles, a PU3000 to PU5000 coated polyester rainfly and bathtub floor, and two D-shaped doors with side vestibules. Inside it measures 86.6 x 51.1 x 43.3 inches.\n\nIt improves on the JELUCAMP with aluminum poles and two vestibules for packs, and it undercuts the BISINNA on price. The listing mentions a package size rather than a weight, so the JELUCAMP stays the lighter documented pick.\n\nIt fits two hikers who want gear storage at each door and sturdier poles for the money. A claimed 3 minute setup suits quick camps.",
     "specs": [
       "7001 aluminum poles",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Qjossgk4S._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08RBTRWCR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08RBTRWCR?tag=rvgearlab-amz-20",
     "description": "The BISINNA is listed as a 2/4 person freestanding backpacking tent with aluminum poles. It uses 190T polyester taffeta for the inner and fly, B3 no-see-um mesh, 2 D-shaped doors, 13 aluminum stakes and 4 wind ropes.\n\nIt offers the most room here at 92.5 x 86.6 x 51.1 inches, well above the Forceatt, and it is freestanding so it pitches in under 10 minutes. The Reactive Outdoor tent is the one that pitches faster, while the BISINNA wins on floor area.\n\nIt suits a family or two friends sharing a heavier load who want standing room and a freestanding frame. Mesh sections and two doors improve ventilation.",
     "specs": [
       "92.5 x 86.6 x 51.1 inches",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41mLgOWpqRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CV436MTL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CV436MTL?tag=rvgearlab-amz-20",
     "description": "The Reactive Outdoor 3 Second Tent is a one-person pop-up with a self-locking mechanism, a double layer and an HH rating of 3000mm. The listing notes fully taped seams and a wide-mouth bag with buckle straps.\n\nIt pitches faster than any other tent here and keeps the seams sealed, which the cheaper Wakeman does not claim. It costs more than the rest of the list, so it sits at the top of the budget range.\n\nIt suits solo hikers, festival goers and car campers who want an instant shelter more than a low weight. The easy-pack bag helps with repacking in the rain.",
     "specs": [
       "3000mm HH, taped seams",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41RBHHcBtSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0050P22VK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0050P22VK?tag=rvgearlab-amz-20",
     "description": "The Wakeman is a two-person tent listed at 77 x 57 x 40 inches and 2.75 lb with 190T polyester and fiberglass poles. Extras on the listing are a detachable fly, a vent window and a screen-and-fabric door.\n\nIt carries the lowest weight figure and lowest price of the five, ahead of the JELUCAMP on both. The JELUCAMP offers a roomier floor and a stated PU3000 coating that this listing does not give.\n\nIt suits occasional campers, festival trips and day-hike bivouacs where price is the first filter. A 23 inch carry bag keeps the pack small.",
     "specs": [
       "2.75 lb, 77 x 57 x 40 in",

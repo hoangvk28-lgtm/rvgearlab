@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/517iqynnpQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C8TX47J6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C8TX47J6?tag=rvgearlab-amz-20",
     "description": "The DREO Quiet Space Heater is a 1500W PTC ceramic unit whose listing names a child lock, tip-over protection, V0 flame-retardant material, overheat protection and a safety plug, all described as ETL certified. It has a thermostat from 41 to 95°F and 70 degree oscillation.\n\nAgainst the Amazon Basics Oscillating Ceramic, it lists more protections and a child lock but costs more. Against the DREO Wall Heater, it is portable rather than wall mounted.\n\nBest for a cabin heater where the longest list of named protections matters. It still draws about 12.5 amps at full power.",
     "specs": [
       "1500W PTC, ETL certified",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41OtNcltnHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D819MVKF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D819MVKF?tag=rvgearlab-amz-20",
     "description": "The DREO Smart Electric Wall Heater uses PTC heating with 5VA flame-retardant material, overheat protection and an IP24 waterproof rating. It mounts to the wall from a template and offers remote, app and Alexa control with a stated 28 dB noise level.\n\nAgainst the DREO Quiet 319, it keeps the heater off the floor, which removes the tip-over risk, but needs mounting work. It costs less than the Quiet 319 but gives fewer named protections.\n\nBest for owners who want the heater out of foot traffic. Check where you can mount it before ordering.",
     "specs": [
       "PTC wall heater, IP24",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31zzAAM6pjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07HGFB3FQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07HGFB3FQ?tag=rvgearlab-amz-20",
     "description": "The Amazon Basics Portable Oil Radiator has seven oil-filled fins, three settings of 1500, 1000 and 600W, overheat and tip-over protection and ETL certification. It has no fan, so it runs quietly and holds some heat after it is switched off.\n\nAgainst the DREO Quiet 319, it has no fan or thermostat detail but gives a 600W step and no moving parts. Its surface gets hot, which is the tradeoff to a ceramic's cooler housing.\n\nBest for quiet rooms where a fanless heater suits you. It is heavier and slower to warm up.",
     "specs": [
       "Oil-filled radiator, ETL",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41jeXOLyyJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07V7QJG8J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07V7QJG8J?tag=rvgearlab-amz-20",
     "description": "The Amazon Basics Oscillating Ceramic Heater has 45 degree oscillation, High 1500W and Low 900W settings, overheat and tip-over protection and a power indicator. It weighs about 3 pounds.\n\nAgainst the DREO Quiet 319, it names fewer protections and no certification mark but costs far less. Against the oil radiator, it heats faster but uses a fan.\n\nBest for a low-cost heater with both core shutoffs. It lists no ETL or plug detail.",
     "specs": [
       "1500W high, 900W low",

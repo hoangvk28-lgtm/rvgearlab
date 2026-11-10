@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/315IVFTQkEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DTHCH1Y5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DTHCH1Y5?tag=rvgearlab-amz-20",
     "description": "The AONIMI lists 50800mAh with dual 25W PD output over its USB-C cable and port, QC4.0, and 3 built-in cables (Type-C, iOS and Micro). It has 6 outputs and 2 inputs, and can charge 6 devices at once.\n\nIt has the most capacity and the highest listed output of the six, for a small premium. Against the 22.5W banks, it adds 2.5W of PD speed and a Micro cable.\n\nIt suits families and groups who want fast shared charging from one pack. Multiple protection layers and a low-temperature design are listed.",
     "specs": [
       "50800mAh, 25W PD, QC4.0",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ZvEvjCuFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H3216M1F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H3216M1F?tag=rvgearlab-amz-20",
     "description": "The LHUOED combines a wall charger, a 50,000mAh bank, a built-in USB-C cable and a built-in iOS cable, with one USB-C output and one USB-A output. It supports 22.5W charging, recharges in about 6 hours from the foldable AC plug or about 4 hours from USB-C, and has a 3-year warranty.\n\nIt skips the wall brick that every other pick needs and offers the longest warranty alongside the Moihosso. It costs about the same as the AONIMI.\n\nIt suits campers who plug in at hookup sites or in the car and want fewer parts. It lists 8.5 iPhone 17 Pro Max charges.",
     "specs": [
       "50,000mAh, 22.5W, wall plug",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41pKMteGu5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GWM43LJS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GWM43LJS?tag=rvgearlab-amz-20",
     "description": "The YBYP lists 50,000mAh with 22.5W fast charging, 4 built-in cables (Micro-B output, USB-A input, Type-C output and another), a smart LED display and 8-layer safety protection. It measures 4.2 by 2.6 by 1.1 inches and weighs 0.7 lb, and is described as 30 percent smaller and 15 percent lighter than traditional high-capacity banks.\n\nIt is the smallest of the group, and its price sits close to the OHOVIV. It trades the AONIMI's 25W for 22.5W.\n\nIt suits backpackers who want a big bank in a small shape. A 30 minute charge takes an iPhone to 55 percent.",
     "specs": [
       "50,000mAh, 0.7 lb, 4.2 inch long",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41VrfCCX9iL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DWMS2VRH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DWMS2VRH?tag=rvgearlab-amz-20",
     "description": "The OHOVIV lists 50,000mAh with 4 built-in cables (iPhone, Type-C, Micro and USB-A), 3 ports (2 USB-A and 1 Type-C) and 22.5W PD with QC4.0. It measures 5.82 by 2.83 by 1.18 inches and lists 10 iPhone 15 charges.\n\nIt adds two USB-A ports that the YBYP lacks, and it is slightly cheaper. It has more total outputs than the Moihosso.\n\nIt suits groups that charge six things at once. Ten protection systems are listed.",
     "specs": [
       "50,000mAh, 4 built-in cables",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Ps1wcF0eL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FXB3BG79?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FXB3BG79?tag=rvgearlab-amz-20",
     "description": "The YILANS lists 50,000mAh with 22.5W PD 3.0 and QC 4.0, 4 built-in cables (USB-C, iOS, Micro-USB and USB-A), a bidirectional USB-C port and 2 USB-A outputs. It claims over 10 iPhone 17 charges and an LED display.\n\nIt is similar to the OHOVIV and costs a bit less, and it names an upgraded smart chip with intelligent temperature control. It sits in the middle on size.\n\nIt suits campers who weigh safety features and want six devices charged at once. The listing says the brand is trusted by over 30 million users.",
     "specs": [
       "50,000mAh, 22.5W PD 3.0",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ngkYqBpCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H2YQ5TY8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H2YQ5TY8?tag=rvgearlab-amz-20",
     "description": "The Moihosso lists 50,000mAh with 22.5W fast charging, built-in USB-C and iOS cables, an extra USB-C port, an LED display and an emergency flashlight. It carries fire-retardant materials and a 3-year replacement plan.\n\nIt is the cheapest pick and the only one with a flashlight, and it matches the LHUOED on warranty. It has fewer built-in cables than the others.\n\nIt suits budget campers who want a flashlight in the bank and a long replacement plan. A 3-year care plan is listed.",
     "specs": [
       "50,000mAh, 22.5W, flashlight",

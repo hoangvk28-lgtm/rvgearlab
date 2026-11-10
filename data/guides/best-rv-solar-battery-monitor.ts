@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41KiVa2nGBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GWCG4Q6P?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GWCG4Q6P?tag=rvgearlab-amz-20",
     "description": "The LiTime 500A is a Bluetooth smart shunt for 8V to 120V systems, tracking current, voltage, power and SOC in an app. It keeps history on discharge capacity and cycles and supports low-capacity and over-voltage alarms. It costs $99.99 with a 1-year warranty.\n\nIt is $36.89 more than the Renogy 500A and $32.00 more than the Sentorise 500A. You pay for Bluetooth and history that neither display unit has. Pick this for a solar bank where you want to check numbers on the phone. Caveat: warranty is 1 year, shorter than some battery makers.",
     "specs": [
       "500A shunt, 8V to 120V",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41TdVPWnbyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07RP5B5P7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07RP5B5P7?tag=rvgearlab-amz-20",
     "description": "The Renogy 500A is a $63.10 shunt monitor with a backlit display for 12V, 24V and 48V banks. It shows voltage, current, consumed power and battery capacity, and ships with a 20 foot shielded cable. Listing claims 1% measurement accuracy.\n\nIt is $4.89 cheaper than the Sentorise 500A and $36.89 cheaper than the LiTime 500A. You give up the IP68 body and the phone app. Pick this if you want a plain display that tells you how much solar is charging. Caveat: no app or logging is listed.",
     "specs": [
       "500A shunt, 12V/24V/48V",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Q-Lzt-eHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G7G64HCH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G7G64HCH?tag=rvgearlab-amz-20",
     "description": "The Sentorise 500A costs $67.99 and covers 8V to 120V and 0 to 500A. Its IP68 case and LCD show voltage, current, power, Ah and remaining time, and a buzzer sounds every 10 seconds when the battery runs low. The kit includes shunt, bracket and wiring guide.\n\nIt is $4.89 above the Renogy 500A and $31.99 below the LiTime 500A. It adds IP68 sealing and a remaining-time readout, but no app. Pick this if the monitor lives in a damp bay or open compartment. Caveat: it uses physical buttons for setup.",
     "specs": [
       "0 to 500A, 8V to 120V",

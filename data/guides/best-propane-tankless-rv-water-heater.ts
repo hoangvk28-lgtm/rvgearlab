@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zGYdKy8lL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B098THLN39?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B098THLN39?tag=rvgearlab-amz-20",
     "description": "FOGATTI InstaShower 8 Plus is a propane tankless heater at 55,000 BTU with a stated maximum of 2.9 GPM and a high-altitude mode to 9,800 feet. It fits a 13 by 13 inch opening and includes a built-in pressure relief valve, a 15 inch door and a 2 meter remote.\n\nAgainst ORBEK 60K, it has an included door and remote. Against ORBEK High Altitude, it states 9,800 feet.\n\nIt is the best match for owners who want a complete tankless kit with door and remote. It is a natural fit for complete tankless kit.",
     "specs": [
       "55,000 BTU propane tankless",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41l0bDLT7WL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FR8NDM36?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FR8NDM36?tag=rvgearlab-amz-20",
     "description": "ORBEK RV Tankless has a 60,000 BTU propane burner with 12 volt DC power, oxygen-free copper heat exchangers and brushless DC fans. The listing says it has a 150 PSI pressure reducing valve and fits 15 by 15, 15 by 18 and 18 by 18 inch doors.\n\nAgainst FOGATTI InstaShower 8 Plus, it has a higher burner and optional doors. Against ORBEK High Altitude, it is the earlier listing.\n\nIt suits larger families that want more burner power. Think of it as the pick for larger families.",
     "specs": [
       "60,000 BTU, 12V DC",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41UpeSyMkUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GTCX1RWF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GTCX1RWF?tag=rvgearlab-amz-20",
     "description": "ORBEK High Altitude is a 60,000 BTU propane tankless heater with 12 volt DC power and stated flow of 3.5 to 3.9 GPM. The listing says it is CSA certified and available in black or white with three door sizes.\n\nAgainst ORBEK 60K, it adds CSA wording and a stated flow. Against FOGATTI InstaShower 8 Plus, it has a higher burner.\n\nIt suits owners who want a CSA-listed tankless with a named altitude version. Buyers focused on altitude-named tankless will find it a sensible match.",
     "specs": [
       "60,000 BTU, 12V DC",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hx4ZhVW8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FZTSVTYX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FZTSVTYX?tag=rvgearlab-amz-20",
     "description": "CAMPLUX 6 Gallon Black is a propane and electric hybrid tank, not a tankless unit. The listing says it drops into most 4 to 6 gallon cutouts and sets modes and temperature from an interior panel.\n\nAgainst the tankless picks, it stores hot water and recovers slowly. Against KINGRVER 6, it uses a panel instead of a remote.\n\nIt is included for owners who find a tank hybrid in a tankless search. It earns its slot for tank hybrids.",
     "specs": [
       "6 gallon propane and electric tank",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zLGxCIHoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GBWPZ46Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GBWPZ46Q?tag=rvgearlab-amz-20",
     "description": "KINGRVER 6 Gallon is a gas, electric or hybrid tank heater with a remote that sets 104 to 140 degrees F. The listing says gas mode uses 12 volt DC ignition.\n\nAgainst CAMPLUX Black Tank, it has a remote controller. Against the tankless picks, it stores a reserve.\n\nIt is included for owners comparing tank hybrids. It is a natural fit for tank hybrids.",
     "specs": [
       "6 gallon hybrid tank",

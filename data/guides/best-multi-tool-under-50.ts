@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hzhV8uG6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DRYN736K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DRYN736K?tag=rvgearlab-amz-20",
     "description": "The Mossy Oak 27-in-1 has a CNC-machined stainless steel plier head and a 7Cr17MoV stainless steel blade. A liner lock and a back lock keep every blade and tool in place.\n\nIt names its blade steel and uses two lock types, which the Mossy Oak 12-in-1 and Grand Way do not. It opens with one hand and carries on a belt clip or carabiner.\n\nIt suits campers who want the most capable tool under the ceiling. Tools include a whistle, a fire starter and a saw.",
     "specs": [
       "27-in-1, CNC-machined pliers",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41pbKmetRpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07KTVG5PS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07KTVG5PS?tag=rvgearlab-amz-20",
     "description": "The dpnao is a 5 inch multi-tool with seven tools, including an adjustable wrench, pliers, wire cutter and flat and Phillips screwdrivers. It uses a self-locking system and stainless steel construction.\n\nIt is the only pick with an adjustable wrench, which suits bolt and nut work that pliers handle poorly. It has fewer tools than the Mossy Oak 27-in-1.\n\nIt works for campers who tighten bolts on racks and gear. The 5 inch body is easy to carry.",
     "specs": [
       "7 tools, adjustable wrench",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51YdKDY1byL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C4DMFR3J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C4DMFR3J?tag=rvgearlab-amz-20",
     "description": "The Mossy Oak 12-in-1 is a folding multi-tool knife with an awl with thread loop, scissors, a knife, a large slotted screwdriver and a belt clip. A self-locking system keeps tools in place, and it comes with an Oxford pouch.\n\nIt is smaller and cheaper than the 27-in-1 and has scissors instead of pliers. The belt clip and Oxford pouch cover carry.\n\nIt suits campers who want a pocket knife with extras. The scissors handle tape and cord.",
     "specs": [
       "12-in-1 folding knife style",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51nDLEm525L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0881TVT9Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0881TVT9Y?tag=rvgearlab-amz-20",
     "description": "The Grand Way 24-in-1 includes pliers, an electrician wire cutter and stripper, a folding knife, a can and bottle opener, a metal file and screwdrivers with 11 bits. It comes with a nylon sheath.\n\nIt carries the most driver bits of the five and costs less than the Mossy Oak kits. It has no lock details in the listing.\n\nIt suits campers who want a bit set and a sheath at a low price. The file and wire stripper handle small jobs.",
     "specs": [
       "24-in-1 with 11 bits",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41VjGRiG0BL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07VW96CVJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07VW96CVJ?tag=rvgearlab-amz-20",
     "description": "The fangfo 14-in-1 has long nose, round nose and cutting pliers, a sharp knife and a Phillips screwdriver. A side lock holds every tool except the pliers heads when open, and a nylon sheath is included.\n\nIt is the cheapest tool here and still locks its tools, which the Grand Way does not describe. It carries fewer functions than the 24-in-1.\n\nIt is a good choice for campers who want a spare tool in a vehicle. The side lock keeps it safe to use.",
     "specs": [
       "14-in-1 with three pliers heads",

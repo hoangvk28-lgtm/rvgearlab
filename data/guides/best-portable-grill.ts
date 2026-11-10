@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41RshCd6PkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00F3BHB80?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00F3BHB80?tag=rvgearlab-amz-20",
     "description": "Cuisinart is a tabletop two-burner propane grill with two stainless steel burners at 10,000 BTU each for 20,000 BTU total. The listing says you can be grilling in less than 10 minutes, with stainless steel grates for full-size performance in a compact body.\n\nIt is the best-known name in the group, and it pairs two burners with stainless grates, which the one-burner Nexgrill and Megamaster do not. The build quality is a step above the budget two-burner.\n\nTailgaters and campers who want a dependable two-zone grill will like the quick setup. It fits on most picnic tables with room to spare.",
     "specs": [
       "20,000 BTU, 2 stainless burners",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41lCVSBME0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GR47TWTM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GR47TWTM?tag=rvgearlab-amz-20",
     "description": "Bestfire is a tabletop two-burner propane grill with 20,000 BTU total and push-button ignition. It has a stainless steel body, a removable lid and removable legs for tool-free assembly.\n\nIt matches the Cuisinart on listed BTU and costs about half as much. The removable legs let it stow flatter.\n\nBudget campers who still want two burners will like the price. Setup needs no tools, so it is ready quickly.",
     "specs": [
       "20,000 BTU two-burner",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31SAGcroFpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07P7M1NH8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07P7M1NH8?tag=rvgearlab-amz-20",
     "description": "Megamaster is a tabletop one-burner propane grill with 11,000 BTU from a stainless steel burner and 360 square inches of cooking space. Foldable legs and a warming rack are included, and the steel frame has a heat-resistant finish.\n\nAt 360 square inches it has more room than the Nexgrill or the charcoal grill, and the warming rack keeps cooked food warm. It is simpler than the two-burner models.\n\nFamilies who cook a lot of burgers at once will like the large grate. The warming rack helps with timing a full meal.",
     "specs": [
       "11,000 BTU, 1 burner",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31jHVMpdm5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B6JSZ4P4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B6JSZ4P4?tag=rvgearlab-amz-20",
     "description": "Nexgrill is a compact one-burner tabletop gas grill with a lightweight cast aluminum frame and a cast iron cooking grate. It has 183 square inches of cooking space.\n\nCast iron grates give better sear marks than the stainless grates on others, and the cast aluminum body keeps weight down. It is smaller than the Megamaster.\n\nCouples who want sear-friendly grates will like how it cooks. It tucks into a small trunk with ease.",
     "specs": [
       "183 sq in cooking space",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/312qDhvO8pL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B076FKHRLD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B076FKHRLD?tag=rvgearlab-amz-20",
     "description": "George Foreman is an indoor and outdoor electric grill with a removable stand, a tough nonstick coating and five adjustable temperature settings. It serves up to 15 people.\n\nIt is the only electric option here, and it is ideal where propane or charcoal is banned. The removable stand lets it move from patio to counter.\n\nRV campers and balcony cooks with power will like the no-flame approach. Plug it in and the cooking is simple.",
     "specs": [
       "Indoor and outdoor electric grill",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41uSrunSvkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H8FNC619?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H8FNC619?tag=rvgearlab-amz-20",
     "description": "GasOne is a 14 inch portable charcoal grill with 150 square inches of cooking surface, a thermometer and a 3-point locking lid. A dual ventilation system controls airflow.\n\nIt is the least expensive and the lightest to carry, and the thermometer is rare at this price. The locking lid secures it for transport.\n\nBeach, park and campsite cooks on a budget will like it. It packs easily into a beach bag or trunk.",
     "specs": [
       "14 inch, 150 sq in grate",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41smiJHWSgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DTH52WT1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DTH52WT1?tag=rvgearlab-amz-20",
     "description": "The NORTHYARD is a 9-inch cargo short with seven pockets, 4-way stretch fabric and an elastic side waistband with a zip fly and belt loops. The listing names UPF 50+ sun protection, a water-repellent finish and flatlock seams to reduce chafing.\n\nSeven pockets give it the most storage of the group, ahead of the Pudolla Cargo 9-Inch with five zippers and the Libin Cargo with five. Flatlock seams are a detail the Jessie Kidden Expandable and Boonlight Cargo do not list.\n\nIt suits a hiker who wants one short for the whole trail, with a place for every small item and sun cover for open ridgelines. The 9-inch cut sits at a sensible length for most legs.",
     "specs": [
       "7 pockets, 9 inch inseam",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41QNn7+vGeL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07S7W5DMP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07S7W5DMP?tag=rvgearlab-amz-20",
     "description": "The Jessie Kidden is a lightweight cargo short with a partly elastic waist and an included belt, built from wicking fabric with UPF 50 sun protection. Six pockets are listed, two front slash, two back and two zippered thigh pockets.\n\nThe included belt gives a firmer fit than the drawstring-only Libin Cargo and MOHEM Cargo. It has more pockets than the Boonlight Cargo, and the zippered thigh pockets hold a phone more securely than open flaps.\n\nIt fits a hiker who likes a belted waist for a heavy pack and wants wicking fabric with a water-repellent finish. It also works for town stops after a resupply.",
     "specs": [
       "Partly elastic waist plus belt",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41u4y6JWHHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B1LX9FGW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B1LX9FGW?tag=rvgearlab-amz-20",
     "description": "The Pudolla is a 9-inch hiking cargo short with five deep zipper pockets, UPF 50+ fabric and a durable water-repellent finish. The back of the waistband is elastic, with a button closure, zip fly and 2-inch belt loops.\n\nEvery pocket zips, which the NORTHYARD Cargo 9-Inch does not list for all seven, and it costs less than that pick. Compared with the Jessie Kidden Expandable it has an elastic back waist that gives more flex.\n\nIt is a strong match for a hiker who wants to keep a phone, a wallet and a key from bouncing out on scrambles. Zipped pockets let you move fast.",
     "specs": [
       "5 deep zipper pockets",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/310ax1YTXzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BQQWTBML?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BQQWTBML?tag=rvgearlab-amz-20",
     "description": "The Libin is a 10-inch inseam cargo short in light, slightly stretchy fabric with UPF 50+ protection and water-resistant behavior. Five pockets include two side zippers, two flap cargo pockets with hook-and-loop and a back zipper pocket.\n\nAt 10 inches it is the longest short here, so it covers more of the thigh than the Pudolla Cargo 9-Inch and the NORTHYARD. A wide elastic waistband with an inner drawstring gives a softer feel than the Jessie Kidden Expandable.\n\nIt suits a hiker with sun-prone legs or someone who dislikes short cuts. The long length also helps against brush on overgrown trail.",
     "specs": [
       "10 inch inseam, UPF 50+",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ZO5PEmUAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GL2G7PZ1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GL2G7PZ1?tag=rvgearlab-amz-20",
     "description": "The Boonlight is a relaxed-fit cargo short in lightweight, quick-dry, breathable fabric with a flexible waistband. The listing describes multiple pockets for a phone, keys and a wallet, and says it is machine washable.\n\nIt is simpler than the NORTHYARD Cargo 9-Inch and the Pudolla Cargo 9-Inch, with a looser cut that gives more air flow on a hot climb. It is also easier on the budget than the Jessie Kidden Expandable.\n\nIt is a decent choice for a hiker who values comfort and a baggy cut over technical detail. It works for camp, work and travel as well as the trail.",
     "specs": [
       "Relaxed fit, quick-dry fabric",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31oUpQn3jwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F9NKK9BG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F9NKK9BG?tag=rvgearlab-amz-20",
     "description": "The MOHEM is a lightweight, quick-dry cargo short with UPF 50+ fabric, two side zipper pockets and two cargo pockets. A stretch waistband with an adjustable inner drawstring keeps it in place during activity.\n\nIt has the lowest price in the group while still listing UPF 50+ sun cover, which the Boonlight Cargo does not. It has fewer pockets than the Libin Cargo 10-Inch and no inseam number.\n\nIt suits a hiker who wants a cheap, light backup short or a first pair to try before spending more. The stretch waist keeps it comfortable on long days.",
     "specs": [
       "UPF 50+, quick-dry fabric",

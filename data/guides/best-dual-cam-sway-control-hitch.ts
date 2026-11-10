@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/312977Dd-WL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09ZMM7W9P?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09ZMM7W9P?tag=rvgearlab-amz-20",
     "description": "The Reese 66092 pairs weight distribution with Dual Cam II active sway control at an 8,000 lb capacity, and includes Dual Cam II replacement brackets and a ball mount. The listing says it installs without drilling or relocating propane tanks, batteries or other A-frame items.\n\nIt ranks first because it states a capacity and the Dual Cam II features, including spring bars that automatically engage sway control when hooked up and a quieter ride. It costs about $76 more than the Reese 66091 below for 2,000 lb more capacity.\n\nBest for a larger travel trailer that needs active sway control without drilling. The listing does not state a tongue weight limit, so confirm it.",
     "specs": [
       "Dual Cam II active sway control",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/312977Dd-WL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09ZMK2MXX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09ZMK2MXX?tag=rvgearlab-amz-20",
     "description": "The Reese 66091 is the 6,000 lb version of the Dual Cam II kit, with replacement brackets and a ball mount. The listing gives the same fully automatic sway control, no drilling and no U-bolts as the 66092.\n\nCompared with the Reese 66092 above it rates 2,000 lb lower and costs less. Against the Draw-Tite 26002 below it is a full kit with a stated capacity, where the 26002 listing describes only the cam system.\n\nBest for a mid-size travel trailer within the 6,000 lb capacity. Check your loaded trailer weight and tongue weight against the rating before ordering.",
     "specs": [
       "Dual Cam II active sway control",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41bu-wNFU8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B000O5DV84?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B000O5DV84?tag=rvgearlab-amz-20",
     "description": "The Reese 26002 Dual Cam High-Performance listing under Draw-Tite describes active sway control that holds down the start of sway while allowing free vehicle and trailer movement. The cam system installs on the trailer and does not need adjusting at each hookup unless hitch weight or tow vehicle loading change.\n\nIt costs less than half of the Reese Dual Cam II kits and mentions integrated cams in the spring bars that reduce noise. The listing does not state a capacity or say whether the hitch head and bars are included.\n\nBest for an owner who already has a compatible weight distribution hitch and wants to add the dual cam parts. Confirm what the package includes before ordering.",
     "specs": [
       "Dual cam system on the trailer",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41kesJR6+hL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B000BH1I80?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B000BH1I80?tag=rvgearlab-amz-20",
     "description": "The other Reese 26002 Dual Cam Sway Control listing, marked not vehicle specific, has no feature bullets. It gives package dimensions of 24.91 by 5.51 by 9.11 inches, a weight of 28.5 pounds and a country of origin of China.\n\nIt costs about $4 less than the Draw-Tite 26002 and appears to be the same part number, but with no description you cannot confirm it. The Draw-Tite 26002 at least lists the cam system features.\n\nBest only if the seller confirms the package contents and compatibility. Otherwise the Draw-Tite 26002 is the safer listing for the same part number.",
     "specs": [
       "Part number 26002",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zupLuNYAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DJVVLLQK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DJVVLLQK?tag=rvgearlab-amz-20",
     "description": "The Nilight Adjustable Trailer Sway Control Kit is not a dual cam system. It is a friction bar kit with on and off control, double friction pads and a crank handle, and it can be turned off on icy roads.\n\nUnlike the Reese dual cam parts, it resists sway by friction instead of pushing the trailer back to center, and it costs far less. It does not provide weight distribution.\n\nBest for a camper owner who wants a low-cost friction option that can be turned off. It is not a substitute for a dual cam system on a heavy trailer.",
     "specs": [
       "Friction bar, on and off control",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31SvCinha7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GVS14F1G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GVS14F1G?tag=rvgearlab-amz-20",
     "description": "The BZNJJPLS 48388 is a trailer sway control ball plate sold as a replacement for 48380 and 48381, parts listed for Eaz-Lift and Camco sway control. It is made of steel with a rust-resistant coating and comes with mounting hardware.\n\nIt is the cheapest item in this list and not a dual cam system or a hitch. It is an accessory for an existing Camco sway control setup.\n\nBest for replacing a lost ball plate on a Camco or Eaz-Lift sway control system. It does nothing for sway on its own.",
     "specs": [
       "Replaces 48380 and 48381",

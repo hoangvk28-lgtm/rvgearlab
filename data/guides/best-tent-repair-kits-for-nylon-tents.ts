@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41JgKNWHzeL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H44PMCZD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H44PMCZD?tag=rvgearlab-amz-20",
     "description": "The Fadoub is a self-adhesive nylon roll, 4 by 63 inches, listed in black and in white or translucent options. It bonds to nylon, polyester, canvas, cotton, denim and blends, and needs no sewing, ironing or heat gun.\n\nIt is the least expensive of the three and gives color choice that the Cahomo and Yikda do not. The listing says one roll covers many repairs, from pinholes to large tears.\n\nIt suits a nylon-tent camper who wants a roll in a color to match. The 4 inch width handles most rips.",
     "specs": [
       "4 x 63 inch nylon roll",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zeRt7nqlL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D8PNQJ8L?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D8PNQJ8L?tag=rvgearlab-amz-20",
     "description": "The Cahomo tape is a black ripstop nylon strip, about 3 by 79 inches or 3.9 by 7.9 inches. The listing names it for tents, umbrellas, down jackets, sleeping bags and knapsacks.\n\nIt is the longest roll of the three, and it is the one called ripstop nylon, which matches ripstop tent walls. It costs a little more than the Fadoub and Yikda.\n\nIt suits a nylon-tent camper who wants a ripstop look. A long strip is good for seams.",
     "specs": [
       "3 x 79 inch ripstop nylon",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41t8u63-QGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GHR1YVC5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GHR1YVC5?tag=rvgearlab-amz-20",
     "description": "The Yikda tape is a high-density nylon roll with a waterproof coating, about 4 by 70 inches in black. It is listed for down jackets, puffer jackets, tents and backpacks.\n\nIt is longer than the Fadoub's 63 inches and wider than the Cahomo. The listing says a repair takes about 30 seconds.\n\nIt suits a camper who wants the longest 4-inch roll in this group. The roll can be cut to any shape.",
     "specs": [
       "4 x 70 inch nylon roll",

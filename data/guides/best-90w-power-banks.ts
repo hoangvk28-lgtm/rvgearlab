@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31m98zgXoAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GQLVMXT2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GQLVMXT2?tag=rvgearlab-amz-20",
     "description": "The JUOVI lists two USB-C ports that each reach 90W on their own, two USB-A ports at 27W and 65W self-charging in about 2.5 hours. A 2-in-1 detachable cable works as a charger and a lanyard.\n\nIt posts the most detailed spec list of the four, including the 20000mAh cell that charges a 14 inch MacBook Pro once. Against the NOBIS attached-cable model it keeps the cable removable, and next to the JUOVI 4-port it adds that cable.\n\nIt suits a remote worker who wants one bank for a laptop, a phone and a tablet. The listing names overcharge, overheat and short-circuit protection.",
     "specs": [
       "90W on each USB-C port",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31R2Ywjk70L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GVYBWNCR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GVYBWNCR?tag=rvgearlab-amz-20",
     "description": "The NOBIS lists 90W charging that takes a laptop to 52 percent and an iPhone 17 Pro to 70 percent in 30 minutes, with self-charging to 100 percent in 1.8 hours. An attached USB-C cable and four ports ride on a flight-friendly 20000mAh cell.\n\nIt recharges faster than the JUOVI, which lists 2.5 hours, and the attached cable removes one thing to forget. Compared with the NOBIS 4-port model, it keeps a built-in cable for quick plug-in use.\n\nIt suits a traveler who wants fast recharge and a cable that stays attached. The 1 percent accurate display keeps tabs on the remaining charge.",
     "specs": [
       "90W, 1.8 hour self-charge",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41jJAxCdYwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GGZ447T2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GGZ447T2?tag=rvgearlab-amz-20",
     "description": "The JUOVI 4-port lists 90W fast charging with two USB-C and two USB-A ports and support for PD, PPS, QC, FCP and SCP protocols. It is described as airline-compliant and compatible with MacBook, Dell and ThinkPad laptops.\n\nIt is the lowest priced JUOVI of the group and drops the detachable cable. Against the NOBIS 4-port model, it names more protocols and lists an automatic stop when a device is full.\n\nIt suits a camper with mixed laptop and phone chargers who wants wide protocol support. The four-port layout keeps chargers from competing for a single socket.",
     "specs": [
       "90W laptop charging",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31RnCHCDIDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GHMXFP11?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GHMXFP11?tag=rvgearlab-amz-20",
     "description": "The NOBIS 4-port lists up to 90W output with 65W self-recharging, two USB-C and two USB-A ports and a 20000mAh cell. A low-current mode keeps small devices running for up to 2 hours without auto-shutdown.\n\nIt is the lowest priced option and matches the other three on output wattage. Compared with the NOBIS Attached Cable model, it drops the cable and the faster 1.8 hour refill for a lower price.\n\nIt suits a budget laptop camper who already owns the cables. The low-current mode helps with a GPS or a watch.",
     "specs": [
       "90W, 65W self-recharge",

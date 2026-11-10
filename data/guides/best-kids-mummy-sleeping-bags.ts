@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51nK3VTfVlL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0992MSM9T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0992MSM9T?tag=rvgearlab-amz-20",
     "description": "KidzAdventure sells this mummy in a kids size fitting up to 4 ft 3 and a youth size for older children, and the listing gives a 32 to 59F range. A pillow sleeve, a backpack-style sack and a weight of about 2 lb are listed.\n\nIts range runs colder than the REDCAMP's 41 to 59F, and it is lighter than the Gold Armour's roughly 3 lb. A theme print is offered in an ocean design, and a girls' print uses the same bag.\n\nIt suits kids who camp in three or four seasons and like carrying their own bag. The pillow sleeve keeps a pillow in place overnight.",
     "specs": [
       "32 to 59F stated range",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41gK404SfAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FNCVGGD4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FNCVGGD4?tag=rvgearlab-amz-20",
     "description": "KingCamp builds this mummy for children aged 10 to 12 with 2 by 150 g/m2 dual-layer synthetic fill, a 100 percent cotton flannel lining and a 190T polyester shell with a water-resistant coating. The listing calls the shape a mommy cut tailored to a child's body.\n\nThe cotton flannel inside is quieter and softer than the polyester linings of the OGERY and Gold Armour, and the rating is 43F. It costs the most of the five.\n\nIt suits older kids who sleep cold and want a soft lining. The water-resistant outer handles light damp.",
     "specs": [
       "43F rating",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41t0bvRFblL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07GB1S5BY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07GB1S5BY?tag=rvgearlab-amz-20",
     "description": "The REDCAMP kids mummy measures 67 by 25.5 by 19.6 inches and weighs 2.4 lb, with a stated temperature range of 41 to 59F and a packed size of 9.8 by 13.3 inches. It can be folded and zipped to 4 ft 6 for a smaller child.\n\nThat fold-and-zip trick lets a small child use the bag now and a bigger one later. A single pull string, Velcro snaps that cover the outside zipper and a storage bag with carry straps are the safety and convenience details.\n\nIt suits parents who want one bag to last a few years. The soft liner will not catch in the zipper.",
     "specs": [
       "67 inches long, 2.4 lb",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41b-D4LADtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GJSV9M54?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GJSV9M54?tag=rvgearlab-amz-20",
     "description": "The OGERY is a 3-season toddler bag with a soft cotton lining, high-density hollow fiber fill and a 190T polyester shell. A bottom zipper adjusts temperature, and the two-way anti-snag zippers are meant for small hands.\n\nIt is the toddler-sized option in this guide, and the bottom zipper lets a parent vent heat at the foot. The listing says it is machine washable and holds its shape.\n\nIt suits families camping with a young child who need an easy-care bag. The anti-snag zippers help small hands.",
     "specs": [
       "3 season toddler bag",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31U7MbmxFeS._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07ZXMQW29?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07ZXMQW29?tag=rvgearlab-amz-20",
     "description": "Gold Armour rates this mummy at 25 degrees F and sizes it at 86.6 by 33 inches, about 3 lb with 350 g/m2 cotton filling. A 100 percent polyester lining and a 230T polyester outer are listed.\n\nIt is the coldest rated and the longest of the five, so it fits teens and adults and is not a true child size. It costs the least here.\n\nIt suits teens who have outgrown kids bags and need a cold-weather option at a low price. Younger kids will swim in it.",
     "specs": [
       "25F rating",

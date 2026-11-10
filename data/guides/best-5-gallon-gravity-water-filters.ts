@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Ove6BeoTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07R637B6Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07R637B6Y?tag=rvgearlab-amz-20",
     "description": "OutbackWater builds its system in a compact 5 gallon bucket. Water poured into the upper chamber passes through a 4-stage chain: net pre-filter, sleeve pre-filter, Nano pre-filter and a multi-media cartridge. The listing claims up to 24 gallons per day.\n\nCompared with the Crown Berkey it uses a plastic bucket and is aimed squarely at lake, river, stream and stored rainwater, not tap water. Every stage is replaceable, and the version listed here bundles an extra filter set.\n\nA solid fit for RV bases, hunting camps and cabins where power cuts or boil advisories are a real possibility. It sets up in minutes and stores away between uses.",
     "specs": [
       "5 gallon bucket design",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31CXq1lK2iL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B001CJM646?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B001CJM646?tag=rvgearlab-amz-20",
     "description": "The Crown Berkey is a stainless steel countertop gravity system holding 6 gallons and shipping with two Black Berkey BB9-2 elements. Each pair of elements is listed at up to 6,000 gallons before replacement.\n\nAgainst the OutbackWater 5 Gallon it holds a little more water and carries a much longer filter life, plus independent lab testing for over 200 contaminants. A separate version adds fluoride and arsenic reduction elements for tap water.\n\nGreat for a long-stay RV, a family cabin or a home emergency stash where one big stainless reservoir is welcome. The steel body is sturdier than a bucket.",
     "specs": [
       "6 gallon stainless body",

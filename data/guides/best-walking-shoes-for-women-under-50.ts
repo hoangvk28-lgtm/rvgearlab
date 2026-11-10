@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Cp0uwWTAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01E6WWMEO?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01E6WWMEO?tag=rvgearlab-amz-20",
     "description": "The DUOYANGJIASHA Lightweight weighs 5.7 oz per shoe in size 7 and pairs memory foam insoles with a breathable mesh lining and an EVA outsole. The listing offers twelve colors, from black and white to dark gray.\n\nIt is the lightest shoe in this list and the one with the most specific cushioning claim, ahead of the HARENCE Mesh Sneaker. Compared with the Diarilip Comfort, it leans toward everyday walking and travel rather than long shifts.\n\nIt suits women who want a feather-light shoe for errands, commuting and weekend trips. The memory foam footbed molds to the foot over time.",
     "specs": [
       "5.7 oz per shoe, size 7",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51jCoGKU0dL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F3VVTV61?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F3VVTV61?tag=rvgearlab-amz-20",
     "description": "The HARENCE Mesh Sneaker has a thick EVA foam midsole described as offering rebound and shock absorption, a woven mesh upper and a textured slip-resistant outsole. Each shoe weighs about 0.5 lb.\n\nAgainst the DUOYANGJIASHA Lightweight, it gives more midsole material underfoot for harder surfaces. Next to the YHOON Slip-On, it uses laces for a better lockdown.\n\nIt suits women who want a more traditional lace-up sneaker for walking, gym visits and errands. Insoles are shaped to follow the arch.",
     "specs": [
       "Thick EVA foam midsole",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41TT+Ddl8cL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FP2F4Y22?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FP2F4Y22?tag=rvgearlab-amz-20",
     "description": "The Diarilip Comfort is described for workers on their feet for long shifts, with a deep-siped rubber outsole, cushioned insoles and a breathable elastic knit and mesh upper. The listing also mentions reinforced stitching.\n\nCompared with the HARENCE Mesh Sneaker, it is aimed at standing and walking all day, such as retail, waiting tables and nursing. It is also priced lower than most picks here.\n\nIt suits women with active jobs who want slip-resistant soles on a budget. The knit upper stretches to hold the foot.",
     "specs": [
       "Deep-siped rubber outsole",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41YXkf28DtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DR5H4T1L?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DR5H4T1L?tag=rvgearlab-amz-20",
     "description": "The YHOON Sock Shoe is a pull-on mesh shoe with a skin-friendly upper and a textured EVA outsole for slip and abrasion resistance. The raised heel-to-toe drop and streamlined profile suit casual wear.\n\nNext to the DUOYANGJIASHA Lightweight, it gives no weight figure and no named insole. It does cost about the same as the lowest-priced picks.\n\nIt suits women who like a no-fuss slip-on for shopping, travel and short walks. The pull-on design makes it a good airport shoe.",
     "specs": [
       "Pull-on mesh upper",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41v6Qa5RQYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DJZ8PCYY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DJZ8PCYY?tag=rvgearlab-amz-20",
     "description": "The EWUHA Barefoot is a wide-toe-box shoe with a breathable mesh upper and a non-slip rubber sole with a deep lug pattern. The listing sells it for walking, hiking, gym and water use.\n\nNext to the cushioned HARENCE Mesh Sneaker, it sits closer to the ground and gives toes more room. It is among the cheapest picks.\n\nIt suits women who prefer minimalist footwear and want a versatile shoe from gym to beach. The wide toe box lets toes relax.",
     "specs": [
       "Wide toe box",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41jhsZcLjzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CRV8Y7T7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CRV8Y7T7?tag=rvgearlab-amz-20",
     "description": "The ziitop Water Shoe has a breathable open mesh upper for fast draining, a heel pull tab and a strong anti-slip rubber sole with raised points. The listing describes protection from sharp objects in the water.\n\nIt is the only shoe in the group made for wet use, from creeks to beaches. Against the YHOON Sock Shoe, it offers more traction and protection for wet ground.\n\nIt suits women who walk shorelines, wade streams or want a quick-dry shoe for travel. Lacing adjusts the fit to foot width.",
     "specs": [
       "Open mesh, quick dry",

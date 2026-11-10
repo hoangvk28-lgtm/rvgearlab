@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41lHwD71PzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CTQ3334D?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CTQ3334D?tag=rvgearlab-amz-20",
     "description": "The Redodo 2-Pack gives you two 12.8V 100Ah Group 31 batteries, about 2560Wh nominal, with Bluetooth 5.0 monitoring and low temperature cut off protection. Each weighs about 22.5 lb, and the listing says up to 16 identical units can be wired in a 4P4S bank.\n\nAt $528.99 it costs $66.72 less than the LiTime 2-Pack and $259 more than the NewtiPower 200Ah. Pick this if your tray takes two Group 31 batteries and you want app monitoring and cold weather charge protection. The caveat is that each battery has its own BMS limit, so heavy inverter loads rely on both sharing the draw.",
     "specs": [
       "2 x 12.8V 100Ah, Group 31",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51-+VpVlYnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BCKJLB3N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BCKJLB3N?tag=rvgearlab-amz-20",
     "description": "The LiTime 2-Pack is two 12V 100Ah Group 31 batteries measuring 13 x 6.77 x 9.08 in and 22.16 lb each. The listing cites a BMS with 20+ safeguards and 4000+ cycles at 100% depth of discharge, with a 10 year claim.\n\nAt $595.71 it is $66.72 above the Redodo 2-Pack and $325.72 above the NewtiPower 200Ah. Pick this if you value the published dimensions and cycle figures at several depths of discharge. The caveat is that Bluetooth and low temperature behavior are not spelled out in these bullets, so confirm them before ordering.",
     "specs": [
       "2 x 12V 100Ah, Group 31",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41LQnqxUD9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B9XS11RY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B9XS11RY?tag=rvgearlab-amz-20",
     "description": "The NewtiPower 200Ah is a single 12V 200Ah LiFePO4 battery, about 2560Wh at 12.8V, with a 150A BMS and a listed max load of 1920W. It supports series or parallel expansion up to 6S6P, and the listing cites a 10 year warranty.\n\nAt $269.99 it costs $259 less than the Redodo 2-Pack and $51.31 less than the HQST 200Ah, while giving similar watt-hours. Pick this if you want one battery to replace two and your tray has the room. The caveat is that 1920W max load sits just under a 2000W inverter, so heavy cooking loads may trip it.",
     "specs": [
       "12V 200Ah, about 2560Wh",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41VgGo5WwrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CLP78VCH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CLP78VCH?tag=rvgearlab-amz-20",
     "description": "The HQST 200Ah is a Group 22NF listing whose title says 12V 200Ah, 2560Wh and 2*100Ah, while the bullets describe 100Ah units at 1,280Wh each. Charging suspends below 23F or above 140F and discharge stops below 5F, and a single 100Ah unit is listed at 21 lb.\n\nAt $321.30 it costs $51.31 more than the NewtiPower 200Ah. Pick this if the cold thresholds matter, since it publishes both a 23F charge cutoff and a 5F discharge cutoff. The caveat is that the title and bullets disagree on what ships, so confirm whether you receive two batteries or one.",
     "specs": [
       "2 x 100Ah, 2560Wh in title",
@@ -133,7 +133,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41kYZSHeT-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FPL1QNFY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FPL1QNFY?tag=rvgearlab-amz-20",
     "description": "The Dyness 100Ah is a single 12V 100Ah battery, about 1280Wh, with Bluetooth 5.0, a 100A BMS and A+ grade cells. Charging disconnects when the battery drops below 32F, and the listing says it can expand to a 4S4P bank of 16 units.\n\nAt $199.98 it is $70.01 below the NewtiPower 200Ah but holds half the energy. Pick this if you want to start with one battery and add a second later to make a pair. The caveat is that on its own it is too small for a fifth wheel with a residential fridge and an inverter.",
     "specs": [
       "12V 100Ah, about 1280Wh",

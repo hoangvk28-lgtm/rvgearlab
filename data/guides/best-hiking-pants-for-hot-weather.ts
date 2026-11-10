@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41g9d7aXHJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G2LHXPF2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G2LHXPF2?tag=rvgearlab-amz-20",
     "description": "The Moosehill Men's Vented uses a six-mesh vent system in the crotch and thighs and a vented water-resistant ripstop fabric the listing pitches for desert heat and jungle humidity. Articulated knees, 4-way stretch and a snap hem that rolls up quickly complete the cut.\n\nCompared with the Cycorld Women's zip-off legs, it solves heat with vents instead of removable legs. Against the LINLANG Men's, it adds a systematic airflow design.\n\nIt suits men who hike in sustained high temperatures and want cooling without carrying shorts. Six pockets in balanced pairs keep a phone and keys handy.",
     "specs": [
       "Six-vent mesh system",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31v6lONmZkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07T5GBSDH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07T5GBSDH?tag=rvgearlab-amz-20",
     "description": "The ATG by Wrangler Utility is a straight-leg synthetic pant with a water-repellent finish, quick-drying fabric and UPF 30 protection. A gusseted crotch adds mobility, a reinforced kickplate resists wear at the heel and a zip utility pocket secures small items.\n\nCompared with the Moosehill Men's Vented, it relies on a regular fit and tough construction instead of vents. Next to the LINLANG Men's, it carries a recognizable work-wear name and a reinforced hem.\n\nIt suits men who want a durable, easy-fitting pair for hikes, climbing and camp chores. The straight leg pairs easily with boots.",
     "specs": [
       "Water-repellent quick-dry finish",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31TTBj5CZpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BZS5G7Q3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BZS5G7Q3?tag=rvgearlab-amz-20",
     "description": "The Toomett Women's Capri-Roll is built from a skin-friendly, four-way stretch, wrinkle-free fabric with built-in UPF 50+ protection. A roll-up capability around the knee turns the legs into capri length, and five zippered pockets store phones and snacks.\n\nCompared with the Cycorld Women's, it rolls up rather than zips off, so there is no seam at the thigh. Against the Rrosseyz Women's, it is softer and has more pocket security.\n\nIt suits women who want a soft, breezy pair with a built-in cooling option. The elastic waistband adjusts around a hip belt.",
     "specs": [
       "Four-way stretch fabric",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/316x5JEnE7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08B8H4M6H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08B8H4M6H?tag=rvgearlab-amz-20",
     "description": "The Cycorld Women's Zip-Off is a convertible hiking pant that offers three ways to wear, with moisture-wicking, breathable stretch fabric. Five deep pockets and an adjustable waist round out the design.\n\nCompared with the Toomett Women's, it uses full zip-off legs for a bigger change in coverage. Next to the Rrosseyz Women's, it is more versatile across a hot day.\n\nIt suits women who want shorts, capris or long pants from a single pair. Lightweight fabric packs easily for travel.",
     "specs": [
       "Three ways to wear",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31whK7ZxIbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DHS8VQGD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DHS8VQGD?tag=rvgearlab-amz-20",
     "description": "The Rrosseyz Women's Lightweight uses lightweight, quick-dry, breathable fabric with built-in sun protection and five pockets, including one side zip and four cargo pockets. Adjustable cord locks at the cuffs shorten the legs and keep bugs out.\n\nIt costs less than the Toomett Women's and the Cycorld Women's, and has fewer extras. Against the Cycorld Women's Zip-Off, it takes a more cargo-forward look.\n\nIt suits women who want a basic, breathable pair for hiking and travel. The drawstring waist tunes the fit.",
     "specs": [
       "Lightweight quick-dry fabric",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31fLDWcJ1pL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F29L89XH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F29L89XH?tag=rvgearlab-amz-20",
     "description": "The LINLANG Men's Lightweight is made of 88 percent nylon and 12 percent elastic fiber with UPF 50+ protection and a water-resistance design. A YKK zipper, metal buckle closure and six deep pockets provide secure storage.\n\nNext to the Moosehill Men's Vented, it skips the vents and costs less. Compared with the ATG by Wrangler Utility, it offers more pockets and a simpler cut.\n\nIt suits men who want a durable, light pair for hiking and travel in warm weather. The packable fabric folds into luggage.",
     "specs": [
       "88% nylon, 12% elastic fiber",

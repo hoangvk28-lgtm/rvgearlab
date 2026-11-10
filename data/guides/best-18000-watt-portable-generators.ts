@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51pY3J0z0mL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B099KPKS59?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B099KPKS59?tag=rvgearlab-amz-20",
     "description": "The Westinghouse WGen14500DFc runs on gas or propane. On gas it lists 18,000 peak and 14,500 running watts, and on propane 16,000 peak and 13,000 running, from a 713cc V-twin OHV engine with a 10.5 gallon tank good for up to 16 hours at 25 percent load. It has a 14-50R 50 amp outlet, an L14-30R 30 amp outlet, an L5-30R outlet, two GFCI 5-20R outlets and two USB ports, with remote electric start and CO shutdown.\n\nIt adds propane to the gas-only model for a modest price step and costs less than the tri-fuel. Compared with the GENMAX, it lists more running watts.\n\nIt suits large-rig owners and home backup users who want a second fuel option in an outage. The 14-50R and L14-30R outlets are transfer switch and interlock kit ready.",
     "specs": [
       "14,500 running, 18,000 peak watts",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51wJmurwyoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B099KPJN8J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B099KPJN8J?tag=rvgearlab-amz-20",
     "description": "The Westinghouse WGen14500c is the gas-only version, listing 18,000 peak and 14,500 running watts from the same 713cc V-twin engine and 10.5 gallon tank. It shares the 14-50R, L14-30R and L5-30R outlets, remote electric start and CO shutdown, with an operating volume as low as 74 dBA.\n\nIt carries the same running watts as the dual fuel at a lower price. Compared with the GENMAX, it lists higher peak and running watts and a bigger engine.\n\nIt suits buyers who only ever burn gasoline and want the highest rating for the least money among these Westinghouse versions. Its VFT data center shows voltage, frequency and hours.",
     "specs": [
       "14,500 running, 18,000 peak watts",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51ynAGPGDiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CQN4B3WC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CQN4B3WC?tag=rvgearlab-amz-20",
     "description": "The Westinghouse WGen14500TFc runs on gas, propane or natural gas. It lists 18,000 peak and 14,500 running watts on gas, 16,000 and 13,000 on propane, and 14,400 and 11,600 on natural gas, with the same 14-50R, L14-30R and L5-30R outlets, remote start and CO shutdown.\n\nIt is the only one of the four that burns natural gas, which suits a home hookup. Compared with the dual fuel, it adds natural gas at the highest price.\n\nIt suits home backup users with a natural gas line who want the option of three fuels. The tri-fuel setup also covers a fixed campsite with a gas hookup.",
     "specs": [
       "14,500 running watts on gas",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41wCwvjbDvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HFJ94XTN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HFJ94XTN?tag=rvgearlab-amz-20",
     "description": "The GENMAX GM15000ET is a tri-fuel generator that lists 15,000 peak and 11,000 rated watts, a 10.56 gallon tank, a 50 amp output, a CO sensor, ATS and a digital display. The listing also names a DC cigarette lighter outlet, an LED rope light, and a warranty of 3 years plus lifetime technical help.\n\nIt is the nearest alternate to the 18000 class and the lowest priced of the four. Against the Westinghouse versions, it gives 3,500 fewer running watts and a lower peak.\n\nIt suits large-rig owners who want an automatic transfer option and a digital display at a lower price. The warranty and support are the clearest on this list.",
     "specs": [
       "11,000 rated, 15,000 peak watts",

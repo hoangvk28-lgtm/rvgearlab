@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ju9H8ETeL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CZ1WCL8T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CZ1WCL8T?tag=rvgearlab-amz-20",
     "description": "Retrospec labels the Dream 30 as a 30 degree insulated mummy and lists water-resistant inner and outer shells, a draft collar, and a draft tube. The regular weighs 2 lb 8 oz, the long weighs 2 lb 10 oz, and a stuff sack is included.\n\nThe 30 degree label matches the guide directly, where the LEEF sold here is the 20F option. Differentiated draw cords adjust the hood in the dark, and a zipped stash pocket keeps a phone close.\n\nA light, simple choice for hikers and car campers who want a 30F mummy at a low price. Choose the long size for sleepers over 6 ft.",
     "specs": [
       "30 degree insulated mummy",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31RYywqgUQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09LMNT52L?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09LMNT52L?tag=rvgearlab-amz-20",
     "description": "This listing is the 20F version of the TETON LEEF, which also comes in 0 and 30 degree ratings and three sizes. A roomier tapered cut packs down small in the included compression sack.\n\nIts 20F label sits colder than the Retrospec's, which gives margin if you expect nights below 30F. The roomier cut suits sleepers who dislike a snug mummy.\n\nChoose it for campers who want extra margin and a more relaxed fit. Pick the size that matches your height, and store it loose at home.",
     "specs": [
       "20F mummy, roomier design",

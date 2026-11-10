@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41uQXt1Cd6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09LQTKM7V?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09LQTKM7V?tag=rvgearlab-amz-20",
     "description": "The 33,000ft Trail Shirt is a long-sleeve UPF 50+ button shirt with air vent fabric, water-resistant and stain-repelling treatment, and a wrinkle-free finish. Two chest utility pockets carry a sunglasses loop and pen slot, and the listing names a built-in glasses cleaner.\n\nRoll-up sleeves with button tabs turn it into a short-sleeve shirt on hot climbs, a trick the pullover picks lack. Compared with the WULFUL Vented Shirt, it shares the same style and lists full UPF 50+ protection.\n\nIt is the best fit for men who hike, travel and fish in the same shirt. The pockets and roll-up tabs earn the top spot.",
     "specs": [
       "UPF 50+, air vent fabric",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41t9ZEM7KyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GXY6GDC5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GXY6GDC5?tag=rvgearlab-amz-20",
     "description": "The WULFUL Vented Shirt is a lightweight quick-dry shirt with mesh-lined cape vents across the back so air circulates as you move. Two chest utility pockets, a zipper pocket and a sunglasses loop hold small items, and roll-up sleeves convert it to short sleeve.\n\nWhere the 33,000ft Trail Shirt leans on air vent fabric, this one adds a dedicated back vent and a zipper pocket. It also costs less than the 33,000ft shirt.\n\nIt works for men who hike in hot, humid places and want airflow across the shoulders under a pack. The back vents do the cooling work.",
     "specs": [
       "UPF 50+, mesh cape vents",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ThfdJMJWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BX5S7X87?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BX5S7X87?tag=rvgearlab-amz-20",
     "description": "The TELALEO 3-Pack Hoodie provides three UPF 50+ long-sleeve hoodies in a breathable, lightweight and soft fabric. The hood protects the neck, and thumb holes hold the sleeves in place and extend coverage over the hands.\n\nNext to the MLYENX 7-Pack, you get fewer shirts along with a hood and thumb holes, which the crew-neck pack does not have. Against the 33,000ft Trail Shirt, it gives up pockets for a simple pullover and a lower price per shirt.\n\nIt suits men who hike on multi-day trips and want a clean shirt each day. Three light shirts do not take much room.",
     "specs": [
       "Three UPF 50+ hoodies",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zxl6xHHkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B59QCVSL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B59QCVSL?tag=rvgearlab-amz-20",
     "description": "The MLYENX 7-Pack is a set of seven long-sleeve UPF 50+ tees in moisture-wicking, quick-dry fabric. The listing says the shirts are machine washable and resistant to shrinking, and names hiking, fishing, the gym and everyday wear.\n\nCompared with the TELALEO 3-Pack Hoodie, it delivers more than double the number of shirts, all in crew-neck tees. Against the single TBMPOY Hiking Shirt, you pay more up front and get a week of rotation.\n\nIt is aimed at men who hike often, wash in bulk and want a drawer full of dependable sun layers. Gym and work use are named too.",
     "specs": [
       "Seven UPF 50+ long sleeves",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Rbmgp1QiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B4JX7PLM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B4JX7PLM?tag=rvgearlab-amz-20",
     "description": "The TBMPOY Hiking Shirt is a lightweight UPF 50+ long sleeve with moisture-wicking dry-fit material, raglan sleeves and flatlock seams. A no-tag collar and a free range of motion keep it comfortable under a pack.\n\nRaglan sleeves remove the shoulder seam, so it chafes less than the MLYENX 7-Pack tees under a strap. Next to the Roadbox Hoodie, it is a crew neck with no hood and a similar low price.\n\nIt is a good match for men who carry a pack all day. The plain cut stays out of the way.",
     "specs": [
       "UPF 50+ dry-fit fabric",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ksNSmoC+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B083QZZ5M4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B083QZZ5M4?tag=rvgearlab-amz-20",
     "description": "The Roadbox Sun Hoodie is a UPF 50+ polyester hoodie with a sun-protection hood and a tag-free collar. Moisture-wicking fabric dries quickly, and ergonomic flatlock seams reduce chafing on climbs and long trail days.\n\nCompared with the TBMPOY Hiking Shirt, it adds a hood for neck and scalp cover and costs a little less. Next to the TELALEO 3-Pack Hoodie, it is a single shirt with a lower cost per piece.\n\nIt suits men who hike in open, sunny country and want shade for the head. A single hoodie keeps the cost down.",
     "specs": [
       "UPF 50+ polyester hoodie",

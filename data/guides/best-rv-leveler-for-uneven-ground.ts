@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31V8zTGGV3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CYH6HSF5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CYH6HSF5?tag=rvgearlab-amz-20",
     "description": "The MaxxHaul 50939 are three-step RV leveling ramps sold as a pair with wheel chocks. Each supports 3,250 pounds, or 6,500 pounds per pair, and lifts tires up to 4 inches. They measure 22 inches long, 8 inches wide, and 5 inches high.\n\nAgainst the RVMATE 8-Piece Kit, they give a stepped climb in three distinct levels that makes the drive-up easier. They suit owners who want a gradual ramp and defined stopping points on moderately sloped sites.",
     "specs": [
       "Three distinct steps",
@@ -53,7 +53,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41-4c-+BZhL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09SPLJD95?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09SPLJD95?tag=rvgearlab-amz-20",
     "description": "The RVMATE 8-Piece Kit includes two curved levelers, two chocks, two rubber grip mats, and more. It levels in increments between 1/2 and 4 inches, using high-density polyethylene and a gear mesh anti-slip design.\n\nCompared with the MaxxHaul 3-Step, it offers finer increments and rubber mats that stop slipping on loose ground. It suits owners who need to dial in a precise level.",
     "specs": [
       "Increments from 1/2 to 4 inches",
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41wIonvMY1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FGXJ5S2T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FGXJ5S2T?tag=rvgearlab-amz-20",
     "description": "The RVMATE 12 Pack contains 10 leveling blocks, 2 top blocks, and a carrying bag. Each block is 8.5 by 8.5 by 1.5 inches, and each top block is 0.75 inches thick, so the stack builds height one inch at a time.\n\nNext to the MaxxHaul 3-Step, it can build more than 4 inches by stacking, which suits steeper slopes. It fits owners with sloped sites who want a flexible stack for single wheels, dual wheels, and jacks.",
     "specs": [
       "10 blocks plus 2 tops",

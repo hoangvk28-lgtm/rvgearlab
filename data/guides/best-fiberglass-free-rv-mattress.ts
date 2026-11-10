@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41TDM66AeNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FRWZLNXZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FRWZLNXZ?tag=rvgearlab-amz-20",
     "description": "The Neohavn short queen is a 12 inch cooling gel memory foam hybrid with a fiberglass-free inner cover. It is CertiPUR-US and OEKO-TEX certified and uses a cool-touch knit fabric with breathable cooling fibers.\n\nAgainst the INEHM, it adds pocketed support and a 365-night trial, versus INEHM's pure foam build. It suits couples who want a medium to medium-firm hybrid with long trial time.",
     "specs": [
       "12 inch hybrid",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51hv9esnbxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H4GLB7SP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H4GLB7SP?tag=rvgearlab-amz-20",
     "description": "The INEHM is a 10 inch short queen at 60 by 75 inches with layered gel memory foam and wave foam. It is described as a pure foam, seven-layer build with no coils to squeak, and has passed flame retardant testing without fiberglass.\n\nCompared with the Neohavn, it is thinner and silent, with a 1-year trial and 10-year service. It suits owners who want a quiet, lighter mattress.",
     "specs": [
       "10 inch, 60x75",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/418L7n2EakL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H1WBWFXD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H1WBWFXD?tag=rvgearlab-amz-20",
     "description": "The Dyonery short queen is a 12 inch gel memory foam mattress with a Gel AeroFusion top and a BraceSleeper high density base. It is made in the USA with CertiPUR-US and OEKO-TEX Standard 100 certified foam and carries a 10 year limited warranty.\n\nAgainst the Dyonery King, it suits the more common short queen RV bed, and it is thicker than the INEHM. It suits owners who want certified materials.",
     "specs": [
       "12 inch gel memory foam",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/418L7n2EakL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H1WC65HM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H1WC65HM?tag=rvgearlab-amz-20",
     "description": "The Dyonery RV King is a 10 inch gel memory foam mattress using the same Gel AeroFusion top, BraceSleeper base and certified foam as its short queen sibling. It ships compressed and carries a 10 year limited warranty.\n\nCompared with the Dyonery Short Queen, it covers wider king beds with a thinner profile that preserves headroom. It suits RV king bed owners.",
     "specs": [
       "10 inch RV king",
@@ -133,7 +133,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41AY9p42B9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HH65NXRK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HH65NXRK?tag=rvgearlab-amz-20",
     "description": "The Foam Global Journey is a made-to-order gel memory foam mattress cut to your RV bed size. It is manufactured in California, uses CertiPUR-US foam and has a fiberglass-free rayon inner cover.\n\nWhere others stick to standard RV sizes, it handles odd bunk and van shapes, which suits owners with non-standard beds.",
     "specs": [
       "Cut to size",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Rscin7aaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DQZT4SP8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DQZT4SP8?tag=rvgearlab-amz-20",
     "description": "The EBL 2400W is a LiFePO4 station with 1,843.2Wh of capacity and 2,400W of AC output across four AC ports. It switches to backup power in 0.1 seconds and lasts 3,500 cycles or more.\n\nIt costs about $552, roughly $98 less than the Anker SOLIX S2000, and it delivers 2,400W against the Anker's 1,500W. It holds less than the Anker's 2,010Wh, which is the trade for the lower price and stronger output.\n\nIt suits campers and RVers who want to run a microwave or a small space heater from the battery. The four AC ports let you power several devices at once.",
     "specs": [
       "1,843.2Wh, 2,400W, 4 AC ports",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41oUWN32k+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GY4TQ2P8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GY4TQ2P8?tag=rvgearlab-amz-20",
     "description": "The Anker SOLIX S2000 stores 2,010Wh in LFP cells, outputs 1,500W with a 3,000W peak and accepts up to 400W of solar input. It carries a 10,000-cycle rating.\n\nIt costs about $650, the top of the group's realistic range and about $98 above the EBL 2400W Station, and it has the longest cycle life here. It gives lower AC output than the EBL or Lipower 2400W.\n\nIt suits long off-grid stays and fridge backup where capacity matters more than raw wattage. A big LFP pack lasts for many years.",
     "specs": [
       "2010Wh LFP, 1500W output",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Ft8DZeyvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H5BL8YRJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H5BL8YRJ?tag=rvgearlab-amz-20",
     "description": "The Lipower holds 2,150Wh in LiFePO4 cells and delivers 2,400W pure sine wave with a 4,000W surge. It switches to battery in under 10ms and lasts 3,500 cycles or more.\n\nIt costs about $650, nearly the same as the Anker SOLIX S2000, and it pairs more capacity with a higher AC output. It is described as 20 percent lighter than same-capacity packs, and it recharges from the wall in about 1.5 hours.\n\nIt suits households and RVers who want one unit to carry a fridge, CPAP and microwave through a blackout. It accepts up to 800W of solar input.",
     "specs": [
       "2,150Wh LiFePO4",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41J42iP7mSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FRSCP2VS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FRSCP2VS?tag=rvgearlab-amz-20",
     "description": "The ABOK Ark2000 offers 1,536Wh with 2,000W of continuous pure sine output and a 2,400W A-Boost mode. You can add an Ark2000E expansion battery to reach 3,072Wh or two to reach 4,608Wh.\n\nIt costs about $599, nearly $50 above the EBL 2400W Station, and it is the only pick that can grow in capacity later. It charges from 0 to 80 percent in 55 minutes on 1,500W AC, and it has 8 ports.\n\nIt suits buyers who expect their needs to grow, such as a van conversion or a cabin. The 10ms UPS keeps routers and computers running.",
     "specs": [
       "1,536Wh, 2,000W, 2,400W boost",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41quCRDeXiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GYD6V3JW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GYD6V3JW?tag=rvgearlab-amz-20",
     "description": "The DYNESS 1536Wh is a LiFePO4 station with 1,800W of pure sine output, built-in UPS and an app. It charges to 80 percent in 50 minutes on AC and in about 1.2 hours on up to 1,200W of solar.\n\nIt costs about $500, the lowest in the group and $52 below the EBL 2400W Station, and its solar input is the highest listed. It stores less than the EBL.\n\nIt suits campers who want quick turnarounds between sites. The app lets you watch and control outputs.",
     "specs": [
       "1,536Wh, 1,800W pure sine",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31+D1tNXreL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7PPG25F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7PPG25F?tag=rvgearlab-amz-20",
     "description": "The Jackery Explorer 1000 v2 holds 1,070Wh with a 1,500W output and 3,000W surge. Its LiFePO4 battery is rated to hold 70 percent of its capacity through 4,000 charge cycles, and a one-hour emergency charge fills it from 0 to 100 percent.\n\nIt costs about $499, level with the DYNESS 1536Wh, and it holds the least energy of the six. The app offers a 30 dB quiet overnight charging mode, and it has three pure sine AC ports.\n\nIt suits campers who want a familiar brand and a compact unit. It runs a fridge for several hours.",
     "specs": [
       "1,070Wh, 1,500W AC",

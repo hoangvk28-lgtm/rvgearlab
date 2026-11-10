@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/71yn7NxGtDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GQG8N88T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GQG8N88T?tag=rvgearlab-amz-20",
     "description": "The Geek Aire is a 16 inch metal high-velocity floor fan with aluminum blades, a large carrying handle and non-slip rubber feet. A rechargeable battery fully charges in about three hours and the listing gives up to 24 hours on the lowest speed, with an IPX4 water-resistant rating.\n\nCompared with the 6 and 8 inch fans, it moves far more air from a 360 degree adjustable tilt. Against the DEWALT, it includes its own battery and charges from the wall.\n\nIt suits large tents, canopies and garages where a small fan does little. The metal build handles knocks on a job site.",
     "specs": [
       "16 inch metal floor fan",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/5123r0LwQ6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0989YML7R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0989YML7R?tag=rvgearlab-amz-20",
     "description": "The DEWALT DCE512B delivers up to 650 CFM with variable speed, an axial three-blade design and an IP54 rating. It runs up to 4.5 hours, with the battery and charger sold separately, and offers an integrated hook for mounting.\n\nIt has the highest stated airflow and the only CFM number on the list. Compared with the Geek Aire, it is a tool-only fan for those who already own 20V batteries.\n\nIt suits tradespeople and campers who already carry DEWALT 20V batteries. The hook mounts it overhead or on a rack.",
     "specs": [
       "Up to 650 CFM, variable speed",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Hujh15hFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F635WN6H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F635WN6H?tag=rvgearlab-amz-20",
     "description": "The ONLYNEW has two fan heads with front and rear airflow, a 20000mAh battery and auto oscillation at 90 or 180 degrees. Single-side use gives 16 to 60 hours, and a remote controls timer, speed and light.\n\nIt is the only dual-head fan here, and costs more than the single-head 20000mAh models. Compared with the Geek Aire, it is smaller and can run longer on one charge.\n\nIt suits campers who want to cool two sleeping areas or two sides of a tent. Double-sided lighting covers evening use.",
     "specs": [
       "Dual head, 20000mAh battery",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Ljz4JbY3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DQWBPTTP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DQWBPTTP?tag=rvgearlab-amz-20",
     "description": "The Warmco D4 packs a 20,000mAh battery that the listing rates for two days on low or 15 hours on high, with a brushless motor under 45 dB and a 1.77 inch slim body. It weighs 1.72 lbs and has an LED lantern, a hanging hook, a battery display and a 5V 2.4A output.\n\nAgainst the Aynvixt and FRIZCOL, it adds a display and a state-of-charge readout. Compared with the Geek Aire, it is much smaller and easier to pack.\n\nIt suits campers who want a slim, quiet fan that doubles as a lantern. The foldable stand directs air.",
     "specs": [
       "20,000mAh, 48H low, 15H high",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51fuC7He8AL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HCBFW1ZK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HCBFW1ZK?tag=rvgearlab-amz-20",
     "description": "The FRIZCOL carries a 24000mAh battery with 11 to 60 hours of runtime, four speeds, a 3950 r/min motor and noise under 30 dB. It has three timers, two LED levels and a vertically adjustable head in an anti-drop ABS body.\n\nIt has the largest battery in the group and costs less than the Warmco. Compared with the Aynvixt, it lists a faster motor and quieter operation.\n\nIt suits campers who want the longest runtime for the money. Non-slip pads steady it on uneven ground.",
     "specs": [
       "24,000mAh, 11 to 60 hours",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51xa57VQDrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GPXNJHD6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GPXNJHD6?tag=rvgearlab-amz-20",
     "description": "The Aynvixt combines a fan, an LED lantern and a power bank in one 20,000mAh unit, with a brushless motor, a six-inch five-blade system at 17 ft/s and a 270 degree adjustable head. It lists up to 60 hours, a four-hour timer and a foldable handle with a hook.\n\nIt costs the least here, and the listing mentions use as a power bank. Compared with the FRIZCOL, it is a lighter-duty fan with a wider head tilt.\n\nIt suits campers who want a three-in-one fan on a tight budget. The ABS shell has a reinforced base.",
     "specs": [
       "20,000mAh, up to 60 hours",

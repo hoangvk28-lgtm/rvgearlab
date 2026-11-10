@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51huGWzmZEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B099KRSH46?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B099KRSH46?tag=rvgearlab-amz-20",
     "description": "The Westinghouse 5000 Inverter is a 5000 peak, 3900 rated watt gas unit with remote electric start and an RV-ready TT-30R outlet. Its rotating digital display shows fuel level, output and remaining run time, which helps when you are guessing whether the second air conditioner will fit.\n\nIt costs $899, which is $350 more than the Champion 4750 RV at $549, and that money buys inverter-clean power under 3% THD plus the most head room here. Pick this if you want a 13,500 BTU air conditioner to start without drama and care about sensitive electronics. The caveat is price, and it still tops out at 30 amp service.",
     "specs": [
       "5000W peak, 3900W rated",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51LuddsGVgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FSBFZB9B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FSBFZB9B?tag=rvgearlab-amz-20",
     "description": "The Champion 4750 RV Ready is a CARB compliant 4750 starting, 3800 running watt generator with a Volt Guard surge protector and a monitor for voltage, hertz and run hours. The hour meter is a real convenience for tracking oil changes on a unit that lives in a truck bed.\n\nAt $549 it sits $150 above the Westinghouse 4650 at $399 and $350 under the Westinghouse 5000, with nearly the same running watts as the 4650 but better monitoring. Pick this if you camp in California or other CARB states. The caveat is that startup head room is below the 5000, so a hard starting air conditioner may want a soft starter.",
     "specs": [
       "4750W start, 3800W running",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51ohtKVfe5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B099KNP2SD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B099KNP2SD?tag=rvgearlab-amz-20",
     "description": "The Westinghouse 4650 delivers 3600 running and 4650 peak watts with a 4 gallon tank rated for up to 14 hours, and it ships with a wheel and handle kit. Outlets include a TT-30R, an L5-30R and a household duplex, which covers the common RV cord ends.\n\nAt $399 it undercuts the Champion 4750 RV by $150 and costs just $21.01 more than the Genkins 4500 at $377.99, while offering a far bigger tank. Pick this if you want long unattended runtime and wheels for a heavy unit. The caveat is that it is a conventional recoil start design, so it is louder and less convenient than the remote start models.",
     "specs": [
       "3600W running, 4650W peak",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/412Q0BCn8yL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DNL6MSW2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DNL6MSW2?tag=rvgearlab-amz-20",
     "description": "The Genkins 4500 is a pure sine wave inverter with 4500 peak and 3800 rated watts from a 174cc four stroke engine, weighing 63 pounds. That weight is the story here, because it makes loading a truck bed or pin box storage much easier for one person.\n\nAt $377.99 it costs $21.01 less than the Westinghouse 4650 but carries a smaller 1.9 gallon tank, so runtime is shorter. Pick this if you lift the unit in and out of a truck alone. The caveat is that outlet layout is not detailed in the listing, so confirm a 30 amp outlet before buying.",
     "specs": [
       "4500W peak, 3800W rated",

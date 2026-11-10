@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41RvQCXx1DL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08YK48XHT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08YK48XHT?tag=rvgearlab-amz-20",
     "description": "The REDARC Tow-Pro Liberty is a proportional controller for 1 to 2 axle trailers, described as universal fit for cars, trucks and SUVs. The listing includes a remote head with knob, bezel and a 3 ft 3 in cable, and mentions sway control, active calibration and a two-year limited warranty.\n\nCompared with the Orceed below it, it is a real brand product rather than a P3 copy, and it uses a dial-style head. It tops out at two axles where the Orceed lists four, and the listing says to pair it with a universal pigtail or a vehicle-specific harness.\n\nBest for a single or tandem trailer owner who wants a branded, universal-fit unit with a neat dash dial. A triple-axle trailer needs a different pick.",
     "specs": [
       "Proportional, 1-2 axles",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Uhh3RfboL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F42KD16W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F42KD16W?tag=rvgearlab-amz-20",
     "description": "The Orceed is sold as a replacement for the Tekonsha P3 90195, which means it is a third-party design. The listing describes electric trailer brake control for up to four braking axles, a dash-hugging body, an LCD with multiple color options, a flashing red alert for no-trailer-brake conditions and a plug-and-play port for 2-plug adapters.\n\nCompared with the REDARC above it, it covers more axles and costs less, but it is not made by the original brand. The listing tells you to confirm the part number matches your needs before purchase.\n\nBest for a buyer who wants a four-axle proportional controller at a mid price. Keep the seller's replace-if-defective promise in mind, since support comes from them.",
     "specs": [
       "Replaces Tekonsha P3 90195",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41MKL7nQxwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FH1QY3TY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FH1QY3TY?tag=rvgearlab-amz-20",
     "description": "The Kolasina is a direct-replacement-style copy of the Tekonsha 90160 Primus IQ, so it is a third-party product. The listing describes proportional braking, a high-contrast LED display with continuous self-diagnostics, and support for 2, 4 or 6 brakes on 1-3 axle trailers.\n\nCompared with the Orceed above, it drops the fourth axle and costs less. It has a snap-on quick-release bracket plus a screw-in bracket that rotates within 180 degrees, and a manual slider for sudden situations.\n\nBest for a tandem or triple-axle owner who wants the Primus IQ style at a lower price. Verify your trailer's brake count against the 2, 4 or 6 range.",
     "specs": [
       "Replaces Tekonsha 90160",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41v6+W7IvGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08YJG9D5T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08YJG9D5T?tag=rvgearlab-amz-20",
     "description": "The REDARC TPH-025 is a universal pigtail wiring harness, not a controller. The listing carries only a part number and brand, and the REDARC Liberty listing names it as the universal harness to pair with that controller.\n\nCompared with the Oyviny pigtail below, it costs more but is the one REDARC itself points to for the Liberty. A pigtail has bare wires on one end, so you splice into the vehicle rather than plug into a factory connector.\n\nBest for a REDARC Liberty owner whose truck has no factory plug. Check the connection details with the maker, since the listing gives little else.",
     "specs": [
       "Universal pigtail, TPH-025",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41peTmwrFFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09B6TFC6Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09B6TFC6Q?tag=rvgearlab-amz-20",
     "description": "The Oyviny pigtail is a 31-inch universal harness with a standard 4-pin brake plug and pre-stripped, color-coded wires. The listing says it fits many controllers and names Draw-Tite Activator and Tekonsha models.\n\nCompared with the REDARC pigtail above, it costs less and gives more detail, including tin-plated copper terminals and an ABS plug. It lets one controller move between vehicles if you splice a second pigtail in.\n\nBest for a buyer who wants to transfer a controller between two vehicles on a budget. It is not a controller and needs splicing.",
     "specs": [
       "31-inch universal pigtail",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41XTtieUlmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B1W9W695?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B1W9W695?tag=rvgearlab-amz-20",
     "description": "The Oyviny 3016-P is a plug-in adapter whose listing names 2014-2020 GM models including Silverado, Sierra, Escalade, Suburban, Tahoe and Yukon by year. It does not require cutting or splicing and is 31 inches long.\n\nCompared with the universal pigtails above, it is the plug-and-play option for a listed GM truck. It uses the same standard 4-pin connector and the listing says it fits Draw-Tite and Tekonsha controllers.\n\nBest for a GM owner whose year is listed and who is installing one of the controllers above. Check the year ranges carefully, since they differ by model.",
     "specs": [
       "2014-2020 GM adapter",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31azmDRUOCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DB5TH7GN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DB5TH7GN?tag=rvgearlab-amz-20",
     "description": "The EcoFlow DELTA Pro 3 kit includes two 400W solar panels and a 4,096Wh LFP station. It lists 4000W of output (6000W with X-Boost), supports 120V/240V, expands to 48kWh and switches over in 10ms.\n\nIt alone lists 4000W as a rated output while shipping with solar panels in the box. The Jackery 5000 Plus offers more output and capacity and includes smaller panels.\n\nHouseholds and cabins running sustained heavy loads, such as a well pump, an air conditioner or power tools, are the target. A 10ms switchover protects NAS drives and servers.",
     "specs": [
       "4,096Wh LFP, 4000W rated",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41k-qip9YhL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GWM1V7P6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GWM1V7P6?tag=rvgearlab-amz-20",
     "description": "The Jackery Solar Generator 5000 Plus holds 5,040Wh with 7,200W rated output, 14,400W surge, 120V and 240V, and two 200W panels. Solar input reaches 4,000W, capacity expands to 60kWh and a 60A Smart Transfer Switch can power up to 12 circuits at 120V or 6 at 240V.\n\nIt exceeds the DELTA Pro 3 on output and storage and lists a named whole-home transfer switch. Its included panels total 400W, half the DELTA Pro 3 kit.\n\nWhole-home backup is the target here, where 4000W is the minimum and not the goal. The 13 day backup claim is for essential loads.",
     "specs": [
       "5,040Wh, 7,200W rated",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51o9rPeohCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H7BHSNLT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H7BHSNLT?tag=rvgearlab-amz-20",
     "description": "The Lipower kit pairs a 2,150Wh station with a 200W foldable solar panel, 2,400W rated output and 4,000W surge. It has a 10ms UPS, recharges fully in 1.5 hours from AC and has pre-installed MC4 cables for plug-and-play solar.\n\nIt reaches 4,000W as a surge, like the ALLPOWERS S2000 PRO, and offers 700Wh more capacity along with a panel. It costs far less than the two big kits.\n\nThis fits home emergency use for a refrigerator, and the listing says 1 to 2 days of run time. The included panel is a starter size.",
     "specs": [
       "2,150Wh, 2,400W, 4,000W surge",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41PRLL3a88L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CJ9T8L9B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CJ9T8L9B?tag=rvgearlab-amz-20",
     "description": "The ALLPOWERS S2000 PRO lists 2,400W continuous and 4,000W surge from a 1,451Wh battery with a UPS switchover under 15ms. AC fast charging at 1,500W reaches 80 percent in roughly an hour, and solar input goes up to 1,000W.\n\nIt is the cheapest and smallest of the four. The Lipower kit has more capacity and a panel, so the S2000 PRO suits those who bring their own solar.\n\nIt suits renters, RV owners and tradespeople who want a surge-capable station at the lowest cost. Solar panels are sold separately.",
     "specs": [
       "1,451Wh, 2,400W, 4,000W surge",

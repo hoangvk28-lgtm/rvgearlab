@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/417nki7s5IL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7HFY47Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7HFY47Q?tag=rvgearlab-amz-20",
     "description": "The JIANBENKJ is a two-sided sway control adapter plate for the ball mount, upgraded from a one-sided design. The listing says it fits Class III and Class IV 2 inch square ball mounts and is made of thickened steel.\n\nAgainst the single-sided JIANBENKJ 26003 below, it gives you a mounting point on both sides, so the bar can go on whichever side suits your trailer. It costs a little more than the single-sided plates.\n\nBest for a friction bar system where you want the flexibility of either side. It is an adapter only, so you still need a friction bar and a trailer-side ball.",
     "specs": [
       "Two-sided sway adapter plate",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Q-+wC-eiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GKR7FC9P?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GKR7FC9P?tag=rvgearlab-amz-20",
     "description": "The SHUJUKU two-sided adapter fits Class III and IV 2 inch square ball mounts, and its listing gives sizes: a 1.02 inch main hole, a 0.66 inch secondary hole and 0.3 inch thickness. It is made of thickened steel.\n\nIt costs slightly less than the JIANBENKJ Two-Sided above and gives the hole dimensions, which helps you check the fit against your ball stud. The listing does not mention a rust coating.\n\nBest for a buyer who wants to confirm hole sizes before ordering. Like the others, it is a plate, not a sway bar.",
     "specs": [
       "Two-sided opening adapter",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/2111sWSYyFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7HLYJZH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7HLYJZH?tag=rvgearlab-amz-20",
     "description": "The JIANBENKJ 26003 listing describes a single-sided friction sway control ball mount adapter that replaces part 26003. It fits Class III and IV 2 inch square ball mounts and needs no welding.\n\nCompared with the JIANBENKJ Two-Sided above, it offers one mounting side only and costs a little less. It is a direct replacement for the 26003 plate on an existing friction system.\n\nBest for replacing a lost or bent 26003 plate on a bar you already own. If you are starting fresh, the two-sided plate gives more flexibility.",
     "specs": [
       "Replaces part 26003",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/319Zdw83ogL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F43YK21H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F43YK21H?tag=rvgearlab-amz-20",
     "description": "The Shimeyao is listed as a replacement for part 26003, an anti sway ball mount adapter for Class III and IV 2 inch square ball mounts. The listing says it needs no welding, installs by removing the ball, sliding the plate onto the ball stud and tightening.\n\nIt is the cheapest of the adapter plates here, below the JIANBENKJ 26003 and SHUJUKU 26003. The listing describes the install clearly, though it gives no hole dimensions.\n\nBest for a budget replacement of a 26003 plate. Tighten the ball fully, and confirm your ball stud fits before you order.",
     "specs": [
       "Replaces part 26003",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31QGI2fJP2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GKRC2SZ5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GKRC2SZ5?tag=rvgearlab-amz-20",
     "description": "The SHUJUKU 26003 is a single-sided adapter plate that fits Class III and IV 2 inch square ball mounts. The listing gives a 1.02 inch main hole, a 0.66 inch secondary hole, 0.3 inch thickness and a black anti-rust layer.\n\nCompared with the JIANBENKJ 26003 above, it adds a stated rust coating and hole sizes. It is a single-sided plate like the Shimeyao 26003, with one mounting side only.\n\nBest for a replacement plate where rust protection and listed sizes matter. Remember that it only attaches a bar, and does not control sway on its own.",
     "specs": [
       "Single-sided 26003 adapter",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31JQ+n36DXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0007M1UO6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0007M1UO6?tag=rvgearlab-amz-20",
     "description": "The CURT 40093 is a replacement sway control ball with a 1-1/4 inch diameter and a 5/8 by 1-3/4 inch shank. The listing says it is the hitch-mounted attachment ball for CURT sway control unit 17200 and fits most weight distribution hitches or the CURT sway tab ball mounts.\n\nUnlike the adapter plates above, it is the small ball the bar snaps onto, not a plate for the ball mount. It is chrome-plated, and the listing includes a zinc-plated hex nut and lock washer.\n\nBest for replacing a worn or lost sway ball on a CURT 17200 bar setup. It does nothing without the bar and a trailer-side ball.",
     "specs": [
       "1-1/4 inch sway ball",

@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51c89kKg+XL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FHWH6RP7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FHWH6RP7?tag=rvgearlab-amz-20",
     "description": "This kit pairs two 200W N-type monocrystalline panels, with 18BB cells and a stated efficiency up to 24.3%, with a 30A MPPT charge controller for 12 volt systems. The panels have built-in MC4 connectors and pre-drilled mounting holes. It costs $329.99, or about $0.83 per watt, the lowest in this group.\n\nIt is $97.50 below the ECO 400W Bluetooth kit and $220 below the ACOPOWER 400W. What you give up is in the listing's silence: it does not mention brackets, cables, a Bluetooth module or a display, so you should expect to buy mounts, a battery cable set and fuses. A 30A controller on a 12V battery also tops out near 420W, so a 400W array fits but leaves almost no room to add panels later.\n\nPick this if you are comfortable sourcing brackets and cable and want the least expensive route to 400W. The caveat is that two panels have more roof footprint each than four 100W panels, so measure the vent-free length before ordering.",
     "specs": [
       "2 x 200W N-type panels",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Z4euHQIdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BPY72B9R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BPY72B9R?tag=rvgearlab-amz-20",
     "description": "ECO-WORTHY supplies four 100W monocrystalline panels with 21% efficiency, 3.2mm low-iron glass and 35mm aluminum frames, a 40A MPPT controller, a BT-02 Bluetooth module, Z mounting brackets and, per the listing, 16 foot cables with Y branches on the panel side. Each panel has 35 inch cables, and the listing quotes 1.6kWh per day as an average. It costs $427.49.\n\nIt costs $97.50 more than the 400W 2x200 Kit but includes brackets, cables and monitoring, and it undercuts the ExpertPower 400W by $62.50 while also listing a Bluetooth module. The listing does not state battery cable gauge, so confirm the wire size against your controller output before installing. Four 100W panels fit a roof with vents better than two 200W panels, since you can place them in gaps.\n\nChoose it if you want one box with mounts, cables and phone monitoring at a mid price. The caveat is that 21% cell efficiency is lower than the 24% N-type panels in the cheaper 2x200 kit, so you carry more panels for the same 400W.",
     "specs": [
       "4 x 100W monocrystalline",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51k8J2vPQKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09KKRS1K1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09KKRS1K1?tag=rvgearlab-amz-20",
     "description": "The ExpertPower kit lists four 100W monocrystalline panels (up to 21% efficiency), a 40A MPPT controller with a Bluetooth adapter that auto-detects 12V and 24V systems, a pair of 10 foot 12AWG MC4 solar cables, a pair of 6 foot 12AWG battery cables, four sets of mounting brackets and a Y branch adapter. It costs $489.99, about $1.22 per watt.\n\nIt is the only kit here that states cable gauge and length for both the solar side and the battery side, which makes the install easier to plan than with the ECO 400W Bluetooth kit. But it costs $62.50 more than that kit and the listing claims no daily energy figure or warranty detail, so the extra money buys documentation more than hardware. The controller adjusts charge for ambient temperature, the listing notes.\n\nPick this if you want exact cable specs to check against your battery run. The caveat is that 6 foot battery cables are short for many trailers, so you may still buy longer cable.",
     "specs": [
       "4 x 100W monocrystalline",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41al2vtltlL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07CTKT56Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07CTKT56Y?tag=rvgearlab-amz-20",
     "description": "The Renogy 400W Premium kit is sold with a 40A MPPT charge controller and 400W of panels, at $524.07. Its listing is the thinnest here: the only specification printed is a maximum battery voltage of 32V, so panel count, cable and brackets are not described in the feature text. What you are paying for is a dedicated solar brand with matching panels and controller and a service path you can contact.\n\nIt costs $34.08 more than the ExpertPower 400W and $97.50 more than the ECO 400W Bluetooth kit, and it states less than either, so you cannot verify cables or mounts from the listing. If branded support and the Renogy ecosystem matter to you, the premium is for peace of mind, not for specs.\n\nChoose it if you already own Renogy gear and want kit parts that match it. The caveat is that you should read the full product page and the box contents before buying, because this listing's feature text does not confirm panel size, brackets or cable gauge.",
     "specs": [
       "400W, 40A MPPT controller",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51tGcYL26uL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0861JHLP9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0861JHLP9?tag=rvgearlab-amz-20",
     "description": "ACOPOWER includes four 100W panels with 23% cell efficiency and IP67 frames rated for 2400Pa wind and 5400Pa snow, a 40A MPPT LCD controller with 99.5% tracking efficiency, Z brackets, a 30 foot 10AWG solar adaptor kit and tray cables. The listing says panels can be wired in parallel for 12V or in series for 24V, and quotes 2 to 2.5kWh per day. It costs $549.99.\n\nIt is the most expensive 400W kit here, $25.92 above the Renogy 400W Premium and $220 above the 400W 2x200 Kit. The 30 foot 10AWG adaptor kit is the longest solar-side cable package among the kits, which helps when the controller sits far from the roof. Its efficiency claim of 23% also beats the ECO 400W Bluetooth kit's 21%.\n\nPick it if the controller will be far from the roof and you want an LCD screen on the controller itself. The caveat is the 2 to 2.5kWh claim assumes more than 5 sun hours, so at 5 hours and a 0.75 loss factor expect closer to 1.5kWh.",
     "specs": [
       "4 x 100W, 23% efficiency",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411CKOU34FL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00BFCNFRM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00BFCNFRM?tag=rvgearlab-amz-20",
     "description": "The Renogy 100W Starter Kit contains a 100W panel with 22.5% cell efficiency and a Wanderer 30A PWM controller with an RS232 Bluetooth port, which works with the separately sold BT-1 module. The listing quotes about 500Wh per day, gives 10 years on panel materials and workmanship, 2 years on the controller and 25 years on output, and lists UL 61730 and IEC certifications. It costs $126.34, or about $1.26 per watt.\n\nIt is a different tier from the other kits: $203.65 cheaper than the 400W 2x200 Kit, but with a quarter of the panel power and a PWM controller, which holds panel voltage down to battery voltage and wastes the difference. The listing says it expands to 400W with additional panels, but a PWM controller loses efficiency as the array grows, so MPPT is the better path for a bigger system.\n\nChoose it if you want to keep a battery topped up, run a few lights and charge phones. The caveat is 100W produces about 375Wh on a 5 sun hour day with losses, which will not run a fridge for a night.",
     "specs": [
       "100W panel, 22.5% cells",

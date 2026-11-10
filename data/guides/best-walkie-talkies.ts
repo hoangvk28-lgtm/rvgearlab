@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/418iL02sIRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DG87NKLM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DG87NKLM?tag=rvgearlab-amz-20",
     "description": "MaxTalker MT10 is a rechargeable FRS two-way radio pair with a 1200mAh lithium battery each and 22 channels with 99 CTCSS privacy codes. The listing claims a range of up to 5 miles in open terrain.\n\nIt offers more channels and privacy codes than the pxton or Retevis models here, and it is a simple pair for two campers. A rechargeable battery means no AAA runs.\n\nCouples and small groups who want a straightforward pair will like it. It slips into a jacket pocket without bulk.",
     "specs": [
       "22 channels, 99 privacy codes",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51qKSP6P9gL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08MKT9B7X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08MKT9B7X?tag=rvgearlab-amz-20",
     "description": "pxton gives you 16 preset channels selected with a rotating knob and includes earpieces. The listing says the battery lasts from 8 to 96 hours depending on use and that range is best in open rural areas.\n\nEarpieces keep conversations private and keep the noise down at a quiet site, which the MaxTalker pair does not include. It costs less than either Retevis pack.\n\nHikers and hunters who want hands-free talking will like the earpieces. Neither of you has to hear the other's chatter.",
     "specs": [
       "16 preset channels",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41yMOmU2PNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00JEY6YV2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00JEY6YV2?tag=rvgearlab-amz-20",
     "description": "Retevis RT22 includes six license-free FRS radios with 16 channels. The pack comes with a six-way gang charger with overcharge, over-voltage and short-circuit protection.\n\nSix radios and a gang charger suit a family reunion or a scout trip, which none of the pairs can do. They are slim and palm-sized.\n\nLarge groups and campground gatherings will like the six-radio pack. Everyone drops their radio on the base at night.",
     "specs": [
       "Six FRS radios, 16 channels",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51tJK7QT2GL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08JQ1FGC8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08JQ1FGC8?tag=rvgearlab-amz-20",
     "description": "Retevis RT68 is a six-pack of business-grade FRS radios that includes ear hook earpieces. A six-way multi-unit charger station and overcharge, over-voltage and short-circuit protections are listed.\n\nIt adds earpieces to the six-radio idea, which the RT22 does not list. The earpieces are soft and rotate to fit either ear.\n\nEvent staff and big family trips will like the hands-free setup. Staff can talk quietly while the crowd stays unaware.",
     "specs": [
       "Six FRS radios with earpieces",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51ibJWOoEgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B7WDC16C?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B7WDC16C?tag=rvgearlab-amz-20",
     "description": "Jueion is a four-pack of rechargeable kids walkie-talkies with removable colorful shells so each child can choose a favorite. They have a simple one-touch call button and adjustable volume.\n\nThey are built for children rather than distance, which sets them apart from the adult radios. They are light and small.\n\nParents who want kids to play and stay in sight at camp will like them. Each child picks a shell color and the game begins.",
     "specs": [
       "Four rechargeable radios",

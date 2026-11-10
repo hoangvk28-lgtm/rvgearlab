@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Di5SxQhbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B083NR5DVY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B083NR5DVY?tag=rvgearlab-amz-20",
     "description": "The Waterdrop 15UA is rated for 19,000 gallons or 2 years on municipal water, with a multistage design that reduces PFAS, lead and chlorine and a 20 times larger dirt-holding area. Its materials are BPA-free and lead-free and certified by IAPMO against NSF/ANSI 372.\n\nAt about $51 it is the cheapest pick here and doubles the one-year life of the CuZn UC-100 for $19 less. The Orvexa lasts longer, and this one has the best certification record at the low end.\n\nCabin and van owners who want certified filtration and a two-year change cycle will like it. Replacement filters cost under $36.",
     "specs": [
       "19,000 gallons or 2 years",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Il86xGL1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08ZSNVF1W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08ZSNVF1W?tag=rvgearlab-amz-20",
     "description": "PUREPLUS is rated for 22,000 gallons or 5 years by IAPMO and certified to NSF/ANSI 42 and lead-free to NSF/ANSI 372. A 6-in-1 composite filter and quick-connect fittings keep installation simple, and it fits 1/2 or 3/8 inch faucets.\n\nAt about $59 it costs $8 more than the Waterdrop 15UA and lasts more than twice as long on paper. The Orvexa offers 50,000 gallons for $33 more, so this is the mid-priced long-life pick.\n\nHouseholds that cook and drink a lot of filtered water will like the long life. It also suits a family in a tiny home.",
     "specs": [
       "22,000 gallons, 5 years",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/310UFfeeImL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FH11CFGB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FH11CFGB?tag=rvgearlab-amz-20",
     "description": "The CuZn UC-100 is a 3-stage filter using micro sift membranes, KDF-55 and coconut shell carbon, rated for 10,000 gallons or one year. It reduces PFAS, PFOA and PFOS, lead and chlorine and leaves beneficial minerals in the water.\n\nIt costs about $70, the highest price of the shortest-life filters here, and the DIY inline design needs no drilling. The Waterdrop 15UA lasts twice as long for less.\n\nBuyers who prefer the CuZn brand and its tap-water mineral retention will like it. It installs under a kitchen or bathroom sink.",
     "specs": [
       "10,000 gallons or 1 year",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31QOuQhsFiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H3H4BBJR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H3H4BBJR?tag=rvgearlab-amz-20",
     "description": "Orvexa is rated for up to 50,000 gallons or 5 years and uses micro-sediment membranes, KDF-55 media and coconut shell carbon. It connects to a standard 3/8 inch cold water line and is marketed as NSF certified with lead-free compliance.\n\nAt about $92 it is nearly double the 15UA price and carries the highest capacity rating of the five. The cost per gallon is lowest here if you use that much water.\n\nLarge households and cabins with heavy use will like the 50,000 gallon figure. It saves yearly filter changes.",
     "specs": [
       "50,000 gallons or 5 years",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31wHXkt8JcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FH15SZ3Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FH15SZ3Q?tag=rvgearlab-amz-20",
     "description": "The CuZn UC-150 is a 3-stage under-sink filter rated for 20,000 gallons or 2 years. It uses micro sift membranes, KDF-55 and coconut shell carbon, and it reduces PFAS, PFOA and PFOS, lead and chlorine.\n\nAt about $100 it sits at the cap and doubles the life of the UC-100 for about $30 more. The Waterdrop 15UA has a similar 2-year life for half the price.\n\nBuyers who want the CuZn design with a two-year change cycle will like it. It installs inline without drilling.",
     "specs": [
       "20,000 gallons or 2 years",

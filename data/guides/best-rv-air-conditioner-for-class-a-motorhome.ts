@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31mlcXmPEnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7XC25LJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7XC25LJ?tag=rvgearlab-amz-20",
     "description": "The Dometic FreshJet 3 RV Air Conditioner is described as 14 percent lighter than previous Brisk II units, with durable e-coil evaporators that use less refrigerant. The listing says it is backward-compatible with existing Dometic and competitor air returns and controls and has a shroud with hidden screws.\n\nAgainst the TOSOT 16K, it focuses on compatibility and a lighter build. Against the Arsenda 18K units, it comes from an established RV maker and an easier swap path.\n\nBest for Class A owners replacing an existing Dometic and wanting to keep the same air returns and controls. A good choice when a coach already has Dometic units on other roof positions.",
     "specs": [
       "Rooftop RV air conditioner",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ciNH8rGbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BTRV37RN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BTRV37RN?tag=rvgearlab-amz-20",
     "description": "The TOSOT 16,000 BTU RV Air Conditioner has a 12,500 BTU heat pump and runs at 43 dB. It works in ambient temperatures from 23 to 115 degrees F and is WiFi-ready through the Gree+ app.\n\nAgainst the Renogy 15K, it adds 1,000 BTU of cooling and 12,500 BTU of heating in the same 43 dB class. Against the TURBRO 15K, it offers a heat pump and a quieter rating.\n\nBest for owners who want a quiet heat pump with a smartphone app. The listing says it is for RVs 16 to 24 feet, so confirm that against your coach.",
     "specs": [
       "16,000 BTU, 12,500 BTU heat pump",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/318W06BfE3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H2YJDSSS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H2YJDSSS?tag=rvgearlab-amz-20",
     "description": "The Renogy 3-in-1 RV Air Conditioner is a 15,000 BTU heat pump with a dual-motor, dual-fan system delivering 350 CFM. It runs at 43 dB and has a pull-out high-density filter.\n\nAgainst the TURBRO 15K, it adds a heat pump and a quieter 43 dB. Against the Arsenda 18K units, it trades 3,000 BTU for a lower noise rating.\n\nBest for owners who want quiet heat pump comfort at 15,000 BTU. The pull-out filter makes cleaning simple.",
     "specs": [
       "15,000 BTU heat pump",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41NUyHPn7HL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D73GJ6ZW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D73GJ6ZW?tag=rvgearlab-amz-20",
     "description": "The TURBRO RV Air Conditioner is a 15,000 BTU unit with 1,500W electric heat on 115V AC. The listing gives 52 dB and a smart app, a roof opening of 14.25 by 14.25 inches and a ceiling thickness range of 1.02 to 3.93 inches.\n\nAgainst the Renogy 15K, it uses electric heat rather than a heat pump and costs about the same. Against the Arsenda 18K units, it lists a longer fit detail set.\n\nBest for owners who want app control and stated fit dimensions. The listing says it is suitable for RVs up to 23 feet.",
     "specs": [
       "15,000 BTU, 115V AC",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41RCxEWWSHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GS8DCBQV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GS8DCBQV?tag=rvgearlab-amz-20",
     "description": "The Arsenda 18000 BTU Rooftop RV Air Conditioner is non-ducted and runs 110-120V. It operates at 50 dB with a 23 to 115 degree F outdoor range, and the listing says it also requires 12V DC.\n\nAgainst the Arsenda 18K R32, it carries the same price and capacity with less refrigerant detail. Against the Renogy 15K, it adds 3,000 BTU of cooling.\n\nBest for large coaches that need more cooling per roof position. A good budget option for a second or third unit.",
     "specs": [
       "18,000 BTU, 110-120V",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41TTzBRgFUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H6WNWDR8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H6WNWDR8?tag=rvgearlab-amz-20",
     "description": "The Arsenda 18000 BTU RV Air Conditioner with Heat Pump uses R32 refrigerant and works in outdoor temperatures from 23 to 115 degrees F. The listing says it requires both 115V AC and 12V DC.\n\nAgainst the Arsenda 18K Non-Ducted, it lists the R32 refrigerant and heat pump more clearly at the same price. Against the TOSOT 16K, it offers more cooling at a lower price.\n\nBest for large coaches that want an 18,000 BTU heat pump. The R32 refrigerant is listed for faster cooling and lower energy use.",
     "specs": [
       "18,000 BTU heat pump, R32",

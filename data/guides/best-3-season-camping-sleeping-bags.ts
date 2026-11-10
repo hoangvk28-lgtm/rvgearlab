@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41oGHWPdapL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0896X17S5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0896X17S5?tag=rvgearlab-amz-20",
     "description": "Measuring 90 by 39 inches, the VENTURE 4TH XXL carries a printed comfort range of 30 to 70 degrees F. The shell is water-resistant polyester, the zippers resist snagging, and the brand backs it with a lifetime replacement guarantee.\n\nIts stated low of 30F reaches colder than the 50F to 80F PTEROMY and the 40F to 60F ASHOMELI, and its XXL cut gives more room than the 86.6 inch bags. That range is why it takes the top spot for three-season use.\n\nIt suits tall campers and anyone who spends spring and fall nights near freezing. The guarantee makes it a safe first buy.",
     "specs": [
       "30 to 70F stated range",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51zDRBxzXfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DX6WYJF7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DX6WYJF7?tag=rvgearlab-amz-20",
     "description": "The PTEROMY lists a comfort range of 50 to 80F and a recommended limit of 40 to 90F, with hollowfiber filling, double S-shaped stitching and a spun cotton inner lining. Product weight is stated at 1.35 kg and a compression bag is included.\n\nIt runs warmer than the VENTURE 4TH XXL, so it fits summer and early fall rather than near-freezing nights. Its inner Velcro pocket and bottom foot zipper add small conveniences that the plain bags lack.\n\nIt suits summer campers who want a washable bag with a printed weight and a soft lining. The drawstring at the head and neck helps hold heat.",
     "specs": [
       "50 to 80F comfort range",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41tIk7xiEeL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G57QGDWL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G57QGDWL?tag=rvgearlab-amz-20",
     "description": "Printed ranges on the ASHOMELI run 40 to 60F for comfort and 32 to 77F for limit. The rectangular cut is 86.6 by 32.7 inches, and an inflatable pillow and a stuff sack arrive in the box.\n\nIts 32F lower limit sits near the VENTURE 4TH XXL's 30F, while the inflatable pillow and half-circle hood add comfort that the PTEROMY does not include. A two-way foot zipper vents heat on mild nights.\n\nIt suits campers who want a sleeping bag and pillow from one purchase. The brushed inner lining adds softness.",
     "specs": [
       "40 to 60F comfort range",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41+ShvNeSGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08B3XJV8L?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08B3XJV8L?tag=rvgearlab-amz-20",
     "description": "Stated for 10 to 20 degrees Celsius, the oaskys pairs a tear-resistant 210T polyester outer with a pongee inner and a drawstring hood. Its listed size is 190 plus 30 cm by 75 cm, and a strapped sack is included.\n\nIts stated range suits spring and fall evenings, and the bottom foot zipper lets you open the bag to vent. It costs less than the PTEROMY and ASHOMELI.\n\nIt suits casual campers who want a low-cost bag for mild nights. The surface wipes clean.",
     "specs": [
       "10 to 20 degrees Celsius",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/416O8NMsIAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B077XQ285X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B077XQ285X?tag=rvgearlab-amz-20",
     "description": "Built for 50 to 77F nights, the MalloMe comes in at roughly 3 lb and suits a 6 ft adult. A drawstring headrest, two-sided snag-free zippers and a machine-washable build round out the design.\n\nIt matches the PTEROMY on range at a lower weight than the VENTURE 4TH XXL's big cut, and it states a fit height. Its listing also frames it for kids as well as adults, which the other bags do not.\n\nIt suits families who want one easy-clean bag type for several people. It is a warm-weather bag, so treat it as a summer pick.",
     "specs": [
       "50 to 77F rated",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Okhm6cC9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CL3B2DX3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CL3B2DX3?tag=rvgearlab-amz-20",
     "description": "The HTMEYBG lists a comfort temperature of 50 to 68F with a recommended limit of 41 to 77F. Listed at 86.6 x 31.5 inches and about 3.3 lb, it has a nylon outer, a soft pongee inner and a bottom zipper.\n\nNo other bag in this list costs less, and the page gives both a weight and a size. It also unzips fully into a blanket, which the oaskys listing does not mention.\n\nIt suits budget buyers and emergency-kit builders who want a bag that doubles as a picnic blanket. The compression bag keeps it compact.",
     "specs": [
       "50 to 68F comfort range",

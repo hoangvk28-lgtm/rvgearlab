@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41qLYCRMdTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CYQ371X4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CYQ371X4?tag=rvgearlab-amz-20",
     "description": "The LiTime 12V 100Ah is a Group 24 LiFePO4 battery that weighs 21.9 lbs and carries a built-in 100A BMS. Because it matches the Group 24 footprint, it drops into most tongue boxes that held a lead acid battery, and the listing rates it at 4,000+ deep cycles.\n\nAgainst the Power Queen 150Ah it costs $88.90 less ($311.09 versus $399.99) but gives up about a third of the capacity. Against the Renogy AGM it costs $146.60 more, which buys the weight savings and deeper usable capacity. Pick this if your box is Group 24 and you want one simple swap. Caveat: its low temperature cutoff stops charging near freezing, and it has no heater.",
     "specs": [
       "12V 100Ah LiFePO4",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41nFGl70ufL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BHDG9FQZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BHDG9FQZ?tag=rvgearlab-amz-20",
     "description": "The Power Queen 12V 150Ah packs 150Ah into a Group 27 case and lists up to 1,920W output per battery. That extra case length matters: it is the pick when you want more daily runtime for a DC fridge and furnace without adding a second battery.\n\nIt sits $88.90 above the LiTime G24 and delivers 50% more amp hours in a bigger case, so measure your box first. It also lists low temperature protection and Bluetooth monitoring. Pick this if the box takes Group 27 and you camp two or three nights off grid. Caveat: Group 27 will not fit a Group 24 tray without modification.",
     "specs": [
       "12V 150Ah LiFePO4",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31soCn59teL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D93HR8ZL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D93HR8ZL?tag=rvgearlab-amz-20",
     "description": "The Renogy 12V 100Ah AGM is a sealed lead acid deep cycle battery rated for up to 1,100A max discharge and under 3% monthly self discharge at 77F. At $164.49 it is the lowest cost pick, and the listing states a discharge temperature range of -4 to 140F.\n\nCompared with the LiTime G24 it is $146.60 cheaper, but lead acid is normally only discharged to about 50% to protect its life, so 100Ah behaves like roughly 50Ah of usable power. Pick this if your converter only charges lead acid and you camp on hookups most weekends. Caveat: the listing does not give a weight, and AGM batteries are heavy for a tongue box.",
     "specs": [
       "12V 100Ah AGM",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/415V9jWpIoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BHTWRDNQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BHTWRDNQ?tag=rvgearlab-amz-20",
     "description": "The Interstate 12V 70Ah Group 24 is a pure lead AGM rated 750 CCA, meaning it can crank an engine as well as run house loads. At $259.95 it is a dual purpose marine and RV battery, and the listing claims a service life up to 2x a conventional alloy AGM.\n\nIt costs $95.46 more than the Renogy AGM yet holds only 70Ah, so it is the weaker pick for deep cycling. It makes sense when the same battery might start a generator or serve a boat. Pick this if you want one battery for starting and light house loads. Caveat: skip it as your only house battery for a fridge and furnace.",
     "specs": [
       "12V 70Ah, Group 24",

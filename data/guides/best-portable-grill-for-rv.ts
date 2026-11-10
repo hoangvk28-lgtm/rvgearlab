@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41AGGXEhH3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00IZCNOXK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00IZCNOXK?tag=rvgearlab-amz-20",
     "description": "The Flame King YSNHT500 comes with a bracket that mounts on the side of a motorhome, RV or trailer. It offers 12,000 BTU, an adjustable flame controller, an upper grill deck and 221 square inches of grilling surface, per the listing.\n\nIt can also stand free using its hanging rack as legs, and locking retainer pins and a dual locking lid secure it. It is the only grill here built for RV mounting.\n\nChoose it for full-time RVers or those who want a grill that stays attached. Hoses sold separately connect it to RV propane or a cylinder.",
     "specs": [
       "12,000 BTU, 221 sq in",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41wLtAyLekL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7VBMHXQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7VBMHXQ?tag=rvgearlab-amz-20",
     "description": "The Royal Gourmet PD1305H is a 3-burner tabletop that combines a griddle top, a grill grate and a pot rack, with 364 square inches in total. It lists 29,000 BTU with two 8,500 BTU main burners plus a 12,000 BTU side burner.\n\nIt is the most versatile pick here, and cooks breakfast and dinner on one unit. A side burner lid doubles as a shelf with a 10 lb limit.\n\nChoose it for RV cooks who want to replace a stove outdoors. It suits groups of four or more.",
     "specs": [
       "364 sq in grill and griddle",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Jfgj9PDXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07BLHBV33?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07BLHBV33?tag=rvgearlab-amz-20",
     "description": "The Coleman RoadTrip 285 is a three-burner propane grill with 285 square inches of cooking area. The listing quotes 20,000 BTUs in total, and improved burner technology gives finer temperature control.\n\nIt has the highest power of the five and a mid-range price, between the Flame King and the Royal Gourmet combo. Its size fits most RV bay doors.\n\nChoose it for RV trips where you cook for a crowd. It stands on its own legs, so no table is needed.",
     "specs": [
       "20,000 BTU, 3 burners",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41b0qLD0vjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07BLHHP7V?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07BLHHP7V?tag=rvgearlab-amz-20",
     "description": "The Coleman RoadTrip 225 is a tabletop grill with up to 11,000 BTUs and 225 square inches. Two adjustable burners and a removable water pan for grease are included.\n\nIt is a smaller step down from the 285, easier to stow in an RV bay or pass-through. Two burners still give you separate heat zones.\n\nChoose it for couples in RVs who want a compact, reliable grill. It sits easily on a picnic table.",
     "specs": [
       "11,000 BTU, 2 burners",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41lCVSBME0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GR47TWTM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GR47TWTM?tag=rvgearlab-amz-20",
     "description": "Bestfire is a stainless steel tabletop with 2 burners delivering a total 20,000 BTU, push-button ignition and a thermometer. Removable legs allow tool-free assembly, and the locking lid and handle secure it for carrying.\n\nIt matches the Coleman 285 on listed BTUs at roughly a third of its price. A removable grease tray and dishwasher-safe grate speed cleanup.\n\nChoose it for RV trips on a budget. It stores flat with legs removed.",
     "specs": [
       "20,000 BTU, 2 burners",

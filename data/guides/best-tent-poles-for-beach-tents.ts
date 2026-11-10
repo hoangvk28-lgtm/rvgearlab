@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41yzHXSI0OL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F1Y5YWWL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F1Y5YWWL?tag=rvgearlab-amz-20",
     "description": "The BRILLIANCE4U 25FT pole is a pre-assembled aluminum rod, 25 feet (762cm) long with a 13mm outer diameter and a black corrosion-resistant finish. It is listed for beach tents, canopies, tarps and sun shelters.\n\nAt 13mm it is the thickest of the six, and the 25 foot length gives a long run for a big shelter. The listing describes stable support even in windy conditions.\n\nIt suits a builder of a custom shade or a camper who needs long poles for a big sun shelter. The black finish resists rust and wear.",
     "specs": [
       "25 ft, 13mm diameter",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Aj7Ur2w0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07PPQ55RL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07PPQ55RL?tag=rvgearlab-amz-20",
     "description": "The Neso Gigante poles are two aluminum poles, each 8 feet long in 6 connecting sections, for the Gigante size Neso tent at 11 by 11 feet. They have a patented pole base for stability, nylon cords and a foam ball at the top.\n\nThe patented pole base is the feature that sets it apart, and the listing says it adds stability on land and beach. It is for the Neso Gigante only.\n\nIt suits an owner of the Neso Gigante who lost a pole. It works on land and on the beach.",
     "specs": [
       "8 ft, six sections",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31bM+kCaEbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01MZHT3GD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01MZHT3GD?tag=rvgearlab-amz-20",
     "description": "The Neso 1 poles are two aluminum poles, each 5 feet 6 inches long in 4 sections, for the Neso 1 tent at 7 by 7 feet. They share the patented base, nylon cords and foam ball.\n\nThey are the small twin of the Gigante poles and cost less. The shorter 5 foot 6 inch length suits a smaller canopy.\n\nIt suits a Neso 1 owner who needs a spare. The patented base adds stability on land and beach.",
     "specs": [
       "5 ft 6 in, four sections",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/315cA44QgzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09NNMDRD8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09NNMDRD8?tag=rvgearlab-amz-20",
     "description": "The UMARDOO poles are aluminum foldable poles for UMARDOO sunshades in large and extra-large sizes. They extend to 6.5 feet, weigh 15.8 oz and have a foam ball to prevent tearing.\n\nThey are cut for a named brand, which makes the fit certain for UMARDOO owners. Elastic cord keeps the sections together.\n\nIt suits an owner of an UMARDOO sunshade who needs extras. They fold for space saving.",
     "specs": [
       "6.5 ft, aluminum foldable",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41vOAu-wMRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09NNLGF33?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09NNLGF33?tag=rvgearlab-amz-20",
     "description": "The BOTINDO set has two aluminum poles, each 6.5 feet long and built thicker for windy weather, with a foam ball on top and extra storage pockets. Six short rods connect into each pole.\n\nIt is not tied to a brand like the Neso and UMARDOO poles, so it is the most universal pick. The foam ball is glued on and the tip is sharp for sand.\n\nIt suits a beach camper whose generic sun shelter lost a pole. Measure the original before ordering.",
     "specs": [
       "6.5 ft each, aluminum",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21DGdxAvfjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CSP5C73W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CSP5C73W?tag=rvgearlab-amz-20",
     "description": "The Gorich set is an assembled fiberglass pole 142.5 inches long in 10 sections of 16.14 inches, with an 8.0mm outer diameter and elastic cord. It is sold for the Gorich 3-person beach tent.\n\nIt is the only fiberglass set here, and the cheapest. It can be adjusted to any length by adding or removing sections, as the listing says.\n\nIt suits a Gorich 3-person tent owner or a DIY fixer. It replaces a whole fiberglass or aluminum pole.",
     "specs": [
       "142.5 inch, 10 sections",

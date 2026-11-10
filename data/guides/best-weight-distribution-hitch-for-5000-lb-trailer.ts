@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41uKUTDbFFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G1FYZQBR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G1FYZQBR?tag=rvgearlab-amz-20",
     "description": "VEVOR's kit lists 10,000 lb GTW and 1,000 lb tongue weight, the lowest stated rating among the complete kits here. VEVOR's weight distribution hitch lists 10,000 lb maximum towing and 1,000 lb maximum tongue weight and includes a 2-inch shank and a 2-5/16 inch ball.\n\nIt is closer to a 5,000 lb load than Fastway e2 92-00-1200 and costs far less than either Fastway kit. It still has twice the gross rating a 5,000 lb trailer needs.\n\nBest for a 5,000 lb trailer on a tight budget with a tongue weight toward the upper end. Confirm the numbers that matter for a 5,000 lb setup with the seller before buying.",
     "specs": [
       "10,000 lb GTW, 1,000 lb TW",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ZjOf+aK6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B001TNNJAA?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B001TNNJAA?tag=rvgearlab-amz-20",
     "description": "The Fastway e2 92-00-1000 has built-in two-point sway control and states 10,000 lb and 1,000 lb tongue weight. The Fastway e2 92-00-1000 is a trunnion-style weight distribution hitch with built-in two-point sway control, rated 10,000 lb trailer weight and 1,000 lb tongue weight.\n\nIt carries the same ratings as VEVOR 10000 lb with integrated sway control, at a much higher price. Its bars may be stiff for a 500 lb tongue weight.\n\nBest for a 5,000 lb trailer that also needs built-in sway control. It is the complete-kit version of the 10K e2, and the listing numbers it separately from the 92-00-1033 that omits the shank.",
     "specs": [
       "10,000 lb trailer rating",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/312I3XcGAbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F45W9G5X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F45W9G5X?tag=rvgearlab-amz-20",
     "description": "CURT's 17599 TruTrack 2P is a round bar hitch with integrated sway control whose listing states no trailer or tongue weight. CURT's 17599 TruTrack 2P is a round bar weight distribution hitch with integrated sway control and a tilting head for adjustment. The listing does not give a trailer weight or tongue weight rating.\n\nIt has no stated rating to compare with a 5,000 lb load, unlike the two kits above. Ask the seller for the numbers.\n\nBest for a buyer who confirms the rating first. Ask for the ratings before ordering for a specific trailer.",
     "specs": [
       "TruTrack 2P round bar",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ZjOf+aK6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0071L48Z4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0071L48Z4?tag=rvgearlab-amz-20",
     "description": "The Fastway e2 92-00-1200 states 12,000 lb and 1,200 lb tongue weight, more than a 5,000 lb trailer needs. The Fastway e2 92-00-1200 is a trunnion-style weight distribution hitch with built-in two-point sway control, rated 12,000 lb trailer weight and 1,200 lb tongue weight.\n\nIt has the highest stated rating here and costs about the same as the 10K e2. A 1,200 lb tongue weight rating is far above a 5,000 lb trailer's load.\n\nBest only if you plan to upgrade to a heavier trailer. It is the stronger of Fastway's two 10K and 12K e2 listings, so choose it when loaded tongue weight approaches 1,000 lb.",
     "specs": [
       "12,000 lb trailer rating",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31-dwwJBk-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B001GMX2C4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B001GMX2C4?tag=rvgearlab-amz-20",
     "description": "CURT's 17314 are replacement conical washers for CURT trunnion hitches. CURT's 17314 are replacement conical washers for CURT trunnion bar weight distribution hitches.\n\nIt is a part, not a hitch, and costs a small fraction of any kit. It does nothing for a 5,000 lb load by itself.\n\nBest for an existing CURT trunnion owner. Buy them only as a replacement part.",
     "specs": [
       "Replacement conical washers",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31PuNyTL-tL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GX1Z4Q9M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GX1Z4Q9M?tag=rvgearlab-amz-20",
     "description": "Perfect Pairz sells round bar retainers with clips, locking pins and rivets for CURT 17600 and 17601. Perfect Pairz sells a replacement retainer package for round bar weight distribution hitches with two clips, two locking pins and two rivets. The listing says it is compatible with CURT 17600 or 17601.\n\nIt is another small part and costs about the same as CURT 17314 Washers. It adds no rating.\n\nBest for replacing lost retainers. Buy it only to replace retainers, and check the part number.",
     "specs": [
       "Round bar retainer package",

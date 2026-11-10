@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51rTlu+RpKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B082KHK2XH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B082KHK2XH?tag=rvgearlab-amz-20",
     "description": "The ALOCS 3-pot set has pots of 2.3Qt, 1.3Qt and 1.1Qt plus a non-stick pan, made of hard-anodized aluminum with food-grade silicone. The handles are welded rather than riveted and fold flat for packing.\n\nAt about $46 it costs $18 less than the 4-piece ALOCS family kit and gives you three pot sizes instead of two. It does not include utensils, which the 17 and 18 piece kits do.\n\nGroups of two to four who cook a main and a side at once on a two-burner stove will use every piece. The sizes are planned for that.",
     "specs": [
       "2.3Qt, 1.3Qt and 1.1Qt pots",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41mT2ZMuKeL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DD779YPQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DD779YPQ?tag=rvgearlab-amz-20",
     "description": "This ALOCS set includes a 1.7L pot, a 3L pot, a 0.8L kettle and an 8 inch frying pan, all packed into one bag. The hard-anodized aluminum has insulated folding handles with a slip-resistant grip, and it handles frying, stir-frying, boiling and steaming.\n\nAt about $64 this is the priciest set here and the only one with a 3L pot, the volume a family of four needs for pasta or chili. The ALOCS 3-Pot Set costs about $18 less and tops out at a 2.3Qt pot.\n\nFamilies and groups of three to four get a large pot plus a kettle in a tidy bag. Weight is the cost of that capacity.",
     "specs": [
       "1.7L pot, 3L pot, 0.8L kettle",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51dm+1kR2lL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BV3BP919?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BV3BP919?tag=rvgearlab-amz-20",
     "description": "This 18-piece kit has a 2.0L pot with a lid, a 1.2L teapot, a pan, two steel plates, two steel cups and a spoon and fork. The aluminium alloy is non-stick coated and comes with a stove and adapter in the box.\n\nAt about $37 it costs $9 less than the ALOCS 3-Pot Set and adds a stove and place settings for two, so it is the better pick for a first kit. The 3-pot set is better if you already own a burner.\n\nCouples and solo campers get plates, cups and a burner in one package. It is the most complete starter here.",
     "specs": [
       "2.0L pot, 1.2L teapot",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/417mt+B68ZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H2J39VHD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H2J39VHD?tag=rvgearlab-amz-20",
     "description": "MalloMe is a 17-piece hard-anodized aluminum kit with a 1.7L pot, a 1.15L kettle and a 7 inch frying pan, plus two stainless cups, two plates and heat-resistant handles. All pieces nest into a compact bundle.\n\nIt costs about $34, roughly $3 more than the Stove Combo Kit and $3 less than the Smokey Camp, and it drops the stove for stainless cups and plates. It suits campers who already own a burner.\n\nTwo campers get a kettle, a pan and a place setting in one tidy kit. Owners of a stove can stop shopping here.",
     "specs": [
       "17 pieces, hard-anodized aluminum",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41tGYFRWBYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DJ78B3KG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DJ78B3KG?tag=rvgearlab-amz-20",
     "description": "This 18-piece kit combines a mini stove with piezo ignition and a storage box with a 2L pot, a 7 inch non-stick pan and a kettle in hard-anodized aluminum. The set is designed for two to three people and nests inside the biggest pot.\n\nIt is one of the cheaper picks at about $31, and next to the Smokey Camp it gives you a push-button igniter rather than a basic stove. The Smokey Camp adds place settings for two.\n\nCampers who want a ready-to-cook kit without hunting for a burner are the target. Use the stove outdoors only, never inside a tent.",
     "specs": [
       "Mini stove with piezo ignition",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31xCtkRRqIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FRN9W1M9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FRN9W1M9?tag=rvgearlab-amz-20",
     "description": "The Photway pot is pure titanium with a 0.5 mm wall and a 750 ml capacity. It weighs 4.44 oz with its lid, measures 95 mm by 116 mm and fits a 450 ml cup or a small fuel canister inside.\n\nAt about $22 it is the cheapest pick and the lightest by far, and it gives up the pans and utensils that every kit above includes. It pairs with any of the stoves here for solo trips.\n\nSolo trekkers who only boil water for freeze-dried dinners and coffee will carry it happily. It does that one job well.",
     "specs": [
       "750 ml titanium, 4.44 oz",

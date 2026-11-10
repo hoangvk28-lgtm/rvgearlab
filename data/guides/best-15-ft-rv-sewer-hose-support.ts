@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41cM+Q9ufuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FGQ11CKP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FGQ11CKP?tag=rvgearlab-amz-20",
     "description": "The RVSNAIL 15 foot support is fully assembled with a deep U-shaped structure, upgraded slope and carrying strap. It uses premium polypropylene and an accordion design that curves around obstacles.\n\nIt costs the same as the two Kohree supports and adds a carry strap and an upgraded slope. The strap is what separates it from the plain Kohree.\n\nBest for owners who move often and want a strap. A solid value at 15 feet.",
     "specs": [
       "15 ft accordion, premium PP",
@@ -53,7 +53,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41XdAlc9IkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DJT3C36B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DJT3C36B?tag=rvgearlab-amz-20",
     "description": "Black polypropylene forms the Kohree 15 foot support, an accordion-style cradle whose deep U profile cups the hose. It is ready out of the box and adjusts in height.\n\nIt costs marginally more than the orange Kohree and carries no extras. Compared with the RVSNAIL, it leaves out the strap.\n\nBest for buyers who like black plastic and a simple setup. A reliable base choice.",
     "specs": [
       "15 ft accordion, polypropylene",
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41TeBkgkqAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CQ2799YZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CQ2799YZ?tag=rvgearlab-amz-20",
     "description": "The Kohree 15 foot orange support has the same polypropylene accordion build and deep U-shaped cradle. The bright orange body is easier to see in grass and gravel.\n\nIt costs a little less than the black version with identical stated specs. The color lowers the chance of tripping over it.\n\nBest for owners who want a visible support. A smart choice for shared campsites.",
     "specs": [
       "15 ft accordion, polypropylene",
@@ -107,7 +107,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/518aJnHZzJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DP8R7CB5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DP8R7CB5?tag=rvgearlab-amz-20",
     "description": "The WELLUCK 15 foot support has a steeper slope, nine height settings and four guy ropes with a storage strap. It is made from weather-resistant plastic that handles wind, rain and UV.\n\nIt costs less than the Kohree and offers the widest adjustment. The guy ropes are the feature the Kohree lacks.\n\nBest for windy or uneven sites. A feature-rich, low-cost pick.",
     "specs": [
       "15 ft, nine height settings",
@@ -134,7 +134,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51dlAnBKZyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DP92CCX2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DP92CCX2?tag=rvgearlab-amz-20",
     "description": "The PAULINN 15 foot support has a widened bottom and deep U-design that hug the hose. It folds like an accordion, adjusts in height and needs no assembly.\n\nIt costs slightly less than the WELLUCK and focuses on a wide base for stability. The base is wider than the Kohree.\n\nBest for owners who want a stable base on soft ground. A solid value.",
     "specs": [
       "15 ft accordion",
@@ -161,7 +161,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41qhpvhun+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DP98P7T7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DP98P7T7?tag=rvgearlab-amz-20",
     "description": "The BEBOBLY 15 foot support fits hoses up to 15 feet and up to 3.8 inches in diameter. It has a deep cradle, a rubber band and a carry strap.\n\nIt is the lowest priced pick and keeps the strap and band. Compared with the PAULINN, it offers less height detail.\n\nBest for budget buyers who want a strap. A neat, low-cost support.",
     "specs": [
       "15 ft, hoses to 3.8 inches",

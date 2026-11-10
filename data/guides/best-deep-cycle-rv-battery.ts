@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Oi4nZc5hL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F4WS1BGY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F4WS1BGY?tag=rvgearlab-amz-20",
     "description": "Power Queen fits 125Ah of LiFePO4 into a BCI group 27 case (12.13 x 6.69 x 8.31 inches), which is about 320Wh more than a typical 100Ah lithium battery of the same size. Built-in Bluetooth 5.0 lets you check state of charge, voltage, current, and temperature from your phone.\n\nIt ranks first because it gives the most usable energy per tray slot in this roundup: lithium can be drained much deeper than the Renogy AGM, so this one battery delivers more than double the AGM's practical capacity. Against the CYCLENBATT below, you pay more but get 25Ah extra and app monitoring.\n\nBest for travel trailer and fifth-wheel owners upgrading from lead acid who want one drop-in battery. The caveat is that it is not a starting battery, and you should confirm your converter or solar controller has a lithium charging profile.",
     "specs": [
       "12V 125Ah, group 27 size",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31soCn59teL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B075RFXHYK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B075RFXHYK?tag=rvgearlab-amz-20",
     "description": "Renogy's 100Ah AGM is the lead acid benchmark in this list, with a sealed design, a 1100A five-second maximum discharge, and a published discharge range from -4F to 140F. It supports unlimited series connections and up to four in parallel.\n\nIt ranks second because AGM still solves problems lithium does not: it charges in cold weather without a heater and works with older converters that lack a lithium setting. Compared with the Power Queen above, though, it offers far less usable energy and weighs much more, which is the real cost of choosing lead acid.\n\nBest for owners who camp in freezing weather or do not want to upgrade their charging system. The caveat is runtime: treat it as roughly 50Ah usable if you want it to last.",
     "specs": [
       "12V 100Ah sealed AGM",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41+kGuAsSsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F9P5261G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F9P5261G?tag=rvgearlab-amz-20",
     "description": "CYCLENBATT's group 27 LiFePO4 measures about 12.09 x 6.65 x 8.19 inches and includes a low-temperature cutoff: the BMS stops charging when cells drop below 32F and resumes at 40F. It comes with a five-year warranty.\n\nIt ranks third because it brings the essential lithium safety feature for RVs, cold-charge protection, at a lower price than the Power Queen. The tradeoff is 25Ah less capacity and no app, so you need a separate battery monitor to see state of charge accurately.\n\nBest for budget-conscious owners making their first lithium switch who camp in shoulder seasons. The caveat is that a cutoff only prevents damage; it does not warm the battery, so solar will not charge it on cold mornings until the battery warms above 40F.",
     "specs": [
       "12V 100Ah, group 27 fit",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41UFwbwCKDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G7M82Q7K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G7M82Q7K?tag=rvgearlab-amz-20",
     "description": "The MM-G27M is a group 27M dual purpose AGM rated 100Ah, with 850 marine cranking amps and 170 minutes of reserve capacity. Mighty Max publishes up to 700 cycles at 50% depth of discharge, and the 12.06 x 6.62 x 8.25 inch case weighs 61.7 pounds.\n\nIt sits behind the CYCLENBATT because 700 cycles is a fraction of what LiFePO4 promises, but it can crank an engine, which no lithium pick here can. Against the Renogy AGM above, it adds a cranking rating and a published cycle count, while the Renogy offers a wider published cold discharge range.\n\nBest for Class C and van owners who want one sealed battery able to handle starting duties too. The caveat is lifespan: for a dedicated house battery, lithium gives far more total cycles for the money.",
     "specs": [
       "12V 100Ah, group 27M",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51auKKcYtqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HCY8FRX3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HCY8FRX3?tag=rvgearlab-amz-20",
     "description": "RVLithTime's group 24 LiFePO4 is the cheapest battery in this roundup and still includes a 100A BMS with overcharge, over-discharge, short circuit, and low-temperature charging protection. The maker rates it for up to 15,000 cycles.\n\nIt ranks fifth because the listing is thin: there are no published dimensions, weight, or warranty term, which the CYCLENBATT above spells out clearly. In return it costs about half as much as the Power Queen, making it the easiest way to try lithium in a small trailer.\n\nBest for pop-up and small travel trailer owners on a tight budget. The caveat is the sparse spec sheet; confirm fit with the seller before ordering, and note that a 100A BMS limits you to roughly a 1000W inverter.",
     "specs": [
       "12V 100Ah, group 24",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41n3Oxf2T7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FDQN5377?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FDQN5377?tag=rvgearlab-amz-20",
     "description": "Marxon's group 27M is a 92Ah dual purpose lead-calcium battery with 800 CCA and 175 minutes of reserve capacity, measuring 12.05 x 6.61 x 8.19 inches. It ships with two terminal sizes and is backed by 24-month replacement through a US office.\n\nIt ranks last because it is the least capable house battery here, but it suits rigs where one battery must start the engine and run accessories. Against the Mighty Max MM-G27M, it trades 8Ah of capacity for a slightly lower price and a no-spill design rated to 45 degrees of tilt.\n\nBest for owners of compact rigs with only one battery tray. The caveat is that dual purpose batteries wear faster under daily deep discharge, so this is not the pick for frequent off-grid camping.",
     "specs": [
       "12V 92Ah, group 27M",

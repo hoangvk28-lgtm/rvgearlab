@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411lWllxOCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07S4DRDNT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07S4DRDNT?tag=rvgearlab-amz-20",
     "description": "The Cascade Mountain Tech Carbon Fiber poles are advertised at 8.1 oz each, with quick-lock extension from 26 to 54 inches and cork grips with an extended foam grip below. The kit includes snow and mud baskets, rubber tips, a pole clip and a carry bag.\n\nThey cost about $52, around $12 more than the TrailBuddy 7075, and carbon fiber cuts weight and softens vibration compared with aluminum. The kit of baskets and tips is more complete than any other pick.\n\nThey suit hikers who walk long days and feel every ounce on the swing. The cork grip absorbs sweat and vibration.",
     "specs": [
       "Carbon fiber, about 8.1 oz",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51L6Zz+ObAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D84ZRMSY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D84ZRMSY?tag=rvgearlab-amz-20",
     "description": "The Hiker Hunger Foldable poles collapse to 15 inches and use aircraft-grade aluminum at 9.95 oz in the short version and 10.7 oz in the long. They come in two sizes, 100 to 120 cm for hikers 5 feet 8 inches and under and 115 to 135 cm for taller hikers, with metal flip locks and cork or EVA grips.\n\nThey cost about $45, about $7 less than the Cascade Carbon Fiber, and they fold to a third of the Cascade's collapsed length. They weigh a little more than carbon.\n\nThey suit travelers who fly and hikers who strap poles inside a pack. The two sizes keep the weight down.",
     "specs": [
       "Folds to 15 inches",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/5117h1WnA4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07Q33RFHN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07Q33RFHN?tag=rvgearlab-amz-20",
     "description": "The Trekology Trek-Z is a tri-fold aluminum pole that folds to 15 inches and weighs 10.4 oz in the 100 to 120 cm size and 10.8 oz in the 115 to 135 cm size. It has a flip-lock adjustment with a 20 cm range, metal lock caps, reinforced joints and an EVA grip.\n\nIt costs about $40, $5 less than the Hiker Hunger Foldable, and it uses an EVA grip rather than cork. The weight is within half an ounce of the Hiker Hunger.\n\nIt suits day hikers and travelers who want a folding pole for the lowest price. It fits in checked luggage.",
     "specs": [
       "Folds to 15 inches",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/515LQZ2wjKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01N69RARX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01N69RARX?tag=rvgearlab-amz-20",
     "description": "The TrailBuddy poles use 7075 aircraft-grade aluminum at 9.7 oz each, adjust from 24.5 to 54 inches and use one-handed lever locks. Cork handles and padded straps mold to the hand, and threaded tips hold the included accessories.\n\nThey cost about $40, about $12 less than the Cascade Carbon Fiber, and they have a wider adjustment range than the folding poles. They do not fold as small as the Hiker Hunger or Trekology.\n\nThey suit hikers who want strong, light telescoping poles on a budget. Kids can use them at the shortest setting.",
     "specs": [
       "7075 aluminum, 9.7 oz",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21MHuHuKtiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B004O37CNM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B004O37CNM?tag=rvgearlab-amz-20",
     "description": "The Brazos Hitchhiker is a 48 inch handcrafted oak walking stick made in the USA with a thumbs-up handle, a distinctive twist and a rubber tip for traction. Each stick is made one at a time.\n\nIt costs about $42, near the TrailBuddy 7075, and it is the only wood pick, a single stick rather than a pair. It has no adjustment or folding, so it suits trails where a fixed length works.\n\nIt suits walkers and day hikers who want a classic stick. It makes a good gift.",
     "specs": [
       "48 inch oak stick",

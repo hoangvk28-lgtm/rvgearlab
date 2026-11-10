@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31LK3sZEb3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09GY73946?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09GY73946?tag=rvgearlab-amz-20",
     "description": "The ZMNT lists 1000 lumens, a 6700mAh battery that doubles as a power bank, up to 300 hours at the lowest setting, 4 modes (cold white, natural white, warm white and SOS) and infinite dimming. It has a hook, a strong built-in magnet, an IPX5 rating and a 2-year warranty.\n\nIt has the longest runtime and the best weather rating here. It costs more than the Xynover set.\n\nIt suits campers who want a robust lantern that sticks to metal and charges a phone. The 2-year warranty adds confidence.",
     "specs": [
       "1000 lumens, 6700mAh",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41WwwdkZDML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H21RL8C4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H21RL8C4?tag=rvgearlab-amz-20",
     "description": "The ATFIXM 2-pack has 180 LED beads each, solar and USB charging, a digital display, 5 to 18 hours of lighting and 5 modes. It acts as a power source for phones when above 32% charge, and has a strong magnetic base with an adjustable stand.\n\nIt is the only solar pick and it is sold as a pair, with a bigger LED count than the others. It costs the most.\n\nIt suits campers who want two bright magnetic lights charged by the sun. The adjustable stand tilts the beam.",
     "specs": [
       "180 LEDs each, solar and USB",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31h2bR8hIkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F27SRF7B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F27SRF7B?tag=rvgearlab-amz-20",
     "description": "The SIOLAXEN is a rechargeable magnetic light bar with a 5500mAh battery, 5 modes at 2200, 1000 and 300 lumens plus strobe and SOS, and IP54 resistance. It has a magnetic strip and a folding hook on a 6.8 inch body.\n\nIt is the only bar-style pick and has the highest lumen figure here. It costs less than the ZMNT.\n\nIt suits campers who want strong light on a vehicle hood or a pipe. It charges by USB-C.",
     "specs": [
       "5500mAh, up to 2200 lumens",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41sXJi5z3+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GGNNJVHQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GGNNJVHQ?tag=rvgearlab-amz-20",
     "description": "The Xynover 4-pack lanterns run on 3 AA batteries each, with three high-strength magnets on the back, a hanging hook, a collapsible design and a waterproof build. They measure 5.1 to 10 inches by 3.35 inches and use flicker-free LED beads.\n\nIt is a four-light set at a modest price, and the batteries avoid the swelling issues of built-in packs. It has no lumen figure.\n\nIt suits families who want a light per tent and per table. The collapsible shape packs flat.",
     "specs": [
       "4 lanterns, 3 AA each",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41gyaIi-BOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07983QSXT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07983QSXT?tag=rvgearlab-amz-20",
     "description": "The AlltroLite 3-pack has 27 LEDs per light, a 360 degree rotatable hook, a magnetic back and a push-button, powered by batteries. They fit bedrooms, closets, garages and cars.\n\nIt lists 27 LEDs per light against 24 on the Cade. It is dimmer than the lanterns.\n\nIt suits campers who want small spot lights for the car trunk or a tent corner. The magnet sticks to metal.",
     "specs": [
       "3 lights, 27 LEDs each",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/515WX9FTaxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00UMSEP0Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00UMSEP0Q?tag=rvgearlab-amz-20",
     "description": "The California Cade 3-pack has 24 LEDs per light for about 50 lumens, an integral hanging hook, a magnetic back and 3 AAA batteries each that are not supplied. The listing names garage, home, camping and tent use.\n\nIt is the cheapest set and the dimmest, at a stated 50 lumens. Compared with the AlltroLite it has fewer LEDs.\n\nIt suits campers who want cheap magnetic spot lights for gear. The hook and magnet give two mounts.",
     "specs": [
       "3 lights, 24 LEDs, 50 lumens",

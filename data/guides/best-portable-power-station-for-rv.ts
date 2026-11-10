@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/415Ex6a1IZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GKRTX336?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GKRTX336?tag=rvgearlab-amz-20",
     "description": "The BLUETTI Elite 300 stores 3,014Wh and outputs 2,400W, with a TT-30 RV outlet and a 12V/30A DC output for fridges and pumps. It has a 10ms UPS switchover, app control, and recharges from AC, solar or a car.\n\nAt $1,098.99 it costs $149.01 more than the BLUETTI AC200PL and gives about 710Wh more capacity. Pick this if you want direct TT-30 plug-in. Caveat: the listing gives no weight, so confirm it before buying.",
     "specs": [
       "3,014Wh, 2,400W output",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zQ10TNbdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D17CW6KK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D17CW6KK?tag=rvgearlab-amz-20",
     "description": "The BLUETTI AC200PL holds 2,304Wh of LiFePO4 with four 2,400W AC outlets, a TT-30 port, a 48V/8A DC port and 11 ports in total. AC input reaches 2,400W for a 0 to 80 percent recharge in 60 minutes, and 1,200W of solar works.\n\nAt $949.98 it is $149.01 below the Elite 300 and holds about 710Wh less. Pick this if you expect to grow, since it expands to 8,448Wh using extra batteries. Caveat: expansion batteries cost extra, and the weight is not in the listing.",
     "specs": [
       "2,304Wh LiFePO4, 3000+ cycles",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31MKjmDYAXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FM8653F1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FM8653F1?tag=rvgearlab-amz-20",
     "description": "The Jackery HomePower 3600 Plus holds 3,584Wh, outputs 3,600W (7,200W in parallel) with 120V and 240V options, and recharges 0 to 100 percent in about 2 hours on hybrid AC and DC. It lists ceramic membrane cells and claims to be 29.3 percent lighter than other models.\n\nAt $1,709 it is $610.01 above the BLUETTI Elite 300 for 570Wh more capacity and 1,200W more output. Pick this if you must run a rooftop air conditioner or microwave. Caveat: no RV outlet, weight or dimensions appear in the listing.",
     "specs": [
       "3,584Wh, 3,600W output",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41LPWKTY8CL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FN7MSY4L?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FN7MSY4L?tag=rvgearlab-amz-20",
     "description": "The Anker SOLIX C1000 Gen 2 holds 1,024Wh, outputs 2,000W (3,000W peak) through 10 ports, and fully recharges at 1,600W in 49 minutes. It takes 600W of solar in 1.8 hours, and lists 4,000 cycles to 80 percent.\n\nAt $499.99 it is $99.01 below the BROWEY 1600W and the cheapest here, but its 1,024Wh is about a third of the Elite 300. Pick this if you need a weekend unit for a van or small trailer. Caveat: no TT-30 port is listed.",
     "specs": [
       "1,024Wh, 2,000W (3,000W peak)",
@@ -133,7 +133,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41R8KCK94EL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F4D67J3L?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F4D67J3L?tag=rvgearlab-amz-20",
     "description": "The BROWEY 1600W has 1,024Wh of LiFePO4 and 1,600W (3,200W peak) pure sine output, with a built-in solar panel and an iF Design Award mention. It recharges to 80 percent in about 3 hours using AC plus 100W PD USB-C.\n\nAt $599 it costs $99.01 more than the Anker C1000 with the same 1,024Wh and lower output, so the extra money buys the built-in panel. Pick this if you want a trickle of solar without carrying separate panels. Caveat: the integrated panel is small, and the weight is not listed.",
     "specs": [
       "1,024Wh LiFePO4, 3000+ cycles",

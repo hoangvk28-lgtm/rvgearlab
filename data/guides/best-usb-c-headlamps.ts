@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41TmfxA6f0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DY2SW4CH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DY2SW4CH?tag=rvgearlab-amz-20",
     "description": "The Nitecore NU25 MCT UL puts out 400 lumens with a 144 yard beam at just 1.65 ounces, with warm, natural and cool white tints and an auxiliary red light. It charges over USB-C in just over an hour, runs up to 45 hours, has a power indicator, and carries an IP66 rating with 1 meter impact resistance.\n\nIt has the widest beam control of the four thanks to its three color temperatures, and a farther beam than the NU20 Classic's 119 yards. The NU20 Classic offers longer low-mode runtime.\n\nIt suits backpackers and campers who want the best tool for fog, rain and map work. Warm white cuts through mist and eases eye strain.",
     "specs": [
       "400 lumens, 144 yard beam",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41SnjVP0afL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DCQDXSS5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DCQDXSS5?tag=rvgearlab-amz-20",
     "description": "The Nitecore NU20 Classic weighs 1.34 ounces and delivers up to 360 lumens with a 119 yard beam. It lists 97 hours on low mode, a recharge in just over an hour through USB-C, SOS and beacon modes, an auxiliary red light and an IP66 rating with 1 meter impact resistance.\n\nIt is lighter and cheaper than the NU25, and its listed runtime is more than double. It gives up the NU25's color temperatures and some beam distance.\n\nIt suits ultralight hikers and runners who count every ounce. The red light preserves night vision at camp.",
     "specs": [
       "360 lumens, 119 yard beam",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ffOTBYoBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B9GVXLKB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B9GVXLKB?tag=rvgearlab-amz-20",
     "description": "The Blukar has three lights and 5 modes: main light, side light, all lights, all lights flashing and a red main light. It has an adjustable zoom, charges over USB-C in about 5 hours, rotates 90 degrees and carries an IPX6 rating with a sealed battery compartment.\n\nIts IPX6 rating covers water jets, and the Nitecore pair's IP66 adds dust sealing on top. It also adds a zoom that neither Nitecore lists and charges more slowly than either.\n\nIt suits budget campers and workers who want a zoom beam and a sealed body. The red main light helps at night.",
     "specs": [
       "Three lights, 5 modes, red main",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31dXML814CL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DJGKCW14?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DJGKCW14?tag=rvgearlab-amz-20",
     "description": "The Nessciera lists 400 lumens, a 230 degree wide beam reaching up to 70 meters, 5 modes and Type-C charging. It weighs 69 grams (2.4 ounces), and the listing says one charge lasts up to 6 hours with rain and splash protection.\n\nIts price is under every other lamp here, and it offers the widest beam angle, where the Nitecore models reach farther. Its runtime is the shortest listed.\n\nIt suits runners, dog walkers and campers who want a wide flood for close work. The adjustable band fits adults and kids.",
     "specs": [
       "400 lumens, 230 degree beam",

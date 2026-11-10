@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Hwjy+SVyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CFKZ5Q97?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CFKZ5Q97?tag=rvgearlab-amz-20",
     "description": "BougeRV's Sunflow is the best-documented MPPT here, with a named efficiency figure, a PV ceiling and a cold-charge safeguard. BougeRV's Sunflow is a 40A MPPT controller for 12V or 24V banks that accepts up to 600W of panels on 12V (1200W on 24V) and a maximum 95V PV input. Low-temperature cut-off below 32F stops charging a LiFePO4 battery in freezing weather, and an app connects within about 32 feet.\n\nIt stands above Renogy Rover 20A in rating (40A against 20A) and adds low-temperature cut-off, though it lacks the Rover's surge protection claims. Against EARNMee 60A it gives up amps but offers an app and a more detailed spec sheet.\n\nBest for a RV with a LiFePO4 house bank and about 600W of panels. Its terminals take 15 to 8 AWG wire, so plan your cable run around that and fuse the battery side correctly.",
     "specs": [
       "40A MPPT, 12V/24V",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41FFLf711+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FMRH41R3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FMRH41R3?tag=rvgearlab-amz-20",
     "description": "EARNMee's 60A unit is the pick for large rigs, with 145V of PV input and manual voltage selection. EARNMee's 60A MPPT controller takes PV input of 18 to 145V on a 12V battery and lets you select 12V, 24V or 48V output manually. Temperature-controlled air cooling and an LCD with real-time system data round it out, and the listing names lead-acid, colloidal and lithium batteries.\n\nIt out-muscles BougeRV Sunflow 40A in capacity and PV input but expects you to choose battery voltage yourself. Against VQP 100A it is more conservative in rating, which is likely closer to what a big RV actually needs.\n\nBest for large motorhomes and fifth wheels with big arrays. Set the battery voltage yourself before connecting panels, since this unit does not auto-detect it.",
     "specs": [
       "60A MPPT, manual voltage",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31jAWiM6l2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01MRWTAB5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01MRWTAB5?tag=rvgearlab-amz-20",
     "description": "Renogy's Rover 20A is a well-known 20A MPPT with documented temperature compensation and surge protection. The Rover 20A is a 12V/24V auto-detecting MPPT unit that accepts up to 260W on 12V (520W on 24V) with Voc up to 100V. The listing cites multi-peak tracking for shade, temperature compensation, a 6kV surge diode and four-stage charging with lithium recovery.\n\nIt costs less than BougeRV Sunflow 40A but handles only 260W on 12V, and Bluetooth needs an extra module. Compared with Bateria Power 10A it triples the array size it can take.\n\nBest for a van or small trailer with one to two panels. Bluetooth only works with the BT2 module sold separately, so budget for it if you want phone monitoring.",
     "specs": [
       "20A MPPT, 12V/24V auto",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/417EzLj4qSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BNKGC5SM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BNKGC5SM?tag=rvgearlab-amz-20",
     "description": "Bateria Power's 10A model is sized for one small panel, with a 150W limit and 30V Voc ceiling. This Bateria Power model is a 10A MPPT controller designed for 12V batteries only, with a 150W maximum PV input and a 30V Voc limit. The listing says panel Voc must be at least 15V, and it includes an LCD and LED indicator in a compact body.\n\nIt undercuts Renogy Rover 20A on price and size but gives up 12V/24V flexibility and roof-array capacity. Next to VQP 100A it is far smaller and much more constrained.\n\nBest for suitcase panels and small trailers. At 150W it is a portable-panel or small-trailer solution, not a roof-array controller.",
     "specs": [
       "10A MPPT, 12V only",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Sf0m+n6RL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FH67KWS6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FH67KWS6?tag=rvgearlab-amz-20",
     "description": "VQP's 100A controller covers 12V through 48V with a stated tracking efficiency of up to 99%. VQP's 100A MPPT controller auto-recognizes 12V, 24V, 36V and 48V systems and lists tracking efficiency of up to 99%. It adds light and time control modes, an LCD and two 5V USB ports, and works with lithium and lead-acid chemistries.\n\nIt has more rating than EARNMee 60A for less money, but the listing is lighter on documentation than BougeRV Sunflow 40A. Light and time modes add flexibility you may not use.\n\nBest for DIY builders who may change battery voltage later. A 100A rating is far more than a typical RV needs, so confirm the max PV voltage and warranty with the seller before buying.",
     "specs": [
       "100A MPPT, auto 12V to 48V",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41dPcOs-eaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D9VK4GTP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D9VK4GTP?tag=rvgearlab-amz-20",
     "description": "Dawnice's 30A listing sits at the very low end of the price range and is labeled with both PWM and MPPT in its title. Dawnice lists a 30A 12V/24V controller with auto parameter setting, an adjustable LCD, dual USB ports and timer settings. The title mentions both PWM and MPPT, and the listing carries no feature bullets or tracking-efficiency figure.\n\nCompared with Bateria Power 10A it offers three times the amps and a timer, but its listing gives no tracking efficiency or PV voltage. That makes it harder to compare with VQP 100A or the documented units above.\n\nBest for a budget secondary system where you accept limited detail. Because the listing gives little detail, confirm the charging method, max PV voltage and warranty with the seller before relying on it.",
     "specs": [
       "30A, 12V/24V auto",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51laq8VTYTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D6R37CZW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D6R37CZW?tag=rvgearlab-amz-20",
     "description": "The Sutaig Solar lists 39.4 ft with 130 warm white LEDs, a 3600mAh battery and charging by solar in 8 hours or USB-C in 4 hours. The remote offers timers of 4, 6 or 8 hours, and three brightness levels with five modes.\n\nIt matches the SMY on battery size and mixes in a crank-reel that stores the string in about 30 seconds. It runs longer than the 32.8 ft Sutaig and OGERY reels.\n\nIt suits campers who want a long string with a timer for falling asleep. Solar and USB-C charging give two ways to keep it topped up.",
     "specs": [
       "39.4 ft, 130 LEDs",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/514rut6oowL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D8Q2M76J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D8Q2M76J?tag=rvgearlab-amz-20",
     "description": "The SMY lists 42.6 ft with 160 warm white LEDs, a 3600mAh battery and solar or USB-C charging. It offers five modes, three brightness levels and 4, 6 or 8 hour timers on the remote.\n\nIt is the longest string here, ahead of the Sutaig Solar by about 3 ft and 30 LEDs. A USB port on the unit also charges a phone via Type-C.\n\nIt suits larger camps and RV awnings where a short string would not span the gap. The phone-charging port makes it handy as a small power bank.",
     "specs": [
       "42.6 ft, 160 LEDs",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/514Os9mI5AL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H26N9JPY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H26N9JPY?tag=rvgearlab-amz-20",
     "description": "The OGERY is a two-pack of 32.8 ft camping string lights with a remote, a 2000mAh battery and eight modes. Each unit weighs 7.4 ounces and has a quick-wind handle, a built-in magnet and a splash-proof body.\n\nIt is the only two-unit set that lists a runtime per mode, from about 3.5 to 12 hours. It gives you a second string for another tent, which the single Sutaig and SMY do not.\n\nIt suits groups who want a string for each tent plus a work-light mode. The 4-in-1 design includes a camping light, string, work light and flashlight.",
     "specs": [
       "Two 32.8 ft units, 7.4 oz",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51UeGnLXg9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F9B5G5Q4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F9B5G5Q4?tag=rvgearlab-amz-20",
     "description": "The Sutaig 32.8 ft lists eight lighting modes, a 2000mAh battery with 7 to 12 hours of use and a Type-C fast charge port. The remote adds 4, 6 or 8 hour timers, and the reel recovers the string in about 30 seconds.\n\nIt costs less than the SMY and the Sutaig Solar, and it gives up solar charging to do so. Against the OGERY, it lists a longer minimum runtime of 7 hours.\n\nIt suits tent campers who want a reel with a battery indicator and a timer on a budget. The waterproof listing suits damp mornings.",
     "specs": [
       "32.8 ft with 8 modes",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51xIYzw09AL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B7X15D9B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B7X15D9B?tag=rvgearlab-amz-20",
     "description": "The Dazzle Bright is a two-pack of 20 ft fairy light strands, 40 ft in total, with 120 LEDs and a 44-key remote. It has 24 color options and six modes, and runs on 3 AA batteries or USB.\n\nIt offers the widest color control in the list, which the warm-white reels do not. IP44 water resistance fits rainy campsite use, as long as the battery box is kept dry.\n\nIt suits families who want festive color around a picnic table or tent. Two strands let you dress two spots.",
     "specs": [
       "Two 20 ft strands, 120 LEDs",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/61hT4T1UhML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07PR58W73?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07PR58W73?tag=rvgearlab-amz-20",
     "description": "The Fitybow is a 40 ft rope light with 120 LEDs and eight modes powered by 3 AA batteries (not included). The remote adds dimming and a timer that runs 6 hours on and 18 hours off.\n\nIt is the lowest-priced option and the only bendable rope, so you can shape it around poles or a tent door. It also offers dimming from the remote, which most reels here do not list.\n\nIt suits budget campers who need decorative light for a few nights. The rope handles rain per the listing.",
     "specs": [
       "40 ft, 120 LEDs, 8 modes",

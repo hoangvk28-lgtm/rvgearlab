@@ -86,7 +86,7 @@ export const DEFAULT_AFFILIATE_SETTINGS: AffiliateSettings = {
     "RV Gear Lab is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com. When you click a product link and make a purchase, we may earn a small commission at no additional cost to you. Our editorial opinions are independent and are never influenced by affiliate relationships.",
   disclosureBannerText:
     "We may earn a commission when you buy through Amazon links. Our recommendations are based on published specifications, compatibility, included components and clear comparison criteria.",
-  amazonTag: "rvgearlab-20", // TODO: replace with the real Amazon Associates tag once approved for this domain
+  amazonTag: "rvgearlab-amz-20", // TODO: replace with the real Amazon Associates tag once approved for this domain
 };
 
 export const DEFAULT_FOOTER_SETTINGS: FooterSettings = {

@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ciNH8rGbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BTRV37RN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BTRV37RN?tag=rvgearlab-amz-20",
     "description": "The TOSOT 16,000 BTU unit lists 43 dB operation, about 32 percent quieter than standard RV ACs, with a 12,500 BTU heat pump. The TOSOT 16,000 BTU unit lists 43 dB operation, a 12,500 BTU heat pump and a 14.25 inch roof fit.\n\nIt is the quietest stated rating here, a clear 7 dB below the Arsenda. It costs about 375 dollars more than the Arsenda units.\n\nAmbient operation spans 23°F to 115°F, and the unit runs about 32 percent quieter than standard RV ACs. It suits light sleepers who want the lowest listed noise.",
     "specs": [
       "16,000 BTU, 12,500 BTU heat",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41pEggZwG4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H36JT6J7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H36JT6J7?tag=rvgearlab-amz-20",
     "description": "The Arsenda 18,000 BTU heat pump runs at 50 dB or less with R32 refrigerant and four-season heating and cooling. The Arsenda 18,000 BTU heat pump runs at 50 dB or less with R32 refrigerant and four-season heating and cooling.\n\nIt costs about 375 dollars less than the TOSOT and offers more capacity. It needs both 115V AC and 12V DC power.\n\nBoth 115V AC and 12V DC feeds are required, since it is a non-ducted design. It suits owners who want quiet cooling at a lower price.",
     "specs": [
       "18,000 BTU heat pump",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41-z8VgXH8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GL1HNBVK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GL1HNBVK?tag=rvgearlab-amz-20",
     "description": "The second Arsenda listing carries the same 18,000 BTU rating, R32 refrigerant and 50 dB or less noise. The second Arsenda 18,000 BTU heat pump is also rated at 50 dB or less with R32 refrigerant.\n\nIt costs the same as the first Arsenda. It is a duplicate of the same unit.\n\nThis non-ducted model takes both a 115V AC and a 12V DC connection. It suits owners who find this listing in stock.",
     "specs": [
       "18,000 BTU heat pump",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31M9j7Q+anL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DM6YMJNY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DM6YMJNY?tag=rvgearlab-amz-20",
     "description": "The Furrion Chill Cube 18K uses variable speed compressors and an aerodynamic rooftop design at 72.4 lbs. The Furrion Chill Cube 18K non-ducted unit uses variable speed compressors, weighs 72.4 lbs and bolts on.\n\nVariable speed motors tend to run quieter at low load, though the listing gives no decibel figure. It costs about 410 dollars more than the Arsenda.\n\nThe listing says it is about 10 percent lighter than other units and has an aerodynamic rooftop design to reduce drag. It suits owners who want a premium brand.",
     "specs": [
       "18K non-ducted",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31qUPteLDsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FQP8LNHM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FQP8LNHM?tag=rvgearlab-amz-20",
     "description": "The ACiQ is a 15,000 BTU heat pump with 12,000 BTU of heating, R32 refrigerant and a rotary compressor. The ACiQ is a 15,000 BTU heat pump air conditioner with 12,000 BTU of heating, R32 refrigerant and a rotary compressor.\n\nIt lists a quiet design and costs about the same as the TOSOT. It covers about 600 square feet.\n\nIt runs on 115V with a manageable amp draw and covers about 600 square feet. It suits owners who want strong heat output.",
     "specs": [
       "15,000 BTU, 12,000 BTU heat",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/312LA1k2xVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B089MYDLTY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B089MYDLTY?tag=rvgearlab-amz-20",
     "description": "The RecPro 15K Quiet is a non-ducted heat pump rated at 55.4 dB with a low amp draw. The RecPro 15K Quiet heat pump is a non-ducted rooftop unit rated at 55.4 dB with a low amp draw.\n\nIt is the loudest rating here but offers low amp draw. It costs the most of the six.\n\nUV-resistant plastic and a rugged build suit travel use. It suits owners who need low amp draw.",
     "specs": [
       "15,000 BTU heat pump",

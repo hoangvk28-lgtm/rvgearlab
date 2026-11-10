@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51YRaqKOevL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HDC2THVV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HDC2THVV?tag=rvgearlab-amz-20",
     "description": "The Ampeak is a 2000W pure sine wave inverter with a 6000W surge rating, three AC outlets (one is a 20A outlet), two USB ports and an LCD. It lists intelligent voltage regulation and cooling with multi-layer protection, at 3 to 4 percent THD.\n\nIts 6000W surge is the highest here, 2000W above the OUBOTEK and Vansdon at 4000W, which matters for motor starts like a fridge or a pump. It also costs the most, and the 20A outlet fits a heavier plug.\n\nIt suits campers with a real battery bank who want the best surge headroom and clean power. The voltage regulation helps avoid shutdowns when battery voltage sags.",
     "specs": [
       "2000W pure sine, 6000W surge",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41UYcmNK7OL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FXRD65C1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FXRD65C1?tag=rvgearlab-amz-20",
     "description": "The OYPSX is a pure sine wave 2000W inverter with a 5 meter wired controller and an LCD showing voltage, power and fault codes. It lists overvoltage, undervoltage, overload, short circuit, over temperature, over current and reverse polarity protection.\n\nBeside the Ampeak it offers the longest control cable here and a more detailed protection list. It sits just below the Ampeak on price.\n\nIt suits van and RV builders who mount the inverter far from the cabin and want a controller at arm's reach. It also lists use with electric fans, washing machines and computers.",
     "specs": [
       "2000W pure sine wave",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51B-GK2252L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C744F31N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C744F31N?tag=rvgearlab-amz-20",
     "description": "The OUBOTEK provides 2000W continuous and 4000W peak pure sine wave power through four AC outlets rated 15A each plus a 25A AC terminal block and a USB port. A wired remote with a 9.8 ft (3 m) cable and an LCD for battery voltage, output voltage, frequency and load are included.\n\nIt offers the most outlets of the six and the terminal block for hardwiring a heavy load, which the Ampeak and OYPSX do not list. The remote cable is shorter than the OYPSX's 5 meters.\n\nIt suits campers who run several devices at once and want a hardwire option. It targets vehicles, boats and solar systems.",
     "specs": [
       "2000W continuous, 4000W peak",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41s3I8uZ45L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G6Z76YFC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G6Z76YFC?tag=rvgearlab-amz-20",
     "description": "The Vansdon delivers 2000W continuous and 4000W surge pure sine wave power at 3 to 4 percent THD. The regulated output holds 115 to 120V when input is 12V or more and stays at 110V or above when input drops to 10 to 11V.\n\nThat regulation is the feature none of the others document so precisely. It has 3 AC outlets plus a hardwired terminal, a 5V 2.1A USB port, a 30W USB-C PD port and a dual cooling system with two aluminum heat sinks.\n\nIt suits campers whose battery voltage dips under load, such as a tired or smaller bank. The 30W USB-C also charges a laptop directly.",
     "specs": [
       "Regulated 110-120V output",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51St+6OMH7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GL1ZPKYJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GL1ZPKYJ?tag=rvgearlab-amz-20",
     "description": "The EGSCATEE delivers 2000W continuous and 4000W peak modified sine wave power for laptops, small appliances, fans, lights, TVs and chargers. It lists five-layer protection and compatibility with LiFePO4, AGM, GEL and lead-acid 12V batteries.\n\nNext to the pure sine models it costs less and is clear about its waveform, noting which devices are not recommended on modified sine. Compared with the YSOLX it names its battery chemistry compatibility.\n\nIt suits campers with lithium or lead-acid banks who run chargers, lights and small appliances. It pairs with a compatible external 12V battery.",
     "specs": [
       "2000W modified sine wave",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/414BMJC4JGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07PJJR7DB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07PJJR7DB?tag=rvgearlab-amz-20",
     "description": "The YSOLX is a 2000W inverter with a 4000W peak and three AC outlets, with plug-and-play installation. It lists overload, over-voltage and under-voltage protection, and carries FCC, CE and RoHS certifications.\n\nNo inverter here costs less, and it adds a 30-day return and exchange policy with 24/7 technical support. The listing does not name pure or modified sine wave, which sets it behind the pure sine models above.\n\nIt suits budget campers running lights, fans and chargers from a battery bank. Ask the seller for the waveform before powering sensitive gear.",
     "specs": [
       "2000W, 4000W peak",

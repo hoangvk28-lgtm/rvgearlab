@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51S3C9jrxxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DK2SB3XW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DK2SB3XW?tag=rvgearlab-amz-20",
     "description": "The BLAVOR lists 20000mAh, quoted as 74000mWh, with four built-in cables (two USB-C, one iOS, one USB-A) and three ports for six devices. A wireless pad, a flashlight and a flame-retardant shell with silicone port covers come with it.\n\nAt 20000mAh it sits closest to the 26800mAh target of the group and weighs less than the 48000mAh and 49800mAh models. The wireless pad also means an Apple Watch or phone can charge without a cable.\n\nIt suits a weekend camper who wants one lightweight bank with cables built in and a solar panel for emergencies. The silicone-covered ports help it shrug off splashes.",
     "specs": [
       "20000mAh, 74000mWh",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51KVeOxzZvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GQTC2ZVW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GQTC2ZVW?tag=rvgearlab-amz-20",
     "description": "This YELOMIN lists 38800mAh with three output ports, two LED flashlights with SOS and strobe, and recharge by solar or wall. It lists FCC, CE and RoHS certification and comes with a micro USB cable and carabiner.\n\nPriced lowest among these five, it holds more than the BLAVOR for far less money. Compared with the TecoHikee, it skips fast-charge wattage and built-in cables.\n\nIt suits a budget camper who wants a big cell and a light for tent errands. The certification list adds some confidence.",
     "specs": [
       "38800mAh, 3 outputs",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51NlvJTsrsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H9LPZ1NW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H9LPZ1NW?tag=rvgearlab-amz-20",
     "description": "The TecoHikee lists 49800mAh with 22.5W fast charging, four built-in data cables and an IP65-rated enclosure that is shockproof and dustproof. A built-in LED flashlight provides light.\n\nIt is the only pick in this list with a stated IP rating, where the SOARAISE and YOLOSKS describe their cases without a rating. It also offers faster wired output than the plain YELOMIN.\n\nIt suits a camper in dusty or damp conditions who wants strong wired output and built-in cables. The flashlight handles tent errands.",
     "specs": [
       "49800mAh, 22.5W",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41wsfWIOkgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GYST5KR9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GYST5KR9?tag=rvgearlab-amz-20",
     "description": "The YOLOSKS lists 49800mAh with 22.5W QC 3.0 charging, a wireless pad and three ports that charge up to six devices. It recharges by outlet or solar panel, with a Type-C 5V/3.1A output.\n\nIt matches the TecoHikee on capacity and adds a wireless pad at a lower price. It skips the TecoHikee's IP rating and built-in cables.\n\nIt suits a camper who wants cable-free charging for a phone and watch. The listing notes solar speed depends on the sun.",
     "specs": [
       "49800mAh, 22.5W QC 3.0",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51tXO6WobmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FL7GPT5L?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FL7GPT5L?tag=rvgearlab-amz-20",
     "description": "The SOARAISE lists 48000mAh with four solar panels said to charge up to five times faster than single-panel units. It adds a wireless pad, four built-in cables, two USB-A outputs and a 5V/3A USB-C port.\n\nIt has the most solar surface of the five, ahead of the single-panel YELOMIN and BLAVOR. The 3A port lists a 15 to 60 percent iPhone fill in 30 minutes.\n\nIt suits a sunny-camp user who wants the best chance of useful solar top-up between wall charges. Wireless and wired charging are both on board.",
     "specs": [
       "48000mAh, 4 solar panels",

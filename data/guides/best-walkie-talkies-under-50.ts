@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/417mrIyCLbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D5MDS17X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D5MDS17X?tag=rvgearlab-amz-20",
     "description": "The Retevis RT22 is an FRS license-free radio with 16 channels, CTCSS encoding and an earpiece included. It weighs only 108 grams, charges over USB-C and has hands-free VOX and intelligent noise reduction.\n\nIt is the most adult-style radio under $50, with a thin phone-sized body and a clip for a belt. Compared with the SOCOTRAN TH25 it has fewer channels and no scanning, and it is lighter and quieter in noisy camps.\n\nIt suits campers and hikers who want a small, practical radio with an earpiece for quiet use. USB-C charging means one cable for the whole camp kit.",
     "specs": [
       "16 channels, CTCSS, FRS license-free",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51+CD3vWABL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DK89KHNZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DK89KHNZ?tag=rvgearlab-amz-20",
     "description": "The SOCOTRAN TH25 comes as a 2-pack with a 1,400mAh battery, up to 48 hours of standby, Type-C charging, 22 FRS channels, 50 CTCSS codes and up to 2W transmission within legal limits. It also has one-touch channel scanning, a dual watch feature and VOX.\n\nIt has more channels, scanning and dual watch than the RT22 and comes as a pair. Only six buttons keep the interface simple.\n\nIt suits groups who want pro-style features in a simple pair. The roger beep and key tones help new users know a call went through.",
     "specs": [
       "2-pack, 22 FRS channels",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41IAMDvanlL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00IR184ZW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00IR184ZW?tag=rvgearlab-amz-20",
     "description": "The Retevis RT628 4-pack has 22 channels with individual CTCSS and DCS tones, a listed range of up to 1,000 meters in open areas, VOX hands-free calling and a key lock. A mini body with a large LCD screen is sized for kids and adults.\n\nIt has four radios in one pack, which lets a whole family carry one. The key lock stops kids changing channels by accident.\n\nIt fits families who camp with several kids and want everyone on the same channel. The mini body and big LCD suit small hands.",
     "specs": [
       "Four radios, 22 channels",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51C0ZOGno2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GK1YXKFK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GK1YXKFK?tag=rvgearlab-amz-20",
     "description": "The BATURU 4-pack has a built-in 2,000mAh Li-Po battery with up to 48 hours of use and an auto-off after 1.5 hours of inactivity. It lists 22 main channels with 99 privacy codes, noise filtering and a 3 mile range in open areas.\n\nIt removes the need for AAA batteries with a built-in cell. Auto-off saves power when kids forget to switch them off.\n\nIt fits families who want rechargeable radios for several kids. Noise filtering helps in loud camp spots.",
     "specs": [
       "4 radios, 2,000mAh Li-Po",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51ibJWOoEgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B7WDC16C?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B7WDC16C?tag=rvgearlab-amz-20",
     "description": "The Jueion set has four rechargeable kids walkie talkies with removable colorful shells so each child can choose a favorite color. The one-touch call button and three volume levels keep it simple, and the radios will not connect to adult intercoms.\n\nIt is simpler than the BATURU, with fewer settings to confuse small kids. It costs less and is described as built for children rather than distance.\n\nIt fits families who want a basic radio for camp games. The removable shells make each radio easy to tell apart.",
     "specs": [
       "Four rechargeable kids radios",

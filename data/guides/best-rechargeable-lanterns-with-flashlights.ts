@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41lIzaSJZDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00Y8AHZYC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00Y8AHZYC?tag=rvgearlab-amz-20",
     "description": "The Lepro pairs a Cree XML LED headlight rated up to 1000 lumens with a side lantern, a 3600mAh battery and a power bank function. The headlight runs 1000 lumens for 2.2 hours or 280 lumens for 4.6 hours, and the lantern offers 150 or 70 lumens plus a red flashing mode.\n\nRuntimes are given per mode on its listing, which lets you plan an evening before you leave. It also adds a shoulder strap and large handle that the AlpsWolf 800LM leaves out of its description.\n\nIt suits campers and families who want a proper flashlight and a tent lantern in one body. The red flash mode also serves as a signal.",
     "specs": [
       "1000 lumen Cree headlight",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51ynR3YZEeL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B92SFL8K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B92SFL8K?tag=rvgearlab-amz-20",
     "description": "The ropelux has front and back lamp heads and side lights, with 8 light modes in all and a main beam listed at 1500 lumens. A 4800 capacity pack charges over USB with the cable included, and the body carries an IP54 rating with a handle that rotates 180 degrees.\n\nIt lists the highest beam output of the five, 500 lumens above the Lepro 1000LM Lantern. The rotating handle and extra lamp heads give it more positions than the single-head AlpsWolf.\n\nBest for campers lighting a big site who also want a handheld beam. The main light has high and low steps, and the side lights add more options.",
     "specs": [
       "1500 lumen main beam",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/417M-0uu0yL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08YF4VY7P?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08YF4VY7P?tag=rvgearlab-amz-20",
     "description": "The AlpsWolf is a 4-in-1 flashlight, lantern, spotlight and red emergency strobe, rated at 800 lumens with a 1640 foot range. A 3600mAh battery charges in 3 hours and the body weighs 0.8 pounds with a strap included.\n\nIt is lighter than the Lepro 1000LM Lantern and charges faster than the ropelux 1500LM Lantern. It also states a long beam range, which suits spotting trail markers.\n\nIt suits solo campers and hikers who want one light that replaces both a lantern and a flashlight. The strap and the low weight make it easy to carry.",
     "specs": [
       "800 lumens, 1640 ft range",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41KOKSWPTzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C3R3SPHP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C3R3SPHP?tag=rvgearlab-amz-20",
     "description": "The Consciot 2-Pack combines a front flashlight at 350 lumens on high and 120 on low with a side lantern that adds a red light. It charges over USB-C with the cable included and also works as a power bank, at 0.76 pounds each.\n\nIt is the only pick sold in pairs, which suits splitting lights between a tent and a trail. Next to the Lepro 1000LM Lantern, its output is far lower, which keeps it easy on the eyes in a small space.\n\nIt suits families who want two handy lights for kids' tents or a cabin. The red light helps preserve night vision.",
     "specs": [
       "Flashlight 350 lumens, lantern modes",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31vmcwMBL4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CPWF7YDX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CPWF7YDX?tag=rvgearlab-amz-20",
     "description": "The HAASHADA is a handheld searchlight lantern with a 7000mAh built-in battery and an irradiation distance listed at about 2560 feet. It runs about 9 hours on high and longer on low, and a USB output port can power a phone in an emergency.\n\nIt lists the largest battery of the five, ahead of the ropelux 1500LM Lantern and the Lepro 1000LM Lantern. The searchlight format favors throwing light a long way over lighting a tent evenly.\n\nIt suits boaters, night walkers and anyone who needs to scan a long distance. The sealed ABS body is listed as dust, moisture and impact resistant.",
     "specs": [
       "7000mAh, USB output",

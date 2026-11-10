@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31MbTYqEWdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C1JHC2M6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C1JHC2M6?tag=rvgearlab-amz-20",
     "description": "The GRAYL GeoPress purifies 24 oz at a time with a press, no pump, hose or battery. The listing names viruses such as norovirus, bacteria such as E. coli and protozoa such as giardia, and a cartridge good for 65 gallons (250 L).\n\nIt is the only bottle here that states virus removal, and it also adsorbs PFAS, VOCs, pesticides and heavy metals according to the page. Next to the BeFree 0.6L, it is heavier and holds more.\n\nPick it if you want one device for questionable sources. Press, wait a moment and drink.",
     "specs": [
       "Purifier: viruses, bacteria, protozoa",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/3158xWeiMDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01M0MZ7NI?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01M0MZ7NI?tag=rvgearlab-amz-20",
     "description": "The Katadyn BeFree 0.6L weighs 59 g and filters through 0.1 micron hollow fibers. The listing states a flow of 2 liters per minute and a 1,000 liter life.\n\nIt is the lightest and quickest bottle here and folds flat into a vest pocket. It holds less than the JEYOGO 1L, which is the price of the lower weight.\n\nA good match for trail runners and gram-counters who top up at every stream. It disappears into a pocket.",
     "specs": [
       "0.6 L collapsible bottle",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21dYs6xEEdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GQB33YCD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GQB33YCD?tag=rvgearlab-amz-20",
     "description": "The JEYOGO is a 1 liter collapsible bottle with 0.1 micron hollow fiber filtration and a 0.4 mm BPA-free TPU body. The listing states more than 99.9999 percent removal of total coliform in lab conditions at the start of life, at up to 1 liter per minute.\n\nIt holds more than the BeFree 0.6L and adds a filter integrity check for testing after a drop or freeze. It cleans by shaking with no syringe.\n\nIt suits backpackers who want a full liter per fill and a way to test the filter. The TPU body rolls up when empty.",
     "specs": [
       "1 L collapsible bottle",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41sZ0APFhzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FQJ9CR8Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FQJ9CR8Y?tag=rvgearlab-amz-20",
     "description": "The Bachgold is a Swiss-made squeeze bottle that stacks a nanofiber layer over a hollow fiber membrane of 0.2 micron. The page says it needs no replacement cartridges, only a rinse to restore flow.\n\nIt is the lowest-priced pick, and its 0.2 micron membrane is coarser than the 0.1 micron figures on the Katadyn and the JEYOGO. It folds to pocket size and stays leak-resistant when closed.\n\nIt suits casual hikers who want a first filter bottle at the lowest cost. The cap seals for a daypack.",
     "specs": [
       "0.2 micron hollow fiber",

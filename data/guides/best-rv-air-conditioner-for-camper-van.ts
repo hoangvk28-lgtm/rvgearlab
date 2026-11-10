@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31VGALxXF0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GXHKQK2W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GXHKQK2W?tag=rvgearlab-amz-20",
     "description": "The Xenjum 12V RV Air Conditioner pairs 11,000 BTU cooling with 4,500 BTU heating in a 43 pound unit with a 6.1 inch profile. It has an inverter scroll compressor, runs at 35 dB and the listing says a 600Ah battery gives up to 10 hours of continuous cooling.\n\nAgainst the Countrymod 12V 10K, it offers more BTU and heat at a lower price and lists a lighter 43 pound weight. Against the Gidrox 12V Heater, it adds a scroll compressor and a stated slim profile.\n\nBest for van builds where weight and roof height matter most. Solo installation is the listing's own claim.",
     "specs": [
       "12V DC, 11,000 BTU, 4,500 heat",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/315QFvY-wAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DW3TYSNR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DW3TYSNR?tag=rvgearlab-amz-20",
     "description": "The Countrymod 12V DC RV Air Conditioner is a 10,000 BTU rooftop unit with a 300 to 900W variable-frequency range. The listing says it uses about 0.3 kWh per hour, runs 45 to 55 dB and has a horizontal compressor for stability.\n\nAgainst the Xenjum 12V 11K, it states a power range and a battery-life claim of up to 10 hours. Against the Gidrox 12V units, it adds an app remote and a lower stated draw.\n\nBest for vans with a mid-size bank that want a documented power range. The horizontal compressor sits lower for stability on the roof.",
     "specs": [
       "12V DC, 10,000 BTU variable frequency",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hObg9Wm3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GWGP3D2G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GWGP3D2G?tag=rvgearlab-amz-20",
     "description": "The Gidrox 10,000 BTU 12V DC unit with heater uses PTC for fast warmth on cold mornings and lists about 350W average at night under 30 degree C ambient. It states 40 dB in Sleep mode and has app, remote and panel control.\n\nAgainst the Gidrox 12V, it adds the heater at a modest price premium. Against the outequip 12V Heater, it lists a power figure and a lower price.\n\nBest for van owners who winter camp and want heat from the same roof unit. The listing says no inverter is needed.",
     "specs": [
       "12V DC, 10,000 BTU PTC",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hObg9Wm3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GWGPP643?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GWGPP643?tag=rvgearlab-amz-20",
     "description": "The Gidrox 10,000 BTU 12V DC RV Air Conditioner uses inverter technology and cools within 3 minutes according to the listing. It cites the same 350W average draw and 40 dB Sleep mode as the heater version.\n\nAgainst the Gidrox 12V Heater, it is cooling only at a lower price. Against the outequip 12V Heater, it costs less and drops the heater.\n\nBest for van owners in warm climates who want a battery-powered cooler. App, remote and panel control are included.",
     "specs": [
       "12V DC, 10,000 BTU inverter",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/219s7r9dm5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DWF6WXVW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DWF6WXVW?tag=rvgearlab-amz-20",
     "description": "The outequip 12V 10,000 BTU unit includes a 4,500 BTU PTC heater and cools in about 15 minutes by the listing. It uses UV-stabilized ABS, an EPDM foam gasket and brushless copper motor fans.\n\nAgainst the Gidrox 12V Heater, it offers a larger stated heater at a higher price. Against the Xenjum 12V 11K, it adds weather-resistant gaskets and a directional duct.\n\nBest for small vans that need supplementary warmth. The listing says the heater is for mild temperatures only.",
     "specs": [
       "12V DC, 10,000 BTU",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41BO9jEmkFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H1R3NQQR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H1R3NQQR?tag=rvgearlab-amz-20",
     "description": "The BAYKUL Portable Camping Air Conditioner and Heater delivers 6,800 BTU cooling and 7,500 BTU heating with R-32 refrigerant. It runs on a 110V outlet or a car inverter, draws about 550W and operates at 46 dB.\n\nAgainst the 12V rooftop units, it needs no roof cutout and ships with a carry bag. Against the Xenjum 12V 11K, it offers more heat and less cooling.\n\nBest for vans with no roof hole to spare or for use in both a van and a tent. Its 6-in-1 modes include dehumidify and sleep.",
     "specs": [
       "6,800 BTU cool, 7,500 BTU heat",

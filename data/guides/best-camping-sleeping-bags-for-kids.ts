@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41n8k6jIZAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CVSGRFW8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CVSGRFW8?tag=rvgearlab-amz-20",
     "description": "The Coleman Kids bag is rated to 45F and fits young campers up to 5 ft 5 in tall. A Roll Control system keeps the bag straight while rolling it up, and a Comfort Cuff surrounds the face with a soft edge.\n\nCompared with the KidzAdventure, it targets a taller youth range with a roll-up helper. Against the tuphen bag, it adds a name-brand rating with a clear height limit.\n\nIt fits kids from about elementary age through early teens. The Roll Control feature helps a child pack their own bag.",
     "specs": [
       "Rated to 45F",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41TVxeKRMyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08FVBK86X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08FVBK86X?tag=rvgearlab-amz-20",
     "description": "The KidzAdventure is a mummy bag rated 32F to 59F with a pillow sleeve and a backpack-style sack. It comes in kids and youth sizes, and weighs about 2 lb.\n\nAgainst the Coleman Kids, it reaches a lower 32F figure and packs smaller. Compared with the oaskys, it is cut for children instead of adults and kids.\n\nIt suits kids who camp into fall or sleep cold. The pillow sleeve holds a rolled jacket.",
     "specs": [
       "Mummy, 32F to 59F",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41tyiwvk5jL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GF2H3MTX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GF2H3MTX?tag=rvgearlab-amz-20",
     "description": "The tuphen kids bag weighs 2.2 lb and is cut for children up to 4.6 feet tall. It has a 210T waterproof polyester shell, an adjustable drawstring hood, a Velcro-secured zipper and a backpack-style storage bag.\n\nCompared with the SWTMERRY, it lists a height limit and weighs less. Against the Coleman Kids, it is much lower priced and comes in four fun patterns.\n\nIt suits sleepovers and backyard camping as well as trips. The backpack-style bag makes carrying easy.",
     "specs": [
       "2.2 lb",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41dy0XZX8IL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0856T1KCJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0856T1KCJ?tag=rvgearlab-amz-20",
     "description": "The SWTMERRY bag lists a 41F to 77F rated range and a 50F to 68F comfort range. A bottom zipper lets feet out for venting, and the bag is machine washable with a travel bag.\n\nNext to the tuphen, it states a comfort range separately. Against the oaskys, it is the one that spells out machine washing.\n\nIt suits families who want comfort numbers and easy cleaning. The foot vent helps warm nights.",
     "specs": [
       "Rated 41F to 77F",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4182UhUtqyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B082FD6DLV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B082FD6DLV?tag=rvgearlab-amz-20",
     "description": "The oaskys bag is designed for 10 to 20 degrees Celsius, with a 210T tear-resistant polyester shell and 190T pongee lining. It measures (190 plus 30) by 75 cm and has a half-circle hood with a drawstring.\n\nCompared with the KidzAdventure, it is a roomier cut. Against the SWTMERRY, it adds a hood drawstring.\n\nIt suits older kids and teens who want room. A bottom zipper lets feet out.",
     "specs": [
       "10 to 20 degrees Celsius",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411tLyA56aL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DB794BKQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DB794BKQ?tag=rvgearlab-amz-20",
     "description": "The Mini 150pc EVA is a 150-piece kit with bandages, gloves, povidone-iodine prep pads and more in a waterproof EVA hard-shell case. It measures 6.4 by 4.9 by 2.7 inches, weighs 0.73 lbs and has bonus carabiners and premium zippers.\n\nIt costs about $10, nearly half the 300pc Bag, and it is the only kit in this group with a rigid waterproof shell and separate sleeves for each category. The Care Science 110pc comes close on count in a softer pouch.\n\nIt suits campers, kayakers and boaters who need the contents to stay dry. The carabiners clip it to a pack.",
     "specs": [
       "150 pieces, EVA hard shell",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51drvjOIcCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C5J8MVDD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C5J8MVDD?tag=rvgearlab-amz-20",
     "description": "The 300pc Bag has 300 pieces in a compact red bag with plastic compartments, an emergency blanket and a triangular bandage. It is sold for hikes, camping and the car.\n\nIt costs about $18, the most in this guide, and it holds twice the pieces of the Mini 150pc EVA. The extra count includes a blanket and a sling bandage, which the smaller kits skip.\n\nIt suits families and small groups who want volume in one bag. Keep it in the car or the camp kitchen.",
     "specs": [
       "300 pieces in a bag",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41tmZKeWpGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B41MYSGP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B41MYSGP?tag=rvgearlab-amz-20",
     "description": "The BAND-AID 80pc is a Travel Ready kit with 80 pieces in a mini case, including cleansing wipes, gauze pads, antibiotic cream, pain relief caplets and adhesive bandages. The case is refillable.\n\nIt costs about $11, and it is the smallest of the branded options with antibiotic cream and caplets that the generic kits skip. It holds under half the pieces of the Mini 150pc EVA.\n\nIt suits day hikers and drivers who want a pocket-sized kit with trusted bandages and basic medicine. Add any prescriptions yourself.",
     "specs": [
       "80 pieces, mini case",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51IJV3GwkxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08127GKPR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08127GKPR?tag=rvgearlab-amz-20",
     "description": "The Care Science 110pc is a 110-piece kit with physician-recommended supplies in organized pouches that open for easy access and refilling. It is sold for travel, work, school, home and car.\n\nIt costs about $8, under the Mini 150pc EVA, and its pouches keep the contents sorted at a lower piece count. It gives up the waterproof shell of the Mini 150pc EVA.\n\nIt suits campers and travelers who want to find a bandage fast. The pouches let you refill one section.",
     "specs": [
       "110 pieces",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41rjYoRVsTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BQJQZ46L?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BQJQZ46L?tag=rvgearlab-amz-20",
     "description": "The DMI 20pc is a mini kit with 6 alcohol swabs, 2 gauze pads, a bandage roll, bandage tape and 10 adhesive bandages in a durable water-resistant case. It measures 4 by 3.5 by 1 inches and weighs 0.13 lbs.\n\nIt costs about $3, the lowest price in this guide, and it fits a pocket or a bookbag. It has only 20 pieces, so it is a stopgap next to the Mini 150pc EVA.\n\nIt suits hikers, cyclists and travelers who want a tiny kit for blisters and scrapes. It is also a useful add-on for a backpack.",
     "specs": [
       "20 pieces",

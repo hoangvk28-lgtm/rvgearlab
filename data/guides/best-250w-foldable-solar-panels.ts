@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Q+QT2mXqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H8XG5DVN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H8XG5DVN?tag=rvgearlab-amz-20",
     "description": "The ZOUPW 250W is a solar blanket rated 250W with N-type cells at 25.6 percent efficiency. It unfolds to 51.4 by 53.8 by 1.2 inches, packs to 16.6 by 17.7 by 3.1 inches and weighs 12.3 lb.\n\nIts three independently wired zones with bypass diodes keep the unshaded sections producing when part of the blanket is covered. Against the CTOLITY it packs into a bag with shoulder straps, and compared with the Renogy rigid panel it moves with you.\n\nIt suits campers who want a true 250W format that carries like a pack. Four corner loops with stakes, carabiners and hook-and-loop joining give several ways to set it up.",
     "specs": [
       "250W N-type, 25.6%",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41x1YNv6SFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H2HYSQG1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H2HYSQG1?tag=rvgearlab-amz-20",
     "description": "The CTOLITY is a 400W foldable panel rated 36V with 23.4 percent monocrystalline cells and ETFE lamination. It includes MC4 connectors, DC, XT60 and Anderson cables, QC3.0 USB outputs and adjustable kickstands.\n\nIt delivers 150 watts more than the ZOUPW 250W Blanket at a lower price, and it adds USB output. Compared with the Renogy, it folds to carry while the Renogy stays fixed.\n\nIt suits campers with a larger station who accept a heavier panel for faster charging. The IP65 rating covers dust and rain.",
     "specs": [
       "400W, 36V foldable",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/415NMRX4TwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D2RDWTJB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D2RDWTJB?tag=rvgearlab-amz-20",
     "description": "The Renogy 250W is a rigid panel with 16BB N-type cells at 25 percent efficiency and an 80 percent bifaciality factor. It lists a temperature coefficient of minus 0.29 percent per degree C, IP68 protection, low-iron tempered glass and a corrosion-resistant aluminum frame.\n\nUnlike the other two picks, this panel does not fold. It is the choice for a permanent mount where durability and rear-side gain matter more than carry.\n\nIt suits van and trailer installs, off-grid cabins and fixed ground mounts with a charge controller. Low temperature loss helps in hot climates.",
     "specs": [
       "250W N-type, 25% efficiency",

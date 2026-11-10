@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/418DLehLZCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G1C5MGM2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G1C5MGM2?tag=rvgearlab-amz-20",
     "description": "The Dyness 24V 100Ah is rated 25.6V, 100Ah and 2,560Wh. Its listing gives a 100A smart BMS, Bluetooth monitoring through the Dyness app, charging that stops below 32°F and resumes above 41°F, discharge protection below minus 4°F, and 4,000 plus cycles at 100 percent depth of discharge. It can be expanded to eight identical units in a 4P2S arrangement for 51.2V and 400Ah, and the listing says to use a 29.2V LiFePO4 charger.\n\nIt ranks first because it is the only 100Ah pick that combines Bluetooth and exact cold thresholds, at $369.98. That is $49.99 more than the MEYULMOL, which also has an app, and $10.02 more than the Dumfume, which has no app. Against the larger CYCCLEVOLT it costs $249.02 less, but holds half the energy.\n\nChoose it if you want a documented 2.56kWh module you can add to later. The caveat is the 100A BMS: at 25.6V that is about 2,560 watts, so a 3,000W inverter would need a second battery in parallel.",
     "specs": [
       "25.6V 100Ah, 2,560Wh",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41JjB9mbnJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GKNYL6DC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GKNYL6DC?tag=rvgearlab-amz-20",
     "description": "The MEYULMOL 24V 100Ah is a 2,560Wh battery priced at $319.99, or about $125 per nominal kilowatt-hour. It lists Bluetooth app monitoring on Android and iOS, a 100A intelligent BMS, a low-temperature cutoff at 0°C (32°F), A-grade cells rated above 5,000 cycles, and expansion to 2S4P. The listing says it pauses discharge below minus 4°F and resumes charging above 32°F.\n\nIt ranks second: it is $49.99 below the Dyness and $39.97 below the Dumfume, and both of them offer a longer stated warranty trail or more documentation, while this one gives an app at the lowest 100Ah price. Against the CYCCLEVOLT it costs $299.01 less for half the capacity.\n\nPick it for the lowest entry cost into a 24V system with phone monitoring. The caveat is a lesser-known brand and a listing that does not state a warranty length, so check the terms on the product page.",
     "specs": [
       "25.6V 100Ah with Bluetooth",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41FN65tGg-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DKM3L5ZC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DKM3L5ZC?tag=rvgearlab-amz-20",
     "description": "The Dumfume 25.6V 100Ah delivers 2.56kWh and weighs 41.67 pounds, about one third of a comparable lead-acid unit according to the listing. It has a Grade-A cell, 100A BMS that protects against overcharge, over-discharge, overcurrent, high temperature and short circuits, supports up to 2S4P with eight batteries, and carries a five-year warranty. The listing describes up to 2,560W continuous output and notes that a 24V bank needs less current than a 12V system for the same power.\n\nIt ranks third because it has no Bluetooth or app and does not state a low-temperature charge cutoff, so it is $10.02 cheaper than the Dyness with fewer features. It does cost $39.97 more than the MEYULMOL, whose price includes an app. What it offers is the clearest warranty and weight data.\n\nChoose it if you will add a shunt anyway and want a documented five-year warranty. The caveat is the missing cold-weather data, so keep it in a heated bay or request the exact cutoff before buying.",
     "specs": [
       "25.6V 100Ah, 41.67 lb",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41fZQtht8XL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GFVWLXFG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GFVWLXFG?tag=rvgearlab-amz-20",
     "description": "The CYCCLEVOLT 24V is built on 205Ah Gen2 Grade A cells, which the listing says gives 5,248Wh, or 130Wh more than a standard 24V 200Ah battery. It has a 200A Bluetooth BMS with a state-of-charge, cell-voltage, current and fault-code app, a low-temperature cutoff, and a rating of over 5,000 cycles at 100 percent depth of discharge and up to 8,000 at 60 percent. It can be series or parallel connected to as much as 42kWh, in 24V or 48V.\n\nIt is fourth because it costs $619, $249.02 more than the Dyness, but delivers about double the energy: $118 per nominal kilowatt-hour against $144.5 for the Dyness. It is $235.99 cheaper than the self-heating VATRER, which is the price of the heater, and $580.99 below the Repower Flow with 2,944 fewer watt-hours.\n\nPick it for a larger 24V house bank with a 200A BMS that can feed a 4,000W inverter. The caveat is that the listing gives no exact cold-charge temperature, so it needs a heated space.",
     "specs": [
       "25.6V 205Ah, 5,248Wh",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41LoPMdC31L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DDPY8C7G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DDPY8C7G?tag=rvgearlab-amz-20",
     "description": "The VATRER POWER 24V 200Ah has a 200A BMS, a self-heating function that starts when a charger is connected below 32°F and stops at 41°F, and app monitoring. Its listing also describes a high-temperature cutoff above 167°F, a rating of 5,000 plus cycles, and automotive-grade cells. At 200Ah and 25.6V that is about 5,120Wh.\n\nIt ranks fifth: at $854.99 it is $235.99 above the CYCCLEVOLT, and the heater is the main difference. Compared with the Repower Flow it costs $345 less but has less capacity, 5,120Wh against 8,192Wh. Per kilowatt-hour it is the most expensive here at about $167.\n\nChoose it for winter use where the bank sits in an unheated bay and you want charging to continue. The caveat is that heating happens only while a charger is connected, and it uses charger current, so size your charger for it.",
     "specs": [
       "25.6V 200Ah self-heating",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41mCAq9+MnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FN596CPT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FN596CPT?tag=rvgearlab-amz-20",
     "description": "The Repower Flow 24V is a 25.6V 320Ah battery with 8,192Wh, a 200A continuous and 300A surge BMS, Bluetooth monitoring and an automatic heater that activates in cold weather. The listing rates 6,000 plus cycles at 80 percent depth of discharge, allows up to four units for as much as 1,280Ah in 24V, 48V or 51.2V, and carries a five-year warranty. It works with 29.2V LiFePO4 chargers.\n\nIt is sixth only on price at $1,199.99, which is $345 over the VATRER and $580.99 over the CYCCLEVOLT. Against the VATRER it gives 3,072Wh more and the stated surge rating, and its cost per kilowatt-hour of about $146.5 is lower than the VATRER's $167. It does not match the CYCCLEVOLT's $118.\n\nPick it when one battery needs to cover a full day of 24V inverter use and winter charging. The caveat is its size and cost, and the listing does not say how much current the heater draws.",
     "specs": [
       "25.6V 320Ah, 8,192Wh",

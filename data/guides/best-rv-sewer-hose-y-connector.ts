@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/414ggyiYYUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FWJR3CXM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FWJR3CXM?tag=rvgearlab-amz-20",
     "description": "The AVERONR clear 6-in-1 wye lets two hoses connect to the same dump inlet. Its listing says it fits 4 inch NPT, 3.5 inch NPT, 3 inch NPT and 3 inch slip inlets with built-in gaskets for odor.\n\nThe clear elbow shows when draining ends. It costs more than other wyes.\n\nIt fits owners who see many inlet types. With rv sewer hose y connector, varied inlets fits it best.",
     "specs": [
       "Clear 6-in-1 wye",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41SdX3PJgwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H6JDXHBX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H6JDXHBX?tag=rvgearlab-amz-20",
     "description": "The Tlaleikejia wye fitting connects two RV sewer hoses to one dump station. Its listing says it has fully rotating 360 degree swivel ends and built-in gaskets.\n\nIt is the swivel option. It costs about the same as DUMPMAN.\n\nIt fits owners who want easier alignment. With rv sewer hose y connector, easy alignment fits it best.",
     "specs": [
       "Wye for two hoses",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41KQlr8FMIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F8VNYMNT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F8VNYMNT?tag=rvgearlab-amz-20",
     "description": "The DUMPMAN Y connector joins two sewer hoses to one dump station. Its listing says it has two bayonet fittings and one lug fitting with leak-free gaskets.\n\nIt is a plain wye. It costs about the same as Tlaleikejia.\n\nIt fits owners who want a basic wye. Among rv sewer hose y connector, think basic dual-hose.",
     "specs": [
       "Wye adapter",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21Y7XaQIqcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B000BQR8TE?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B000BQR8TE?tag=rvgearlab-amz-20",
     "description": "The Camco twist connect kit joins two RV sewer hoses with a non-restrictive design. Its listing says it fits standard 3 inch hoses and gives smooth flow.\n\nIt joins in line, not at a Y. It costs less than any wye.\n\nIt fits owners who want a longer single hose. On rv sewer hose y connector, longer hose run is where it fits.",
     "specs": [
       "Twist connect kit",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41+Hv64M39L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07FGZPGKV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07FGZPGKV?tag=rvgearlab-amz-20",
     "description": "The Camco Deluxe 10 foot extension hose has pre-attached REVO swivel fittings and 18 mil heavy-duty vinyl. Its listing says it is made in the USA.\n\nIt adds reach rather than a Y. It costs about double a wye.\n\nIt fits owners who need extra hose length. In rv sewer hose y connector, extra reach is its lane.",
     "specs": [
       "10 ft extension hose",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/414SyznAtpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07FJFZPHL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07FJFZPHL?tag=rvgearlab-amz-20",
     "description": "The Camco flexible 3-in-1 adapter and drain seal connects a hose to 3, 3.5 or 4 inch inlets. Its listing says it has a 360 degree swivel bayonet fitting and works with damaged threads.\n\nIt is a single hose adapter, not a Y. It costs about the same as DUMPMAN.\n\nIt fits owners with worn inlets. Under rv sewer hose y connector, expect worn inlets to suit it.",
     "specs": [
       "Flexible 3-in-1 seal",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31cYxWdU2bL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C7BD9WB5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C7BD9WB5?tag=rvgearlab-amz-20",
     "description": "The QEZER 2.2 lb bag holds 2.2 lb of 650 fill power white duck down and gives a stated range of 10F to 27F. Vertical baffles hold the fill in place, the neck is cut wider, and a mesh storage sack comes in the box.\n\nIt sits between the 4 lb QEZER, which is rated far colder, and the 1.1 lb ultralight version, which is a three-season bag. Its range brackets 10 degrees, which makes it the closest match to the guide's label.\n\nA smart pick for fall and winter campers who want a true cold-weather down bag without paying for the 4 lb version. It stores best loose in the mesh bag.",
     "specs": [
       "2.2 lb of 650FP duck down",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ghlgseeBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08TQYGG1N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08TQYGG1N?tag=rvgearlab-amz-20",
     "description": "ZOOOBELIVES titles this four-season mummy as 10 degree and packs in 35 oz of down rated 550+ fill power. The shell is 20D ripstop nylon, and the hood includes a face draft collar and an insulated draft tube.\n\nIt matches the 10 degree label directly, where the QEZER 2.2 lb gives a range. The tradeoff is fill power, which sits at 550+ here and 650 on the QEZER bags.\n\nChoose it for campers who want a bag whose name matches their rating target. Its packed size of about 10 x 7 x 15 inches is workable for a backpack.",
     "specs": [
       "35 oz of 550+ fill down",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31cYxWdU2bL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CMLNN4JY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CMLNN4JY?tag=rvgearlab-amz-20",
     "description": "QEZER fills this mummy with 4 lb of 650 fill power white duck down and the listing says it keeps you warm at -22F. It adds vertical baffles, a roomier cut, an enlarged neck and a mesh storage bag.\n\nAgainst the 2.2 lb QEZER, it carries nearly twice the down and shifts the use case from fall nights to real winter. It sits well below the 10 degree target, so it overshoots for mild trips.\n\nA fit for winter car campers who would rather carry weight than risk a cold night. It stores loose in the mesh bag.",
     "specs": [
       "4 lb of 650FP duck down",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41OEc8HljJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GHQC9JCV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GHQC9JCV?tag=rvgearlab-amz-20",
     "description": "This QEZER bag holds 1.1 lb of 600 fill power duck down in a 400T ripstop nylon shell and weighs 1.9 lb. The listing calls it a 3-season bag, packs to 10.63 x 6.69 inches, and gives a trapezoidal foot box.\n\nIt is the lightest and smallest bag here, and it can zip to a second bag for two sleepers. It does not match the 10 degree target, which makes it the pick for shoulder-season trips with a pad and a liner.\n\nChoose it for backpackers who care more about grams than about deep cold. Add a liner when nights approach freezing.",
     "specs": [
       "1.1 lb of 600FP duck down",

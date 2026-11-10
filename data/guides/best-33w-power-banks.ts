@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21sHcKot6pL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H5VPKQLP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H5VPKQLP?tag=rvgearlab-amz-20",
     "description": "The CUKTECH is the only listing here that names a 33W USB-C output, paired with a 10000mAh cell and 27W input. It snaps apart into a handheld fan and a standalone bank, with a magnetic Power-Pin connection holding the two halves together.\n\nAgainst the Aioneus 35W and Baseus 45W it offers a lower top wattage and a smaller cell, and it adds a fan with three speeds and a boost mode that neither of them has. It also recharges faster than a 20000mAh unit because there is less battery to fill.\n\nIt suits a warm-weather camper who wants a phone refill and a cooling fan in the same pocket-size kit. The detachable base keeps working as a bank after the fan comes off.",
     "specs": [
       "33W USB-C output",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41QEPJL8QJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FRFY9LWY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FRFY9LWY?tag=rvgearlab-amz-20",
     "description": "The Aioneus lists 35W PD fast charging from a 20000mAh cell and carries both a built-in Type-C cable and a Lightning cable. It adds one extra USB-C output plus a USB-A output, and measures 4.70 x 2.98 x 1.16 inches at 12.56 oz.\n\nIt doubles the cell of the CUKTECH while staying lighter than the Liahomco, so it covers several phone refills without a pack-weight penalty. Next to the Baseus 45W it gives up a little peak output and gains twice the capacity.\n\nIt fits a camper who wants one slim bank that charges an iPhone and an Android phone with no loose cable to lose. Both ports are described as fast charging.",
     "specs": [
       "35W PD fast charging",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31DraZgfSEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GS4KN4TS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GS4KN4TS?tag=rvgearlab-amz-20",
     "description": "The Baseus lists 45W fast charging from a 10000mAh pack that measures 4.3 x 2.6 x 0.7 inches. Two integrated USB-C cables plus one more USB-C and a USB-A output let it charge four devices together.\n\nIt posts the highest output in this list, ahead of the Aioneus 35W and the CUKTECH 33W, in the thinnest body. Compared with the EcoFlow it gives up laptop-class wattage and weighs far less.\n\nIt suits a day hiker or a minimalist who wants quick phone refills from a bank that slides into a back pocket. The thin shell leaves room in a small daypack.",
     "specs": [
       "45W high-speed charging",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31xmP4jX3KL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FHCTS7DT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FHCTS7DT?tag=rvgearlab-amz-20",
     "description": "The Liahomco lists a 70000mAh cell with two 30W USB outputs, two 15W outputs and a 20W USB-C port. It has five outputs and two inputs, an LCD readout and an embedded lanyard.\n\nIt trades the slimness of the Baseus for many days of phone power, and its 30W ports sit just below the 33W class. Compared with the Aioneus, it carries three and a half times the cell and serves a whole tent of devices.\n\nIt suits a family camp that wants one charging hub for phones, tablets and a handheld fan. Five outputs let several people plug in together.",
     "specs": [
       "70000mAh, five outputs",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31UhAxcYlwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FHB7CJKT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FHB7CJKT?tag=rvgearlab-amz-20",
     "description": "The EcoFlow offers a 25000mAh cell with 170W total output, two 140W USB-C ports and one 33W USB-A port. It measures 6.18 x 2.12 x 1.92 inches and weighs 20 oz, with a TFT display and TSA carry-on compliance.\n\nIt pairs a named 33W USB-A port with laptop-class USB-C, which bridges phone and laptop charging. Against the Liahomco it carries far less capacity and delivers much more wattage per port.\n\nIt suits a remote worker camping with a laptop who also wants a 33W lane for a phone. The display shows power status while it charges.",
     "specs": [
       "25000mAh, 170W total",

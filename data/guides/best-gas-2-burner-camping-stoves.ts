@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31BW7+A0xXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09HN1C1YJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09HN1C1YJ?tag=rvgearlab-amz-20",
     "description": "The Coleman Triton offers two independently adjustable propane burners under a pair of wind guards, with a latch that locks the lid for travel and a chrome-plated grate that lifts out. Each knob turns smoothly for simmering.\n\nIt is the only stove here that pairs a latch-closed travel body with wind guards, which makes it the practical campsite kitchen. Compared with the 150,000 BTU cookers, it is built for pans rather than stockpots.\n\nIt suits family campers who cook two dishes at once. The latch closes it up for travel.",
     "specs": [
       "Two independently adjustable burners",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41OK9G+X3XL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B9T843BT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B9T843BT?tag=rvgearlab-amz-20",
     "description": "The Vivicreate 2 Burner is a stainless steel propane cooktop titled at 20,000 BTU, with auto ignition, fixed anti-slip pot stands and large ON/OFF-marked knobs. A propane hose and regulator come in the box.\n\nIt is the lightest on the wallet of the stoves with ignition and stays far below the Coleman in price. The fixed pot stands keep pans from shifting, and the stainless body wipes clean.\n\nIt suits budget campers, tailgaters and patio cooks who want auto ignition and a regulator included. Stainless steel handles messy cooking.",
     "specs": [
       "Stainless steel, auto ignition",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31hcsxfHF3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08SJ92JTV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08SJ92JTV?tag=rvgearlab-amz-20",
     "description": "The Koblenz PSK-200S delivers 8,000 BTU total across two burners with fully adjustable flames. It runs off a standard LP gas canister, uses manual ignition and has a porcelain cover, in a stainless body measuring about 12.8 by 20.8 inches.\n\nIt is the lowest-output stove here by a wide margin, and the only one that runs straight off a canister without a hose. Compared with the Coleman, it is simpler and smaller.\n\nIt suits campers and hunters who want a patio-grill feel with canister simplicity. Light it by hand.",
     "specs": [
       "8,000 BTU total, two burners",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41t0XfUrwIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B093N8JYTR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B093N8JYTR?tag=rvgearlab-amz-20",
     "description": "The Gas One B-4545 pairs two burner heads with a 4 foot hose and a regulator adjustable from 0 to 5 PSI. Removable legs make it easier to carry.\n\nIts plain open top suits large pots and skillets, and the regulator dials the flame up or down. It sits below the 150,000 BTU units on output and above the canister Koblenz.\n\nIt suits campers who cook with a big pot or skillet. The sturdy frame keeps heavy cookware steady.",
     "specs": [
       "Two burner heads",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410UoHTfj9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07NZ5PGZB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07NZ5PGZB?tag=rvgearlab-amz-20",
     "description": "Each ROVSUN burner puts out 75,000 BTU, which the page adds up to 150,000. Flame strength is set by a front knob and a CSA-listed regulator.\n\nIt is one of two 150,000 BTU stoves here, with the Outvita, and is built for stockpots, not delicate cooking. Legs detach in minutes for transport.\n\nIt suits big-pot cooks, fish-fry crews and home brewers who need heat. Outdoor use only.",
     "specs": [
       "Two 75,000 BTU burners",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41LhS6CDhXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B1HWCR95?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B1HWCR95?tag=rvgearlab-amz-20",
     "description": "The Outvita is another 150,000 BTU stove with two 75,000 BTU burners, a reinforced iron body and a weather-resistant powder coat. Detachable legs and a pressure regulator come with it.\n\nIt matches the ROVSUN on output and is described as height-suitable for an adult, so you cook standing. Compared with the Gas One, it gives far more heat and no windscreen.\n\nIt suits tailgates, fish fries and catering where a standing cooker beats a tabletop. Independent knobs let you boil and fry at once.",
     "specs": [
       "2 x 75,000 BTU, 150,000 total",

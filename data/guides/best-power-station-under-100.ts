@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31FBcuGw68L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DKFR196Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DKFR196Q?tag=rvgearlab-amz-20",
     "description": "This station has a 192Wh capacity and 100W rated output with 200W surge, in a 4.6 x 4.6 x 7 inch body weighing 3.9 lbs. It has one AC outlet, two USB-C, two USB-A and two DC ports, and the LiFePO4 cells are rated for over 3,000 cycles.\n\nIt stores about twice the energy of the 89.6Wh units, which is the main reason it ranks first. The LED light with an SOS mode adds an emergency lantern.\n\nIt fits campers who want to keep a laptop and phones going across a long weekend. The compact size fits in a day pack.",
     "specs": [
       "192Wh, 100W AC (200W surge)",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41wrmdLv1TL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FGJ9N7HD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FGJ9N7HD?tag=rvgearlab-amz-20",
     "description": "The DaranEner R100 holds 89.6Wh with a 100W AC outlet (200W peak) and seven ports. LiFePO4 cells are listed for over 3,000 cycles and four charging methods include solar, car, USB-C and wall.\n\nIt is designed to meet FAA carry-on limits, which sets it apart from the 192Wh unit. It is also the one with the most recharging options of the group.\n\nIt fits travelers who want an AC outlet in a carry-on. It also works for road trips and short camping stays.",
     "specs": [
       "89.6Wh, 100W AC (200W peak)",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/416bxqLh9PL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FFZJFBYH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FFZJFBYH?tag=rvgearlab-amz-20",
     "description": "The R101 holds 89.6Wh and lists USB-C1 input of 65W and USB-C1 output of 100W, compared with the older R100 at 45W in and 15W out. The 6.5 x 3.3 x 4 inch body is about the size of a venti coffee cup.\n\nWhere the R100 model lists 15W from its USB-C port, the R101 can power a laptop directly at 100W. It also supports four ways to recharge.\n\nIt fits travelers with USB-C laptops who want fast two-way charging. The small size slides into a bag.",
     "specs": [
       "89.6Wh, 100W AC (200W peak)",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41TQRbhEFxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CLVHPGDZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CLVHPGDZ?tag=rvgearlab-amz-20",
     "description": "The ZeroKor 120W unit has a 97.6Wh (26,400mAh) lithium-ion pack and two 120W max AC outlets, plus DC, USB, QC and USB-C ports. A built-in BMS covers short circuit, over-current, over-voltage, overload and overheating protection.\n\nIt is slightly larger in capacity than the 89.6Wh units and gives two AC outlets, which the single-outlet models do not. It can be recharged by solar panel, wall adapter or USB-C.\n\nIt fits campers who want two AC outlets for a laptop and a small fan. The screen shows what is left in the battery.",
     "specs": [
       "97.6Wh, two 120W AC outlets",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41xqWDIBbAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CXJ8S9Q9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CXJ8S9Q9?tag=rvgearlab-amz-20",
     "description": "The ZeroKor 100W unit lists two 100W max AC outlets, a DC port, two USB ports, a QC USB port and a USB-C port in a lightweight lithium-ion pack. It has a screen display and BMS protection.\n\nIt is similar to the ZeroKor 120W with a slightly lower output rating. The screen display shows what is left, so you do not guess at runtime.\n\nIt fits first-time buyers who want a power station for phones and lights. Recharging works by solar panel, wall adapter or other adapters.",
     "specs": [
       "100W, two AC outlets",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/412gXcDsASL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DPPC9SL5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DPPC9SL5?tag=rvgearlab-amz-20",
     "description": "The powkey 100W station has a 96Wh LiFePO4 battery and 100W of total output with 100W pure sine wave, USB-C PD and multiple ports that charge up to four devices at once. A 12 month warranty and a USB-C cable with a lanyard are included.\n\nIt is the lowest priced station here and pairs LiFePO4 cells with a pure sine wave output. It focuses on laptops and phones.\n\nIt fits students, commuters and campers who just need a laptop charge. The lanyard and USB-C cable come in the box.",
     "specs": [
       "96Wh LiFePO4, 100W output",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41cRxC-B-dL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C6K5ZPNJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C6K5ZPNJ?tag=rvgearlab-amz-20",
     "description": "DaranEner combines a 192Wh LiFePO4 battery with two 300W pure sine wave AC outlets (600W surge), a 60W USB-C PD jack, a pair of USB-A outputs and a 12V socket. The battery is rated for 3,500 or more cycles, and an MPPT controller accepts up to 60W of solar input.\n\nAt about $110 it offers three times the AC output of the $74 192Wh compact model and the same capacity, with longer-lasting cells. The Westinghouse iGen400s costs $29 more with a lower capacity, so this one is the stronger buy.\n\nCampers who want a CPAP-friendly pure sine wave output, a fan or a small laptop setup for a weekend will like it. It runs six devices at once.",
     "specs": [
       "192Wh LiFePO4, 3,500+ cycles",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/419J+SgMmpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GD91M81M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GD91M81M?tag=rvgearlab-amz-20",
     "description": "Westinghouse's iGen400s is a 183Wh station with 400W peak and 200W running output, nine outlets including two 120V AC, three USB-C 30W ports and one 100W USB-C. It charges to 80 percent in 2 hours from a wall outlet with a 100W adaptor, and runs without noise or fumes.\n\nAt about $139 it is the priciest pick here and offers the most ports. The DaranEner 192Wh gives more capacity and AC power for $29 less, and this one gives a recognizable brand and a 100W USB-C port.\n\nCampers who charge laptops, tablets and cameras more than they run AC gear will like the USB-C ports. It suits indoor emergency use too.",
     "specs": [
       "183Wh, 400W peak, 200W running",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Xg87L5uNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FB8R7N65?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FB8R7N65?tag=rvgearlab-amz-20",
     "description": "EnginStar packs a 155Wh lithium battery into a 4 lb case with a 150W 110V AC outlet, two DC outputs, two USB ports and a USB-C port, six outputs in all. The pack passed UL certification and includes overvoltage, over-temperature, short circuit and overload protection.\n\nAt about $90 it costs $20 less than the DaranEner and offers lower AC output and capacity. The Daran 89.6Wh costs the same and uses LiFePO4 cells.\n\nPhone, tablet and camera charging at a campsite is the best fit. The LCD screen shows input and output.",
     "specs": [
       "155Wh, 150W AC, 6 outputs",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31FBcuGw68L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DKFR196Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DKFR196Q?tag=rvgearlab-amz-20",
     "description": "This station holds 192Wh in a 4.6 by 4.6 by 7 inch body, about the size of a basic DSLR camera, and weighs 3.9 lb. Outputs are a single 100W AC socket (200W surge), a USB-C pair, a USB-A pair and two DC jacks, and a two-level LED light adds an SOS mode.\n\nAt about $74 it costs $36 less than the DaranEner with the same capacity and a third of the AC power. It is the cheapest way to get 192Wh.\n\nLight users who charge phones and run a small fan or a few lights will like the capacity per dollar. It also fits a bag easily.",
     "specs": [
       "192Wh, 100W AC (200W surge)",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51RqhJSR3sL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CQT5G1ZR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CQT5G1ZR?tag=rvgearlab-amz-20",
     "description": "Daran 89.6Wh is a pocketable power station about the size of a smartphone at 6.5 by 3.3 by 4 inches and 2.54 lb. It uses a LiFePO4 battery with 100W (200W peak) output across seven ports, including two AC outlets and two USB-C ports, and refills from empty to 80 percent in 1.5 hours.\n\nAt about $90 it holds less than half the energy of the DaranEner 192Wh and is the only fanless, silent pick. The small battery limits runtime, so it suits short use.\n\nLight packers and travelers who want silent power for a phone, a laptop and a headlamp will like it. It is also a good bedside backup.",
     "specs": [
       "89.6Wh LiFePO4, 100W AC",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41vZtm9ylGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DR89VFT8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DR89VFT8?tag=rvgearlab-amz-20",
     "description": "SinKeu uses a UL-certified LiFePO4 battery of 122.8Wh with 3,500 or more life cycles and pass-through charging. It provides 150W continuous AC for laptops, cameras and mini-fridges under 100W, weighs 4 lb and measures 7.5 by 4.5 by 6.5 inches.\n\nAt about $59 it costs half the price of the DaranEner and offers about two thirds of the capacity. The LiFePO4 chemistry at this price is the standout.\n\nBudget campers who want a light, long-lasting station for charging and a small mini-fridge will like it. Recharge from a wall socket in about 4 hours.",
     "specs": [
       "122.8Wh LiFePO4, 3,500+ cycles",

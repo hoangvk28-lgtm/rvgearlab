@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41pfLaPc5JL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B1JBDR3V?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B1JBDR3V?tag=rvgearlab-amz-20",
     "description": "The 2012 fan lists four power steps of 3W, 10W, 20W and 40W, so you can pick the lowest draw that moves enough air. Its brushless motor runs at 25 dB or less and the listing says it lasts up to five times longer than brushed motors.\n\nNo other pick states its wattage so clearly, which is why it leads for off-grid use. It also adds remote control, a rain sensor and reversible airflow, suiting boondockers who want to spend as little power as possible.",
     "specs": [
       "3W/10W/20W/40W steps",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31r6PJuIcrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B002OW5JG2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B002OW5JG2?tag=rvgearlab-amz-20",
     "description": "The Maxxfan Deluxe combines vent, fan and cover in one 10-speed reversible unit with a thermostat and built-in rain protection. The 10 steps let you select very low airflow overnight rather than jumping to a high default.\n\nCompared with the 4-speed Maxxfan, it adds the finer speed scale and thermostat, which is what keeps average draw down. It suits owners who want a proven design and are comfortable paying for it.",
     "specs": [
       "10-speed reversible",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31uWzKqRy+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B016MWZIBU?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B016MWZIBU?tag=rvgearlab-amz-20",
     "description": "This Maxxfan is a 12V DC variable-speed unit with four speed options, a 12 inch fan with 10 blades and a rating of 900 CFM. A flush-mounted keypad sets speed, and the bug screen removes for cleaning.\n\nIt drops the thermostat and extra speeds of the Deluxe, which keeps things simple and lowers the cost. It suits owners who want the Maxxair build with less to configure.",
     "specs": [
       "4 speeds, 900 CFM",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41nFQZ6SNwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FH2H6MGJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FH2H6MGJ?tag=rvgearlab-amz-20",
     "description": "The RVSNAIL is a 14 inch, 10-speed reversible roof vent rated at 934 CFM, fitting all standard 14 by 14 inch openings. It ships with screws and a removable screen and is promoted as a super quiet, energy-efficient fan.\n\nNext to the Maxxair Deluxe, it offers the same 10-step scale at a lower price. It suits buyers who want fine speed control without paying premium-brand money.",
     "specs": [
       "10 speeds, 934 CFM",
@@ -133,7 +133,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51HYsctVARL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B66Z77X6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B66Z77X6?tag=rvgearlab-amz-20",
     "description": "The Starvent has six speeds, reversible blade rotation and transparent blades that let sunlight in. It suits roofs 1.16 to 5.5 inches thick and handles smoke, moisture and odors.\n\nIt sits between the 4-speed Maxxair and the 10-speed models in speed steps. It suits owners who want more than four speeds but not the cost of a 10-speed fan.",
     "specs": [
       "6 speeds, reversible",

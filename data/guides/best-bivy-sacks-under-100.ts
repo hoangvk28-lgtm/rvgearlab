@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31yjhHzwm7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FV883PQB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FV883PQB?tag=rvgearlab-amz-20",
     "description": "The Litume is a mummy-cut bivy with a footbox and a hood with an elastic drawcord. Its back is coated to a stated 12,000mm water resistance, it folds to 17.5 by 8.5 cm and it weighs under 400 g.\n\nIt costs about $80, around $20 less than the AKMAX Bivy Cover, and it weighs about a fifth as much. It skips the compression straps and three-layer build of the AKMAX, and in return it carries a stated millimeter rating and OEKO-TEX certified fabric that the others lack.\n\nIt suits backpackers who want a small, light bivy over a mummy bag for cold, damp nights. Handwash it to protect the coating.",
     "specs": [
       "12,000mm back coating",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41TUM4xZb3S._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09KGGBXFB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09KGGBXFB?tag=rvgearlab-amz-20",
     "description": "The AKMAX Bivy Cover is a shell modeled on the U.S. Army modular sleep system, made from three laminated nylon layers. It weighs 1.9 pounds and comes with a compression sack and straps.\n\nIt costs about $100, the top of this budget and about $25 more than the Military Modular Bivy, and it is a heavier, rugged shell than the Litume Waterproof Bivy. The compression sack makes the bulk manageable.\n\nIt suits campers who want a durable wind and water shell over a sleeping bag and pad. It handles cold, wet field use.",
     "specs": [
       "Three laminated nylon layers",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41F51mvzKeL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H6Y8YKXD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H6Y8YKXD?tag=rvgearlab-amz-20",
     "description": "The Military Modular Bivy is a genuine U.S. issue cover made in the USA by Tennier, in breathable waterproof fabric with heat-sealed seams and a 2-way zipper. It fits modular and cold-weather sleeping bags.\n\nIt costs about $75, less than the AKMAX Bivy Cover, and the heat-sealed seams and zipper are the build features a casual shell lacks. It is heavier than the Litume Waterproof Bivy.\n\nIt suits campers who want a tough, field-tested design with real seams. The 2-way zipper helps you ventilate.",
     "specs": [
       "Made in USA by Tennier",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41FfqMrO6uL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DTKDG5MY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DTKDG5MY?tag=rvgearlab-amz-20",
     "description": "The GEERTOP is a 2.9 pound one-person bivy tent with a PU5000 fly, a PU8000 floor and an interior of 84.6 by 29.5 by 24 inches. It pitches in two minutes on a three-pole frame, with taped seams, mesh and vents.\n\nIt costs about $74, the same as the Military Modular Bivy, and it is the only pick that gives headroom and a bug mesh. A shell like the Litume Waterproof Bivy is lighter, and the GEERTOP trades weight for comfort.\n\nIt suits solo backpackers who want a tent-like bivy for bugs and rain. The 24 inch height lets you sit up.",
     "specs": [
       "2.9 lb one-person tent",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41j02xYKVBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D6GPW5G2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D6GPW5G2?tag=rvgearlab-amz-20",
     "description": "The Sanmum is an ultralightweight bivy sack made for ventilation around the sleeping bag. It comes in two color choices, red for winter and green for summer.\n\nIt costs about $37, less than half the Litume Waterproof Bivy, and it is the cheapest shell here. It has far less technical detail than the Litume, so it sits at the entry end of the range.\n\nIt suits campers who want a simple spare cover for a sleeping bag. It also suits those who want to test a bivy before they buy a pricier one.",
     "specs": [
       "Ultralightweight bivy sack",

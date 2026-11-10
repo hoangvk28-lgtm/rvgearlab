@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/510TWVZyCoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G8J5V3YS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G8J5V3YS?tag=rvgearlab-amz-20",
     "description": "The RVSHARK 28FT is certified to NSF/ANSI/CAN 372 and was extended from 25 ft to 28 ft. It lists brass-plated aluminum fittings with reinforced strain relief ends.\n\nIt is the closest pick to 30 feet and the only one with NSF 372 certification wording. It costs a little more than the OULEME.\n\nIt suits owners who need a bit more than 25 ft. The strain relief protects the ends.",
     "specs": [
       "28 ft, NSF 372 certified",
@@ -53,7 +53,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41B1VILPbyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BPCHSJGS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BPCHSJGS?tag=rvgearlab-amz-20",
     "description": "The Kohree 35FT is a food grade hose that comes with a storage bag and lists a -4°F to 176°F range. It has pure aluminum fittings with brass coating and a 450 PSI burst rating.\n\nIt lists a bag and a temperature range, which the OULEME does not. It is priced just under the other Kohree 35.\n\nIt suits owners who want 35 feet with stated limits. The aluminum fittings with brass coating add durability.",
     "specs": [
       "5/8 inch, 35 ft",
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51sBYhKuZeL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CY433RKJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CY433RKJ?tag=rvgearlab-amz-20",
     "description": "The Kohree RV Water Hose 35FT lists a build 20 percent thicker than standard hoses, brass-plated aluminum fittings and a storage bag. It is CA65 compliant.\n\nIt is the higher priced Kohree 35 and lists strain relief ends. It carries more build detail.\n\nIt suits owners who want a sturdy 35 ft hose. The bag helps with the bulk.",
     "specs": [
       "5/8 inch, 35 ft",
@@ -108,7 +108,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41XmAfPqNrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BRKM93K8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BRKM93K8?tag=rvgearlab-amz-20",
     "description": "The OULEME 35FT lists a temperature range of -22°F to 158°F and a maximum working pressure of 150 PSI. It has 3/4 inch solid aluminum fittings.\n\nIt matches the Kohree 35 on price and states a pressure rating the Kohree does not. It states a bursting pressure.\n\nIt suits owners who want stated working limits. The extra length gives margin at far pedestals.",
     "specs": [
       "5/8 inch, 35 ft",
@@ -135,7 +135,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/416uKLABdmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G4TNXTZQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G4TNXTZQ?tag=rvgearlab-amz-20",
     "description": "The CircleRiver 25FT is NSF 372 tested lead-free and lists 3/4 inch aluminum fittings with a sealing ring. It is a 3-layer hybrid polymer hose.\n\nIt is shorter than the 28 and 35 ft picks but the lowest priced of the certified group. It lists a wide temperature range.\n\nIt suits owners who find 25 ft enough. The tested wording adds confidence for drinking use.",
     "specs": [
       "5/8 inch, 25 ft",
@@ -162,7 +162,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41eXnGBBSVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GFTLF1V6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GFTLF1V6?tag=rvgearlab-amz-20",
     "description": "Nilight's 15 ft RV Water Hose ships with a storage bag and solid aluminum fittings, and it works from -4°F up to 176°F. Three layers include a netted rope layer for strength.\n\nIt is the shortest and lowest priced of the 30 ft group. Its layers use food-grade synthetic rubber.\n\nA short bagged hose like this fits small campers and vans. It stores in a small bin.",
     "specs": [
       "5/8 inch, 15 ft",

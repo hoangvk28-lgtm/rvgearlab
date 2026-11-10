@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51BvZHin-bL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GF38Q1S4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GF38Q1S4?tag=rvgearlab-amz-20",
     "description": "The OGERY is a camping fan with a 20000mAh battery that runs up to 200 hours on the lowest speed and 17 hours on the highest. Airflow reaches 5.0 meters per second, it tilts 270 degrees vertically and it oscillates at 30, 60, 90 or 120 degrees.\n\nIt is the only pick here that oscillates, which spreads air across a big tent, and it doubles as an LED lantern with three brightness levels. It charges at up to 18W, taking about 7.5 hours.\n\nIt suits families in large cabin tents who want cooling across the whole space. The infrared remote and timer help at night.",
     "specs": [
       "20000mAh, up to 200 hours low",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41C1QYBP2wL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GSV8FT1Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GSV8FT1Y?tag=rvgearlab-amz-20",
     "description": "The Lumtide is a battery-operated ceiling fan with a 20000mAh battery, four speeds and a light with three color temperatures: 3000K, 4500K and 6000K. It has stepless dimming from 10 to 100 percent and a 2.4G remote that works without direct alignment.\n\nIts light is more adjustable than the ASZEKOK's and the 18 inch Tent Fan's, and its remote needs no line of sight. It is the most expensive pick and is not waterproof, so it needs a sheltered spot.\n\nIt suits campers who want an overhead fan and a good tent light in one. The blades detach for storage.",
     "specs": [
       "20000mAh, four speeds",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31JvPPBch4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GX73FQVJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GX73FQVJ?tag=rvgearlab-amz-20",
     "description": "This 18 inch hanging fan carries a 15600mAh battery with three speeds, three LED light settings and an LED display. It gives 8, 13 and 25 hours at high, medium and low, and it comes with a remote, buttons and a 2, 4, 6 or 8 hour timer.\n\nIt costs about $2 more than the ASZEKOK and gives a larger battery and a longer runtime. Three detachable blades assemble in under a minute.\n\nIt suits campers who want a big overhead fan that sets up fast. It sits between the Lumtide and ASZEKOK on price and capability.",
     "specs": [
       "18 in, 15600mAh",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/316G5vbmyrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G7KV9PF1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G7KV9PF1?tag=rvgearlab-amz-20",
     "description": "The ASZEKOK is a 17 inch ceiling fan with a 10800mAh battery, USB-C fast charge and a DC brushless motor under 30 decibels. It runs 4 to 9 hours on a charge, has a dimmable LED panel and an RF remote.\n\nIt is the quietest and cheapest of the ceiling fans here, and weather-resistant construction suits gazebos and porches. It has the smallest battery of the ceiling fans.\n\nIt suits light sleepers and anyone who runs a fan near their ear. Detach the blades for transport.",
     "specs": [
       "17 in, 10800mAh, USB-C",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51VBJ4N0oKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08866RDYK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08866RDYK?tag=rvgearlab-amz-20",
     "description": "The Koonie is an 8 inch clip-on fan with a 10000mAh battery that lasts up to 24 hours, three 8 inch blades and a 3 inch clamp. It charges at 5V 2A in about 6 hours and has a head that rotates 360 degrees.\n\nIt clamps to a chair, a cot frame or a table, which none of the ceiling fans can do, and it has three speeds plus an energy-saving mode. It costs about $1 more than the OGERY and gives less airflow.\n\nIt suits campers who want a fan they can aim at their face from a cot or a camp chair. Clamp it to a frame tube and angle it toward your head.",
     "specs": [
       "8 in, 10000mAh",

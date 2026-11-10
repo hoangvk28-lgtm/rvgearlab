@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/513CmeDTTPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GKDNNGBQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GKDNNGBQ?tag=rvgearlab-amz-20",
     "description": "The LUXLOOM is an 8x10 ft waterproof plastic straw rug with geometric patterns on both sides. Heat-sealed edges help prevent fraying, and four ground stakes plus corner loops anchor it on grass, soil or campgrounds.\n\nCompared with the 5x8 picks, it covers a larger area and is the only one here that ships with stakes. It suits campers who want a rug that stays put and dries fast after storms.",
     "specs": [
       "8x10 ft plastic straw",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/61Lg7aQm4hL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CLNYPGL6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CLNYPGL6?tag=rvgearlab-amz-20",
     "description": "The MontVoo is a 5x8 ft rug whose listing leads with waterproof and quick dry. Heat-treated edges are reinforced to prevent tearing, and the tubular plastic straws are UV stabilized.\n\nNext to the OLANLY, it spells out the quick-dry behavior and the reinforced edges more directly. It suits buyers with spills and wet shoes in a high-traffic spot.",
     "specs": [
       "5x8 ft tubular straw",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51CQCFquXIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08NSXMKDN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08NSXMKDN?tag=rvgearlab-amz-20",
     "description": "The SAND MINE is a 5x8 ft reversible rug made from 100% virgin polypropylene with heat-treated edges. A quick sweep with water, then air drying, is all it needs, and it comes with a carry bag.\n\nAgainst the Garvee 5x8, it adds the carry bag and a wider size range from 4x6 up to 8x10. It suits buyers who may want to upsize later in the same line.",
     "specs": [
       "5x8 ft virgin polypropylene",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/611C4XMEIOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CKL3SPP5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CKL3SPP5?tag=rvgearlab-amz-20",
     "description": "The OLANLY is a 5x8 ft reversible rug built from tightly woven plastic straws. Liquids drain right through while dirt stays on top for easy removal, and a UV coating helps preserve the black and white tones.\n\nCompared with the MontVoo, the drainage claim is stated as liquids pass through the rug, which is the core of quick drying. It suits buyers who want a black and white look at a low price.",
     "specs": [
       "5x8 ft woven plastic straw",
@@ -133,7 +133,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51tiF96OvtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HC3L1PCD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HC3L1PCD?tag=rvgearlab-amz-20",
     "description": "The Garvee is a 5x8 ft rug in 100% virgin polypropylene with heat-treated edges to prevent fraying. It is waterproof and damp resistant, and it dries quickly after rain or cleaning.\n\nIt is the least expensive pick here and sits one step below the SAND MINE, which adds a carry bag. It suits buyers who want fast-drying coverage for a small step zone.",
     "specs": [
       "5x8 ft virgin polypropylene",

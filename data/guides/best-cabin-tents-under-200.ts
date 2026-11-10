@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/416cjawrvOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08MDTJTZP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08MDTJTZP?tag=rvgearlab-amz-20",
     "description": "The KTT cabin gives you a fourteen by ten foot floor under a 6.58 ft ceiling, with space for four full air mattresses split across two rooms. Three doors and three windows are all screened in mesh, and eight corner hooks plus a center hook hold lamps.\n\nIt is assembled by hand from folding poles, so it packs smaller than instant cabins and costs far less than the 12-14 person KTT. Compared with the bay-window version it leaves out the bay windows and one pole set.\n\nLarge families who like a straight-wall layout and do not mind building the tent by hand will enjoy the volume. Oxford polyester and a PE-coated floor form the shell.",
     "specs": [
       "14 ft by 10 ft, 6.58 ft peak",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51sN9ZV97nL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DRVSDJPD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DRVSDJPD?tag=rvgearlab-amz-20",
     "description": "This KTT version spans 14.1 ft by 10 ft with a 6.58 ft ceiling, a full rainfly, two bay windows and a curtain that splits it into two rooms. A trio of doors and screened windows add airflow, and the door curtain can be propped on two poles.\n\nThe bay windows and full fly separate it from the plain KTT, giving more light and better rain cover. It is the same price at the cap, so the choice depends on whether you want extra ventilation.\n\nWarm-weather families will like the extra windows. Fiberglass pole sections for the bay windows are included.",
     "specs": [
       "14.1 ft by 10 ft, 6.58 ft peak",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51c34Dn6EjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H1N15P7J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H1N15P7J?tag=rvgearlab-amz-20",
     "description": "The BravArrk cabin has a ten by nine foot interior with a 78 inch center, holding two air mattresses or six sleeping bags. A large mesh door, several windows and a mesh roof deliver airflow, and a pair of adults can usually pitch it in around five minutes.\n\nIt costs around half of the KTT tents and pitches much faster. It lacks a second room and the full-length rainfly that the KTT bay-window version has.\n\nFamilies on a budget will like it. One person can assemble it with a little extra time.",
     "specs": [
       "Ten ft by nine ft, 78 in peak",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41eR11q7+hL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DSJ5JVJX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DSJ5JVJX?tag=rvgearlab-amz-20",
     "description": "The Chihee is a hexagon cabin about nine feet across and five feet high at the center. Its flysheet is 210D Oxford with a 3000mm black polyurethane coat, UV50+ protection, aluminum pegs and thick guy ropes.\n\nOf everything here it raises fastest and takes up the least ground. The KTT tents offer far more space, while the Chihee brings an awning porch and an easy pitch.\n\nCouples and small families who value ease over volume will enjoy it. The black coating blocks UV on sunny pitches.",
     "specs": [
       "Hexagon, about 9 ft across",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41MUwytM0FL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FHQBQZ2R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FHQBQZ2R?tag=rvgearlab-amz-20",
     "description": "This four-person Happy Travel cabin measures eight feet by seven under a 75 inch center, with 190T taffeta coated to 3000mm. Mesh doors, a removable fly and an electrical port are included.\n\nIt carries the highest stated waterproof rating in the list at the lowest price. The trade-off is the smallest floor here, well below the KTT tents.\n\nCouples with a child will find it a snug, rain-ready cabin. The e-port keeps a fan cord out of the door.",
     "specs": [
       "Eight by seven ft floor",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31uLlEH3nvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D9N9FW3L?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D9N9FW3L?tag=rvgearlab-amz-20",
     "description": "The Castle Unicorn is a two-room cabin about ten feet long and seven wide, with a 69 inch peak, 150D Oxford and a 1500mm polyurethane coating. Poles lift the door flaps into a porch that rolls away when not needed.\n\nThat porch is a feature the KTT cabins skip. The KTT tents offer more floor, while the Castle Unicorn is lighter and cheaper to carry.\n\nFamilies who want a shaded entry and a bedroom divider will like it. Two big doors and a mesh roof keep warm nights breezy.",
     "specs": [
       "About 10 ft by 7 ft floor",

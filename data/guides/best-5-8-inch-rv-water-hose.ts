@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41j56Pbr36L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DDK3LRQD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DDK3LRQD?tag=rvgearlab-amz-20",
     "description": "The Atlantic 5 ft hose is PVC-free with a food-grade silicone inner tube and washer. It lists a range of -70°F to 200°F and is 30 to 40 percent lighter than heavy PVC or hybrid hoses.\n\nIt is the only pick that is PVC-free and it is the lightest. It is priced above the Camco hoses.\n\nIt suits owners who want a lightweight, PVC-free jumper. The wide temperature range suits all seasons.",
     "specs": [
       "5/8 inch, 5 ft",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31rhKNQCuhL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07FD63M3P?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07FD63M3P?tag=rvgearlab-amz-20",
     "description": "The Camco TastePURE 4-Foot is NSF/ANSI 61 certified with CSA lead-free certification and a 5/8 inch inner diameter. It is 20 percent thicker than premium hoses with zero memory.\n\nIt lists certification wording that the garden hoses do not. It is priced above the EvoFlex.\n\nIt suits owners who want certified drinking water wording in a short hose. Diamond-hatch reinforcement resists kinking.",
     "specs": [
       "5/8 inch, 4 ft",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41dOMM2x2-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07W4RYRMV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07W4RYRMV?tag=rvgearlab-amz-20",
     "description": "The Camco EvoFlex 4-Ft is an extra flexible 5/8 inch hose with stainless steel strain relief ends. It is CSA lead-free certified and lead, BPA and phthalate free.\n\nIt adds stainless strain relief to the TastePURE design at a lower price. It stays flexible.\n\nIt suits owners who want strain relief at the fittings. The 4 ft length covers most short hops.",
     "specs": [
       "5/8 inch, 4 ft",
@@ -109,7 +109,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Uv+4EeYyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DZWMVNQ5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DZWMVNQ5?tag=rvgearlab-amz-20",
     "description": "The Besiter 5FT is a 5/8 inch burst-resistant PVC hose with solid brass fittings and a vibrant color. It is lead-free and listed for car washing and pet baths.\n\nIt is priced below the Camco hoses and uses brass fittings. It is a garden hose by label.\n\nIt suits owners who want a tough short hose for utility work. The bright color is easy to spot on the ground.",
     "specs": [
       "5/8 inch, 5 ft",
@@ -136,7 +136,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41PVGXStNWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F29GPW33?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F29GPW33?tag=rvgearlab-amz-20",
     "description": "The BlueGarden is a 5 ft non-expandable 304 stainless steel hose with 100 percent solid brass fittings and soft rubber grips. It is used as a hose extension adapter for a reel.\n\nIt is the only metal hose and resists punctures and kinks. It is priced close to the SheeChung.\n\nIt suits owners who want a durable reel connector. The rubber grips help on wet hands.",
     "specs": [
       "5 ft, 304 stainless steel",
@@ -163,7 +163,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31tp30tRVKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GCCF7L4N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GCCF7L4N?tag=rvgearlab-amz-20",
     "description": "The SheeChung is a 1 ft by 5/8 inch rubber leader hose with 3/4 inch brass fittings and an O-ring design. It includes 2 extra washers and ranges from -4°F to 149°F.\n\nIt is the lowest priced pick and the shortest. It is designed to relieve stress at the spigot.\n\nIt suits owners who want a leader hose between a spigot and a long hose. The spare washers extend its life.",
     "specs": [
       "5/8 inch, 1 ft",

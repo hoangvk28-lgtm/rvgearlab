@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51+PfLzRJVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GXV2LVS1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GXV2LVS1?tag=rvgearlab-amz-20",
     "description": "The Everfire measures about 9.8 ft long, 6.9 ft wide and 6.9 ft tall, giving 67.8 sq ft for two to four sleepers or six seated campers. A 420D Oxford shell with a PU 3000mm+ rating and UPF50+ protection covers it, and a stove jack with a curtain handles venting.\n\nIt pairs 420D fabric and a stove jack with a lower price than the Qeroo, WildFinder and generic 8-10 person tent. It pitches in about five minutes with a pump.\n\nCold-weather campers will like the combination. Use a tent-rated stove and run a CO alarm.",
     "specs": [
       "67.8 sq ft, 6.9 ft peak",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51q+AwyP9PL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H36JS6MV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H36JS6MV?tag=rvgearlab-amz-20",
     "description": "The Bsteciar inflates with its manual pump in three to five minutes and gives a floor of about 10 ft by 7 ft under a 6.56 ft ceiling. Its 300D Oxford shell has a PU coating, and a roof skylight and two side windows each come with privacy covers.\n\nNothing else here is cheaper, and it has the tallest ceiling among the four-person tents. Compared with the Everfire, it swaps the stove jack and heavier 420D fabric for a lower price and a bigger skylight.\n\nFamilies who want standing room and daylight without spending near the cap will like it. The privacy covers make early morning light easy to manage.",
     "specs": [
       "10 ft by 7 ft, 6.56 ft ceiling",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41WE5U8KXDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GYQPQ7W8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GYQPQ7W8?tag=rvgearlab-amz-20",
     "description": "The WildFinder builds its frame from TPU air beams with protective covers and wraps it in 420D Oxford rated PU 3000mm with UPF30+. A panoramic PVC skylight with an optional privacy cover and a stove jack sit over about 68 sq ft of floor.\n\nTPU beams resist cold cracking better than the PVC beams on the Soboyo and Generic 8-10P tents. It costs a little more than the Everfire and matches it on stove readiness.\n\nCampers who winter-camp or plan to keep a tent for many seasons will like the beam covers. The skylight cover handles bright mornings.",
     "specs": [
       "TPU air beams with covers",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51y8bh+6SNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GY1L2Z4Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GY1L2Z4Y?tag=rvgearlab-amz-20",
     "description": "The Qeroo is made from 600D Oxford, the heaviest fabric in the list, and a hand pump inflates it in about eight minutes. It is built to handle level-7 wind and adds a stove jack with multiple ventilation openings.\n\nIts fabric is far heavier than the 420D tents, which makes it the pick for exposed sites. It costs more than the Everfire and takes longer to inflate than the Bsteciar.\n\nCampers in windy places who want a four-season tent will like it. The mix of vents and stove jack suits cold and warm trips.",
     "specs": [
       "600D Oxford shell",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4145D1z1OAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HB31DHVR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HB31DHVR?tag=rvgearlab-amz-20",
     "description": "The Soboyo combines a detachable awning, a skylight, a pump and a stove jack on a 420D Oxford shell. It is sold for four to six people in an air-cabin layout.\n\nThe removable awning turns the front into a shaded lounge, which the Everfire and Bsteciar do not offer. It costs more than the Everfire and pairs a similar stove-ready shell with extra shade.\n\nCampers who spend afternoons at the site will like the shade. Take the awning off for wind or when you pack.",
     "specs": [
       "Detachable awning",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51LW5CiutzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GTVGYPSC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GTVGYPSC?tag=rvgearlab-amz-20",
     "description": "The generic air tent covers about 13 ft by 9.8 ft under a 6.9 ft peak, giving 129 sq ft for up to eight sleepers. PVC air ribs with two inflation ports pitch it in about five minutes, and a panoramic skylight and stove jack come built in.\n\nIts interior is nearly double the four-person tents, at a price close to the Qeroo. The skylight and dual-layer doors keep it airy for large groups.\n\nLarge families and multi-couple trips will like the volume. A stove jack makes it a real hot tent for winter.",
     "specs": [
       "129 sq ft, 6.9 ft peak",

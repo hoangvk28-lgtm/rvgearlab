@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41FIlVajcXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G5WQBBRP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G5WQBBRP?tag=rvgearlab-amz-20",
     "description": "The Mimajor has a hydraulic top pole structure that raises it in about 60 seconds, a 190T polyester shell coated to 3500mm and a full-coverage rainfly with taped seams. Three oversized mesh windows and a ceiling mesh panel supply ventilation across a floor of roughly 8 ft square with a 59 inch peak.\n\nA 3500mm rating is the highest in this list, which gives it the best rain defense for the price. It has more headroom than the HUI and a faster pitch than the Londtren-style spring tents.\n\nFamilies with a rainy forecast get the most from it. The tall 59 inch peak lets kids stand.",
     "specs": [
       "3500mm PU, taped fly seams",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41cSOsaXraL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0827J5ZNF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0827J5ZNF?tag=rvgearlab-amz-20",
     "description": "The MOON LENCE pops up in about ten seconds with a quick-pop mechanism. Its pentagon cabin shape yields roughly 9.5 by 10 feet of floor and a 52 inch peak. Four large mesh windows and a D-shaped door complete the shell.\n\nIt sets up faster than the Mimajor, and its 190T PU fabric and detachable rainfly are less rain-ready than the Mimajor's 3500mm shell. It also gives more floor than the LANGWILL.\n\nFestival campers and backyard sleepovers suit it. The pentagon floor is unusually roomy.",
     "specs": [
       "Ten-second quick-pop mechanism",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41LxS1ilOpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H1HTK7RF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H1HTK7RF?tag=rvgearlab-amz-20",
     "description": "The LANGWILL has a high-density blackout coating that blocks sunlight, a hydraulic system that raises it in under a minute and a 210D Oxford shell with a taped rainfly rated 3000mm. It comes in 2 or 4 person sizes.\n\nIt is the only blackout tent in the list, ahead of the Mimajor on sleeping-in comfort. The Mimajor offers more mesh ventilation.\n\nLight sleepers and shift workers will love the dark interior. The taped rainfly gives solid rain cover.",
     "specs": [
       "Blackout coating, 3000mm fly",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41sR+ReqLOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07NZ6WCRN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07NZ6WCRN?tag=rvgearlab-amz-20",
     "description": "The HUI LINGYANG offers a floor about 9.5 ft long and 6.6 ft wide, with a 52 inch peak, pre-assembled poles, double-panel doors and four mesh windows. It sleeps four in bags or two or three with gear.\n\nIt costs less than the Mimajor and has less headroom. Taped seams give light-rain protection.\n\nFamilies on a budget who camp in fair weather will like it. The maker says to avoid heavy rain.",
     "specs": [
       "About 9.5 ft long, 52 in peak",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/417m+OJusZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GJRHWX1W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GJRHWX1W?tag=rvgearlab-amz-20",
     "description": "The Rivenlo is a 4-person pop-up with an overhead skylight, a removable rainfly, four mesh windows and two doors. Its floor runs near 9.5 ft in length under a 4.3 ft peak.\n\nIt sits below the HUI in price and adds the skylight. The Mimajor has better rain protection.\n\nCouples who like stars will enjoy it. Setup is automatic.",
     "specs": [
       "Skylight, removable rainfly",

@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410j8qTKJpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DLGPZN8Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DLGPZN8Y?tag=rvgearlab-amz-20",
     "description": "Waterdrop UL12A is a freestanding no-drill under-sink filter for cold-water sources, with twist-and-lock setup and a 3/8 inch line. The listing says it is IAPMO certified and reduces PFAS, PFOA and PFOS, rust, lead, chlorine and heavy metals, and includes a time reminder.\n\nAgainst Waterdrop 10UA, it is the newer, no-drill model. Against faucet-mount filters, it hides under the sink and does not touch the faucet.\n\nIt is the best match for RV owners who want a no-drill under-sink filter with stated certifications. It is a natural fit for under-sink space.",
     "specs": [
       "No-drill under-sink filter",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ei5RLPynL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B083NPW1DN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B083NPW1DN?tag=rvgearlab-amz-20",
     "description": "Waterdrop 10UA is an under-sink system with NSF/ANSI 42 certification stated and twist-and-lock push-to-connect fittings. The listing says only a cold-water source should power it and that the filtration area is larger to reduce clogging.\n\nAgainst Waterdrop UL12A, it is the older design at a lower price. Against CFS Carbon Block, it is a complete system.\n\nIt suits owners who want an under-sink filter at a modest price. Think of it as the pick for budget under-sink.",
     "specs": [
       "Under-sink system",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/418wjpG1s3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FBBVTQY7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FBBVTQY7?tag=rvgearlab-amz-20",
     "description": "CFS CC-10-CA Carbon Block Kit pairs carbon block cartridges with a clear canister in the standard 10 inch format. The listing says the clear canister lets you see seating and sediment buildup and that the format is easy to source.\n\nAgainst Waterdrop 10UA, it is a standard-format kit you can refill from many makers. Against faucet filters, it needs mounting space.\n\nIt suits owners who want an easy-to-source cartridge format. Buyers focused on standard cartridge fans will find it a sensible match.",
     "specs": [
       "Carbon block with clear canister",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41XiiWDbkQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07MLSVLZH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07MLSVLZH?tag=rvgearlab-amz-20",
     "description": "PUR Plus Faucet-Mount filter lasts up to 3 months or 100 gallons and has a filter change light. The listing says it is WQA certified to reduce lead and NSF certified to reduce microplastics and chlorine, and installs in minutes with no tools.\n\nAgainst iSpring DF2, it has a change light and a shorter 100 gallon life. Against Brita Elite, it is a PUR design.\n\nIt suits renters and small rigs wanting a no-tool filter. It earns its slot for tool-free installs.",
     "specs": [
       "Faucet-mount, 100 gallons",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31HnLjV84RL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07KLDRJKQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07KLDRJKQ?tag=rvgearlab-amz-20",
     "description": "iSpring DF2 is a faucet filter for kitchen, bathroom or RV sinks with food-grade BPA-free housing and a 500 gallon cartridge life. The listing says it reduces chlorine, chloramine, lead and mercury and does not fit pull-out or handheld faucets.\n\nAgainst PUR Plus Faucet, it states a 500 gallon life. Against Brita Elite, it names RV sinks directly.\n\nIt suits owners with a standard faucet and a long-life cartridge need. It is a natural fit for standard rv faucets.",
     "specs": [
       "Faucet filter, 500 gallons",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Yg1K5q37L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00006IV0P?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00006IV0P?tag=rvgearlab-amz-20",
     "description": "Brita Elite Advanced faucet filter uses carbon block technology and an indicator to show when to change. The listing says it reduces chlorine taste and odor and 60 plus contaminants, including 99 percent of lead, and offers three spray options.\n\nAgainst PUR Plus Faucet, it states a broader contaminant claim. Against iSpring DF2, it is a brand-name filter without RV wording.\n\nIt suits owners who want a familiar brand at a low price. Think of it as the pick for familiar-brand buyers.",
     "specs": [
       "Faucet filter, carbon block",

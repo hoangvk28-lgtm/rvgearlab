@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51k+u1pCt9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FJZYLD4V?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FJZYLD4V?tag=rvgearlab-amz-20",
     "description": "The Westinghouse iGen8200TFc publishes all three ratings plainly: 6,600 running and 8,200 peak watts on gasoline, 5,940 and 7,380 on propane, and 5,280 and 6,560 on natural gas. It has one 120/240V 14-50R 50A outlet for home backup, a TT-30R 30A RV outlet and a GFCI 20A duplex, runs a 298 cc engine, and claims up to 17 hours on a 3.9 gallon tank at 25 percent load.\n\nIt ranks first because it is the cheapest unit here at $1,399 and still lists a 50A outlet, about 60 dBA at 25 percent load, parallel capability and a CO sensor. Against the GENMAX GM8000iETC it costs $100.99 less but loses the Bluetooth app and two-wire automatic start, while its natural gas rating of 5,280 watts is 480 watts above the GENMAX's 4,800. Against the Champion 8500 it saves $145.99 and gives up the key fob range and the included gas hoses.\n\nPick it if your plan is a generator on a transfer switch or interlock kit and you want a clear natural gas number to budget loads against. The caveat is that the feature text does not mention hose kits, so budget separately for a propane or natural gas hose and regulator.",
     "specs": [
       "6,600W gas, 5,280W natural gas",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/417GY9IMAhL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G5WS23T7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G5WS23T7?tag=rvgearlab-amz-20",
     "description": "The GENMAX GM8000iETC lists 8,000 surge and 6,000 running watts on gasoline, 7,250 and 5,500 on propane, and 6,500 and 4,800 on natural gas from a 312 cc engine. Its panel carries one 120/240V 14-50R, one L5-30R 30A 120V outlet, two GFCI 5-20R outlets and USB ports, and it can start by key fob, push button, Bluetooth app, recoil or a two-wire automatic start signal.\n\nIt ranks second because it is the only unit here under $1,500 that advertises two-wire auto start for an automatic transfer setup, at $1,499.99. Compared with the Westinghouse iGen8200TFc you pay $100.99 more and get 480 fewer watts on natural gas (4,800 against 5,280), which matters if the gas line is your main fuel. Compared with the Champion 8500 it is $44.99 cheaper but does not state hoses in the box.\n\nChoose it if the generator will run unattended during an outage and you want it to start itself when a compatible system calls for it. The caveat is that 4,800 watts on natural gas is the lowest of the group, so add up the starting load of your biggest motor before counting on it for a whole-house setup.",
     "specs": [
       "6,000W gas, 4,800W natural gas",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41rkbpYrcyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GP9NLLXY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GP9NLLXY?tag=rvgearlab-amz-20",
     "description": "The Champion 8500-Watt is a tri-fuel inverter that ships with a 25 ft natural gas hose and a 6.6 ft propane hose, so it is ready for any fuel out of the box. It adds a wireless key fob that starts it from up to 80 feet away, a claimed 13 hour run time at 64 dB(A), and a connection for energy storage systems or automatic transfer switches that enables 120V AC battery charging. The feature text does not break out running watts by fuel.\n\nIt ranks third because the missing per-fuel numbers make it harder to size than the Westinghouse iGen8200TFc, even though it costs $145.99 more at $1,544.99. What the premium buys is the hose set and a 3-year limited warranty with lifetime technical support. Against the GENMAX GM9000iET it is $155 cheaper, but it sits a step lower in stated output class.\n\nChoose it if you want to connect to natural gas on day one without sourcing a hose and you value the long key fob range. The caveat is that you will need the manual to find its running watts per fuel before sizing a transfer-switch panel, because the listing leaves them out.",
     "specs": [
       "Hoses included for gas and propane",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/514jyncJBTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G48JLDR7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G48JLDR7?tag=rvgearlab-amz-20",
     "description": "The GENMAX GM9000iET lists 9,000 peak and 8,000 running watts on gasoline, 8,000 and 7,000 on propane, and 7,000 and 6,500 on natural gas from a 349 cc engine. Outlets are one 120/240V 14-50R, one L5-30R, two GFCI 5-20R and 12V DC ports, and it starts five ways including Bluetooth app and a two-wire automatic start. The listing gives its weight as 138 lb with four wheels.\n\nIt ranks fourth on price, not output: at $1,699.99 it is $200 more than the GENMAX GM8000iETC, but its 6,500 running watts on natural gas is 1,700 watts above that unit's 4,800. That makes it the strongest natural gas performer under $1,700 here. The Champion 11000 lists 7,290 watts on natural gas but costs $300 more.\n\nPick it if the gas line is your main fuel and you need to cover a larger motor load, such as a central air conditioner, on natural gas. The caveat is the 138 lb weight, which is manageable on wheels but not something one person lifts into a truck bed.",
     "specs": [
       "8,000W gas, 6,500W natural gas",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51wb3Eih06L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DP3MDDHN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DP3MDDHN?tag=rvgearlab-amz-20",
     "description": "The Champion 11,000-Watt gives 11,000 starting and 9,000 running watts on gasoline, 8,100 running on propane and 7,290 on natural gas. Its outlets are two 120V 20A GFCI duplexes, a 120/240V 30A locking outlet, a 120/240V 37.5A outlet and a 12V automotive outlet, and it has a wireless key fob with 80 ft range plus a CO Shield shutoff. Natural gas and propane hoses are included.\n\nIt ranks fifth because its 240V outlets top out at 37.5A rather than a listed 50A, which matters if your transfer panel or RV cord expects a 14-50. In return it is $99.01 cheaper than the DuroMax XP9500iHT at $1,999.99, and its natural gas rating of 7,290 watts is 790 watts above the GENMAX GM9000iET, for $300 more than that GENMAX.\n\nChoose it if you want the largest natural gas figure here and your inlet is a 30A or 37.5A style connection. The caveat is the missing 50A outlet in the listing text, so a 14-50 inlet would need a compatible adapter or a different pick.",
     "specs": [
       "9,000W gas, 7,290W natural gas",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ELA7wR3+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G62VGTCP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G62VGTCP?tag=rvgearlab-amz-20",
     "description": "The DuroMax XP9500iHT lists 9,500 peak and 7,600 running watts on gasoline from a 459 cc engine with a boron cast-iron sleeve and 100 percent clean copper windings. It has a 50 amp plug aimed at transfer switch or interlock use, a CO alert shutdown, automatic low oil shutdown, a volt and hour meter, remote and electric start, and parallel capability. Propane and natural gas output numbers are not given.\n\nIt ranks last because it is the most expensive at $2,099 and the listing leaves out the fuel-by-fuel numbers that the Westinghouse and GENMAX pages publish. At $399.01 above the GENMAX GM9000iET you get a larger 459 cc engine and a 50A outlet but a lower gasoline running figure (7,600 against 8,000 watts). The Champion 11000 is $99.01 cheaper with more stated output.\n\nPick it if you are already committed to the brand or want a 50A outlet and a digital panel on a larger engine. The caveat is price plus incomplete ratings: confirm the propane and natural gas running watts before you buy.",
     "specs": [
       "7,600W gasoline, 459 cc engine",

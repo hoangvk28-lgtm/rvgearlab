@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51f+ueTmKlL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09CXNLWJ9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09CXNLWJ9?tag=rvgearlab-amz-20",
     "description": "The Truck System Technologies 507 Series kit is sold with six internal sensors, a color display and a repeater. The system can monitor up to 115 tires, including spares, with a range of 1 to 218 psi.\n\nAgainst the RecPro Tuson below it, the TST costs far more but reads to a higher 218 psi and sets aside dedicated spare tire positions on the display. The RecPro's 203 PSI ceiling is also high, so the decision comes down to how much display flexibility you want.\n\nIt suits a motorhome or heavy trailer owner who wants internal sensors and room to grow. Because internal sensors sit inside the rim, installation and later battery work require a tire shop, so price that service in.",
     "specs": [
       "Six internal sensors, repeater",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/417ZcPdXMCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09112BKLT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09112BKLT?tag=rvgearlab-amz-20",
     "description": "The RecPro Tuson kit includes six internal sensors, one receiver and display, one RF repeater and six metal valve stems at 0.453 inch diameter. It reads pressure up to 203 PSI.\n\nCompared with the TST 507 Internal above, it gives up the 218 psi top end and the 115-tire ceiling but keeps the internal sensors and repeater for much less. Compared with the Keenso Internal below, it adds a repeater and metal valve stems, which matter on a long, heavy rig.\n\nThe metal stems are the real selling point, because internal sensors depend on a stem that can take the sensor load. It fits a six-wheel trailer or motorhome, and the 0.453 inch stem size must match your wheel's valve hole.",
     "specs": [
       "Six internal sensors, repeater",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41vhSB1Pe9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GRPHM517?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GRPHM517?tag=rvgearlab-amz-20",
     "description": "The Keenso kit is listed with six internal sensors and a solar-powered monitor with a 3.5 inch LCD. You can set separate pressure thresholds for front and rear tires, and a blue backlight shifts to red flashing lights and audible alerts when a limit is crossed.\n\nIt undercuts the RecPro Tuson dramatically on price, but the title names no repeater and the listing does not state a PSI range. The RecPro is the safer pick for a long trailer because it ships with a repeater and metal stems.\n\nThe low-power mode drops in after five minutes of inactivity and wakes within one second of vibration. Buy it for a short, light trailer if cost is the priority, and confirm the stem and PSI limits before ordering.",
     "specs": [
       "Six internal sensors, solar monitor",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51O2tO3JGLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09STJXT9R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09STJXT9R?tag=rvgearlab-amz-20",
     "description": "The GUTA GT30 is listed with ten sensors and a large screen that shows up to 10 tires on one page. The title does not say whether the sensors are internal or external, so treat it as a non-internal option unless the product page says otherwise.\n\nIt sits well below the two premium internal kits on price and above the Tymate TM2. Against the TM2, it adds six more sensors and a built-in lithium battery in the monitor that lasts 12 to 14 days after a four hour charge.\n\nChoose it if you want one screen for a large rig and are happy to skip tire dismounting. Verify the sensor style before buying if internal mounting is a hard requirement.",
     "specs": [
       "Ten sensors, ten tires per page",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/416JYC5EnqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CW9GXBCB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CW9GXBCB?tag=rvgearlab-amz-20",
     "description": "The Tymate TM2 set of four uses external sensors with low power draw and a color LCD with automatic backlight. It reads 0 to 87 PSI and charges by solar or USB.\n\nIt is the easiest install in this list, since the sensors screw on and no tire needs to come off the rim. The tradeoff against the internal kits above is a lower 87 PSI ceiling and four sensors instead of six.\n\nPick it for a light single-axle trailer where a tire shop visit is not worth it. Do not choose it for tires running above about 80 PSI cold.",
     "specs": [
       "Four external sensors",

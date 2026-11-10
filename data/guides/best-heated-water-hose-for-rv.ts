@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41478YaOFgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GBV1JKJM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GBV1JKJM?tag=rvgearlab-amz-20",
     "description": "The Ficstar is a 50-foot heated hose advertised for freeze protection down to -45°F, with a self-regulating thermostat that adjusts heating output to conditions. That makes it the most complete answer here for a long run between spigot and RV.\n\nAgainst the RVSNAIL 35ft below it, the Ficstar gives you 15 more feet of reach, while the RVSNAIL uses an external thermostat and costs noticeably less. Against the SZFY 50ft, the Ficstar leads with its thermostat description and a reinforced outer layer.\n\nBest for winter campers who park far from the water source and want automatic regulation. The listing does not name a drinking-water certification, so check for an NSF or similar mark before you rely on it for drinking.",
     "specs": [
       "50 ft, -45°F rated",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51WDRhJK8lL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GCZQN24X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GCZQN24X?tag=rvgearlab-amz-20",
     "description": "The RVSNAIL is a 35-foot heated drinking-water hose rated to -45°F with an external self-regulating thermostat. It uses a 3/4 inch GHT thread with double washers, which suits standard RV inlets.\n\nCompared with the Ficstar 50ft, you give up 15 feet of length but pay far less. Compared with the Mayrhofen GFCI, you get a thermostat rather than an integrated ground-fault plug.\n\nBest for campers whose spigot sits within about 30 feet of the inlet. Measure first, because a 35-foot hose that has to stretch tight will kink at the fitting.",
     "specs": [
       "35 ft, -45°F rated",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/512RzQkRw8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FS1JKNP8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FS1JKNP8?tag=rvgearlab-amz-20",
     "description": "The Mayrhofen is a 30-foot heated hose with an integrated GFCI plug and a constant-heat cable, rated to -40°F. The built-in ground-fault protection is the headline, since a heated cable runs in wet, outdoor conditions.\n\nVersus the Ficstar 50ft, you trade length and a self-regulating thermostat for a ground-fault plug at the cord. Versus the Cupohus 30ft, the same length buys you that plug and a lead-free, BPA-free build.\n\nBest for campers who want ground-fault protection without adding an adapter. A constant-heat cable draws power whenever plugged in, so confirm the wattage on the label before you budget your shore power.",
     "specs": [
       "30 ft, -40°F rated",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Y18YJ3R1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F283D7MQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F283D7MQ?tag=rvgearlab-amz-20",
     "description": "The SZFY is a 50-foot hose with a five-layer shell and an internal heating coil. Its title says -45°F while the feature text cites -40°F, so confirm which figure applies before buying for a very cold site.\n\nCompared with the Ficstar 50ft, it matches the length but offers less clear thermostat detail on the listing. Both ends are female threads and a double-ended male adapter is included, which is an unusual layout worth checking against your spigot.\n\nBest for buyers who want 50 feet and a food-grade claim and are comfortable verifying the mismatch in cold rating. Skip it if you want a self-regulating thermostat spelled out clearly.",
     "specs": [
       "50 ft, five-layer shell",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51+BzRKQqaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D78WGPZL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D78WGPZL?tag=rvgearlab-amz-20",
     "description": "The Bipeoo is sold in 15, 30, 50, 75 and 100 foot lengths and advertises -45°F protection with intelligent temperature adjustment. The wide length range is its real advantage, because you can buy the exact reach you need.\n\nCompared with the Cupohus 30ft, it offers many more lengths. Compared with the Ficstar 50ft, the listing is less specific about the thermostat type, so read the product page for the exact model you choose.\n\nBest for campers with an unusual distance, such as a very short pedestal run or a long ranch hookup. Verify that the length you select carries the same freeze rating.",
     "specs": [
       "15 to 100 ft options",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51KvU-Dv1DL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BRSP8DR5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BRSP8DR5?tag=rvgearlab-amz-20",
     "description": "The Cupohus is a 30-foot heated hose rated to -45°F with a 3/4 inch GHT fitting and a PVC-coated polyester braided outer layer. It keeps the idea simple: a plain heated hose for a short, direct run.\n\nCompared with the Mayrhofen GFCI at the same length, it lacks the integrated ground-fault plug. Compared with the RVSNAIL 35ft, it is 5 feet shorter and does not describe an external thermostat.\n\nBest for short runs and tight budgets where you will add your own GFCI protection. It is a fair pick if the listing details are enough for you.",
     "specs": [
       "30 ft, -45°F rated",

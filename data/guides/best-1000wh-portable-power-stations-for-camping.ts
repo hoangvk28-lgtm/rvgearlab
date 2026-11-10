@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41bHa8I86iL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GD12Z4S3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GD12Z4S3?tag=rvgearlab-amz-20",
     "description": "The GRECELL packs 999Wh and 1000W continuous pure sine AC output (2000W peak) into a 17 pound body. It has 10 ports, including two 120V sockets and a 60W USB-C PD port, and its automotive-grade battery is listed at 2000 or more cycles with a 10-year lifespan.\n\nIt is 10 pounds lighter than the STARYLINE 1000W, which makes it the carry-anywhere choice. Triple recharge via wall outlet, solar with MPPT or a 12V car port keeps it flexible.\n\nIt suits campers who move their power station between car, tent and cabin. The 60W USB-C port charges a MacBook Pro or flagship phone.",
     "specs": [
       "999Wh, 1000W pure sine",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41D55awBh3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GVJKMV8J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GVJKMV8J?tag=rvgearlab-amz-20",
     "description": "The STARYLINE 1000W stores 1,024Wh in automotive-grade LiFePO4 cells and outputs 1000W through a pair of 110V sockets. Phones and laptops plug into its USB-C PD and USB-A ports, and a 6-layer BMS and 3000-plus cycles are listed.\n\nIt names LiFePO4 chemistry, which GRECELL's listing does not, and it states Starlink compatibility with low interference. It costs less than the GRECELL 999Wh and comes in three colors.\n\nIt suits campers who want a long-life pack for outage backup and weekends, powering routers, lights and mini fridges. The listing says that load can last two to three days.",
     "specs": [
       "1,024Wh LiFePO4, 1000W",

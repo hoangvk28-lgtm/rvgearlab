@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31F2Ik1MEJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GMRWZ596?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GMRWZ596?tag=rvgearlab-amz-20",
     "description": "The Sierra Designs Cloud Zipperless is a 20 degree mummy with 800 fill power DriDown, 14.8 oz of fill and 15D nylon ripstop. The listing prints ISO comfort at 26F and ISO limit at 15F, with a trail weight of 1 lb 12 oz.\n\nNext to the Cloud Zip it saves three to five ounces and prints the warmest ISO comfort number of the two Sierra lines. An integrated comforter and a rear pad sleeve keep the bag aligned with the pad for side and active sleepers.\n\nIt suits ultralight backpackers who toss and turn and want a bed-like feel. The comforter design gives shoulders room to move.",
     "specs": [
       "800 fill DriDown, 14.8 oz",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/314dPI4xueL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GMS43B6X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GMS43B6X?tag=rvgearlab-amz-20",
     "description": "The Cloud Zip is a classic zippered mummy with 800 fill power DriDown and 15D nylon ripstop. Trail weight is 1 lb 15.1 oz with 14.74 oz of fill in one size and 2 lb 1.1 oz with 16.33 oz in the other, and ISO figures read 28F comfort and 17F limit.\n\nIt adds an anti-snag zipper, a draft dodger collar and a self-sealing foot vent that the Cloud Zipperless does not list. The larger size carries extra fill for more room and a few more ounces.\n\nIt suits backpackers who prefer a traditional full zip with a venting foot. The collar seals warmth around the shoulders on colder nights.",
     "specs": [
       "800 fill DriDown",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/418s5SUlagL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F6BKJSFL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F6BKJSFL?tag=rvgearlab-amz-20",
     "description": "The BUERTS lists 680FP RDS certified down, 1.76 lb of fill and a total weight of 3.13 lb. Comfort is printed as 32 to 17F with an extreme of 10F, and the 84.6 by 32.3 inch envelope packs to 7 by 13.8 inches.\n\nIt is a step down from 800 fill, so it weighs more than a pound above the Sierra bags, and it also costs about half as much. An inner pocket and the option to zip to a second bag add practical details.\n\nIt suits budget backpackers who want RDS certified down and a clear temperature range. A 400T 20D shell is windproof and water repellent.",
     "specs": [
       "680FP RDS certified down",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31bPw0GKabL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GJ35S8KJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GJ35S8KJ?tag=rvgearlab-amz-20",
     "description": "The Naturehike Snowbird is a mummy filled with RDS and IDS certified 650 fill power down, offered in SP400, SP700 and SP1000 models. The listing prints comfort temperatures of 38.84F, 18.86F and 12.55F for the three, and a note gives ISO comfort of 39F and a limit of 30F for the lightest.\n\nIt costs the least here and offers the widest choice of warmth levels, with 650 fill at the low end of this guide. A three-dimensional wind barrier, YKK two-way zipper and C-shaped pad wrap hold in heat.\n\nIt suits buyers who want to choose a warmth level and save money. The SP1000 reaches the coldest listed comfort.",
     "specs": [
       "650 fill RDS and IDS down",

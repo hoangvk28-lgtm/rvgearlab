@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31kzOmUk-XL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GRWPX25W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GRWPX25W?tag=rvgearlab-amz-20",
     "description": "The Coleman Classic 52 quart is fully insulated in lid and body, and the listing says it keeps ice up to 3 days in temperatures as high as 90F. It holds up to 80 cans and the Have-A-Seat lid supports up to 250 pounds.\n\nIt names a heat condition for its claim, which the GETUHAND does not. It also beats the Chiller 16 on both size and stated duration.\n\nChoose it for weekend trips with a full load. It is a plain, dependable chest.",
     "specs": [
       "Ice up to 3 days at 90F",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41bUhaSl53L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GZ5CPH7S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GZ5CPH7S?tag=rvgearlab-amz-20",
     "description": "VEVOR's 52 quart rolling cooler states ice retention of up to 48 hours at 32F or below, and up to 8 hours at 68F or above. It holds up to 86 cans, with a lid gasket, secure latches and a drain plug.\n\nIt is the only listing here that spells out how fast ice melts in warm weather, which helps you plan. Wheels make it easier to haul than the Coleman Classic.\n\nChoose it if you want wheels and a gasketed lid at a fair price. It suits cool-weather camping.",
     "specs": [
       "48 hours at 32F or below",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411o-DBel8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CPMBTTNF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CPMBTTNF?tag=rvgearlab-amz-20",
     "description": "The Igloo Trailmate 52 quart roller has soft-ride 6.25 inch wheels and a marine-grade telescoping handle. It is made in the USA with USA and imported parts.\n\nIt leans on the Trailmate line's reputation for thick insulation, and the wheels and handle make it easy to pull. It costs more than the Coleman Classic.\n\nChoose it for a trip with a long walk from the car. It rolls over rough ground.",
     "specs": [
       "52 quart roller cooler",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31i1br2kMeL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CXDTQ4PY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CXDTQ4PY?tag=rvgearlab-amz-20",
     "description": "GETUHAND is a 22 quart camp cooler with TempLock insulation, a listed 48 hours of ice retention and a built-in Bluetooth speaker. The handle carries one-handed.\n\nIt is the only pick with a speaker, which suits beaches and parks. It is lighter than the 52 quart coolers.\n\nChoose it for day trips and short camping stays where music matters. It also keeps hot drinks hot.",
     "specs": [
       "22 quart with Bluetooth speaker",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31-nYwE5EVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GFPDT9V2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GFPDT9V2?tag=rvgearlab-amz-20",
     "description": "The Coleman Chiller 16 quart uses TempLock foam rated to stay cold for up to 36 hours. It holds 11 cans with 8 pounds of ice or up to 25 cans without ice, and the lid supports up to 200 pounds.\n\nIt is the smallest and cheapest chest here, and its 36 hours is the shortest claim. It doubles as a camp seat.\n\nChoose it for a night or two and a small group. It fits a trunk corner.",
     "specs": [
       "TempLock, up to 36 hours",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31KlzyF31cL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CPMBQ9WF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CPMBQ9WF?tag=rvgearlab-amz-20",
     "description": "The Igloo Tag Along Too is an 11 quart cooler with an extra-long adjustable woven shoulder strap, lid locks on each side and an interior gasket. MaxCold insulation sits in the body and lid.\n\nThe shoulder strap and gasket make it a carry-anywhere cooler, unlike the larger chests. It is the smallest pick here.\n\nChoose it for solo lunches, fishing trips and hikes. The strap keeps your hands free.",
     "specs": [
       "11 quart with shoulder strap",

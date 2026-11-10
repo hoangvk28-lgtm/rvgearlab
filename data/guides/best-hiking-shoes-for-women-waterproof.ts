@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/316+R-Nte1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GDCNB4R9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GDCNB4R9?tag=rvgearlab-amz-20",
     "description": "The NORTIV 8 Rebound is a women's waterproof hiking shoe with 4-in-1 rebound technology, including a supercritical foam insole. It weighs 11.4 oz per shoe (size 6), uses a leather, Oxford fabric and mesh upper, and has a lugged rubber outsole with function zones.\n\nCompared with the OUTJET Quick Laces, it adds a more cushioned rebound system and a reinforced toe cap and heel counter. Against the CC-Los Suede, it has a gusseted tongue that keeps sand and debris out.\n\nIt suits women who want a cushioned, light, fully featured waterproof shoe for trails and town. The sleek profile works off the trail too.",
     "specs": [
       "4-in-1 rebound tech, foam insole",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41r-zy+W5aL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DD2LM2H1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DD2LM2H1?tag=rvgearlab-amz-20",
     "description": "The OUTJET Waterproof is a women's leather and mesh hiking shoe with a waterproof sock inside, weighing 10.7 oz per shoe. A thickened EVA midsole cushions steps and an advanced rubber sole gives grip.\n\nCompared with the OUTJET Quick Laces, it uses regular laces and a slightly heavier build. Against the CC-Los Suede, it is lighter and lists a waterproof sock liner.\n\nIt suits women who want an affordable, light waterproof shoe for hiking, camping and travel. The listing covers walking, backpacking and trail running.",
     "specs": [
       "10.7 oz per shoe, waterproof sock",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/415XHCSi4+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GV3XMV5P?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GV3XMV5P?tag=rvgearlab-amz-20",
     "description": "The OUTJET Quick Laces is a women's waterproof hiking shoe at 10.1 oz per shoe with a buckle and adjustable bungee laces. A waterproof membrane blocks moisture, and a thickened EVA midsole gives cushioning.\n\nIt is the lightest waterproof pick and the quickest to tighten. Next to the OUTJET Waterproof, it swaps laces for a toggle and adds a microfiber toe cap.\n\nIt suits women who want to adjust fit on the go. The sleek profile has no boot bulk.",
     "specs": [
       "10.1 oz, buckle and bungee laces",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41wnZRPn5uL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CHVWFX8J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CHVWFX8J?tag=rvgearlab-amz-20",
     "description": "The CC-Los Suede is a women's waterproof hiking shoe with an eco-friendly suede leather and mesh upper. It has a memory foam sockliner, a lightweight non-slip rubber outsole and a reinforced toe.\n\nCompared with the OUTJET Waterproof, it adds a memory foam sockliner. Next to the NORTIV 8 Rebound, it is simpler and has less detail on membrane and tongue.\n\nIt suits budget buyers who want a waterproof design with a soft sockliner. The reinforced toe adds stability.",
     "specs": [
       "Suede and mesh, waterproof design",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41FKjrmHAWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BPCRPHRL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BPCRPHRL?tag=rvgearlab-amz-20",
     "description": "The NORTIV 8 Quick Lace is a 9.7 oz women's hiking shoe with a durable Oxford fabric upper, reinforced TPU overlays and a cord lacing system. It has a breathable EVA insole, a padded collar and a lugged rubber outsole.\n\nIt is the lightest shoe on the list and the most casual, with a sporty look. Compared with the NORTIV 8 Rebound, it trades waterproofing for lightness.\n\nIt suits women who want a light shoe for dry trails and town. The cord lacing makes on and off quick.",
     "specs": [
       "9.7 oz, Oxford fabric upper",

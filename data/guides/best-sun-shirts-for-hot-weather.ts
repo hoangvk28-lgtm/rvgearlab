@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31iWlbQTTJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09QXBXQ73?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09QXBXQ73?tag=rvgearlab-amz-20",
     "description": "The MAGCOMSEN Athletic Hoodie is a classic-fit long-sleeve hoodie in lightweight polyester with UPF 50 sun protection. Quick-dry, breathable fabric pulls moisture away from the skin so sweat can evaporate quickly, and the listing names hiking, fishing, boating, climbing, running and surfing.\n\nCompared with the Roadbox Rash Guard, it adds a hood and a more athletic cut. Against the TELALEO 3-Pack Hoodie, it is a single shirt with a classic fit.\n\nIt suits men who want one dependable hot-weather shirt for running, hiking and the water. It keeps weight low and fabric breathable.",
     "specs": [
       "UPF 50 lightweight polyester",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ThfdJMJWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BX5SM7LY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BX5SM7LY?tag=rvgearlab-amz-20",
     "description": "The TELALEO 3-Pack Hoodie gives three UPF 50+ long-sleeve hoodies in a breathable, lightweight and soft fabric that the listing says performs better on hot days. A hood protects the neck, and thumb holes keep sleeves in place and extend coverage to the hands.\n\nCompared with the MAGCOMSEN Athletic Hoodie, it provides three shirts for one purchase. Against the Boladeci Cooling Hoodie, it comes with thumb holes and a not-too-tight fit.\n\nIt suits men who want a clean shirt every day on a hot trip. The listing names fishing, boating, jogging and hiking.",
     "specs": [
       "Three UPF 50+ hoodies",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41C9b2HVB2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07PJKVMNB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07PJKVMNB?tag=rvgearlab-amz-20",
     "description": "The Roadbox Rash Guard is a classic long-sleeve UPF 50+ shirt that blocks up to 98 percent of UV. Lightweight performance fabric wicks moisture and dries quickly, and flatlock seams and a tag-free collar reduce friction.\n\nCompared with the MAGCOMSEN Athletic Hoodie, it is a plain crew neck without a hood. Against the Runhit Crew Shirt, it adds a rash guard cut and a lower price.\n\nIt suits men who want a no-frills shirt for fishing, hiking, camping and travel. The listing names boating and casual wear too.",
     "specs": [
       "UPF 50+, up to 98% UV blocked",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31c+FxzfRLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B087JPBR84?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B087JPBR84?tag=rvgearlab-amz-20",
     "description": "The Boladeci Cooling Hoodie has UPF 50+ protection that blocks 98 percent of UV, a hood, 4-way stretch, thumb holes and raglan sleeves. The listing calls it lightweight, quick-dry, breathable and soft, and describes a cooling feel.\n\nCompared with the TELALEO 3-Pack Hoodie, it has 4-way stretch and a no-logo design. Against the Runhit Crew Shirt, it offers a hood and thumb holes.\n\nIt suits men who want an active hooded shirt for running, climbing and hiking in the heat. It is also named for year-round layering.",
     "specs": [
       "UPF 50+, hood, thumb holes",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41A9gj8AmIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F2NB6HRV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F2NB6HRV?tag=rvgearlab-amz-20",
     "description": "The Runhit Crew Shirt is a UPF 50+ polyester long-sleeve shirt that blocks 98 percent of UVA and UVB. The listing says breathable, moisture-wicking and fast-drying fabric keeps you cool and dry even in hot weather, with flatlock seams, a tagless design and reflective elements.\n\nCompared with the Roadbox Rash Guard, it costs less and adds reflective details. Against the Boladeci Cooling Hoodie, it is a plain crew neck.\n\nIt suits men who want the lowest price and an explicit hot-weather claim. The listing names fishing, beach, hiking, swimming and running.",
     "specs": [
       "UPF 50+ polyester",

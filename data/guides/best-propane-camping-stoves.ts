@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41np9Eiu-SL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09KNVRDNQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09KNVRDNQ?tag=rvgearlab-amz-20",
     "description": "Two 20,000 BTU burners give the Camp Chef Everest 2X a 40,000 BTU total. It has a folding lid that works as a windscreen, matchless instant start ignition, a 215 square inch cooking surface, a drip tray and a carry handle.\n\nIt lists the highest output of the group and a much bigger total than the Cascade 3-in-1, while its cooking surface fits two pans plus accessories. Instant start saves hunting for a lighter.\n\nIt suits family campers and anyone who cooks full meals outdoors. The windscreen lid earns its keep on breezy sites.",
     "specs": [
       "40,000 BTU, 2 x 20,000",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31NGvDTYTML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0784VYVL1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0784VYVL1?tag=rvgearlab-amz-20",
     "description": "The Coleman Cascade 3-in-1 pairs two adjustable burners rated at 24,000 total BTU with removable cast iron grill and griddle accessories. Rotary ignition, two wind guards and a removable cast iron pan support are listed.\n\nWhere the Triton cooks on the grate alone, the Cascade swaps in a grill or griddle, so one stove replaces three. A place to stow the regulator and a nylon accessory case come with it.\n\nIt suits campers who want burgers, pancakes and stews from one stove. The latch keeps it closed in transit.",
     "specs": [
       "24,000 BTU, rotary ignition",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31BW7+A0xXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09HN1C1YJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09HN1C1YJ?tag=rvgearlab-amz-20",
     "description": "A 22,000 total BTU rating and knobs reworked for precise simmering define the Coleman Triton. The listing adds two wind guards, a latch and a chrome-plated grate that lifts out.\n\nIt is the least expensive of the two-burners and sits close to the Cascade in output without the plates. Compared with the Everest 2X it lists about half the BTU.\n\nIt suits families and weekend campers who want an honest, affordable propane stove. Ignition is not listed, so a lighter finishes the kit.",
     "specs": [
       "22,000 BTU, two burners",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Lp-nhy+YL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09RN22HDQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09RN22HDQ?tag=rvgearlab-amz-20",
     "description": "The GasOne GS-3900PB is a single-burner stove rated at 15,000 BTU that works with 8 oz camping fuel or propane. A Windblocker sits on all four corners of the burner head, and piezo ignition, cartridge ejection and a gas flow cut-off are listed.\n\nIt lists far more output than the GS-3400P, and the Windblocker keeps the flame lit in wind. A carrying case is included.\n\nIt suits campers who want strong output from one burner. It is a good fit for large pots.",
     "specs": [
       "15,000 BTU, dual fuel",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41JavTsgoZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01HQRD8EO?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01HQRD8EO?tag=rvgearlab-amz-20",
     "description": "Either an 8 oz butane cartridge or a propane cylinder feeds the GasOne GS-3400P. Its listing names a piezo igniter, a heat dial and a pressure-sensor cartridge ejection feature.\n\nIt is the smallest and least expensive stove here, with a carrying case. It lists no BTU, unlike the GS-3900PB above.\n\nIt suits campers who want a basic backup or breakfast stove. Fuel is not included.",
     "specs": [
       "Butane or propane",

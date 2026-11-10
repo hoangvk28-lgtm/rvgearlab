@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/412RSYdwmSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08BRZKL5T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08BRZKL5T?tag=rvgearlab-amz-20",
     "description": "The SUPER DEAL set pairs a 78.7 by 61 inch hammock with a 9 foot stand rated for 620 pounds. The hammock has 44 handcrafted polyester ropes, 22 per side, and the stand has 6 hook positions and knob-screw assembly.\n\nCompared with the Amazon Basics, it lists a higher capacity and polyester ropes that are weather resistant. Against the generic set, it states both hammock and stand sizes.\n\nIt suits couples and families who want the highest listed capacity. No tools are needed to assemble the stand.",
     "specs": [
       "78.7 x 61 inch hammock",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41+U2wGbYWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B091LJP1FX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B091LJP1FX?tag=rvgearlab-amz-20",
     "description": "The Amazon Basics double hammock is made from cotton and polyester with a green stripe design and a 9 foot space-saving steel stand. It holds 450 pounds, has adjustable hooks that move to a lower hole for more rope tension and includes a carrying case.\n\nCompared with the SUPER DEAL, it has a lower capacity and a soft cotton blend. Against the PNAEUT, it is simpler with a plainer pattern and adjustable hook holes.\n\nIt suits backyard and deck owners who want a familiar brand and a standard 450 pound capacity. The case keeps parts together.",
     "specs": [
       "Cotton and polyester double hammock",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41G4pAEhcTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08KRGRGXW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08KRGRGXW?tag=rvgearlab-amz-20",
     "description": "The PNAEUT set has a thicker, tighter-woven cotton hammock in contrasting stripes and a black steel stand. The listing says the stand has a hook with a metal buckle and holds 450 pounds for up to two people.\n\nCompared with the SZHLUX, it describes the weave and the metal-buckle hook more clearly. Against the Amazon Basics, it has a Brazilian-style woven look with side fabric that wraps.\n\nIt suits buyers who want a soft, wrapped feel. The listing says it installs in 10 minutes with no tools.",
     "specs": [
       "Thick tight-woven cotton hammock",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41WeYWhHewL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C98MQ555?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C98MQ555?tag=rvgearlab-amz-20",
     "description": "The SZHLUX set includes a woven cotton double hammock in Brazilian-style stripes and a 450 pound steel stand. A premium carry bag comes with it, and the listing says no tools are needed.\n\nCompared with the PNAEUT, it comes at a lower price with a carry bag. Against the SUPER DEAL, it lists a lower capacity and a similar cotton feel.\n\nIt suits buyers who want to carry the set to a campsite or park. After the frame goes together, the hammock hangs on hooks.",
     "specs": [
       "Woven cotton double hammock",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41cNOCV-0gL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HBMNGTYH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HBMNGTYH?tag=rvgearlab-amz-20",
     "description": "The generic hammock set features an oversized 126 by 60 inch hammock and a 1.8mm reinforced steel frame the listing says is rated for 600 pounds. The set weighs 26 pounds and breaks down into a compact bundle.\n\nCompared with the SUPER DEAL, it lists a thicker steel gauge and a larger hammock. Against the Amazon Basics, it lists a higher capacity and a heavier-duty frame.\n\nIt suits buyers who want a big hammock and a sturdy frame at a low price. Assembly is tool-free.",
     "specs": [
       "126 x 60 inch hammock",

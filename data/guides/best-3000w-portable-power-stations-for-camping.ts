@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31nIt8F0o1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FFSLG3WZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FFSLG3WZ?tag=rvgearlab-amz-20",
     "description": "The Jackery HomePower 3000 stores 3,072Wh and delivers 3,600W AC with a 7,200W surge, backed by a UL-certified UPS switching within 20ms. It recharges in 1.7 hours with hybrid AC and DC or 2.2 hours through AC, and has dual 100W PD ports.\n\nIt is the only unit here with output above 3,000W and the biggest battery, ahead of the 2,083Wh UDPOWER. Two SolarSaga 200W panels pair with it for solar charging.\n\nIt suits RV owners and campsites that need to run a fridge, fans and an appliance at once, with home backup on the side. ChargeShield 2.0 manages charging.",
     "specs": [
       "3,072Wh, 3,600W / 7,200W surge",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41FKpIkddIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GY6XTZPG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GY6XTZPG?tag=rvgearlab-amz-20",
     "description": "The UDPOWER S2400 stores 2,083Wh in LiFePO4 cells with 2,400W rated output and 3,000W surge across six AC outlets. It lists 4,000 or more cycles, a switch time under 0.01 seconds and a 41 pound body measuring 15.8 by 9.5 by 10.1 inches.\n\nIt lists six AC outlets, the most counted on any pick here. The 3,000W figure is a surge, so it is a nearest fit.\n\nIt suits campers who want a lot of outlets and a battery near 2kWh at a mid price. The listing offers a solar panel option, so check the bundle selected.",
     "specs": [
       "2,083Wh LiFePO4, 2,400W",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31xyTUiOmSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FBRD1B8C?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FBRD1B8C?tag=rvgearlab-amz-20",
     "description": "The DJI Power 2000 has a 2,048Wh LFP battery with smart BMS, sub-nano coating and a flame-retardant housing. The listing says it runs 99% of appliances including kettles and cookers, recharges to 80% in 55 minutes and runs as low as 30dB.\n\nIt supports expansion up to 22.5kWh with extra batteries, far more than the others here. The listing leaves the AC rating off its main feature list.\n\nIt suits van and RV owners who want quiet nights and a path to a larger system. The expansion requires additional batteries.",
     "specs": [
       "2,048Wh LFP, 80% in 55 minutes",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/417oSc1jsvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07P9DP5WL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07P9DP5WL?tag=rvgearlab-amz-20",
     "description": "The EGO POWER+ is a battery-powered station with 2000W continuous and 3000W peak, three 120V AC outlets and four USB ports. The PST3042 kit includes two 56V 7.5Ah batteries and a charger, and a PST3040 version ships without them.\n\nIt is the only modular option, running on EGO 56V batteries you may already own for tools. A bright LED display shows remaining run time and steel handles help carry.\n\nIt suits owners of EGO tools who want a modular generator replacement. The rating is 2000W continuous, so it is a nearest fit.",
     "specs": [
       "2,000W continuous, 3,000W peak",

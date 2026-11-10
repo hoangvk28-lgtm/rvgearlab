@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21M6L3qSD6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GTRL4WRS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GTRL4WRS?tag=rvgearlab-amz-20",
     "description": "The TravlFi JourneyGo 5G is a pocket 5G hotspot with 4G LTE fallback, up to 24 hours of battery, TowerSync multi-network switching and a touchscreen. Another reason it earns a slot: long battery life.\n\nIt is the fastest pick and brings its own data. It costs more than the 4G models.\n\nBest for travelers who want a pocket 5G hotspot. On the plus side, touchscreen controls.",
     "specs": [
       "5G with 4G fallback",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21gP2WAnn8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09LR9TLY3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09LR9TLY3?tag=rvgearlab-amz-20",
     "description": "The TravlFi Journey1 is a 4G LTE RV hotspot with nationwide coverage across multiple networks, no-contract eSIM and a pocket-size body. A smart network-switching feature finds the strongest signal.\n\nIt is the 4G step below the JourneyGo 5G at a lower price. Prepaid plans start at 2GB.\n\nA fit for light data users. It also stands out because pocket size.",
     "specs": [
       "4G LTE hotspot",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31VarnSmpmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GV3VCLJW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GV3VCLJW?tag=rvgearlab-amz-20",
     "description": "The FREEBOT SE Pro is a Wi-Fi 6 portable hotspot with 10GB of US data valid for 30 days, coverage across 120 countries and up to 8 devices. Among its strengths, wi-Fi 6.\n\nIt is the one with included data and global coverage. It sits at a low price.\n\nBest for trial or international trips. Buyers also get this: low price.",
     "specs": [
       "Wi-Fi 6 portable hotspot",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41IKK57IlVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FR8YBMXM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FR8YBMXM?tag=rvgearlab-amz-20",
     "description": "The TravlFi External Wi-Fi and LTE Antenna mounts outdoors with weather-resistant materials and extends range of TravlFi or other 4G LTE routers. It also stands out because extends router range.\n\nIt is an accessory, not a hotspot. It works with compatible routers.\n\nA fit for owners who have a TravlFi router and want more reach. Among its strengths, matched to TravlFi routers.",
     "specs": [
       "External Wi-Fi and LTE antenna",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31k0sjHid6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HJ5DFXNQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HJ5DFXNQ?tag=rvgearlab-amz-20",
     "description": "The Lektem Wi-Fi extender is a repeater with repeater and AP modes, an Ethernet port and up to 300 Mbps on 2.4 GHz. It claims coverage up to 9995 square feet.\n\nIt is the cheapest and only repeats an existing Wi-Fi network. The coverage figure is a best case.\n\nBest for extending a campground network inside the rig. On the plus side, easy setup.",
     "specs": [
       "300 Mbps 2.4 GHz repeater",

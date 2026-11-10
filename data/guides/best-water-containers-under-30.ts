@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31MalgujfAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08JHJB4KB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08JHJB4KB?tag=rvgearlab-amz-20",
     "description": "Cedilis ships two 5.3 gallon jugs of about 20 liters each, made from US-sourced LDPE4 plastic. The spigot is heavy-duty PP with a clear On and Off switch, with a soft-grip handle shaped into the body.\n\nAt about $22 this is the priciest two-pack here and the one with the better spigot and handle. The Alaeseje costs $3 less and has a hanging hook.\n\nFamilies and groups who plan to carry full containers more than a few steps will like the molded grip. The heavy-duty spigot suits repeated use.",
     "specs": [
       "Two 5.3 gallon jugs",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41mEf2lfyPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GD93XN7Z?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GD93XN7Z?tag=rvgearlab-amz-20",
     "description": "UXPEYIC is a 2.6 gallon vertical container made of BPA-free, food-grade PC plastic with a leak-proof spigot and an extended hose. It has a comfortable handle and a stable base.\n\nAt about $28 it is the priciest of the five and the lone rigid container, so it stands up and pours cleanly without collapsing. The collapsible two-packs hold twice as much.\n\nCampers who want a container that sits on a table and pours into a pot will like it. It suits cabins, car camping and RVs.",
     "specs": [
       "2.6 gallon, rigid food-grade PC",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41mhYTk5cpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GWYZ29ZM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GWYZ29ZM?tag=rvgearlab-amz-20",
     "description": "MIAJO is a collapsible water jug of 2 gallons with an upgraded leak-resistant spigot. It folds flat after use and stores in camping gear, backpacks, RVs and travel kits.\n\nAt about $18 it costs less than any of the two-packs and holds less than half of what one pack gives. The UXPEYIC costs $10 more and stands upright.\n\nSolo campers and light-duty users who need a small collapsible jug will like it. It also works as a spare.",
     "specs": [
       "2 gallon collapsible jug",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/415duQT3hRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GYHFLDXT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GYHFLDXT?tag=rvgearlab-amz-20",
     "description": "This pair of 5.3 gallon BPA-free jugs includes a tap, a hang loop and strong handles. Filling at a spigot and wiping out the inside are both easy through the broad opening.\n\nAt about $19 it costs $3 less than the Cedilis and has a hanging hook the Cedilis lacks. It has the same capacity as the Cedilis.\n\nCampers who want to hang a container from a tree or tailgate will like it. It also suits groups.",
     "specs": [
       "Two 5.3 gallon containers",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41kRsSjePVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FQNH6F8L?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FQNH6F8L?tag=rvgearlab-amz-20",
     "description": "Two LDPE4 jugs come in this ACVOINRR pack, free of BPA, PVC and DEHP, with a PP tap marked On and Off. They fold down to 3 cm, and the 10 L (2.6 gallon) or 20 L size is chosen when you order.\n\nAt about $17 it is the cheapest two-pack and gives the choice of a smaller size. It has no hook.\n\nBackpackers and campers who need two smaller jugs will like the 10 L size. Choose the size when you order.",
     "specs": [
       "LDPE4, free of BPA, PVC, DEHP",

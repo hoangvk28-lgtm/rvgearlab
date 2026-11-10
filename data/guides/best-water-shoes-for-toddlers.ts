@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Tq0Ys5d2S._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0974GYJY7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0974GYJY7?tag=rvgearlab-amz-20",
     "description": "The JOINFREE Toddler Water Shoe is a soft, stretchy slip-on sneaker with a hook-and-loop closure, an elastic neck and a padded, removable sock liner. A non-slip EVA sole adds shock absorption and protects small feet from sharp objects.\n\nA washable, removable liner is a detail no other pick here lists, which makes cleaning easier than with the Racqua Toddler Slip-On and FEETCITY Buckle. The EVA sole is more cushioned than the thin rubber on the RJVW Swim Socks.\n\nIt is a smart choice for toddlers who wear the shoes for walking as well as splashing, and for parents who wash them often. The elastic neck reduces rubbing.",
     "specs": [
       "Padded removable sock liner",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51cBzOb372S._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09371X143?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09371X143?tag=rvgearlab-amz-20",
     "description": "The FEETCITY Toddler Water Shoe is a light mesh shoe with a buckle strap in place of laces, so a child can fasten it alone. The soft sole is described as flexible with good anti-slip properties.\n\nA buckle strap gives a more secure hold than the pull-on Racqua Toddler Slip-On and RJVW Swim Socks. It is also easier for tiny hands than the hook-and-loop on the JOINFREE Slip-On.\n\nIt works for a toddler who is learning to dress alone and for parents who want a closer, tunable fit. It handles beach, pool and playground.",
     "specs": [
       "Buckle strap, no laces",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Vqk2xDTNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CQT2T3L2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CQT2T3L2?tag=rvgearlab-amz-20",
     "description": "The Racqua Toddler Slip-On is a breathable elastic aqua shoe with a rubber outsole, a safety toe and a non-slip sole. The listing calls it flexible and portable with a barefoot feel.\n\nA safety toe gives more front cover than the JOINFREE Slip-On and RJVW Swim Socks. It sits at a lower price than the JOINFREE and FEETCITY Buckle.\n\nIt is a good fit for a toddler who runs on rocky shores or splash parks. It also folds small for a diaper bag.",
     "specs": [
       "Safety toe protection",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/513JAg6tIvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C7KTF7S3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C7KTF7S3?tag=rvgearlab-amz-20",
     "description": "The Racqua Baby Water Shoe targets infants and early walkers with a breathable stretchy upper, a wear-resistant non-slip sole and a soft upper that resists cuts. A tear-off hook-and-loop strap and a heel pull loop make it quick to put on.\n\nThe heel loop and adjustable strap give a more secure fit than the slip-on Racqua Toddler Slip-On. It is cheaper than the JOINFREE Slip-On and covers a younger size range.\n\nIt suits parents of a baby or very young toddler who need an easy-on pool or beach shoe. The strap lets you adjust as feet grow.",
     "specs": [
       "Hook-and-loop with heel loop",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51ZjWuL8J3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B091T6SXQQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B091T6SXQQ?tag=rvgearlab-amz-20",
     "description": "The RJVW Swim Socks use an elastic, breathable diving fabric upper and thickened rubber soles with an uneven texture for grip. The listing says the socks fold and compress to take almost no space.\n\nIt costs the least here and packs smaller than the JOINFREE Slip-On or FEETCITY Buckle. The textured thick sole is a step up in grip from the thinner pull-on style of the Racqua Toddler Slip-On.\n\nIt is suited to a beach or pool trip where you want a cheap, packable shoe in the bag. It also makes a handy spare.",
     "specs": [
       "Elastic diving fabric upper",

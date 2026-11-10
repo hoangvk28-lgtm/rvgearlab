@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41nR-w9wScL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C27VDSFJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C27VDSFJ?tag=rvgearlab-amz-20",
     "description": "The BLACK+DECKER oscillating tower heater is ceramic with Low 1,000W and High 1,500W settings, an LED display, an electronic thermostat and a remote control. It measures 4.68 by 4.6 by 13.75 inches and weighs 2.75 lbs.\n\nAgainst the JIBUFI, it uses a name-brand tower with a 1,000W low setting. Against the mini heaters, it heats a larger area and oscillates.\n\nBest for a bedroom or main living area on shore power. A balanced, compact heater.",
     "specs": [
       "1,000W low, 1,500W high ceramic",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41P7raTXyrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CFBD1MDM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CFBD1MDM?tag=rvgearlab-amz-20",
     "description": "The JIBUFI is a 1,500W heater with 70-degree oscillation, a remote, and High, Medium, Low, ECO and Fan Only modes. The listing states ETL certification, tip-over protection and an enhanced safety plug with flame-retardant materials.\n\nAgainst the BLACK+DECKER, it adds ECO and fan-only modes and costs about the same. Against the mini heaters, it moves far more heat.\n\nBest for buyers who want multiple modes and a stated safety certification. A flexible 1,500W pick.",
     "specs": [
       "1,500W, 70-degree oscillation",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41+wtjcQIyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FK5QJD6K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FK5QJD6K?tag=rvgearlab-amz-20",
     "description": "The TUNISE is a PTC ceramic mini heater that measures 6.1 by 5.75 by 2.87 inches and lists 2-second fast heating with tip-over and overheat protection. It is ultra quiet and has an LED display with one-touch control.\n\nAgainst the Lerat, it states fast heating and compact size. Against the 1,500W heaters, it fits on a table or bunk shelf.\n\nBest for personal warmth at a desk, bunk or bathroom. A small helper for a chilly spot.",
     "specs": [
       "PTC ceramic mini heater",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41aYmY3CGtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G5JBL9BG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G5JBL9BG?tag=rvgearlab-amz-20",
     "description": "The Lerat mini heater uses PTC ceramic heating in a 4.76 by 2.91 by 5.75 inch body, with 20 dB operation, overheat protection, tip-over shutoff and an anti-slip base. It is a low-cost personal heater.\n\nAgainst the TUNISE, it is smaller and cheaper. Against the BLACK+DECKER, it fits a nightstand.\n\nBest for nightstand or dorm-style use. A very small, very cheap heater.",
     "specs": [
       "PTC ceramic, 4.76 x 2.91 x 5.75 inches",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41HjM-ldkqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FWKFYFSF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FWKFYFSF?tag=rvgearlab-amz-20",
     "description": "The wiilioe is a battery-operated heater with two heat settings, an anti-tilt design and overheat protection. Its listing names car, tent, office and golf cart use and a car defogging function.\n\nAgainst the plug-in heaters, it runs without a cord, so it works in a tent or off-grid. Against the 12V fan heater, it is self-contained.\n\nBest for tents, cars and spots with no outlet. A cordless pick for mild chill.",
     "specs": [
       "Battery-powered, two heat settings",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41BcwNYoWWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FR17KM59?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FR17KM59?tag=rvgearlab-amz-20",
     "description": "The Jeyntanc is a 100W 12V PTC electric fan heater with an aluminum fin core and automatic regulation of heating power. It has mounting holes for installation and a surface insulator for safe use.\n\nAgainst the battery heater, it runs from a 12V supply instead of an internal battery. Against the mains heaters, it draws far less power.\n\nBest for small enclosed spaces such as a car or incubator. A tiny helper, not a cabin heater.",
     "specs": [
       "100W 12V PTC fan heater",

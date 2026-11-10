@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zcucIG8VL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B076KRTXQ6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B076KRTXQ6?tag=rvgearlab-amz-20",
     "description": "The CC Vector Extended Long Range system pairs a 15 dBi directional parabolic antenna with a repeater, and the listing says it receives a Wi-Fi signal about half a mile away, up to roughly three miles under ideal conditions. It includes the receiver, a 30 foot USB split cable, stainless mounting hardware, sealant and silicone grease.\n\nIt is the only pick that uses a dish antenna to aim at a distant source, which separates it from the omni-style outdoor extenders. The listing says speed falls as distance grows and supports two SD streamers or several browsers.\n\nBest for stays at the edge of a distant campground Wi-Fi where the dish can be aimed from a mast. Worth noting on the listing: stainless hardware included.",
     "specs": [
       "15 dBi parabolic antenna",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/5177afXYXYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H839VCZC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H839VCZC?tag=rvgearlab-amz-20",
     "description": "The CINAMON AX3000 outdoor extender is a dual-band Wi-Fi 6 unit with PoE, an IP67 housing and a listed reach of up to 300 meters. It supports multiple modes including access point.\n\nIt lists the longest distance figure among the outdoor extenders and the highest rated speed class. The WAVLINK is a close alternative with a lower speed class.\n\nA fit for owners who want a fast, weather-rated unit at a hosted pole. Another reason it earns a slot: supports AP mode.",
     "specs": [
       "Wi-Fi 6 AX3000 dual band",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21w-h0FtPcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GFLM1JDZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GFLM1JDZ?tag=rvgearlab-amz-20",
     "description": "The BrosTrend AX3000 outdoor extender wirelessly joins an existing router, adds four built-in high-power signal amplifiers and offers WiFi 6 speeds up to 2402 Mbps on 5 GHz. It is described as built for rain, heat and cold, with a gigabit PoE port and WPA3.\n\nIt is priced below the CINAMON AX3000 with a similar speed class and a clear weather description. It lists no IP number the way the CINAMON does.\n\nGood for owners who want a mid-price Wi-Fi 6 outdoor extender. Buyers also get this: lower price than CINAMON.",
     "specs": [
       "AX3000 Wi-Fi 6",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31z5AR6xDhL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BYMLT9HH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BYMLT9HH?tag=rvgearlab-amz-20",
     "description": "The 2026 WAVLINK AX1800 is an outdoor Wi-Fi 6 extender with IP67 protection and speeds up to 1201 Mbps on 5 GHz and 574 Mbps on 2.4 GHz. The listing states it is Starlink compatible.\n\nIt carries a lower speed class than the AX3000 units and a lower price. The Starlink mention is the maker's claim and depends on your satellite service.\n\nA fit for owners who extend a Starlink network outdoors. Among its strengths, lower price than AX3000 units.",
     "specs": [
       "AX1800 Wi-Fi 6, IP67",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31oDDSGYCkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GF9C1YV4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GF9C1YV4?tag=rvgearlab-amz-20",
     "description": "The AQUZO E8 is a solar-powered outdoor Wi-Fi extender covering a stated 120 meter radius on 2.4 GHz at 300 Mbps. It carries an IP66 rating and promises year-round solar operation without wiring.\n\nIt needs no cable run, which none of the PoE units can claim, and it is the cheapest outdoor pick. The single 2.4 GHz band caps its speed well below the dual-band models.\n\nBest for a mast with no power access. Worth noting on the listing: simple setup.",
     "specs": [
       "2.4 GHz, 300 Mbps",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31W2DiQa8OL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08RHD97QY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08RHD97QY?tag=rvgearlab-amz-20",
     "description": "The TP-Link RE315 is an AC1200 dual-band indoor extender covering up to 1500 square feet with two adjustable antennas. It is a plug-in unit, not a weather-rated outdoor device.\n\nIt is the lowest-cost pick and suits extending a signal inside the rig or a screened porch. It cannot reach across a campground the way the outdoor units can.\n\nA fit for short-range, indoor repeating. Another reason it earns a slot: plug-in simplicity.",
     "specs": [
       "AC1200 dual band",

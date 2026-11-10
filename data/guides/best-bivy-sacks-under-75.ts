@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41F51mvzKeL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H6Y8YKXD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H6Y8YKXD?tag=rvgearlab-amz-20",
     "description": "This bivy cover is built by Tennier Industries in the USA under NSN 8465-01-547-2644 and made to fit over modular sleeping bag systems. It uses a moisture-vapor permeable waterproof fabric, heat-sealed seams and a 2-way side zipper for ventilation from top or bottom.\n\nAmong these five it is the only one made to a military specification, which shows in the sealed seams and breathable fabric. The GEERTOP is a full tent and weighs more, while this stays a lean shell that slips over a bag and pad.\n\nIt suits campers with a bulky winter bag who want a breathable weather shell without carrying a tent. Pair it with a ground sheet in wet grass.",
     "specs": [
       "Made in USA by Tennier",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41FfqMrO6uL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DTKDG5MY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DTKDG5MY?tag=rvgearlab-amz-20",
     "description": "The GEERTOP is a one-person bivy tent weighing 2.9 pounds and packing to 17 by 5 by 5 inches. It has a PU5000 rainfly and a PU8000 floor with taped, double-stitched seams, plus a 3-pole frame and a top mesh panel.\n\nNext to the Military Modular Bivy, it gives you actual headroom, with 84.6 by 29.5 inches of floor and a 24 inch height. It also pitches in about two minutes with shock-corded aluminum poles.\n\nIt suits solo backpackers who want a true shelter in rain and wind. The mesh panel and wind vents manage condensation on warm nights.",
     "specs": [
       "2.9 lb one-person bivy tent",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21AtONV+KTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F3CWVH38?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F3CWVH38?tag=rvgearlab-amz-20",
     "description": "The HIKEBURGER bivy sack weighs 0.56 pounds and uses mesh, 20D nylon and a silicone-coated 40D nylon base. It measures 78.74 by 23.62 by 19.68 inches and packs to about 7.9 by 3.9 by 3.3 inches.\n\nIt weighs about a fifth of the GEERTOP and fits in a coat pocket. It leans on a tarp for rain, where the GEERTOP has its own rainfly.\n\nIt suits ultralight hikers who sleep under a tarp in insect season. A foam pad fits better inside than an inflatable pad.",
     "specs": [
       "0.56 lb mesh and nylon bivy",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41cmsfLjXOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B085WZL9G5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B085WZL9G5?tag=rvgearlab-amz-20",
     "description": "Cut from DuPont Tyvek, this cover from 3F UL Gear is sold as Type A (180 by 80 centimeters, about 130 grams) or Type B (230 by 90 centimeters, about 200 grams). Either one rolls to roughly 16 by 8.5 centimeters.\n\nLightest of the five, it is also the cheapest way to keep tent condensation off a sleeping bag. The Military Modular Bivy adds heavy-duty weather protection, while this cover adds a thin breathable layer.\n\nIt suits tent campers who want to keep a down bag dry. Use it inside a tent or under a tarp, since it is not a stand-alone shelter.",
     "specs": [
       "DuPont Tyvek, 130g or 200g",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/317DDBx2zXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HM6JTFTR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HM6JTFTR?tag=rvgearlab-amz-20",
     "description": "This bivy is a sleeping bag liner cover that serves as an inner layer and an outer protective shell. Its surface repels water splashes, blocks dust and debris, and has a simple structure for quick setup.\n\nIt costs less than the Military Modular Bivy and is simpler, with no vent zipper or sealed seams listed. It suits light weather and splash protection over a sleeping bag.\n\nIt suits camping in a tent or shelter where you want an extra layer between your bag and the ground. Use it as a liner on cool nights.",
     "specs": [
       "Liner and outer cover",

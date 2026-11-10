@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41N9TnhbSoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0746GY2SD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0746GY2SD?tag=rvgearlab-amz-20",
     "description": "The Lippert Flow Max is a 12V pump that averages 50 PSI and over 3.0 GPM, with a stated 9.5 maximum amp draw, self-priming and an included screen filter. Its heavy-duty, corrosion-resistant motor is listed, and 12V or 115V configurations are sold.\n\nIt is the brand-name pick and the only one in the group that lists a screen filter and amp draw together. The TWERE R3526 undercuts it on price.\n\nA good fit for owners who want an RV-industry brand and stated amps. The screen blocks debris before it reaches the valves.",
     "specs": [
       "3.0 GPM at 50 PSI",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41DXCa17zXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7HH8Z65?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7HH8Z65?tag=rvgearlab-amz-20",
     "description": "The TWERE is a 12V triplex diaphragm pump, rated 3 GPM at 50 PSI, sold to replace R3526144D and 03526-144A pumps. An enclosed motor, automatic stop and start and dry operation protection are listed.\n\nIt names two replacement numbers and is cheaper than the Lippert. Its enclosed motor is highlighted against leaky alternatives.\n\nA good fit for owners swapping an R3526 pump. The part numbers make matching easy.",
     "specs": [
       "3 GPM at 50 PSI, 12V DC",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/414zJ1-K5CL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HJD8VVNY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HJD8VVNY?tag=rvgearlab-amz-20",
     "description": "The HelpNET is a 12V self-priming diaphragm pump with 5.5 GPM open flow and a 50 PSI rating, an adjustable built-in switch and thermal protection. Rubber feet and corrosion-resistant materials are listed.\n\nIt brings the highest flow of the group at 50 PSI and a very low price. It is a different kind of pump than the plug-in 4 GPM models.\n\nA good fit for owners who want strong flow at moderate pressure. The adjustable switch lets you trim it.",
     "specs": [
       "5.5 GPM at 50 PSI",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4182F2vfmSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BVMB1PHX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BVMB1PHX?tag=rvgearlab-amz-20",
     "description": "The ECO-WORTHY 33-Series is a 110V AC pump rated 4.0 GPM at 50 PSI that primes up to 9.8 vertical feet and lifts to 148 feet. It lists an automatic switch, thermal overload protection and operation beyond an hour.\n\nIt leads the AC pumps with a long lift figure and a lower price than the Lippert. It shares the 4.0 GPM rating with the Kohree and Lynvire.\n\nA good fit for shore-power owners who need to lift water from a low tank. The thermal protection keeps the motor safe.",
     "specs": [
       "110V AC, 4.0 GPM, 50 PSI",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51wc7-ZYZ2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FV7WKWSP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FV7WKWSP?tag=rvgearlab-amz-20",
     "description": "The Kohree is a 110V AC self-priming pump rated 4 GPM at 50 PSI with a smart pressure switch that adjusts to demand. It primes to 9.8 vertical feet and lists thermal overload protection.\n\nIt matches the ECO-WORTHY 50 on flow and pressure at a similar price and gives a cleaner, easier-to-read spec list. It does not state lift above the prime height.\n\nRight for buyers who want a straightforward AC pump. The adjustable switch is a bonus.",
     "specs": [
       "110V AC, 4 GPM, 50 PSI",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51fjWOraPGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G2BV9Z28?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G2BV9Z28?tag=rvgearlab-amz-20",
     "description": "The Lynvire is a 110V AC industrial-grade pump rated 4.0 GPM at a preset 50 PSI with an adjustable automatic switch. It primes to 9.8 feet and lists continuous operation over an hour and a robust industrial construction.\n\nIt is the lowest-priced of the 4.0 GPM AC pumps and lists the widest range of uses. It matches the Kohree on flow.\n\nRight for buyers who want a budget AC pump with a sturdy build. The adjustable switch helps fine-tune.",
     "specs": [
       "110V AC, 4.0 GPM, 50 PSI",

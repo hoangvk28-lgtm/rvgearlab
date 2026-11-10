@@ -32,7 +32,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41c7bWsLP3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01N5H2FCE?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01N5H2FCE?tag=rvgearlab-amz-20",
     "description": "The Camco RhinoFlex Clear elbow is a clear 90 degree fitting with a built in 4-in-1 adapter, made in the USA, priced at $15.99. The clear body lets you watch the tanks drain and see when rinse water runs clean.\n\nIt is the brand name pick in the group, with an odor tight connection and a familiar design that matches many other Camco parts in an RV sewer kit. Compared with the $17.99 clear elbow, it saves about $2 and carries a recognized maker, and next to the $13.99 DUMPMAN it adds a transparent body for monitoring flow.\n\nOwners who want a trusted brand, a clear elbow and one fitting that handles several inlet sizes will find it the easiest all around choice.",
     "specs": [
       "Clear 90 degree elbow",
@@ -60,7 +60,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31iQzbi+XvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FHPQH37W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FHPQH37W?tag=rvgearlab-amz-20",
     "description": "The Clear 90 Degree RV Sewer Hose Elbow with 4-in-1 Adapter is made of high clarity PVC and names four inlet sizes, with a right angle bend that helps reduce kinking. It costs $17.99.\n\nIts listing is the clearest about which sizes it covers, which makes it easy to match against the inlets you visit regularly, and the high clarity PVC gives a good view of tank flow. Compared with the Camco at $15.99, it costs about $2 more and calls out inlet coverage in more detail, and against the Nilight it offers a larger set of named inlet sizes.\n\nTravelers who use a wide variety of dump stations and campsite risers will appreciate the stated coverage.",
     "specs": [
       "Clear PVC elbow",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41jOYLYDu3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GG9ZTR4J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GG9ZTR4J?tag=rvgearlab-amz-20",
     "description": "The Nilight 90 Degree RV Sewer Hose Fitting is a clear elbow with a 4-in-1 adapter, dual leak gaskets and a quick swivel joint, priced at $16.22. Two gaskets give extra protection at the connection.\n\nThe swivel joint makes it easy to rotate the bend and line up the lugs without twisting the hose, and the second gasket adds a backup seal. Compared with the Camco at $15.99, it costs a few cents more and adds the dual gasket design, and against the $17.99 clear elbow it saves about $1.75.\n\nCampers who prioritize leak protection and easy alignment, especially at awkward dump stations, will find it a strong pick.",
     "specs": [
       "Clear 90 degree elbow",
@@ -116,7 +116,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41o8iQa6ioL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G2M1H8LX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G2M1H8LX?tag=rvgearlab-amz-20",
     "description": "The DUMPMAN is a 90 degree sewer elbow with a 4-in-1 adapter, a 3 inch bayonet fitting and a leak free gasket, priced at $13.99, the lowest of the four 90 degree fittings. The twist on bayonet fit makes the connection quick.\n\nIt costs about $2 less than the Camco and $4 less than the clear elbow, and still offers the stepped adapter that covers several inlets. Compared with the Nilight at $16.22, it saves about $2 and keeps a gasket for a sealed connection.\n\nBudget minded owners who want a standard 90 degree elbow with a four in one adapter and a quick bayonet connection will find it the easiest way to save money.",
     "specs": [
       "90 degree elbow",
@@ -144,7 +144,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31vr2pku-aL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B006OQ35GU?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B006OQ35GU?tag=rvgearlab-amz-20",
     "description": "The Camco RhinoFLEX Clear 45 Degree Swivel Fitting is a clear fitting with a swivel lug and bayonet connection, made from UV stabilized resin, priced at $8.99. It makes a gentler bend than a 90 degree elbow.\n\nIt costs about $5 less than the cheapest 90 degree fitting and works well where a softer curve suits the hose route, such as a sewer outlet that already points partway toward the ground. The UV stabilized resin helps it survive sun exposure, and the swivel lug eases alignment.\n\nOwners with outlets that need a gentle bend rather than a sharp turn, and those who want a low cost clear fitting, will find it a handy alternative.",
     "specs": [
       "Clear 45 degree fitting",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/415rwuqy1NL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FJ52LQL8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FJ52LQL8?tag=rvgearlab-amz-20",
     "description": "The Vandham is a 10 by 12 foot, 8 mil tarp made from high-density polyethylene. Rubber triangular reinforcements strengthen the corners, and the double-layer edges carry grommets about every meter.\n\nIt is the largest 8 mil sheet in the group, with more cover than the 8 by 10 Cartman and a thicker feel than the 5 mil Kotap. The Xpose is far tougher, yet it covers only a third of the area.\n\nIt suits tent floors, picnic shelters and wood stacks for a camper who wants one general-purpose tarp. Unfold it outside first, since a new poly tarp can carry a faint smell.",
     "specs": [
       "10x12 ft, 8 mil HDPE",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51FIGhZ26zL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B089PY2LCV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B089PY2LCV?tag=rvgearlab-amz-20",
     "description": "The Cartman is an 8 by 10 foot, 8 mil poly tarp with heat-sealed hems, nylon rope sewn into the edges and a grommet about every 36 inches. Plastic reinforcements sit at all four corners.\n\nIt costs the least here and is smaller than the Vandham, so it covers a two-person tent floor or a small gear pile rather than a full camp kitchen. The rope-reinforced hem gives it good tear resistance for the money.\n\nIt suits campers who need a low-cost ground cloth or a rain cover for a pile of wood. Buy two if you want one for the floor and one for overhead cover.",
     "specs": [
       "8x10 ft, 8 mil polyethylene",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41IgrwKg8YL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0748HGDVD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0748HGDVD?tag=rvgearlab-amz-20",
     "description": "About 9.5 by 11.3 feet, this AmazonBasics sheet is a rip-stop weave with polyethylene coating on each face. Reinforced corners and edges carry grommets for tie-downs, and it is built for tents, vehicles and firewood.\n\nThe rip-stop weave keeps a small puncture from running the length of the sheet, an advantage the plain poly Kotap and Cartman lack. It costs more than both of them and sits just under the cap.\n\nIt suits campers who want a tear-resistant tarp for a vehicle cover or an overhead shelter. It is also a good second tarp for a tent floor.",
     "specs": [
       "About 9.5x11.3 ft rip-stop",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Ab-hu1sTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0096LZJX2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0096LZJX2?tag=rvgearlab-amz-20",
     "description": "The Kotap is a 5 mil poly tarp with a finished size of 7 feet 4 inches by 19 feet 6 inches, sold as 8 by 20. It has tightly woven coated polyethylene, rustproof aluminum grommets every 3 feet and at each corner.\n\nIt is the longest sheet here, so it can cover a row of firewood, a boat or a long gear line that nothing else reaches. It is thinner than the 8 mil Vandham, and the finished size is smaller than the label.\n\nIt suits campers who cover long, narrow loads like a stack of logs or a canoe. Hang it with cord through each grommet to keep it taut.",
     "specs": [
       "5 mil poly, 7'4\" x 19'6\" finished",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51bl4KfIO3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CDN74YR5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CDN74YR5?tag=rvgearlab-amz-20",
     "description": "The Xpose is a 5 by 7 foot, 20 mil tarp with a 370 GSM 16 by 16 weave, reinforced corners and brass grommets. It is UV protected and described as fully waterproof for all seasons.\n\nIt is the thickest sheet by a wide margin and covers 35 square feet, so it protects a seat, a gear bag or an engine instead of a campsite. Next to the 8 mil tarps, it lasts longer in abrasion and sun.\n\nIt suits campers who want a long-lived ground cloth under a small tent or a tough cover for a cooler. Use it where durability beats area.",
     "specs": [
       "20 mil, 370 GSM weave",

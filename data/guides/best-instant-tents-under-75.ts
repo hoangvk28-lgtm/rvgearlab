@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/419JNLG6cnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GJS9XF91?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GJS9XF91?tag=rvgearlab-amz-20",
     "description": "The ADSMART has pre-attached thickened metal poles that raise it in about 60 seconds, six steel leg poles for rigidity and three large mesh windows. It sleeps two or three on an 8 ft by 7 ft floor, folds to a 35 inch bag and weighs 10.4 lb.\n\nSteel leg poles make it the stiffest frame in the list, which beats the hub and spring designs in wind. It is heavier than the Golabs, and the extra frame and mesh ventilation justify the weight.\n\nFamilies who value stability and cross breezes will like it. The expandable bag makes repacking easier.",
     "specs": [
       "60-second pre-attached poles",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41sR+ReqLOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07NZ6WCRN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07NZ6WCRN?tag=rvgearlab-amz-20",
     "description": "The HUI LINGYANG gives you about 9.5 ft of length and 6.6 ft of width under a 52 inch peak, sleeping four in bags or two or three with gear. Pre-assembled poles raise it in seconds, and double-panel doors and four mesh windows bring airflow.\n\nThe floor is the biggest in the list, ahead of the ADSMART and Golabs. Taped seams add light-rain protection, and the maker advises keeping it for fair weather and car camping.\n\nFamilies who need a quick backyard or beach tent will like the space. The outer fabric layer rolls up for hot nights.",
     "specs": [
       "9.5 ft long floor, 52 in peak",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/417m+OJusZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GJRHWX1W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GJRHWX1W?tag=rvgearlab-amz-20",
     "description": "The Rivenlo is a 4-person pop-up with a 4.3 ft peak, an overhead skylight and a removable rainfly over a floor close to 9.5 ft long. Four mesh windows and two doors give cross ventilation.\n\nIt is the only pop-up here with a skylight, and its price sits a little under the HUI. The outer layer closes for cold nights or rolls up for airflow.\n\nCouples and families who like night views will enjoy it. It sets up automatically.",
     "specs": [
       "About 9.5 ft long, 4.3 ft peak",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41SL9FtoG1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GLGNWTZ3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GLGNWTZ3?tag=rvgearlab-amz-20",
     "description": "The Golabs CT3 stands up in a minute once you raise its center pole, leaving an interior near 6.4 ft long and 4.6 ft wide. It uses taffeta sides, a PE woven floor and four side mesh panels.\n\nIt is the quickest to pack and the most compact, and it sleeps two people. The ADSMART and Rivenlo hold more people.\n\nCouples and solo campers will enjoy the simple routine. It also suits backyard sleepovers.",
     "specs": [
       "60-second lift-pole pitch",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ARpS9nG2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BKRGG113?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BKRGG113?tag=rvgearlab-amz-20",
     "description": "The anngrowy opens to about 6.9 ft by 4.9 ft with a 47 inch peak and a fiberglass frame, using 190T polyester with 210D Oxford. It states a PU 1500mm rating and a hydraulic pitching mechanism.\n\nIt costs the least in the list and is the only one with a stated rain rating besides the Mimajor class. The floor fits two.\n\nBudget campers who may see showers will like it. Dual-side zippers switch between mesh and fabric.",
     "specs": [
       "PU 1500mm, 190T polyester",

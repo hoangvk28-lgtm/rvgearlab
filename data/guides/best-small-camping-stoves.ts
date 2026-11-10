@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hybCmWPwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07NJYV3NP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07NJYV3NP?tag=rvgearlab-amz-20",
     "description": "The AOTU stove packs into a 4 by 5 by 8 cm plastic box and fits 7/16 thread single butane or butane-propane canisters (EN 417). It has a 3,000 W rating, a piezo igniter, an adjustable valve down to a simmer and a honeycomb windproof net.\n\nIt is the smallest burner here by a wide margin, and the lowest in price. Compared with the Gas One Butane, it gives up a case and safety features for size.\n\nIt suits solo and paired hikers who want a tiny burner as a backup. The fire board suits a 20 cm pot for one to three people.",
     "specs": [
       "Suits 1 to 3 people",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31VcXqbraSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0007L8108?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0007L8108?tag=rvgearlab-amz-20",
     "description": "Coghlan's is a coated steel stove that folds flat, with a 6.5 by 6.5 inch cooking surface. It burns Camp Heat, fuel cubes, solidified alcohol and other condensed fuels, and the page lists a weight of 16 oz.\n\nIt carries no pressurized fuel, which makes it the simplest to pack and the safest to stash in a bag. It sits below the gas stoves in heat output.\n\nIt suits backup kits and first backpacking trips with small pots. The flat fold slips into any pack.",
     "specs": [
       "Folds flat, coated steel",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/310zJ+RVtBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08WTNVPB7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08WTNVPB7?tag=rvgearlab-amz-20",
     "description": "The Gas One is a portable butane stove rated at 7,650 BTU, CSA approved per the page, with automatic piezo-type ignition and a safety shut-off. It runs only on an 8 oz butane canister, with a carrying case and a manual included.\n\nIt adds a canister ejection feature that the AOTU lacks and runs quietly with a clean burn. It is larger than the AOTU.\n\nIt suits car campers, tailgaters and emergency kits that value safety. Outdoor use only.",
     "specs": [
       "7,650 BTU butane burner",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41iwUW9W9ML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FMXTY2WH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FMXTY2WH?tag=rvgearlab-amz-20",
     "description": "The SHINESTAR is a butane stove with 7,800 BTU, a porous annular burner and one-click piezo ignition tested for over 10,000 ignitions. A triple protection system includes cartridge ejection, a safety lock and auto shut-off.\n\nIt lists more output than the Gas One Butane and a removable porcelain-coated grate that wipes clean. A black carrying case comes with it.\n\nIt suits campers who want visible safety features and an easy-clean grate. The annular burner spreads heat evenly.",
     "specs": [
       "7,800 BTU, annular burner",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41F0AAPilZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07Q5WCNDJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07Q5WCNDJ?tag=rvgearlab-amz-20",
     "description": "This Odoland kit bundles a stove with two non-stick aluminum pots, a spork, a wipe cloth and a bag. Pot and stove handles fold, and the nested set leaves room for a gas tank.\n\nIt is the only kit in the guide and a slimmer version of Odoland's larger sets. The stove folds like the pots.\n\nIt suits solo trips where you want one package for cooking. The gas tank stores inside the nest.",
     "specs": [
       "6 pieces including stove",

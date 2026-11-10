@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31KnXdziixL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F1Y2QHFK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F1Y2QHFK?tag=rvgearlab-amz-20",
     "description": "The MOON LENCE Plus has an expanded 24 inch wide seat on a 7075 aluminum alloy frame with a quad-leg base and reinforced bracing. It weighs 2.7 pounds, opens to 22 by 18.1 by 29.9 inches and folds to 15 by 5.7 by 5.9 inches.\n\nCompared with the Naturehike YL08, it gives a wider seat and a mesh pocket with webbing for gear. Against the Vocpuli, it is lighter and sits wider.\n\nIt suits backpackers who find standard ultralight chairs too narrow. Ventilated side panels help with airflow.",
     "specs": [
       "24 inch wide seat, 2.7 lb",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41XockSKRvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CWG543T3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CWG543T3?tag=rvgearlab-amz-20",
     "description": "The Naturehike YL08 weighs 2.12 pounds alone, and 2.43 pounds with its detachable anti-sink feet. The 7075 aluminum frame uses dual-pole reinforcement, and a 15-second setup uses an internal bungee cord.\n\nIt is the lightest chair here, more than half a pound lighter than the Wildhiker and MARCHWAY. Compared with the MOON LENCE Plus, it saves ounces at the cost of seat width.\n\nIt suits ounce counters and thru-hikers who still want a seat at camp. The carry bag converts into a small pouch on the frame.",
     "specs": [
       "2.12 lb, 7075 aluminum frame",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Xe6ug4KTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DW8YRCLM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DW8YRCLM?tag=rvgearlab-amz-20",
     "description": "The Wildhiker SteadyMode weighs 2.8 pounds, holds 330 pounds and packs to 5.5 by 6 by 13 inches. It uses a reinforced triangular frame, thickened legs and large detachable anti-sinking feet.\n\nCompared with the Naturehike YL08, it has a similar steady feel and a slightly smaller packed width. Against the MARCHWAY, it adds large anti-sink feet that suit sand and mud.\n\nIt suits campers who ride, hike and drive with the same chair. A breathable mesh back and deep seat give a relaxed posture.",
     "specs": [
       "2.8 lb, 330 lb capacity",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41jgzB-G-wL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B5LDC3CT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B5LDC3CT?tag=rvgearlab-amz-20",
     "description": "The MARCHWAY weighs 2.7 pounds with its carry bag and holds 330 pounds. A triangular frame limits wobble, 15mm aircraft-grade aluminum legs add strength, and the shock-corded poles set up in under a minute.\n\nIt is as light as the MOON LENCE Plus with a more focused stability story. Compared with the Vocpuli, it states a steadier frame and an angled seat.\n\nIt suits hikers who want a chair that does not rock on rough ground. The ripstop seat is breathable and quick to dry.",
     "specs": [
       "2.7 lb with bag, 330 lb capacity",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41-Y0wGkbFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GF6CWMFN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GF6CWMFN?tag=rvgearlab-amz-20",
     "description": "The Vocpuli weighs 3.3 pounds and uses 7075 aluminum alloy with a 600D ripstop and mesh back. It unfolds to 14.2 by 12.2 by 25.6 inches, folds to 15 by 5.1 by 5.1 inches and lists a 330 pound maximum.\n\nCompared with the Naturehike YL08, it costs less than the lightest chairs. Against the Wind Tour, it adds an aluminum frame and a mesh back.\n\nIt suits backpackers on a budget who want a light aluminum chair. A shock-cord frame sets up in seconds.",
     "specs": [
       "3.3 lb, 7075 aluminum frame",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31LOjwMs4hL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F2ZR886C?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F2ZR886C?tag=rvgearlab-amz-20",
     "description": "The Wind Tour is a foldable chair built from Oxford fabric on sturdy steel pipes, with a matching carry bag that has a shoulder strap. The listing lists hiking, camping, beach, fishing and picnic uses.\n\nIt is the least expensive chair in this group by a clear margin. Compared with the Vocpuli, it uses steel in place of aluminum, which keeps cost down.\n\nIt suits casual campers who want a cheap folding seat for short walk-ins. Setup needs no tools.",
     "specs": [
       "Oxford fabric on steel pipes",

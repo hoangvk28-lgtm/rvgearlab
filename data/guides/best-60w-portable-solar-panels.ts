@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41-mc7sBLrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D6B5X2N9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D6B5X2N9?tag=rvgearlab-amz-20",
     "description": "The FlexSolar 60W pairs a QC3.0 18W USB-A port, a PD3.0 40W USB-C port and a 60W DC output on one lightweight panel. It weighs 2.6 lbs, folds in six sections to 9.8 by 12 inches and carries an IP67 rating over A+ monocrystalline cells.\n\nNext to the upgraded FlexSolar it is less than half the weight, which is the real separator between the two. Compared with the ENOFLO it gives up the 10-in-one connector set yet gains a far lighter carry and a faster USB-C port.\n\nIt suits backpackers and car campers who charge phones, a power bank or a power station under 300Wh. The listing says it reaches 60W in direct sun and about 30 to 40W under light cloud.",
     "specs": [
       "60W DC, 40W USB-C PD",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/416WACT0PzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B092XDR3D5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B092XDR3D5?tag=rvgearlab-amz-20",
     "description": "The upgraded FlexSolar uses ETFE-coated A+ monocrystalline cells listed at 24% efficiency, with three USB ports (QC2.0 15W, QC3.0 18W and a 60W PD3.0 USB-C) plus a 60W DC output. It unfolds to 33.8 by 28.1 inches and folds to 13.8 by 9.1 by 2.2 inches with a carry handle.\n\nIt is the heavy one at 6.4 lbs, against 2.6 lbs for the lighter FlexSolar, and that mass buys a wider square panel rather than a long strip. Compared with the MHPOWOS it lists a higher efficiency figure and a rugged 5 to 10 year outdoor life.\n\nIt fits car campers who want the best sun catch per fold and a USB-C port that can feed a laptop. The IP65 rating covers rain and dust.",
     "specs": [
       "24% cell efficiency",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41TJGq5CNYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FF9VHZS9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FF9VHZS9?tag=rvgearlab-amz-20",
     "description": "The MHPOWOS folds to briefcase size with a built-in kickstand and offers one 5A DC output alongside USB-C and USB-A sockets. It lists 23% conversion and an IP67 water-resistance rating.\n\nIt sits between the two FlexSolar panels in character, lighter on features than the upgraded unit and more stand-friendly than the lighter one. The kickstand lets it angle at the sun without a rock or a rope.\n\nIt works for campers who set the panel on a picnic table and charge phones, speakers and a power bank. Hanging loops let it ride on a tent or pack.",
     "specs": [
       "Kickstand and briefcase fold",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41to5xas22L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CF4MWTXD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CF4MWTXD?tag=rvgearlab-amz-20",
     "description": "The ENOFLO YT60 uses monocrystalline cells listed at up to 20.5% efficiency with USB and DC outputs and a 10-in-one DC connector. It weighs 4.2 lbs, folds to 39.1 by 14.9 by 0.86 inches and is laminated in IP68 ETFE.\n\nIt is the lowest priced panel in this list and the one with the widest connector set for third-party power stations. Against the MHPOWOS it carries the higher waterproof rating, while the cell efficiency figure is a few points lower.\n\nIt suits budget campers who own a power station with a DC input and want a one-piece laminate that shrugs off rain. The listing also names a G300 power station match.",
     "specs": [
       "20.5% cells, IP68 ETFE",

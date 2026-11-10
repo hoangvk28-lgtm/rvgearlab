@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Ggk656srL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H6M4N8V1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H6M4N8V1?tag=rvgearlab-amz-20",
     "description": "This inverter converts 12V DC to 220V to 240V AC and is built for European and international electronics, 220V power tools and travel appliances. The listing states 3000W high surge capacity, a universal outlet for US, EU and UK plugs, two USB ports, a quiet cooling fan and an aluminum housing.\n\nIt is the only pick here that says it takes US, EU and UK plugs and the only one that states the full 220V-240V range, ahead of the 4000W listing that says 110V/220V. The 200W unit is a small plug-in, while this one is a battery-connected heavy-duty unit.\n\nIt suits expats, overlanders and workshops using 220V gear from a vehicle or battery bank. Clear PC and PW LED indicators and low-voltage shutdown are listed.",
     "specs": [
       "12V DC to 220V-240V AC",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41z22yOcLTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FK4NJDMJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FK4NJDMJ?tag=rvgearlab-amz-20",
     "description": "This inverter is listed as peak 4000W DC to AC, converting 12V to 110V or 220V for cars, RVs, trucks and boats. It has a universal AC outlet, two USB ports and an LED display for voltage, wattage and battery level, in a lightweight, durable casing.\n\nIt is the only pick with a display that shows battery level and wattage, and it covers both voltages in one unit. The 3000W unit is the better fit for strict 220V use, while this one lets you switch between systems.\n\nIt suits campers and boat owners who want one unit for both voltages and an on-screen readout. A second listing of the same model sells for less.",
     "specs": [
       "Peak 4000W, 110V or 220V",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Yu51l7W0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07L1N6WKW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07L1N6WKW?tag=rvgearlab-amz-20",
     "description": "This 200W inverter converts 12V DC to 220V AC with one outlet and four USB ports at 5V 3.1A. Its input range is 10.5V to 16V, the cooling fan is built in, and protection covers short circuit, overload, over-current, over-heat, low voltage and over voltage.\n\nIt is the smallest of the three and the only one that plugs into a vehicle socket. Next to the 3000W unit it supplies far less power and needs no battery cables.\n\nIt suits travelers who need to charge a 220V laptop brick, a camera charger or a razor from the car. Four USB ports let phones charge at once.",
     "specs": [
       "200W, 12V to 220V AC",

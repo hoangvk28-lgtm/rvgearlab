@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31TC7JIKyML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D1HF21W7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D1HF21W7?tag=rvgearlab-amz-20",
     "description": "The CORE Blackout 6 is a hybrid dome measuring 10 ft by 9 ft with a 72 inch center height. Blackout technology blocks 90 percent of sunlight, and the hybrid design is credited with 20 percent extra headroom over a traditional CORE 6-person dome.\n\nIt shares the 10 by 9 ft floor with the CORE 6-Person and adds the blackout fabric plus an extra 6 inches of center height. Against the Coleman Dark Room it adds a wall organizer, and both fit two queen air beds.\n\nIt is the pick for families who want a tall dome, a dark interior and a taped 1200mm fly. Three people with gear or up to six without is the honest range.",
     "specs": [
       "10 x 9 ft, 72 in center",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/3156WMcVK1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DPNGT4TT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DPNGT4TT?tag=rvgearlab-amz-20",
     "description": "The CORE 6-Person Dome has a 10 ft by 9 ft floor, a 66 inch center and room for two queen air beds. A ball-and-socket system speeds assembly, and a 1200mm H2O Block shell with a taped fly and zipped windows keeps weather out.\n\nIt costs less than the Blackout and trades the dark fabric and 6 inches of height for an overhead loft with a lantern hook. Compared with the Wenzel it adds a millimeter rating at a higher price.\n\nIt suits families who want a documented rain shell and a gear loft at a mid price. The lower vents and mesh ceiling manage airflow.",
     "specs": [
       "10 x 9 ft, 66 in center",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/318jlTXLtYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7QJN6CY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7QJN6CY?tag=rvgearlab-amz-20",
     "description": "The Skydome 4/6 adds a 10 ft by 4 ft full-fly vestibule to the standard frame, and the listing says the interior fits two queen airbeds. Poles come attached for a pitch of under 5 minutes, and straighter walls add about a fifth more headroom.\n\nNext to the Wenzel it brings a 10 x 4 ft full-fly vestibule and a 35 mph tested frame. Where the CORE 6 prints a millimeter rating, this one lists taped fly seams and welded corners.\n\nIt suits families who want gear storage outside and a quick pitch. The vestibule keeps muddy boots out of the sleeping area.",
     "specs": [
       "4/6 person size family",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41WVrMVI6JL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7QJ3SYW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7QJ3SYW?tag=rvgearlab-amz-20",
     "description": "The Sundome Dark Room 4/6 measures 10 ft by 10 ft with a 6 ft center height and fits two queen airbeds. Dark Room technology blocks 90 percent of sunlight, and the WeatherTec floor has welded corners and protected seams.\n\nIt has the largest listed floor of the six at 10 by 10 ft, with a 6 ft center that matches the CORE Blackout. Against the CORE Blackout it is cheaper and pitches with snag-free continuous pole sleeves.\n\nIt suits families who want a dark interior and a big square floor at a mid price. Setup is listed as quick and easy.",
     "specs": [
       "10 x 10 ft, 6 ft center",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31w3dnjC5pL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7QL1LHC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7QL1LHC?tag=rvgearlab-amz-20",
     "description": "This Coleman is sold as a 2/4/6/8 person family, with poles already attached for a pitch of under 5 minutes. WeatherTec welded corners, inverted seams, a frame tested to 35 mph and a wider door for air beds round out the standard package.\n\nIt is the plainest Coleman here, with no vestibule, dark fabric or loft, which keeps the price in the middle. Where the CORE 6 prints a millimeter rating, this one lists wind testing.\n\nIt suits families who want a proven frame and a wide door without upgrades. The straight walls keep the sides usable.",
     "specs": [
       "2/4/6/8 person size family",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41SUPTe9WqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B084DMXWWV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B084DMXWWV?tag=rvgearlab-amz-20",
     "description": "The Wenzel Tamarack is a 6-person dome with shock-corded fiberglass poles and a pin-and-ring system. A removable seam-sealed fly with an awning, hi-low ventilation, a large D-style door and zippered windows form the shell.\n\nIt is the lowest priced of the six and the only one listing an electrical port, a front mud mat and six pockets. Against the CORE 6 it adds an awning and a mat.\n\nIt suits budget campers who want a seam-sealed fly and a power cord entry. The gear loft helps with organization.",
     "specs": [
       "6 person, pin-and-ring poles",

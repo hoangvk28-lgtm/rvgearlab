@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41VQEwci3sL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DRG76DS1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DRG76DS1?tag=rvgearlab-amz-20",
     "description": "The GRECELL 240W weighs 16.3 lbs and folds to 16.14 by 16.33 by 3.54 inches. It lists conversion above 25 percent, an IP65 ETFE surface and connectors for XT60, Anderson, DC7909 and DC8020, plus MC4 output for series or parallel expansion.\n\nAgainst the OUPES, it weighs about two pounds less, costs far less and covers more brands of station. Compared with the 200W Renogy, it adds 40 watts and a compact fold at a modest price step.\n\nIt suits car campers who want the most watts per dollar in a foldable panel. The ability to join two panels in series or parallel doubles the charging rate.",
     "specs": [
       "240W, 16.3 lbs",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Q9t84V86L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09G31JDV9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09G31JDV9?tag=rvgearlab-amz-20",
     "description": "The OUPES 240W lists 23.4 percent monocrystalline cells, an ETFE coating and an IP65 junction box. It weighs 18.48 lbs and uses an Anderson connector, with a cable around 16.4 feet.\n\nIt is the heaviest and priciest panel on the list. Compared with the GRECELL, it adds a long cable and brand matching.\n\nIt suits owners of OUPES power stations who want a panel designed for them. Kickstands snap out and set the angle toward the sun.",
     "specs": [
       "240W, 23.4% monocrystalline",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41CvFaQf-fL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CNPHD4VY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CNPHD4VY?tag=rvgearlab-amz-20",
     "description": "The Renogy 200W uses 16BB N-type cells at 25 percent efficiency and weighs 13.89 lbs, folding to 23.72 by 22.99 by 1.97 inches. It adds USB-C PD 45W and two USB-A ports, plus UL 61730 certification and four kickstands with 40, 50 and 60 degree angles.\n\nIt gives up 40 watts against the 240W picks while saving about 2.4 lbs against the GRECELL. Compared with the Ecosonique, it carries USB output and a certification mark.\n\nIt suits campers who charge phones, tablets and a laptop through the panel as well as a station. MC4 output pairs with a power station input.",
     "specs": [
       "200W, 25% N-type",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Ueb53YPnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DQ8VB8P1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DQ8VB8P1?tag=rvgearlab-amz-20",
     "description": "The Ecosonique lists a six-fold design at 11 lbs, folding to 18 by 16.3 inches. It has 20V MC4 output with a 3 m cable, a 0.5 m adapter to XT60, Anderson, DC7909 and DC5525, and four kickstands.\n\nIt weighs about 7 lbs less than the OUPES and costs less than any other pick here. Against the Renogy, it adds a longer cable and drops USB output and certification.\n\nIt suits budget buyers who want a light, compact panel for a mid-size station. The Oxford cloth and CPC lamination target outdoor use.",
     "specs": [
       "200W, 11 lbs, six-fold",

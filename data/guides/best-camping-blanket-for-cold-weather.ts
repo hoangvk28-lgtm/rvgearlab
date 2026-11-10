@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4139JccMutL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CLLG6YLK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CLLG6YLK?tag=rvgearlab-amz-20",
     "description": "The AlphaBeing blanket uses a 320gsm Merino wool blend surface over 40D nylon with a 3000mm waterproof coating. It measures 79 by 59 inches and doubles as a cloak with a cape clasp, with four corner loops.\n\nAgainst the SUITEDNOMAD fleece, it adds a wool blend and a hydrostatic rating. Compared with the Arcturus wool, it is waterproof and windproof, which wool alone is not.\n\nIt suits cold-night campers who want a wearable, wind-blocking blanket. The cloak mode frees your hands at the fire.",
     "specs": [
       "320gsm Merino blend surface",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/413eVD4J+1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01IJWUYLK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01IJWUYLK?tag=rvgearlab-amz-20",
     "description": "The Arcturus military wool blanket measures 64 by 88 inches and is loom-woven with contrast lock stitching on all hems. Wool stays warm even when wet, and the blend includes 20 percent synthetic.\n\nCompared with the AlphaBeing, it is larger and easier to wash, with a classic look. Against the hotkoko, it is a woven wool blanket in place of a synthetic quilt.\n\nIt suits campers who want a durable, traditional blanket for a cot or bedroll. It sleeps two people.",
     "specs": [
       "64 x 88 inch twin size",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51OpVfHcdPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07P1FXBS3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07P1FXBS3?tag=rvgearlab-amz-20",
     "description": "The SUITEDNOMAD blanket is an 82 by 57 inch stadium fleece with a waterproof and windproof design that weighs under 2 lb. It is built for outdoor events and cold campsites.\n\nCompared with the AlphaBeing, it is lighter and a little larger, with fleece instead of a wool blend. Against the hotkoko, it is a flatter blanket.\n\nIt suits campers who need a light layer for sitting at the fire or a cold game. The waterproof backing sheds damp ground.",
     "specs": [
       "82 x 57 inch size",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41lSPBHwFuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D4YYRBK1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D4YYRBK1?tag=rvgearlab-amz-20",
     "description": "The hotkoko puffy blanket measures 52 by 75 inches and packs to 8 by 12 inches at 2 lb. It has a 20D polyester shell and synthetic insulation, with button pairs that turn it into a comforter, shawl or sleeping bag.\n\nNext to the SUITEDNOMAD, it is much more insulated and packs smaller. Compared with the AlphaBeing, it is lighter with a puffy filling in place of wool.\n\nIt suits campers who want a quilt-style layer to pack in a bag. It can also form a sleeping bag with buttons.",
     "specs": [
       "52 x 75 inch, 2 lb",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51NuvCXjKLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B098KJMMGC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B098KJMMGC?tag=rvgearlab-amz-20",
     "description": "The Mart Cobra pack includes four aluminized Mylar foil blankets measuring 82 by 52 inches that fold small. They are listed to retain up to 90 percent of body heat and can serve as ground cover or shelter.\n\nNext to the AlphaBeing, it weighs almost nothing and costs a fraction. Compared with the Arcturus wool, it is an emergency layer rather than a bed blanket.\n\nIt suits campers who want a backup in the first aid kit or the car. Four sheets cover a family.",
     "specs": [
       "Four 82 x 52 inch sheets",

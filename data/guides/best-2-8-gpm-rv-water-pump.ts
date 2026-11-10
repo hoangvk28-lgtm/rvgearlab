@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/3179eoOkYGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HFCRS7WW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HFCRS7WW?tag=rvgearlab-amz-20",
     "description": "The BSTiltion is a 12V pump rated 3.0 GPM (11.6 L/min) with a pressure switch that starts the pump when line pressure drops below 45 PSI. Its listing cites a three-chamber diaphragm and advanced bearings for quiet running.\n\nAt 3.0 GPM it sits nearest the 2.8 GPM mark. The Ceelpeopar 2.5 is slightly below it in flow, and the 4.0 GPM units run well above it.\n\nRight for buyers who want a plain 12V RV pump close to 2.8 GPM. The built-in switch keeps it idle until a tap opens.",
     "specs": [
       "3.0 GPM, 12V DC",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41H+pP-9ChL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F7FP54ZG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F7FP54ZG?tag=rvgearlab-amz-20",
     "description": "The Ceelpeopar is a 12V pump rated 2.5 GPM at 60 PSI with a corrosion-resistant fiberglass-reinforced polypropylene manifold and an all-copper motor. Self-priming up to 10 feet, a 114 foot lift and an auto shut-off are listed.\n\nIt is the lowest-flow pump here apart from the sprayer family, and it is the only listing that names a chemical-resistant body. It is priced above the generic 4 GPM pumps.\n\nA fit for owners who want a small, sturdy pump for a van or a utility line. The auto shut-off adds a layer of run-dry safety.",
     "specs": [
       "2.5 GPM at 60 PSI",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51mGi47ch8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BV6JN54M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BV6JN54M?tag=rvgearlab-amz-20",
     "description": "The MAXZONE is a 12V diaphragm pump rated 4.0 GPM at 50 PSI that can run dry for a short time and has thermal overload protection. The box holds two 1/2 inch barbed adaptors and a 50 mesh inlet strainer.\n\nIt matches the PRODEEZ on flow and pressure at a similar price, and it names a 30 PSI maximum inlet pressure. It carries a full gallon more flow than the 3.0 GPM BSTiltion.\n\nRight for buyers who want a 4 GPM pump with strainer and barbs included. The thermal protection helps on hot days.",
     "specs": [
       "4.0 GPM at 50 PSI",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41mcjb8T+bL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D4QKF1GW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D4QKF1GW?tag=rvgearlab-amz-20",
     "description": "The PRODEEZ 33 Series is a 12V pump rated 4.0 GPM at 50 PSI with a stated 8.0 maximum amp draw. It lists short run-dry capability and ships with two 1/2 inch barbed adaptors and a 50 mesh strainer.\n\nIt states the amp figure that the MAXZONE leaves out, which helps with wire and fuse selection. Its price sits slightly below the MAXZONE.\n\nA good pick for owners wiring a fresh circuit who need a draw number. The 33 Series footprint is familiar in RV bays.",
     "specs": [
       "4.0 GPM at 50 PSI",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41PxLK4qtKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D77FG89G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D77FG89G?tag=rvgearlab-amz-20",
     "description": "The YoungTree is a 110V AC pump rated 4.0 GPM at 50 PSI, adjustable from 40 to 70 PSI. Self-priming to 9.8 vertical feet, a 131 foot lift, thermal overload protection and soft rubber feet are listed.\n\nIt is the only AC pump in the group, which suits full-hookup use where the 12V picks would drain a battery. A garden hose adapter ships with it.\n\nA good fit for owners who run a pump from shore power. It also works as a quiet transfer pump around the site.",
     "specs": [
       "110V AC, 4.0 GPM, 50 PSI",

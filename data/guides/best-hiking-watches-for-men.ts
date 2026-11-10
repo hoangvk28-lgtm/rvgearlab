@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/518vIMmPyfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09MPJPCDJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09MPJPCDJ?tag=rvgearlab-amz-20",
     "description": "The North Edge Apache is the most feature-rich watch here, with a compass, altimeter, barometer, thermometer, weather forecast, world time and a pedometer. The 50 mm metal case sits on a nylon band, with a spare silicone band in the box and a CR2032 battery rated for about 18 months.\n\nAgainst the CakCity watches, it adds altimeter and barometer readings that matter for tracking elevation and incoming weather. Compared with the KXAITO, it is a true digital multi-sensor rather than an analog-style chronograph.\n\nIt suits hikers who want trend readings on the wrist at a mid price. It is rated to 50 meters of water resistance.",
     "specs": [
       "Compass, altimeter, barometer",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51taS4WYkkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CF9WL3LV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CF9WL3LV?tag=rvgearlab-amz-20",
     "description": "The CakCity Compass watch is a unisex digital model with a compass, pedometer, dual time, countdown, stopwatch and EL backlight. A reinforced carbon fiber composite case and a 24 mm elastic nylon strap that weighs about 5 grams keep it light.\n\nCompared with the North Edge Apache, it trades the altimeter and barometer for a far lighter feel on the wrist. Against the second CakCity, it adds a listed compass.\n\nIt suits hikers who want a compass and timer on a very light, comfortable band. The 5ATM rating allows swimming and sweaty use.",
     "specs": [
       "Compass, pedometer, dual time",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41pj2sfxqOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FMF3Z4JZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FMF3Z4JZ?tag=rvgearlab-amz-20",
     "description": "The CakCity Military watch pairs a carbon fiber composite case with an upgraded LED backlight for dim-light reading. It has dual time, alarm, calendar, countdown, stopwatch and 50 meter water resistance on a 24 mm breathable nylon strap.\n\nNext to the CakCity Compass, it focuses on a brighter backlight and drops the listed compass. Against the KXAITO, it brings real digital functions and a lighter band.\n\nIt suits early-start hikers who need to read the time at the trailhead in the dark. It also handles alarms for summit turnaround times.",
     "specs": [
       "Upgraded LED backlight",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41X+PRPSdrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CHY7B7LP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CHY7B7LP?tag=rvgearlab-amz-20",
     "description": "The KXAITO Tactical is a six-hand multi-function quartz watch with three sub-dials for chronograph minute, second and tenth-second, plus a date window and luminous hands. It is rated to 30 meters of water resistance.\n\nIt is the lowest-cost watch here and the only one with an analog dial that does not rely on a digital screen. Compared with the CakCity watches, it keeps a classic analog look at the lowest cost.\n\nIt suits casual walkers who want a rugged-looking, simple watch. Luminous hands help in the dark after exposure to light.",
     "specs": [
       "Six-hand quartz chronograph",

@@ -21,7 +21,7 @@ export const products = withAmazonUrls([
     badge: "Best overall for portable solar panels for power stations",
     name: "200W Portable Solar Panel",
     amazonQuery: "200W Portable Solar Panel",
-    amazonUrl: "https://www.amazon.com/dp/B0DK6TM95M?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0DK6TM95M?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41ttB-hzeoL._SL500_.jpg",
     specs: ["Continuous output: 200W","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Continuous output","value":"200W"},{"label":"Buyer check","value":"Verify current model compatibility"},{"label":"Buyer check","value":"Verify current model compatibility"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -36,7 +36,7 @@ export const products = withAmazonUrls([
     badge: "Best heavy-duty option for portable solar panels for power stations",
     name: "ZOUPW 100W Portable Solar Panel",
     amazonQuery: "ZOUPW 100W Portable Solar Panel",
-    amazonUrl: "https://www.amazon.com/dp/B0CR42CFJ9?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0CR42CFJ9?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41O9ZbgIgkL._SL500_.jpg",
     specs: ["Continuous output: 100W","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Continuous output","value":"100W"},{"label":"Buyer check","value":"Verify current model compatibility"},{"label":"Buyer check","value":"Verify current model compatibility"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -51,7 +51,7 @@ export const products = withAmazonUrls([
     badge: "Best compact option for portable solar panels for power stations",
     name: "Renogy 200W Portable Solar Panel",
     amazonQuery: "Renogy 200W Portable Solar Panel",
-    amazonUrl: "https://www.amazon.com/dp/B0CNPHD4VY?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0CNPHD4VY?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41CvFaQf-fL._SL500_.jpg",
     specs: ["Continuous output: 200W","Listed weight: 13.89 lb","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Continuous output","value":"200W"},{"label":"Listed weight","value":"13.89 lb"},{"label":"Buyer check","value":"Verify current model compatibility"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -66,7 +66,7 @@ export const products = withAmazonUrls([
     badge: "Best value pick for portable solar panels for power stations",
     name: "FlexSolar 100W Foldable Portable Solar Panel Charger IP67 Waterproof",
     amazonQuery: "FlexSolar 100W Foldable Portable Solar Panel Charger IP67 Waterproof",
-    amazonUrl: "https://www.amazon.com/dp/B0DX25J31F?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0DX25J31F?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/512HvRFtq1L._SL500_.jpg",
     specs: ["Continuous output: 100W","Listed weight: 4.1 lb","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Continuous output","value":"100W"},{"label":"Listed weight","value":"4.1 lb"},{"label":"Buyer check","value":"Verify current model compatibility"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -81,7 +81,7 @@ export const products = withAmazonUrls([
     badge: "Best backup pick for portable solar panels for power stations",
     name: "Renogy 100W Portable Solar Panel",
     amazonQuery: "Renogy 100W Portable Solar Panel",
-    amazonUrl: "https://www.amazon.com/dp/B0D12RJXBQ?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0D12RJXBQ?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41Fga-dOmXL._SL500_.jpg",
     specs: ["Capacity: 320Wh","Continuous output: 100W","Listed weight: 8.86 lb","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Capacity","value":"320Wh"},{"label":"Continuous output","value":"100W"},{"label":"Listed weight","value":"8.86 lb"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -138,7 +138,7 @@ export const relatedGuides = [
 export const sources = [
   {
     "title": "200W Portable Solar Panel product page",
-    "href": "https://www.amazon.com/dp/B0DK6TM95M?tag=rvgearlab-20&linkCode=osi&th=1&psc=1"
+    "href": "https://www.amazon.com/dp/B0DK6TM95M?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1"
   },
   {
     "title": "CPSC portable generator safety",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31cRDLp7p6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C2V8PRJM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C2V8PRJM?tag=rvgearlab-amz-20",
     "description": "The baleaf Packable is a women's jacket listed as 100% waterproof with fully seam-sealed construction rated over 5000 mm, and a breathability rating of 3000 g per square meter per 24 hours. It weighs about 285 g, packs into its back pocket and has back vents and five pockets that hold a 6.5 inch phone.\n\nCompared with the 33,000ft Packable, it has seam sealing and a stated rating. Against the Zando Rain Jacket, it adds vents and more pockets.\n\nIt suits women who want a light, genuinely waterproof shell for hiking and running. The elastic rope hood has a cord adjuster.",
     "specs": [
       "Seam-sealed, 5000 mm rated",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31xpN+M9PxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CLR98667?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CLR98667?tag=rvgearlab-amz-20",
     "description": "The Columbia Watertight II is a men's waterproof nylon shell with an abrasion-resistant chin guard, two zippered side pockets, elastic cuffs and an elastic hem. It packs into its hand pocket and adds Omni-Shield to resist liquid absorption.\n\nCompared with the UIQUR Packable, it has a recognized brand and a stain-resisting finish. Against the baleaf Packable, it has fewer vents and a simpler build.\n\nIt suits men who want a trusted name and a shell that stuffs into a pocket. The nylon shell is described as durable enough for drizzle to downpour.",
     "specs": [
       "Waterproof nylon, Omni-Shield",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ZZZ0+mphL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B094Q5ZP3M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B094Q5ZP3M?tag=rvgearlab-amz-20",
     "description": "The 33,000ft Packable is a women's waterproof jacket with armpit air vents, a mesh lining, an elasticized hem and horse-hoof-shaped cuffs. All outside zippers are described as fully sealed against water, and a drop tail hem adds 1.5 inches at the back.\n\nCompared with the baleaf Packable, it adds sealed zippers and a drop tail for cycling. Against the Zando Rain Jacket, it adds mesh lining and vents.\n\nIt suits women who bike, run or hike in heavy rain and want sealed zippers. The listing says the jacket keeps you dry in the hardest downpours.",
     "specs": [
       "Fully sealed outer zippers",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31s8ZCrUdNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FX9GGXPY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FX9GGXPY?tag=rvgearlab-amz-20",
     "description": "The UIQUR Packable is a men's jacket in 100% polyester, described as waterproof, windproof and abrasion-resistant. The listing says even a size 4XL weighs only about 0.7 lb, with an adjustable hood, elastic cuffs and two zippered side pockets.\n\nCompared with the Columbia Watertight II, it costs much less and has no brand finish. Against the UIQUR Cycling Jacket, it states a very low weight and has no storage bag listed.\n\nIt suits men who want the lightest, cheapest shell for travel and hiking. The listing includes a size chart prompt.",
     "specs": [
       "100% polyester, waterproof, windproof",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31eovDCUOxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FX9DBH3N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FX9DBH3N?tag=rvgearlab-amz-20",
     "description": "The UIQUR Cycling is a men's waterproof and windproof polyester jacket with a drawstring-adjustable hood and hem. It has elastic cuffs, two large side-entry pockets and a portable storage bag.\n\nCompared with the UIQUR Packable, it adds a storage bag and an adjustable hem. Against the Columbia Watertight II, it has an adjustable hood and costs far less.\n\nIt suits cyclists and travelers who want an adjustable, packable men's shell. The listing mentions running, hiking and traveling.",
     "specs": [
       "Waterproof polyester, adjustable hood and hem",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41VvExDiCKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09KXMF4S6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09KXMF4S6?tag=rvgearlab-amz-20",
     "description": "The Zando Rain Jacket is a lightweight women's waterproof jacket that folds for travel, with an adjustable hood and hem drawstring. The listing describes a design that moves from city commutes to outdoor escapes in solid and color-blocked styles.\n\nIt is a simple, low-cost option next to the baleaf Packable and the 33,000ft Packable. The fabric blocks light rainwater according to the listing.\n\nIt suits women who want an inexpensive jacket for commutes and light showers. The waterproofing is described for light rain.",
     "specs": [
       "Lightweight waterproof, foldable",

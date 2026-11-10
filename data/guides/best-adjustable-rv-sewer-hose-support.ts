@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/518aJnHZzJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DP8R7CB5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DP8R7CB5?tag=rvgearlab-amz-20",
     "description": "The WELLUCK 15 foot support has an upgraded steeper slope and nine height settings. It ships with four guy ropes, a storage strap and a widened base with deep U-shaped cradles, and carries a 15 foot waste hose.\n\nAgainst the OULEME, it offers nine height settings, where the OULEME gives a stated 4 to 8 inch range. Against the Kohree, it adds guy ropes for wind.\n\nBest for campsites where the dump port sits at an awkward height and you want fine slope control. A strong match for windy parks.",
     "specs": [
       "Nine height settings",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41nkv4dwFAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CXCJFDLC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CXCJFDLC?tag=rvgearlab-amz-20",
     "description": "The OULEME support lists a 4 inch minimum and 8 inch maximum height with a sliding, removable stand. It is offered in 10, 15, 20 and 30 foot lengths, fits hoses up to 3.7 inches in diameter and includes six rubber cords for stability.\n\nAgainst the WELLUCK, it states the height range in inches and offers a 30 foot size. Against the BEBOBLY units, it adds more tie-down cords.\n\nBest for buyers who want the height range printed and a length choice up to 30 feet. A good fit for short runs where a 10 foot unit is enough.",
     "specs": [
       "4 to 8 inch height range",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/414bvCsEURL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CQ26BL47?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CQ26BL47?tag=rvgearlab-amz-20",
     "description": "The Kohree 20 foot support has a deep U-shaped design to prevent sagging and leaks, a flexible accordion that pulls apart quickly and hinge sections made of PP. It fits hoses up to 3 inches in diameter and carries up to a 20 foot waste hose.\n\nAgainst the BEBOBLY and Tlaleikejia 20 foot models, it uses a deeper U shape and is the most expensive of the three. Against the WELLUCK, it carries 5 feet more hose.\n\nBest for owners with a long run who want a ready-to-use support with a folding carry strap. A reliable pick for standard 3 inch hoses.",
     "specs": [
       "20 ft capacity, deep U cradle",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41u7akav05L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G3T4N3QN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G3T4N3QN?tag=rvgearlab-amz-20",
     "description": "The Tlaleikejia 20 foot support fits hoses up to 3.8 inches in diameter and has deep cradles, rubber bands and a carry strap. Its listing describes an angled downward slope, a flexible collapsible body that curves around obstacles and lightweight rust-free plastic.\n\nAgainst the Kohree, it accepts a wider hose and costs less. Against the BEBOBLY 20 foot unit, it lists nearly identical features at a slightly higher price.\n\nBest for buyers who run a thicker hose or a fat bayonet fitting. A fair pick for 20 foot runs.",
     "specs": [
       "20 ft, hoses up to 3.8 inches",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41HTDjgVNkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DP99SBWT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DP99SBWT?tag=rvgearlab-amz-20",
     "description": "The BEBOBLY 20 foot support has deep cradles, secure rubber bands and a carry strap, and carries a 20 foot waste hose with diameters up to 3.8 inches. Its collapsible design angles the hose downhill and curves around obstacles.\n\nAgainst the Tlaleikejia 20 foot unit, it lists the same capacity at a slightly lower price. Against the Kohree, it takes wider hoses at less cost.\n\nBest for buyers who want a 20 foot support without paying a premium. A sound everyday option.",
     "specs": [
       "20 ft, hoses up to 3.8 inches",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41qhpvhun+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DP98P7T7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DP98P7T7?tag=rvgearlab-amz-20",
     "description": "The BEBOBLY 15 foot support is the lowest-priced pick here, with deep cradles, a rubber band and a carry strap. It fits up to a 15 foot hose and diameters up to 3.8 inches.\n\nAgainst the BEBOBLY 20 foot unit, it carries 5 feet less hose and costs less. Against the WELLUCK, it lacks guy ropes and a stated height count.\n\nBest for short runs at sites close to the dump port. A budget option for a weekend camper.",
     "specs": [
       "15 ft, hoses up to 3.8 inches",

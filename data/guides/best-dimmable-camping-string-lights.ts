@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51l7v9IQneL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DMDW97XR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DMDW97XR?tag=rvgearlab-amz-20",
     "description": "The addlon is a 35 ft solar string with 10 plus 1 shatterproof Edison-style bulbs spaced 3 ft apart, and a total length of 41 ft with the lead wire. It lists three brightness levels and three lighting modes from the remote, plus four timer settings and automatic on at dusk.\n\nIt has the clearest dimming controls in the list and the highest water rating, at IP65, which the reel-style units do not state. A 180 degree adjustable solar panel helps catch the sun, and 24 plus hours of runtime is listed.\n\nIt suits campers with a longer stay and an awning or tree line to hang from. Each bulb socket has a hook, so setup needs no tools.",
     "specs": [
       "35 ft + 6 ft lead, IP65",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51laq8VTYTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D6R37CZW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D6R37CZW?tag=rvgearlab-amz-20",
     "description": "The Sutaig Solar lists 130 warm white LEDs over 39.4 ft, a 3600mAh battery and three adjustable brightness levels. Charging comes from the sun in 8 hours or USB-C in 4 hours, with remote timers of 4, 6 and 8 hours.\n\nIt is more portable than the addlon since a crank coils the string in about 30 seconds. Against the Staaricc and KUQIHUG, it lists true brightness levels and a bigger battery.\n\nIt suits tent and awning campers who want dimming and a compact reel. The remote makes bedtime adjustments easy.",
     "specs": [
       "39.4 ft, 130 LEDs",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/514rut6oowL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D8Q2M76J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D8Q2M76J?tag=rvgearlab-amz-20",
     "description": "The SMY lists 160 warm white LEDs on a 42.6 ft string with three adjustable brightness levels, five modes and a 3600mAh battery. Solar charging takes 8 hours, USB-C takes 4, and the remote has 4, 6 or 8 hour timers.\n\nIt is the longest string in the guide, well past the addlon's 35 ft of string. A Type-C phone port on the unit adds power bank use that the Sutaig Solar lacks.\n\nIt suits large awnings and long tree runs where dimming still matters. The phone port helps when a power bank is not handy.",
     "specs": [
       "42.6 ft, 160 LEDs",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51PJH0Y5kUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F243GVZB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F243GVZB?tag=rvgearlab-amz-20",
     "description": "The Staaricc is a pair of 4-in-1 reel string lights with a 2000mAh battery that lasts 6 to 12 hours depending on mode. It offers eight modes split into five camping modes and three more, a hanging loop and a 30 second crank storage.\n\nIt is the only two-unit set in the guide, so you can dim one tent and brighten another by choosing different modes. Brightness comes from mode selection rather than true levels, which sets it apart from the addlon and Sutaig Solar.\n\nIt suits a pair of tents or a two-zone camp. A four-step battery indicator shows remaining power.",
     "specs": [
       "Two reels, 2000mAh battery",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51l-m1LbKCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F3HZZNNP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F3HZZNNP?tag=rvgearlab-amz-20",
     "description": "The KUQIHUG lists 32.8 ft of RGB string lights powered by a 2000mAh cell that needs roughly five hours on the charger. It offers eight modes including strong light and weak light, and runs up to 30 hours on the string alone.\n\nIt has the lowest price here and a stated 30 hour string runtime, which is longer than the Staaricc's range. Dimming comes from its weak light mode rather than adjustable levels.\n\nIt suits budget campers who want a low-light mode for sleeping. The 7.4 ounce weight keeps it easy to pack.",
     "specs": [
       "32.8 ft RGB, 7.4 oz",

@@ -25,7 +25,7 @@ export const products = withAmazonUrls([
     badge: "Best overall camping kit",
     name: "Jackery Solar Generator 1000 v2 with 200W Panel",
     amazonQuery: "Jackery Solar Generator 1000 v2 200W",
-    amazonUrl: "https://www.amazon.com/dp/B0D2L1G66J?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0D2L1G66J?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41Li2jDBgqL._SL500_.jpg",
     specs: ["Capacity: 1,070Wh","Continuous output: 1,500W","Surge output: 3,000W","Listed weight: 23.8 lb"],
     specList: [
@@ -47,7 +47,7 @@ export const products = withAmazonUrls([
     badge: "Best lightweight kit",
     name: "Jackery Solar Generator 300 with 40W Panel",
     amazonQuery: "Jackery Solar Generator 300 40W",
-    amazonUrl: "https://www.amazon.com/dp/B0G429L5B4?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0G429L5B4?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41S0DhkhCvL._SL500_.jpg",
     specs: ["Capacity: 292Wh","Continuous output: 300W","Surge output: 600W","Listed weight: 7.5 lb"],
     specList: [
@@ -69,7 +69,7 @@ export const products = withAmazonUrls([
     badge: "Best station-only upgrade",
     name: "Jackery Explorer 1000 v2",
     amazonQuery: "Jackery Explorer 1000 v2",
-    amazonUrl: "https://www.amazon.com/dp/B0D7PPG25F?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0D7PPG25F?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/31+D1tNXreL._SL500_.jpg",
     specs: ["Capacity: 1,070Wh","Continuous output: 1,500W","Surge output: 3,000W","Battery chemistry: LiFePO4"],
     specList: [
@@ -91,7 +91,7 @@ export const products = withAmazonUrls([
     badge: "Best mid-capacity value",
     name: "GRECELL EB500",
     amazonQuery: "GRECELL EB500 portable power station",
-    amazonUrl: "https://www.amazon.com/dp/B0B9H8W8HP?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0B9H8W8HP?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41hnRsSVogL._SL500_.jpg",
     specs: ["Capacity: 519Wh","Continuous output: 500W","Included panel: 100W","Runtime claim: Up to 9 hours"],
     specList: [
@@ -113,7 +113,7 @@ export const products = withAmazonUrls([
     badge: "Best compact LFP station",
     name: "ALLWEI PPS300-4",
     amazonQuery: "ALLWEI PPS300 LiFePO4",
-    amazonUrl: "https://www.amazon.com/dp/B08CXN4TZR?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B08CXN4TZR?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41lUtZAkajL._SL500_.jpg",
     specs: ["Capacity: 256Wh","Continuous output: 300W","Surge output: 600W","Listed weight: 6.4 lb"],
     specList: [
@@ -198,6 +198,6 @@ export const relatedGuides = [
 
 export const sources = [
   { title: "NREL solar resource maps", href: "https://www.nrel.gov/gis/solar-resource-maps" },
-  { title: "Jackery Solar Generator 1000 v2 listed specifications", href: "https://www.amazon.com/dp/B0D2L1G66J?tag=rvgearlab-20" },
-  { title: "GRECELL EB500 listed specifications", href: "https://www.amazon.com/dp/B0B9H8W8HP?tag=rvgearlab-20" }
+  { title: "Jackery Solar Generator 1000 v2 listed specifications", href: "https://www.amazon.com/dp/B0D2L1G66J?tag=rvgearlab-amz-20" },
+  { title: "GRECELL EB500 listed specifications", href: "https://www.amazon.com/dp/B0B9H8W8HP?tag=rvgearlab-amz-20" }
 ];

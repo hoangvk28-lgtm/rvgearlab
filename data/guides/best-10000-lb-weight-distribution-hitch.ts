@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ZjOf+aK6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01MDMEUJM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01MDMEUJM?tag=rvgearlab-amz-20",
     "description": "The Fastway e2 92-00-1065 states 10,000 lb and 1,000 lb tongue weight and has built-in two-point sway control. The Fastway e2 92-00-1065 is a trunnion-style weight distribution hitch with built-in two-point sway control, rated 10,000 lb trailer weight and 1,000 lb tongue weight in its title. The listing says the e2 can stay attached with no backing or turning restrictions, unlike add-on friction systems.\n\nIt states both ratings, unlike the CURT kits, and includes sway control, unlike VEVOR 10000 lb. It costs far more than VEVOR.\n\nBest for a 10,000 lb trailer wanting integrated sway control. Match your trailer's loaded tongue weight to the 1,000 lb rating, and measure your receiver before ordering.",
     "specs": [
       "10,000 lb trailer rating",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41uKUTDbFFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G1FYZQBR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G1FYZQBR?tag=rvgearlab-amz-20",
     "description": "VEVOR's kit states 10,000 lb and 1,000 lb tongue weight and includes a 2 inch shank and ball. VEVOR's weight distribution hitch lists 10,000 lb maximum towing and 1,000 lb maximum tongue weight and includes a 2-inch shank and a 2-5/16 inch ball. The head is solid carbon steel and the ball is chrome plated.\n\nIt states the same ratings as Fastway e2 92-00-1065 at about half the price, but gives little on bar type or sway control.\n\nBest for a budget 10,000 lb kit where you will verify details. It is the low-cost complete kit here, so check the spring bar type and warranty before relying on it for a heavy trailer.",
     "specs": [
       "10,000 lb GTW, 1,000 lb TW",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31oQBnO4g+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0058TF8IW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0058TF8IW?tag=rvgearlab-amz-20",
     "description": "CURT's 17332 is a short trunnion bar kit rated up to 10,000 lb with 28-3/8 inch bars. CURT's 17332 is a short trunnion bar weight distribution hitch rated up to 10,000 lb with a 2-inch shank. Its 28-3/8 inch forged steel spring bars slide into a heavy-duty formed head that adjusts for leveling.\n\nIt costs less than the e2 and has no sway control or tongue weight rating. It matches CURT 17302 Long except for bar length.\n\nBest for a 10,000 lb trailer with a short A-frame. It is a plain weight distribution kit, so add a sway solution separately if your trailer needs one, and confirm tongue weight capacity with the seller.",
     "specs": [
       "10,000 lb, 2-inch shank",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31VaFOdr7iL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B000A8ONXW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B000A8ONXW?tag=rvgearlab-amz-20",
     "description": "CURT's 17302 has longer 30-5/8 inch trunnion bars and the same 10,000 lb rating. CURT's 17302 is the long-bar twin of the 17332: a trunnion bar weight distribution hitch rated 10,000 lb GTW with a 2-inch shank and 30-5/8 inch forged steel spring bars. The head is a heavy-duty formed piece that adjusts for leveling.\n\nIt costs the same as CURT 17332 Short and suits trailers needing extra reach. It states no tongue weight.\n\nBest for a trailer with a longer A-frame. The longer bars suit trailers with a longer A-frame reach, so measure before choosing between the long and short versions.",
     "specs": [
       "10,000 lb GTW, 2-inch shank",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31WUFDloboL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00MEIFPCY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00MEIFPCY?tag=rvgearlab-amz-20",
     "description": "CURT's 17052 is an MV round bar kit rated up to 10,000 lb with a grease zerk. CURT's 17052 is an MV round bar weight distribution hitch rated up to 10,000 lb with a 2-inch shank. A grease zerk fitting provides ongoing lubrication of the bar contact points, and the listing says grease must be applied to it.\n\nIt is the cheapest CURT here and needs greasing. It states no tongue weight.\n\nBest for a budget round bar setup that will be greased. It is the budget round bar option from CURT, and it needs periodic greasing to keep the bars moving smoothly.",
     "specs": [
       "10,000 lb MV round bar",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31uLDlcOtFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CZW5BZNY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CZW5BZNY?tag=rvgearlab-amz-20",
     "description": "CURT's 17510 TruTrack 2P is trailer-mounted with a single-pin quick-connect and a 10,000 lb rating. CURT's 17510 is a trailer-mounted TruTrack 2P weight distribution hitch rated at 10,000 lb in its title. Its quick-connect coupling locks with one pin, so the spring bars stay mounted on the trailer instead of being attached and detached at every hookup.\n\nIt costs far more than any other kit here and states no tongue weight. It keeps the bars on the trailer.\n\nBest for frequent hookups where cost is secondary. The listing does not state a tongue weight rating, so confirm it against your loaded tongue weight before ordering.",
     "specs": [
       "10,000 lb TruTrack 2P",

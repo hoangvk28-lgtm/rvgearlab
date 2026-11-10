@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41KPaX8UwTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08HMWDNVX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08HMWDNVX?tag=rvgearlab-amz-20",
     "description": "The Eventek is a work and tent light with a 20000mAh lithium polymer battery rated for up to 144 hours. Dual USB-A output ports charge phones and tablets, and the 12W LED panel dims infinitely across four modes.\n\nIt has the biggest battery of the group by far, ahead of the 6700mAh ZMNT and 4600mAh CAPETRONIX. An IPX5 rubber-sealed body and a 90 degree rotatable stand make it work-light friendly.\n\nIt suits campers who need real phone charging power during multi-day trips. A storage bag, hook and carabiner come in the box.",
     "specs": [
       "20000mAh, up to 144 hours",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31LK3sZEb3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09GY73946?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09GY73946?tag=rvgearlab-amz-20",
     "description": "The ZMNT combines a 6700mAh power bank with 1000 lumens and four modes, including SOS. Up to 300 hours is claimed at the lowest setting, and it charges a phone during camping or hiking.\n\nIt is smaller than the Eventek and keeps more battery than the CAPETRONIX. A magnet and hook let it stick to metal or hang.\n\nIt suits solo campers and van dwellers who want a compact light that also tops up a phone. A 2-year warranty is named in the listing.",
     "specs": [
       "6700mAh power bank",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41EYSwx1tSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B5WKNNFP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B5WKNNFP?tag=rvgearlab-amz-20",
     "description": "The CAPETRONIX pairs a 3200 lumen double COB panel with a 4600mAh battery that charges a phone through a USB output. It offers five modes, including red steady and red strobe, and an IPX4 body.\n\nIt lists the strongest light of the five and a battery that sits between the ZMNT and Consciot. Folding hooks and a 7 by 4 inch body at about 1.2 lb make it fairly compact.\n\nIt suits anyone who wants strong light plus phone backup in one lamp. The red modes work for signaling.",
     "specs": [
       "3200 lumens, 4600mAh",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41KOKSWPTzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C3R3SPHP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C3R3SPHP?tag=rvgearlab-amz-20",
     "description": "The Consciot is a two-pack of lantern flashlights with six light modes. The front flashlight runs 350 lumens on high and 120 on low, and a side lantern adds red light, all charged over USB-C.\n\nIt is the only pair here, so one can stay in the tent while one goes on the trail. Each weighs 0.76 pounds and doubles as a phone power bank.\n\nIt suits families with kids who want two small lights and light phone top-ups. USB-C cables come in the box.",
     "specs": [
       "Two lights, 350 lumens high",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31V9-zGXoRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GJSHGL24?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GJSHGL24?tag=rvgearlab-amz-20",
     "description": "The Zanoid is a rechargeable flashlight, 4.06 inches long, with a zoomable beam, Type-C fast charging and an IPX7 rating. It doubles as a power bank and shows charge on a digital display.\n\nIt is the smallest and the most waterproof of the five, at IPX7. It is a flashlight rather than a lantern, so it throws a beam instead of lighting a tent.\n\nIt suits hikers who want one pocket light that also holds a charge for a phone. Adjustable focus switches between spot and flood.",
     "specs": [
       "4.06 inch zoom flashlight",

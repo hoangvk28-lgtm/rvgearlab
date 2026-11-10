@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31DNIElzpQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0856PHNLX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0856PHNLX?tag=rvgearlab-amz-20",
     "description": "The Victron SmartShunt 500A is the benchmark shunt monitor for RVs. It reports state of charge, time remaining, voltage, current, amp hours, charge cycles, deepest discharge, and voltage highs and lows in the VictronConnect app, and works from 6.5 to 70V.\n\nWhat puts it above the BMV-712 ranked second is price and simplicity: it skips the wired display and does everything through the phone. Over the REDARC and LiTime units below, its advantage is VE.Smart Networking, which shares live battery data with Victron solar chargers so they charge more precisely. An aux input can monitor a second battery, a midpoint, or an optional temperature sensor.\n\nThis is the pick for most RV owners, particularly anyone with or planning Victron gear. The caveat: with no screen, you need your phone to see anything, and the 500A shunt may be undersized for a large inverter.",
     "specs": [
       "500A shunt, 6.5V to 70V",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41LghL1M1QL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B084M2XYK4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B084M2XYK4?tag=rvgearlab-amz-20",
     "description": "The Victron BMV-712 is the SmartShunt's sibling with a built-in display. It shows state of charge, voltage, current, and energy or time remaining on a wall-mounted screen, adds Bluetooth for the VictronConnect app, and works from 6.5 to 70V DC.\n\nIt ranks second only because the display costs more and requires a cable run from the shunt. In exchange, it adds a programmable relay that can control other devices, such as starting a generator at a low state of charge, a feature none of the cheaper picks below offer. Its extra input can measure battery temperature, a midpoint, or a second battery.\n\nChoose it if you want a glanceable readout by the door and relay control. The caveat is installation: Victron itself advises consulting a licensed professional for the high-current shunt wiring.",
     "specs": [
       "Built-in display",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/318Nej35WYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D2QV43RB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D2QV43RB?tag=rvgearlab-amz-20",
     "description": "The REDARC 500A monitor stands out for Bluetooth range. It uses Bluetooth 5.1 with a stated range of up to 42 meters and reports state of charge, time remaining, and current flow in the RedVision app, which also ties into REDARC's own charging gear.\n\nNext to the Victron units above, it is limited to 12V systems and lacks the aux input and solar charger networking, which places it third. Against the LiTime below, it costs about $99 more, mainly for brand reputation in the overlanding world and the long range.\n\nPick it if you own REDARC chargers or want to check the battery from a campsite away from the rig. The caveat is a short listing that omits alarm and history detail, so confirm the features you need in RedVision before buying.",
     "specs": [
       "500A, 12V systems",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41KiVa2nGBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GWCG4Q6P?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GWCG4Q6P?tag=rvgearlab-amz-20",
     "description": "The LiTime 500A smart shunt offers Victron-style data for about $100. It shows charge and discharge current, voltage, power, and state of charge in an app, logs history such as discharge capacity, cycles, and voltage highs and lows, and works across 8 to 120V systems.\n\nCompared with the REDARC above, it adds adjustable alarms for low capacity, temperature, over-voltage, under-voltage, and over-current, plus a status light that flashes on a fault. It does not share data with chargers like the Victron SmartShunt, and its warranty is 1 year.\n\nThis suits LiTime battery owners and anyone wanting a full-featured shunt without Victron pricing. The caveat is that short warranty, and you should verify app support for your phone before installing.",
     "specs": [
       "500A, 8V to 120V",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41C7gevyKGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CNJWZCCY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CNJWZCCY?tag=rvgearlab-amz-20",
     "description": "The Renogy Battery Shunt 300 is built for the Renogy ecosystem. It records history and sends alerts through the DC Home app, supports remote monitoring through Renogy ONE, and includes a battery temperature sensor for lead-acid, LiFePO4, and lithium-ion batteries.\n\nIts 300A rating is lower than the 500A LiTime above, which is why it ranks below it despite costing about $19 more. The included temperature sensor is a real plus over the ANCEL below, especially for lithium owners who camp in the cold.\n\nBuy it if you already run Renogy solar or batteries and want everything in one app. The caveat: 300A limits it to modest inverter loads, and Renogy notes it is not currently compatible with the Renogy ONE M1.",
     "specs": [
       "300A shunt",
@@ -165,7 +165,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51xUfMoL6kL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F91B3NLN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F91B3NLN?tag=rvgearlab-amz-20",
     "description": "The ANCEL BM1000 is the least expensive full shunt monitor here at about $90. It tracks state of charge, voltage, current, power, and remaining capacity on a phone, keeps up to 30 days of energy history, and works on 10 to 120V systems including LiFePO4, AGM, and lead-acid.\n\nIts 400A shunt sits between the Renogy 300A above and the 500A units, and ANCEL sizes it for typical 100 to 300A peak loads. It edges the Renogy on installation help, with wrong-proof ports and QR video guidance, but has no temperature sensor and only about 10 meters of Bluetooth range.\n\nThis is a good first monitor for a DIY owner. The caveat: ANCEL notes it is not a load tester or starter battery diagnostic tool, and walls or metal compartments can cut its Bluetooth range.",
     "specs": [
       "400A, 10V to 120V",

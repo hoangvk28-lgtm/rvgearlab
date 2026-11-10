@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Ypf-hGnNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CSPKCJZK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CSPKCJZK?tag=rvgearlab-amz-20",
     "description": "The Kelty Cosmic 20 is a 550 fill power RDS-traceable down mummy in recycled nylon and polyester taffeta with PFAS-free DWR. It prints an ISO limit rating of 21 degrees F, an ISO extreme rating of -11 degrees F and lengths for Short, Regular and Long sleepers.\n\nIt is the only bag here with ISO figures, and its dual-direction zippers and silky fabrics are more refined than the QEZER's. It costs more than every other pick.\n\nIt suits backpackers who want a proven down mummy with verified limits. Size choice matters because each size adds 6 inches.",
     "specs": [
       "550 FP RDS down mummy",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31zqqRbeRuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GCY58RRV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GCY58RRV?tag=rvgearlab-amz-20",
     "description": "The HLITMOUT uses RDS-certified white duck down at 680 fill power in a 400T 40D nylon shell, with 0.88 lb or 1.1 lb of down depending on the version. The 0.88 lb version weighs 2.16 lb including a pillow.\n\nIt has the highest fill power of the three and the lowest stated weight. It adds side zipper pockets and a pillow, and it costs less than the Kelty.\n\nIt suits backpackers who want the lightest down mummy with the highest fill power. It prints no temperature rating.",
     "specs": [
       "680 FP RDS duck down",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41um4BWRCYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DBVL1CRC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DBVL1CRC?tag=rvgearlab-amz-20",
     "description": "The QEZER is a 600+ fill power duck down mummy sized 84.65 by 31.89 inches with a wide trapezoidal foot box. The 2.2 lb down version weighs 3.64 lb and stores at 14.96 by 7.48 inches, while a 1.1 lb version weighs 2.34 lb and stores at 13.78 by 6.3 inches.\n\nIt costs less than the Kelty and prints weights and pack sizes for both fill tiers. Its zippers can attach to a second bag.\n\nIt suits spring to autumn backpackers who want real down at a moderate price. The listing also calls it suitable for cold winter weather.",
     "specs": [
       "600+ FP duck down",

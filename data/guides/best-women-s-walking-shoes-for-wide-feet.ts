@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41PSq4jRnIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GDX7CYGT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GDX7CYGT?tag=rvgearlab-amz-20",
     "description": "The LeIsfIt Wide Slip-On is a barefoot-style walking shoe with an extra roomy toe box, a memory foam insole and a breathable mesh upper. A textured rubber outsole grips indoor floors and outdoor paths, and the stretchy collar has an adjustable drawstring.\n\nCompared with the Scurtain White, it adds memory foam cushioning and a snug drawstring lock. Next to the Ryka Devotion X, it has more toe room and a far lower price.\n\nIt suits women who want a soft, wide, easy shoe for daily walks and errands. Slip-on entry saves effort on busy days.",
     "specs": [
       "Extra roomy toe box",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41yosY46dCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DNYW24Z9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DNYW24Z9?tag=rvgearlab-amz-20",
     "description": "The Scurtain White is a wide width barefoot walking shoe with an upgraded wide toe design and adjustable straps. The listing describes a stretchy three-dimensional knit upper and a zero-drop, one-piece rubber sole with non-slip treads.\n\nCompared with the LeIsfIt Wide Slip-On, it adds adjustable straps that tailor the fit around the foot. Against the Scurtain Black, it offers the same wide construction in white.\n\nIt suits women with bunions or swollen feet who want a roomy, adjustable shoe. The listing mentions neuropathy, edema and orthopedic uses.",
     "specs": [
       "Wide width, adjustable straps",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41KmqQjf7NL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DNYSP4YK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DNYSP4YK?tag=rvgearlab-amz-20",
     "description": "The Scurtain Black is a black mesh slip-on in the same wide diabetic-friendly style, with an upgraded wide toe design and adjustable straps. The listing names hospital, nursing and recovery use and describes a stretchy knit upper.\n\nIt matches the Scurtain White in fit and feel and hides dirt better. Compared with the Ryka Devotion X, it is cheaper and offers more toe room, with a flatter sole.\n\nIt suits women who are on their feet at work and want a roomy shoe in a dark color. The rubber sole has non-slip treads.",
     "specs": [
       "Wide toe design, adjustable straps",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41JDJPm4ToL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C5ZGRM8J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C5ZGRM8J?tag=rvgearlab-amz-20",
     "description": "The Ryka Devotion X is a fitness walking shoe made for a woman's foot shape, with a narrower heel and a roomier toe. It has full-length RE-ZORB cushioning with extra in the forefoot and heel, a breathable mesh upper and a padded heel.\n\nAgainst the LeIsfIt Wide Slip-On, it adds a real lace-up structure and much more cushioning. Compared with the Brooks Adrenaline GTS 25, it costs far less and has a roomier toe by design.\n\nIt suits women who want a cushioned fitness walking shoe with a bit more forefoot space. The lace-up front allows a secure fit.",
     "specs": [
       "Full-length RE-ZORB cushioning",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41i27xrZOSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DM3RJ5MW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DM3RJ5MW?tag=rvgearlab-amz-20",
     "description": "The Brooks Adrenaline GTS 25 is a supportive running and walking shoe with GuideRails support, nitrogen-infused DNA Loft v3 cushioning and an engineered mesh upper with a flat-knit collar. The outsole and midsole are designed for smooth transitions.\n\nIt is the most structured and costly shoe here, compared with the soft slip-ons and the Ryka Devotion X. The GuideRails system keeps the foot in its natural motion path.\n\nIt suits walkers who want support and cushioning and can pick a wide option in the size menu. This listing shows a medium width.",
     "specs": [
       "GuideRails support system",

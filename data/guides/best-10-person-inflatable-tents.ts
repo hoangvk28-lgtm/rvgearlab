@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41HYXMH7QCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GVNJS7H3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GVNJS7H3?tag=rvgearlab-amz-20",
     "description": "This 13 by 10 ft tent is listed for 8 to 10 people with 129 sq ft of usable space measuring 118 by 157 by 82.6 inches. It has 6 inch integrated air columns, a blackout interior that blocks 95 to 98 percent of sunlight, two doors, two windows, two skylights, a stove jack and an AC port.\n\nIt has the sturdiest beams in the group, against the 4.7 inch columns the listing calls standard, and a 14 oz PVC floor. Compared with the QIFA it costs far less and compared with the Wixeeua it adds blackout fabric.\n\nIt is the pick for hot-climate groups that want a cool, dark interior. The ports let you run a power cord or an AC unit.",
     "specs": [
       "8-10 person, 129 sq ft",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41R74aG9iZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FMF2CJVK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FMF2CJVK?tag=rvgearlab-amz-20",
     "description": "The ABORON is an 8 to 10 person inflatable with two separate rooms. The PVC air beam structure inflates in 3 minutes, with PU3000mm coating, large windows and a hand pump in the package.\n\nPriced below every other tent here, it also inflates fastest at 3 minutes. Against the FICISOG it lists no stove jack, and compared with the QIFA it costs far less.\n\nIt suits groups that want two rooms and a quick inflation on a budget. The pressure-regulated beams are leak-proof, per the listing.",
     "specs": [
       "8-10 person, 2 rooms",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51EEYYJOEZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H9XXWL9B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H9XXWL9B?tag=rvgearlab-amz-20",
     "description": "The Wixeeua is an 8 to 12 person inflatable with 129 sq ft and a 6.5 ft center. The listing says it fits 8 comfortably and up to 12 with sleeping bags, and it has a PVC skylight with a zip-closed curtain and a stove jack.\n\nIt sets up in 10 minutes and uses 420D Oxford with a 3000mm rating. Against the Blackout tent it adds a comfortable-fit note and a 3000mm rating, and compared with the FICISOG it gives a bigger floor.\n\nIt suits groups who want light and a hot-tent option at a mid price. A closed curtain gives privacy.",
     "specs": [
       "8-12 person, 129 sq ft",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51t5LsC07AL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FW53CGND?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FW53CGND?tag=rvgearlab-amz-20",
     "description": "The WaldWander measures 15.75 ft by 11.81 ft by 7.2 ft and has two rooms. A chimney window handles a stove, and an additional rainfly gives protection from light rain and sun.\n\nIt has the largest listed floor of the six and a 5 to 10 minute setup. Against the Blackout tent it offers a bigger footprint and a rainfly, while the Blackout tent offers blackout fabric.\n\nIt suits large groups who want maximum floor and separate rooms. The door curtain opens wide for loading gear.",
     "specs": [
       "8-12 person, 15.75 x 11.81 ft",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41uNSBXfMdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HDBFHXV6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HDBFHXV6?tag=rvgearlab-amz-20",
     "description": "The FICISOG is an 8 to 10 person two-room inflatable with 116 sq ft and a 6.5 ft standing height. The air beam frame inflates in about 5 minutes with a manual pump, and it has 420D Oxford with PU3000 and a built-in stove jack.\n\nIt has a smaller floor than the Wixeeua and costs more, with a two-room layout. One person can set it up alone.\n\nIt suits groups who want two rooms and a hot-tent option. The stove and chimney are not included.",
     "specs": [
       "8-10 person, 116 sq ft",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51av4ADtjCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GQH6FR24?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GQH6FR24?tag=rvgearlab-amz-20",
     "description": "The QIFA is an 8 to 10 person inflatable with 129 sq ft and 600D Oxford tech cotton fabric. The listing puts setup at 8 to 15 minutes with a manual pump and flat deflation in 5 to 10 minutes.\n\nIt is the priciest of the six and the heaviest fabric listed, at 600D compared with 420D elsewhere. Against the ABORON it costs far more, and the listing says sealed seams and a wind-resistant structure.\n\nIt suits groups that camp in rough conditions and want a heavy fabric. Deflation is simple, since the tent collapses once the valves open.",
     "specs": [
       "8-10 person, 129 sq ft",

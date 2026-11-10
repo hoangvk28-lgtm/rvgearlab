@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/3156WMcVK1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DPNGT4TT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DPNGT4TT?tag=rvgearlab-amz-20",
     "description": "The CORE dome spreads across a floor of roughly ten feet by nine with a 66 inch center, enough for a pair of queen air beds. Ball-and-socket poles speed assembly, and 1200mm H2O Block fabric sits under a fully taped fly with sealed seams.\n\nTaped and sealed construction is a step above the ADSMART 6 Person, and the overhead gear loft with a lantern hook is a feature the HG 10 Person leaves out. The floor is smaller than the HG, which suits families of three to four better.\n\nWeekend families who want a dependable weather shell and organized storage will find it a solid anchor. Wall pockets give phones and keys a place of their own.",
     "specs": [
       "Ten ft by nine ft floor",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41O6z8jy0zL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DFYF7GKG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DFYF7GKG?tag=rvgearlab-amz-20",
     "description": "The UNP SUV dome measures ten feet square with an 84 inch center height and sleeps four to six adults, with room for two air mattresses. An adjustable vehicle sleeve with straps attaches to CUVs, SUVs and minivans, and four mesh windows plus a mesh top move air.\n\nIt is the only tent here that connects to a vehicle, so it extends the SUV cargo area into sleeping space. The vehicle sleeve and tall peak set it apart from the CORE 6-Person Dome, which stands alone.\n\nRoad-trippers and tailgate campers get the most from it. Its rainfly has taped seams for storms.",
     "specs": [
       "Ten-foot square, 84 in peak",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31wtzejDcqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GT2VG1JQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GT2VG1JQ?tag=rvgearlab-amz-20",
     "description": "The HG dome has a 168 by 132 inch floor and a 74 inch center, a removable divider curtain that splits it into two rooms, and an electrical port. It uses 185T polyester with a PU1000 coating and weighs 20.5 lb.\n\nIt offers more floor than any other dome here, and the divider creates a privacy option the CORE and UNP lack. Its 1000mm rating is lower than the CORE, which shifts it toward fair-weather groups.\n\nLarge families and group trips benefit from the extra room. It sets up in about ten minutes.",
     "specs": [
       "Floor 14 ft by 11 ft",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51XG5y8Lw0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F5WKZDS6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F5WKZDS6?tag=rvgearlab-amz-20",
     "description": "Built for three or four sleepers, the Vidalido carries a 1500mm PU shell, a long fly that doubles as a vestibule, and fiberglass poles with corrosion-resistant joints. Hooks in the ceiling, adjustable roof vents and a skylight round out the interior.\n\nIts fly is more thorough than the ADSMART's, and the vents give it better condensation control than the ZIKBRYNOO. The smaller footprint makes it fit couples and small families.\n\nCampers in damp regions will value the dry entry area. Mesh panels bring airflow.",
     "specs": [
       "1500mm PU, extended fly",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31HbmFQTjSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GJSG9FBB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GJSG9FBB?tag=rvgearlab-amz-20",
     "description": "The ADSMART is a 6-person instant dome with a ten by nine foot floor and a 66 inch peak. Pre-attached thickened metal poles raise it in about 60 seconds, four steel leg poles hold it steady, and three large mesh windows ventilate it.\n\nIt folds to a bag around eight by eight by 42 inches and weighs 16 lb, so it is the lightest six-person here. The CORE 6-Person Dome is better sealed, while the ADSMART wins on speed.\n\nFamilies who dread pole assembly will appreciate it. Two people can pitch and pack in minutes.",
     "specs": [
       "Ten by nine ft, 66 in peak",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Y-FpT57GL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G4D44D18?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G4D44D18?tag=rvgearlab-amz-20",
     "description": "The ZIKBRYNOO is an instant pop-up for four to six with a floor about 10.5 ft long and 7.2 ft wide and a 51 inch peak. Steel tubes protect the fiberglass pole junctions, and four mesh windows plus two doors with double panels supply airflow.\n\nIt opens by tossing it in the air, which is the quickest pitch in the group and the cheapest large floor. The ADSMART and CORE are sturdier in wind.\n\nBeach days, backyard sleepovers and short trips suit it well. Stake it down in breezy spots.",
     "specs": [
       "10.5 ft by 7.2 ft floor",

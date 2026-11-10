@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31hRboIX8pL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FQV6LMVX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FQV6LMVX?tag=rvgearlab-amz-20",
     "description": "The EcoFlow DELTA 3 Max stores 2048Wh in a LiFePO4 pack with 2400W output and up to 3400W in X-Boost mode. It charges 0 to 80 percent in 1.13 hours through X-Stream technology, switches in under 10ms and offers smart app control to monitor use.\n\nIt states the highest boosted output of the five, 3400W, and the quickest stated 80 percent time. Its LiFePO4 pack is engineered for 10 years of daily use in a lighter build.\n\nIt suits households and campers who want a premium station with the fastest recharge. The app helps set priorities during an outage.",
     "specs": [
       "2048Wh, 2400W, 3400W X-Boost",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/415Ex6a1IZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GKRTX336?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GKRTX336?tag=rvgearlab-amz-20",
     "description": "The BLUETTI Elite 300 packs 3014Wh into a body the listing calls nearly 59 percent smaller than traditional large power stations, with 2400W output. It has a TT-30 RV outlet, a 12V/30A DC output, a 10ms UPS and app control, and recharges by AC or solar.\n\nIt has 966Wh more energy than the 2048Wh models here and an RV outlet, which the EcoFlow DELTA 3 Max does not list. It is the only pick with a 30A DC output.\n\nIt suits RV owners and home-backup users who need hours of runtime at high loads. The 10ms UPS keeps electronics running through a switch.",
     "specs": [
       "3014Wh, 2400W output",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31QV+on-oxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DRYQSXWV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DRYQSXWV?tag=rvgearlab-amz-20",
     "description": "The AFERIY P210 lists 2048Wh with a 2400W inverter (4800W peak), LiFePO4 rated for 3500-plus cycles and 16 ports, with a server-level UPS under 10ms. It uses pure sine wave AC for both input and output and backs the pack with a 7-year extended warranty.\n\nIt states a 7-year extended warranty, the longest in the group, and the highest port count of the five. The 4800W peak covers starts that the DYNESS and GRECELL do not state.\n\nIt suits buyers who weigh warranty and ports highest. The 10-year LFP design life is listed.",
     "specs": [
       "2048Wh, 2400W, 4800W peak",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41njOPSiAVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GYF47VK2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GYF47VK2?tag=rvgearlab-amz-20",
     "description": "The DYNESS lists 2048Wh and 2400W with 13 output ports including 6 AC outlets and a 100W USB-C PD. It recharges 0 to 80 percent in 1.8 hours and 100 percent in 2.3 hours with AC charging, uses LiFePO4 rated 4,000-plus cycles and offers a UPS function.\n\nIt states 4,000 cycles, more than the AFERIY P210's 3,500, at a lower price than the EcoFlow DELTA 3 Max. Six AC outlets let several appliances plug in without a power strip.\n\nIt suits households and campers who want a solid mid-price station. The UPS covers routers, computers and medical equipment.",
     "specs": [
       "2048Wh, 2400W, 6 AC outlets",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/412K+HcVtlL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GD1BBVS8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GD1BBVS8?tag=rvgearlab-amz-20",
     "description": "The GRECELL 2400W lists 1843.2Wh and 2400W output with 12 ports, including four 2400W AC outlets and two 100W USB-C PD ports. It switches to battery in 0.1 seconds, recharges from an AC adapter in 1.6 to 2.5 hours and uses LiFePO4 rated 3500-plus cycles.\n\nNothing else here costs less, and it carries about 200Wh less than the 2048Wh models. It still states 3500 cycles and a UPS function.\n\nIt suits budget-minded households that want 2400W output for backup. Bidirectional inverter charging keeps recharge short.",
     "specs": [
       "1843.2Wh, 2400W, 12 ports",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/315R9AKhXhL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GS5C8SV7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GS5C8SV7?tag=rvgearlab-amz-20",
     "description": "The Yueidung is a detachable ceiling-style tent fan with an 8000mAh battery, four speeds that include a natural wind mode and a three-level light. A four-hour fast charge gives about ten hours of fan use, and the remote works from up to 3 meters away.\n\nIt carries a bigger battery than the two 7200mAh fans below it and adds a natural wind mode that varies airflow to feel like a breeze. It costs about $1 to $2 more, which is the price of that extra capacity.\n\nIt suits campers who run the fan through a warm night and want the longest runtime at this price. Charge it from a power bank on the way to camp.",
     "specs": [
       "8000mAh, four speeds",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31f83bRsK8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GWQF31DW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GWQF31DW?tag=rvgearlab-amz-20",
     "description": "Measuring 9.25 by 3.53 inches and weighing 0.86 pounds (390g), the Yorflowe has four speeds, three light levels and 2, 4, 6 or 8 hour timers. A 7200mAh battery charges in four to six hours and gives up to 12 hours of cooling or 20 hours of light.\n\nIt is the cheapest pick here and the one with the stand and hook for flexible placement. It trails the Yueidung on battery by about 800mAh.\n\nIt suits backpackers and car campers who want an inexpensive fan with a timer. The timer lets the fan shut off after you fall asleep.",
     "specs": [
       "9.25x3.53 in, 0.86 lb",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/419lXN6DeuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GFWQB9CC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GFWQB9CC?tag=rvgearlab-amz-20",
     "description": "The FIALAME measures 9.25 by 3.53 inches and weighs 390g. It has a 7200mAh battery that charges over USB, four wind speeds, three brightness levels and a remote that sets timers of 1, 2, 6 or 8 hours.\n\nIt is nearly identical to the Yorflowe in size and battery, and it adds a one hour timer for short naps. It costs about 50 cents more than the Yorflowe.\n\nIt suits campers who want a fan, a night light and a remote in one light unit. It also works in an RV or a rooftop tent.",
     "specs": [
       "9.25x3.53 in, 390g",

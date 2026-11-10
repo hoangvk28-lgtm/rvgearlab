@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41WHgfefjrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C1Q7WTJH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C1Q7WTJH?tag=rvgearlab-amz-20",
     "description": "The WEN 56480iX is a 224cc inverter generator rated 4,800 surge and 4,000 running watts with keyless electric start and a recoil backup. Its Watchdog CO sensor shuts the engine off automatically, and the panel has four 120V receptacles, a TT-30R RV outlet, a 12V DC outlet and two USB ports.\n\nAt $789.99 it costs $40.99 more than the Champion 4000 and gives 1,000 more running watts, though it is gas only. It also costs $209.41 less than the WEN DF452iX. Pick this if you want the most rated power per dollar with a CO shutdown. The listing does not give a noise figure, so confirm that before buying for a quiet campground.",
     "specs": [
       "4,000W running, 4,800W surge",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zlMnJ0QvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D6SQR1L1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D6SQR1L1?tag=rvgearlab-amz-20",
     "description": "The Champion 4000 Dual Fuel is rated 4,000 starting and 3,000 running watts on gasoline, and 2,700 running watts on propane. It has the CO Shield automatic shutoff, 64 dBA from 23 feet, up to 10 hours on gasoline and 25 hours on propane, a TT-30R outlet and a 3 year warranty.\n\nAt $749.00 it is $40.99 under the WEN 56480iX but rated 1,000 watts lower, in exchange for propane and a published noise figure. Pick this if you want propane flexibility and a stated 64 dBA. The parallel kit is sold separately, and propane cuts rated output to 2,700W.",
     "specs": [
       "3,000W running on gas",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410JUcYJSbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BR8LPGYN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BR8LPGYN?tag=rvgearlab-amz-20",
     "description": "The WEN DF452iX is a dual fuel unit with 4,500 surge and 3,500 rated watts on gasoline, and 3,150 rated on propane. It lists 58 dBA at quarter load from 22 feet, a CO Watchdog shutdown sensor, a remote start that works from up to 160 feet away, a fuel shutoff and onboard wheels.\n\nAt $999.40 it costs $209.41 more than the WEN 56480iX for 500 fewer rated watts, so the premium buys quiet, propane and remote start. Pick this if you want to start it from inside the RV and keep it as quiet as possible. It is hard to justify on power alone.",
     "specs": [
       "3,500W rated, dual fuel",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41MKkDLainL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DH9ZJHN9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DH9ZJHN9?tag=rvgearlab-amz-20",
     "description": "The WEN 56280iX is a 98cc inverter generator rated 2,800 surge and 2,250 rated watts, with the Watchdog CO shutdown, two 120V receptacles, a 12V DC outlet, two USB ports and a three year warranty. It also has a fuel shutoff that runs the carburetor dry before storage.\n\nAt $386.00 it costs $403.99 less than the WEN 56480iX, and for that you give up the TT-30R outlet and 1,750 rated watts. Pick this if you camp with a fridge, fans and chargers and want CO shutdown at the lowest price. It will not run an air conditioner.",
     "specs": [
       "2,250W rated, 2,800W surge",
@@ -133,7 +133,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41QozbxH6mL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GSDKNY3N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GSDKNY3N?tag=rvgearlab-amz-20",
     "description": "The AIVOLT 8000 is a dual fuel inverter generator with 8,000 surge and 6,100 running watts from a 322cc engine, with a CO sensor, 50A RV capability, a 5 in 1 LCD display and a low temperature lithium start battery rated from -4F to 140F. The listing shows 62 dBA at 23 feet and a 129 pound weight.\n\nAt $1,433.52 it costs $434.12 more than the WEN DF452iX and adds 2,600 rated watts. Pick this if you have a 50A coach and need to run two air conditioners. It is the only unit here for that job, and 129 pounds is a lot to move.",
     "specs": [
       "6,100W running, dual fuel",

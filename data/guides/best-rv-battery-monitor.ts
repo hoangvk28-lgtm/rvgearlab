@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41TdVPWnbyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07RP5B5P7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07RP5B5P7?tag=rvgearlab-amz-20",
     "description": "The Renogy 500A monitor pairs a 500 amp shunt with a backlit display showing voltage, current, consumed power, battery capacity and battery degradation rate. Its listing claims 1 percent accuracy, high and low capacity alarms that flash the backlight, compatibility with lead acid, lithium iron phosphate and lithium-ion batteries at 12, 24 and 48 volts, a transparent shunt holder and a 20 foot shielded cable.\n\nIt ranks first at $63.10 because a recognizable brand, the longest included cable at 20 feet and a 500 amp shunt come in one box. It costs $0.11 more than the LNEX, which includes a color screen but a 16 foot cable, and $21.11 more than the Coolschmax, which offers 300 amps. It is $2.49 below the BINTA, which adds a bigger screen and a temperature reading.\n\nPick this if you want a plain, brand-name shunt monitor with room for a large inverter. The caveat is a basic backlit display and no temperature input.",
     "specs": [
       "500A shunt, 1% accuracy",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41oFXXEfapL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BC4Q3P26?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BC4Q3P26?tag=rvgearlab-amz-20",
     "description": "The LNEX 500A monitor uses a 2.4 inch color backlit screen and a 500 amp shunt, supports 8 to 100 volt systems, and stores the latest readings automatically when power is lost. Its listing describes programmable high and low alarms, adjustable brightness, a transparent shunt holder with marked positive and negative, and a 16 foot shielded wire.\n\nIt ranks second at $62.99, $0.11 below the Renogy 500A, and trades a 4 foot shorter cable for a color screen. It is $21.00 above the Coolschmax and $2.60 below the BINTA, which has a larger 3.5 inch screen. Its data storage on power loss means a battery that drops out will not wipe your amp-hour count.\n\nChoose it for a readable color display at a plain price. The caveat is that the listing states no temperature reading and no accuracy figure beyond calling it more accurate.",
     "specs": [
       "500A, 2.4 in color screen",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51SF0ZnCd4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FV8GB1X8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FV8GB1X8?tag=rvgearlab-amz-20",
     "description": "The BINTA 500A monitor has a 3.5 inch color LCD with four display modes: simple, full data, curve and historical data. Its listing shows voltage, current, power, remaining capacity, runtime and ambient temperature, claims plus or minus 0.5 percent current accuracy and plus or minus 1 percent voltage accuracy over 0 to 500 amps and 8 to 100 volts, and stores the latest test data during power loss. The kit includes a 10 foot shielded cable, a ground loop wire and an installation wrench.\n\nIt ranks third at $65.59, the highest in this group, $2.49 above the Renogy and $23.60 above the Coolschmax. What it adds is the largest screen, curve and history views and a temperature reading, along with the tightest accuracy claim. Its 10 foot cable is half the length of the Renogy cable.\n\nPick this if you want trend curves and temperature on the screen. The caveat is the short cable, which limits where you can mount the display relative to the shunt.",
     "specs": [
       "500A, 3.5 in color screen",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Psz2vO66L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FF43YYHR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FF43YYHR?tag=rvgearlab-amz-20",
     "description": "The AILITRON TR24 uses a 350 amp pure copper shunt, an IP68-rated sealed body and a TFT color screen, and its listing says it handles continuous loads for 3,000 to 5,000 watt inverters. It claims plus or minus 1.0 percent accuracy, SOC percent, amp-hours and real-time watts, an 8 to 100 volt range, customizable high and low voltage and low-capacity alarms and an audible buzzer.\n\nIt ranks fourth at $62.55, the lowest of the 500 and 350 amp group, $0.55 below the Renogy and $20.55 above the AILI TR16, which lists a similar shunt for less. The IP68 body is what sets it apart, useful if the display mounts in a wet bay. Its 350 amp shunt is a step below the 500 amp units, though a 5,000 watt inverter at 12 volts would draw far more than that.\n\nChoose it if the monitor mounts somewhere damp such as a marine or open bay. The caveat is that 350 amps is a limit for large inverters, so check your peak current.",
     "specs": [
       "350A copper shunt, IP68",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41pe6AYBUdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H4LFZBG2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H4LFZBG2?tag=rvgearlab-amz-20",
     "description": "The Coolschmax CZ212 monitor includes a 300 amp 75 millivolt shunt on an acrylic base, a 2.4 inch TFT screen and coulomb counting with a 16-bit converter. Its listing shows state of charge in amp-hours and percent, voltage, current, power, temperature and remaining time, with programmable voltage alarms and a low-capacity alarm at 20 percent. It claims one-time setup, with a long press to sync 100 percent on a full battery, standby draw of 1 milliamp and memory that survives power-off.\n\nIt ranks fifth at $41.99, which is $21.11 below the Renogy and $23.60 below the BINTA, and gives up 200 amps of shunt rating against the 500 amp units. It costs $0.01 less than the AILI TR16, whose shunt is rated 350 and 500 amps. Its temperature reading and a listed one-time setup are its advantages at the price.\n\nPick this if your system peaks below 300 amps, which covers most travel trailers, and you want low cost with a temperature reading. The caveat is that 300 amps leaves little room for a large inverter.",
     "specs": [
       "300A, 75mV shunt",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/414zn2t8BkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07FGFFHC6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07FGFFHC6?tag=rvgearlab-amz-20",
     "description": "The AILI TR16 includes a 350 and 500 amp precision shunt, a 2 meter extension cable and a backlit LCD, supports 8 to 120 volts, and shows state of charge, voltage, current and remaining capacity up to 999 amp-hours. Its listing states a very low standby draw of 50 to 60 microamps, memory retained after power-off, self-powering from 8 to 80 volts and a 30-day return period.\n\nIt ranks last at $42.00, $0.01 above the Coolschmax. It adds a higher shunt rating of up to 500 amps and the lowest listed standby draw, but gives up the temperature reading and the color screen of the Coolschmax. It is $21.10 below the Renogy 500A and $23.59 below the BINTA, and its 2 meter cable is the shortest listed here.\n\nChoose it if you want a 500 amp shunt at the lowest price and care about parasitic draw during storage. The caveat is the plain LCD and the short cable.",
     "specs": [
       "350/500A shunt, 8-120V",

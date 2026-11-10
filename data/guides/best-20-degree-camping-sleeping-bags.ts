@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ZzAYEc8rL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D643DKJW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D643DKJW?tag=rvgearlab-amz-20",
     "description": "Coleman rates the Brazos to 20F and cuts it for campers as tall as 5 ft 11 in. Named features include Thermolock tubing behind the zipper, Fiberlock stitching that stops insulation from shifting, fasteners that hold the roll in place, a stuff sack and a no-snag zipper.\n\nIts label sits at exactly 20F, and the Thermolock and Fiberlock names give it a more documented build than the MEREZA. The TETON Trailhead shares the 20F figure, while the Coleman adds roll-lock fasteners.\n\nA dependable choice for campers under 6 ft who want a brand-name bag for cool nights. The stuff sack keeps the trunk tidy.",
     "specs": [
       "20F rating, fits to 5 ft 11 in",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31HtpgF5i4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D47YFZGW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D47YFZGW?tag=rvgearlab-amz-20",
     "description": "TETON sells the Trailhead as a 20 degree mummy insulated with microfiber. Its hood closes gaps around the face, zipper draft tubes seal the opening, and vaulted footboxes add toe room. A compression sack and hang loops come in the box.\n\nIt is the only mummy in the group, which gives it the best heat retention per ounce and the smallest packed size. The Coleman Brazos 20F is roomier, while the Trailhead suits campers who also plan to hike.\n\nChoose it for campers who want a 20F bag that fits a trunk and a backpack. Hang it by the loops between trips.",
     "specs": [
       "20F mummy, microfiber fill",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/417rXa-hoDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BBBYY2SM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BBBYY2SM?tag=rvgearlab-amz-20",
     "description": "Londtren cuts this 90 x 40 inch bag for people up to 7 ft and prints a rating of 0F to 15F with a comfort range of 20F to 55F. The listing names a flannel lining, zipper draft tubes, shoulder insulation and a drawstring hood.\n\nThe 20F end of its comfort range lines up with the guide's target, and it offers far more room than the Coleman or TETON. The 210T polyester shell is waterproof.\n\nA fit for tall and broad campers at a low price. Wash it after dusty trips.",
     "specs": [
       "0 to 15F rating, 20 to 55F comfort",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41bw4CLZZAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09KBF16ZL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09KBF16ZL?tag=rvgearlab-amz-20",
     "description": "MEREZA sells a 32.3 x 90.5 inch rectangular bag cut for campers up to 7 ft, with a 220 g pillow in the box. The listing says comfort temperature is 40F, the shell is windproof waterproof 210T polyester taffeta, and net weight is 5.73 pounds.\n\nIt carries the lowest price here and the only included pillow. The compression sack has a large opening that makes packing easier.\n\nChoose it for mild shoulder-season trips where price matters most. Treat the zero degree label as a limit, not a comfort promise.",
     "specs": [
       "32.3 x 90.5 inch rectangle",

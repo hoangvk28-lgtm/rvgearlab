@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41irzFKUhoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00A8O8WMQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00A8O8WMQ?tag=rvgearlab-amz-20",
     "description": "STAR BRITE RV Wash and Wax is a concentrated cleaner and UV protectant that removes road grime, debris and exhaust stains. The listing says it is safe on all exterior RV surfaces, including fiberglass, glass, trim and decals, with polymers that add shine and UV protection.\n\nAgainst Aero Waterless, it is a hose-wash concentrate. Against Camco 100% Carnauba, it names decals directly.\n\nIt is the best match for RV owners who want a decal-named concentrate at a low price. It is a natural fit for decal-safe washing.",
     "specs": [
       "Concentrated wash and wax",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41arhEW1ZaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00X04JRMU?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00X04JRMU?tag=rvgearlab-amz-20",
     "description": "Aero Cosmetics Wash Wax ALL is a waterless spray used with a damp towel and dry towel. The listing says it is water-based with no alcohol, ammonia or citrus and is safe on paint, chrome, glass, trim, vinyl wrap, ceramic coatings and decals.\n\nAgainst STAR BRITE Wash, it needs no rinse water. Against Liquishine, it is explicit about vinyl wrap and ceramic coatings.\n\nIt suits owners with graphics who wash where water is limited. Think of it as the pick for graphics-heavy rigs.",
     "specs": [
       "Waterless spray wash and wax",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21I7b88fu5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GNTW84F1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GNTW84F1?tag=rvgearlab-amz-20",
     "description": "Liquishine Wash and Wax is a 2-in-1 RV exterior wash that works as a traditional wash with water or a waterless wash for quick cleanups. The listing says it cuts road grime and film without aggressive scrubbing or harsh chemicals.\n\nAgainst Aero Waterless, it also works as a bucket wash. Against STAR BRITE Wash, it lists a waterless method.\n\nIt suits owners who switch between hose washes and quick wipes. Buyers focused on mixed wash methods will find it a sensible match.",
     "specs": [
       "2-in-1 wash and wax",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41toeFxGwtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00SL2NG5K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00SL2NG5K?tag=rvgearlab-amz-20",
     "description": "Camco Wash and Wax Cleaner contains 100 percent carnauba wax and gives a clean, shiny finish with no buffing. The listing says it is safe for all finishes and creates a water-resistant beading action.\n\nAgainst STAR BRITE Wash, it states a carnauba content. Against Camco Armada, it is the pro-strength version.\n\nIt suits owners who prefer carnauba wax. It earns its slot for carnauba fans.",
     "specs": [
       "100% carnauba wash and wax",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ZXgbzYxcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B001HXXWGS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B001HXXWGS?tag=rvgearlab-amz-20",
     "description": "Camco Armada Carnauba Wash and Wax comes in a 32 ounce bottle with a carnauba formula. The listing gives few other details.\n\nAgainst Camco 100% Carnauba, it is the more basic bottle. Against STAR BRITE Wash, it does not name decals.\n\nIt suits owners who want a basic carnauba wash. It is a natural fit for basic washes.",
     "specs": [
       "32 oz carnauba wash and wax",

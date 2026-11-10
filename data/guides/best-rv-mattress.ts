@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41OvU3Ch-ML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GZ2HZP39?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GZ2HZP39?tag=rvgearlab-amz-20",
     "description": "The Grbsy 12 inch hybrid short queen uses a seven zone support system with cooling gel memory foam and pocket coils. It measures 60 by 75 inches and comes with a 365 night trial and a 10 year warranty.\n\nAgainst the 10 inch Celestial Sleep foam bed, it adds a coil layer that improves airflow and edge support, and it publishes more than 1,000 pocket coils for motion isolation. It suits couples who want a home like bed in the camper and do not mind the extra thickness.",
     "specs": [
       "12 inch hybrid, 7 zones",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410-kiEPiRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CKRPQQCL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CKRPQQCL?tag=rvgearlab-amz-20",
     "description": "The Celestial Sleep 10 inch short queen is a memory foam bed made in the USA with gel bead infused foam. It carries CertiPUR-US, Oeko-Tex and Fiberglass Free certifications and has a heat wicking quilted cover.\n\nCompared with the Grbsy hybrid, it is thinner and cheaper and lacks coils, which suits owners who prefer the contouring feel of foam. It suits side and back sleepers who want certified foam and a medium feel in a middle thickness.",
     "specs": [
       "10 inch gel bead memory foam",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51QkuR0wIKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FNRQKRCD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FNRQKRCD?tag=rvgearlab-amz-20",
     "description": "The hoggisleep 10 inch short queen measures 60 by 74 inches and uses 2 inches of AquaSoft memory foam over a 3 inch transition layer and a base layer. It is medium firm, CertiPUR-US certified, made in Mississippi and carries a 10 year limited warranty.\n\nIt is cheaper than the Celestial Sleep 10 inch and trims a full inch off the length, a useful fit for tight platforms. It fits owners who want an American made bed with a long warranty at a lower price.",
     "specs": [
       "60 by 74 inch short queen",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/418L7n2EakL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H1WGPFT3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H1WGPFT3?tag=rvgearlab-amz-20",
     "description": "The Dyonery 10 inch short queen uses Gel AeroFusion foam over CoolFlex foam and a BraceSleeper high density base. It is made in the USA, carries CertiPUR-US and Oeko-Tex Standard 100 certifications and has a 10 year limited warranty.\n\nIt undercuts the hoggisleep on price while adding Oeko-Tex testing and a stretch fabric cover. It suits warm climate campers who want a medium support gel foam bed with both major certifications.",
     "specs": [
       "Gel AeroFusion cooling foam",
@@ -133,7 +133,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51WytRvXdOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CSJK3863?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CSJK3863?tag=rvgearlab-amz-20",
     "description": "The Zinus 8 inch short queen Ultima uses a seven zone comfort system with green tea and charcoal infusions. It is CertiPUR-US certified, wrapped in an Oeko-Tex cover and backed by a 10 year limited warranty.\n\nIt is the thinnest and lowest priced option here, which makes it the easiest to fit on a low platform or in a tight bunk. It fits owners replacing a worn bed on a budget or filling a guest bunk.",
     "specs": [
       "8 inch memory foam",

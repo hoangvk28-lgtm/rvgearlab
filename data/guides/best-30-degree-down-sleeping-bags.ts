@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41KUCskCT3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B096SYGLMF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B096SYGLMF?tag=rvgearlab-amz-20",
     "description": "Kelty fills the Galactic with 21 oz of 550 fill power RDS-traceable down and rates it 30 degrees. The listing gives a weight of 2 lb 14 oz, a stuffed size of 15 x 8 inches, a fit for sleepers to 6 ft and a stuff sack.\n\nIt sits between the NEMO and the Naturehike on price and gives printed weight, fill weight and packed size that neither of the others lists. Two-way zippers vent the feet, and two bags can zip together.\n\nA well-rounded pick for backpackers who want a trusted brand and clear specs. PFC-free fabrics are a plus.",
     "specs": [
       "550FP RDS down, 21 oz",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31bPw0GKabL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GJ35S8KJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GJ35S8KJ?tag=rvgearlab-amz-20",
     "description": "Naturehike offers a 650 fill power RDS and IDS certified down mummy in three models, SP400, SP700 and SP1000. This listing prints an ISO comfort rating of 39F and a limit rating of 30F, and the comfort scale across models runs from about 38.84F to 12.55F.\n\nIt costs the least here and offers 650 fill power, which beats the Kelty's 550. The SP400 model lacks the neck collar and wind strip that the SP700 and SP1000 add, so choose the model with the warmth you need.\n\nChoose it for budget-minded backpackers who value certified down and ISO figures. Match the model to the warmth you need.",
     "specs": [
       "650FP RDS and IDS certified down",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41paZr1Jh5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FY3TF2YR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FY3TF2YR?tag=rvgearlab-amz-20",
     "description": "NEMO's Disco 30 is a men's regular wide down bag filled with 650 fill power hydrophobic, PFAS-free, RDS-certified down. Its spoon shape adds room at the elbows and knees, Thermo Gill vents extend the comfort range and a Blanket Fold collar blocks drafts.\n\nIt is the most comfort-oriented pick, and the vents make it work across a wider range than the Kelty or Naturehike. The roomy cut suits side sleepers.\n\nChoose it for sleepers who find mummy bags tight and who want a bag that adapts. Open the vents on warmer evenings.",
     "specs": [
       "650 fill RDS down, spoon shape",

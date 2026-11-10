@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41+1cLKLkML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CTQ5D2FR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CTQ5D2FR?tag=rvgearlab-amz-20",
     "description": "The Tirrinia blanket folds to 17 by 14 inches at 1.78 lb and opens to a 50 by 60 inch size. It uses 300D Oxford fabric that sheds sand and comes with a shoulder strap and a large pocket.\n\nAgainst the LRUUIDDE, it is a smaller blanket that is easier to carry with its pocket and strap. Next to the Orga'Neat, it is sturdier and has storage.\n\nIt suits campers who walk to a beach or lake. The shoulder strap and pocket keep hands free.",
     "specs": [
       "300D Oxford, sandproof",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Yhkf6EsTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BVVW389G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BVVW389G?tag=rvgearlab-amz-20",
     "description": "The LRUUIDDE blanket comes in an 80 by 80 inch size that seats 6 to 8 adults and a smaller 60 inch size. It is waterproof, sandproof and stain resistant, and works as a beach, RV or pet blanket.\n\nAgainst the Tirrinia, it covers far more area. Compared with the memKiya, it is lighter and cheaper.\n\nIt suits families and groups who want a big spread at the beach or campsite. It also serves as a floor mat.",
     "specs": [
       "80 x 80 inch size",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/414Dyou-3YL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08FZNCDY1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08FZNCDY1?tag=rvgearlab-amz-20",
     "description": "The Orga'Neat blanket is a 55 by 60 inch ripstop polyester sheet that folds to fit a pocket. It is sandproof, water resistant, tear resistant and dries fast.\n\nCompared with the Tirrinia, it is lighter and packs even smaller. Against the LRUUIDDE, it is far smaller and easier to carry.\n\nIt suits hikers and day trippers who want a tarp-like blanket in a pocket. It doubles as an ultralight tarp.",
     "specs": [
       "55 x 60 inch ripstop polyester",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51mogEnczsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DB85MQF7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DB85MQF7?tag=rvgearlab-amz-20",
     "description": "The memKiya mat is 60 by 80 inches with a 7-layer composite structure and a soft cotton core. It repels water and oil and folds for carrying.\n\nCompared with the LRUUIDDE, it adds a cotton core for comfort. Against the Tirrinia, it is bigger and softer.\n\nIt suits campers who lounge on the ground for hours. The cotton core gives a pad-like feel.",
     "specs": [
       "60 x 80 inch size",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ywROcHuIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GDZJY76D?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GDZJY76D?tag=rvgearlab-amz-20",
     "description": "The Tikroom blanket is 80 by 58 inches with a waterproof, windproof and sandproof backing and a 300gsm polar fleece layer. It uses ultrasonic quilting and comes with a stuff sack.\n\nCompared with the LRUUIDDE, it adds a fleece top for cooler evenings. Against the memKiya, it is lighter.\n\nIt suits campers who want a summer blanket that still handles cool nights. The stuff sack keeps it tidy.",
     "specs": [
       "80 x 58 inch size",

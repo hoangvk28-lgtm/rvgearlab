@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41i49zsHhPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D6PM5XN1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D6PM5XN1?tag=rvgearlab-amz-20",
     "description": "Champion's 4000-watt inverter is our top portable pick because it pairs real AC-starting output with a weight one person can manage. It makes 3,000 running and 4,000 starting watts at under 49 pounds, runs up to 10 hours, measures 64 dBA from 23 feet, and has a direct 120V TT-30R RV outlet plus CO Shield automatic shutoff.\n\nAgainst the WEN 4800 dual fuel ranked just below, Champion gives up propane and electric start but is far lighter, which is the whole point of a portable unit. Compared with the WEN 3600 at third, it adds about 100 running watts and a parallel option to double output with a second Champion 4000 for 50 amp use.\n\nThis suits 30 amp trailer owners who want to run one AC and lift the generator themselves. The caveat is gas-only operation, so long boondocking stays mean carrying fuel cans.",
     "specs": [
       "3,000 running / 4,000 starting W",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Ja7YiNicL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D3WW1CSQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D3WW1CSQ?tag=rvgearlab-amz-20",
     "description": "WEN's 4800-watt dual fuel model is the pick for owners who want to run on the propane tank already on their trailer. Its 224cc engine makes 4,000 rated watts on both gasoline and propane, with 4,800 surge watts on gas, and it adds electric start, a CO shutdown sensor, wheels with a telescoping handle, and a tool-free LPG quick connector.\n\nIt ranks behind the Champion only because it is a wheeled unit rather than a true lift-and-carry generator. You gain about 1,000 extra running watts over the Champion, propane flexibility, and push-button start. Against the lighter WEN 3600 below, it doubles the outlet count with four 120V receptacles plus a TT-30R.\n\nChoose it if you roll the generator rather than lift it and like propane's clean storage. The caveat is that propane output and runtime figures depend on tank size, so plan fuel accordingly.",
     "specs": [
       "4,000 rated W on gas or propane",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41v48x8PTeL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C1Q4K2G7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C1Q4K2G7?tag=rvgearlab-amz-20",
     "description": "The WEN 56360i balances AC-capable output and low weight. Its 149cc engine makes 2,900 rated and 3,600 surge watts in a 46 pound body, with a TT-30R RV outlet, two 120V receptacles, 12V and USB ports, a fuel shutoff that empties the carburetor, and a three-year warranty.\n\nCompared with the Champion at the top, it is about three pounds lighter and a little cheaper but gives up about 100 running watts and the CO shutoff system. Against the A-iPower 2300 below, it adds enough output for most 13,500 BTU AC units and a direct RV outlet, where the A-iPower needs a twist-lock adapter.\n\nPick it if every pound counts but you still want to run AC. The caveat is that starting an AC near the 2,900 watt limit may need a soft start kit on some units.",
     "specs": [
       "2,900 rated / 3,600 surge W",
@@ -109,7 +109,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ezbqLETtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C826YT3P?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C826YT3P?tag=rvgearlab-amz-20",
     "description": "The A-iPower 2300 is the lightest generator here at 40.3 pounds while still offering dual fuel. It makes 1,800 running watts on gas and 1,600 on propane, runs as low as 61 dB, has a CO sensor indicator, telescoping handle with flat-free wheels, and a 30 amp L5-30R twist-lock outlet.\n\nIt ranks below the WEN 3600 because 1,800 running watts will not start most rooftop air conditioners alone. What you get is the lowest weight and propane flexibility. Pairing two units in parallel is its route to AC power, which suits owners who would rather lift two small units than one heavy one.\n\nThis suits van and small trailer owners who mostly charge batteries and run a microwave. The caveat is the L5-30R twist-lock outlet, which needs an L5-30P to TT-30R adapter to plug in a standard RV cord.",
     "specs": [
       "1,800 running W gas, 1,600 propane",
@@ -136,7 +136,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51PppwcFpOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C1PPYTLW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C1PPYTLW?tag=rvgearlab-amz-20",
     "description": "The Westinghouse iGen2550c is the quiet, compact choice. It makes 1,900 running watts and 2,550 peak, runs up to 11 hours at 25 percent load, can be as quiet as 52 dBA in Eco Mode, and has a TT-30R outlet, a 5-20R duplex, two USB ports, and an LED data center showing fuel and output.\n\nAgainst the A-iPower 2300, it adds a direct RV outlet and quieter rated operation but loses propane. Like the A-iPower, it cannot run a rooftop AC on its own; Westinghouse states it parallels with a compatible unit for full 30A power. Against the Champion at the top, it trades more than a thousand watts for quieter campsite manners.\n\nChoose it for campgrounds with generator quiet rules where you only need battery charging and small appliances. The caveat is that parallel cables are sold separately.",
     "specs": [
       "1,900 running / 2,550 peak W",
@@ -164,7 +164,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41QOKH0ETDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CRDPSK1G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CRDPSK1G?tag=rvgearlab-amz-20",
     "description": "PowerSmart's 4000-watt inverter delivers Champion-class output for about $240 less. It makes 3,200 rated and 4,000 peak watts with under 3 percent THD, runs up to 8 hours at 25 percent load on a 1.3 gallon tank, and rates 59 dBA from 23 feet, with a 30A L5-30R outlet, 5-20R duplex, 12V, and USB.\n\nOn paper it beats the Champion at the top for running watts and quoted noise. It ranks lower because it carries a two-year warranty versus Champion's three, has no documented CO shutoff, and uses a twist-lock outlet that needs an adapter for RV cords. Against the Genkins below, it is quieter and fully enclosed.\n\nPick it if you want 4,000 peak watts at a mid price and can accept an adapter. The caveat is the smaller 1.3 gallon tank, which limits runtime at higher loads.",
     "specs": [
       "3,200 rated / 4,000 peak W",
@@ -192,7 +192,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51t+cWrJRPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D2Z2XC1T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D2Z2XC1T?tag=rvgearlab-amz-20",
     "description": "The Genkins 4500W is the cheapest way to 3,700 rated watts in this roundup. Its 212cc OHV engine feeds pure sine output under 3 percent THD, a 2.11 gallon tank gives up to 8 hours at half load, and it adds low-oil shutdown and overload protection with an L5-30R outlet.\n\nIt ranks last because the open frame design is noticeably louder, rated at 70 dB at 7 meters versus the enclosed picks above, and it uses pull start with a manual choke. In exchange, you get the most running watts per dollar here and a bigger tank than the PowerSmart.\n\nThis suits budget buyers who park the generator away from the rig and need AC power. The caveat is noise, which can break quiet hours at tight campgrounds.",
     "specs": [
       "3,700 rated / 4,500 peak W",

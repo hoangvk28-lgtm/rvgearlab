@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41OzqToFQ-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D1R68PXM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D1R68PXM?tag=rvgearlab-amz-20",
     "description": "The Aussio T1020-1 is a 3 inch waste valve cap with bayonet hooks and a capped 3/4 inch garden hose thread. It ships as a 2 pack with seals and a strap, so it covers a spare or a second outlet.\n\nAgainst the single Valterra T1020-1, it adds a second cap and a securing strap at a modest price step. The capped hose thread lets it double as a flush point, which the plain Valterra termination cap lacks.\n\nA strong default for anyone replacing a lost waste valve cap who wants a spare on hand. Good for travel trailers with a standard 3 inch gate valve.",
     "specs": [
       "3 inch cap size",
@@ -53,7 +53,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31N6wAZqz5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B000G72VHM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B000G72VHM?tag=rvgearlab-amz-20",
     "description": "The Camco 39452 is a heavy duty plastic twist-on cap with bayonets that seals the lug end of a sewer hose for storage. The listing gives 4 x 4.5 x 1.13 inch dimensions and names Rhino and Revolution hoses.\n\nWhere the Aussio guards a waste valve, this one protects the hose end, so the two are complementary rather than rival picks. It is also a step up in brand recognition from the generic caps below.\n\nBest for owners who carry a hose and want an odor-tight, leak-free storage seal at the lug end. A natural add-on for Camco hose kits.",
     "specs": [
       "Twist-on bayonet cap",
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31nF0qDAaWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FN7HQ5KT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FN7HQ5KT?tag=rvgearlab-amz-20",
     "description": "The WKZO is a 3.75 inch ABS sewer cap with a bayonet hook, reinforced ears and included seals. A 7.4 inch tether keeps the cap attached to the fitting.\n\nCompared with the Valterra caps that list only an outer diameter, it states both diameter and tether length. The tether is what lifts it above the plain Valterra T1020 listed below.\n\nSuited to campers who drop caps in gravel or grass and want the cap to stay on the rig. A sensible cap for frequent dumpers.",
     "specs": [
       "3.75 inch ABS cap",
@@ -107,7 +107,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41GscmuLXIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0006N5RYK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0006N5RYK?tag=rvgearlab-amz-20",
     "description": "The Valterra T1020-1 is a 3 inch waste valve cap with a capped 3/4 inch garden hose thread and a stated 3.800 inch outer diameter. Reinforced ears and included seals back up the leak-proof claim.\n\nIt matches the Aussio on the capped hose thread and sells as a single cap at a lower price. That makes it the budget route to a flushable cap.\n\nA good fit for owners who want a recognized brand and a flush connection without paying for a 2 pack. Works as a straight replacement on many 3 inch valves.",
     "specs": [
       "3 inch cap, 3.800 inch OD",
@@ -134,7 +134,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/318T8MviH4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B084GT9Z4Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B084GT9Z4Q?tag=rvgearlab-amz-20",
     "description": "The Camco 39455 is a clear 3 inch compatible cap on a lanyard, with a four point bayonet and UV inhibitors in the heavy duty plastic. The clear body lets you see what sits behind the cap.\n\nNext to the opaque Valterra caps, it lets you spot residue or a drip before you pull the hose. The lanyard gives it the same loss protection as the tethered WKZO.\n\nBest for owners who like to see inside the outlet and want a cap that stays attached. A practical cap for full-timers who dump often.",
     "specs": [
       "Clear body, 3 inch fit",
@@ -161,7 +161,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41h3yI+uGbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0006N5RW2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0006N5RW2?tag=rvgearlab-amz-20",
     "description": "The Valterra T1020 is a plain 3 inch termination cap with a bayonet hook, a 4.125 inch outer diameter and reinforced ears. It is the simplest and cheapest item in this group.\n\nIt drops the hose thread and tether found on the Valterra T1020-1 and WKZO, keeping only the sealing job. The larger stated outer diameter means it is a different cap profile from the 3.800 inch Valterra.\n\nBest for a budget spare that lives in the storage bay until a cap cracks. A fine pick when the valve takes a standard bayonet cap.",
     "specs": [
       "3 inch cap, 4.125 inch OD",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41CiySHMSVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H41TC3F9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H41TC3F9?tag=rvgearlab-amz-20",
     "description": "This 9-shelf collapsible closet is made from breathable 210D Oxford cloth with a fiberglass rod frame and a listed capacity of 30 lb per shelf. It weighs about 1 kg and includes built-in ground straps for staking.\n\nPer shelf capacity is the headline over the Girftong, which lists 30 lb for the whole organizer. Against the CAMPYRE, it is a lower-priced closet with the same nine-shelf layout.\n\nIt suits families who want a shelf per person for folded clothes. The listing positions it for clothes and small items like phones and glasses.",
     "specs": [
       "9 shelves, 210D Oxford",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hCMpq1ZoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09ZD2FM87?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09ZD2FM87?tag=rvgearlab-amz-20",
     "description": "The CAMPYRE is a 9-shelf camping dresser with a zippered flap and thickened shelf boards listed to hold 30 lb. The listing says it stores clothes, shoes, glasses, wallets and phones, with ground straps for staking.\n\nThe zippered flap is its edge over the open Ymiko and Girftong, as it keeps clothes covered from dust and tent condensation. It is the priciest soft closet here, and the cover is what you pay for.\n\nIt suits campers who want clothes hidden behind a flap in a shared sleeping area. A family with a bunk-style layout will appreciate the cover.",
     "specs": [
       "9 shelves, zippered flap",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ZBUii8BgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FC5RN6R3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FC5RN6R3?tag=rvgearlab-amz-20",
     "description": "The Ymiko is a tent-shaped folding organizer with nine shelves made from 210D Oxford cloth with glass fiber reinforcement. The listing describes categorised shelves for shoes, clothing and daily necessities.\n\nCompared with the CAMPYRE it trades the zippered flap for a lower price and a tent-shaped design. Next to the Girftong, it lists a reinforced frame and a more detailed material description.\n\nIt suits campers who like a closet that matches the tent look and folds small for the car. Good for sorting shoes and shirts by person.",
     "specs": [
       "9 shelves, 210D Oxford",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31c1KzLCRqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H6SJYQC9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H6SJYQC9?tag=rvgearlab-amz-20",
     "description": "The Girftong is a 9-shelf collapsible rack with sturdy boards, 9 mm fiberglass rods and built-in ground straps. The listing says it supports up to 30 lb without sagging, and it separates shoes from clothes at the entrance.\n\nIt is the lowest priced shelf closet here and lists a rod diameter that the Ymiko does not. Against the 9-shelf generic closet, it shares the nine-shelf layout at a lower price.\n\nIt suits budget campers who need a shelf stack for clothes and small gear. It is a good first organizer for a weekend tent.",
     "specs": [
       "9 shelves, 9 mm rods",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41I4ZnLfINL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GF9P2KGG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GF9P2KGG?tag=rvgearlab-amz-20",
     "description": "The Denash is a 600D Oxford hanging organizer with 8 hooks, 8 small mesh pockets, 28 hanging loops, a tissue holder and a large mesh pocket. It hangs from branches, poles or vertical racks.\n\nIt is cheaper than the shelf closets and saves floor space, while the shelves hold more folded clothing. For socks, caps and a few small items it works as a hang-up complement to the closets.\n\nIt suits campers who already carry a shelf closet and want pockets for socks, caps and toiletries. A canopy or screen room is the natural place to hang it.",
     "specs": [
       "600D Oxford, 8 hooks",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/415duQT3hRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GYHFLDXT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GYHFLDXT?tag=rvgearlab-amz-20",
     "description": "Alaeseje sells two 5.3 gallon BPA-free containers with a spigot, a hanging hook and reinforced carry handles. A wide mouth makes filling and cleaning easy, and the listing says the thickened material is made for food contact and drinking water.\n\nIt is the only pick that reaches 5.3 gallons per container, so it holds the most water by far, and the wide mouth is something the small bags lack. The hook lets you hang a jug at a wash station.\n\nBest for trailhead camps and vehicle trips where weight matters less. The listing also mentions gardening, car washing and home backup.",
     "specs": [
       "Two 5.3 gallon containers",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/5182o5wLiXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GJK59CXH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GJK59CXH?tag=rvgearlab-amz-20",
     "description": "Zounys sells six collapsible jugs described as 2 gallon capacity, made from heavy-duty, food-safe, BPA-free plastic with reinforced seams and upgraded sealing. The listing says each folds flat to fit a backpack or glove box.\n\nSix jugs make the largest total capacity in the list, over twelve gallons, and each one is easier to lift than the Alaeseje 5.3 Gal 2-Pack. The title says 8 L while the description says 12 L, so the true size needs checking.\n\nA strong choice for groups, emergency stores and vehicle camps that want many portable jugs. Splitting water across six makes refills easy.",
     "specs": [
       "Six 2 gallon class jugs",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41+zj4AfOUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FTZ5M84W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FTZ5M84W?tag=rvgearlab-amz-20",
     "description": "CoreMuse makes this 2.1 gallon (8 liter) jug with a spout, separated inlet and outlet that balance air pressure, and a lifetime warranty through the Amazon order. It folds easily for storage.\n\nThe separate inlet gives a smoother pour than a single-opening jug, and the 2.1 gallon size is easy for anyone to carry and refill. Its price sits near the bottom of the list, so it also works as a spare.\n\nA fit for campers who want a lightweight jug and a warranty. It suits cooking, washing and short hikes.",
     "specs": [
       "2.1 gallon (8 L) with spout",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41E0MD58QrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H36L9RG4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H36L9RG4?tag=rvgearlab-amz-20",
     "description": "TiddieBair sells two 2 gallon jugs made from thick material with independent inlet and outlet openings and a practical spout. The listing calls the material odorless and sturdy enough for outdoor use.\n\nThe independent openings let air in while water pours, which keeps the stream steady. It costs less per jug than the Alaeseje 5.3 Gal 2-Pack, and the jugs fold flat when empty.\n\nRight for day trips, picnics and small groups where 2 gallons per jug is enough. A pair gives 4 gallons in total.",
     "specs": [
       "Two 2 gallon jugs",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41OuIWBsy-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GWYZBGVP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GWYZBGVP?tag=rvgearlab-amz-20",
     "description": "MIAJO is a 2 gallon collapsible jug with an upgraded leak-resistant spigot and food-safe material. The listing positions it for camping, hiking, car camping and survival gear and says it folds flat after use.\n\nPriced under every other pick with a spigot, it makes pouring easy without lifting the whole jug. The CoreMuse offers a warranty that this listing does not state.\n\nA reasonable choice for budget hikers who want a simple camp jug. It also works as a spare or a wash-water container.",
     "specs": [
       "2 gallon capacity",

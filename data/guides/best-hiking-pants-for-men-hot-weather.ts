@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31BVwHXWidL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CCSKYQ5Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CCSKYQ5Q?tag=rvgearlab-amz-20",
     "description": "The Eddie Bauer Rainier is a ripstop, bluesign-certified pant with a StormRepel DWR finish and FreeShade UPF 50+ sun protection. An Active Fit sits close to the body, and five pockets include a zippered cargo pocket.\n\nCompared with the AIRIKE, it adds guide-tested ripstop and a named sun fabric. Against the Columbia Silver Ridge, it keeps full-length legs and a cleaner, tailored look.\n\nIt suits men who want a technical, sun-safe pair that holds up to rough terrain. The close cut moves well on climbs.",
     "specs": [
       "Ripstop, bluesign certified",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/311TuMCFJeL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0058YVIBI?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0058YVIBI?tag=rvgearlab-amz-20",
     "description": "The Columbia Silver Ridge Convertible has zip-off legs that make shorts on demand, Omni-Shade UPF 50 sun protection and quick-drying ripstop material. Zippered security pockets and built-in stretch fill out the feature list.\n\nCompared with the Eddie Bauer Rainier, it adds a cooling option that no other full-length pair here matches except the Cycorld. It also comes from a trusted outdoor brand.\n\nIt suits men who start cool and finish hot. Zip-off legs pack into a daypack.",
     "specs": [
       "Zip-off legs",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31zoibmlCsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08KDG12BB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08KDG12BB?tag=rvgearlab-amz-20",
     "description": "The AIRIKE Lightweight is described as lightweight, thin and very breathable, with a DWR finish, 4-way stretch and sun-blocking fabric. Two zip front pockets and invisible back pockets hold a 5.5-inch phone.\n\nIt is the thinnest-feeling pair in the lineup and looks like a sweatpant. Against the Boladeci, it adds a DWR finish and hidden pockets.\n\nIt suits men who want a jogger-style pair for summer trails and travel. The elastic waist makes it comfortable all day.",
     "specs": [
       "Thin, breathable fabric",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/312N3DaD9CL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H1C42CQ9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H1C42CQ9?tag=rvgearlab-amz-20",
     "description": "The Optivanea Cargo is made of 88 percent nylon and 12 percent spandex that is water and stain repellent and tear resistant. Reinforced belt loops, pockets and seams, a D-ring and six large pockets support heavy gear.\n\nCompared with the Boladeci, it carries tools and gear with six large pockets. Against the Eddie Bauer Rainier, it gives up UPF detail for work-pant toughness.\n\nIt suits men who need a durable hiking and work pant for hot days. Articulated knees allow crawling and squatting.",
     "specs": [
       "88% nylon, 12% spandex",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31D1bSejxkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D9N7NCP3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D9N7NCP3?tag=rvgearlab-amz-20",
     "description": "The Cycorld Roll-Up has UPF 50+ rated, quick-dry breathable fabric, 4-way stretch with reinforced stitching and seven pockets. The cuffs roll up to 7/8 length for extra ventilation.\n\nIt costs less than the Columbia Silver Ridge Convertible and the Eddie Bauer Rainier while stating UPF 50+. Compared with the AIRIKE, it adds a roll-up option.\n\nIt suits men who want cooling and sun protection on a budget. Seven pockets hold passport, keys and wallet.",
     "specs": [
       "UPF 50+ breathable fabric",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31iWEKIJHML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B087PT5Z7R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B087PT5Z7R?tag=rvgearlab-amz-20",
     "description": "The Boladeci Athletic is a lightweight, breathable pant with 4-way stretch, moisture-wicking fabric and an elastic waist with drawstring. Two zipper pockets protect a phone up to 6.5 inches.\n\nIt is the least expensive of the six and the simplest. Against the AIRIKE, it skips the DWR finish and keeps the same easy comfort.\n\nIt suits men who want a basic summer pant for walking, camping and travel. The drawstring tunes the fit.",
     "specs": [
       "4-way stretch, moisture-wicking",

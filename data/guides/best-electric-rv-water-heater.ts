@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/510B6zj1X0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01MY7FHKM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01MY7FHKM?tag=rvgearlab-amz-20",
     "description": "Suburban SW6DE is a 6 gallon RV heater with direct spark ignition and an electric element. The listing says it has a porcelain-lined steel tank, a replaceable anode rod and a flue tube design that slows combustion for better heat transfer.\n\nAgainst Suburban SW6D, it adds the electric element. Against CAMPLUX 6 Gal, it is a Suburban replacement with an anode rod.\n\nIt is the best match for owners who want a Suburban-style heater with an electric element. Think of it as the pick for suburban replacements.",
     "specs": [
       "6 gallon Suburban DSI",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/514TLfNQdfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01NBTVDBC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01NBTVDBC?tag=rvgearlab-amz-20",
     "description": "Suburban SW6D is the 6 gallon direct spark ignition model. The listing says an electric element is optional and it has the same porcelain-lined tank and anode rod.\n\nAgainst Suburban SW6DE, it costs less and lacks the built-in element. Against KINGRVER 6 Gal, it is gas first.\n\nIt suits owners who mostly use propane and want to add electric later. Buyers focused on propane-first rigs will find it a sensible match.",
     "specs": [
       "6 gallon Suburban DSI",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41cAvDrWrHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H8N5LH93?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H8N5LH93?tag=rvgearlab-amz-20",
     "description": "CAMPLUX 6 Gallon is a propane and electric hybrid, a drop-in for most Suburban and Dometic 4 to 6 gallon heaters in 13 by 13 inch cutouts. The listing says you can switch modes and set temperature from inside the RV.\n\nAgainst CAMPLUX Black, it is the white version. Against Suburban SW6DE, it adds an interior control panel.\n\nIt suits owners who want hybrid heating in a drop-in. It earns its slot for hybrid drop-ins.",
     "specs": [
       "6 gallon propane and electric",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hx4ZhVW8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FZTSVTYX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FZTSVTYX?tag=rvgearlab-amz-20",
     "description": "CAMPLUX Black is the black version of the 6 gallon hybrid heater with three modes and one-click temperature settings from an interior panel. It is a direct replacement for most Suburban and Dometic 4 to 6 gallon models.\n\nAgainst CAMPLUX White, it matches black door panels. Against KINGRVER 6 Gal, it has an interior panel.\n\nIt suits black access doors. It is a natural fit for black door panels.",
     "specs": [
       "6 gallon hybrid, black",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zLGxCIHoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GBWPZ46Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GBWPZ46Q?tag=rvgearlab-amz-20",
     "description": "KINGRVER 6 Gallon is a hybrid with gas only, electric only or hybrid mode and a remote that sets 104 to 140 degrees F. The listing says gas mode uses 12 volt DC ignition and it is compatible with common Suburban, Atwood and Dometic setups.\n\nAgainst CAMPLUX White, it includes a remote controller. Against Suburban SW6DE, it adds hybrid mode.\n\nIt suits owners who want a remote-controlled hybrid. Think of it as the pick for remote-control hybrids.",
     "specs": [
       "6 gallon hybrid",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41j78yGYuZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G7KM5F5X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G7KM5F5X?tag=rvgearlab-amz-20",
     "description": "VEVOR 6 Gallon is a 1600 watt point-of-use electric tank heater with an enamel interior and a rotary temperature knob. The listing says it suits single apartments and RVs and has dry-heat, overheat and overpressure protection.\n\nAgainst the hybrids, it is electric only and not a cutout replacement. Against Suburban SW6DE, it is a plug-in unit.\n\nIt suits owners who want a small plug-in tank. Buyers focused on plug-in boosters will find it a sensible match.",
     "specs": [
       "6 gallon, 1600W electric",

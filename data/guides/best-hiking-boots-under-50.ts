@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51OLZp7eBaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09L47W128?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09L47W128?tag=rvgearlab-amz-20",
     "description": "The SHULOOK Mid Top pairs an SL-TEX membrane, which passes sweat vapor and stops water, with a sealed tongue that blocks debris. A size 10 weighs 1.25 lb, and you get a removable memory foam insole plus a rubber bumper over the toes.\n\nAt about $45 it costs $5 more than the NORTIV 8 Mid Top and weighs less than many boots. The sealed tongue is what sets it apart from the Amazon Essentials boot.\n\nIt suits day hikers and campers who walk through wet grass and puddles. It fits wet-weather weekends.",
     "specs": [
       "SL-TEX waterproof membrane",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31S5uDt54lL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07PCJK9KG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07PCJK9KG?tag=rvgearlab-amz-20",
     "description": "The NORTIV 8 Mid Top has waterproof construction, a slip-resistant rubber outsole, a removable insole for arch support and shock absorption, and a rubber toe cap and heel for protection. The mid-top cut covers the ankle for support.\n\nAt about $40 it costs $5 less than the SHULOOK and adds a heel counter as well as a toe cap. It is intended for hiking, hunting, camping, fishing and general outdoor use.\n\nIt suits campers who want a protective boot for rough ground. The mid-top height supports the ankle.",
     "specs": [
       "Waterproof, mid-top cut",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/418vSK8K2DL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FNS63PTD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FNS63PTD?tag=rvgearlab-amz-20",
     "description": "The Amazon Essentials hiking boot uses a nylon and PU suede upper with a full internal waterproof bladder, a padded collar, flex notches that cradle the ankle and a molded memory foam insole. A pull tab and quick-lace system make it easy to put on, and reflective details help in low light.\n\nAt about $34 it costs $11 less than the SHULOOK and is the easiest to get in and out of at the end of the day. The padded collar reduces rub at the ankle.\n\nIt suits casual hikers and campers who want an easy boot. The quick-lace system is simple.",
     "specs": [
       "Nylon and PU suede, waterproof bladder",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41wioKZ2ZfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GD81DS3G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GD81DS3G?tag=rvgearlab-amz-20",
     "description": "The HARENCE weighs about 395 g per boot in size 10 and pairs a waterproof membrane with a deep-lug anti-slip outsole. The mid-ankle cut is meant for all-season walking.\n\nAt about $32 it costs $13 less than the SHULOOK and is the lightest boot here. The deep lugs bite into wet ground, which the NORTIV 8 Mid Top handles with a flatter tread.\n\nIt suits occasional hikers and travelers who want a very light boot at a very low price. Light weight cuts fatigue.",
     "specs": [
       "About 395 g per boot",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/418BkANazyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H9891S81?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H9891S81?tag=rvgearlab-amz-20",
     "description": "This winter hiking boot has a thick, soft faux-fur lining for warmth, a heavy-duty rubber sole with deep treads and a roomy toe box. The microfiber upper repels light rain and blocks wind on cold trail walks.\n\nAt about $28 it is the cheapest boot here and the only one lined for winter. It is less technical than the NORTIV 8 Mid Top, and the roomy toe space helps with thick socks.\n\nIt suits cold-weather camps, snow walks and casual winter hikes. It is not a summer boot.",
     "specs": [
       "Faux-fur lining, rubber sole",

@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31tmgxYWQsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GJ79J98Z?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GJ79J98Z?tag=rvgearlab-amz-20",
     "description": "The Coleman Mach 10 Signature Series R32 is a low-profile rooftop unit that the listing calls an excellent choice for fifth wheels and taller units. It lists less drag, improved fuel efficiency and more height clearance, uses R32 refrigerant and fits standard 14 by 14 inch vent openings.\n\nAgainst the RecPro 15K, it focuses on height clearance rather than heat pump capacity. Against the Arsenda 18K units, it offers a low-profile shroud in place of more BTU.\n\nBest for tall fifth wheels where overhead clearance and fuel use matter. A trusted RV name for a roof swap.",
     "specs": [
       "Low-profile rooftop unit",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41PpZvl+hkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08M2K9GMD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08M2K9GMD?tag=rvgearlab-amz-20",
     "description": "The RecPro RV Ducted Black Air Conditioner is a 15,000 BTU rooftop unit with a built-in heat pump and a low amp draw. It lists 55.4 dB operation and a wireless remote with an LED touch panel.\n\nAgainst the Coleman Mach 10, it adds a stated heat pump and capacity. Against the RecPro 13.5K Non-Ducted, it is ducted and has a heat pump, with 1,500 more BTU.\n\nBest for fifth wheels with ducted ceilings that want a heat pump. The low amp draw helps when other appliances run.",
     "specs": [
       "15,000 BTU ducted heat pump",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410JkA+0CyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H6VWJPXX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H6VWJPXX?tag=rvgearlab-amz-20",
     "description": "The LAOFINA RV Air Conditioner has 18,000 BTU cooling and 10,236 BTU heating on 110-120V in a non-ducted layout. It runs at 50 dB and requires both 115V AC and 12V DC.\n\nAgainst the Arsenda 18K R32, it offers the same capacity and a slightly higher price. Against the RecPro 15K Ducted, it adds 3,000 BTU and a lower noise rating.\n\nBest for large fifth wheels with a non-ducted roof where noise matters. The UV-resistant housing is designed for long-lasting outdoor use.",
     "specs": [
       "18,000 BTU, 10,236 BTU heat",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41jAkup2ilL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GS8FXQ1V?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GS8FXQ1V?tag=rvgearlab-amz-20",
     "description": "The Arsenda 18000 BTU RV Air Conditioner with Heat Pump uses R32 refrigerant for faster cooling and lower energy use. It lists non-ducted 110-120V operation and the same 12V DC requirement as other 18K listings.\n\nAgainst the LAOFINA 18K, it matches capacity at a lower price. Against the RecPro 15K Ducted, it offers 3,000 more BTU and less price.\n\nBest for budget-minded fifth wheel owners who want an 18K heat pump. R32 is listed for lower energy use.",
     "specs": [
       "18,000 BTU heat pump, R32",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41s2ur8hKgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GS7LLPG6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GS7LLPG6?tag=rvgearlab-amz-20",
     "description": "This second Arsenda listing carries the same 18,000 BTU heat pump, R32 refrigerant and 110-120V non-ducted rating as the other. It also requires both 115V AC and 12V DC.\n\nAgainst the Arsenda 18K R32, it shows identical features and price, so stock and shipping decide between them. Against the LAOFINA 18K, it offers the same capacity for less.\n\nBest for buyers who find the other listing out of stock. It suits the same fifth wheels.",
     "specs": [
       "18,000 BTU heat pump, R32",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41TZPU4QTSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B22WCYKR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B22WCYKR?tag=rvgearlab-amz-20",
     "description": "The RecPro 13.5K Non-Ducted RV Air Conditioner is a cooling-only unit with a low amp draw and 59.7 dB noise. It carries a wireless remote with LED touch display and UV-resistant plastic.\n\nAgainst the RecPro 15K Ducted, it saves money at lower BTU and no heat pump. Against the Arsenda 18K units, it is cooling only.\n\nBest for fifth wheels with a separate furnace and a modest cooling need. A simple second-unit option.",
     "specs": [
       "13,500 BTU cooling only",

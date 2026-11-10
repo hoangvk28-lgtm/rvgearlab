@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41glK5k1v8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DCZ56QNL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DCZ56QNL?tag=rvgearlab-amz-20",
     "description": "INIU holds 20,000mAh with 45W output and TinyCell technology that makes it about 30 percent smaller than standard 20,000mAh banks. It has a built-in braided USB-C cable tested over 10,000 bends and is TSA compliant.\n\nAt about $30 it costs $3 more than the NOBIS from the last tier and builds in the cable. The 50,000mAh banks hold more than twice the energy and weigh about 0.7 lb, and they cannot fly.\n\nChoose it for a two or three day trip where weight and flight rules matter. It charges a phone, a tablet and a small laptop.",
     "specs": [
       "20,000mAh, 45W, TinyCell",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41pKMteGu5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GWM43LJS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GWM43LJS?tag=rvgearlab-amz-20",
     "description": "YBYP packs a rated 50,000mAh into a body 4.2 inches long that weighs 0.7 lb. It has four built-in cables, 22.5W output and an LED percentage display.\n\nAt about $33 it holds more than twice the energy of the INIU and costs $3 more. A 50,000mAh pack is about 185Wh at the usual 3.7V, which is above the 160Wh airline ceiling, so it travels by car only.\n\nChoose it for a camp where you charge phones, lights and a tablet for four or five days. Four built-in cables mean no tangle.",
     "specs": [
       "50,000mAh, 0.7 lb, 4.2 inches",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41TBSvpYS8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H267CFCN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H267CFCN?tag=rvgearlab-amz-20",
     "description": "Binli is a 50,000mAh bank that is 30 percent smaller and 15 percent lighter than traditional high-capacity banks, at 0.75 lb and about 4.4 by 2.8 by 1.2 inches. It has four built-in cables for Micro-B, USB-C and other connectors, 22.5W charging, an LED display and 8-layer safety protection.\n\nAt about $23 it costs $10 less than the YBYP for the same rated capacity. It has a bigger body and a slightly slower marketing claim of 55 percent charge in 30 minutes on a phone.\n\nChoose it for the lowest price per mAh in the guide. It suits road trips and base camps.",
     "specs": [
       "50,000mAh, 0.75 lb",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41GzEENvuwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CB1FW5FC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CB1FW5FC?tag=rvgearlab-amz-20",
     "description": "INIU is a 10,000mAh bank that is 40 percent smaller than standard banks and puts out 45W, enough to take an iPhone 17 Pro Max to 76 percent in 30 minutes. A detachable 0.4 foot braided cable is included and it is TSA compliant.\n\nAt about $22 it is a third the capacity of the YBYP and the fastest charger of the small banks. The VEEKTOMX costs $12 less and is slower.\n\nChoose it for a day hike or a flight, where size and speed matter more than days of power. It fits in a pocket.",
     "specs": [
       "10,000mAh, 45W output",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31nKssgxmfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GXK1KYFQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GXK1KYFQ?tag=rvgearlab-amz-20",
     "description": "VEEKTOMX holds 10,000mAh in a 4.57 by 2.83 by 0.66 inch body weighing 6.4 oz. It has 22.5W PD 3.0 and QC 3.0 output, a USB-C port with input and output, a USB-A port, an LED level indicator and CE, RoHS and FCC certification.\n\nAt about $10 it is the lowest price in the guide and the lightest. It has half the capacity of the INIU 20000mAh for a third of the price.\n\nChoose it for an emergency spare bank in a day pack. It is airline friendly.",
     "specs": [
       "10,000mAh, 22.5W PD and QC",

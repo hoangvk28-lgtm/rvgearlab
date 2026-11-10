@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ffjVNpybL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DTTR3XMK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DTTR3XMK?tag=rvgearlab-amz-20",
     "description": "The HINSTANT offers 4, 6, 8 and 10 person versions with a pre-attached pole structure that sets up in 60 seconds. The 6 person version measures 10 x 9 ft with a 73 inch height.\n\nIt has more headroom than the Rivenlo and uses 190T PU2000mm polyester taffeta with a rainfly and four large mesh windows. The extra height is the main difference from the HUI LINGYANG's low 52 inch roof.\n\nIt suits families of five who want room to stand and a fast setup. Order the 6 person size for the best fit.",
     "specs": [
       "6 person size is 10 x 9 ft",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zCjX5xJXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GQGT17KY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GQGT17KY?tag=rvgearlab-amz-20",
     "description": "The Rivenlo is a 5 to 6 person pop-up tent that measures 142 x 96 x 51.2 inches. It has a removable rainfly with an overhead skylight, and double panels let you close or roll up the outer layer.\n\nIt is the pick that states a 5 person capacity most directly, and its two doors and four mesh windows give strong airflow. Compared with the HINSTANT, it is longer and lower, and it adds a lantern hook and storage pockets.\n\nIt fits a family that wants a skylight and a closable layer for cooler nights. Plan on sitting rather than standing inside.",
     "specs": [
       "142 x 96 x 51.2 in floor",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41l5kLAiKBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B083J5J3ZX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B083J5J3ZX?tag=rvgearlab-amz-20",
     "description": "The HUI LINGYANG is a 4 person pop-up tent that measures 9.5 x 6.6 ft with a 52 inch center. The listing says four fit in sleeping bags, while two or three fit with lots of gear.\n\nIt is smaller than the Rivenlo and HINSTANT, with double panels, 4 mesh windows and 2 doors, and taped seams that the listing says keep it dry in light rain. The floor is 9.5 ft long, which is shorter than either neighbor.\n\nIt suits a family of four with kids that wants a fast, inexpensive pop-up. Five campers would need to step up in size, and the low roof suits sleeping more than lounging.",
     "specs": [
       "9.5 x 6.6 ft floor",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41-43wmuerL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DRVD6TLK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DRVD6TLK?tag=rvgearlab-amz-20",
     "description": "The Elegear is a 4 to 6 person pop-up beach tent with a patented spring-loaded pole system for 1-second setup. A 360 degree removable canopy is double-layered and uses an omnidirectional zipper.\n\nIt is the only shade-focused tent in the group, with UPF 50+ and PU2000 polyester and 8.5mm fiberglass rods that the listing contrasts with thinner 6.0mm rods. That makes it better for sun than for overnight camping.\n\nIt suits families spending a day at the beach or park who want a quick shade shelter that holds five. It is not designed as a night tent.",
     "specs": [
       "4 to 6 person pop-up shelter",

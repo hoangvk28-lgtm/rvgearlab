@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hCyk-j8LL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00363PSKK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00363PSKK?tag=rvgearlab-amz-20",
     "description": "The Coleman Dunnock is a 20°F-rated Big 'n Tall bag that fits people up to 6 ft 4 in. It has Fiberlock construction, a cotton cover, a soft cotton flannel liner and a Thermolock draft tube along the zipper.\n\nCompared with the Coleman Heritage, it is lighter on fill and rated for a milder 20°F instead of 10°F, which makes it easier to pack and a better fit for most trips. Against the HiZYNICE XXL, it comes from a brand with a patented ZipPlow zipper that resists snagging.\n\nIt suits the camper who mostly sleeps in 30s and 40s and wants a proven, washable bag. It is the sensible default at this budget.",
     "specs": [
       "20°F rated, up to 6 ft 4 in",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51vQtfJlBuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B7GLZV47?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B7GLZV47?tag=rvgearlab-amz-20",
     "description": "The HiZYNICE XXL is an oversized cut with a 6 ft 7 in height limit. Its listing gives 30°F comfort, 15°F limit and 0°F extreme ratings, with a cotton flannel lining and a draft tube along the zipper.\n\nNext to the Coleman Dunnock, it adds roughly 3 inches of height room and a more detailed rating breakdown. Against the Coleman Heritage, it is easier to read on temperature, with no fill weight named.\n\nIt fits big, tall and side sleepers who need to roll over inside the bag. The two-way zipper opens from either end for ventilation.",
     "specs": [
       "30°F comfort, 0°F extreme",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41keO1KCq5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B004J2FB5Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B004J2FB5Y?tag=rvgearlab-amz-20",
     "description": "The Coleman Heritage Big & Tall carries 5 pounds of Holofill 808 insulation and a 10°F rating in a 40 by 84 inch bag. It uses a heavy-duty cotton cover, a synthetic flannel liner and the FiberLock system that keeps fill from shifting.\n\nIt is the coldest-rated of the three, ahead of the Coleman Dunnock at 20°F and the HiZYNICE XXL at 30°F comfort. It also includes Wrap 'N' Roll storage.\n\nIt suits campers who run cold and have a car for hauling. The fill makes it the warmest choice near the top of the budget.",
     "specs": [
       "10°F rating, 5 lb Holofill 808",

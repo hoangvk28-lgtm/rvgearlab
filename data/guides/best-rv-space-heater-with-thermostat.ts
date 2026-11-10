@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41s5nIlULzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B095PP1GZR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B095PP1GZR?tag=rvgearlab-amz-20",
     "description": "The DREO 1500W tower is an ETL-certified heater with V0 flame retardant materials, tip-over protection and overheat protection. Its 1500 watt PTC ceramic element heats in seconds, and it runs as quiet as 34 dB with an oblique airflow fan and a trackball oscillation system.\n\nIt costs more than the other DREO models and carries the ETL certification on the listing. The trackball oscillation is quieter than the plain fan swivel on the cheaper pick.\n\nBest for owners who want a quiet, certified main heater with a thermostat. A premium pick for bedrooms.",
     "specs": [
       "1500W PTC ceramic",
@@ -53,7 +53,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/513cwOYPmUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C6FFK1GV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C6FFK1GV?tag=rvgearlab-amz-20",
     "description": "This DREO model combines a Hyperamics 1500 watt PTC system with a heat funnel design and an NTC chipset for precise thermostat control. A tilt-detection sensor adds protection, and a brushless DC motor keeps noise low.\n\nIt costs noticeably less than the tower and gives a remote control. Its NTC chipset is the temperature sensor that sets its thermostat apart.\n\nBest for owners who want a remote and precise temperature holding. A strong mid-priced pick.",
     "specs": [
       "1500W Hyperamics PTC",
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51xr+Ln-YiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D9KBQ3PG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D9KBQ3PG?tag=rvgearlab-amz-20",
     "description": "A second DREO listing repeats the Hyperamics 1500 watt system, heat funnel, NTC chipset and tilt-detection safety. It also carries a brushless DC motor and a remote.\n\nCost and features match the first DREO listing. Compared with the OLIXIS, it lists the NTC sensor by name.\n\nBest for buyers who want a second identical heater for another room. A like-for-like pair.",
     "specs": [
       "1500W Hyperamics PTC",
@@ -107,7 +107,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41DZKMmRZ6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HGF2WJCM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HGF2WJCM?tag=rvgearlab-amz-20",
     "description": "The OLIXIS tower has a 1500 watt element and a thermostat that runs from 50 to 95 degrees Fahrenheit. It adds a 12 hour timer, 70 degree oscillation, tip-over protection, overheat shut-off and a child lock.\n\nIt costs about the same as the two DREO remote models and offers a wider stated range. A timer adds control the DREO listings leave out.\n\nBest for owners who want a timer and a wide temperature range. A good value tower.",
     "specs": [
       "1500W element, 50 to 95 F",
@@ -134,7 +134,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/510mk99jmCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DLJDFFMH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DLJDFFMH?tag=rvgearlab-amz-20",
     "description": "The Good Housekeeping wall-mount heater is a 750 watt unit with a thermostat, remote control and digital display. It has two heat settings, a 12 hour timer, overheat protection and a cool-touch housing.\n\nIt costs about half of the DREO tower and uses half the watts. Wall mounting saves floor space, which the tower heaters cannot.\n\nBest for small cabins where floor space is tight. A neat low-wattage option.",
     "specs": [
       "750W wall-mount heater",

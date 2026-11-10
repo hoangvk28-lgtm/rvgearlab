@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51UF30Ej3NL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CFW189Q9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CFW189Q9?tag=rvgearlab-amz-20",
     "description": "The Westinghouse 10000 lists 7600 running watts and 10000 peak watts on gasoline at under 3% THD, with a 420cc OHV engine and a 5.28 gallon tank good for up to 12 hours. It anchors this guide because it states the running figure plainly and pairs it with both an L14-30R and a 14-50R outlet.\n\nIt costs $1149, which is $150 more than the Pulsar GD10KBN but $221 less than the Champion 10000 Tri. Pick this if you want documented running watts, remote key fob start and a 3 year limited warranty. The caveat is that it runs on gasoline only and the listing shows no TT-30 RV outlet, so a 30A rig needs an adapter.",
     "specs": [
       "7600W running, 10000W peak",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41OwRbvcJPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HFJCZJJP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HFJCZJJP?tag=rvgearlab-amz-20",
     "description": "The GENMAX GM10500XiT lists 7800 running watts and 10500 peak watts and runs on gasoline, LPG or natural gas. The listing adds an ATS outlet, a CO sensor, a digital display and a 50A outlet, which makes it the better equipped of the two tri fuel units here.\n\nAt $1189.99 it sits $40.99 above the Westinghouse 10000 and $180.01 below the Champion 10000 Tri. Pick this if you want the extra 200 running watts and a choice of three fuels. The caveat is that the bullets do not list runtime, noise or weight, so check those before assuming it fits your truck bed or a quiet campground.",
     "specs": [
       "7800W running, 10500W peak",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51zTxmm-27L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GRWY7T8Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GRWY7T8Y?tag=rvgearlab-amz-20",
     "description": "The Champion 10,000 watt tri fuel unit runs on natural gas, propane or gasoline and ships with a 25 ft natural gas hose and a 6.6 ft propane hose. It lists under 3% THD, electric start with the battery included and a 3 year warranty. Running watts are not stated, which is the key unknown.\n\nAt $1370 it is the priciest here, $221 over the Westinghouse 10000 and $180.01 over the GENMAX 10500. Pick this if you plan to run from a house natural gas line at a stationary site. The caveat is that you are paying for fuel flexibility and the hose kit, not for a documented higher running figure.",
     "specs": [
       "10,000W, three fuel types",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41GgzJACkBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DH6QTSH4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DH6QTSH4?tag=rvgearlab-amz-20",
     "description": "The Pulsar GD10KBN is a 10500W dual fuel inverter generator with electric start, a wheel kit and a 15-50R outlet listed for RV use. A digital multimeter shows voltage, frequency, total hours and hours until recommended maintenance. Running watts and warranty length are not listed.\n\nIt is the cheapest at $999, which is $150 below the Westinghouse 10000 and $190.99 below the GENMAX 10500. Pick this if budget is the constraint and you will confirm the running figure with the seller first. The caveat is that without a running number, the 10500 headline could be a peak figure well above what it holds continuously.",
     "specs": [
       "10500W, gas or propane",

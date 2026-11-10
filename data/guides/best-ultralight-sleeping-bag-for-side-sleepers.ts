@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/314V2PQAxGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CTBMWSG7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CTBMWSG7?tag=rvgearlab-amz-20",
     "description": "The NEMO Riff is a 15°F down bag with a spoon shape that adds room at the elbows and knees. It has Thermo Gill vents that extend the comfort range and a Blanket Fold draft collar.\n\nCompared with the Sierra Designs Cloud, it is a more tailored bag with vents instead of a zipperless build. Against the Naturehike options, it is a premium product from a brand with an endless promise policy.\n\nIt suits side sleepers who want real warmth, a spoon shape and tuned ventilation. It is the one to buy when budget is secondary.",
     "specs": [
       "15°F down, spoon shape",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31F2Ik1MEJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GMSBHQ8S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GMSBHQ8S?tag=rvgearlab-amz-20",
     "description": "The Sierra Designs Cloud 20 is a zipperless down bag with 800 fill power DriDown (16.4 ounces of fill), 15D nylon ripstop and a trail weight of 1 lb 13.3 oz. It lists an ISO comfort rating of 26°F and a limit of 15°F.\n\nWhere the NEMO Riff uses a spoon shape, this bag uses an oversized integrated comforter that moves with side and active sleepers. Against the Naturehike 0 Degree, it adds a rear pad sleeve that keeps the bag on the mat.\n\nIt suits restless side sleepers who roll off pads. The pad sleeve means the bag and pad stay together.",
     "specs": [
       "800 fill DriDown, 26°F comfort",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411VseDpEXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DR8CYKJQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DR8CYKJQ?tag=rvgearlab-amz-20",
     "description": "The Naturehike 0 Degree bag uses 650 fill RDS-certified down and combines a mummy upper with an envelope lower body. The CW700 lists an ISO comfort rating of 29°F and the CW1000 lists 12°F, with medium and large sizes up to 33.46 inches wide.\n\nCompared with the Naturehike 40 Degree, it offers real cold ratings and a wider large size. Against the Sierra Designs Cloud, it is cheaper and has a conventional zipper.\n\nIt suits side sleepers who want a down bag for cold nights at a mid price. The large size gives the most shoulder room.",
     "specs": [
       "ISO comfort 12°F or 29°F",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41iGf3a81UL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FG2DZ1YJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FG2DZ1YJ?tag=rvgearlab-amz-20",
     "description": "The Naturehike 40 Degree bag weighs 2 pounds and uses 650 fill RDS down in a 400T 20D ripstop shell with YKK zippers. It combines a mummy upper body with a rectangular lower body for knee room.\n\nCompared with the Naturehike 0 Degree, it is lighter and meant for warmer nights. Against the TETON Trailhead, it uses down and packs smaller.\n\nIt suits side sleepers who hike in spring and fall. A compression sack and a storage bag are included.",
     "specs": [
       "2 lb, 650 fill RDS down",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31RpdNwDg2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B007JTLKCC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B007JTLKCC?tag=rvgearlab-amz-20",
     "description": "The TETON Trailhead is a 20 degree mummy with microfiber insulation, a roomy footbox, a zipper draft tube and a soft liner. A stuff sack is included.\n\nCompared with the Naturehike 40 Degree, it is cheaper and rated colder, and it uses synthetic fill. Against the NEMO Riff, it is a basic mummy with less room at the knees.\n\nIt suits side sleepers on a tight budget who still want a 20 degree rating. The roomy footbox helps feet relax.",
     "specs": [
       "20 degree rated mummy",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41pfBY+ln-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B071XXR2Y8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B071XXR2Y8?tag=rvgearlab-amz-20",
     "description": "The Naturehike envelope bag is 80.7 by 33.5 inches, weighs 1.68 pounds and is rated 59°F to 32°F. It compresses to about 5 by 12 inches and is filled with imitation silk cotton.\n\nCompared with the TETON Trailhead, it is much roomier for turning over. Against the Naturehike 40 Degree, it costs far less and skips the down.\n\nIt suits side sleepers who camp in warm weather and want the most room for the money. The envelope shape also works as a blanket.",
     "specs": [
       "1.68 lb, 80.7 x 33.5 inches",

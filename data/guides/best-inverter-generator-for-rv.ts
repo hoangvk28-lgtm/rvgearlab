@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41KmhthYkFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CQMGJLDK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CQMGJLDK?tag=rvgearlab-amz-20",
     "description": "The Westinghouse 4000 lists 4,000 peak and 3,300 rated watts at under 3 percent THD, a recoil start, a telescoping handle and wheel and handle kit, and outlets that include an RV-ready TT-30R 30A, a 5-20R 120V duplex and two USB ports. It claims noise as low as 52 dBA, up to 7 hours on a 1.69 gallon tank in Economy Mode, a rotating digital display and a 3-year limited warranty. It is parallel capable.\n\nIt ranks first because it is the only unit here that publishes a noise figure and a clear outlet list together at $649, which is $14.01 above the WEN 4800 with 700 fewer rated watts. Against the GENMAX 5500 hybrid it costs $150.99 less, but does not claim to start an air conditioner pair. Its 3,300 rated watts is just under the 3,600 watts a 30A coach can draw, so it is well matched to the plug.\n\nPick it if you have a travel trailer with one air conditioner, want a quiet unit at a campground and can use a recoil start. The caveat is that 4,000 peak watts is tight for a 15,000 BTU air conditioner without a soft start, so check the air conditioner's starting amps.",
     "specs": [
       "3,300W rated, 4,000W peak",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/5152RZuvf6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C1QF2SCF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C1QF2SCF?tag=rvgearlab-amz-20",
     "description": "The WEN 56477i lists 4,800 surge and 4,000 rated watts from a 224 cc engine, with onboard wheels, a telescoping pull handle, four 120V three-prong receptacles, one TT-30R RV receptacle, a 12V DC outlet, two USB ports and a fuel shut-off. It has a CO Watchdog shutdown and a three-year warranty. The feature text does not give noise, runtime or weight.\n\nIt ranks second because at $634.99 it has the most rated watts of the 30A-outlet picks and 800 more surge watts than the Westinghouse 4000 for $14.01 less. Compared with the PowerSmart 4800 it costs $35.00 more but publishes a rated figure of 4,000 watts, a CO shutdown and a three-year warranty rather than two. Note that its 4,000 rated watts exceed the 3,600 watts a 30A coach can draw, so the extra goes to starting margin.\n\nChoose it if your air conditioner is older or lacks a soft start and you want extra surge for a compressor. The caveat is that noise and weight are not listed, so check them in the manual if campground rules matter.",
     "specs": [
       "4,000W rated, 4,800W surge",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41f0oNDWzAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GT8WW8XP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GT8WW8XP?tag=rvgearlab-amz-20",
     "description": "The GENMAX GM5500iHD pairs a gas engine with a detachable 144 Wh battery to give 3,800 rated and 5,500 peak watts. The listing says it can start a 15,000 BTU and a 10,000 BTU air conditioner at the same time, supplies 300 watts of AC or DC from the battery alone with the engine off, recharges the battery in about 1.5 hours when voltage is below 16V, and holds under 3 percent THD. It is described as a 2000W-sized frame.\n\nIt ranks third because it is the only unit here that makes an explicit multi-air-conditioner starting claim, at $799.99, which is $150.99 above the Westinghouse 4000 and $165 above the WEN 4800. Its 300 watt battery mode lets you run a fan, laptop or CPAP without engine noise, which no other pick offers. The listing does not name a TT-30R outlet in its feature text, so confirm the outlet before relying on it for a 30A cord.\n\nChoose it if you have two air conditioners, a quiet-hours campground, or devices you want to power overnight without the engine. The caveat is the unconfirmed 30A outlet and the extra cost.",
     "specs": [
       "3,800W rated, 5,500W peak",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41v48x8PTeL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C1Q4K2G7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C1Q4K2G7?tag=rvgearlab-amz-20",
     "description": "The WEN 56360i lists 3,600 surge and 2,900 rated watts from a 149 cc engine, with two three-prong 120V receptacles, one TT-30R RV receptacle, a 12V DC outlet and two 5V USB ports. It weighs 46 pounds according to the listing, has a fuel shut-off and a three-year warranty, and is described as ultralight.\n\nIt ranks fourth because at $498 it costs $136.99 less than the WEN 4800 but gives up 1,100 rated watts. Against the LIFAN 3500 it costs $98.01 more but adds a TT-30R 30A outlet, which makes it the lightest unit here that you can plug a 30A coach cord into. Its 3,600 surge is not enough to start a typical rooftop air conditioner without a soft start.\n\nChoose it for a small trailer, a camper van or a coach without an air conditioner, where 46 pounds is easier to lift. The caveat is that air conditioner use is unlikely without a soft-start kit.",
     "specs": [
       "2,900W rated, 3,600W surge",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41UkXdy+QJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GR937RH1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GR937RH1?tag=rvgearlab-amz-20",
     "description": "The PowerSmart 4800W lists 4,800 starting watts, a one-touch electric start, a fully enclosed body, a 3.4 gallon tank claimed at up to 5 hours of continuous runtime at full load, and outlets that include a 120V 30A RV outlet, two 120V 20A household outlets and USB ports. It is parallel ready, EPA and CARB compliant, and has a CO Shield, low oil and overload protection with a 2-year warranty and lifetime technical support.\n\nIt ranks fifth because the listing gives starting watts but not a rated figure, though at $599.99 it costs $35.00 less than the WEN 4800 and has electric start, which the Westinghouse 4000 lacks. Its 5 hours at full load is a useful number: at a 3,600 watt coach limit, 3.4 gallons would not last a full night. It is also CARB compliant, which matters in California.\n\nChoose it if you want an electric start and a 30A outlet under $600, or you live in a CARB state. The caveat is the missing rated watts and a shorter warranty.",
     "specs": [
       "4,800W starting, parallel ready",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51gIN6FDCKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DPL5PZG8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DPL5PZG8?tag=rvgearlab-amz-20",
     "description": "The LIFAN 3500W lists 3,500 peak and 3,000 rated watts in a 46.3 lb body measuring 22 by 13 by 18 inches with a built-in handle. It has a 1.6 gallon tank claimed at up to 6.5 hours at 50 percent load, ECO mode, pure sine wave output, CO auto shutoff, low-oil and overload protection and parallel readiness. The feature text does not name a 30A outlet.\n\nIt ranks last because it is the only unit here without a named RV outlet, though at $399.99 it costs $98.01 less than the WEN 3600 and $249.01 less than the Westinghouse 4000. Its compact size fits a small storage bay, a van or a pop-up where the others will not. For a 30A coach you would need an adapter or a different pick.\n\nChoose it for a van, a pop-up or a small bay where space and price matter and you only need 120V 20A outlets. The caveat is no named TT-30R and no starting margin for an air conditioner.",
     "specs": [
       "3,000W rated, 3,500W peak",

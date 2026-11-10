@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/316qDSmExmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FD9Z5F3S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FD9Z5F3S?tag=rvgearlab-amz-20",
     "description": "DJI Power 1000 V2 holds 1024Wh in an LFP battery and lists 2600W of stable output, which is enough to run kettles, cookers and power tools. It recharges to 80 percent in 37 minutes, runs as quietly as 26 dB and has dual 140W USB-C ports for 280W of total USB-C power.\n\nIt costs about $400, roughly half of the Jackery bundles, and it matches or beats them on output and charge speed. What it lacks is a panel in the box, which the Jackery kits include.\n\nBuy it if you will recharge mostly from the wall or already own panels and care about quiet and fast turnaround. It suits camper vans and outage backup.",
     "specs": [
       "1024Wh LFP, 2600W output",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41DXVul+maL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C5C89QKZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C5C89QKZ?tag=rvgearlab-amz-20",
     "description": "Anker SOLIX C1000 stores 1056Wh in a LiFePO4 pack rated for 3000 cycles and outputs 1800W AC (2400W with SurgePad) across 11 ports. It charges to 80 percent in 43 minutes and takes up to 600W of solar input.\n\nIt costs about $100 more than the DJI and offers a bigger panel input and a proven brand. The DJI has a higher output rating and faster 80 percent charge, and the Anker pulls ahead if you plan a big panel array.\n\nPick it if you want a well-known brand and strong solar charging without paying for a bundle. It suits RV weekends and home backup.",
     "specs": [
       "1056Wh LiFePO4, 3000 cycles",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31FQnnZQjWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H7HPTDMC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H7HPTDMC?tag=rvgearlab-amz-20",
     "description": "Jackery's HomePower 1000 v2 kit adds a 200W solar panel to a 1024Wh LiFePO4 station with 1500W of pure sine wave AC from three outlets. A 10ms UPS and 3,000V surge shield protect desktops and routers, and the cells are rated for 6000 or more cycles.\n\nIt costs about $750 against $400 for the DJI, which pays for the 200W panel, the 6000 cycle battery and a 50 minute full charge in emergency mode. The Plus v2 adds expansion and four AC outlets for a further $120.\n\nChoose it if outage backup matters more than raw output, and you want a panel included. It suits home offices, medical devices and RV storage.",
     "specs": [
       "1024Wh LiFePO4, 1500W AC",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31FECM5Xx+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HF4JKGMC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HF4JKGMC?tag=rvgearlab-amz-20",
     "description": "Jackery's 1000 Plus v2 kit starts at 1024Wh and expands to 11kWh with up to five add-on battery packs. It has 1800W of AC across four outlets on two independently controlled circuits, 140W USB-C, a 10ms UPS and a 200W panel, with a 5-year warranty.\n\nThe extra outlets and smart load management let you assign critical loads to one circuit and cut off the rest. For that, it costs about $120 more than the HomePower 1000 v2 and adds more AC power.\n\nChoose it if you plan to grow the system into a full home or cabin backup. Battery packs are sold separately, so start small and add as needed.",
     "specs": [
       "1024Wh LiFePO4, 1800W AC",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Ii3eXWiHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D66VD3X4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D66VD3X4?tag=rvgearlab-amz-20",
     "description": "Jackery's Explorer 1000 v2 kit pairs a 1070Wh LiFePO4 station with two 100W solar panels. It outputs 1500W AC with a 3000W surge, charges 0 to 100 percent in about one hour in emergency mode and runs for 4000 cycles to 70 percent capacity.\n\nTwo 100W panels give the same 200W as the single panels in the other kits, and each panel folds smaller and can be angled separately. It is the most expensive pick at about $939, and the HomePower costs about $190 less for a similar station.\n\nPick it if you want flexible panel placement, such as one on a roof and one on the ground. It suits van and RV owners.",
     "specs": [
       "1070Wh LiFePO4, 1500W, 3000W surge",

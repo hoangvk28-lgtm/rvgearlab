@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41RVqzbWwqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09DR857JF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09DR857JF?tag=rvgearlab-amz-20",
     "description": "The TETON Oasis comes in 18L and 22L sizes with a 2L insulated bladder, a kink-free sip tube and a push-lock cushioned bite valve. The listing describes a low-profile athletic cut with full adjustability to fit men, women and youth, with high-density foam shoulder straps and breathable mesh.\n\nCompared with the NOOLA, it states its fit range more clearly and adds an insulated bladder. Against the IX INOXTO, it adds a sewn-in rain cover and weather-guarded zippers.\n\nIt suits women who want a pack that is described as adjustable across body sizes. A bungee system holds a helmet or jacket.",
     "specs": [
       "18L or 22L, 2L insulated bladder",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51FGnGOnZiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G4MDPCWB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G4MDPCWB?tag=rvgearlab-amz-20",
     "description": "The NOOLA is a 25L pack with a 3L leakproof TPU bladder, a dedicated bladder sleeve, nine pockets and a quick-draw phone pocket. The listing says it is made for women and men, with breathable mesh padding, ripstop polyester and a built-in rain cover.\n\nCompared with the TETON Oasis, it carries more with 25L and a 3L bladder. Against the NEVO RHINO, it adds nine pockets and a rain cover.\n\nIt suits full-day hikers who carry layers and lunch as well as a lot of water. Rainproof zippers protect the contents.",
     "specs": [
       "25L with 3L TPU bladder",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41UqsmHzBAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09V81QSC6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09V81QSC6?tag=rvgearlab-amz-20",
     "description": "The NEVO RHINO is an 18L pack with a 3L PEVA bladder that the listing describes as free of harmful substances. The shoulder straps, waist straps and back are breathable, and a thermal insulated bladder compartment keeps liquid cool.\n\nCompared with the NOOLA, it is smaller and uses a thermal compartment. Against the IX INOXTO, it holds more water and adds waist straps.\n\nIt suits hikers who want cold water on warm days. Multiple compartments handle gear for cycling, camping and commuting.",
     "specs": [
       "18L with 3L PEVA bladder",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41SF-16LabL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G8FT81PQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G8FT81PQ?tag=rvgearlab-amz-20",
     "description": "The Blue Quartz is an 18L hiking backpack with a BPA-free and PVC-free 2L bladder that has a wide opening for ice. Breathable mesh shoulder straps, a ventilated back panel and an internal zip pocket with a key clip complete the build.\n\nIt is the lowest-cost pack here. Compared with the TETON Oasis, it gives the same 18L size and a 2L bladder at a lower cost.\n\nIt suits budget hikers and festival-goers who want a basic hydration pack. A phone pocket is included.",
     "specs": [
       "18L, 2L BPA-free bladder",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41E1H-0EGRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GXDW2PDR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GXDW2PDR?tag=rvgearlab-amz-20",
     "description": "The IX INOXTO is a 15L pack with a 2L bladder, an XEP hollow back panel with high-elastic mesh and a multi-compartment layout. It adds external hanging points, reflective strips and a safety whistle on the shoulder straps.\n\nCompared with the NOOLA, it is a lighter, smaller pack suited to a small frame. Against the NEVO RHINO, it adds a hollow back panel for airflow.\n\nIt suits hikers and runners who want a compact pack. It is suited to hiking, cycling and skiing.",
     "specs": [
       "15L with 2L bladder",

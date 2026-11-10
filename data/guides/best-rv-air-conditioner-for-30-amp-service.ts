@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31-qtUdS87L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H89NFGB4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H89NFGB4?tag=rvgearlab-amz-20",
     "description": "The Coleman-Mach 15 is a 15,000 BTU heat pump with PowerSaver efficiency that the listing says draws just 11.7 amps. It is described as ideal for 30-amp shore power and smaller generators and has a noise-reducing ducted design.\n\nAgainst the Arsenda 18K and Juliba 18K, it gives up 3,000 BTU of cooling and adds a stated amp draw and a ducted layout. Against the FOGATTI 18K, it adds heat pump heating.\n\nBest for travel trailers and fifth wheels on 30-amp pedestals with ducts. The all-black shroud is a styling option.",
     "specs": [
       "15,000 BTU heat pump",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41qX4IwZh2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GSQKC7T7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GSQKC7T7?tag=rvgearlab-amz-20",
     "description": "The FOGATTI RV Air Conditioner is a ducted 18,000 BTU cooling-only unit listed for RVs up to 2,836 cubic feet of space and heat up to 114 degrees F. It offers control by remote, mobile app, ADB panel or Alexa voice, and runs at 52 dB.\n\nAgainst the Coleman-Mach 15, it offers more cooling but no heat pump. Against the Arsenda 18K, it adds smart control and a ducted layout.\n\nBest for large ducted RVs that need heavy cooling and have another heat source. It needs both 115V AC and 12V DC.",
     "specs": [
       "18,000 BTU cooling only, ducted",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31txWl+4XmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GS92J6XW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GS92J6XW?tag=rvgearlab-amz-20",
     "description": "The Arsenda 18000 BTU Rooftop RV Air Conditioner delivers 18,000 BTU cooling and 10,236 BTU of heating on 110-120V in a non-ducted layout. The listing says it runs 50 dB and requires both 115V AC and 12V DC connections.\n\nAgainst the Juliba 18K, it offers the same capacity and price with a similar listing. Against the Coleman-Mach 15, it provides 3,000 more BTU at a much lower price.\n\nBest for non-ducted roofs where more cooling is wanted at a reasonable price. Pair it with a soft start on 30-amp service.",
     "specs": [
       "18,000 BTU, 10,236 BTU heat",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41o0gVL0XnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GRZ8XPTL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GRZ8XPTL?tag=rvgearlab-amz-20",
     "description": "The JULIBA 18000 BTU RV Rooftop Air Conditioner pairs 18,000 BTU cooling with 10,236 BTU heating on 110-120V. The listing says it works from 23 to 115 degrees F outdoors and runs at 50 dB.\n\nAgainst the Arsenda 18K, it states the same capacity and price with a listing focused on four-season use. Against the Gidrox 12V, it runs on shore power rather than a battery bank.\n\nBest for campers who want heat pump heating in shoulder seasons. It requires both 115V AC and 12V DC.",
     "specs": [
       "18,000 BTU, 10,236 BTU heat",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/219s7r9dm5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DWF6WXVW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DWF6WXVW?tag=rvgearlab-amz-20",
     "description": "The outequip 12V 10,000 BTU rooftop unit includes a 4,500 BTU PTC heater and lists cooling in 15 minutes. It uses UV-stabilized ABS, an EPDM foam gasket and a zinc-coated condenser.\n\nAgainst the Gidrox 12V, it adds a PTC heater at a higher price. Against the Coleman-Mach 15, it runs from a 12V bank instead of the 30-amp circuit.\n\nBest for owners who want to keep air conditioning off the shore power circuit. The listing says the heater is for mild temperatures only.",
     "specs": [
       "12V DC, 10,000 BTU",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hObg9Wm3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GWGPP643?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GWGPP643?tag=rvgearlab-amz-20",
     "description": "The Gidrox 10,000 BTU 12V DC RV Air Conditioner uses inverter technology and the listing says it needs no power inverter. The listing cites about 350W average at night, 40 dB in Sleep mode and control by app, remote or panel.\n\nAgainst the outequip 12V Heater, it costs less and drops the heater. Against the Arsenda 18K, it uses a battery bank rather than 115V.\n\nBest for owners who want a battery-powered unit that leaves the 30-amp circuit free. The app connects by Bluetooth.",
     "specs": [
       "12V DC, 10,000 BTU inverter",

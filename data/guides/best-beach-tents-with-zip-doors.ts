@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41lQ+KkE0NL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BXPH953B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BXPH953B?tag=rvgearlab-amz-20",
     "description": "The OutdoorMaster Blackout is a 4-person pop-up measuring 94.4 by 55.1 by 53.1 inches with a built-in zippered door meant for changing clothes. Its blackout coating is listed as blocking 99.95 percent of UVA and UVB and eliminating 95 percent of sunlight.\n\nThe frame uses thickened 9.5mm rods with 190T fabric, and the extended front floor adds a spot for gear. Compared with the Wolfwise and Abahub it is the only one with a blackout layer that makes the interior darker, which helps naps.\n\nIt suits families who want true privacy and a dim, cool interior. It has a large mesh door and windows for airflow when open.",
     "specs": [
       "Blackout coating, 95% light cut",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31IWHI8v31L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H2XGD6HP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H2XGD6HP?tag=rvgearlab-amz-20",
     "description": "The FANTASK is a 3-4 person quick-up shelter measuring 278 by 140 by 142 centimeters. It has a zip door that fully opens to expand the floor area, four mesh windows and skylights, plus three sandbags, pegs and wind ropes.\n\nAgainst the OutdoorMaster it has more mesh windows, and next to the Wolfwise it lists skylights for extra light. High-strength fiberglass poles and sandbags support windy beaches.\n\nIt suits families who want a zip door that doubles as an open front for airflow. The 142 cm height gives more upright room.",
     "specs": [
       "Zip door opens fully",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41TIy8BQP8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07ZFC9CWW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07ZFC9CWW?tag=rvgearlab-amz-20",
     "description": "The Wolfwise Instant has a spring opening system that one person can pitch in seconds and a zippered door and window. It opens to 98.4 by 53.1 by 53.1 inches with a 51.1 inch porch and is sold as a 3-4 and a 4-5 person size.\n\nCompared with the FANTASK and Abahub it adds a front porch and a faster pitch, using three oversized mesh windows. It is water repellent with a silver coating inside to block UV.\n\nIt suits parents and changers who value fast setup and a private zippered opening. The porch extends the living area.",
     "specs": [
       "98.4 x 53.1 x 53.1 in",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41DwMwtZWGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GJ3FFW2N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GJ3FFW2N?tag=rvgearlab-amz-20",
     "description": "The Abahub 3-Person measures 82.7 by 55.9 by 51.2 inches with 2 doors and 2 mesh windows for cross airflow. The floor extends 43 inches, and 8mm fiberglass poles come with 4 sandbags, 4 steel stakes and plastic guy line pieces.\n\nIt is the cheapest option and the only one with two doors, so air moves through from both ends. Against the Wolfwise it skips the spring pop-up, and the foldable design pitches in minutes.\n\nIt suits small families and budget buyers who want two openings and a stake-and-sandbag kit. UPF 50+ protection is listed.",
     "specs": [
       "2 doors, 2 mesh windows",

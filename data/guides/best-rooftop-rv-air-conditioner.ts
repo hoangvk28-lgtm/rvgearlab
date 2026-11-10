@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31M9j7Q+anL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DM6YMJNY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DM6YMJNY?tag=rvgearlab-amz-20",
     "description": "The Furrion Chill Cube is a non-ducted rooftop unit built around variable speed compressors and a bolt-on installation with a step-by-step guide. It weighs 72.4 lbs and uses an aerodynamic rooftop shape meant to cut drag.\n\nNext to the VEVOR and Dometic 13.5K units it steps up to 18,000 BTU class capacity, and its compressors run continuously instead of cycling hard on and off. Compared with the two Arsenda 18K models, it focuses on soft, variable running rather than a heat pump.\n\nIt is the pick for owners of larger non-ducted coaches who want smoother power draw. The lighter weight also eases the job of lifting it onto the roof.",
     "specs": [
       "Variable speed compressors",
@@ -53,7 +53,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/219s7r9dm5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DWF6WXVW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DWF6WXVW?tag=rvgearlab-amz-20",
     "description": "The outequip is a 12V, 10,000 BTU low-profile rooftop unit with a 4,500 BTU PTC heater for mild days. It lists UV-stabilized ABS, an EPDM foam gasket and a zinc-coated condenser.\n\nUnlike every other unit here it runs from a 12V system, so it keeps the shore power circuit free, and the Furrion and Dometic both need 120V. A remote with eco, sleep and turbo modes gives it a feature set the VEVOR panel only partly matches.\n\nChoose it for vans, trucks and small campers where 120V is not on the table. The built-in heater adds some shoulder-season use.",
     "specs": [
       "12V DC, 10,000 BTU",
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31CL-L4q20L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BGYXHZ72?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BGYXHZ72?tag=rvgearlab-amz-20",
     "description": "The Dometic FreshJet 3 is a 13.5K rooftop unit that is 14 percent lighter than Brisk II models and is listed as backwards-compatible with existing Dometic and competitor air distribution boxes. The listing also credits it with higher airflow than competing rooftop units.\n\nThat compatibility is its edge over the VEVOR, which brings its own box and panel, and over the Furrion, which is sold as the unit only. The listing also claims 4 dB less noise than select competing rooftop units.\n\nIt is the practical choice when you are replacing an existing rooftop unit and want to keep your ceiling assembly. Dometic owners get the most direct path.",
     "specs": [
       "13.5K BTU rooftop unit",
@@ -108,7 +108,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41LdKJ+FnNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DYJFMQBH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DYJFMQBH?tag=rvgearlab-amz-20",
     "description": "The VEVOR ships as a 13,500 BTU non-ducted unit with the air distribution box, operation panel and installation hardware included. It fits standard 14.25 x 14.25 inch roof openings and uses R32 refrigerant.\n\nCompared with the Dometic it saves hunting for compatible interior parts, and against the Furrion it costs noticeably less. Auto, cooling and 3-speed fan modes cover everyday use, and the EPP shell insulates the housing.\n\nIt suits owners who want one box with every part needed to go from roof to ceiling. First-time installers avoid chasing compatible parts.",
     "specs": [
       "13,500 BTU, R32 refrigerant",
@@ -136,7 +136,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41VcQhyu6-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H6WQ4RMR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H6WQ4RMR?tag=rvgearlab-amz-20",
     "description": "The Arsenda 18,000 BTU unit does both cooling and heating through a heat pump and uses R32 refrigerant. It is rated for outdoor temperatures from 23°F to 115°F and fits 14.25 inch roof openings.\n\nAgainst the Furrion it adds heating, and against the 13.5K units it brings more cooling capacity. The sister Arsenda model leads on quietness, so this one is the broader-range option.\n\nIt is built for shoulder-season campers who want one rooftop unit for heat and cooling. The wide stated temperature range suits changing weather.",
     "specs": [
       "18,000 BTU heat pump",
@@ -164,7 +164,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41RCxEWWSHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GS8DCBQV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GS8DCBQV?tag=rvgearlab-amz-20",
     "description": "This Arsenda 18,000 BTU rooftop unit runs on 110-120V, is non-ducted and is listed at 50 dB. It includes a heat pump and UV-resistant rooftop construction.\n\nIt is quieter on paper than the VEVOR's 65 dB figure, and it shares the heat pump with the other Arsenda. Both Arsenda units need a 12V DC feed in addition to 115V AC, which is the main extra to plan for.\n\nIt works for travelers who sleep close to the unit and want a lower published noise level. The heat pump keeps it useful outside of summer.",
     "specs": [
       "18,000 BTU, 50 dB listed",

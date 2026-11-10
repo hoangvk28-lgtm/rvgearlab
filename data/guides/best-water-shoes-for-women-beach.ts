@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41wQyObkqYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CJRKG474?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CJRKG474?tag=rvgearlab-amz-20",
     "description": "The ziitop Lock-Lace is a stretch-mesh sock-style shoe on an anti-slip rubber outsole, closed with a lock-equipped elastic lace. It is called amphibious, for use in water and on land.\n\nA locking lace gives a snugger beach fit than the slip-on SEEKWAY Deep Tread and the ATHMILE Aqua Socks, which matters when sand works its way in. It sits at the top of the price range for this group.\n\nIt suits a woman who wants a shoe that stays on during beach volleyball and long walks along the surf. The mesh drains quickly after a wave.",
     "specs": [
       "Locking elastic lace",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51IKTnDzE8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CY2PWF1G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CY2PWF1G?tag=rvgearlab-amz-20",
     "description": "The ATHMILE Hiking Barefoot is a sock-style shoe built on a heavy rubber sole with a toe cap, topped by a breathable elastic upper. It is light, easy to carry and built to resist wear where upper meets sole.\n\nThe thick sole and toe cap give more shell and hot-sand protection than the ATHMILE Aqua Socks and SEEKWAY Deep Tread. It packs smaller than the Stelle Cord-Lock.\n\nIt suits a woman who walks on rocky or shelly shorelines and wants a thicker barrier under her feet. Printed styles let you pick a look.",
     "specs": [
       "Thick rubber sole, toe cap",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41LyrgagKQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DXDRG744?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DXDRG744?tag=rvgearlab-amz-20",
     "description": "The Stelle Cord-Lock is a women's water shoe with drainage holes in a breathable mesh sole, a thick supportive anti-slip rubber outsole and adjustable laces with a cord lock. A roomy, flexible fit contours around the toes without pinching.\n\nSold specifically as a women's shoe with a cord-lock closure, which gives a more tunable fit than the SEEKWAY Deep Tread. It is cheaper than the ziitop Lock-Lace.\n\nIt works for a woman who wants roomy toes and a secure fit for beach walks, kayak launches and gardening afterward. The cord-lock releases fast when the day ends.",
     "specs": [
       "Women's cut, cord-lock laces",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/418gNTSfPjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B3MT82WQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B3MT82WQ?tag=rvgearlab-amz-20",
     "description": "The ATHMILE Aqua Socks are breathable, quick-dry elastic aqua socks with a thick insole, an anti-slip sole and a foldable, flexible build. The listing recommends choosing a size half smaller because of upper stretch.\n\nThe thick insole is softer underfoot than the SEEKWAY Deep Tread lists, and it costs only slightly more. It is far lighter and cheaper than the Stelle Cord-Lock.\n\nIt is a good match for a woman who wants a cushioned, ultra-packable pair for beach trips and vacations. It folds flat in a purse.",
     "specs": [
       "Thick insole, anti-slip sole",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41L+jLnwQML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07ZQFDK2K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07ZQFDK2K?tag=rvgearlab-amz-20",
     "description": "The SEEKWAY Deep Tread has a rubber outsole with a deep, multi-directional traction pattern, a thickened and reinforced sole against shells and hot sand, and a breathable, quick-drying upper. The stretchable slip-on entry hugs the foot.\n\nIt carries the lowest price tag in the list and still lists a reinforced sole, which makes it a stronger value than the ATHMILE Aqua Socks. It has a more aggressive tread than the ziitop Lock-Lace.\n\nIt suits a woman who wants a basic, light beach shoe with real tread and does not need an adjustable closure. It rolls up small for the bag.",
     "specs": [
       "Deep multi-directional tread",

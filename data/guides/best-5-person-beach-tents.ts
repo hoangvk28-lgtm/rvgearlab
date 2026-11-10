@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41bPnNWJw-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09Y1MBMYY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09Y1MBMYY?tag=rvgearlab-amz-20",
     "description": "The Oileus XXL is a pop-up beach tent labeled for 5 to 6 people, with a listed size of 98.4 by 55 by 58 inches. It uses 210T polyester with a 3000mm PU coating and a 99% UV block, with 9mm fiberglass poles.\n\nIt has the larger capacity and the stronger water rating of the two, and it adds an awning and three windows. The WolfWise sells for roughly half the price and has a deeper front porch.\n\nIt suits families of two adults and up to four kids who want one big pop-up shade. It weighs about 5 lbs and folds in under 30 seconds.",
     "specs": [
       "5 to 6 person pop-up",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41TIy8BQP8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07ZFC9CWW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07ZFC9CWW?tag=rvgearlab-amz-20",
     "description": "The WolfWise is an instant beach tent for 4 to 5 people that opens when a spring system is released. It measures 98.4 by 53.1 by 53.1 inches with a 51.1 inch front porch, and it uses UPF 50+ water-repellent polyester silver-coated inside.\n\nIts price is roughly half the Oileus figure and it has a deeper porch. It also has a zippered door and window, which the other tent only describes as a pop-up with windows.\n\nIt suits a smaller crew that needs private space for changing and a shaded spot for resting. One person can set it up.",
     "specs": [
       "4 to 5 person pop-up",

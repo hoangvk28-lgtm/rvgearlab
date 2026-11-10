@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41dM9VJILNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DK6S5R9Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DK6S5R9Q?tag=rvgearlab-amz-20",
     "description": "The Dandelion Shell is a hot tent cabin listed for 2 to 3 people, with a footprint of 98.43 by 59 inches and a 78.74 inch height. It uses 70D silicone-coated polyester, a heat-resistant stove jack, aluminum alloy poles and a fireproof ground mat, and it weighs about 11.24 lb.\n\nAgainst the POMOLY it stands far taller, since that tent lists a 4.9 ft peak, and it costs less. Compared with the CampRavox it lists a fireproof ground mat.\n\nIt is the pick for two campers who want to stand inside and use a stove. The package includes 16 stakes, 5 guy ropes and four hooks.",
     "specs": [
       "2-3 person hot tent cabin",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31vc6JlUBEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CWRSFWP9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CWRSFWP9?tag=rvgearlab-amz-20",
     "description": "The POMOLY Chalet 70 Pro is listed for 2 to 3 people and expands to 8.2 by 6.56 by 4.9 ft. It uses 70D plaid ripstop polyester with a 2500mm rating, two 7001 aluminum poles, and a built-in fireproof ground sheet of silicone and fiberglass cloth.\n\nIt carries the only millimeter rating in this group and adds side rain curtains on both doors, so you can ventilate in rain. Against the Dandelion it trades standing room for a rated shell and two opposing doors.\n\nIt suits couples who camp in changing weather and want a rated hot tent. An ember mat and two sets of guylines with eight tie-down points are part of the kit.",
     "specs": [
       "2-3 person, 8.2 x 6.56 ft",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31QJXQy4TtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GS9SCNXC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GS9SCNXC?tag=rvgearlab-amz-20",
     "description": "The CampRavox is sold as a 2-person tent with an inner compartment for two and a separate vestibule beside it. It uses 70D ripstop fabric with a waterproof coating, two large doors and an integrated Y-pole frame.\n\nIt is the only pick sold as a plain 2-person tent, and the vestibule keeps the entrance separate from the bed. Against the POMOLY it lists no millimeter rating, and its stove jack arrives uncut, so you cut the opening to fit your stove.\n\nIt suits two campers who want an honest 2-person size with gear space. The dual doors cut condensation and improve airflow.",
     "specs": [
       "2 person inner, vestibule",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/3191wzQbyDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F9YFFRHW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F9YFFRHW?tag=rvgearlab-amz-20",
     "description": "The TOMOUNT is a canvas bivy shelter for two, and it measures 141.73 by 78.74 inches when the inner tent is not in use. With the inner tent it gives an 82.68 inch long, 39.37 inch high sleeping space, and TC cotton keeps the interior cool in summer and warm in winter.\n\nIt is a different style from the cabins above, with expansion sidewalls and a snow skirt that open the shelter in summer. Against the Dandelion it offers a larger covered footprint and a 12-month warranty.\n\nIt suits campers who like canvas and a flexible layout. Several assembly modes let you set it up open or closed.",
     "specs": [
       "Canvas bivy shelter for two",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Eklyfc5RL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07N8LKWN4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07N8LKWN4?tag=rvgearlab-amz-20",
     "description": "The Outsunny is a 4-in-1 cot tent combo with a standard tent, a 2-person cot, an air mattress and a removable bed cover. The cot holds up to 352 lbs, the legs are aluminum alloy, and the cot and mattress can be used separately.\n\nIt is not a cabin tent, and it lifts you off wet ground, which no other pick here does. Against the others it offers a built-in sleeping system and a rolling bag, and the listing says it is not recommended for use in rainy weather.\n\nIt suits fair-weather campers who want to sleep off the ground. The air mattress inflates with a foot pump.",
     "specs": [
       "Cot tent, 4-in-1 combo",

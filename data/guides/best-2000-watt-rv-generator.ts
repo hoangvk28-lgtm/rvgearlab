@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41foXvygQkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F4KRS57W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F4KRS57W?tag=rvgearlab-amz-20",
     "description": "The BILT HARD is listed as 2,500 starting watts and 2,000 running watts, which makes it the only pick here that publishes a continuous rating equal to the 2000 in the keyword. It uses an 80cc four-stroke OHV engine, a 1.11-gallon tank that the listing says gives up to 5.5 hours at 50 percent load, pure sine wave output under 3 percent THD, two 120V NEMA 5-20 outlets and a 12V 8A DC output. A carbon monoxide sensor shuts the engine down automatically.\n\nIt ranks above the All Power America by 200 running watts for $21 more, and above the GENMAX by 400 running watts for $30 less. What it gives up is the weight and noise advantage of the GENMAX, because the listing publishes no weight or decibel figure, so you cannot confirm it is as light or quiet. The parallel kit is sold separately.\n\nPick it if you want the full 2000 watts as a continuous number, for example a compressor fridge plus lights and a laptop at once. The caveat is the missing weight and noise data, so check the carton dimensions before assuming it fits a tight bumper or bay compartment.",
     "specs": [
       "2,500 start, 2,000 running watts",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41a7mVV4WaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GWD6HGVF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GWD6HGVF?tag=rvgearlab-amz-20",
     "description": "The All Power America generator is the cheapest here at $278.99 and lists 2,000 starting watts with 1,800 running watts from a 79.7cc gas engine. It weighs 39.6 pounds, runs at 62 dBA at 25 percent load, and the listing claims up to 6.5 hours at 50 percent load from a 0.88-gallon tank. The panel carries two 120V 20A outlets and two USB ports, plus low oil, overload and CO warning lights with CO shutdown.\n\nIt ranks second because it costs $21 less than the BILT HARD while giving up 200 running watts, and it undercuts the GENMAX by $51 while offering 200 more running watts, though it is 5.6 pounds heavier at 39.6 versus 34 pounds. Both it and the GENMAX offer 120V 20A outlets rather than a 30A RV plug.\n\nThis suits a weekend camper with a fridge, lights and chargers who wants the lowest entry price. The caveat is that 1,800 running watts will not start a typical 13,500 BTU air conditioner, so treat it as a small-loads generator.",
     "specs": [
       "1,800 running watts",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41IyhOGva1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09GVD9L71?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09GVD9L71?tag=rvgearlab-amz-20",
     "description": "The GENMAX GM2000i is the lightest generator in this group at 34 pounds, with a 79.7cc four-stroke OHV engine, 2,000 starting watts and 1,600 running watts. The listing gives 60 dBA, a claim of 8 hours at 50 percent load on a 1-gallon tank, an Eco mode, CO detect shutdown, low oil and overload alarms, 120V 20A outlets and one 5V 1A port.\n\nIt ranks third because it has the lowest running rating of the five, 400 watts below the BILT HARD, while costing $30 more at $329.99. In return it is 5.6 pounds lighter than the All Power and states a lower 60 dBA figure than the All Power's 62. Against the K&S it is $239.01 cheaper but gas-only.\n\nChoose it if you lift the generator in and out of a truck bed or trunk every trip and your loads stay under about 1,600 watts. The caveat is that the 1,600 running number is the one to size against, not the 2,000 on the box.",
     "specs": [
       "1,600 running watts",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41OuIhIKHcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CGM54L85?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CGM54L85?tag=rvgearlab-amz-20",
     "description": "The K&S KS 2000iHS CO runs on gasoline or propane and ships with the hose and regulator needed for propane. The listing describes pure sine wave 120V 60Hz output, a soundproof housing at 57 dB at 23 feet, an Eco mode said to cut fuel use by up to 50 percent at low loads, and up to 2000 watts of output. It does not publish separate starting and running figures, weight or tank size.\n\nAt $569 it costs $269.01 more than the BILT HARD and $239.01 more than the GENMAX, and all that premium buys is dual fuel and a slightly quieter 57 dB figure. Against the AFOERIT, which also lists 57 dB, it adds propane for $270.\n\nPick it if you already carry propane for a camp stove or want fuel that stores for years without going stale. The caveat is the price and the missing running-watt split, so ask the seller what the continuous rating is on each fuel before relying on 2000.",
     "specs": [
       "Gasoline or propane",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41xojzozY2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FHJZ347W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FHJZ347W?tag=rvgearlab-amz-20",
     "description": "The AFOERIT lists a 2000W gas inverter engine with a cast iron cylinder liner, pure sine wave output, 57 dB operation, a built-in CO shutdown, low-oil shutdown, overload protection, EPA approval and a two-year warranty. At $299 it sits just $0.99 below the BILT HARD. The listing text does not state starting versus running watts, weight, or tank size.\n\nIt ranks last because that missing detail leaves the key number unknown. It matches the K&S on the 57 dB claim for $270 less and carries a stated two-year warranty, which none of the other four listings mention. Against the BILT HARD, the BILT HARD publishes the 2,000 running-watt rating that this listing leaves out.\n\nPick it if you want a quiet gas unit around $300 with a stated warranty and are willing to confirm the running rating with the seller first. The caveat is exactly that: until you see a continuous figure, assume it behaves like the 1,600 to 1,800 running-watt units.",
     "specs": [
       "2000W, 57 dB operation",

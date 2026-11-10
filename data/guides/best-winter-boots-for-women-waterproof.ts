@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41NXvFZ0qBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B4ZSRK6Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B4ZSRK6Q?tag=rvgearlab-amz-20",
     "description": "The ALEADER Duck Boot has seam-sealed waterproof construction with a PU combination, extra warming insulation, a microfleece lining and a woven collar with dual adjustable buckle straps. The listing states warmth at -26 degrees Celsius, or -15 Fahrenheit.\n\nSeam sealing and a stated rating give it more stated waterproof and warmth detail than the ziitop Fur Lined or either SHIBEVER pair. The buckle straps seal the collar better than the pull-on Chooka Chelsea.\n\nIt suits a woman who wants a waterproof boot for sleet, slush and snow that also looks good in town. The textured EVA outsole is slip-resistant.",
     "specs": [
       "Seam-sealed waterproof build",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51dEFZl5aAS._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09C8KSTQ4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09C8KSTQ4?tag=rvgearlab-amz-20",
     "description": "The ziitop Fur Lined Boot has a waterproof cloth and leather upper, a full fur lining, an adjustable lace-up with a duck tongue and a large-tooth non-slip sole. The listing calls it windproof, waterproof and cold-proof.\n\nA high-top cut gives it more coverage than the Chooka Chelsea or the SHIBEVER Zip Waterproof. The fur lining is fuller than the plush liner on the Chooka.\n\nTreat it as a warm, taller boot for dog walks, school runs and yard work on wet days. The lace-up tongue keeps splash off the foot.",
     "specs": [
       "Waterproof cloth and leather",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41GNkEYgcLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DFCLDQDS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DFCLDQDS?tag=rvgearlab-amz-20",
     "description": "The SHIBEVER Zip Waterproof is an ankle boot lined in faux fur, under a durable upper that repels moisture, a smooth side zipper and a cushioned interior. The listing describes it as waterproof for snowy conditions and says it comes in black, brown and blue.\n\nA smooth side zip makes it quicker to put on than the lace-up ziitop Fur Lined, and it costs less than the ALEADER Duck. The upper is described as moisture repelling, a lighter promise than the ALEADER seam-sealed claim.\n\nThink of it as an easy-on ankle boot for wet, cold errands and commutes. The cushioned lining makes walking comfortable.",
     "specs": [
       "Waterproof upper, side zipper",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Z7tNmnBQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CG9T2LBJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CG9T2LBJ?tag=rvgearlab-amz-20",
     "description": "The SHIBEVER Outdoor Waterproof boot has a dense faux fur lining, a waterproof upper that repels moisture, reinforced stitching and a slip-resistant sole. The listing pitches it for cold-climate outdoor jobs, snowfield sightseeing and long outdoor hikes with thick winter socks.\n\nThe reinforced stitching and dense lining give it more durability talk than the SHIBEVER Zip Waterproof, and it is made to fit thick socks. It costs less than the ziitop Fur Lined and ALEADER Duck.\n\nConsider it for a woman who works outside in the cold or spends long days on snowy paths. The roomy fit leaves space for thick socks.",
     "specs": [
       "Dense faux fur lining",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31-vxEtgdgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08KWQ61QQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08KWQ61QQ?tag=rvgearlab-amz-20",
     "description": "The Chooka Plush Chelsea Bootie is 100 percent waterproof vulcanized rubber with a slim Chelsea silhouette, a cozy faux fur lining, stretchy side gores and a back pull tab. A sturdy non-slip tread is listed.\n\nVulcanized rubber is the one fully waterproof construction in the group, with no stitched fabric seams, and it costs the least. The slim fit is easier to dress up than the duck-style ALEADER Duck.\n\nIt fits a woman who wants a stylish waterproof ankle boot for rain, slush and puddles in town. The listing says it runs small, so sizing up helps.",
     "specs": [
       "100% waterproof vulcanized rubber",

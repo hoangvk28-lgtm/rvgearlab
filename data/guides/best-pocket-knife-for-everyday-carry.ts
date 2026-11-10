@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41OtDtwyyyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0057R8SSM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0057R8SSM?tag=rvgearlab-amz-20",
     "description": "The Kershaw Clash has a drop-point, partially serrated 8Cr13MoV blade and a glass-filled nylon handle with deep finger contours. SpeedSafe assisted opening and a built-in flipper deploy it fast, and a liner lock holds it open.\n\nIt is the quickest to open of the six and costs more than the Gerber Zilch. The partial serrations add rope-cutting ability that plain edges lack.\n\nIt suits campers and tradespeople who open a knife many times a day. Check local rules on assisted openers before carrying.",
     "specs": [
       "8Cr13MoV drop point, part serrated",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41l910e2KiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09H3HKZ9J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09H3HKZ9J?tag=rvgearlab-amz-20",
     "description": "The Gerber Zilch has a 3.1 inch plain-edge blade, an exposed barrel construction and a textured handle with two carrying options. The listing says it offers several ways to deploy.\n\nIt uses a plain edge instead of the Clash's serrations, which makes food prep and sharpening simpler. It costs a little less than the Clash.\n\nIt suits campers and office workers who want a plain, easy-to-sharpen blade. The two carry options suit pocket or bag.",
     "specs": [
       "3.1 inch plain-edge blade",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/3158y-QVv1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B000EHV1AM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B000EHV1AM?tag=rvgearlab-amz-20",
     "description": "The Buck 373 Trio has three blades of 420J2 steel: a 2-1/2 inch modified clip point and two smaller ones. It weighs 1.9 oz, measures 3-1/4 inches closed and has a woodgrain handle with nickel silver bolsters.\n\nIt is the only slipjoint and the only multi-blade knife here, and it carries three blades. The three blades cover detail work and general cutting.\n\nIt suits campers who like classic style and a light pocket. Slipjoints pass rules that limit locking knives in some places.",
     "specs": [
       "Three 420J2 blades, 1.9 oz",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41RgcJFpM7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09KBDSG7Z?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09KBDSG7Z?tag=rvgearlab-amz-20",
     "description": "The KEXMO has a black 3Cr13 steel blade, a finger flipper, an ambidextrous thumb stud and a liner lock. A rosewood handle with finger indentions and a reversible clip complete it.\n\nIt costs about half the Kershaw Clash, and it uses two opening options. It states a more basic steel than the Clash.\n\nIt suits campers who want a wood-handle folder at a low price. The reversible clip fits either pocket.",
     "specs": [
       "3Cr13 steel blade",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51u7p+6hO2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07J6N8FZ9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07J6N8FZ9?tag=rvgearlab-amz-20",
     "description": "The Steinbrucke has a 3.4 inch 8Cr13Mov stainless blade hardened to 58 to 59 HRC with an antique finish and a reversible pocket clip. The listing calls it an EDC, camping and hunting knife.\n\nIt states a hardness figure, which most budget knives skip, and it costs less than the Clash. It lacks the assisted opening of the Clash.\n\nIt suits campers who want a long blade at a low price. The reversible clip suits left- and right-handed users.",
     "specs": [
       "3.4 inch 8Cr13Mov, 58-59 HRC",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31RN8y0b+SL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BRZNJFWM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BRZNJFWM?tag=rvgearlab-amz-20",
     "description": "The BRILLIRARE has a 2.6 inch AUS10 stainless blade with a stated hardness of 60 to 62 HRC, a liner lock and a glass breaker. A premium aluminum handle and a pocket clip complete it.\n\nIt is the cheapest knife here and the only one with a glass breaker. It carries a named Japanese steel at that price.\n\nIt suits drivers and campers who want a backup in a vehicle. The glass breaker adds emergency value.",
     "specs": [
       "2.6 inch AUS10 blade, 60-62 HRC",

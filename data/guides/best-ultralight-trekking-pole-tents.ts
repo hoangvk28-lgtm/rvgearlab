@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31dGgWBQ5CL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G48YQPNC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G48YQPNC?tag=rvgearlab-amz-20",
     "description": "The TOMOUNT weighs 1.87 pounds for the body alone and 2.36 pounds in total, with a 102 by 39.4 inch footprint. The body uses 15D nylon with PU3000mm coating, the floor is 20D nylon with PU3000mm, and the seams are taped.\n\nIts body alone is listed at 1.87 pounds, and the Night Cat lists 2 pounds overall. Compared with the Buerts it has dyneema-reinforced corners and a dedicated 2.69 sq ft internal pocket for gear.\n\nIt suits solo backpackers and hikers who count ounces and own poles. A rear mesh window with adjustable guy lines manages airflow.",
     "specs": [
       "1.87 lb body, 2.36 lb total",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41QIOw9rdLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GTQ4ZS7G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GTQ4ZS7G?tag=rvgearlab-amz-20",
     "description": "The Buerts 2-person version weighs 3.1 pounds and packs to 11.4 by 5.5 by 5.5 inches. The outer fabric is 20D ripstop nylon with single-sided silicone coating and PU3000mm, over an 86.6 by 51.2 inch floor.\n\nWhere the TOMOUNT is a solo shelter, this tent adds two independent doors with a 23.6 inch vestibule each. The 1-person version of the same line weighs 2.2 pounds with a 35 inch width.\n\nIt suits couples who want to enter without climbing over each other. The floor is a 210T polyester groundsheet.",
     "specs": [
       "3.1 lb, packs 11.4x5.5x5.5 in",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31hkFVypD2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B3SY6MBY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B3SY6MBY?tag=rvgearlab-amz-20",
     "description": "The Night Cat is a one-person ultralight tent weighing 2 pounds, in lightweight nylon with a waterproof rainfly and included stakes and ropes. The listing calls it a compact 4-season tent in a bivy-sack style that uses trekking poles.\n\nIt trades the TOMOUNT's gear pocket and mesh window for a low, compact shape. Against the Buerts it fits one person only, with room in the style of a bivy.\n\nIt suits solo backpackers who want a low tent and the bivy feel. The tent packs into a small backpack space.",
     "specs": [
       "Weighs 2 lb",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/418Vw7LixUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09J8K3485?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09J8K3485?tag=rvgearlab-amz-20",
     "description": "The Underwood Aggregator 2-person is an A-frame trekking pole tent listed to pitch with trekking poles or any stick longer than 46 inches. It has two A-frame nets and double-layer fabric doors, and the listing describes a waterproof, ultralight build.\n\nIt is the cheapest of the four, with a 1-person version at an even lower price. It adds a note on stopping condensation by staking the vestibule tight away from the mesh.\n\nIt suits budget backpackers who already own poles. The A-frame shape suits stakes and guy lines.",
     "specs": [
       "A-frame, 2-person",

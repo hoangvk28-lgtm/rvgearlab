@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Bp+wsrNzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H4R2VRL5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H4R2VRL5?tag=rvgearlab-amz-20",
     "description": "The ZOUPW 450W PRO lists N-type 16BB cells at 25.6 percent efficiency, up to 30 percent rear bifacial gain and a 4-zone parallel anti-shading circuit. It has a composite top layer, a 4-in-1 cable and compatibility for 40 to 60V inputs.\n\nIt adds bifacial gain and 4-zone shading protection that the ZOUPW 450W lacks. It costs about $100 more than the 450W and less than the 480W.\n\nIt suits owners of high-capacity stations who camp under partial shade. The composite top layer keeps weight down.",
     "specs": [
       "450W N-type 25.6% bifacial",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41WNDLOe3dL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DGT547L7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DGT547L7?tag=rvgearlab-amz-20",
     "description": "The ZOUPW 450W lists N-type 16BB cells, a 45.9V open-circuit voltage for 40 to 60V stations, a fiberglass structure of 29.5 lbs and IP68 ETFE with a shade-resistant sealed lamination. It ships with a 4-in-1 adapter cable.\n\nIts tag is the smallest of the set and weighs 7 lbs more than the 480W. It has no bifacial gain.\n\nIt suits owners of 40 to 60V stations who want an affordable single-sided panel. The IP68 rating handles heavy rain.",
     "specs": [
       "450W N-type, 45.9V Voc",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41JiOFXoSdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G3PJF9W8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G3PJF9W8?tag=rvgearlab-amz-20",
     "description": "The ZOUPW 480W lists bifacial N-type 16BB cells with up to 30 percent gain, a composite build at 22.5 lbs, a 42.5V design and IP68. It is the 480W step up from the 450W.\n\nIt weighs 7 lbs less than the 450W and adds 30W. It costs about $30 more than the 450W PRO.\n\nIt suits campers who want the lightest and most powerful panel on the list. The composite build avoids heavy glass.",
     "specs": [
       "480W bifacial N-type",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41L562hgYFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GZKCSRMD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GZKCSRMD?tag=rvgearlab-amz-20",
     "description": "The Callsun two-pack lists N-type 16BB cells, a bifacial design with a transparent backsheet and a dual-module parallel anti-shade layout. Each panel is rated 450W and is built for high-voltage MPPT solar systems.\n\nIt is a rigid double-glass setup sold as a pair, so it is closer to a fixed or semi-fixed system than the foldable ZOUPW panels. It costs the most of the four.\n\nIt suits RV or cabin owners who want a bifacial pair for MPPT controllers. The parallel layout reduces shade losses.",
     "specs": [
       "2 x 450W bifacial N-type",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41-+9UeMTaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BPG2Z6NL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BPG2Z6NL?tag=rvgearlab-amz-20",
     "description": "This DkOvn box holds two black 20L (5 gallon) solar bags, and every bag has its own shutoff switch, a hook sling for hanging and a carry strap. Filled at breakfast and left on a sunny rock, they deliver a warm gravity rinse by mid-afternoon, roughly two quick showers per bag.\n\nAt about $14 for two bags it works out to $7 per bag, less than the RISEPRO or any single bag here. A second bag means two people can rinse back to back, or one bag can warm while the other is in use.\n\nIt suits families, pairs of friends and anyone camping with a partner. Simplicity wins here, with no battery, charger or heater to manage.",
     "specs": [
       "Two 5 gallon bags",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/418wvC8m0CL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01H1UC02C?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01H1UC02C?tag=rvgearlab-amz-20",
     "description": "The RISEPRO is a 5 gallon (20L) bag made of black PVC that absorbs sunlight and heats water to 113F (45C) in about 3 hours of direct sun. A built-in temperature indicator shows the water temperature in Celsius and Fahrenheit.\n\nAt about $12 it costs $2 less than the DkOvn 2-Pack and has the only built-in thermometer in this guide. A hose, a shower head and a water tap come in the box, and the tap swaps in for the shower head to fill bottles.\n\nIt suits campers who want to know when the water is warm enough. The indicator saves guessing at the end of a long afternoon.",
     "specs": [
       "5 gallon black PVC bag",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41JsTqO4zlL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F6CKF9ML?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F6CKF9ML?tag=rvgearlab-amz-20",
     "description": "The ailker is a 5 gallon (20L) bag good for about three showers, with an on/off switch, a removable hose and a hanging hook sling. Under direct sun it heats water to 105F (40C) in about 3 hours.\n\nAt about $10 it costs the least of the group, less than the RISEPRO, and it has a lower stated peak temperature of 105F against 113F. It still has an on/off valve, which helps you save water.\n\nIt suits first-time campers and beach trips who want the lowest price. A removable hose makes it easy to rinse and store.",
     "specs": [
       "5 gallon, about three showers",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41lbZgSb5AL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DRFM2NB1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DRFM2NB1?tag=rvgearlab-amz-20",
     "description": "The YIKANGHENG is a 23.6 by 15.7 inch PVC bag holding 20L (5 gallons), packaged with a flexible tube, a rigid tube, a hanging hook and cord and a shower head. The black PVC absorbs sun to warm the water.\n\nAt about $10 it costs the same as the ailker and offers a larger bag footprint with a rigid tube for better aim. It lacks the ailker's removable hose switch and the RISEPRO's thermometer.\n\nIt suits campers who want a simple bag with a stiff tube for a steady flow. The rope and hook hang it from a tree limb.",
     "specs": [
       "23.6 by 15.7 inch PVC bag",

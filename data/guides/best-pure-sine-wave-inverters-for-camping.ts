@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4198d8rC5uL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DCJPTVMW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DCJPTVMW?tag=rvgearlab-amz-20",
     "description": "The BELTTT lists 2000W continuous and 4000W surge pure sine output, with a dual AC socket, a 20A outlet, a 5V 2.1A USB port and a hardwire port. A high-brightness screen shows voltage and load, and a remote on a 23 ft cable switches it from inside.\n\nAgainst the LVYUAN 2000W it matches the wattage and adds a hardwire port and a longer remote cable. Compared with the LANDERPOW 3000W, it gives up a third of the output for a lower price and a simpler install.\n\nIt is the right size for a camper powering a fridge, lights and a small appliance together. The long remote lets the inverter sit next to the battery while the switch stays by the bed.",
     "specs": [
       "2000W pure sine, 4000W surge",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51YS2n1TERL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F1SR9L9W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F1SR9L9W?tag=rvgearlab-amz-20",
     "description": "The LANDERPOW lists 3000W continuous and 6000W surge with more than 91 percent efficiency. It offers 3 AC outlets, a hardwired terminal, fast-charging USB and USB-C, two 1AWG 2 ft copper cables and a 15 ft remote with an LED screen.\n\nCompared with the BELTTT 2000W, it adds a thousand watts and ships with the thick battery cables in the box. Against the LVYUAN 2000W, it swaps an outlet for a hardwire terminal built for high-current loads.\n\nIt suits a big camper or van build with a large lithium bank that runs a microwave or induction-class loads. Sensitive electronics benefit from the clean sine output.",
     "specs": [
       "3000W pure sine, 6000W surge",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51tEnw202iL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H4YTBTMT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H4YTBTMT?tag=rvgearlab-amz-20",
     "description": "The LVYUAN lists 2000W continuous and 4000W surge pure sine power, with 4 AC outlets and a 5V 3.1A USB port. Its filter stage and voltage regulation aim at over 90 percent conversion efficiency, and protections include overload, short circuit, overheating and reverse polarity.\n\nCompared with the BELTTT 2000W, it offers two more AC outlets and a faster USB port while costing less. Its extra outlets make it the pick for plug-in loads rather than a fixed circuit.\n\nIt is a good fit for campers who have many things to plug in at once, such as lights, a laptop charger and a fan. The price makes it the value choice for 2000W pure sine.",
     "specs": [
       "2000W pure sine, 4000W surge",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/412rMoe7qxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07KQ4Q2L5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07KQ4Q2L5?tag=rvgearlab-amz-20",
     "description": "The BESTEK lists 300W continuous and 700W peak pure sine power with 2 AC outlets and 2 USB ports at up to 2.4A each. It works from 11 to 17V, so it can serve newer vehicles, and it has a 40A fuse plus overheat and overload protection.\n\nCompared with the 2000W picks, it trades wattage for a small plug-in format that needs no battery cable run. It is the only pick here that suits a vehicle socket.\n\nIt is right for a car camper charging laptops, camera batteries and phones from the vehicle. The sine wave output protects chargers that dislike modified sine.",
     "specs": [
       "300W pure sine, 700W peak",

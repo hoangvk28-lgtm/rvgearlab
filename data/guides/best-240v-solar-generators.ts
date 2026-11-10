@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41PiecN6XbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GVMSFTXX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GVMSFTXX?tag=rvgearlab-amz-20",
     "description": "The Pecron F5000LFP is a 5,120Wh LiFePO4 solar generator with 7,200W output and dual 120V/240V voltage. It lists 6,400W of solar input across two ports, two 20A and one 30A 0ms online UPS outlets, and 12 output ports including 6 AC and 6 DC.\n\nIt stores more than the OSCAL PowerMax 6000 and the BLUETTI Apex 300 and outputs more than either. The 6,400W solar input lets it refill fast from a large array.\n\nIt suits home backup and cabins where 240V loads run for hours. The 30A UPS outlet suits an RV cord.",
     "specs": [
       "5,120Wh LiFePO4, 7,200W",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51k1bng6tfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F5MK8TMF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F5MK8TMF?tag=rvgearlab-amz-20",
     "description": "The OSCAL PowerMax 6000 kit includes three 400W solar panels with a 3,600Wh LiFePO4 station, 6,000W of 120V/240V split-phase output and 9,000W surge. It recharges to full in 1.44 hours on 2,200W AC and 2,400W solar, and switches over in 5 to 8ms.\n\nThe kit stores less than the Pecron F5000LFP and ships with 1,200W of panels, so it can charge on day one. Sister listings of the same 6,000W unit without panels cost less.\n\nIt suits RV and cabin buyers who want 240V and a ready solar array from one box. The EPS switchover keeps essential loads running during outages.",
     "specs": [
       "3,600Wh, 6,000W split phase",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/415i1uvAWBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F42JY551?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F42JY551?tag=rvgearlab-amz-20",
     "description": "The BLUETTI Apex 300 holds 2,764.8Wh of LFP with 3,840W output and a 120V/240V switch controlled by the app or onboard buttons. It expands with B300K or B500K batteries, and accessories such as the Hub D1 add RV 12V DC loads.\n\nIt has the smallest battery of the three, and it is the only one that lists a single-unit 120V/240V switch plus add-ons for alternator charging. The Pecron F5000LFP and OSCAL PowerMax 6000 offer more capacity.\n\nIt suits RV and van owners who want 240V occasionally from a modular system. Add-on batteries let it scale later.",
     "specs": [
       "2,764.8Wh LFP, 3,840W",

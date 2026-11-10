@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/412+dzwvEQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01N5O7551?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01N5O7551?tag=rvgearlab-amz-20",
     "description": "The MSR PocketRocket 2 weighs 2.6 oz and folds small and then opens out to 4.8 by 4.8 by 3.6 inches. It runs on self-sealing isobutane-propane canisters, and MSR gives a boil time of 3.5 minutes per liter.\n\nIt offers more pot-support range than the BRS-3000T, because serrated supports hold a wide range of pot sizes. Against the Fire-Maple Petrel it is simpler to pack, since the stove sits directly on the canister.\n\nIt suits hikers who want a stove that works with the canisters sold in most countries. A protective case is included and no priming or preheating is needed.",
     "specs": [
       "2.6 oz, folds to 2x2x3 in",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41MP+LromxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00NNMF70U?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00NNMF70U?tag=rvgearlab-amz-20",
     "description": "The BRS-3000T is a 25 g titanium alloy burner rated at 2700 W that twists directly onto a canister. Rated boil time for 1 L is roughly 2:58, with gas use around 140 g per hour.\n\nIt weighs a fraction of the MSR PocketRocket 2 and costs far less. Its legs flip out for use, and a 110 g canister plus the stove can be carried together in a 750 ml pot.\n\nIt suits ultralight solo hikers who mostly boil water. The listing advises making sure the control valve is fully off before twisting it onto the canister.",
     "specs": [
       "25 g titanium, 2700 W",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/312K0+YdclL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D14D7LS2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D14D7LS2?tag=rvgearlab-amz-20",
     "description": "The Fire-Maple Greenpeak 1 weighs 85 g (3 oz) and folds to 2.1 by 2.8 inches with a piezo igniter built in. It is made from stainless steel, ceramic, aluminum alloy and silicone.\n\nIt adds an igniter that the BRS-3000T lacks, and it costs less than either the MSR or the Petrel. The listing suggests pairing it with the Fire-Maple G3 pot and notes it does not work with the Z1 adapter.\n\nIt suits hikers on a budget who want a lighter-free start. It is a compact upright stove that sits on the canister.",
     "specs": [
       "85 g (3 oz), piezo ignition",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41oxFcZEApL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0829RKQXZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0829RKQXZ?tag=rvgearlab-amz-20",
     "description": "The Odoland 3500W stove is rated at up to 3500 W and takes around 3 minutes to boil 1 L of water per the listing. It has a windshield design, piezo ignition, a flame controller and a carrying case.\n\nIt is the only stove here that lists two kinds of connector, so it suits different gas tanks through an adapter. Its listing names 7/16 thread single canisters of propane or butane-propane mix (EN 417), which gives it a wider fuel choice than the MSR.\n\nIt suits car campers and hikers who already own different canisters. The aluminum alloy and stainless build folds into its case.",
     "specs": [
       "Up to 3500 W output",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21KHp8H5h4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FS7QWCGT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FS7QWCGT?tag=rvgearlab-amz-20",
     "description": "The Fire-Maple Petrel weighs 95.5 g (3.4 oz) and folds to 3.7 by 3.4 by 1.3 inches. Its titanium body is rated at 2.7 kW (9213 BTU/h) and the listing says it boils 0.5 L in 1 minute 48 seconds.\n\nAs a remote stove it places the canister and valve away from the flame, giving a lower center of gravity than the upright MSR and BRS stoves. A foldable aluminum windscreen is included, and it supports larger pots.\n\nIt suits fast-packers and thru-hikers who cook in wind. The layout is stable enough for bigger pots than an upright burner.",
     "specs": [
       "95.5 g titanium, 2.7 kW",

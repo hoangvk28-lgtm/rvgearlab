@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31L1XUqMy5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GT4VH5M7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GT4VH5M7?tag=rvgearlab-amz-20",
     "description": "The GL.iNet GL-E5800 Mudi 7 is a 5G tri-band Wi-Fi 7 travel router with a built-in eSIM and two nano-SIM slots with dual standby. It also offers quad-path failover across Ethernet, repeater, USB tether and 5G, a 5150 mAh battery and 30W PD charging.\n\nIt is the most capable pick, with 5G and Wi-Fi 7 that the others lack. Its battery lets it run unplugged.\n\nBest for travelers who want 5G with automatic failover. Worth noting on the listing: 13.5 hour battery.",
     "specs": [
       "5G tri-band Wi-Fi 7",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41n86-sfmrS._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0993Z7PVY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0993Z7PVY?tag=rvgearlab-amz-20",
     "description": "The Robustel R1520-4L is a dual-SIM LTE VPN router with FCC, PTCRB and IC certification, E-mark certification for in-vehicle use and support for Wi-Fi or Ethernet as WAN. AT&T, Rogers and Telus are listed as supported.\n\nIt is the business-grade pick with vehicle certification. It is LTE only.\n\nA fit for work rigs that need certified hardware. It also stands out because wi-Fi or Ethernet WAN.",
     "specs": [
       "Dual-SIM LTE VPN router",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31BorPSicpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DMNB4VZ3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DMNB4VZ3?tag=rvgearlab-amz-20",
     "description": "The GL.iNet GL-X2000 Spitz Plus is a 4G LTE Cat 12 Wi-Fi 6 router with dual SIM and single standby, multi-WAN across Ethernet, repeater, cellular and tethering, and OpenVPN and WireGuard. AT&T and T-Mobile certification are listed.\n\nIt is cheaper than the Mudi 7 and offers four SMA connectors for external antennas. It runs LTE only.\n\nGood for owners who want antenna options and VPN. On the plus side, aT&T and T-Mobile certified.",
     "specs": [
       "4G LTE Cat 12, Wi-Fi 6",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Jxy511UrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B089JW8H4N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B089JW8H4N?tag=rvgearlab-amz-20",
     "description": "The Cudy LT500 is a 4G Cat 4 AC1200 router with one nano SIM slot, four Ethernet ports and automatic WAN failover to cellular. WireGuard, OpenVPN and IPsec are built in.\n\nIt has only one SIM, so it is the budget alternative for backup cellular. It costs the least.\n\nA fit for owners who want failover to one SIM. Buyers also get this: automatic WAN failover.",
     "specs": [
       "4G Cat 4, AC1200 Wi-Fi 5",

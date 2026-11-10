@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ahRUIq3IL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GYNV5T38?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GYNV5T38?tag=rvgearlab-amz-20",
     "description": "The Anker SOLIX C2000 Gen 2 pairs a 2,048Wh battery with 2,400W rated and 4,000W peak output, and the listing bundles a 200W bifacial panel. It idles at only 9W on standby, which Anker says runs a dual-door fridge for up to 32 hours. That standby figure matters most when you are camped for days with no hookup.\n\nAgainst the Lipower 2400W it costs $520.00 more ($1,169.99 versus $649.99), and the extra money buys the panel, the 4kWh expansion option and a 58 minute full AC recharge. Pick this if you boondock for several days and want solar in the box. The caveat is that the panel ships separately, so check both parcels arrived.",
     "specs": [
       "2,048Wh, 2,400W rated",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Ft8DZeyvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H5BL8YRJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H5BL8YRJ?tag=rvgearlab-amz-20",
     "description": "The Lipower 2400W holds 2,150Wh, slightly more than the Anker SOLIX C2000, and delivers 2,400W continuous with 4,000W surge. Its 10ms UPS switchover is handy if you also plug it into shore power. The listing says it fully recharges from a wall outlet in roughly 1.5 hours.\n\nIt costs $520.00 less than the Anker SOLIX C2000, but includes no solar panel and no listed expansion battery. It sits $390.99 above the Jackery Explorer 300, and the difference buys about seven times the capacity. Pick this if you want large capacity on a tighter budget. The caveat is that weight and warranty are not listed.",
     "specs": [
       "2,150Wh capacity",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41-Ey75o-WL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B082TMBYR6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B082TMBYR6?tag=rvgearlab-amz-20",
     "description": "The Jackery Explorer 300 is a 292Wh LiFePO4 pack weighing 7.5 lb, with 300W rated and 600W surge output. It has two AC outlets, a 100W USB-C port and a 120W car port. Jackery rates it for over 4,000 charge cycles to 70% capacity.\n\nPrice is $259, which is $79.01 above the DaranEner 600W. For that you get a longer cycle rating than the DaranEner's 3,500 and Jackery's solar pairing, with 80% in about 2.8 hours on a 100W panel. Pick this if you want a pack for phones, laptops and lights. The caveat is that 292Wh will not run a fridge overnight.",
     "specs": [
       "292Wh LiFePO4, 7.5 lb",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41-sQqgwTZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D72Z7FNV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D72Z7FNV?tag=rvgearlab-amz-20",
     "description": "The DaranEner 600W stores 288Wh and outputs 600W continuous with 1,200W peak, double the Jackery Explorer 300's 300W. It weighs 8.86 lb and measures 10.0 x 6.6 x 8.2 inches. It accepts a 100W solar panel, and AC charging reaches 80% in about 2 hours.\n\nAt $179.99 it costs $79.01 less than the Jackery Explorer 300 and $30.00 more than the EnginStar 300. The extra 300W of output is the real gain, because small coolers and fans start with a surge. Pick this if you run a compact 12V fridge or a blender. The caveat is 3,500 cycles and no stated warranty.",
     "specs": [
       "288Wh LiFePO4, 8.86 lb",
@@ -133,7 +133,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411K6EBF2ML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FKMF2JSB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FKMF2JSB?tag=rvgearlab-amz-20",
     "description": "The EnginStar 296Wh is a 6.5 lb pack measuring 9 x 5.5 x 7.5 inches, with two pure sine wave 110V outlets and a 300W rating. The listing offers three charging methods: wall, car and solar. A full wall charge takes about 7 hours.\n\nAt $149.99 it is the cheapest pick here, $30.00 under the DaranEner 600W. You give up the DaranEner's 600W output and faster charging. Pick this if you need a light backup for lamps, a fan and phones. The caveat is the 7 hour wall recharge, which is slow if you only have a short drive.",
     "specs": [
       "296Wh, 6.5 lb",

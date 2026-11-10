@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51fuC7He8AL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HCBFW1ZK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HCBFW1ZK?tag=rvgearlab-amz-20",
     "description": "The FRIZCOL carries a 24000mAh battery with a listed runtime of 11 to 60 hours across four speeds. Its 3950 r/min motor stays under 30 dB, three timers and two LED levels are built in, and the head adjusts vertically in an anti-drop ABS body.\n\nAgainst the Gazeled, it is rechargeable, far quieter and adds a light. A bigger cell is why it can run a full night on a mid setting.\n\nIt suits solo campers and sleepers who want a quiet fan, a timer and a small light in one body. The timers help shut it off after you are asleep.",
     "specs": [
       "24,000mAh, 11 to 60 hours",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/516+BwvtSnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B083SC3XPS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B083SC3XPS?tag=rvgearlab-amz-20",
     "description": "The Gazeled is a 5 inch fan powered by four D-cell batteries, which are not included. It lists 50dB noise, a head that rotates 180 degrees, a timer and a USB option as a second power source.\n\nCompared with the FRIZCOL, it needs no charging, so you can swap in fresh cells at any store along the way. It trades silence for that independence and adds no light.\n\nIt suits trips without a power source, where a dead battery needs a quick fix. A carry handle and timer keep the design simple.",
     "specs": [
       "Four D-cell batteries",

@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/5188lLUL8nL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B003BZD08U?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B003BZD08U?tag=rvgearlab-amz-20",
     "description": "The Camco Brass is a plain brass regulator with a built-in PSI Guard preset at 40 to 50 psi and a stated maximum incoming pressure of 125 psi. It is CSA lead-free certified to NSF/ANSI 372 and marked drinking water safe.\n\nWith no gauge or adjuster, it is the lowest-profile pick here. Against the STMOUTUO Adjustable below it, this one is simpler and cheaper, though it gives up any ability to tune the output.\n\nBest for tight spigots and for owners who want a regulator that disappears. The listing gives no dimensions, so measure the gap at your usual hookups.",
     "specs": [
       "40 to 50 psi preset",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41NH97afS3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CQF8G4TX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CQF8G4TX?tag=rvgearlab-amz-20",
     "description": "The STMOUTUO ships preset at 45 psi and can be adjusted with a screw. The package adds two spare inlet cartridges and thread tape, and the listing cites NSF/ANSI/CAN 372:2024 lead content.\n\nAgainst the Camco Brass above, it is the only gauge-free pick that adjusts, so it stays compact while letting you tune. It costs more than the fixed Camco Brass for that flexibility.\n\nBest for tight spigots when you still want to adjust. No gauge means you set by feel or with a separate gauge.",
     "specs": [
       "Preset to 45 psi",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41BmUsxYysL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DQW6S8ZB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DQW6S8ZB?tag=rvgearlab-amz-20",
     "description": "The TONDA is a lead-free brass regulator with a 0 to 160 psi gauge, a brass adjustment screw and an inlet screen. It uses 3/4 inch garden hose threads.\n\nAgainst the STMOUTUO Adjustable it adds a gauge, so it is taller, but it costs less. It is the more budget-minded of the two gauge models and the first one that lets you read the setting.\n\nBest for owners who accept a taller body to read pressure. The listing gives no dimensions.",
     "specs": [
       "0 to 160 psi gauge",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41p2Yz8bT+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F3236B8K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F3236B8K?tag=rvgearlab-amz-20",
     "description": "The AOLINK is a lead-free brass regulator with a 0 to 160 psi gauge, manual adjustment, inlet screening and a comfortable grip. It uses standard 3/4 inch garden hose threads.\n\nCompared with the TONDA Gauge it adds a comfortable grip that helps in tight reach spaces, and it costs a little more. Both stand taller than the gauge-free picks.\n\nBest when you want a gauge and a grip you can turn by hand. Measure clearance before buying.",
     "specs": [
       "0 to 160 psi gauge",

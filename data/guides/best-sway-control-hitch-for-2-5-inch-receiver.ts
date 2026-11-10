@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31+4rScA1wL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00EKJQ1LO?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00EKJQ1LO?tag=rvgearlab-amz-20",
     "description": "The Blue Ox BXW2000 SwayPro is built around a 2-1/2 inch receiver, with a 9-hole shank. The listing gives spring bar ratings of 2,000 lb tongue weight and 20,000 lb gross towing weight, the highest numbers in this comparison.\n\nCompared with the Blue Ox SwayPro 1508 below, it carries a much larger stated capacity and uses rotating brackets so you lift chains into a slot instead of snapping tensioned spring bars. It costs less than the 1508 as well.\n\nIt is the right pick for a heavy trailer and a 2-1/2 inch receiver. The page does not state a drop, so measure yours and confirm the shank fit.",
     "specs": [
       "2-1/2 inch receiver, 9-hole shank",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31NK1kto7mL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BVC2BH4B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BVC2BH4B?tag=rvgearlab-amz-20",
     "description": "The Blue Ox BXW1508 SwayPro has a 9-hole, 2-1/2 inch shank. The listing says it gives noise-free sway prevention that keeps working in rain or snow, with a caster in the hitch head that constantly centers the trailer.\n\nAgainst the Blue Ox SwayPro 2000, it is the lighter-duty model and the listing gives no tongue or gross rating. It costs more than the 2000 while offering less stated capacity, so it is for people who prize the quiet, constant sway control.\n\nChoose it if you value sway control that is always on and your trailer is not at the top of the weight range. Confirm its rating with the seller first.",
     "specs": [
       "2-1/2 inch shank, 9-hole",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31v-op0gt4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01MZZ7NEZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01MZZ7NEZ?tag=rvgearlab-amz-20",
     "description": "The Andersen 2-1/2 inch shank hitch has an 8 inch drop, a 2-5/16 inch ball, and 16,000 lb gross trailer weight rating. It is described as built for heavy lifted trucks with large receivers.\n\nNext to the Blue Ox SwayPro 2000 it adds a stated drop and uses tension chains plus a friction cone instead of spring bars. It gives up some of the Blue Ox's 2,000 lb tongue rating.\n\nIt is the pick for a tall truck with a 2-1/2 inch receiver and a heavy trailer. Choose a bracket size from 3, 4, 5, or 6 inches for the head angle.",
     "specs": [
       "2-1/2 inch shank, 8 inch drop",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31HmXAfp5BL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CLBCCCXK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CLBCCCXK?tag=rvgearlab-amz-20",
     "description": "This Andersen model pairs a 2-1/2 inch shank with a 6 inch drop and a 16,000 lb gross trailer weight rating, with a 2-5/16 inch ball. The same friction cone and tension chain system appears on the larger drop version.\n\nIt is the shorter-drop sibling of the Andersen 8-Inch Drop, so it suits trucks with a smaller gap between the receiver and the trailer coupler. It costs slightly less.\n\nIt is for a bumper-pull trailer behind a truck with a moderate lift or a standard stance. Measure your drop to see if 6 inches is correct.",
     "specs": [
       "2-1/2 inch shank, 6 inch drop",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21UoK61DtGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BG3F8L7Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BG3F8L7Q?tag=rvgearlab-amz-20",
     "description": "The Weigh Safe True Tow in 6 inch drop has a 2.5 inch shank and a 12,500 lb towing capacity. It adds a live adjustment system in the head with an internal pivot point, and anti-sway technology.\n\nIt undercuts the Andersen 6-Inch Drop on price while stating a lower capacity. Compared with the Weigh Safe 4-Inch, it simply offers a lower ball position.\n\nChoose it for a mid-size trailer on a truck with a 2.5 inch shank need. The listing itself tells you to measure your receiver, since sizes vary widely.",
     "specs": [
       "6 inch drop, 2.5 inch shank",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21UoK61DtGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BG3BFTP8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BG3BFTP8?tag=rvgearlab-amz-20",
     "description": "The Weigh Safe True Tow in 4 inch drop has a 2.5 inch shank and 12,500 lb towing capacity. It shares the live adjustment head and anti-sway technology with the 6 inch version.\n\nIt suits trucks with less height between receiver and coupler than the Weigh Safe 6-Inch. It is the lowest-cost pick in this list.\n\nPick it for a standard height truck with a 2.5 inch receiver. As with the sibling, measure the receiver before you buy.",
     "specs": [
       "4 inch drop, 2.5 inch shank",

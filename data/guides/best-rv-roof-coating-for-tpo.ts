@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51vL8HVZcIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DPNJ7J5L?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DPNJ7J5L?tag=rvgearlab-amz-20",
     "description": "The BEEST RV Roof Repair Kit includes a 5 gallon roof coating, a 1 gallon primer, a 32 oz cleaner, non-leveling and self-leveling lap sealants, a seam roller, seam tape and gloves. The listing says its multipurpose primer is formulated for adhesion to EPDM and TPO surfaces.\n\nAgainst Liquid Rubber 30ft Kit, it bundles seam tape and sealants for a lower price. Against the single-gallon coatings, it gives you every step for a full roof.\n\nBest for a whole TPO roof where you want cleaner, primer, coating and seam parts in one box. It is a big purchase, so measure first.",
     "specs": [
       "5 gal coating, 1 gal primer",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ipdKAjnrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CSHW2ZH4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CSHW2ZH4?tag=rvgearlab-amz-20",
     "description": "The Liquid Rubber 30 Ft Leak Repair Kit lists EPDM, TPO, fiberglass and aluminum roofs and a 3-step system of RV Smart Cleaner, an EPDM and TPO primer and the coating. The listing says a 1 to 5 gallon pail can cover a 30 foot RV at 1 gallon per 50 square feet.\n\nAgainst BEEST Complete Kit, it costs more and lacks the lap sealants and seam tape in its listing. Against Tenee, it ties into a named TPO primer.\n\nBest for a 30 foot TPO rig where you want one brand's system. Confirm the kit's gallons.",
     "specs": [
       "Names TPO among roofs",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51hiM9wB1OL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D87GRN43?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D87GRN43?tag=rvgearlab-amz-20",
     "description": "Tenee RV Roof Coating is a 1 gallon white liquid rubber with 1000 percent plus elongation and 88 percent solar reflectivity. The listing says it works on TPO and, with proper surface preparation, EPDM, fiberglass and aluminum, and covers up to 50 square feet per gallon.\n\nAgainst Liquid Rubber 30ft Kit, it names TPO first but has no primer. Against BEEST Complete Kit, it is just a single gallon.\n\nBest for a small TPO repair on a budget. A full roof needs several gallons and a primer plan.",
     "specs": [
       "Works on TPO",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51mZqNZllpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GPX7L6YV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GPX7L6YV?tag=rvgearlab-amz-20",
     "description": "The CUKWUYBY kit bundles one gallon of white waterproof coating, two 10.5 oz tubes of self-leveling sealant and a 4 inch by 20 foot roll of roof tape. It is a water-based, solvent-free coating with high elongation.\n\nAgainst Tenee, it includes sealant and tape but the visible listing does not name TPO. Against BEEST Complete Kit, it is a patch bundle and not a full-roof system.\n\nBest for a small patch where you confirm TPO compatibility with the seller. It includes no primer.",
     "specs": [
       "1 gal coating plus sealant",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51ell-sZFAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DSVWFX6X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DSVWFX6X?tag=rvgearlab-amz-20",
     "description": "CUKWUYBY RV Roof Sealant is a 1 gallon white coating applied by roller, brush, squeegee or sprayer after cleaning dust and debris. The listing says it is water based and solvent free with a white reflective finish.\n\nAgainst CUKWUYBY Repair Kit, it is the coating alone for less. Against Tenee, it gives no named roof types, so TPO compatibility is unverified.\n\nBest only as a cheap gallon if the seller confirms TPO compatibility. A primer is not listed.",
     "specs": [
       "1 gallon white coating",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41DwKzK2bDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GVB8GC75?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GVB8GC75?tag=rvgearlab-amz-20",
     "description": "LAVIONY RV Shield is a 4 gallon pack of white, solar-reflective liquid rubber coating for properly prepared surfaces. The listing mentions a repair kit with brush, gloves and polyester reinforcing fabric.\n\nAgainst Tenee, it supplies much more material but names no TPO. Against Liquid Rubber 30ft Kit, it costs far less and has no primer system.\n\nBest for a large roof only after confirming TPO compatibility and primer need. The listing text is not clear about kit contents.",
     "specs": [
       "4 gallon white coating",

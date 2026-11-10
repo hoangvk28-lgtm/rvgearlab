@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41+mVhShJ-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DG33JYTK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DG33JYTK?tag=rvgearlab-amz-20",
     "description": "LogicBlue Technology's LevelMateMAX uses gyroscope technology and a 3 axis digital accelerometer to show roll and pitch. It supports leveling while the rig is in motion and adds a Listen To Level tone that speeds up as you near level.\n\nCompared with the LevelMatePRO, it adds eyes free audio guidance and in motion feedback, which helps when you are driving onto ramps or blocks alone. It suits solo owners of towables and motorhomes who level often and want the most feature rich system.",
     "specs": [
       "Gyroscope and 3 axis accelerometer",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41edIVHtaiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01FGGSWPW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01FGGSWPW?tag=rvgearlab-amz-20",
     "description": "The LevelMatePRO is a Bluetooth leveler that displays side to side and front to back positions on one app screen. It stores and recalls hitch positions and uses a 3 axis digital accelerometer, and every unit is calibrated by hand in the U.S.\n\nIt matches the LevelMateMAX on core accuracy and drops the audio tone and in motion mode for a lower price. It is right for towable owners who want a proven app and saved settings without paying for extras.",
     "specs": [
       "Both axes on one screen",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/419q7o9SgQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C28VJLG5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C28VJLG5?tag=rvgearlab-amz-20",
     "description": "The Beech Lane wireless leveler is designed and made in the USA and uses a 3 axis digital accelerometer. It runs on two included AA batteries with a low power design that the listing says lasts over a year of continuous power, with no on off switch to forget.\n\nAgainst the LevelMatePRO, it trades hitch memory for a lower price and simple battery logistics. It fits owners who dislike recharging gadgets and want a set and forget sensor.",
     "specs": [
       "Two included AA batteries",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/419q4NrtFAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BG3HKRPR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BG3HKRPR?tag=rvgearlab-amz-20",
     "description": "The CARMTEK Level Wizard is a wireless leveling system with LED indicators on both the base and a wireless remote module. It shows the height needed for each wheel and has an extended position setting for more accurate readings.\n\nUnlike the app based picks, it works without a phone, which helps when your device is dead or you prefer a dedicated display. It is the choice for owners who want a simple light based display and work on drivable and towable RVs.",
     "specs": [
       "LED base and wireless remote",
@@ -133,7 +133,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41P6TgfvN3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GSQMDH36?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GSQMDH36?tag=rvgearlab-amz-20",
     "description": "The AOMOSUR wireless leveler shows left and right plus front and back angles on one screen at 0.1 degree precision. It has a rechargeable lithium battery with USB C charging and a detachable magnetic transmitter.\n\nIt undercuts the Beech Lane on price while adding rechargeable power and a lifetime warranty. It suits cost conscious owners who are fine with USB C charging and a basic app.",
     "specs": [
       "0.1 degree precision display",

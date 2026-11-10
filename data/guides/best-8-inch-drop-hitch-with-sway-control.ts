@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31VaiPMFIFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B009V7G5R0?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B009V7G5R0?tag=rvgearlab-amz-20",
     "description": "The Andersen hitch with 7/8 inch brackets and an 8 inch drop is listed for the most demanding height and angle differences between lifted trucks and heavy trailers. It has a 2 inch shank, a 2-5/16 inch ball and a 14,000 lb GTWR, with a tension chain system and friction cone.\n\nIt ranks first for the gap it is built for, but it costs about $10 more than the other 8 inch Andersen models and its 7/8 inch brackets are a niche choice. The Andersen 3-6in Brackets below give four sizes for ordinary lifted setups.\n\nBest for a truck lifted high enough that the common brackets will not reach the angle. Measure the height gap with the trailer level before choosing it.",
     "specs": [
       "2 inch shank, 8 inch drop",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31v-op0gt4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01MZZ7NEZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01MZZ7NEZ?tag=rvgearlab-amz-20",
     "description": "The Andersen 2-1/2 inch shank hitch has an 8 inch drop, a 2-5/16 inch ball and a 16,000 lb GTWR, with 3, 4, 5 and 6 inch bracket options. The listing says it is built for lifted tow vehicles with large receivers pulling heavy trailers.\n\nIt matches the 2 inch Andersen models on price and adds a higher rating, but needs a 2.5 inch receiver. Against the Weigh Safe 8.5K 8in it lists nearly double the weight rating.\n\nBest for a lifted truck with a 2.5 inch receiver pulling a heavy trailer. If your receiver is 2 inches, one of the other Andersen models fits instead.",
     "specs": [
       "2.5 inch shank, 8 inch drop",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31bjdJ8OuLS._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07BT3CPS6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07BT3CPS6?tag=rvgearlab-amz-20",
     "description": "The Andersen hitch with 3, 4, 5 and 6 inch brackets has a 2 inch shank, an 8 inch drop, a 2-5/16 inch ball and a 14,000 lb GTWR. The listing says the bracket options let you set the head angle for your specific truck and trailer.\n\nCompared with the Andersen 4-3/8in below it gives four sizes instead of one fixed size at the same price. It uses the same friction cone and tension chain design.\n\nBest for a lifted truck with a 2 inch receiver where you may need to try a couple of bracket sizes. It is the safer choice if you are unsure of your angle.",
     "specs": [
       "2 inch shank, 8 inch drop",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31uQ0zRdWIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B009V7EWKW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B009V7EWKW?tag=rvgearlab-amz-20",
     "description": "The Andersen hitch with fixed 4-3/8 inch brackets has an 8 inch drop on a 2 inch shank and a 14,000 lb GTWR. The listing says the fixed size makes setup repeatable when you hitch the same truck and trailer, and it is built for lifted trucks towing heavier travel trailers and fifth wheel rigs.\n\nIt costs the same as the Andersen 3-6in Brackets but gives one bracket size. That is a plus for repeat setups and a minus if you change trailers.\n\nBest for one lifted truck and one trailer that stay together. If you swap trailers, the Andersen 3-6in Brackets is more flexible.",
     "specs": [
       "2 inch shank, 8 inch drop",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21UoK61DtGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BG3FG822?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BG3FG822?tag=rvgearlab-amz-20",
     "description": "The Weigh Safe True Tow Middleweight has an 8 inch drop, a 2 inch shank and 8,500 lb towing capacity, with a live adjustment head and anti-sway technology. The listing tells you to measure your receiver before purchase.\n\nIt lists the lowest rating here and costs more than every Andersen model, so it is hard to justify on price. Its adjustment head can be readjusted without removal, which the Andersen listings do not describe.\n\nBest for a smaller trailer under 8,500 lb when you prefer the Weigh Safe head. Most buyers will get more rating for less from an Andersen.",
     "specs": [
       "2 inch shank, 8 inch drop",

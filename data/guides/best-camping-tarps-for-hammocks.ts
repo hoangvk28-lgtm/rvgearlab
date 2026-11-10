@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41XXZGTrJ9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0752XXW1L?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0752XXW1L?tag=rvgearlab-amz-20",
     "description": "The Pro Venture is a 12 x 9 ft asymmetrical hex tarp in PU 3000 diamond ripstop nylon. Six tie-down loops and six reinforced grommet points hold the pitch, and the whole kit weighs 1.8 lbs in a 10 x 5 x 5 inch stuff sack.\n\nThe hex shape covers more ground than the 11 x 9 ft WINKAURA and gives much more room than the 7.55 x 4.59 ft Azarxis. Next to the Wise Owl, it trades the taped-seam claim for a larger asymmetrical cut and a 2-year warranty.\n\nBackpackers who want real coverage over a wide double hammock will use it well. The listing says no instructions are needed for the hex pitch.",
     "specs": [
       "12 x 9 ft asymmetric hex",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hefq5yrKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07ZPH8Q1D?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07ZPH8Q1D?tag=rvgearlab-amz-20",
     "description": "The Wise Owl fly is ripstop nylon with taped seams and a PU coating rated to withstand 3000 mm of water pressure. It ships with six 10-foot guy lines, aluminum stakes and a waterproof carry bag, and it comes in a 26 oz version and an 18.9 oz lite version.\n\nThe listing gives the taped seams and the lighter weight that the Pro Venture lacks. Against the WINKAURA, it adds a stated 3000 mm rating and a choice of two weights.\n\nUltralight backpackers who count ounces will like the lite version. The same shelter doubles as a standalone tarp.",
     "specs": [
       "Taped seams, 3000 mm PU",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/314qqRot95L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DYCJJWQG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DYCJJWQG?tag=rvgearlab-amz-20",
     "description": "The WINKAURA is an 11 x 9 ft ripstop nylon tarp with taped seams, reinforced corners, aluminum stakes and six guy cords with tensioners. The listing gives a 26 oz weight and a waterproof carry bag.\n\nIt is the next step up in coverage from the Azarxis and costs less than the Wise Owl or Pro Venture. Compared with the Pro Venture's hex cut it is a rectangle, so it gives simpler pitches with less corner coverage.\n\nBudget hammock campers who want a full-size fly with accessories included will find it hard to beat. A lighter version exists too.",
     "specs": [
       "11 x 9 ft ripstop nylon",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41yJRYAkGVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08TQNLWSP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08TQNLWSP?tag=rvgearlab-amz-20",
     "description": "The Sunyear bundles a 500 lb capacity travel hammock with attached netting and a rain fly tarp. It uses 210T parachute nylon, includes two tree straps of 10 ft each with 16 plus 1 loops and two 12KN carabiners.\n\nIt is the only pick here that includes the hammock, bug net and straps, which makes it a complete setup rather than just a fly. Against the single-purpose tarps, its fly is only one part of the package.\n\nA first-time hammock camper who wants everything in one purchase gets a one-box setup. The tree straps adjust through the loops.",
     "specs": [
       "Hammock, net and rain fly",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31EHdCT+SxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07T337P8Z?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07T337P8Z?tag=rvgearlab-amz-20",
     "description": "The Azarxis is a 7.55 x 4.59 ft 210T polyester tarp with a PU 2000mm waterproof rating. It packs to 6.69 x 4.33 inches and comes with 2 stakes and guylines of 3.94 ft and 5.58 ft.\n\nIt is the least expensive and smallest tarp here, and covers only one to three people as a shelter. Compared with the WINKAURA it brings far less coverage and a lower rating, yet packs into a pocket.\n\nSolo hammock campers on short trips or in light rain who prioritize space use it as a minimalist fly. It also works as a footprint or picnic mat.",
     "specs": [
       "7.55 x 4.59 ft, PU 2000mm",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Ypf-hGnNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CSPKCJZK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CSPKCJZK?tag=rvgearlab-amz-20",
     "description": "Kelty builds the Cosmic 20 from 550 fill power RDS-traceable down inside recycled nylon and polyester taffeta, finished with PFAS-free DWR. Its page gives a 21F ISO limit and a -11F ISO extreme.\n\nIt is the only bag here with printed ISO figures and the only one with a stated weight, about 2 lb 6 oz in Regular. Three lengths cover sleepers from 5 ft 6 to 6 ft 6, so fit is easier to match than with the single-length options.\n\nIt suits backpackers who want a down bag with standardized ratings and dual-direction zippers. The stuffed size is 13 by 7 inches.",
     "specs": [
       "550 fill RDS down",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31HtpgF5i4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D47YFZGW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D47YFZGW?tag=rvgearlab-amz-20",
     "description": "The Trailhead from TETON is a 20 degree mummy filled with microfiber, with a vaulted footbox and a draft tube behind the zipper. Its hood draws in around the head, and the bag stuffs into the supplied compression sack.\n\nNext to the Kelty it costs far less and uses synthetic fill, so it tolerates damp better and packs bigger. The 20 degree label is a brand rating with no ISO figures printed, so treat it as a limit.\n\nIt suits budget backpackers who want a warm synthetic mummy for cool shoulder-season nights. The hang loops let you store it lofted at home.",
     "specs": [
       "20F microfiber mummy",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31r1A1K2zeL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09LMNHNZQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09LMNHNZQ?tag=rvgearlab-amz-20",
     "description": "The TETON LEEF is a mummy sold in three sizes and in 0, 20 and 30 degree versions, with a compression sack included. The listing describes a roomier mummy design that still packs small.\n\nUnlike the Trailhead and the Kelty, the page you reach shows the 0F version first, so the 20 degree bag is a selection you make in the size and rating menu. It costs more than the Trailhead and less than the Kelty.\n\nIt suits backpackers who want to pick both rating and size from one product line. Check that the 20 option is selected before checkout.",
     "specs": [
       "Mummy shape, three sizes",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41OdlULxekL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D643KDKN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D643KDKN?tag=rvgearlab-amz-20",
     "description": "The Coleman North Rim is a 0F cold-weather mummy sized 82 by 32 inches for campers up to 6 ft 2 in. It uses Coletherm hollow polyester insulation, a Thermolock draft tube and an adjustable hood.\n\nIt is not a 20 degree bag, and its colder rating makes it the warmest option here, at a price above the Trailhead. It is machine washable and carries a 5-year limited warranty.\n\nIt suits larger backpackers who expect nights well under 20F and want extra room. Treat the 0F as a limit, not a comfort number.",
     "specs": [
       "0F rated mummy",

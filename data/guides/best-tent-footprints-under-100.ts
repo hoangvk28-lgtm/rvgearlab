@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31zB3qP3RML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08KGZ3GC6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08KGZ3GC6?tag=rvgearlab-amz-20",
     "description": "The Wise Owl is a 94 by 82 inch footprint in 210T ripstop polyester that weighs 19.5 oz and packs into its own carry bag. Stitched hems, reinforced corners and grommets let you stake it down.\n\nIt costs about $26, roughly a third of the Teton Sierra Footprint and a quarter of the Gazelle T4 Plus, and it fits many compact and two-person tents instead of one model. The Modern Grizzly Tyvek is lighter, and the Wise Owl is the tougher fabric with real grommets.\n\nIt suits backpackers and car campers with a 1 to 3 person tent who want solid floor protection for a small price. Fold the edges under so rain does not pool between footprint and tent.",
     "specs": [
       "94 x 82 in, 210T ripstop",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41WSqNAogSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CWDQDS32?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CWDQDS32?tag=rvgearlab-amz-20",
     "description": "The Modern Grizzly is a Tyvek ground sheet and tent footprint that weighs about 5 ounces. Tyvek is a breathable house-wrap material that blocks ground moisture and resists tears and punctures.\n\nAt about $23 it is the cheapest pick, and it weighs a quarter as much as the Wise Owl 94x82 Footprint. It has no grommets or stuff sack, which is the trade for that light weight.\n\nIt suits ultralight backpackers, bivy users and hammock campers who count every ounce. It also works as a bedroll cover or a quick sitting mat.",
     "specs": [
       "Tyvek house-wrap material",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ILyZVOWkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B079MHFGKT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B079MHFGKT?tag=rvgearlab-amz-20",
     "description": "The Marmot Footprint is cut for the Midpines 6-person tent and sits snug beneath the floor. Stakeout loops at the corners attach to the tent and guard the floor against rocks, sticks and abrasion.\n\nIt costs about $60, which is more than double the Wise Owl 94x82 Footprint, and the price buys an exact floor match. That matters on a 6-person floor where a universal sheet would leave corners exposed, and it undercuts the Gazelle T4 at about $66.\n\nIt suits owners of the Midpines 6-person tent who want a factory-sized floor guard. It is no use with any other tent.",
     "specs": [
       "Cut for Midpines 6-person",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31GmOkBB4FL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08Z4BDC14?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08Z4BDC14?tag=rvgearlab-amz-20",
     "description": "The Gazelle T4 footprint is 300 denier Oxford weave polyester rated to 3,000mm hydrostatic head. It includes four tack-down stakes and a carry bag, and it is made for the Gazelle T4 hub tent.\n\nIt costs about $66, a few dollars above the Marmot Midpines 6P Footprint, and the 3,000mm rating and included stakes give it the stronger spec sheet. It sits below the Gazelle T4 Plus in size and price.\n\nIt suits owners of the Gazelle T4 hub tent, which is a quick-pitch family model. The stakes hold it flat while you position the tent.",
     "specs": [
       "300D Oxford, 3000mm rating",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31mmk0I3gGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0864ZCTL3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0864ZCTL3?tag=rvgearlab-amz-20",
     "description": "The Teton Sierra Footprint is a strong woven tarp sized for the TETON Sierra canvas tent. It cleans and dries quickly and ships in a drawstring Oxford bag.\n\nIt costs about $73, higher than the Gazelle T4 Footprint and well above the Wise Owl 94x82 Footprint. A canvas tent weighs a lot, so the thick woven tarp is worth the money to protect a heavy floor.\n\nIt suits owners of the TETON Sierra canvas tent who camp on rocky or wet ground. It keeps the heavy canvas base clean.",
     "specs": [
       "Woven tarp for Sierra canvas tent",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31GmOkBB4FL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08Z4CPDL5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08Z4CPDL5?tag=rvgearlab-amz-20",
     "description": "The Gazelle T4 Plus footprint is 300D Oxford polyester rated to 3,000mm, with four tack-down stakes and a carry bag. It is cut for the T4 Plus and T8 8-person tents.\n\nIt costs about $95, the top of this budget and about $29 more than the Gazelle T4 Footprint. The extra money buys the larger size for the biggest tents in this guide, which no universal sheet under $100 can match.\n\nIt suits families with a T4 Plus or T8 who set up on abrasive ground often. It keeps the floor out of mud and sharp stones.",
     "specs": [
       "Cut for T4 Plus and T8",

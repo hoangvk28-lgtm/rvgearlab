@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41vfcP1eN1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D1JWTYKB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D1JWTYKB?tag=rvgearlab-amz-20",
     "description": "The BHB module is an in-dash trailer brake control replacement for 2019 to 2023 Ram 1500 (new body style) trucks, listed as a swap for OE numbers 82215278 and its AE, AC, AB and AD variants. It is the only pick here that restores a factory-looking dash control rather than adding an aftermarket box under the steering column.\n\nAgainst the Rizz-Man 80500 above or below it in price, this is a different kind of purchase: the Rizz-Man is a complete controller you can add to a truck without one, while the BHB is a replacement part for a truck that already has the factory control position. The HRepair module covers the same Ram years and OE numbers, so the choice between them comes down to warranty terms and seller.\n\nBest for an owner of a 2019 to 2023 Ram 1500 whose factory trailer brake module has failed. The listing states it does not fit the Ram 1500 Classic, and it does not turn a truck that never had the factory feature into one that does, so match your OE number before ordering.",
     "specs": [
       "2019-2023 Ram 1500 DT",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ElIxe+meL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HBW7TPC2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HBW7TPC2?tag=rvgearlab-amz-20",
     "description": "The Rizz-Man 80500 is a timed-delay electric brake controller sold with a wiring harness, and its listing says it handles trailers with 1 to 4 axles in a compact, dash-hugging body. It is the only pick in this guide that is both a real controller and packaged with a Ram-oriented harness.\n\nA timed-delay unit ramps braking to a preset level over a fixed time instead of reading the truck's deceleration, so it is simpler and cheaper than a proportional controller but can feel less smooth. Compared with the Tekonsha 3024 Harness, which needs you to buy a controller separately, this kit gets you braking in one purchase.\n\nBest for a Ram owner without a factory controller who tows a light to mid-weight trailer occasionally. The fitment list on the listing includes 2010 Ram 1500, 2500 and 3500 and continues with 2011 and 2012 models, so confirm your exact year and harness style before buying.",
     "specs": [
       "Timed-delay controller",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51ekJiMTAeL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09PTRH8BT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09PTRH8BT?tag=rvgearlab-amz-20",
     "description": "The HRepair module is a trailer brake control module with switch kit for 2019 to 2023 Ram 1500 new body style trucks, referencing part numbers 601-233, 82215278 and the AB through AE variants. The listing calls it a direct OE replacement and says it comes complete with the switch.\n\nIt overlaps almost exactly with the BHB Dash Module in fitment, and the real separator is the one-year unlimited-mileage guarantee the HRepair listing spells out. Neither is a substitute for the Rizz-Man 80500, because both assume your truck already has the factory trailer brake feature.\n\nBest for a 2019 to 2023 Ram 1500 owner who wants a clear guarantee on a replacement module. Like the BHB, it is stated not to fit the Ram 1500 Classic, so compare the reference numbers on your old module before you order.",
     "specs": [
       "Ram 1500 2019-2023 new body",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31PGI2TzbmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01AKIHKUY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01AKIHKUY?tag=rvgearlab-amz-20",
     "description": "The Tekonsha 3024 is a custom wiring harness, not a controller, listed for 2015 to 2022 RAM 1500, 2500 and 3500. It uses four copper wires under a braided mesh cover and plugs between the truck's connector and a Tekonsha brake controller with no cutting or splicing.\n\nBecause the harness works with every activation type in the Tekonsha line, proportional or time-based, it lets you pair a better controller later without rewiring. It costs far less than the controller kits above, but you must add a controller to get any braking at all.\n\nBest for a 2015 to 2022 Ram owner who already owns or plans to buy a Tekonsha controller. Buying this alone leaves you with no way to control trailer brakes.",
     "specs": [
       "2015-2022 RAM 1500/2500/3500",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/310LsAu5FrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GS9W83XJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GS9W83XJ?tag=rvgearlab-amz-20",
     "description": "The Lrichy 302000 is a wiring harness for Chrysler, Dodge and Ram vehicles, with one OEM-style plug and one brake controller plug. Its fit list covers 1995 to 2009 Dodge Ram 1500, 2500 and 3500, plus Dakota, Durango and Aspen models.\n\nIts fit window ends where the Tekonsha 3024 Harness begins, which makes it the pick for older trucks. Tin-plated copper terminals and wire and a two-year warranty give it a longer stated warranty than the CURT 51333 Harness, which does not state one.\n\nBest for a 1995 to 2009 Dodge Ram 1500 owner adding a controller. It is a harness only, and its years do not cover a newer Ram 1500.",
     "specs": [
       "1995-2009 Dodge Ram fit",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zLchh36SL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B001GN1K4K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B001GN1K4K?tag=rvgearlab-amz-20",
     "description": "The CURT 51333 is a vehicle-specific harness for select model years of the Dodge Ram 1500, 2500, 3500, Dakota, Durango and Chrysler Aspen. It uses 12-gauge wires and ships with a slit-loom sleeve to keep the run neat.\n\nIt works with any CURT controller that has a quick-plug connector, whether proportional, inertia or time delay, which makes it the natural match for a CURT controller. The listing says only select model years, so it is less specific than the Tekonsha 3024 Harness or Lrichy 302000 Harness about which years it fits.\n\nBest for someone pairing it with a CURT controller who has already checked the exact model year in CURT's fitment list. Like the other harnesses, it controls nothing on its own.",
     "specs": [
       "12-gauge copper wire",

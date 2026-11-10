@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41kKxA-4GsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09B3L9MXS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09B3L9MXS?tag=rvgearlab-amz-20",
     "description": "The Oileus X-Large 4-Person has 6 sand pockets and a patented automatic pop-up that sets up or folds in 30 seconds. It measures 92 by 45 by 45 inches, weighs about 4 pounds, and its umbrella-style cover carries a 3000mm PU coating and a 99 percent UV claim.\n\nIt lists the most sand pockets, six against four on the AMMSUN and CAMPHILL, plus 10 steel stakes and 4 guy lines. Compared with the AMMSUN and CAMPHILL it is a lie-down tent with a floor and an awning, not an umbrella canopy.\n\nIt suits two adults with two kids who want a pop-up that anchors itself. The awning adds a patch of shade out front.",
     "specs": [
       "6 sand pockets, 10 stakes",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41PMowsqlKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CM282VX4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CM282VX4?tag=rvgearlab-amz-20",
     "description": "The AMMSUN is a 6.5 by 6.5 foot cabana with 4 large built-in sand pockets, 4 steel ribs and a removable sidewall. It comes with a carry bag, shoulder strap, hanging hook, shovel and a mesh pocket for sunglasses.\n\nUnlike the Oileus it is an open cabana with a pole, so it ventilates freely and sets up like an umbrella. Next to the CAMPHILL and Colorsoul it adds the vented canopy and a 52 inch folded length.\n\nIt suits a couple or small family who want an open shade with a sidewall for low sun. The shovel makes filling the pockets easier.",
     "specs": [
       "4 sand pockets, 4 steel ribs",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Qp8FXtb8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F4QW36DF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F4QW36DF?tag=rvgearlab-amz-20",
     "description": "The CAMPHILL is a 6.6 by 6.6 foot beach cabana with a side wall, four sand anchor bags and included stakes. Silver-coated fabric blocks UV, built-in mesh pockets hold a phone and keys and two hooks hang towels and bags.\n\nIt adds stakes to its four pockets where the AMMSUN lists a shovel instead. It sets up in about 3 minutes like opening an umbrella and carries waterproof fabric.\n\nIt suits families who want pockets for small items and a quick umbrella pitch. The walls add privacy.",
     "specs": [
       "6.6 x 6.6 ft, side wall",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51qTb-VN0XL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G6KFB2TV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G6KFB2TV?tag=rvgearlab-amz-20",
     "description": "The Colorsoul is a 6.6 by 6.6 foot easy-up beach cabana with a side wall, UPF 50+ protection and sandbag-style pockets at the bottom. It uses a high-strength alloy steel frame with thicker rods than common supports.\n\nIt is the least expensive of the four. Against the AMMSUN it gives a similar size, and the side walls protect against wind and sand.\n\nIt suits budget shoppers who want a cabana with pockets and a sturdy frame. It is waterproof per the listing.",
     "specs": [
       "6.6 x 6.6 ft, alloy steel",

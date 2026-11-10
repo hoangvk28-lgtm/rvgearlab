@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31SJbzzv8OL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GT26FW5T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GT26FW5T?tag=rvgearlab-amz-20",
     "description": "The Coast XPH30R delivers 1500 lumens in turbo, 530 on high, 175 on medium and 48 on low, with a 16 lumen moon glow. A twist-focus optic moves between flood and spot, and the lamp body detaches magnetically from the strap and bracket, at 4.37 oz.\n\nIt is the brightest and most feature-rich lamp here, listing 8.5 hours on high and 30 hours on low. Next to the Coast FLX10R it offers more output and a focus ring, while the FLX10R gains a higher IP rating and an AAA backup.\n\nIt suits campers and hikers who want a single lamp for camp chores and night trails. The listing names a lifetime warranty and a 1 meter drop rating.",
     "specs": [
       "1500 lumens turbo, twist focus",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31TXxXwM5ML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GXH4VVVK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GXH4VVVK?tag=rvgearlab-amz-20",
     "description": "The Coast FLX10R is a 2-pack of 1000 lumen headlamps with flood, spot and combo beams, red and green light, and eight total modes. The rechargeable cell charges over USB-C and the lamps also accept AAA alkaline backup, with an IP67 rating that covers submersion to 1 meter.\n\nIt has the best water protection of the group and the green light option. Compared with the XPH30R it gives two lamps for less money, while peak output is about a third lower.\n\nIt suits couples or camp partners, and anyone who paddles or fishes near water. The AAA backup is handy when the USB-C battery runs flat.",
     "specs": [
       "1000 lumens, IP67 rating",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41dgKHCkl0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H4TKPC8W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H4TKPC8W?tag=rvgearlab-amz-20",
     "description": "The OMALIGHT is a USB-C headlamp with 5 modes (high, medium, low, strobe and SOS), instant zoom between flood and spot, and a 125 degree tilt. It adds a red rear safety light, a 5-level battery display and a strap that fits most safety helmets.\n\nWhere the Coasts focus on outdoor use, the OMALIGHT leans toward roadside and jobsite work with its rear light and hard hat fit. It lists 12 to 36 hours of runtime.\n\nIt suits campers who also do car repairs, bike rides or setup in the dark. The battery display shows how much charge remains before a trip.",
     "specs": [
       "5 modes with zoom beam",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/513AvY0AE3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07YB8SCW1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07YB8SCW1?tag=rvgearlab-amz-20",
     "description": "The Foxelli weighs 2.4 oz and offers 180 lumens of white light with a red mode, five modes in all, up to 300 feet of beam and up to 40 hours on a charge. It carries an IPX5 rating and charges over USB-C.\n\nIt is far lighter than the Coast lamps and costs about half as much as the XPH30R. The stretch headband fits adults and kids.\n\nIt suits runners, hikers and kids who want a light they forget they are wearing. A power bank is enough to refill it.",
     "specs": [
       "180 lumens, 2.4 oz",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41qx1tl7Z8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GYV9PM6H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GYV9PM6H?tag=rvgearlab-amz-20",
     "description": "The Energizer pair offers up to 225 lumens on high, a 50 meter beam, low and red modes, and a pivoting head. Each lamp charges from any USB power source and the listing says a USB cable is included.\n\nIt gives two simple lamps for far less than the Coast pair. It trails the FLX10R on output and water rating, and it keeps the controls to three modes.\n\nIt suits households that want one lamp in the house and one in the garage or camper. The red mode keeps night vision intact.",
     "specs": [
       "225 lumens, 50 meter beam",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41onqWavZVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CBPHGWJ2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CBPHGWJ2?tag=rvgearlab-amz-20",
     "description": "The Blukar lists 2000 lumens from a COB and XPG LED combination, a 1200mAh battery and USB-C charging. It has eight lighting modes including COB red light and SOS, stepless dimming, a motion sensor and an IPX5 rating.\n\nPriced lowest of the six, it also offers the most modes. The headlamp pivots 45 degrees and is light enough for runs.\n\nIt suits budget shoppers who want a feature-heavy lamp for camp tasks. The motion sensor lets you wave to switch it on.",
     "specs": [
       "Listed 2000 lumens, 8 modes",

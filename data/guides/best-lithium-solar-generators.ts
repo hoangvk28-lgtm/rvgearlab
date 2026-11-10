@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31alDcISAQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F4253JB6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F4253JB6?tag=rvgearlab-amz-20",
     "description": "The BLUETTI Elite 100 V2 kit pairs a 1,024Wh station with a 100W solar panel that ships separately. It lists 1,800W AC output (2,700W Power Lifting), 11 ports, a 25 pound body of 17L volume, an instant switchover for routers and PCs, and a 30dB quiet mode.\n\nIt stores three to four times the energy of the 296Wh EnginStar and outputs six times the 300W rating of the small units. The full charge from the 100W panel is listed at about 7 hours.\n\nCampers and home-backup buyers who need to run a bigger appliance with solar in the kit are its audience. The hidden handle makes it a one-handed carry.",
     "specs": [
       "1,024Wh, 1,800W AC",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51OSwyfZg2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F8J39B45?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F8J39B45?tag=rvgearlab-amz-20",
     "description": "The ZeroKor kit has a 300W station with a 280Wh lithium-ion pack, a 40W foldable solar panel and a second 100W power pack with its own AC outlet. Beyond its two AC sockets, the main unit adds DC and USB ports, a QC3.0 fast-charge port and an SOS flashlight.\n\nIt is the only kit that includes a second battery pack, and its 280Wh is close to the 296Wh of the EnginStar. It sits above the GRECELL 330W on price and below the BLUETTI.\n\nIt suits families and tent campers who want a lithium-ion kit with a panel and a spare pack for a second tent. The BMS covers short circuit and overload.",
     "specs": [
       "280Wh lithium-ion, 300W",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411K6EBF2ML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FKMF2JSB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FKMF2JSB?tag=rvgearlab-amz-20",
     "description": "The EnginStar 296Wh is a compact 6.5 pound box with two pure sine wave AC sockets, a built-in LED light and a large LCD. It charges by wall in about 7 hours, by car or by a compatible solar panel, and the box includes a wall charger and a car cable.\n\nIt is lighter than every other pick and costs the least of the four. The listing advises a full recharge every 2 to 3 months to keep the cells healthy, which is useful storage advice.\n\nIt suits campers who want a lightweight lithium box with an LCD for monitoring. A solar panel is not included.",
     "specs": [
       "296Wh lithium, 300W",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41x6adFhCqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B286D2V7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B286D2V7?tag=rvgearlab-amz-20",
     "description": "The GRECELL 330W holds 230.88Wh and lists 330W of pure sine wave output with a 600W surge. It has a 60W USB-C PD port, an 18W USB-C PD port, two USB-A QC ports, one AC outlet and a car port, plus a built-in MPPT solar controller and three recharge routes.\n\nIt has the smallest battery of the four and a low price. The 60W USB-C port charges laptops faster than the EnginStar's lower-power USB ports.\n\nIt suits commuters, day trippers and light campers who need a laptop and phones charged. The listing says it supports CPAP-class devices, so ask your device maker before relying on it.",
     "specs": [
       "230.88Wh, 330W, 600W surge",

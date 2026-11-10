@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41co8oT6++L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CF41ZW4W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CF41ZW4W?tag=rvgearlab-amz-20",
     "description": "The Coleman-Mach soft start kit lists a reduction in inrush amperage of up to 75 percent, a ramped-up power draw and short-cycle protection. The Coleman-Mach soft start kit lists a reduction in inrush amperage of up to 75 percent, a ramped-up power draw and short-cycle protection.\n\nIt is the only kit here made by an AC maker, with a 2 year limited warranty. It costs roughly 115 to 130 dollars more than the Kedite and Pirjeco kits.\n\nA unibody enclosure keeps the weather out, and the listing says it installs from the outside of the coach with a 2 year limited warranty. It suits owners of Coleman-Mach air conditioners who want a matched kit.",
     "specs": [
       "Up to 75% inrush reduction",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51YXdnjIq2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GYD3TVDV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GYD3TVDV?tag=rvgearlab-amz-20",
     "description": "An IP65 waterproof rating is the Kedite's calling card. Inrush current drops by up to 75 percent, and the rating allows outdoor mounting.\n\nIt matches the Coleman-Mach reduction figure for less money and has a stated IP rating the Pirjeco lacks. It aims at DIY installers.\n\nIt targets DIY installers and reduces the loud thump at compressor startup. It suits DIY owners who want a stated waterproof rating.",
     "specs": [
       "Up to 75% inrush reduction",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/510bkrw2DJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GYYFHCX8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GYYFHCX8?tag=rvgearlab-amz-20",
     "description": "Pirjeco covers 1.75 to 3.5 ton RV air conditioners on 115 to 240V, trimming startup amps by 65 to 70 percent. The Pirjeco kit covers 1.75 to 3.5 ton RV air conditioners on 115 to 240V, cutting startup amps by 65 to 70 percent.\n\nStart and run capacitors are preinstalled and no contactor is required. It costs about 16 dollars more than the Kedite.\n\nStart and run capacitors are preinstalled and no extra contactor is required. It suits owners who want a complete kit with no extra parts.",
     "specs": [
       "Cuts startup amps 65 to 70%",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41R-R6ll1JL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GXVFGD4R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GXVFGD4R?tag=rvgearlab-amz-20",
     "description": "The GEARBONE kit reduces startup current spikes by 60 to 70 percent and uses a self-learning microprocessor that monitors current and voltage. The GEARBONE kit reduces startup current spikes by 60 to 70 percent and is aimed at running a 13.5k or 15k BTU AC on a 2000 to 2200W generator.\n\nIt targets a 13.5k or 15k BTU AC on a 2000 to 2200W generator and costs less than the Kedite. The reduction range is lower than the 75 percent kits.\n\nA microprocessor monitors current and voltage in real time with a self-learning algorithm. It suits owners who want a smart-start kit at a low price.",
     "specs": [
       "60 to 70% spike reduction",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411BFblkwtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D1FX5FBR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D1FX5FBR?tag=rvgearlab-amz-20",
     "description": "At the lowest price here, the iFJF is listed for a 15,000 BTU air conditioner running from a small generator. Its flame-retardant ABS shell adds a safety margin around the electronics.\n\nIt includes an installation kit with instructions and videos and undercuts every other pick. It lists fewer specs than the Kedite.\n\nIt includes an installation kit with instructions and videos and eases torque for smoother starts. It suits budget buyers who want the basic job done.",
     "specs": [
       "15,000 BTU on small generator",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41tpKjscFUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B098NJ6W2K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B098NJ6W2K?tag=rvgearlab-amz-20",
     "description": "The SoftStartRV pair is two units that the listing says start two air conditioners on 30-amp service, both 100 percent waterproof. The SoftStartRV pair is two units that the listing says start two air conditioners on 30-amp service.\n\nIt costs several times more than the generic kits but covers a dual-AC rig with a matched pair. Each unit is 40 percent smaller to fit low-profile RV A/Cs.\n\nEach is 40 percent smaller to fit low-profile RV A/C units and 100 percent waterproof. It suits owners with two rooftop ACs.",
     "specs": [
       "Two-unit pair",

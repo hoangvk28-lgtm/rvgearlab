@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41GJuhyiJDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FN4VYH5P?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FN4VYH5P?tag=rvgearlab-amz-20",
     "description": "The SEAFLO 1.0 L tank states a 10 PSI factory precharge, a 125 PSI ceiling plus 1/2 inch MNPT inlet and outlet on its spec line. It adds an air fill valve and an internal bladder that the listing describes as maintenance free.\n\nCompared with the 0.75 L tanks, it holds a third more nominal volume in a similar compact body, and it alone among these tanks cites NSF/ANSI/CAN 61 and 372 for potable contact. That documentation is why it ranks above the maXpeedingrods unit.\n\nIt suits owners who want a small tank with the cleanest paperwork and the option to mount it in any position. The air fill valve also keeps the precharge adjustable if the pump is ever swapped.",
     "specs": [
       "1.0 L, 10 PSI precharge",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41EBgyHsdOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F8QP5C92?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F8QP5C92?tag=rvgearlab-amz-20",
     "description": "The maXpeedingrods tank is a 1 L (33.8 oz) accumulator with a stated 10 to 125 PSI range. It ships with two barbed fittings, so it connects to flexible hose without a trip to the hardware aisle.\n\nAgainst the SEAFLO 1L, it swaps the potable standards and air valve language for an included fitting pair and a one year warranty with lifetime technical support. That makes it the easier first-time install of the two 1 L tanks.\n\nA fit for DIY owners adding a tank to a barbed-hose pump line who want the connectors in the box. The included warranty and support make it a calm first install.",
     "specs": [
       "1 L, 10 to 125 PSI range",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/416SrccFhlL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H3QCDNYH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H3QCDNYH?tag=rvgearlab-amz-20",
     "description": "The oiununo tank is titled as a 0.75 L (25 oz) unit and carries a 125 PSI maximum, a 1/2 inch MNPT inlet and outlet and an internal bladder that the listing calls maintenance free. Its copy points to marine, RV and off-grid water systems.\n\nNext to the SEAFLO 1L it is a smaller, cheaper tank, and against the KENCIT and lvifloae units it sits at a similar size with a slightly different price. The bladder is sealed, which keeps the tank free of routine upkeep.\n\nA fit for owners who want a straightforward small cushion for a compact off-grid or van system. The sealed bladder means nothing to service after the install.",
     "specs": [
       "0.75 L title, 125 PSI max",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41XakWJJ5nL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FR7CMD6C?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FR7CMD6C?tag=rvgearlab-amz-20",
     "description": "The WASSERMANN tank is a 0.75 L (25.3 oz) unit with a 125 PSI maximum and a 10 PSI factory precharge. Its soft rubber base is described as suppressing vibration, which helps when the tank is bolted to a thin panel.\n\nIt is the pick for small bays where noise travels, since the KENCIT and lvifloae units do not mention a damping base. It gives up a quarter of the SEAFLO volume in return.\n\nA sensible match for compact trailers where a rattling mount would be noticed at night. Its precharge and maximum are both printed, so setup is simple.",
     "specs": [
       "0.75 L (25.3 oz)",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41jNCXXjMDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BYWFCX4N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BYWFCX4N?tag=rvgearlab-amz-20",
     "description": "The KENCIT 0.75 L tank lists a 10 to 125 PSI range and a factory 10 PSI precharge. Its instructions tell you to set the tank's air pressure lower than the pump's cut-in pressure, a step many small-tank listings skip.\n\nThat precharge guidance puts it ahead of the lvifloae and oiununo units for owners who want to tune the tank, while it sits below the WASSERMANN on vibration damping. It is a straightforward, low-cost way to add a cushion.\n\nGood for owners who plan to check precharge with a gauge and set it to their pump. The written instructions make that first adjustment easy to follow.",
     "specs": [
       "0.75 L, 10 to 125 PSI",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31zE5qg4pwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DKN56SYJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DKN56SYJ?tag=rvgearlab-amz-20",
     "description": "The lvifloae tank is a 0.75 L unit carrying a 125 PSI ceiling and a 1/2 inch MNPT connection. Its listing focuses on stopping pump pulsation and water hammer, and describes a rugged build for tight spaces.\n\nIt is the lowest price here, so it trades the extra documentation of the SEAFLO and the damping base of the WASSERMANN for savings. The same 0.75 L volume as the KENCIT makes it an easy swap.\n\nBest for buyers who want the cheapest working cushion for a small pump. It is an easy first accumulator for a weekend trailer.",
     "specs": [
       "0.75 L, 125 PSI max",

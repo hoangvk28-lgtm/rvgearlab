@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41BwIxRBc0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CJLGVLY3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CJLGVLY3?tag=rvgearlab-amz-20",
     "description": "The Patiobay tarp is 16 by 20 feet, 14 mil thick and about 6.35 ounces per square yard. Metal grommets sit every 23.6 inches along a hem reinforced with stitched poly rope on all sides.\n\nIt is the biggest tarp in this group and one of two 14 mil options, alongside the Sunvigor. Against the Accompagner it trades the Oxford fabric for polyethylene, and it covers far more ground than the 10 mil sets.\n\nIt suits a base camp with a big kitchen, gear pile or group shelter, where one large tarp replaces several small ones. The listing also names roofs, boats and pools among its uses.",
     "specs": [
       "16 x 20 ft, 14 mil",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51TODZaW-IL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C32J6R3P?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C32J6R3P?tag=rvgearlab-amz-20",
     "description": "The Sunvigor tarp is 10 by 20 feet in 14 mil virgin polyethylene at about 6.5 ounces per square yard. Brass grommets run every 23.6 inches, and the seams and hems are heat sealed.\n\nIt has the same 14 mil thickness as the Patiobay in a narrower, lower-priced shape. Compared with the 10 mil Raindeway and VHESS tarps, it adds heat-sealed seams and non-recycled polyethylene.\n\nIt works as a long ridge-line shelter over a picnic table, a row of gear or a vehicle side. The long, narrow shape pitches well between trees.",
     "specs": [
       "10 x 20 ft, 14 mil",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Q7uFdolXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GXDWMFMC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GXDWMFMC?tag=rvgearlab-amz-20",
     "description": "The Accompagner is a 7 by 12 foot heavyweight Oxford vinyl tarp with a PVC coating, weighing 4.2 pounds. It uses reinforced webbing loops in place of metal grommets and has a hydrophobic coating that sheds water.\n\nWhere the Patiobay and Sunvigor use polyethylene, this tarp uses coated Oxford fabric the listing says resists warping in high heat. It is the second smallest tarp here, and it avoids grommets that can rust or tear.\n\nIt suits truck beds, kayak covers, ground sheets and small shelters where abrasion and heat matter more than size. The listing also names roof repair and cargo covers as uses.",
     "specs": [
       "7 x 12 ft Oxford vinyl",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41SD-Ux3IlL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09VTMMP89?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09VTMMP89?tag=rvgearlab-amz-20",
     "description": "RAINDEWAY lists a finished 10 by 12 foot tarp at 10 mil and about 5 ounces per square yard, with reinforced metal grommets spaced around all sides. The listing says the size is the actual usable size.\n\nIt is thinner than the 14 mil sets and a step above the 8 by 10 RhymBar in coverage. It undercuts the Patiobay and Sunvigor and costs slightly more than the VHESS.\n\nIt suits a campsite shelter or ground cover for two people, and works as a tent footprint or an equipment cover. The metal grommets on all four sides make several pitch shapes possible.",
     "specs": [
       "10 x 12 ft, 10 mil",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Alzv8CYUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CSYJ68DJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CSYJ68DJ?tag=rvgearlab-amz-20",
     "description": "VHESS offers a 10 by 12 foot, 10 mil polyethylene tarp in silver and brown, with a 14 by 14 weave count and metal grommets every 24 inches. The listing mentions rain, snow and wind protection.\n\nIt matches the RAINDEWAY on size and thickness and runs slightly lower in price. Compared with the RhymBar it adds two feet in each direction, and it carries the same 10 mil rating.\n\nIt suits budget car campers who want a simple shelter roof or ground sheet that handles light use. The weave count and grommet spacing are both stated, which makes the specs easy to compare.",
     "specs": [
       "10 x 12 ft, 10 mil",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411U5pKyxzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FRMD23GL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FRMD23GL?tag=rvgearlab-amz-20",
     "description": "RhymBar sells an 8 by 10 foot tarp, 10 mil thick and made from PE in a reversible silver and brown, with hot-sealed rust-proof grommets every 2 feet. The listing calls it insulated and lists 20 sizes.\n\nIt is the smallest tarp here by area, just under the 7 by 12 Accompagner, and the lowest in price. The reversible silver and brown faces give you a choice of side to show.\n\nIt fits a solo camper or a small cover, such as a woodpile or a tent entrance. Twenty size options mean you can match the cover to the job.",
     "specs": [
       "8 x 10 ft, 10 mil PE",

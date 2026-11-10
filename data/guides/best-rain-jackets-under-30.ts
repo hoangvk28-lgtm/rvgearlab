@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41rp+bdr7tL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DJ6QKTG1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DJ6QKTG1?tag=rvgearlab-amz-20",
     "description": "The APEXUP Packable is a men's hooded rain jacket with a 5000 to 8000mm waterproof coating, hot-pressed sealed seams and waterproof zippers. Two interior pockets and two zip external pockets, an adjustable hood, elastic cuffs and an elastic hem round it out.\n\nIt costs about $27, the most in this group, and it is the only pick that seals both the seams and the zippers. That detail lifts it above the OTU Shell and COOFANDY Shell, which leave zippers more exposed in a long soak.\n\nIt suits hikers and campers who want one shell for real mountain weather without paying for a brand name. It packs into its own carry bag for a daypack or glove box.",
     "specs": [
       "5000-8000mm coating",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31vUZOaw2IL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00CKD1LMG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00CKD1LMG?tag=rvgearlab-amz-20",
     "description": "The FROGG TOGGS Ultra-lite2 uses a non-woven polypropylene fabric that is breathable, wind resistant and very light. It adds a cord-lock hood, a full-length zipper with storm flap and elastic cuffs.\n\nIt costs about $23, around $4 less than the APEXUP Packable. The storm flap over the zipper stands in for the APEXUP's waterproof zippers, and the fabric compresses smaller than the nylon shells here.\n\nIt suits campers who keep a spare jacket in the tent or the car and want it to stay compact. Wear it for a day or two of rain and dry it out afterward.",
     "specs": [
       "Non-woven polypropylene",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41o5l8eeu2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08F9MLX3W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08F9MLX3W?tag=rvgearlab-amz-20",
     "description": "The OTU Shell is a men's 100% polyester jacket with Watertight IV treatment, a detachable drawstring hood and a drawcord hem. Two zippered slash pockets with flap overlap and an inner chest pocket give secure storage.\n\nIt costs about $20, $7 below the APEXUP Packable. The flap-covered pockets and detachable hood give it more everyday flexibility than the COOFANDY Shell at the same price.\n\nIt fits commuters and short-trip hikers who want one jacket for rainy streets and rainy trails. Take the hood off in dry weather to keep it from flapping.",
     "specs": [
       "100% polyester, Watertight IV",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41+0dnlAmKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B084LBBV3F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B084LBBV3F?tag=rvgearlab-amz-20",
     "description": "The COOFANDY Shell is a men's waterproof and windproof shell with an adjustable drawstring hood, a relaxed fit and a carrying pouch. It is machine washable and easy to stow.\n\nIt costs about $20, tied with the OTU Shell for the lowest price here, and it adds a stuff pouch the OTU Shell lacks. It gives up the pocket flaps and detachable hood of the OTU Shell for a plainer cut.\n\nIt suits cost-conscious hikers who want a windproof layer and need a basic rain shell in their pack. Treat it as a light to moderate rain jacket.",
     "specs": [
       "Waterproof, windproof shell",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41dYwVKE8hL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H6QKJCSW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H6QKJCSW?tag=rvgearlab-amz-20",
     "description": "The Zando Polka Dot is a women's packable hooded raincoat made from smooth water-resistant fabric that sheds drizzle and light rain. It has a storm flap, drawstring hood, elastic cuffs, a drawstring hem and roomy side pockets.\n\nIt costs about $24, between the OTU Shell and the APEXUP Packable, and it is the only women's cut in the top five. It trades the stated millimeter waterproofing of the APEXUP Packable for a lighter, more casual feel.\n\nIt suits women who want a stuffable layer for dog walks, theme parks and light hikes. It folds into its pouch for a tote or backpack.",
     "specs": [
       "Water-resistant packable fabric",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31qzajCGhbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B003XH50HK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B003XH50HK?tag=rvgearlab-amz-20",
     "description": "The Augusta Coach is a nylon taffeta coach's jacket with a snap front, elastic cuffs and an open hem. The 100% nylon outer feels smooth and light and sheds light rain.\n\nIt costs about $24, close to the Zando Polka Dot, and it has no hood, which sets it apart from every other jacket here. It is the lightest and simplest layer in the group.\n\nIt suits team events, sideline use and mild camping evenings where a wind layer matters more than rain cover. Pair it with a hat when rain is on the way.",
     "specs": [
       "100% nylon taffeta",

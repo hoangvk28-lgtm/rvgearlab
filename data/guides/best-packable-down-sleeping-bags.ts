@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/412Jb6Jo9iL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D6YC7YPM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D6YC7YPM?tag=rvgearlab-amz-20",
     "description": "This QEZER model weighs 1.59 lb and stuffs down to a 9.84 by 5.51 inch bundle, using 600 fill power duck down in a semi-rectangular 85.04 x 31.5 inch body. The listing prints a comfort range of 45 to 61F and a limit of 36F.\n\nIt is the smaller and lighter of the pair, trimming about half a pound and a few inches of pack size from the QEZER 2.16 lb model. Double zippers, chest insulation and a foot zipper for venting match the heavier bag.\n\nGreat for summer and early fall hikers who value the smallest pack and the lowest price. Two bags in matching colors can combine into a double.",
     "specs": [
       "1.59 lb, packs 9.84 x 5.51 in",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Kdo1-9pCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CYP4Y9C5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CYP4Y9C5?tag=rvgearlab-amz-20",
     "description": "QEZER lists this bag at 2.16 lb with a packed size of 13.39 x 6.69 inches and the same 600 fill power duck down. Its comfort range is 41 to 54F with a 30F limit, in an 85.04 x 31.5 inch semi-rectangular body.\n\nIt adds about half a pound and a bigger stuff size over the Ultralight 1.59 lb model, and buys four degrees on the comfort low end and six on the limit. A foot zipper and chest insulation carry over from the lighter bag.\n\nGood for hikers who camp into fall and want the extra margin without jumping to a heavy winter bag. It remains compact for a down bag with this much fill.",
     "specs": [
       "2.16 lb, packs 13.39 x 6.69 in",

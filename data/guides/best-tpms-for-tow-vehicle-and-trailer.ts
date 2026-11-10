@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41lZVcu7QPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DPLZZSZP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DPLZZSZP?tag=rvgearlab-amz-20",
     "description": "GUTA's GT80 eight-sensor kit uses flow-through sensors and lets you switch between RVs, trailers and tow vehicles on a touchscreen showing up to 22 tires. GUTA's GT80 eight-sensor kit has a large vertical color touchscreen that shows up to 22 tires on one page and flow-through sensors that allow inflation without removal. The listing describes easy switching between RVs, trailers and tow vehicles and six alarm modes.\n\nIt has enough sensors for a truck plus tandem, unlike the six-sensor kits, and costs more than RVenture 6-Sensor. It needs sturdy valve stems.\n\nBest for a pickup and tandem trailer on one screen. It suits a tow vehicle plus tandem trailer where flow-through convenience matters.",
     "specs": [
       "8 flow-thru sensors",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41DLBY1DJIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CSXQH98B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CSXQH98B?tag=rvgearlab-amz-20",
     "description": "RVenture's six-sensor kit has cap-style sensors with user-replaceable CR1632 batteries and a 5 inch display. RVenture's six-sensor kit has a 5 inch widescreen color display, cap-style sensors powered by user-replaceable CR1632 batteries and a repeater. The listing says it supports tow vehicles, fifth wheels, RVs and motorhomes.\n\nIt says it supports tow vehicles and trailers and includes a repeater, but six sensors do not cover a truck plus tandem.\n\nBest for a tow vehicle with a single-axle trailer. It is a good fit for a motorhome with a tow vehicle.",
     "specs": [
       "6 cap sensors, CR1632 batteries",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51UNKa3p8VL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B009BEGV6S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B009BEGV6S?tag=rvgearlab-amz-20",
     "description": "EEZTire's six-sensor kit has separate controls for RV and trailer sensors and a 4.5 by 3 inch monitor. EEZ RV Products' EEZTire kit has six AT sensors and a 4.5 by 3 inch color monitor that is motion sensitive and checks pressure and temperature every 6 seconds. The monitor has separate controls for RV and trailer sensors so the trailer can be turned off when driving the RV alone.\n\nIt lets you turn off the trailer when driving the RV alone, which RoadTech 6 Cap does not state. It costs more than RVenture.\n\nBest for a motorhome that sometimes tows. The listing does not state whether the sensor batteries are replaceable, so ask before buying.",
     "specs": [
       "6 AT sensors, 4.5 x 3 inch color monitor",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/414Ff9dmPML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FHWVH4D6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FHWVH4D6?tag=rvgearlab-amz-20",
     "description": "RoadTech's six-sensor kit uses cap sensors and states support for RVs, trailers and tow vehicles. RoadTech's six-sensor kit uses cap sensors that pair wirelessly with RoadTech monitors and provides active alerts for pressure drops and overheating on RVs, trailers and tow vehicles.\n\nIt costs more than EEZTire 6AT and gives few specs. Cap sensors must be removed to add air.\n\nBest only after specs are confirmed. It is a premium cap-sensor kit with limited specs.",
     "specs": [
       "6 cap sensors, color display",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41rzJTAirNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F3ZYLZYP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F3ZYLZYP?tag=rvgearlab-amz-20",
     "description": "EEZTire's four-sensor kit includes a free booster system and separate controls for RV and trailer. EEZ RV Products' TPMS4ATB kit includes four AT sensors, a color monitor and a free booster system. The monitor is motion sensitive, checks every 6 seconds and has separate controls for RV and trailer.\n\nIt covers only four tires, but the booster helps range. It costs the same as EEZTire 6AT.\n\nBest for a four-tire trailer needing a booster. It suits a four-wheel trailer that needs the booster.",
     "specs": [
       "4 AT sensors plus free booster",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/3189R-hAmDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HGM83WYM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HGM83WYM?tag=rvgearlab-amz-20",
     "description": "LYHCREKA's set is four 433MHz trailer sensors for Silverado and Sierra 2020 to 2025. LYHCREKA's set is four 433MHz trailer TPMS sensors for Chevy Silverado and GMC Sierra 2020 to 2025 that replace several GM part numbers. The listing says they work with a compatible factory trailering system.\n\nIt is a replacement for a factory trailering system and has no display. It costs far less than a kit.\n\nBest only for a compatible GM truck system. It is a replacement sensor set, not a standalone monitor.",
     "specs": [
       "Set of 4 trailer sensors, 433MHz",

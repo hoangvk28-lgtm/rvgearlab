@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41npgroHzZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DSJ1NLZ1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DSJ1NLZ1?tag=rvgearlab-amz-20",
     "description": "The Timber Ridge 5-9 Person tent runs 13 by 10 ft under an 87 inch ridge, and it fits up to five campers with room for two air mattresses or five sleeping bags. A 6 by 8 ft screened porch and awning sit in front for shoes, coolers and chairs.\n\nAgainst the other four it has the biggest footprint, plus double doors and windows with PU2000 polyester and mesh panels for airflow. It connects to a trunk for dry access to gear, and it also stands alone.\n\nIt suits families of four or five who want real standing room and a screened lounge area. The listing names SUVs, CUVs, minivans and pickups.",
     "specs": [
       "13 x 10 ft, 87 in center height",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51ugXquiYyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BLHG73JW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BLHG73JW?tag=rvgearlab-amz-20",
     "description": "The 5-person Timber Ridge measures 10 by 8 ft with over 7.1 ft of height, built from PU2000 coated polyester taffeta. It has one large door, a top mesh skylight and two mesh storage bags inside.\n\nCompared with the 13x10 porch model it saves about 60 dollars and is far easier to pitch alone, since it drops the porch and double doors. In return it adds a skylight and interior storage bags that the Portal does not list.\n\nIt suits small families and couples with kids who want a trunk-attached bedroom without a big footprint. The listing names Model Y, Wrangler hardtops and pickups with bed lids.",
     "specs": [
       "10 x 8 ft, over 7.1 ft tall",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41gCJS5UjDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DT8WLFNC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DT8WLFNC?tag=rvgearlab-amz-20",
     "description": "The VEVOR SUV tent measures 8.2 by 10.1 by 7.5 ft and is rated for 5 to 8 people, with 210T Oxford fabric and PU2000 waterproofing. It comes with a movie screen, side windows, a top vent and thickened fiberglass poles.\n\nWhere the Timber Ridge tents rely on porches or skylights, this one adds the screen and double-layer design with a rainfly. It costs less than either Timber Ridge while keeping a similar 7.5 ft height.\n\nIt suits families who want to watch a film in the tent and prefer a dual-purpose rear tent. It also pitches on its own.",
     "specs": [
       "8.2 x 10.1 x 7.5 ft",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51LTyTqoUuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FXFZHH35?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FXFZHH35?tag=rvgearlab-amz-20",
     "description": "The Portal 5-Person SUV tent is 10 by 8 by 7.2 ft with a wide porch and PU2000 polyester. It has two large doors, a full mesh ceiling and sturdy poles for windy days.\n\nAgainst the VEVOR it trades the movie screen for the porch and two doors, and against the Timber Ridge 13x10 it costs roughly half as much. It works with SUVs, MPVs, vans, pickups with bed covers and crossovers.\n\nIt suits budget buyers who want a porch for shade and a stand-up interior. Two people setting it up speeds things along.",
     "specs": [
       "10 x 8 x 7.2 ft",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/510SLXrgS7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GYCXYWPH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GYCXYWPH?tag=rvgearlab-amz-20",
     "description": "The ORIENGEAR is an 8 by 8 by 7 ft double-layer tent with 210D Oxford fabric, PU2000 waterproofing and fully taped seams. It uses 9.5 mm fiberglass poles and comes with eight L-shaped stakes, four wind ropes and a carry bag.\n\nNo tent here costs less, and the listing says it needs no modification to fit the rear tailgate of most liftgate-style SUVs. Next to the VEVOR it has a smaller footprint and a fully stated accessory set.\n\nIt suits car campers who value a quick tailgate fit and a 7 ft center ceiling. It handles road trips, weekends and overlanding.",
     "specs": [
       "8 x 8 x 7 ft, 7 ft ceiling",

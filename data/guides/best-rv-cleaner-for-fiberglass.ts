@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21Lqewm4RzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GNTHRMHL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GNTHRMHL?tag=rvgearlab-amz-20",
     "description": "LIQUISHINE Black Streak Remover is a spray made for RV sidewalls, specifically fiberglass and painted surfaces where streaks from rain runoff show most. The listing says it works wet or waterless, with 30 to 60 seconds of wait and a wipe.\n\nAgainst STAR BRITE Streak, it names fiberglass and painted sidewalls directly but has no degreaser use list. Against Meguiar's M50, it removes streaks rather than polishing the surface.\n\nBest for fiberglass sidewalls with visible runoff streaks. It is not a roof or shower cleaner.",
     "specs": [
       "Black streak remover",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31XeYTkLm2S._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0000AYFCJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0000AYFCJ?tag=rvgearlab-amz-20",
     "description": "STAR BRITE Instant Black Streak Remover is a large-size spray targeting streaks from water runoff and exhaust stains, and doubles as an all-around cleaner and degreaser. The listing says it cleans without damaging surfaces, wax coatings or decals.\n\nCompared with LIQUISHINE Streak, it covers more jobs including marine, auto and siding work. Compared with Pure RV Shower Cleaner, it is an exterior product.\n\nBest for owners who want one multi-use bottle for fiberglass walls and other hard surfaces. The big size costs more upfront.",
     "specs": [
       "Streak remover and degreaser",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/313Q0joNrYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GNWSSSRC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GNWSSSRC?tag=rvgearlab-amz-20",
     "description": "LIQUISHINE Roof Cleaner is sold for RV roofs and says it is safe for TPO, PVC and fiberglass roofs, with built-in UV protection and a 30 to 60 second dwell before a light scrub and rinse. It is designed to remove dirt and grime without excessive effort.\n\nAgainst Liquid Rubber Smart Cleaner, it lists UV protection but fewer surface types. Against LIQUISHINE Streak, it is for roofs, not sidewalls.\n\nBest for a fiberglass roof that needs a routine wash. Follow the directions on dilution.",
     "specs": [
       "Roof cleaner with UV protection",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31lDp53w49L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07SMZB1ST?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07SMZB1ST?tag=rvgearlab-amz-20",
     "description": "Liquid Rubber RV Smart Cleaner and Conditioner is a 1 gallon citrus-based cleaner for EPDM rubber roofs, fiberglass, metal and wood. It has no VOCs, acid, chlorine or bleach and applies with a brush, broom or garden sprayer.\n\nCompared with LIQUISHINE Roof, it covers more surfaces and is a gallon but has no UV note. Compared with Meguiar's M50, it cleans without polishing.\n\nBest for owners with mixed surfaces who need one gallon of cleaner. It is a cleaner, not a protectant.",
     "specs": [
       "Citrus cleaner and conditioner",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41psMG4i7GL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0000AY50X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0000AY50X?tag=rvgearlab-amz-20",
     "description": "Meguiar's M50 Marine/RV One-Step Cleaner Wax is a 32 oz product that removes light oxidation, haze, minor scratches and swirls and leaves protection. It uses non-abrasive cleaners and polishing oils.\n\nCompared with the streak removers, it restores a dull finish rather than dissolving streaks. Compared with LIQUISHINE Streak, it takes more effort and costs more.\n\nBest for faded, hazy fiberglass that is still sound. It cannot repair deep oxidation.",
     "specs": [
       "One-step cleaner wax",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Dkup1rgYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FZMNLSXT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FZMNLSXT?tag=rvgearlab-amz-20",
     "description": "Pure RV Shower Cleaner is a 32 oz spray for fiberglass and plastic RV bathrooms that dissolves hard-water stains and soap scum in 2 to 3 minutes. It is bleach-free, ammonia-free and low odor with a citrus scent.\n\nUnlike the exterior products, it is for shower walls only. Compared with Liquid Rubber Smart Cleaner, it is not for roofs.\n\nBest for bathroom fiberglass with mineral spots. Do not use it on sidewalls.",
     "specs": [
       "Shower cleaner, 32 oz spray",

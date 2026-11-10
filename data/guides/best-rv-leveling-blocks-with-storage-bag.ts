@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/413oMH9vjWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F53WJTL9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F53WJTL9?tag=rvgearlab-amz-20",
     "description": "The RVMATE set contains 20 leveling blocks, 4 top blocks and 2 carrying bags. Each block measures 8.5 by 8.5 by 1.5 inches and adds about an inch of height, with 0.75 inch top blocks to finish the stack.\n\nCompared with CircleRoad, it gives double the blocks for dual wheel or tandem stacks, and the two bags split the load. It suits owners with multi-axle trailers or fifth wheels who need generous stacking height.",
     "specs": [
       "24 pieces, 2 bags",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41qF7yTwEzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D97LX1Y2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D97LX1Y2?tag=rvgearlab-amz-20",
     "description": "The BUNKER INDUST blocks work as leveling blocks, jack blocks and recovery boards with a side-interlock design. The listing states a load rating up to 15,000 lbs, and a storage bag is included.\n\nAgainst the Camco blocks, they add recovery-board use and a stated load figure, which makes them useful beyond camp setup. They suit owners with heavier rigs who also want traction help when stuck.",
     "specs": [
       "Up to 15,000 lbs load",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Rn3fzqhcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CL5WS9LZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CL5WS9LZ?tag=rvgearlab-amz-20",
     "description": "The CircleRoad kit includes 10 leveling blocks and 2 top blocks with a storage bag. Blocks measure 8.5 by 8.5 by 1.5 inches and work with single wheels, double wheels, tongue jacks and stabilizer jacks.\n\nIt sits between the 24-piece RVMATE and the smaller Camco, offering enough for a single-axle trailer without the bulk. It suits owners of small to mid-size towables.",
     "specs": [
       "12 pieces with bag",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31KlgEAxwcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00480BWBE?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00480BWBE?tag=rvgearlab-amz-20",
     "description": "The Camco blocks use UV-stabilized resin in a bright yellow color so they are easy to spot at camp. The stackable interlocking design measures 8.5 by 8.5 by 1.5 inches, and a zippered bag is included.\n\nCompared with RVMATE, it is a smaller, simpler set from a familiar brand, and the yellow color keeps blocks from being left behind. It suits owners who want a simple, rinseable set.",
     "specs": [
       "UV-stabilized resin",

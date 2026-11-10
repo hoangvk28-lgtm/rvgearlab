@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Lk7kr9KSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HC5GVS7Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HC5GVS7Q?tag=rvgearlab-amz-20",
     "description": "The FEELLE has a 50,000mAh lithium polymer battery, 15W magnetic wireless charging, four built-in cables and a hand crank with a compass. It powers up to six devices at once, and a redesigned panel improves sun absorption.\n\nIt has the largest battery in the group and a crank, which the TecoHikee and Durecopow skip. That makes it the best fit for a long outage with multiple phones.\n\nIt fits go-bag and bunker kits that need capacity first and redundancy second. The compass and crank add two more tools to one bank.",
     "specs": [
       "50,000mAh, hand crank",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41IR5AQxl9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FN48493X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FN48493X?tag=rvgearlab-amz-20",
     "description": "The BLAVOR bank has a 20,000mAh battery that the listing says can charge an iPhone 17 about 4.1 times, a hand crank, 15W wireless charging and a flashlight and camping lantern. A compass, thermometer and carabiner round out the survival gear.\n\nIt is smaller than the FEELLE while still giving a crank and four built-in cables. It can charge seven devices at once.\n\nIt fits bug-out bags where weight matters and a compass and thermometer are useful. The lantern doubles as camp light.",
     "specs": [
       "20,000mAh, hand crank",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41wyRJ9KNdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GS5N9NWC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GS5N9NWC?tag=rvgearlab-amz-20",
     "description": "The boogostore bank has a 27,000mAh Li-polymer battery, four outputs, three inputs and four LED lights. A hand crank and solar charging provide backup, and the listing notes dual inputs through Type-C and Micro.\n\nIt sits between the 20,000mAh BLAVOR and 50,000mAh FEELLE, giving a crank at a lower price than either. Four LEDs make it a useful lantern.\n\nIt suits vehicle kits and cabins that want a crank and lights. The dual inputs give a second way to refill.",
     "specs": [
       "27,000mAh, hand crank",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51NlvJTsrsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H9LPZ1NW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H9LPZ1NW?tag=rvgearlab-amz-20",
     "description": "The TecoHikee has a 49,800mAh battery, 22.5W fast charging, four built-in data cables and an IP65-rated enclosure that is shockproof and dustproof. A built-in LED flashlight provides light.\n\nIt has the IP65 rating that the FEELLE does not list, and the fastest wired charging in this group. It has no crank.\n\nIt fits hikers and flood-prone households who value a sealed case. The four built-in cables keep wet-weather cord handling to a minimum.",
     "specs": [
       "49,800mAh, 22.5W",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ZfczTf2-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GXYX5B3V?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GXYX5B3V?tag=rvgearlab-amz-20",
     "description": "The Durecopow has 20,000mAh capacity, four cables and three ports and can charge six devices. It lists CE, FCC and RoHS certification, a compass, two LED lights and a carabiner.\n\nIt is the least expensive pick here and adds a compass for the price. It recharges by solar or outlet.\n\nIt fits budget survival kits, kids' packs and car glove boxes. The carabiner clips it to a pack or a belt loop.",
     "specs": [
       "20,000mAh, 4 cables",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41YTEqBbTsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F42HLLSC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F42HLLSC?tag=rvgearlab-amz-20",
     "description": "The BLUETTI Elite 30 V2 is a 288Wh LFP station with 600W of continuous output and 1,500W surge in Power Lifting Mode. It weighs 9.4 lbs, recharges from the wall at up to 380W (0 to 80% in 45 minutes) and includes a 10ms UPS switchover.\n\nIts 600W output is twice what the other two offer, so it runs a coffee maker, small fan or CPAP in addition to phones. It is the only pick with UPS and fast wall charging.\n\nIt suits households and campers who want one station for both outages and trips. The UltraCell tech and smart cooling cut power consumption by 50% according to the listing.",
     "specs": [
       "288Wh LFP, 600W continuous",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/419J+SgMmpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GD91M81M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GD91M81M?tag=rvgearlab-amz-20",
     "description": "The Westinghouse iGen400s is a 400W, 183Wh station with nine outlets: two 120V AC, three 30W USB-C, two USB-A, a 100W USB-C and a 12V DC. It charges to 80% in about 2 hours from a 120V outlet using a 100W adaptor.\n\nIt offers more ports than the ZeroKor and a respected brand name at a mid price. It has a tri mode light and is designed for use indoors and out with no fumes or noise.\n\nIt suits households that want a quiet, fume-free backup for a laptop, a router and phones. The tri-mode light is a handy bonus in a dark house.",
     "specs": [
       "400W, 183Wh, 9 outlets",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/415CFljO3UL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DLGMFMV2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DLGMFMV2?tag=rvgearlab-amz-20",
     "description": "The ZeroKor 120W station has a 26,400mAh lithium-ion pack, two 120W max AC outlets, a DC port, USB, QC and USB-C ports and a built-in BMS. It recharges by solar panel, wall adapter or USB-C.\n\nIt is the lowest priced of the three and the lightest in output, which suits phones, a laptop and a small fan. A screen display shows remaining power.\n\nIt suits campers and first-time buyers who need a cheap AC outlet. The BMS covers short circuit and overload protection.",
     "specs": [
       "26,400mAh, two 120W AC outlets",

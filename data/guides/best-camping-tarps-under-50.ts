@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31pGUkQ1FrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DKNR9C5W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DKNR9C5W?tag=rvgearlab-amz-20",
     "description": "The GoldCamp Bushcraft is a 10 by 13.2 foot tarp in 70D ripstop nylon with a 15,000mm polyurethane coating and 19 reinforced webbing loops. It is rated UV 50+ and has an aluminized layer that reflects heat, and it ships with a carry bag.\n\nIt sits at the top of this budget, about $20 above the Patiobay 12 x 16 and the Cartman 14x20, and the money buys real shelter fabric. Its 15,000mm rating is six times the 2,500 rating on the FREE SOLDIER, and the loop count gives more pitch options than the grommet-only poly sheets.\n\nIt suits solo and two-person campers who want a tarp that works as a rain fly, a lean-to or an emergency shelter. It is the one pick here you could rely on through a night of steady rain.",
     "specs": [
       "70D ripstop nylon",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Ut5p-QJKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01HO15DGS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01HO15DGS?tag=rvgearlab-amz-20",
     "description": "The FREE SOLDIER is a 10 by 10.5 foot tarp in 210T ripstop polyester with a 2,500 PU coating and heat-sealed seams. Four guy lines with built-in tensioners and a small stuff sack come in the box.\n\nIt costs about $40, roughly $5 less than the GoldCamp, and it comes with guy lines that the GoldCamp and the poly tarps leave out. The coating is lighter than the GoldCamp, so it suits a rain fly or an awning more than a night in sustained downpour.\n\nIt suits hammock campers and weekend backpackers who want a light shelter with the cordage already included. The 118 by 126 inch size covers two people sitting.",
     "specs": [
       "210T ripstop polyester",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41fxEeryGVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GH6WXSL5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GH6WXSL5?tag=rvgearlab-amz-20",
     "description": "The CAODITU is a 9.8 by 9.8 foot awning in 210D ripstop polyester with a PU coating and taped seams. It arrives with two poles, stakes and guy lines, so the whole awning goes up without extra gear.\n\nIt costs about $30, close to the Patiobay 12 x 16 in price and far below the GoldCamp. Unlike the pole-free sheets it is a complete canopy kit, and it trades the larger area of the poly tarps for a proper pitched roof.\n\nIt suits car campers who want shade or rain cover at a picnic table without hunting for trees to tie to. The poles do the work of a tent frame.",
     "specs": [
       "210D ripstop, taped seams",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410owR1ufUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DX22WPZF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DX22WPZF?tag=rvgearlab-amz-20",
     "description": "The Patiobay is a 12 by 16 foot tarp in 8 mil virgin polyethylene with metal grommets every 23.6 inches and a stitched poly rope hem. It has no stakes or guy lines in the package.\n\nAt about $29 it is the thickest large sheet in this group, double the 5 mil Cartman 14x20 and MVPNET. It gives up the nylon strength and low weight of the GoldCamp in exchange for 192 square feet of cheap, tough coverage.\n\nIt suits campers who need a big cover for firewood, gear or a tent floor and do not carry it far. The closely spaced grommets make it easy to rig a low pitched roof.",
     "specs": [
       "12 x 16 ft, 8 mil poly",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/515YYJ52PoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B083NXHN6W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B083NXHN6W?tag=rvgearlab-amz-20",
     "description": "The Cartman 14x20 is a 5 mil poly tarp with heat-sealed hems, rope-reinforced edges and metal grommets every 36 inches. It spreads over about 280 square feet.\n\nIt costs about $20, the lowest in this group, and covers nearly 50 percent more ground than the Patiobay. The thinner 5 mil sheet is the tradeoff against the Patiobay 8 mil, and it works best as a cover rather than a roof.\n\nIt suits families covering a woodpile, a boat or a big outdoor kitchen on a tight budget. Fold it over a tent as a rain-and-sun cover on calm days.",
     "specs": [
       "14x20 ft, 5 mil poly",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51t976F1ADL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D2X7JR1Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D2X7JR1Y?tag=rvgearlab-amz-20",
     "description": "The MVPNET is a 20 by 30 foot tarp in 5 mil waterproof poly with aluminum edge buckles. It is sold for vehicles, camping mats, boats and firewood piles.\n\nIt costs about $41, more than twice the price per square foot of the Cartman 14x20, and it is the largest sheet in the group at 600 square feet. It is the only pick that can cover a pickup bed or a small trailer outright.\n\nIt suits group campers, hunters and anyone covering a vehicle or large stack of gear. It is far too big to serve as a personal shelter.",
     "specs": [
       "20 x 30 ft, 5 mil poly",

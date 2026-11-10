@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Q6JjGYa7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FSJM6NZC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FSJM6NZC?tag=rvgearlab-amz-20",
     "description": "The BLUETTI Elite 200 V2 kit pairs a 2,073.6Wh station with two 200W panels and 2,600W of continuous AC output. The listing gives a 10W standby draw, a 6,000 cycle LiFePO4 battery and a full recharge in 5.5 hours from 400W of panels.\n\nAgainst the Elite 100 V2, it holds about twice the watt-hours and brings a second panel. That extra capacity matters most for a fridge, since the compressor cycles on and off for many hours.\n\nThis one is for campers and RV owners keeping a fridge running through a cloudy day and recharge by panel. The low standby draw keeps idle losses small.",
     "specs": [
       "2,073.6Wh, 2,600W continuous",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Ts7U2lIHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FD3V9LF9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FD3V9LF9?tag=rvgearlab-amz-20",
     "description": "This BLUETTI Elite 100 V2 bundle gives you a 1,024Wh station, one 200W panel and 1,800W of rated AC output. Power Lifting mode stretches that to 2,700W, solar takes it from 0 to 80 percent in 4 hours, and up to 1,000W of panels can plug in later.\n\nCompared with the Elite 200 V2, it carries half the watt-hours at a much lower price. Its 1,800W output and 2,700W surge handle the start-up kick of a fridge compressor.\n\nIt suits a small fridge or cooler at a weekend camp where one overnight is the goal. Buyers can add panels later using the high solar input.",
     "specs": [
       "1,024Wh, 1,800W rated, 2,700W",

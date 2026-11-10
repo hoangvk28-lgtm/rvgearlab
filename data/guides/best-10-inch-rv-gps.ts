@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51l2HjYLe+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09ZK66DW3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09ZK66DW3?tag=rvgearlab-amz-20",
     "description": "The Garmin RV 1095 is a 10 inch RV navigator with custom routing by the size and weight of your RV or trailer. It includes a preloaded directory of RV parks and services, Tripadvisor traveler ratings and satellite imagery.\n\nIt is the only pick sold as an RV navigator, and the others are truck units. It also lists local place suggestions and updates for North America.\n\nIt suits owners who want RV parks and campgrounds built in. Custom routing is not available in all areas, so always follow posted signs.",
     "specs": [
       "10 inch RV navigator",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/413kX-zFnBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0884WMBW5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0884WMBW5?tag=rvgearlab-amz-20",
     "description": "The Garmin dezl OTR1000 is a 10 inch truck navigator with custom truck routing by size and weight. It alerts for bridge heights, weight limits and sharp curves and lists truck-friendly parking information.\n\nIt matches the renewed dezl on price and lists a truck and trailer services directory. Load-to-dock guidance is unique to the dezl pair.\n\nIt suits owners with a heavy rig who want truck routing and parking info. It is listed as a truck navigator, not an RV one.",
     "specs": [
       "10 inch truck navigator",
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41FE0ofCq-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09Q7Q738G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09Q7Q738G?tag=rvgearlab-amz-20",
     "description": "The Garmin dezl OTR1000 is the same 10 inch truck navigator with custom truck routing and bridge, weight and curve alerts. This listing is marked renewed in the title.\n\nIt is priced the same as the new listing. It includes the same truck-friendly parking information.\n\nIt suits owners who accept a renewed unit. Check the seller's return and warranty terms.",
     "specs": [
       "10 inch truck navigator",
@@ -108,7 +108,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31soihVfQtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B3KVWC61?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B3KVWC61?tag=rvgearlab-amz-20",
     "description": "The Rand McNally TND 1050 is a 10 inch truck navigator with Rand Navigation, a built-in camera and WiFi for map downloads. It lists a Gorilla Glass screen with a removable protective guard.\n\nIt is priced below the Garmin units and lists 33 percent more truck-specific road data than other GPS providers. It has a USB port for charging devices.\n\nIt suits owners who want a tough screen and a camera. It is a truck navigator, so enter your rig profile.",
     "specs": [
       "10 inch truck navigator",
@@ -135,7 +135,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31soihVfQtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FJZV9YGC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FJZV9YGC?tag=rvgearlab-amz-20",
     "description": "The Rand McNally TND 1050 renewed listing is a 10 inch truck navigator with Rand Navigation and a Gorilla Glass screen. It includes a removable guard and an integrated dash cam.\n\nIt is priced above the other Rand McNally listing and is marked renewed. It shares the same WiFi and USB port.\n\nIt suits owners who want the Rand McNally interface and accept renewed status. The integrated dash cam adds recording.",
     "specs": [
       "10 inch truck navigator",

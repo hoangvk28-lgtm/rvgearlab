@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41pwfEGEjmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H24VZS17?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H24VZS17?tag=rvgearlab-amz-20",
     "description": "The SolarTred lists 20,000mAh, four solar panels, 3 built-in cables (USB-C output, Lightning output and USB-A input) and 15W USB-C in and out. It charges 5 devices together, includes a dual flashlight and a camping light, and carries an IP67 rating.\n\nIt is the only pick here with IP67, which means submersion protection, and it also has four panels. It costs the most of the six.\n\nIt suits campers who want a rugged bank for wet trips with a camp light included. It lists more than four iPhone 17 charges.",
     "specs": [
       "20,000mAh, 4 solar panels, IP67",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51d6JSMWXML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D9QP71WV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D9QP71WV?tag=rvgearlab-amz-20",
     "description": "The BLAVOR lists 20,000mAh (74000mWh), 4 built-in cables (2 USB-C, 1 iOS and 1 USB-A), 3 ports and wireless charging, with 6 devices at once. It has 7 accessory functions including a flashlight, and a flame-retardant ABS and PC shell with waterproof silicone protection.\n\nIt offers wireless charging and four cables where the SolarTred offers IP67, and it costs a little less. It is a more feature-rich pack than the budget Luvknit models.\n\nIt suits campers who want to charge an Apple Watch and a phone from a pad. Multiple charging protections are listed.",
     "specs": [
       "20,000mAh, 74000mWh",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/513593eXdfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G48YY9HJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G48YY9HJ?tag=rvgearlab-amz-20",
     "description": "The fmooostore lists 20000mAh, QC 3.0 fast charging, eight outputs and four inputs, 3 built-in cables (iOS, USB-C and Micro USB) and a wireless charging area. It has dual LED flashlights with three modes and drop-resistant silicone corners with a port cover.\n\nIt has the most outputs of the six and costs less than the SolarTred and BLAVOR. It lacks the IP67 rating of the SolarTred.\n\nIt suits family trips with many devices. Charging 8 devices at once is listed.",
     "specs": [
       "20000mAh, 8 outputs, 4 inputs",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Z520K+T-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H2945RQY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H2945RQY?tag=rvgearlab-amz-20",
     "description": "The Uukto lists 20000mAh with 3 built-in cables, 3 outputs, a Type-C port that handles input and output, one large camping light and two multi-mode flashlights. It has a waterproof, shockproof and dust-proof design.\n\nIt has the most lighting of the six, and it costs less than the BLAVOR. It lacks wireless charging.\n\nIt suits campers who want a light and a bank in one. The 3 built-in cables cover most phones.",
     "specs": [
       "20000mAh, 3 built-in cables",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51xogZYdGML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GXHX1HV1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GXHX1HV1?tag=rvgearlab-amz-20",
     "description": "The Luvknit lists 20000mAh with built-in Lightning, Type-C and USB-A cables, dual USB-A ports, one Type-C port and Qi wireless charging. It has a 3-mode flashlight, a solar panel and fast Type-C input.\n\nIt matches the BLAVOR on wireless charging at a fraction of the price. It is the cheapest of the six along with its sibling.\n\nIt suits budget campers who want wireless charging and three cables. ABS construction is shockproof and dustproof.",
     "specs": [
       "20000mAh, 3 built-in cables",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51PYS+sTyoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GYNWDHZK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GYNWDHZK?tag=rvgearlab-amz-20",
     "description": "This Luvknit weighs 0.52 lb and measures 5.63 by 2.91 by 0.85 inches, with a 20000mAh battery, 15W USB-C fast charging, dual USB outputs and an IP65 rating. It has a 3-mode flashlight and TSA approval, and a 24-month warranty.\n\nIt is very light and slim for 20000mAh, and it names a 24-month warranty. It trades the extra cables and wireless pad of the other Luvknit.\n\nIt suits hikers and travelers who count ounces and fly. About two iPhone charges are listed.",
     "specs": [
       "20000mAh, 0.52 lb, IP65",

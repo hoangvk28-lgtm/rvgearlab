@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Ca3xGGI3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07F9659ZT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07F9659ZT?tag=rvgearlab-amz-20",
     "description": "This EternaBond 4 inch by 50 foot roll is sold as authentic repair tape that bonds to surfaces and stops leaks. Its listing names EPDM, TPO, most PVC, Hypalon, modified bitumen, metal roofs, tiles and shingles and says it flexes, expands and contracts in all conditions.\n\nIt has the longest surface list in this group, which gives it the strongest documentation. The 3 inch and 2 inch rolls cost less but give less overlap.\n\nIt fits owners who want the safest 4 inch width for fiberglass roof seams. With eternabond tape for fiberglass rv roof, general seam repair fits it best.",
     "specs": [
       "4 in x 50 ft white",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41yP9YJbqmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07BRMRMWX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07BRMRMWX?tag=rvgearlab-amz-20",
     "description": "The white 6 inch x 50 foot EternaBond RoofSeal roll carries MicroSealant at 35 mil total thickness under a UV-stable aluminum skin. The page describes a one-step system with no extra sealing and it works on metal buildings, trailer and RV roofs.\n\nIt offers the most overlap in this group. It costs the most.\n\nIt fits owners with wide fiberglass seams or large tears. In eternabond tape for fiberglass rv roof, wide seams is its lane.",
     "specs": [
       "6 in x 50 ft white",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51jKbg553VL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00COGK3O6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00COGK3O6?tag=rvgearlab-amz-20",
     "description": "The white 3 inch x 50 foot EternaBond RoofSeal roll has the same MicroSealant build as the 6 inch roll with a UV-stable backing. It sits between the 2 inch and 4 inch widths.\n\nIt costs less than the 4 inch authentic roll. It gives moderate overlap.\n\nIt fits owners with standard roof edge seams. Under eternabond tape for fiberglass rv roof, expect edge seams to suit it.",
     "specs": [
       "3 in x 50 ft white",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41+zi-7LuRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B075V98PQY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B075V98PQY?tag=rvgearlab-amz-20",
     "description": "The white 2 inch x 50 foot EternaBond RoofSeal roll carries MicroSealant at 35 mil total thickness with a UV-stable aluminum skin. It suits narrow seams and trim lines.\n\nIt is the cheapest 50 foot roll here. It gives little overlap.\n\nIt fits owners with narrow trim seams. In eternabond tape for fiberglass rv roof, trim seams is its lane.",
     "specs": [
       "2 in x 50 ft white",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41XzNTvjYCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B008HMYZKO?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B008HMYZKO?tag=rvgearlab-amz-20",
     "description": "The white 4 inch x 25 foot EternaBond RoofSeal roll has the same 35 mil MicroSealant layer. It is shorter, which suits one repair.\n\nIt costs the least overall in this group. It is the best fit for one patch.\n\nIt fits owners with one small job. For eternabond tape for fiberglass rv roof, it suits one patch.",
     "specs": [
       "4 in x 25 ft white",

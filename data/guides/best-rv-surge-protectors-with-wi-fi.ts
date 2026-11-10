@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31OJukA1iCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DC17VXTL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DC17VXTL?tag=rvgearlab-amz-20",
     "description": "The Power Watchdog PWD50EPOW is a 50 amp smart surge protector with Wi-Fi monitoring, wireless fault alerts and an IP65 water-resistant heavy-duty build. Its surge module is replaceable, so a spike does not mean replacing the whole unit, and it works with dogbone adapters.\n\nIt serves the larger 50 amp rigs that the 30 amp unit cannot, and it lists Wi-Fi only where the other adds Bluetooth. Both share the same smart feature set.\n\nIt suits owners of larger fifth wheels and motorhomes who want to check voltage on a phone from inside the rig. The swappable module lowers the long-term cost.",
     "specs": [
       "50A smart, Wi-Fi monitoring",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/319aC-3RXcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DC15X5GK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DC15X5GK?tag=rvgearlab-amz-20",
     "description": "The Power Watchdog PWD30EPOW is a 30 amp smart surge protector with Wi-Fi and Bluetooth monitoring, wireless fault alerts and IP65 weather resistance. It has a replaceable surge module and works with dogbone adapters.\n\nIt adds Bluetooth next to Wi-Fi, which the 50 amp listing does not mention, and costs less. Both units share the same alerts and module design.\n\nIt suits travel trailer and smaller motorhome owners on 30 amp pedestals. Bluetooth keeps the app working at close range without a network.",
     "specs": [
       "30A, Wi-Fi and Bluetooth, IP65",

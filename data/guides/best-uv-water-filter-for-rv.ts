@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31l03GYQ65L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CLR34M8X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CLR34M8X?tag=rvgearlab-amz-20",
     "description": "VerterPure's VP6 is a UV-C LED unit that runs on 12V DC with a maximum flow of 6.0 L/min (1.58 gpm). It starts instantly with no warm-up, turns on and off with a flow switch and is rated for 3,000 hours.\n\nIt nearly triples the flow of VerterPure VP2, but costs about 70 percent more. It also uses 12V DC, which iSpring UVF11A's 11W lamp listing does not clearly match, so it fits an off-grid RV battery system better.\n\nBest for off-grid RVs that need a point-of-use UV step at a sink or tap. The listing says it works alongside RO and other filters, so pair it with a sediment stage.",
     "specs": [
       "12V DC UV-C LED",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31XE6TzaJxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CLR3PX1H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CLR3PX1H?tag=rvgearlab-amz-20",
     "description": "VP2 uses the same 12V DC UV-C LED design but at 2.0 L/min (0.52 gpm), where the listing says it can reduce 4 LOG (99.99%) of harmful contaminants. It has the same instant on, flow switch and 3,000 hour life.\n\nIt costs about 40 percent less than VerterPure VP6 and is the better fit for a single faucet because it flows less. It cannot keep up with shower flow.\n\nBest for a single drinking faucet on battery power. The 0.52 gpm rating is a hard ceiling.",
     "specs": [
       "12V DC, 0.52 gpm",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31VpLvCfUvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BZWM9832?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BZWM9832?tag=rvgearlab-amz-20",
     "description": "iSpring's UVF8 is a UV-C LED unit with a built-in flow sensor, a 1/4 inch quick fitting and a limited lifetime warranty. It is designed as an add-on to under-sink and RO systems.\n\nIt is cheaper than the VerterPure VP6 and carries a warranty that VerterPure listings do not mention. The listing in the listing bullets does not give gpm or power details, so check before relying on it for a 12V rig.\n\nBest for buyers who like a warranty and a flow sensor. Confirm voltage and flow before buying.",
     "specs": [
       "UV-C LED with flow sensor",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31urnn8Sq6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00FKC3ZT6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00FKC3ZT6?tag=rvgearlab-amz-20",
     "description": "iSpring's UVF11A uses an 11W UV lamp in a stainless steel chamber with 1/4 inch quick fittings and a smart flow sensor. The lamp is rated for 8,000 hours at 1.0 gpm.\n\nIts 8,000 hour lamp rating is far above the 3,000 hours of VerterPure VP6, but it is a conventional lamp, not LED. The listing says it suits well, lake and stream water, but power supply details are not listed in the listing bullets.\n\nBest for under-sink RV galley setups on shore power. Confirm the electrical requirement.",
     "specs": [
       "11W lamp, 8,000 hours",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31z8AsUEZZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FBQTM1Q6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FBQTM1Q6?tag=rvgearlab-amz-20",
     "description": "JOREVS uses UVC-LED between 270 and 280 nm, activated by an on-demand flow sensor that the listing says saves up to 90 percent of power. It supports 1 gpm and fits under-sink and point-of-use setups.\n\nIt is cheaper than iSpring UVF8 and UVF11A, and matches the 1 gpm of UVF11A. It lacks a stated lamp life or warranty in the listing bullets.\n\nBest for a budget UV add-on to an existing RO or filter setup. Check electrical details before buying.",
     "specs": [
       "270 to 280 nm UVC-LED",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31yjNajzAmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DSVXP1MT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DSVXP1MT?tag=rvgearlab-amz-20",
     "description": "LCF is a drinking faucet with UV LED built in. The listing says it reduces up to 99.9% of bacteria at flows below 2 L/min, uses lead-free 304 stainless steel with a ceramic valve and fits sink holes from 0.8 to 1.57 inches.\n\nUnlike the in-line VerterPure and iSpring units, it replaces your faucet instead of adding a unit under the sink. The listing warns that unfiltered water may cause scale on the UV element, so it needs filtered water.\n\nBest for a sink swap with a dedicated drinking tap. It is not a whole-RV solution.",
     "specs": [
       "UV LED drinking faucet",

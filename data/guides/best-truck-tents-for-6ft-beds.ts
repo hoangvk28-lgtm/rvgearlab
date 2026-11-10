@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41eRIMKa2HL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DMSKTKPG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DMSKTKPG?tag=rvgearlab-amz-20",
     "description": "The JOYTUTUS 6.0ft is listed for 6.0 to 6.3 ft beds with a 92.5 x 56.7 x 66.9 inch interior for two people. It uses 210D polyester Oxford with a PU2000 coating, a rainfly, four fiberglass poles and three windows.\n\nIt is the only one here whose range starts at 6.0 ft, so it fits boxes that sit slightly longer than the 5.5 to 6 ft group. It costs more than the three 5.5 to 6 ft tents.\n\nIt suits owners whose bed measures just over six feet and want a listing that names that length. The interior has two mesh bags for loose gear.",
     "specs": [
       "Fits 6.0-6.3 ft beds",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51x9ioA9H3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DXL477KQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DXL477KQ?tag=rvgearlab-amz-20",
     "description": "The Umbrauto 5.5-6ft has a 66.5 inch length for full-size short beds from 5.5 to 6 ft and lists Dodge Ram, Ford F150, GMC Sierra and Chevy Silverado. It is made of 210T polyester with a PU3000 coating and adds a roof vent, two large side windows and color-coded poles.\n\nIt costs less than the JOYTUTUS 6.0ft and carries a higher listed waterproof number. Against the Nyiar and WildFinder it trades the awning or tunnel for a roof vent and a long-running size family.\n\nIt suits six-foot-bed owners who want PU3000 and ventilation at a middle price. Three color choices are listed.",
     "specs": [
       "66.5 inch length, 5.5-6 ft",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/415eMaXIpxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GXBVBDF7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GXBVBDF7?tag=rvgearlab-amz-20",
     "description": "The Nyiar 5.5-6ft uses 210D Oxford with a PU3000 coating and a detachable awning that attaches at the door. The dual-layer windows and doors combine an insect screen with a solid waterproof panel, with a stated two-person pitch time of 10 to 15 minutes.\n\nCompared with the Umbrauto, it adds the awning and the roll-up window panels. It costs less than the Umbrauto and sits just above the WildFinder.\n\nIt suits six-foot-bed campers who want shade and flexible windows. The awning can be detached for a more open entrance.",
     "specs": [
       "Detachable awning",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51ExlvzbC8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H1C3SVNP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H1C3SVNP?tag=rvgearlab-amz-20",
     "description": "The WildFinder 5.5-6.0 has an 88.6 x 74.8 x 63 inch interior and fits 5.5 to 6 ft beds. A tunnel opening connects the tent to the truck for cables and cooling air, and the 210D Oxford carries a PU3000mm coating.\n\nIt has the lowest price of the four and the widest interior footprint, with the same PU3000 number as the Umbrauto and Nyiar. It is the only pick whose listing names a tunnel for truck power.\n\nIt suits six-foot-bed owners who want a fan or cable run from the truck at a low cost. Three ventilated windows and color-coded poles keep setup simple.",
     "specs": [
       "88.6 x 74.8 x 63 inch interior",

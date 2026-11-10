@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51yhplbWP1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07DD69QN3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07DD69QN3?tag=rvgearlab-amz-20",
     "description": "The Gerber Suspension NXT is a 15-in-1 stainless steel multi-tool with needle nose pliers, a wire stripper, three flathead drivers and two cross drivers. It measures 4.25 inches closed and 6.5 inches open and weighs 6.4 oz.\n\nIt carries fewer tools than the 21-in-1 kits, and it comes from a known multi-tool maker with a pocket clip and a lanyard point. Against the PERWIN, it gives you brand backing and a lighter 6.4 oz weight.\n\nIt suits campers who want a trusted brand for general camp repairs. The pocket clip makes it easy to keep on hand.",
     "specs": [
       "15-in-1, 6.4 oz",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/513CPsaBwUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09YLPWXTX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09YLPWXTX?tag=rvgearlab-amz-20",
     "description": "The PERWIN 17-in-1 uses 440A stainless steel and a side-lock design that locks every tool except the pliers heads when fully open. It measures 4.3 x 1.57 x 0.78 inches, weighs 0.66 lbs and comes with a nylon sheath.\n\nIt states the blade steel, which the fangfo and WETOLS listings do not, and it locks each tool. It weighs more than the Gerber, at 0.66 lbs.\n\nThis one is for campers who want locking tools and a stated steel at a modest price. The nylon sheath carries it on a belt.",
     "specs": [
       "17-in-1, 440A stainless steel",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51WabZHMhBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B084VJFX9M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B084VJFX9M?tag=rvgearlab-amz-20",
     "description": "The Mossy Oak 21-in-1 is stainless steel with needle nose and regular pliers, wire cutters, a magnetic hexagon sleeve, a screwdriver and a knife. A self-locking design covers the tools in the handles, and a nylon pouch includes an elastic pocket for extra bits.\n\nIt has more tools than the PERWIN and Gerber and comes with a pouch built for bits. It does not state the steel grade.\n\nIt is for campers who want a big tool list and a place to carry spare bits. The self-locking design makes it safer to use.",
     "specs": [
       "21-in-1 stainless steel",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41JIU7Jte+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B082VBWGTZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B082VBWGTZ?tag=rvgearlab-amz-20",
     "description": "The WETOLS 21-in-1 has spring-loaded needle nose pliers, regular pliers, wire cutters, a sharp blade, a hexagon sleeve and a metal and wood file. It measures 4.13 inches closed and 5.91 inches overall and uses hardened stainless steel.\n\nIt is the only pick with spring-loaded pliers, which open on their own after each squeeze. It is smaller than the Gerber when closed.\n\nIt is best for campers who do lots of small repairs and want the spring assist. It handles DIY, gardening and fishing.",
     "specs": [
       "21-in-1, spring-loaded pliers",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Pn9ZyxrGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FLVHPKPW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FLVHPKPW?tag=rvgearlab-amz-20",
     "description": "The fangfo 17-in-1 is a stainless steel multi-tool with needle nose pliers, a pocket knife, a bottle opener and a screwdriver. Each tool locks with a self-locking design, and the listing calls it a camping partner.\n\nIt costs less than every other pick here and carries 17 functions. It has fewer details than the PERWIN, with no steel grade listed.\n\nIt suits campers who want a cheap spare tool. The self-locking tools keep fingers safer.",
     "specs": [
       "17-in-1 stainless steel",

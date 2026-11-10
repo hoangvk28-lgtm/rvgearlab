@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31DSEa4iX-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09HN1DFZH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09HN1DFZH?tag=rvgearlab-amz-20",
     "description": "The Coleman Chiller 30 quart uses TempLock foam insulation that holds cold for up to 48 hours. It fits 25 cans with 15 pounds of ice, or up to 42 cans without ice, and the lid supports up to 200 pounds.\n\nIt states the clearest ice claim and the most detail on capacity of any pick here. The lid works as a seat.\n\nChoose it for weekend camping and tailgates. It is the dependable middle size.",
     "specs": [
       "TempLock, up to 48 hours",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21syAtsydkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GSZ7MYJQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GSZ7MYJQ?tag=rvgearlab-amz-20",
     "description": "This 48 quart hard cooler has double-layer foam insulation with an elevated base that reduces heat transfer from hot pavement or sand. It holds up to 76 cans, with swing-up handles that fold flat.\n\nIt has the most capacity here and the lowest price per quart. It is a generic brand with fewer claims.\n\nChoose it for beach days and family outings where size matters more than brand. The elevated base helps on hot sand.",
     "specs": [
       "48 quart, holds 76 cans",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31nyRFPv5lL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BRL9S8L9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BRL9S8L9?tag=rvgearlab-amz-20",
     "description": "Igloo's Marine Ultra 25 quart has Cool Riser technology that elevates the body to improve cooling, plus THERMECOOL foam and swing-up handles with a tie-down loop. It is a small hard cooler.\n\nIt costs less than the Coleman Chiller 30, and the tie-down loop suits boats. It is smaller than the Coleman, which makes it easier to stow.\n\nChoose it for a couple, a boat or a car trunk. It handles short trips well.",
     "specs": [
       "25 quart hard cooler",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41oELwiKP+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G1LDW7V9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G1LDW7V9?tag=rvgearlab-amz-20",
     "description": "MIYCOO is a 60 can leakproof cooler bag with an expandable double deck, growing from 14.6 x 11 x 8.5 inches to 11.8 inches high. It carries three ways: side handles, a removable shoulder strap, or two people together.\n\nIts upper and lower layers separate foods, and it collapses when empty. It is the only soft cooler here.\n\nChoose it for picnics, kayaking and road trips. It folds away in the trunk.",
     "specs": [
       "60 cans, expandable double deck",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ZyvB-T5nL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B4X1HL3Z?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B4X1HL3Z?tag=rvgearlab-amz-20",
     "description": "The Igloo Retro Playmate Mini is a 4 quart cooler with THERMECOOL foam insulation. Its tent-top design carries easily, and the lid swivels open to either side.\n\nIt is the smallest pick and one of the cheapest. It fits lunch and drinks for one.\n\nChoose it for a single lunch or a kid's cooler. The tent-top lid is simple to use.",
     "specs": [
       "4 quart tent-top cooler",

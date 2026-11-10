@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Uv+H4Z2dL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BRPZR3CZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BRPZR3CZ?tag=rvgearlab-amz-20",
     "description": "The ONLYNEW packs a 20,000mAh battery behind four wind speeds, a 270 degree adjustable outlet and a three-level LED lantern. A full charge takes 3 to 5 hours over Type-C.\n\nIt carries far more battery than the OpenBay or the 5,000mAh units, so it runs through a full night inside a parked vehicle. Against the DUKUSEEK it offers a bigger pack and quicker Type-C charging.\n\nIt suits campers sleeping in an SUV who want fan and lantern in one pack. The backpack-sized body slides into a door pocket.",
     "specs": [
       "20,000mAh battery",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41JI6cPwc9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07TCLB39D?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07TCLB39D?tag=rvgearlab-amz-20",
     "description": "The AMACOOL combines a fan, camping light and aroma diffuser in a 2.4 by 5.3 by 7.1 inch body that weighs 11.3 oz. A built-in 5000mAh pack lists 5.5 to 35 hours of airflow, with 12 LEDs and 360 degree manual rotation.\n\nIt is smaller than the ONLYNEW and carries a quarter of the battery, and it hangs inside a car or tent or mounts on a wall. Compared with the OpenBay, it works as a lantern when the sun goes down.\n\nIt suits hatchback campers who need small hang-anywhere gear. Operation by USB cable keeps it running from a power bank.",
     "specs": [
       "5000mAh, 5.5 to 35 hours",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41RDBPJN6zL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GVX56H2Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GVX56H2Y?tag=rvgearlab-amz-20",
     "description": "The OpenBay is a clip-on fan with a 6000 RPM motor, seven blades and a 3000mAh battery that lists 3 to 8 hours. It has 100 speeds, an LED display, USB-C charging and a 360 degree rotation head.\n\nIts clamp grips a headrest, seat rail or dash edge, a mount the lantern fans do not offer. Next to the Socool car clip, it offers a larger speed range and a display, with a clamp in place of tripod legs.\n\nIt suits campers who want airflow aimed at a sleeping bag or a front seat. The 6.1 by 3.2 by 7.5 inch body weighs 1.25 lbs.",
     "specs": [
       "Clamp mount, 100 speeds",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41OmrYjnkML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H2HFNC2Z?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H2HFNC2Z?tag=rvgearlab-amz-20",
     "description": "The Socool car fan uses a 5000mAh battery for up to 24 hours on low, with three speeds, 360 degree rotation and flexible tripod legs. A protective grille with 5.6mm gaps blocks small fingers.\n\nIt carries five-thousand-mAh capacity like the AMACOOL, with the tripod legs adding a way to wrap onto a seat or stroller. Against the OpenBay, it offers a longer runtime and safer grille at the cost of speed steps.\n\nIt is for families sleeping in a van or SUV who need a safe, bendable fan near the back seat. Its mount works on cribs, strollers and headrest rods.",
     "specs": [
       "5000mAh, up to 24 hours",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41GJK-GMfoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09WXZYT87?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09WXZYT87?tag=rvgearlab-amz-20",
     "description": "The DUKUSEEK 3-in-1 unit combines a hanging fan, a lantern and an emergency power bank around a 7500mAh battery. It has a brushless motor, remote control and timer shutdown.\n\nWith a 7500mAh pack it sits above the 5000mAh fans and below the ONLYNEW. Versus the Odoland, it adds a remote and a rechargeable pack, so there are no disposable cells to buy.\n\nIt suits car campers who also pitch a tent next to the vehicle. The listing names CE and FCC certification.",
     "specs": [
       "7500mAh, 3-in-1 design",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/415YWnvsftL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B016HM7QRE?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B016HM7QRE?tag=rvgearlab-amz-20",
     "description": "The Odoland is a collapsible lantern with a two-speed ceiling fan, 18 LED bulbs and 360 degree illumination. It runs on two D-cell batteries (not included) and reaches 10 ft/s air speed.\n\nIt costs less than any other pick and needs no charging at all, which pays off in a car with no spare outlet. Compared with the DUKUSEEK, it trades the rechargeable pack and remote for simple battery swaps.\n\nIt suits emergency kits and glovebox storage. The collapsible body folds flat and fits any backpack.",
     "specs": [
       "Two D-cell batteries",

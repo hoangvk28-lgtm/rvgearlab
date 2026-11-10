@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31E3wNpv+NL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CSTDNC2F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CSTDNC2F?tag=rvgearlab-amz-20",
     "description": "The NOCO BG31 is a $20.38 snap-top box for Group 24 to 31 batteries, including lithium-ion. It uses a honeycomb lattice for rigidity, lists impact resistance down to -20°F, and meets USCG 183.420 and ABYC E-10.7. A divider, 48 inch strap and mounting tray are included.\n\nIt is $4.61 cheaper than the Camco Group 24 and $30.11 cheaper than the Attwood PowerGuard. It adds adjustable sizing but fewer weather features. Pick this for the broadest fit at the lowest price. Caveat: ventilation holes are optional, so confirm your lithium maker's guidance.",
     "specs": [
       "Group 24 to 31 fit",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41YwkqShtWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09XTR7M3G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09XTR7M3G?tag=rvgearlab-amz-20",
     "description": "The Attwood PowerGuard Pro is a $50.49 box with removable spacer blocks for Group 24, 27 and 31 batteries. Interior is 13.1 x 7 x 11 inches, with upward-facing vents and folding panels that reach terminals without removing the strap.\n\nIt costs $25.50 more than the Camco Group 24 and $30.11 more than the NOCO BG31. You pay for splash-resistant vents (up to 94% less water intake per the listing) and quick terminal access. Pick this for a bumper or bay that gets wet. Caveat: the listing says it holds batteries only up to 9.3 inches tall.",
     "specs": [
       "13.1 x 7 x 11 in",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Im3zuIntL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0000AY9DQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0000AY9DQ?tag=rvgearlab-amz-20",
     "description": "The Attwood 9084-1 is a $24.19 vented box for Group 29 and 31 batteries. Inside it measures 15-7/16 x 6-15/16 x 9-3/4 inches. A 40 inch strap rated for 350 lbs of force comes with it.\n\nIt is $0.80 below the Camco Group 24 and $3.81 above the NOCO BG31. It is the roomiest here for long batteries like 100Ah Group 31. Pick this when your battery is Group 31. Caveat: it is not adjustable for smaller Group 24 batteries.",
     "specs": [
       "Group 29 and 31 fit",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ufSOUQISL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00EOX2QJC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00EOX2QJC?tag=rvgearlab-amz-20",
     "description": "The Camco Group 24 box costs $24.99 and has inside dimensions of 7-1/4 wide, 10-3/4 long and 8 inches tall, with 2 inches of headroom for terminals. It ships with a lift-off lid, woven strap, foot clamps and stainless screws.\n\nIt costs $4.61 more than the NOCO BG31 and $0.80 more than the Attwood 9084-1. It only fits Group 24, so it is tighter but simpler. Pick this for a 12V 100Ah Group 24 drop-in. Caveat: you must measure your battery first, as a Group 27 will not fit.",
     "specs": [
       "Group 24 only",

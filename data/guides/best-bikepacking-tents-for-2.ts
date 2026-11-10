@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/210i2c3xZUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CL7XWH6L?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CL7XWH6L?tag=rvgearlab-amz-20",
     "description": "The MSR Hubba Hubba Bikepack is built from the Hubba Hubba backpacking line with bike-specific changes. DAC poles fold extra short for handlebars or a frame bag, and a waterproof handlebar storage bag with removable spacers clears brake and shift cables.\n\nCompared with the Big Agnes Copper Spur, it includes the handlebar bag and a DuraShield polyurethane-coated rainfly and floor with taped seams. Against the ATEPA, it is a proven design from a well-known tent maker.\n\nIt suits two riders who want a tent made for two wheels and are ready to pay for it. Internal and external clotheslines help dry wet gear.",
     "specs": [
       "Short-folding DAC poles",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41m8ulTbb6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08MX1FFZ5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08MX1FFZ5?tag=rvgearlab-amz-20",
     "description": "The Big Agnes Copper Spur HV UL Bikepack is a two-door, two-vestibule tent with a 4-way high-volume hub that adds 25% strength and 20% usable volume over earlier versions. It has a burly compression stuff sack with daisy-chain webbing for several bike-frame attachment layouts.\n\nCompared with the MSR Hubba Hubba Bikepack, it skips the handlebar bag and adds helmet storage webbing and an oversized ceiling pocket. Against the Montiro, it is a far more refined, warrantied tent.\n\nIt suits two riders who want the roomiest premium shelter and plan to attach it with straps. All Big Agnes products carry a defect guarantee.",
     "specs": [
       "Two doors, two vestibules",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41GNuE4d4lL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G2RWVYS8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G2RWVYS8?tag=rvgearlab-amz-20",
     "description": "The ATEPA Voyage is a freestanding two-person tent in 20D silicone-coated nylon with 4000mm waterproofing and fully taped seams. It has 7001 aluminum poles, an expandable vestibule that uses trekking poles and removable side storage panels.\n\nCompared with the Montiro, it lists a stated waterproof number and a bigger vestibule system. Against the premium picks, it costs far less and keeps the key silnylon and aluminum build.\n\nIt suits riders who want a lightweight tent at a mid price. B3 mesh, dual roof vents and a mesh ceiling window help condensation.",
     "specs": [
       "20D silnylon, 4000mm waterproof",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41qcXixdQIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F2TG3W7X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F2TG3W7X?tag=rvgearlab-amz-20",
     "description": "The Montiro Wander Hawk is a 1 to 2 person tent in 20D ripstop nylon with silicone coating and 7001 aluminum poles. It lists a trail weight of 3 lb 14 oz and comes with a handlebar bag, with two side vents and one top vent.\n\nCompared with the ATEPA Voyage, it includes a handlebar bag and is cheaper. Against the MSR Hubba Hubba Bikepack, it lists a similar weight at a fraction of the cost.\n\nIt suits budget riders who want a bikepacking-ready tent for one or two. The adjustable vents cut condensation.",
     "specs": [
       "3 lb 14 oz trail weight",

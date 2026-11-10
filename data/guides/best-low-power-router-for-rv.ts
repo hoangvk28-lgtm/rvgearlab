@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/313C8X7BT2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GM8NTCS5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GM8NTCS5?tag=rvgearlab-amz-20",
     "description": "The AirLink RX400 is a 5G RedCap industrial cellular router with LTE Cat-4 fallback and dual SIM. It idles at 756 mW, which suits solar and battery installations, and carries an IP64 rating in a compact rugged body.\n\nAgainst the EX400, it posts the lower idle figure and a stronger rugged rating. It suits RV owners who mount the router outdoors or in a compartment and want the lowest draw.",
     "specs": [
       "756 mW idle power",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21CLsHNVo3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GM971XQQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GM971XQQ?tag=rvgearlab-amz-20",
     "description": "The AirLink EX400 is a semi-rugged 5G RedCap IoT router with LTE Cat-4, dual Ethernet and USB-C. Idle power is as low as 840 mW, and it uses a 2x2 RedCap radio with dual-band GNSS.\n\nCompared with the RX400, it adds a second gigabit Ethernet port and USB-C for more wired devices. It suits RV owners who connect a camera or access point by cable.",
     "specs": [
       "840 mW idle power",

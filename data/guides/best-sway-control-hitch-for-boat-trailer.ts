@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31PqLRXdIOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0071L5VXW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0071L5VXW?tag=rvgearlab-amz-20",
     "description": "The Fastway e2 is the only complete weight distribution and sway control system on this list, so it is the one to start with if you are replacing a whole hitch rather than patching an existing one. The title lists an 8,000 lb trailer weight rating and an 800 lb tongue weight rating, and sway control is built into the hitch instead of added on.\n\nCompared with the Fastway Connect below it, the e2 adds integrated sway control to the weight distribution, while the Connect relies on chains alone. Compared with the bolt-on kits further down, it costs far more but you do not have to hunt for matching frame brackets.\n\nIt suits a boat owner towing a mid-size boat who wants one hitch that stays attached while backing down a ramp. The listing does not address surge brakes or boat trailer frames, so confirm bracket fit with the maker before buying.",
     "specs": [
       "8,000 lb trailer rating",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31URi7WhldL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B61YZP43?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B61YZP43?tag=rvgearlab-amz-20",
     "description": "The Fastway Connect is a chain-style weight distribution hitch that attaches to the trailer frame with hardened steel chains. It is rated for a 1,000 lb tongue weight and 10,000 lb trailer weight, and the listing says it fits RV, cargo, utility, horse, and ATV trailers without drilling the frame.\n\nIt sits below the Fastway e2 Hitch because the listing sells it as weight distribution and stability, not as a sway control system. In return it is the simpler and less expensive way to level a tow vehicle with a heavy tongue.\n\nChoose it if your boat trailer carries a heavy tongue and the main complaint is a squatting tow vehicle. If sway is the actual problem, plan to pair it with a separate sway control kit.",
     "specs": [
       "1,000 lb max tongue weight",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/319kvuDdjML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B004TR8ZX4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B004TR8ZX4?tag=rvgearlab-amz-20",
     "description": "This is a complete sway bracket kit made for a 6,000 to 14,000 lb rated Equal-i-zer style hitch. The listing says it fits 3, 4, 5, and 6 inch trailer frames, which covers most boat trailer tongues.\n\nIt costs a fraction of the Fastway e2 Hitch but only works if you already own a matching hitch. Compared with the generic adapters below, it is a full kit rather than a single part.\n\nBuy it if you already tow with a compatible Equal-i-zer hitch and need the brackets. It does nothing on its own, and the listing gives no note about surge brake frames, so measure your frame first.",
     "specs": [
       "Fits 3 to 6 inch frames",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41uoUsUWdUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FKLW126M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FKLW126M?tag=rvgearlab-amz-20",
     "description": "The Frtcaty adapter is a steel mount that slides under the hitch ball so a friction sway bar can attach to a 2 inch square ball mount. The listing names Class III and Class IV use and works with most friction sway control systems and mounting pads.\n\nIt is the more flexible of the two low cost adapters because it sits on the tow vehicle side, so it does not depend on your trailer frame shape the way the Eontab 48385 Adapter does. It is not a sway control device by itself.\n\nPick it if you already have a friction bar and need a ball side mount. The listing says to confirm fitment, and gives a 1.02 inch main hole, so compare that with your ball shank first.",
     "specs": [
       "Fits 2 inch square ball mounts",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/313Gb9EWsOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HBW6SBCX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HBW6SBCX?tag=rvgearlab-amz-20",
     "description": "The Eontab 48385 clips onto the trailer A-frame to connect an anti-sway bar, without welding. The listing says it is for 2 inch by 3 inch A-frame trailers and names marine trailers among the types it suits.\n\nIt handles the trailer side of the connection, which the Frtcaty Sway Adapter leaves alone. The listing also warns it is not compatible with trailers that have hydraulic brakes, which matters because many boat trailers use them.\n\nIt is a sensible pick for a small boat trailer with a plain 2 by 3 inch frame. Check your brake type and measure the frame before ordering.",
     "specs": [
       "For 2 by 3 inch A-frames",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31JQ+n36DXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0007M1UO6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0007M1UO6?tag=rvgearlab-amz-20",
     "description": "The CURT 40093 is a 1-1/4 inch replacement ball for the CURT sway control unit 17200, with a 5/8 x 1-3/4 inch shank. It is chrome plated and comes with a zinc plated hex nut and lock washer.\n\nIt ranks last because it is a spare part, not a hitch. The sway control unit itself is sold separately, so it only helps someone who already owns that unit.\n\nKeep one as a spare if a CURT friction bar is already on your boat trailer rig. Everyone else should look higher in this list.",
     "specs": [
       "1-1/4 inch ball diameter",

@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/312vkwI78fL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08B4G52RQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08B4G52RQ?tag=rvgearlab-amz-20",
     "description": "Titebond WeatherMaster Metal Roof Sealant is a 9.5 ounce silver elastomeric polymer sealant. The listing says it adheres to aluminum, copper, galvanized steel, Kynar coated metals and most building materials, with permanent flexibility and plus or minus 50 percent joint movement.\n\nAgainst RVSHARK 2 Pack, it is named for metal roofs, not generic lap seals. Against Lippert Alphathane, it states joint movement and works on damp surfaces per the listing.\n\nIt is the best match for metal panel seams and flashings on an aluminum or steel roof. Think of it as the pick for metal panel seams.",
     "specs": [
       "9.5 oz silver tube",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31oroOMHpaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0858JZRSX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0858JZRSX?tag=rvgearlab-amz-20",
     "description": "Lippert ALPHATHANE 5121 is a self-leveling sealant for flat, horizontal RV roof surfaces. The listing says it gives high-strength adhesion to wood, metal, glass and most RV roof materials and comes in beige, gray, almond and white.\n\nAgainst RVSHARK 2 Pack, it comes from an RV parts maker and offers four colors. Against Titebond Silver, it is for flat roof laps rather than flashings.\n\nIt suits metal RV roofs where a color match to the trim matters. Buyers focused on color-matched flat laps will find it a sensible match.",
     "specs": [
       "Self-leveling, horizontal use",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51AX0M+k5oL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G645B732?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G645B732?tag=rvgearlab-amz-20",
     "description": "RVSHARK 2 Pack is a white self-leveling lap sealant that levels within 30 seconds and stays flexible from -40 to 200 degrees F. It comes with replaceable nozzles and gloves and has a low odor formula.\n\nAgainst Lippert Alphathane, it adds nozzles and gloves in the box. Against Titebond Silver, it is white and for horizontal laps.\n\nIt suits owners with a few flat laps to seal on a white metal roof. It earns its slot for flat laps on white roofs.",
     "specs": [
       "2 tubes, self-leveling",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51wfKTqT2xL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D94FYY98?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D94FYY98?tag=rvgearlab-amz-20",
     "description": "Wadities is a white solar reflective coating with a stated 1000 percent flexibility. One gallon covers an RV up to 30 feet at 50 square feet per gallon over 2 to 3 heavy coats.\n\nAgainst the tube sealants, it covers whole panels and not just joints. Against Titebond Silver, it is white and rolled on rather than extruded.\n\nIt suits owners who want to coat the whole roof after sealing the seams. It is a natural fit for whole-roof coating.",
     "specs": [
       "1000% flexible membrane",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41DNuJKNcxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B001FCB11O?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B001FCB11O?tag=rvgearlab-amz-20",
     "description": "Dicor Roof Guard is a 1 gallon white roof protectant spray that helps protect RV roofs from sun, water and grime. The listing says it helps avoid oxidation and leaves no residue or oily build-up.\n\nAgainst the sealants, it is a maintenance product, not a seam sealer. Against Wadities Gallon, it is a spray that works with Dicor cleaning products.\n\nIt suits owners who keep a sealed roof clean and protected. Think of it as the pick for roof upkeep.",
     "specs": [
       "Roof protectant spray",

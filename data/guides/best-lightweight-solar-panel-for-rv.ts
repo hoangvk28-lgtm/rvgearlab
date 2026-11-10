@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/414ARZAI9kL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DYD8VT9C?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DYD8VT9C?tag=rvgearlab-amz-20",
     "description": "The Renogy 200W N-Type panel uses 16BB cells at 25% efficiency and is described as 7.5% smaller and 11.7% lighter than the previous model. It is a 24V panel compatible with 12V and 24V systems, with a 10 year output and workmanship commitment and a low temperature coefficient that helps on hot roofs.\n\nAt $152.99 one panel works out to about $0.76 per watt, against $0.80 per watt for the Callsun pair at $319.99 for 400W. The Renogy is lighter in relative terms, but the listing gives no weight number, so liftability for one person remains the open question until you check the product page.\n\nPick this if you want a roof panel you can handle alone and a long written warranty. The caveat is that the weight and Voc are not given here and no controller is included, so check both and the controller input limit before you buy.",
     "specs": [
       "200W N-type, 25% efficiency",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51jCPISHFGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DC6T55ZK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DC6T55ZK?tag=rvgearlab-amz-20",
     "description": "The Callsun set is two 200W bifacial N-Type panels, each 51.3 by 30.3 by 1.4 inches and 23.8 lbs. Wired in series they reach 400W at 47.48V Vmp and 54.62V Voc with 8.43A. The TwinCell design splits each panel in two sections so partial shade only cuts part of the output.\n\nAt $319.99 for the pair it is $167.00 more than a single Renogy 200W panel, and the pair weighs 47.6 lbs in total, so it is not light by the standard of one person lifting. It trades weight and price for the best shade behavior in the group and a documented weight, which no other pick here gives.\n\nPick this if you have a long, shade prone roof or a portable power station that wants 47V input. The caveat: the 54.62V Voc means you must check the controller or station maximum input with cold weather correction, and the bifacial gain does little on a flat roof.",
     "specs": [
       "2 x 200W bifacial",
@@ -83,7 +83,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51bpk+Vln-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DC6GWG81?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DC6GWG81?tag=rvgearlab-amz-20",
     "description": "The SOLPERK 100W kit includes a monocrystalline panel, a 10A MPPT charge controller, alligator clips, mounting hardware and pre drilled holes. The seller claims 400Wh per day from four hours of full sun, which is the nameplate figure with no losses taken out.\n\nAt $149.99 it costs $3.00 less than the Renogy 200W panel, which has twice the watts but no controller. The kit saves you buying a controller, which is why it can still win for a small trailer with a single battery, even though it makes about half the energy of the Renogy.\n\nPick this if you want a plug and play 12V charger for one battery and have no controller yet. The caveat: 400Wh a day is a best case, expect closer to 300Wh at four sun hours after losses, and the panel weight is not listed.",
     "specs": [
       "100W with MPPT controller",
@@ -111,7 +111,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41SncPgEwnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07GTH79JP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07GTH79JP?tag=rvgearlab-amz-20",
     "description": "The Renogy 50W monocrystalline panel is 22% efficient, with a corrosion resistant aluminum frame, tempered low iron glass, an IP65 junction box and bypass diodes. It is rated for 2400Pa wind and 5400Pa snow load, and the pre drilled holes accept Renogy Z brackets, pole and tilt mounts.\n\nAt $48.32 it is $101.67 cheaper than the SOLPERK 100W kit but includes no controller, so you must add one. It is the better pick for a trailer that needs a small top up on an existing system, while the SOLPERK 100W kit is the better pick for a complete starter set.\n\nPick this if you are extending an existing system with a controller already installed. The caveat is that 50W gives about 190Wh on a 5 sun hour day, which only runs a fridge and lights for a short time, and the listing does not give a weight.",
     "specs": [
       "50W monocrystalline",
@@ -139,7 +139,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/512NHidshmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BWY64QTY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BWY64QTY?tag=rvgearlab-amz-20",
     "description": "The Voltset 20W is a trickle charge kit with an MPPT controller, built in protection against overcharge, over discharge and reverse polarity, and an IP67 rating. It works with LiFePO4, AGM, Gel and flooded batteries, and the listing promises a 30 second plug and play setup with pre drilled mounting holes.\n\nAt $39.99 it costs $5.00 more than the SOLPERK 20W kit at $34.99, and the extra buys the IP67 rating, the wider list of supported chemistries and the MPPT claim. Neither gives meaningful power for daily use: roughly 75Wh a day on a good 5 sun hour day.\n\nPick this if the goal is keeping a stored trailer's battery topped up, not running anything. The caveat: 20W cannot cover a fridge or fan load, and the listed minus 40°F to 185°F range does not tell you winter charging works.",
     "specs": [
       "20W with MPPT controller",
@@ -167,7 +167,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51snUevMzjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08GX19KT9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08GX19KT9?tag=rvgearlab-amz-20",
     "description": "The SOLPERK 20W kit pairs a monocrystalline panel with an 8A smart controller using three stage charging. It has a 360 degree adjustable mount, low iron tempered glass and an aluminum frame, and it charges LiFePO4, lithium and other 12V batteries.\n\nAt $34.99 it is the cheapest pick here, $5.00 under the Voltset 20W and $13.33 under the Renogy 50W. It has the adjustable bracket that the Voltset listing does not mention, but it gives up the IP67 rating and the written chemistry list.\n\nPick this if you want the lowest cost battery maintainer for a stored RV and like aiming the panel at the sun. The caveat: it makes the same roughly 75Wh a day as any 20W panel, and no weight or ingress rating is listed.",
     "specs": [
       "20W monocrystalline",

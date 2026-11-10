@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31PfT8YqjCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CLR8QXKW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CLR8QXKW?tag=rvgearlab-amz-20",
     "description": "The Columbia Glennaker Lake II has a waterproof nylon shell described as durable from drizzle to downpour. It folds into its own hand pocket, carries a stow-away hood and has elastic cuffs and an adjustable hem.\n\nCompared with the Outdoor Ventures Packable, it brings a brand-name shell with a hood that stows in the collar. Against the Hikevitang Hooded, it uses a nylon shell and a simpler build.\n\nIt suits travelers and day hikers who want a trusted brand at a fair price. Zippered hand pockets hold small items.",
     "specs": [
       "Waterproof nylon shell",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41AnrKHJQ2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07YTKQW6B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07YTKQW6B?tag=rvgearlab-amz-20",
     "description": "The Outdoor Ventures Packable jacket lists waterproof, breathable fabric with outside zippers described as 100 percent water resistant. Armpit air vents, seam-sealed construction and a drawstring hood adjust the fit.\n\nCompared with the Columbia Glennaker Lake, it adds armpit vents and fully sealed seams. Against the Outdoor Ventures Pullover, it is a full-zip jacket with a drop tail hem.\n\nIt suits cyclists and hikers who sweat. The elasticized hem and horseshoe cuffs seal out the elements.",
     "specs": [
       "Armpit air vents",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410IZy+TcKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B6RY9NXX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B6RY9NXX?tag=rvgearlab-amz-20",
     "description": "The Hikevitang Hooded jacket uses a 100% polyester fabric with good air permeability and quick drying. It lists an upgraded adjustable snap-on hood and four pockets: two zippered hand pockets, one inner chest and one outer chest.\n\nCompared with the COOFANDY Shell, it adds more pockets and a snap-on hood. Against the Columbia Glennaker Lake, it uses polyester and focuses on storage.\n\nIt suits hikers, anglers and campers who carry small gear. The listing names climbing, fishing and daily wear.",
     "specs": [
       "100% polyester, quick drying",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ebY41XgBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CNG7HRYF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CNG7HRYF?tag=rvgearlab-amz-20",
     "description": "The Outdoor Ventures Pullover is made from 100% nylon with fully sealed seams. It folds into its own front pocket, has a stow-away hood and uses elastic cuffs plus a drawcord hem and hood.\n\nAgainst the Outdoor Ventures Packable, it is lighter and packs smaller. Compared with the COOFANDY Shell, it adds sealed seams and a front pocket stuff-sack.\n\nIt suits day hikers and golfers who want an emergency shell. Hidden zippered pockets are included.",
     "specs": [
       "100% nylon, sealed seams",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41+0dnlAmKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B084LBBV3F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B084LBBV3F?tag=rvgearlab-amz-20",
     "description": "The COOFANDY Shell lists waterproof and windproof fabric, an adjustable drawstring hood and a relaxed fit. It comes with a carrying pouch and is machine washable.\n\nCompared with the Hikevitang Hooded, it adds a carry pouch at a lower price. Against the Outdoor Ventures Pullover, it is a full-zip shell with fewer features.\n\nIt suits travelers and theme-park visitors who need a basic rain layer. The listing suggests uses for hiking, camping and cycling.",
     "specs": [
       "Waterproof, windproof fabric",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zUcdjZ6wL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08DG46YHR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08DG46YHR?tag=rvgearlab-amz-20",
     "description": "The SaphiRose Long Hooded jacket is a women's hip-length coat with a 100% polyester water-resistant shell and a soft lining. It has bound seams inside, a waist and hood drawstring, and the listing says it weighs about 2 lb.\n\nCompared with the Columbia Glennaker Lake, it offers more coverage and a lined interior. Against the COOFANDY Shell, it adds a waist drawstring for shape.\n\nIt suits light rain, dog walks and travel. The listing says it runs large.",
     "specs": [
       "Hip-length, lined sleeves",

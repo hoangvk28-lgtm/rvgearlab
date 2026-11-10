@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41cVVE5Gd0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B001BWD44A?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B001BWD44A?tag=rvgearlab-amz-20",
     "description": "The Trangia Fuel Bottle holds 0.3 liter, weighs 3.35 oz and has a safety valve for filling a spirit burner. The safety cap lets you pour without removing the cap, and the cork has a venting pipe and a pouring pipe so liquid flows without slipping or spilling.\n\nIt is the smallest and lightest bottle here, and the only one aimed at spirit-burner filling in its listing. Next to the CAMPEAK 1L it holds less than a third as much fuel.\n\nIt suits solo backpackers and spirit burner users who want precise, spill-free pours. The venting pipe keeps the stream steady.",
     "specs": [
       "0.3 liter, 3.35 oz",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31CvmL7FpCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CZ7ZTTJL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CZ7ZTTJL?tag=rvgearlab-amz-20",
     "description": "The CAMPEAK is a 1 liter aluminum alloy bottle weighing 155 g (5.46 oz) with a safety valve and a double-spout cap, one spout to pour and one to let air in. It comes with a spare rubber O-ring and a small funnel.\n\nIt holds the most fuel here and carries the pour-control design of the Trangia in a bigger bottle. The listing notes that the bottle cannot be pressurized and that the cap thread is proprietary.\n\nIt suits group trips and longer outings that need a lot of liquid fuel. The included funnel makes refilling smaller bottles easy.",
     "specs": [
       "1 liter, 155 g (5.46 oz)",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31jBSgBt3-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F2MBT7BK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F2MBT7BK?tag=rvgearlab-amz-20",
     "description": "The wdcfxy is a 750 ml (25 oz) seamless aluminum alloy bottle with a leak-proof seal that the listing says reduces fuel evaporation. A ring handle on the lid makes it easy to clip or carry.\n\nIt sits between the 1 liter CAMPEAK and the 530 ml bottles on capacity and costs less than the CAMPEAK or the Trangia. The listing states clearly that the bottle is not for pressurized gases.\n\nIt suits campers who want a mid-sized bottle without paying brand prices. The ring handle clips to a pack.",
     "specs": [
       "750 ml (25 oz) aluminum",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/419hXw4BwZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GXDJ863Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GXDJ863Y?tag=rvgearlab-amz-20",
     "description": "The Wokyo is a 530 ml aluminum alloy bottle with a leak-proof cap and rubber O-ring, available in 530 and 750 ml. The listing says it is compatible with most camping stoves and cannot be pressurized.\n\nIt has the lowest price of the five and the loop handle on the cap. The cap uses a proprietary thread that does not fit other brands.\n\nIt suits budget buyers who want a simple, sealed 530 ml bottle. The loop handle makes it easy to hang.",
     "specs": [
       "530 ml aluminum alloy",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/415+xkv7NxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08G168Q6K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08G168Q6K?tag=rvgearlab-amz-20",
     "description": "The Yanmis is a 530 ml seamless bottle with a leak-proof seal that the listing says keeps fuel from volatilizing easily. A ring handle on the lid lets you carry it or clip it to a pack.\n\nIt matches the Wokyo on capacity and handle and costs somewhat more, with fewer details on the O-ring or thread. The listing says it suits alcohol, gasoline, kerosene and other fuels.\n\nIt suits campers who want a plain, sealed bottle for alcohol fuel. The seamless body avoids weak seams.",
     "specs": [
       "530 ml seamless bottle",

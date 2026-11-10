@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hr53kYKvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DQVV8LLZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DQVV8LLZ?tag=rvgearlab-amz-20",
     "description": "The Therm-a-Rest Cinch measures 14 by 18 inches and is filled with upcycled urethane foam under a stretch-knit cover. An integrated cinch cord adjusts loft and firmness and compresses the pillow for packing.\n\nIt costs about $40, $5 more than the Gehannah 2-Pack, and it is the only pick that lets you tune loft with a cord. The IWVE Memory Foam is fixed at 4 inches.\n\nIt suits campers who share a bag with different sleep positions across seasons, or anyone who wants to adjust. Let it expand open for 24 hours before first use.",
     "specs": [
       "14 x 18 in upcycled foam",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41dOhvtKJfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D1BZWHZL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D1BZWHZL?tag=rvgearlab-amz-20",
     "description": "The Gehannah 2-Pack gives two large compressible camping pillows filled with shredded memory foam with CertiPUR-US certified foam. Each has a cooling-warm cover that is machine washable and a storage bag.\n\nIt costs about $35, $5 less than the Therm-a-Rest Cinch, and it supplies two pillows, which brings the cost per pillow to about $17. The foam is fixed in loft.\n\nIt suits couples, families and friends who share a tent. The covers wash in cold water.",
     "specs": [
       "Two shredded foam pillows",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Soc1nNy5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FXWYC51B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FXWYC51B?tag=rvgearlab-amz-20",
     "description": "The IWVE is a firm, 4 inch memory foam pillow weighing 400 grams. Its cover is removable for washing, and the foam compresses for packing.\n\nIt costs about $29, $11 less than the Therm-a-Rest Cinch, and it provides firm, thick support. It lacks the loft adjustment of the Cinch.\n\nIt suits side sleepers on a modest budget. It doubles as lumbar support.",
     "specs": [
       "10 cm (4 inch) memory foam",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41K1eRuc0ZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DWMKWBMM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DWMKWBMM?tag=rvgearlab-amz-20",
     "description": "The Vekkia is a memory foam and high-density foam pillow that rolls up to pack and comes with a machine-washable pillowcase. It suits side sleepers and travel.\n\nIt costs about $11, the lowest in the group and a quarter of the Therm-a-Rest Cinch. It offers less loft and polish than the Cinch.\n\nIt suits budget campers and kids. It rolls into a backpack.",
     "specs": [
       "Memory foam plus high-density foam",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31pePsp4-rL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00DDP38EO?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00DDP38EO?tag=rvgearlab-amz-20",
     "description": "The TETON Camp Pillow is the plainest option here, a soft stuffed pillow that fluffs up unaided. It comes with a washable case.\n\nIt costs about $15, a third of the Therm-a-Rest Cinch, and it needs no setup. It is softer than foam pillows.\n\nIt suits car campers and kids. It washes with its case.",
     "specs": [
       "Self-lofting soft pillow",

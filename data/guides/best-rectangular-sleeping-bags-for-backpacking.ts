@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41fu3se401L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B011AZ3O9W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B011AZ3O9W?tag=rvgearlab-amz-20",
     "description": "The ECOOPRO Warm Weather is an 83 by 30 inch envelope-style bag with a waterproof nylon shell. Listed at 1.7 lb with an 11 inch packed height, it is the most carry-friendly rectangle here.\n\nAgainst the VENTURE 4TH and the Naturehike, it is much narrower, so it trades roll-around room for a pack-friendly size. The smooth zipper and compression sack make it simple to stuff into a pack compartment.\n\nIt suits summer hikers who want a rectangular layout without a big weight penalty. Its envelope shape lets you open it flat as a blanket.",
     "specs": [
       "83 by 30 in envelope",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51sNUwTMLQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0896VSBVL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0896VSBVL?tag=rvgearlab-amz-20",
     "description": "The VENTURE 4TH XXL measures 90 by 39 inches and lists a 30 to 70F range. A stuff sack comes in the box, and a lifetime guarantee covers replacement.\n\nIt is the widest bag besides the Naturehike and its low end of 30F reaches colder than the ECOOPRO or the JEAOUIA. The shell is water-resistant and wipes clean, and the anti-snag zipper helps in the dark.\n\nIt suits big and tall hikers on short trips who need room more than low weight. The guarantee adds value at a mid-range price.",
     "specs": [
       "30 to 70F range",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Z05C975jL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G7DL4ML7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G7DL4ML7?tag=rvgearlab-amz-20",
     "description": "The Naturehike Big and Tall measures 86.6 by 39.4 inches and uses SUNDOUCE Thermal Fiber fill with a cotton flannel lining. A 210T pongee shell wipes clean, and zippers run along the sides and the bottom.\n\nNext to the VENTURE 4TH it feels softer and has an independent foot zipper for venting. Its price is the highest of the four, and the flannel lining is warmer to the touch than nylon.\n\nIt suits larger sleepers on gentle approach hikes who want a cozy bag. The two-way zippers also let it open as a quilt.",
     "specs": [
       "86.6 x 39.4 inch big and tall",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410v6zvQUWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CBMG1CHF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CBMG1CHF?tag=rvgearlab-amz-20",
     "description": "The JEAOUIA lists one occupant, 3 seasons and a 50 to 68F range. The shell is 190T nylon, the lining is polyester pongee and the fill is polycotton.\n\nThis is the cheapest of the four and prints the plainest range of the group. Against the ECOOPRO it gives up the printed weight and packed height.\n\nIt suits budget hikers on warm trips who can live with a bare-bones listing. A pad and a liner will do the heavy lifting on cooler nights.",
     "specs": [
       "50 to 68F range",

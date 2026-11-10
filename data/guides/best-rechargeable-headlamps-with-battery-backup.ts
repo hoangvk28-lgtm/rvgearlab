@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/515be7pkODL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GCYRF9MV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GCYRF9MV?tag=rvgearlab-amz-20",
     "description": "The Lepro Dual Power pack gives two headlamps, each with an 800mAh rechargeable battery that charges over USB-C and a tray for 3 AAA cells as a backup (cells not included). The 3W LED is rated at 300 lumens, with 7 white light modes and 3 red modes.\n\nIt is the only pick whose listing states a second power source, which makes it the true battery-backup answer. Against the Coast and the AKNEAR, it offers far less brightness and capacity plus a fallback that works anywhere AAA cells are sold.\n\nIt suits campers and kit builders who want one lamp that recharges at home and runs on corner-store cells in an emergency. The two-lamp pack covers a partner.",
     "specs": [
       "800mAh rechargeable plus 3 AAA tray",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41GjVRf1vFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DGXHWWSV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DGXHWWSV?tag=rvgearlab-amz-20",
     "description": "The AKNEAR lists a 10,500mAh battery with a stated maximum runtime of 95 hours, a USB-C port that refills in 3 to 5 hours, and a telescopic zoom between spot and flood. It offers 12 modes and works as a power bank for a phone.\n\nIts battery is by far the largest stated in this group, which acts as its own reserve. Compared with the Coast, it gives longer stated runtime and a charging output, and compared with the Lepro it relies on one cell rather than two sources.\n\nIt suits campers who want one lamp to last a long trip and top up a phone at night. A lifetime service promise is listed.",
     "specs": [
       "10,500mAh, up to 95 hours",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41keScbxX-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D9PNJH6Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D9PNJH6Y?tag=rvgearlab-amz-20",
     "description": "The Coast FL85R prints a clear output table of 1000 lumens on turbo, 830 on high, 500 on medium and 105 on low. Beam distance runs from 240 meters on turbo to 70 meters on low, and the built-in rechargeable battery is listed at up to 18 hours.\n\nIt is the only lamp with a tri-color white, red and green light and a twist focus. Compared with the AKNEAR, it prints a real lumen table and a brand name, with a smaller runtime claim.\n\nIt suits campers who want honest numbers and a focus ring they can twist on the trail. A USB cable is included.",
     "specs": [
       "1000 lumens turbo, 105 low",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/513sKxfYo-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F943HQH6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F943HQH6?tag=rvgearlab-amz-20",
     "description": "The azamine pack gives two rechargeable headlamps with 3 modes, an adjustable focus and a 90 degree angle. The body is rated IPX6, and the listing describes a high-elasticity adjustable headband and sturdy construction.\n\nIt is the only pack here with an IPX6 rating, which sits above the IPX4 of the Lepro. Against the Coast, it costs less per lamp and gives a spare, while the AKNEAR and Coast carry more documented capacity.\n\nIt suits families and pairs who want two rechargeable lamps with a high water rating. The adjustable focus switches between flood and spot.",
     "specs": [
       "3 modes, adjustable focus",

@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51PCXbm0LUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09HW7YM46?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09HW7YM46?tag=rvgearlab-amz-20",
     "description": "The ECI Power kit costs $165.99 and bundles a 12V 20Ah LiFePO4 battery (about 256Wh), one 100W monocrystalline rigid panel, a 10A PWM controller, a pair of 10ft 12AWG MC4 solar cables and a pair of 6ft battery cables. The listing says the battery is lab-tested to a minimum of 2,000 cycles at 80 percent depth of discharge and up to 5,000 cycles at 50 percent, and that the controller detects 12V or 24V and uses a CC-CV charging profile suited to lithium.\n\nIt ranks first for newcomers because it is the cheapest complete system and the only one whose controller is described as programmed for LiFePO4. Against the ECO-WORTHY 200W it costs $264 less but stores about 40 percent as much energy (256Wh versus 640Wh). It has no inverter, unlike the 240W 100Ah Kit, so it runs 12V loads only.\n\nPick it for a small camper, a trailer fan and lights, or phone charging. The caveat is capacity: 256Wh runs a 40W load for about six hours (estimate), so it is a supplement, not a full off-grid system.",
     "specs": [
       "100W panel, 20Ah LiFePO4",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51UZa6C13CL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08MQGHWSZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08MQGHWSZ?tag=rvgearlab-amz-20",
     "description": "This ECO-WORTHY 200W kit costs $429.99 and combines N-type panels (the listing cites 25 percent efficiency and bifacial gain), a 12V 50Ah LiFePO4 battery of about 640Wh, and a 600W pure sine inverter with a built-in 30A LiFePO4 charger and 20ms UPS switchover. The charger current is adjustable from 5 to 40A. The listing claims 800Wh per day under four hours of sun.\n\nIt ranks second: it costs $264 more than the ECI 100W Kit but doubles the array, more than doubles the battery and adds an inverter and a shore-power charger. Against the 240W 100Ah Kit it is $169 cheaper, but its battery is only 640Wh against 1,280Wh and its inverter is 600W against 1000W.\n\nChoose it for a weekend rig that needs a few AC outlets for a laptop, a TV or a blender. The caveat is the 50Ah battery: a 600W load would drain it in about an hour, so keep AC loads brief.",
     "specs": [
       "200W array, 50Ah LiFePO4",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51v8xQPtykL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H3HNGLD6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H3HNGLD6?tag=rvgearlab-amz-20",
     "description": "This kit is $599 and includes two 120W monocrystalline rigid panels (240W total), a 20A MPPT controller, a 1000W pure sine inverter with 2000W surge, a 12.8V 100Ah LiFePO4 battery (1,280Wh) with a built-in battery management system, battery cables, PV extension cables and Z-brackets. The listing says it fits RVs, campers, boats and cabins.\n\nIt ranks third: for $169 more than the ECO-WORTHY 200W it doubles the battery to 1,280Wh and ups the inverter to 1000W, while the array only grows from 200W to 240W. Against the 480W 100Ah Kit, which has the same battery and inverter, it costs $160 less but has half the panels.\n\nIt suits buyers who rely on stored energy more than daily harvest: a few cloudy days of fridge and lights. The caveat is the array. 240W at four sun hours gives about 960Wh nominal, so the battery will take over a day to refill after deep use, and the listing does not publish the BMS current limit for a 1000W inverter.",
     "specs": [
       "240W array, 100Ah LiFePO4",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51xEgmNl3GL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FS7VGJ4Z?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FS7VGJ4Z?tag=rvgearlab-amz-20",
     "description": "This $759 kit has four 120W monocrystalline rigid panels (480W total) with a stated 25.7 percent conversion efficiency under 3.2mm tempered glass, a 12.8V 100Ah LiFePO4 battery with a BMS and charge balancing, a 1000W pure sine inverter with 2000W surge, and a 40A MPPT controller. The listing claims 1,920Wh of daily capacity in four hours of sunshine, which matches 480W times four hours.\n\nIt ranks fourth by price but first for panel value: at $759 it works out to about $1.58 per solar watt, versus $2.50 for the 240W 100Ah Kit. It has the same 1,280Wh battery and 1000W inverter as the 240W kit but twice the panels, and it costs $335 less than the ECO-WORTHY 400W while giving 80W more solar.\n\nPick it if you want enough solar to refill 1,280Wh in about one sunny day. The caveat is roof space: four 120W panels need a real area, and 480W through a 40A controller is within a 12V limit of about 576W, so there is no clipping.",
     "specs": [
       "480W array, 100Ah LiFePO4",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41tEmwMLhWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H6B7TS28?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H6B7TS28?tag=rvgearlab-amz-20",
     "description": "This ECO-WORTHY kit costs $1,094.99 and includes four 100W panels (12BB cells, 23 percent conversion), a 40A MPPT controller with 99 percent tracking efficiency, a 1100W pure sine inverter, a 12V 100Ah lithium battery rated for more than 3,000 deep cycles with a BMS, and a Bluetooth 5.0 module for monitoring. The listing claims 1.6kWh of daily output in four hours of sun.\n\nIt ranks fifth because it costs $336 more than the 480W 100Ah Kit while delivering 80W less solar and a battery of the same 100Ah size, though it adds Bluetooth and a slightly larger inverter. Against the ECO-WORTHY 780W it costs $705 less but has about half the solar and under a third of the storage.\n\nPick it only if you want Bluetooth monitoring from the ECO-WORTHY app and brand-matched parts. The caveat is value: at about $2.74 per solar watt it is the most expensive per watt here, so you pay for the monitoring module and a cleaner parts list.",
     "specs": [
       "400W array, 100Ah lithium",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51v5RuoqoRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HGXTP2SW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HGXTP2SW?tag=rvgearlab-amz-20",
     "description": "This $1,799.99 kit supplies four 195W bifacial N-type panels (780W total, 25 percent efficiency, IP68), a 2000W pure sine inverter, a 12.8V 314Ah LiFePO4 battery of about 4,019Wh with Bluetooth 5.1, a metal case and low-temperature protection, plus a 60A MPPT controller. The listing claims 3.12kWh a day from four hours of sun. Despite the 800W title, four 195W panels add up to 780W.\n\nIt ranks sixth only on price: it costs $705 more than the ECO-WORTHY 400W and $1,041 more than the 480W 100Ah Kit. In return it stores about three times as much as those 100Ah kits, has the biggest inverter at 2000W, and has a 60A controller that fits a 780W array on a 12V battery (about 864W at 14.4V, estimate).\n\nChoose it for boondocking where a day of cloud should not shut anything down, or for running a microwave or coffee maker. The caveat is price and weight: this is a full-size system and the listing does not publish the battery weight.",
     "specs": [
       "780W bifacial N-type",

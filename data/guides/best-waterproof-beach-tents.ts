@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41bPnNWJw-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09Y1MBMYY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09Y1MBMYY?tag=rvgearlab-amz-20",
     "description": "The Oileus XXL is listed as a waterproof pop-up with a 3000mm PU coating on 210T breathable polyester, a 210D PE floor and 9mm fiberglass poles. It opens to 98.4 by 55 by 58 inches, weighs 5 pounds and folds to 35 by 5.5 inches.\n\nIt pairs a numeric roof rating with a named floor fabric, and it adds 6 sand pockets, 10 steel stakes and 4 guy lines. Against the Elegear tents it has the larger pitch, with an awning and three windows.\n\nA match for five- or six-person groups needing drizzle and wind cover. It can be folded in under 30 seconds.",
     "specs": [
       "3000mm PU roof, 210D floor",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41dMh+XzAxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BYJDGJ99?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BYJDGJ99?tag=rvgearlab-amz-20",
     "description": "The Elegear 360 uses 190T double-layer silver-coated polyester with PU2000 waterproofing and UPF 50+ protection. A 360 degree removable canopy with an omni-directional zipper gives multiple ways to use it, and a spring-loaded pole system lets it pitch in about a second.\n\nCompared with the Oileus it lists a lower PU2000 rating and adds a detachable double-layer canopy and a thicker 8.5mm fiberglass rod. Next to the CumbreX it is a more versatile two-in-one build.\n\nIt suits families who want to change from sun shade to storm cover. The removable layer adds options.",
     "specs": [
       "PU2000, 190T double-layer",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41PyMuyrb0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GGZJF982?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GGZJF982?tag=rvgearlab-amz-20",
     "description": "The Elegear CumbreX uses 190T polyester with dual silver coating and a PU2000 waterproof rating, and the listing claims UPF 50+ plus a 9 degree F cooler interior. Its extended canopy expands the shaded area by 100 percent, and an arched roof adds 40 percent more interior space than a typical A-frame.\n\nIt shares the PU2000 rating with the Elegear 360 and costs less. The hybrid pole system of inner sleeves and external clips lets one person pitch it.\n\nIt suits families who want a numeric waterproof claim and room under a front porch. It offers three modes.",
     "specs": [
       "PU2000, dual silver coating",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41fTPHQRM1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GCF78HND?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GCF78HND?tag=rvgearlab-amz-20",
     "description": "The EchoSmile is titled waterproof, with 190T silver-coated polyester said to block up to 98 percent of UV, with an automatic pop-up. A 5.0mm anti-deformation fiberglass frame is backed by sandbags, stakes and wind ropes.\n\nIt lists no numeric rating, so it relies on the waterproof label alone, against the Oileus and Elegear tents that give mm or PU numbers. A zippered front door closes into a private cabin for nursing or changing.\n\nIt suits budget shoppers who want a pop-up with a closing door. It is described as stress-free to set up.",
     "specs": [
       "190T silver-coated, 98% UV",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41HOVxTTn5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09WMJ26XV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09WMJ26XV?tag=rvgearlab-amz-20",
     "description": "The easierhike is a 10 by 10 foot beach canopy, 6.6 feet tall, with UPF 50+ fabric and a side wall that blocks low sun. It is described as windproof and water resistant, with grooved pole tops and bungee lock cord, guylines and a sand shovel.\n\nIt is water resistant rather than rated waterproof, so it sits below the Oileus and Elegear tents for rain. Compared with the pop-ups it offers a much larger open area and an anchor strap with a storage pouch.\n\nIt suits groups who need shade for a crowd and can accept light-shower protection only. Sizes are offered for 4, 6 or 8 people.",
     "specs": [
       "10x10 ft, 6.6 ft tall",

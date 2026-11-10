@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41p8zoMf6rL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CQRJ3NZF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CQRJ3NZF?tag=rvgearlab-amz-20",
     "description": "The Chihee tunnel tent sleeps four and is sold with a screened porch room and awning. It uses PU2000mm polyester, fiberglass poles with aluminum stakes and wind ropes, and a B3 mesh inner for airflow.\n\nIt is sold for four people, with two entrances so one can serve as a kitchen door. Against the Chihee pop-up it needs poles to be set, while the NORDREK uses no poles at all.\n\nIt suits families who want a standing porch beside a roomy sleeping area. Curved poles come pre-attached, which cuts the number of steps.",
     "specs": [
       "4 person tunnel, two doors",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41OWPAFcPBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CQT573ZR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CQT573ZR?tag=rvgearlab-amz-20",
     "description": "The Chihee pop-up tent springs open from an inner structure with 9.5mm automatic fiberglass poles. It has a double-layer build, two doors and two door poles that raise a porch area at the entrance.\n\nIt pitches by springing open, which skips the pole-threading the Chihee tunnel needs. Compared with the NORDREK it has two doors and a propped porch rather than a built-in screened one.\n\nIt suits campers who want quick pitching and a prop-up porch for gear. The vestibule gives a sheltered area when the door poles are placed.",
     "specs": [
       "Spring-open inner",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41-32I6g1NL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GXF34XQM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GXF34XQM?tag=rvgearlab-amz-20",
     "description": "The NORDREK is a pop-up tent for three with a built-in screened porch and mesh panels, sized 220 by 200 by 145 centimeters. Its listing describes graphene-infused fabric, and it sets up in seconds without poles.\n\nIt is the only pick with a porch built into the shell, and it needs no poles at all. Compared with the Chihee tunnel it sleeps fewer people.\n\nIt suits a couple with a child, or small groups wanting bug protection. The mesh porch keeps insects out while the door stays open.",
     "specs": [
       "3 person, 220 x 200 x 145 cm",

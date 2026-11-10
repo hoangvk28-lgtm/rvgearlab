@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51hiM9wB1OL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D87GRN43?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D87GRN43?tag=rvgearlab-amz-20",
     "description": "The Tenee 1 gallon coating lists 88 percent solar reflectivity along with UV resistance and 1000 percent plus elongation. It is listed for TPO directly and for EPDM, fiberglass and other roofs with proper surface preparation, and covers up to 50 square feet per gallon.\n\nIt is the only pick here that puts a hard reflectivity number in its title bullets, which gives it a clear edge for a heat-focused buyer. The elongation figure also tells you how much the membrane can stretch with roof movement.\n\nChoose it for a small to mid-size roof where reflectivity is the main goal. It suits owners who want measurable numbers rather than general cool-roof language.",
     "specs": [
       "88% solar reflectivity",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411OjpzMGLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B69R7RBM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B69R7RBM?tag=rvgearlab-amz-20",
     "description": "The Gardner-Gibson Sta-Kool 5 gallon coating is a white elastomeric roof coating with cool-core pigments that repel heat gain. It is rain safe in 30 minutes and recoatable in three hours, and carries a 15-year label.\n\nIts short recoat window is its strongest advantage over the slower water-based kits in this list. That lets a single dry day cover two coats on a good weather window.\n\nIt fits owners who must finish a roof in a single day. It also works for large roofs that need a 5 gallon pail.",
     "specs": [
       "Cool-core pigments",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/61phZ6TRZQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FX9QCK7T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FX9QCK7T?tag=rvgearlab-amz-20",
     "description": "The SENVEN 5 gallon kit is a white waterproof, solar reflective coating for EPDM, TPO, fiberglass and aluminum roofs, skylights and vent covers. It rolls on like paint at 1 gallon per 50 square feet.\n\nCompared with the SENVEN 1 Gal, this is the same coating in a pail large enough for a full RV roof. Next to Tenee 88%, it lacks a named reflectivity number but covers more substrates.\n\nChoose it for a full roof recoat across mixed materials. It also suits owners who want to buy once and finish.",
     "specs": [
       "5 gallon white kit",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41p3hay2szL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01EM9GAA8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01EM9GAA8?tag=rvgearlab-amz-20",
     "description": "The Liquid Rubber 1 gallon coating is a flexible waterproof membrane with heat-reflecting behavior for roofs of EPDM, TPO, fiberglass or aluminum. Its listing describes an easy 3-step system for a weekend repair.\n\nIt is the brand-name 1 gallon option, a step above generic pails on documentation. It targets spot repair or small roofs, not full coverage.\n\nPick it for a small camper or a patch job where a branded system matters. It suits first-time DIYers.",
     "specs": [
       "1 gallon white membrane",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/61Q1xbnjysL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F9BD9DW9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F9BD9DW9?tag=rvgearlab-amz-20",
     "description": "The SENVEN 1 gallon pail offers the same white waterproof, solar reflective formula as the 5 gallon, with EPDM, TPO, fiberglass and aluminum compatibility. It lists 1 gallon per 50 square feet for the final thickness.\n\nIt costs a fraction of the 5 gallon and covers a patch or a pop-up camper. It makes the most sense next to SENVEN 5 Gal for trying the product first.\n\nIt is for a small or partial recoat on a limited budget. On reflective rv roof coating, small partial recoat is where it fits.",
     "specs": [
       "1 gallon pail",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51ell-sZFAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DSVWFX6X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DSVWFX6X?tag=rvgearlab-amz-20",
     "description": "The CUKWUYBY 1 gallon coating is a water-based, solvent-free white reflective coating that stays flexible without shrinking. It applies with a roller, brush, squeegee or sprayer after cleaning, and builds with heavy coats.\n\nIt is the lowest-priced pick here and the only one that names sprayer application directly. It also states a no-solvent formula.\n\nChoose it for a small repair on a tight budget. It suits owners with an airless sprayer.",
     "specs": [
       "Water-based, no solvents",

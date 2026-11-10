@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hH3UbUtML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B015DEY2TM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B015DEY2TM?tag=rvgearlab-amz-20",
     "description": "The Renogy 200W N-Type kit includes an Adventurer-Li 30A PWM controller designed for flush mounting on a camper wall, plus plug and play cables and Y branch connectors. The cells are rated at 22% efficiency, and Renogy quotes 800Wh a day at 4 hours of sun. The warranty is 5 years.\n\nIt costs $51.31 more than the Renogy 200W Portable, and in exchange you get a fixed system with a real controller. That makes it the better pick if your pop up has a hard roof or a rear rack that can carry about 200W. Pick this if you camp in one spot for days. The caveat is that rigid frames add weight to a lift roof, so check your roof rating.",
     "specs": [
       "200W N-Type kit",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41pcXyQG8hL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F4J9WFY8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F4J9WFY8?tag=rvgearlab-amz-20",
     "description": "The Renogy 200W Portable folds in eight sections to 16.14 by 15.35 by 3.07 inches and weighs 8.82 lb. The 16BB N-Type cells are rated at 25% efficiency, and the IP65 case works between -10 and 65 degrees Celsius. It has USB-C and USB-A ports for devices.\n\nAt $191.78 it costs $123.01 more than the DOKIO Portable 100W, and it makes about twice the power. It is designed for portable power stations, so check that your battery or station accepts the panel's output. Pick this if you want to place panels in the sun while the camper sits in shade. The caveat is that a separate controller is needed for a bare 12V battery.",
     "specs": [
       "200W, 8.82 lb",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51qFGApIH+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0748FYFSK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0748FYFSK?tag=rvgearlab-amz-20",
     "description": "The DOKIO Portable 100W folds to 19 by 26 by 0.5 inches, weighs 6 lb and includes a 9.84 foot cable plus a standalone PWM controller. The controller guards against reverse polarity, overcharge, overload and short circuit. USB ports supply small devices when the unit is on a battery.\n\nAt $68.77 it is the cheapest full panel here, and it sits $21.98 above the Newpowa 35W Kit while making roughly three times the power. The listing warns that some power stations cap input at 60W, so confirm yours first. Pick this if you need a simple 12V battery charger on a weekend pop up. The caveat is that 100W gives only about 400Wh on a good day.",
     "specs": [
       "100W, 6 lb",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Mnn4+3gYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00W81BZTO?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00W81BZTO?tag=rvgearlab-amz-20",
     "description": "The Newpowa 10BB 35W kit pairs a monocrystalline panel rated at 17.2V and 2.04A with a waterproof controller, and the listing gives it an IP67 rating. Pre-attached 3 foot leads and pre-drilled frame holes simplify mounting. It carries a 2 year workmanship warranty.\n\nIt is $21.98 cheaper than the DOKIO Portable 100W but makes about a third of the power, so it is a trickle charger, not a camp power system. Pick this if the pop up sits in storage and you only want to keep the battery topped up. The caveat is that 35W will not run a fridge or recharge a drained bank in any reasonable time.",
     "specs": [
       "35W, 17.2V, 2.04A",

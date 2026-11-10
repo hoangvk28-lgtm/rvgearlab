@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41PRLL3a88L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CJ9T8L9B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CJ9T8L9B?tag=rvgearlab-amz-20",
     "description": "The ALLPOWERS S2000 PRO holds 1452Wh, close to the 1500Wh target, with a 2400W pure sine inverter and 4000W surge. It lists UPS switchover under 15 ms, 1000W solar input and a 0 to 80% AC recharge in about an hour.\n\nAt $549 it is $30 less than the FOSSIBOT F2400 and $110.99 less than the VTOMAN Jump 1800. You get the closest capacity to 1500Wh and the strongest solar input listed. Pick this if you want a true 1500Wh class unit for a small trailer. Caveat: weight and TT-30 outlet availability are not listed.",
     "specs": [
       "1452Wh, 2400W output",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41elO-s0YSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H4WB83JJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H4WB83JJ?tag=rvgearlab-amz-20",
     "description": "The FOSSIBOT F2400 packs 2048Wh of LiFePO4 with a 2400W pure sine output and 4800W surge. It accepts 1100W AC charging plus 500W solar MPPT and lists UPS switchover under 8 ms.\n\nAt $579 it costs $30 more than the ALLPOWERS S2000 PRO and gives 596Wh extra. It is $80.99 cheaper than the VTOMAN Jump 1800, with more capacity, but solar input is lower than ALLPOWERS at 500W. Pick this if you want a bigger buffer. Caveat: it is larger than the 1500Wh class and weight is not listed.",
     "specs": [
       "2048Wh LiFePO4, 2400W",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51SSf+n1ixL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FJM6FQ2P?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FJM6FQ2P?tag=rvgearlab-amz-20",
     "description": "The VTOMAN Jump 1800 stores 1408Wh and delivers 1800W pure sine output with a 110W solar panel in the bundle. It has three 110V outlets and charges up to 12 devices at once.\n\nAt $659.99 it is $110.99 above the ALLPOWERS S2000 PRO and $80.99 above the FOSSIBOT F2400, but it ships with a panel. The listing notes the station and panel arrive in two shipments. Pick this if you want a starter solar kit. Caveat: 110W of solar is a slow recharge, and the output is lower than the 2400W rivals.",
     "specs": [
       "1408Wh, 1800W output",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41w6c1Xl83L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HC6K52WC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HC6K52WC?tag=rvgearlab-amz-20",
     "description": "The CTOLITY AP1000 is a smaller 1024Wh LiFePO4 unit with 1800W output and 45 minute fast charging. It lists UPS switching under 20 ms and AC, solar and car charging.\n\nAt $399.99 it is $149.01 below the ALLPOWERS S2000 PRO, but it holds 428Wh less. That gap is roughly a small fridge for several hours. Pick this if you want the lowest price and can live below 1500Wh. Caveat: it is under the keyword's size and the slowest UPS switchover of the group.",
     "specs": [
       "1024Wh LiFePO4, 1800W",

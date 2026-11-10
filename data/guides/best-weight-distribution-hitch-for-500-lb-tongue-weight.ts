@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31KQM87hItL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00403OBSA?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00403OBSA?tag=rvgearlab-amz-20",
     "description": "Blue Ox's BXW1000-S SwayPro states 10,000 lb gross towing and 1,000 lb tongue weight with a 9-hole shank and 2-inch receiver. Blue Ox's BXW1000-S SwayPro is a weight distributing hitch with spring bars rated 1,000 lb tongue weight and 10,000 lb gross towing, a 2-inch receiver and a 9-hole shank. The listing says it suits couplers welded on top of the frame with no tongue cross-members.\n\nIt has the lowest stated tongue weight here, at double a 500 lb load, and costs slightly more than Blue Ox BXW1503. It needs a top-welded coupler.\n\nBest for a 500 lb tongue weight if bars twice the load are acceptable. Check your coupler style before choosing it.",
     "specs": [
       "10,000 lb, 1,000 lb tongue weight",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41UaMM78U2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BP87FCBJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BP87FCBJ?tag=rvgearlab-amz-20",
     "description": "Camco's TR3 48900-A is a 1,200 lb kit with clamp-adjusted sway control that turns off. Camco's TR3 48900-A is a 1,200 lb weight distribution kit with clamp-adjusted sway control. The text cites a 2-5/16 inch ball rated 15,000 lb.\n\nIt adds switchable sway and costs less than Blue Ox BXW1000-S. The title and text figures differ.\n\nBest for a trailer that backs up often. Use the 1,200 lb figure in the title for the hitch unless confirmed otherwise.",
     "specs": [
       "1,200 lb TR3 kit",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31e-+qtmaRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CRBLWJWF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CRBLWJWF?tag=rvgearlab-amz-20",
     "description": "Eaz-Lift's Elite-S states 1,400 lb maximum tongue weight in the body copy with built-in sway control. Eaz-Lift's Elite-S is a chain-free weight distribution kit with permanent, built-in sway control and a 2-5/16 inch ball. The title says 1,200 lb, while the text gives a 1,400 lb maximum tongue weight and 14,000 lb maximum gross trailer weight.\n\nIt has more rating than Camco TR3 48900-A and integrates sway control. The title says 1,200 lb.\n\nBest for a trailer that needs permanent sway control. The title and text disagree, so confirm the rating before ordering.",
     "specs": [
       "1,200 lb title, 1,400 lb max TW",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31VRRLNUH-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B009ZPA0TW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B009ZPA0TW?tag=rvgearlab-amz-20",
     "description": "Blue Ox's BXW1503 states 15,000 lb and 1,500 lb tongue weight for underslung couplers. Blue Ox's BXW1503 SwayPro is the underslung-coupler version, rated 1,500 lb tongue weight and 15,000 lb gross towing with a 2-inch receiver and 7-hole shank.\n\nIt is three times a 500 lb load and fits only underslung couplers. It costs about the same as Blue Ox BXW1000-S.\n\nBest only for a trailer with an underslung coupler. Choose it only for a coupler welded under the frame.",
     "specs": [
       "15,000 lb, 1,500 lb tongue weight",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31n383VKNvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0008F675Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0008F675Y?tag=rvgearlab-amz-20",
     "description": "Reese's kit is titled 8,000 lb but its body text cites 15,000 lb GTW and 1,500 lb tongue weight. Reese's kit is titled as 8,000 lb capacity without a shank, while the body text cites up to 15,000 lb gross trailer weight and 1,500 lb tongue weight.\n\nThe ratings conflict and the kit omits a shank. It costs less than the Blue Ox kits.\n\nBest only after the rating is confirmed. Use the lower rating until the seller confirms which applies.",
     "specs": [
       "Titled 8,000 lb, no shank",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31KSJMNVSPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0008FUF8Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0008FUF8Y?tag=rvgearlab-amz-20",
     "description": "Reese's Titan lists 17,000 lb and 1,700 lb tongue weight with integrated cams and no shank. Reese's Titan is a trunnion style weight distribution kit with integrated cams for Dual Cam sway control, listed at 17,000 lb and 1,700 lb tongue weight distributing and 10,000 lb and 1,000 lb weight carrying. The title says it is without a shank.\n\nIt is far above a 500 lb load and costs more than the Camco and Reese 8K kits. It is the least suited.\n\nBest only for a much heavier trailer. It is a heavy-duty option for big trailers, and it needs a shank bought separately.",
     "specs": [
       "17,000 lb distributing, 1,700 lb TW",

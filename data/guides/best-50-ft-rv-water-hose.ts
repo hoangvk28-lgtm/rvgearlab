@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/519j+CQ6dBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07ZPJN2N5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07ZPJN2N5?tag=rvgearlab-amz-20",
     "description": "Camco's Premium 50 Ft carries NSF/ANSI 61 and CSA lead-free certification around a 5/8 inch inner diameter. Wall thickness is 20 percent beyond premium hoses, and the zero-memory material with diamond-hatch kink resistance lays flat at campsite pull-out lengths.\n\nIt is the highest priced pick and carries the clearest certification wording. It is priced above the EvoFlex.\n\nIt suits owners who want certified potable wording on a long hose. The thicker wall copes with dragging.",
     "specs": [
       "5/8 inch, 50 ft",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41mpqP2KpjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07W4RYFHV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07W4RYFHV?tag=rvgearlab-amz-20",
     "description": "The Camco EvoFlex 50-Ft is an extra flexible 5/8 inch hose with stainless steel strain relief ends. It is CSA lead-free certified and lead, BPA and phthalate free.\n\nIt adds stainless strain relief and extra flexibility to the TastePURE design at a lower price. It keeps a zero memory build.\n\nIt suits owners who handle a long hose often. The strain relief protects the ends.",
     "specs": [
       "5/8 inch, 50 ft",
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41kDnXApt3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00YTMD33Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00YTMD33Q?tag=rvgearlab-amz-20",
     "description": "The SmartFlex RV and Marine Water Hose is a 5/8 inch by 50 ft hybrid polymer hose with an abrasion resistant cover. It lists zero memory coiling, a large grip and a durable O-ring.\n\nIt is priced below the EvoFlex and lists a large grip for tight connections. It is sold for RV and marine use.\n\nIt suits owners who want a durable hybrid hose. The big grip helps with wet hands.",
     "specs": [
       "5/8 inch, 50 ft",
@@ -108,7 +108,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41eI3mVKRyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DL9HJHXK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DL9HJHXK?tag=rvgearlab-amz-20",
     "description": "The CircleRiver 50FT is a 5/8 inch hose that is NSF 372 tested lead-free. It has 3/4 inch aluminum fittings with a sealing rubber ring and a 3-layer hybrid polymer.\n\nIt lists lead testing that the RVMATE does not and costs less than the Camco hoses. It lists a wide temperature range.\n\nIt suits owners who want tested wording at a moderate price. The coil is easy to manage.",
     "specs": [
       "5/8 inch, 50 ft",
@@ -135,7 +135,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Ygeh0qQPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00480BUZW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00480BUZW?tag=rvgearlab-amz-20",
     "description": "The Camco TastePURE 50-Ft lists a 1/2 inch inner diameter with NSF/ANSI 61 certification and CSA lead-free certification. It is made in the USA with diamond-hatch reinforcement.\n\nIt is priced lower than the Premium and carries the same certification wording. It is a lighter weight hose than the 5/8 inch picks.\n\nIt suits owners who want certified wording at a lower price. The lighter bore also keeps weight down.",
     "specs": [
       "1/2 inch ID, 50 ft",
@@ -162,7 +162,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51cOgx--GBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BQV1KDYT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BQV1KDYT?tag=rvgearlab-amz-20",
     "description": "RVMATE builds the 50FT from 3 layers of hybrid polymer around a 5/8 inch bore, finished with 3/4 inch male and female fittings. It lists CA65 compliance, UV-resistant material and compression technology.\n\nIt is the lowest priced pick here. It uses a sealing ring and PTFE tape.\n\nIt suits owners who want 50 feet on a budget. The male and female ends make it simple to join.",
     "specs": [
       "5/8 inch, 50 ft",

@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41iP1MGhE0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GGQQBY4H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GGQQBY4H?tag=rvgearlab-amz-20",
     "description": "This Litime set is two 12V 100Ah Group 24 LiFePO4 batteries with Bluetooth 5.0 monitoring, a built-in 100A BMS and low temperature charge cutoff. Two batteries give 200Ah of lithium capacity at 12V, which is a real house bank rather than a single battery upgrade.\n\nAt $612.85 for the pair it is about $306.43 per battery, which is $126.44 more per battery than the SUPER EMPOWER at $179.99. The premium buys the app, the 20 plus protections and a matched pair. Pick this if you are building a house bank from scratch. The caveat is that you pay for two batteries even if you only want one.",
     "specs": [
       "2 x 12V 100Ah LiFePO4",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51z6WGt3HJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FN3TVVD8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FN3TVVD8?tag=rvgearlab-amz-20",
     "description": "The SUPER EMPOWER is a 12.8V 100Ah LiFePO4 battery with Grade A cells, listed at 21.6 lb and 6.49 x 10.24 x 8.98 inches. It is a drop in replacement for lead acid batteries in a Group 24 slot.\n\nAt $179.99 it costs $20.00 less than the Mighty Max 24M AGM at $199.99, yet it gives roughly twice the usable energy because lithium can be discharged much deeper. Pick this if you want the cheapest way into lithium. The caveat is no engine cranking, and the listing mentions deep cycle use only.",
     "specs": [
       "12.8V 100Ah LiFePO4",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/418st-JvIXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G83YHSRK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G83YHSRK?tag=rvgearlab-amz-20",
     "description": "The Mighty Max MM-G24M is a 12V 90Ah group 24M AGM with 550 CCA and 700 CA, built to both start an engine and run loads. It is sealed and maintenance free.\n\nAt $199.99 it is $1.00 less than the Marxon 24M at $200.99 and gives 11Ah more capacity (90Ah versus 79Ah). Pick this if you need a battery that cranks and runs a fridge. The caveat is that lead acid should only be discharged about half, so real usable energy is roughly 45Ah.",
     "specs": [
       "12V 90Ah AGM",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41N-wFLRCML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FDQPTRRF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FDQPTRRF?tag=rvgearlab-amz-20",
     "description": "The Marxon Group 24M is a 12V 79Ah dual purpose battery rated 550 CCA, 715 MCA and 150 RC, measuring 10.24 x 6.61 x 8.19 inches. The listing states its dimensions clearly, which is helpful for tight trays.\n\nAt $200.99 it costs $1.00 more than the Mighty Max 24M with 11Ah less capacity, so it is rarely the better buy unless you need its exact dimensions. Pick this if the listing size matches your tray. The caveat is the lowest capacity here, at 79Ah.",
     "specs": [
       "12V 79Ah dual purpose",
@@ -133,7 +133,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/415V9jWpIoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BHTWRDNQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BHTWRDNQ?tag=rvgearlab-amz-20",
     "description": "The Interstate Marine/RV battery is a 12V 70Ah Group 24 AGM with 750 CCA, a pure non alloy lead design the maker says lasts two to three times longer. It is dual purpose for cranking and deep cycling.\n\nAt $259.95 it costs $59.96 more than the Mighty Max 24M but offers less capacity (70Ah versus 90Ah) and more cranking. Pick this if cold starting is the priority. The caveat is that you pay more for the brand and get the lowest house capacity here.",
     "specs": [
       "12V 70Ah AGM",

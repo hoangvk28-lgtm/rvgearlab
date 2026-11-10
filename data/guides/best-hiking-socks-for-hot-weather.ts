@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41SI5HHB9YL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DC4PK2CT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DC4PK2CT?tag=rvgearlab-amz-20",
     "description": "The Darn Tough Light Hiker is a lightweight micro crew sock knit from 54% nylon, 43% merino wool and 3% Lycra spandex. The listing describes a thin layer of cushioning along the base of the foot, True Seamless technology and a lifetime guarantee.\n\nAgainst the Dickies Mid-Crew, it adds merino wicking and a guarantee against holes. Compared with the CWVLC Midweight, it is thinner and designed for warmer days.\n\nIt suits hikers who want a premium thin sock for summer miles. The micro crew height peeks above a standard hiking boot.",
     "specs": [
       "54% nylon, 43% merino, lightweight",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41XGJnL1e-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08YLG42MP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08YLG42MP?tag=rvgearlab-amz-20",
     "description": "The Dickies Mid-Crew is a mid-crew sock with soft, breathable moisture-control fibers and ventilation channels. It has arch compression support, a full cushion foot and a double-reinforced heel and toe.\n\nCompared with the Amutost Crew, it uses ventilation channels rather than a compression profile. Against the Darn Tough Light Hiker, it costs far less and has no wool.\n\nIt suits warm-weather walks and day hikes where you want airflow at a low price. The packs come in 6 or 12 pairs.",
     "specs": [
       "Moisture control, ventilation channels",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Ei+MBWS2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DNYVB4NY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DNYVB4NY?tag=rvgearlab-amz-20",
     "description": "The Amutost Crew is a five-pair set of white crew socks with a cushioned design, compression and moisture-wicking fabric. The listing describes a high ankle with arch support and a breathable build for sports.\n\nCompared with the Dickies Mid-Crew, it has a taller ankle and an athletic look. Against the FEIDEER Cotton, it uses wicking fabric rather than cotton.\n\nIt suits hikers who like a snug compressed fit and a taller sock. The listing mentions running and everyday use too.",
     "specs": [
       "Cushioned, compression crew",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/61IVdrqr+0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B097YB299W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B097YB299W?tag=rvgearlab-amz-20",
     "description": "The FEIDEER Cotton is a five-pair women's crew sock in 85% cotton, 12% polyester and 3% spandex. The listing describes wicking, terry-loop cushioning throughout and medium thickness, with floral styles in five patterns.\n\nUnlike the Dickies Mid-Crew and the Amutost Crew, it is mostly cotton, which holds more moisture on long climbs. It gives plush padding and a fun look.\n\nIt suits easy walks and short hikes where style matters. The listing says Large fits women's sizes 6 to 10.",
     "specs": [
       "85% cotton, 12% polyester, 3% spandex",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51ifi79It0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09JGRX7HV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09JGRX7HV?tag=rvgearlab-amz-20",
     "description": "The CWVLC Midweight is a three-pair crew sock with moisture-wicking fabric, full cushioning and medium compression. The listing describes a terry structure and recommends use between about 30 and 70 degrees Fahrenheit.\n\nIt is thicker than the Darn Tough Light Hiker and the Dickies Mid-Crew, with more padding. Compared with the FEIDEER Cotton, it uses wicking material and a technical cut.\n\nIt suits mild spring and fall hikes and early morning starts. Left and right marks help with fit.",
     "specs": [
       "Full cushion, medium compression",

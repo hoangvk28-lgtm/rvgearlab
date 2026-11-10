@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Aj2TL3UjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H6PSN7S9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H6PSN7S9?tag=rvgearlab-amz-20",
     "description": "The RVSNAIL 15FT is rated to -45°F and uses a silicone heating wire that stays softer than most. RVSNAIL's 15FT hose uses a high-efficiency silicone heating wire to stay softer and resist kinking in freezing weather.\n\nNext to the cheaper RVSNAIL it adds the silicone wire and five-layer detail, while the OEBLD gives a wider bore at a higher price. The five-layer build is a step up from basic PVC jackets.\n\nIt has a five-layer build and -45°F protection aimed at winter travel, cabins and homes. It suits campers who handle the hose daily in freezing weather.",
     "specs": [
       "15 ft, -45°F protection",
@@ -53,7 +53,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41FcWiVSljL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BJ6VVX1X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BJ6VVX1X?tag=rvgearlab-amz-20",
     "description": "The OEBLD 15FT has a 5/8-inch inner diameter and a braided PVC-coated polyester jacket. OEBLD lists this 15FT hose with a 5/8-inch ID, a -45°F rating and a 3/4-inch GHT fitting with thick rubber gaskets.\n\nIt beats the Wufoty and RVSNAIL on bore size, while the Nottia offers a self-regulating thermostat. Its triple-seal fitting adds leak protection.\n\nIts PVC-coated polyester braided jacket is described as resisting abrasion, UV and low-temperature cracking. It fits owners who run water to a filter or pump and want more flow.",
     "specs": [
       "15 ft, 5/8 inch ID",
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/514cmAS55ML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DPHXTTGS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DPHXTTGS?tag=rvgearlab-amz-20",
     "description": "The Nottia 15FT combines -45°F protection with a smart self-regulating external thermostat. Nottia lists this 15FT hose with freeze protection to -45°F and a smart self-regulating external thermostat.\n\nCompared with the LONRI it focuses on thermostat control rather than a plug light. It is priced at the top of this guide, above the OEBLD.\n\nThe listing describes a food-grade hose and a fifth-version fitting built to prevent leaks. It suits buyers who value an automatic thermostat above cost.",
     "specs": [
       "15 ft, -45°F protection",
@@ -107,7 +107,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51hb4DTmstL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DLNQFBG2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DLNQFBG2?tag=rvgearlab-amz-20",
     "description": "The LONRI 15FT has a UL certified LED plug and a -45°F rating. LONRI HEAT sells this 15FT hose with a -45°F rating and a UL certified LED plug that shows when it is powered.\n\nIt separates itself from the Nottia with a light that shows power at a glance, while the RVSNAIL matches its rating for less. Teflon tape at both ends adds a second seal.\n\nThe inner pipe is drinking water safe, and washers plus Teflon tape at both ends seal the connections. It suits owners who like to confirm the hose is on before bed.",
     "specs": [
       "15 ft, -45°F rating",
@@ -134,7 +134,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51R+QWCQUZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CBNBZYX4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CBNBZYX4?tag=rvgearlab-amz-20",
     "description": "The Wufoty 15FT claims -47°F protection and runs on standard 120VAC. Wufoty lists this 15FT hose with a -47°F claim and a 120VAC working voltage, built around a ceramic heating element.\n\nIt posts the boldest rating of the six, ahead of the -45°F LONRI and Nottia. A male adapter is included in the box.\n\nBoth ends have female threads, a double-ended male adapter is included, and the inner hose is drinking water safe. It suits buyers in the coldest regions who want the highest stated rating.",
     "specs": [
       "15 ft, -47°F claim",
@@ -161,7 +161,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/519YdRB3nuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FL1ZVVK1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FL1ZVVK1?tag=rvgearlab-amz-20",
     "description": "The second RVSNAIL 15FT pairs an intelligent self-regulating external thermostat with -45°F freeze protection. It is the lowest priced hose in this guide.\n\nCompared with the first RVSNAIL it drops the silicone wire in exchange for savings, and it comes in about 17 dollars under the Wufoty. Double washers still protect the GHT thread.\n\nCost-conscious owners who want a deep-cold rating on a 15 foot reach will find it a fit. Its food-grade, lead and BPA free materials come with a 3/4 GHT connection.",
     "specs": [
       "15 ft, -45°F protection",

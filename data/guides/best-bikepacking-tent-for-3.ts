@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31CVcwpH5hL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FPMQ2SCL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FPMQ2SCL?tag=rvgearlab-amz-20",
     "description": "The Big Agnes Copper Spur UL Bikepack three-person tent lists a trail weight of 3 lb 10 oz and a packed size of 16.5 by 6 inches with the 12 inch Shortstik poles. It uses double-ripstop nylon with a 1200mm silicone-treated coating and a 4-way high-volume hub.\n\nCompared with the Copper Spur HV UL3, it adds a 3D bin mezzanine in the foot box and TipLok buckles. Against the Tiger Wall UL3, it offers more volume with a different fabric.\n\nIt suits three riders who want the lightest practical roomy shelter. The integrated mezzanine stores oversized gear.",
     "specs": [
       "3 lb 10 oz trail weight",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410rWnjoqmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08MWY53HV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08MWY53HV?tag=rvgearlab-amz-20",
     "description": "The Big Agnes Copper Spur HV UL3 Bikepack has two doors and two vestibules, a 4-way high-volume hub, and a compression stuff sack with daisy-chain webbing. The hub adds 25% strength and 20% usable volume over earlier versions.\n\nCompared with the Copper Spur Bikepack UL3, it states no trail weight and skips the foot-box bin. Against the Tiger Wall UL3, it has more headroom from the hub design.\n\nIt suits three riders who prioritize headroom and two-door entry. Helmet webbing and an oversized ceiling pocket help organize gear.",
     "specs": [
       "Two doors, two vestibules",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31iWGzpCiVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08MWZFS4F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08MWZFS4F?tag=rvgearlab-amz-20",
     "description": "The Big Agnes Tiger Wall UL3 is billed as the lightest of the line's two-door, two-vestibule bikepacking tents. It uses solution-dyed fabric that resists UV fade, a 3D shelf that uses dead space above your feet and daisy-chain webbing.\n\nCompared with the Copper Spur options, it targets the lightest weight and a lower price. Against the Copper Spur Bikepack UL3, it swaps the silicone-treated nylon for solution-dyed fabric.\n\nIt suits three riders who want weight savings and fade-resistant fabric. The compression sack handles trail abuse.",
     "specs": [
       "Lightest two-door bikepack tent",

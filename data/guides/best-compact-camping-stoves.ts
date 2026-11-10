@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41C7BfhshqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FHW3G1RZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FHW3G1RZ?tag=rvgearlab-amz-20",
     "description": "The BIG HORN butane stove uses a bucket-style design that folds small and opens to a firm cooking platform. It is rated at 2,200 W (7,500 BTU), with a quoted 3 to 5 minutes to bring a liter to a boil.\n\nIts burner mixes cast iron, copper and aluminum, and the listing mentions SGS certification for North America, a cast iron trivet and non-slip pads. Against the Gas One GS-3400P it is simpler and lighter on fuel options.\n\nA good fit for car campers and emergency kits that want a stable, easy-light stove. One-touch ignition removes the need for matches.",
     "specs": [
       "2,200 W (7,500 BTU) butane",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41JavTsgoZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01HQRD8EO?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01HQRD8EO?tag=rvgearlab-amz-20",
     "description": "The Gas One GS-3400P runs on an 8 oz butane cartridge or a 16.4 oz propane cylinder with the included converter regulator. Controls include a heat dial, push-button piezo lighting and a system that pops the cartridge out when pressure goes odd.\n\nCompared with the BIG HORN it accepts propane, which helps in cooler weather, and a built-in pressure sensor and gas cut-off add safety. It is bulkier, and fuel is not included.\n\nA strong pick for campers who may be cooking in mild cold and want fuel options. A carrying case is included.",
     "specs": [
       "Butane or propane dual fuel",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41oxFcZEApL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0829RKQXZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0829RKQXZ?tag=rvgearlab-amz-20",
     "description": "The Odoland 3500W is a folding stove rated up to 3,500 W with a built-in windshield, piezo ignition and a flame controller. The listing gives around 3 minutes for 1 liter and offers two connectors for different gas tanks.\n\nIt beats the BIG HORN on stated power and wind protection, and it is a lightweight option at a low price. Folded size is not printed.\n\nA solid choice for picnic and campsite cooks who deal with breezes. A carry case comes with it.",
     "specs": [
       "Up to 3500W output",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hybCmWPwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07NJYV3NP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07NJYV3NP?tag=rvgearlab-amz-20",
     "description": "The AOTU is a 3,000 W mini stove with a honeycomb windproof net and a piezo ignition. A control valve runs from a boil to a simmer, and the burner head suits a pot near 20 cm for one to three people.\n\nIt is smaller and lighter than the GS-3400P and the cheapest in the group. It will not fit propane-only canisters.\n\nGood as a backup or a second burner in a camp kitchen. The plastic box protects it in a bin.",
     "specs": [
       "Suits 1 to 3 people",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ZUneNRI4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01MS07XPL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01MS07XPL?tag=rvgearlab-amz-20",
     "description": "The Odoland 11-piece set includes a mini stove, two non-stick aluminum pots of 1.2 and 0.6 liters, a spoon, fork and knife, a 16 ounce stainless cup with a silicone protector and a tank bracket. Everything fits into a mesh bag.\n\nIt is the only pick that comes with cookware, and the pot and stove handles fold. Against the AOTU Piezo it gives up burner control for the convenience of a full kit.\n\nIdeal for new campers who want one box with stove, pots and utensils. The tank bracket steadies a canister.",
     "specs": [
       "11 pieces with mini stove",

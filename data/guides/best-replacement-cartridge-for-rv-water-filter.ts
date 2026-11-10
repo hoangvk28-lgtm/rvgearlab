@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41cpU86bC7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H3PDTFNQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H3PDTFNQ?tag=rvgearlab-amz-20",
     "description": "Elovener 3-Stage is a set of 5 micron sediment, 0.5 micron carbon block and 0.1 micron precision filters, described as compatible with the Clearsource Ultra Three Canister system. The listing says the set lasts 6 to 12 months and uses a standard 2.5 by 10 inch format for tool-free replacement.\n\nAgainst VitaFlow, it lists micron ratings for all three stages. Against CFS Carbon Block, it replaces a whole three-stage set.\n\nIt is the best match for Clearsource Ultra owners who want a full set with stated ratings. It earns its slot for clearsource ultra rebuilds.",
     "specs": [
       "5, 0.5 and 0.1 micron stages",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41jgRRdoDqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HCGY2LMR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HCGY2LMR?tag=rvgearlab-amz-20",
     "description": "VitaFlow 3-Stage is a cartridge set made to fit the Clearsource Ultra Three Canister system. The listing describes a multi-layer design with a 5 micron sediment stage and sealed packaging.\n\nAgainst Elovener 3-Stage, it states fewer micron ratings. Against CFS Carbon Block, it is a set for a three-canister system.\n\nIt suits owners who want a sealed-pack set at a similar price. It is a natural fit for clearsource ultra swaps.",
     "specs": [
       "3-stage cartridge set",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51i6G80YAbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07VDT8YW7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07VDT8YW7?tag=rvgearlab-amz-20",
     "description": "CFS Carbon Block 4-Pack is compatible with Camco EVO 40621 and 40624 cartridges. The listing says the carbon block has a larger surface area and a longer life and reduces chlorine, taste and odor.\n\nAgainst Vistar Flow-Pur 8, it fits a different system. Against Camco Tastepure 2-Pack, it is a refill cartridge and not a disposable inline filter.\n\nIt suits Camco EVO owners who want four refills. Think of it as the pick for camco evo owners.",
     "specs": [
       "Carbon block, 4-pack",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/413wgnifDgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07ZRYPRNM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07ZRYPRNM?tag=rvgearlab-amz-20",
     "description": "Vistar Flow-Pur 8 Compatible 2-pack is a pair of carbon block cartridges described as NSF certified 5 micron filters. It fits the Flow-Pure 8 system model WCBCS-975-RV.\n\nAgainst CFS Carbon Block 4-Pack, it fits the Flow-Pure 8 system. Against Elovener 3-Stage, it is carbon only.\n\nIt suits owners with a Flow-Pure 8 system. Buyers focused on flow-pure 8 owners will find it a sensible match.",
     "specs": [
       "2-pack carbon block",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51cEM+M8mIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0024E6V30?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0024E6V30?tag=rvgearlab-amz-20",
     "description": "Camco Tastepure RV Water Filter 2-pack is a disposable inline filter with GAC and KDF and a six-step design. The listing says it is listed to NSF/ANSI 42 and 53 and CSA lead-free content certified to NSF/ANSI 372.\n\nAgainst the refill cartridges, it needs no housing. Against Elovener 3-Stage, it is a hose-thread filter.\n\nIt suits owners who want a no-housing alternative. It earns its slot for housing-free filtering.",
     "specs": [
       "Disposable inline GAC and KDF",

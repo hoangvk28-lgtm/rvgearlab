@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51UHT56HLAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08QMC54XK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08QMC54XK?tag=rvgearlab-amz-20",
     "description": "RVGUARD supplies four inline filters and gives the most complete operating figures: 0.5 gpm service flow, a 60 psi working pressure, a 34 to 100 degrees F operating range and a three-month lifespan. It uses KDF and GAC, with the listing citing IAPMO R&T certification against NSF/ANSI 42 for material safety and aesthetic chlorine reduction.\n\nAgainst Camco XL it gives a larger pack and clearer limits but not the added capacity of the XL body. Against the Kohree 4-Pack it names the standard and the certifier, which makes the claim more specific.\n\nBest for campers who plan a whole year of trips and want operating limits spelled out. A 60 psi rating means you should pair it with a regulator on high-pressure hookups.",
     "specs": [
       "NSF/ANSI 42 via IAPMO R&T",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51127i5vSnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07B2LPLBQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07B2LPLBQ?tag=rvgearlab-amz-20",
     "description": "Camco's Tastepure XL is a larger-bodied hose filter with a flexible hose protector, built on the same GAC and KDF media and NSF/ANSI 42 and 53 listing wording as the standard Tastepure. The listing says it gives 2x the filtration power of standard filters.\n\nIt outranks the RVGUARD 4-Pack on documentation of health-related testing, but it is sold as one unit and costs more per filter than the multi-packs. It also improves on the Stokk 2-Pack with the hose protector design and a known brand listing.\n\nBest for campers who want one stronger filter for hard-use trips. Remember the XL is still a taste and chlorine filter, not a purifier.",
     "specs": [
       "NSF/ANSI 42 and 53 listed",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41k-Ktv32XL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07MG54R6F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07MG54R6F?tag=rvgearlab-amz-20",
     "description": "Glacier Fresh pairs GAC and KDF media in a food-grade housing and includes a flexible hose protector. The listing says independent laboratory testing showed 97.9% chlorine reduction, and calls it lead-free and BPA-free.\n\nIt is lighter on operating specs than RVGUARD 4-Pack, giving no psi or gpm figure, but it offers a specific chlorine number the others lack. It also matches Beckacher 2-Pack on hose protector and season life.\n\nBest for chlorine-sensitive campers. The lab claim is the manufacturer's, so check the wording on the listing.",
     "specs": [
       "97.9% chlorine reduction claim",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51JM+ObayZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0892ZSZ5R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0892ZSZ5R?tag=rvgearlab-amz-20",
     "description": "Kohree includes four filters with a 20 micron sediment layer, 1,057 gallon capacity and five-layer filtration with GAC and KDF. The listing says NSF and BPA-free, and that the shell passed a burst test.\n\nIt beats the Stokk 2-Pack on pack size and stated gallon figure, though Stokk uses a finer 10 micron stage. Compared with RVGUARD 4-Pack it gives less capacity (1,057 vs a much larger claim) but a clear sediment micron rating.\n\nBest for budget campers who want four filters at once. The NSF wording does not name a standard.",
     "specs": [
       "20 micron sediment layer",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51CY82OVmiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BX8M7G8N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BX8M7G8N?tag=rvgearlab-amz-20",
     "description": "Beckacher's 2-pack gives a stated 1,350 gallon capacity or three months per filter, with GAC and KDF media, a hose protector and tool-free install within about five minutes. That makes it one of the easier hose filters to plan a season around.\n\nIt matches Glacier Fresh 2-Pack on the hose protector and season life, but it states a higher capacity figure and does not claim a lab chlorine number. It sits above the Stokk 2-Pack on capacity but below on certification.\n\nBest for campers who want a stated gallon figure. No certification is named.",
     "specs": [
       "1,350 gallons or 3 months",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41HCqXu9R7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DJR7YC9R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DJR7YC9R?tag=rvgearlab-amz-20",
     "description": "Stokk uses a 10 micron internal sediment filter with GAC and KDF, a 360 degree swivel hose protector and a wide body for flow. The listing states it is independently tested to NSF/ANSI 42.\n\nThe 10 micron stage is finer than Kohree 4-Pack's 20 micron, though it still does not match canister filters. It gives less capacity data than Beckacher 2-Pack and no gallon figure.\n\nBest for campers who want both a named NSF standard and a finer sediment screen. Pair it with a canister if the water is silty.",
     "specs": [
       "10 micron sediment stage",

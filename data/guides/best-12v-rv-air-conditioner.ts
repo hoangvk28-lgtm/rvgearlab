@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41cwwqXI3wL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H98QYNMZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H98QYNMZ?tag=rvgearlab-amz-20",
     "description": "The iRooVee is a low-profile 12V rooftop unit listing 11,000 BTU of cooling and 3,500 BTU of heating, quoted at 45 dB. It says a 12V 300Ah battery gives about 8 hours of cooling, and that it fits standard 14 by 14 inch roof openings.\n\nAgainst the Outequip, it adds heating and a lower battery requirement for its runtime claim, at a lower price. Against the ICECOSMOS, it offers more rated BTU and a stated opening size.\n\nBest for van and camper owners with a mid-size lithium bank who want cooling and mild heat from one rooftop unit. Treat the runtime as a listing claim, since sun load and insulation change real hours.",
     "specs": [
       "11,000 BTU cool, 3,500 heat",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/219s7r9dm5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DWDMPL3S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DWDMPL3S?tag=rvgearlab-amz-20",
     "description": "The Outequip is a 10,000 BTU 12V rooftop unit that says it cools in about 15 minutes and runs 8 hours from a 480Ah power source. It lists UV-stabilized ABS, an EPDM foam gasket, a zinc-coated condenser and brushless copper motor fans.\n\nCompared with the iRooVee, it quotes a larger battery for the same 8 hours and has no heating, but the construction list is more detailed. Compared with the ICECOSMOS, it gives runtime numbers rather than a single decibel figure.\n\nBest for owners with a large bank who want a documented build for trucks, vans and tractors. The price is the highest here, so confirm the roof fit first.",
     "specs": [
       "10,000 BTU, 12V rooftop",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41sgRlbxr-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GTSMRT42?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GTSMRT42?tag=rvgearlab-amz-20",
     "description": "The ICECOSMOS is a 12V, 10,000 BTU low-profile unit with PTC heating, a 5.5 inch slim body and 39 dB in Eco Mode. It leans on smart power management to hold battery draw down.\n\nAgainst the iRooVee, it lists a quieter Eco figure but less runtime detail. Against the Sunster, it is a single rooftop-style body rather than a split install.\n\nBest for small rigs where height and noise matter more than a stated hours figure. Ask for the amp draw before sizing your batteries.",
     "specs": [
       "10,000 BTU, 12V DC",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41jAmyBxhAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FDG8XSK2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FDG8XSK2?tag=rvgearlab-amz-20",
     "description": "The Sunster is a 12V split system rated at 12,000 BTU with a variable-frequency compressor, four modes and low-voltage protection. It connects directly to the battery and uses a steel exterior housing with an aluminum condenser.\n\nCompared with the iRooVee, it needs no roof cutout but needs indoor and outdoor parts joined. Compared with the Josbuynls, it is far larger in rated capacity and costs more.\n\nBest for conversions without a roof opening. Plan the line routing and install time before you buy.",
     "specs": [
       "12V split, 12,000 BTU",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41pBR4M40WL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GS4R995M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GS4R995M?tag=rvgearlab-amz-20",
     "description": "The Josbuynls is a 12V mini split with an indoor and an outdoor unit, listed at 600W with a cooling range of 500W to 2200W and a remote. Its evaporator fan is listed at 600 cubic meters per hour.\n\nCompared with the Sunster, it costs far less but states capacity in watts rather than BTU and gives less compressor detail. Compared with the iRooVee, it is for small cabins, not a full RV.\n\nBest for a truck cab or tiny van on a tight budget. It will not match the rated capacity of the rooftop units, so keep expectations modest.",
     "specs": [
       "12V mini split, 600W",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410E871agFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GL4J9WLB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GL4J9WLB?tag=rvgearlab-amz-20",
     "description": "The Tusoma is an 18,000 BTU heat-pump rooftop unit for 110 to 120V power, and its listing says it must connect to both 115V AC and 12V DC. That means it is not a battery-only 12V air conditioner.\n\nCompared with the iRooVee, it offers far more rated cooling and heating but needs shore power or a large generator. It is included only for readers weighing a 12V unit against a conventional heat pump.\n\nBest for owners who realize they have shore power and want year-round capacity. Skip it if you came here to cool without hookups.",
     "specs": [
       "18,000 BTU heat pump",

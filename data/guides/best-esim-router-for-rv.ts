@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31L1XUqMy5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GT4VH5M7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GT4VH5M7?tag=rvgearlab-amz-20",
     "description": "The GL.iNet GL-E5800 MUDI 7 is a 5G tri-band Wi-Fi 7 travel router with a Qualcomm X72 modem, built-in eSIM and two nano-SIM slots with dual standby. It adds a 2.5G Ethernet port, a 10 Gbps USB-C port and quad-path failover across Ethernet, repeater, tethering and cellular.\n\nAgainst the InHand CR602 it brings tri-band Wi-Fi 7 and a 13.5 hour battery with 30W PD fast charging. It suits RVers who want a pro-level portable router with every failover path.",
     "specs": [
       "5G, tri-band Wi-Fi 7",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41V72YNze-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H7WDKYHZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H7WDKYHZ?tag=rvgearlab-amz-20",
     "description": "The InHand Networks CR602 is a 5G Wi-Fi 7 BE3000 router with dual nano-SIM, an eSIM and a removable 10000mAh battery rated for up to 12 hours of 5G. It supports carrier aggregation, two 2.5G Ethernet ports and cloud management.\n\nCompared with the GL.iNet MUDI 7 it stresses configurable SIM priority and a swappable battery. It suits remote workers who need seconds-level failover between three SIMs.",
     "specs": [
       "Dual SIM plus eSIM",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/414UBkN-ppL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FNQ6VP9P?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FNQ6VP9P?tag=rvgearlab-amz-20",
     "description": "The GL.iNet GL-X3000 Spitz AX is a 5G cellular gateway and travel router with dual SIM slots and travel eSIM options for global 4G and 5G coverage. It brings OpenWrt-based GL.iNet software to a 5G unit.\n\nIt costs less than the MUDI 7 and InHand CR602 while keeping dual SIM flexibility and 5G speeds. It suits travelers who want a capable cellular router for a lower price.",
     "specs": [
       "5G cellular gateway",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/3141yCs4xoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CS2PMR76?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CS2PMR76?tag=rvgearlab-amz-20",
     "description": "The KuWFi 5G WiFi 6 eSIM is an unlocked portable hotspot router with a 6000mAh battery and 3000 Mbps Wi-Fi 6. It works with many carriers as an unlocked unit.\n\nIt is smaller and less expensive than the GL.iNet and InHand units, though it offers fewer failover paths. It suits solo travelers who want a pocket device.",
     "specs": [
       "5G Wi-Fi 6, 3000 Mbps",

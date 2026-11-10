@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41TVoduLorL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B087D7K48X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B087D7K48X?tag=rvgearlab-amz-20",
     "description": "The LifeStraw Personal 5-Pack puts bacteria removal at 99.999999 percent and parasite removal at 99.999 percent, and it filters to 1 micron for microplastics. Lab claims follow EPA, NSF and ASTM protocols per the page, and the straw is rated to 4,000 liters, which is 1,000 gallons.\n\nIt names its test protocols, which no other pack here does, and it states the highest bacteria percentage. The Practical Survival packs rate their filters for more gallons, yet the LifeStraw leads on documentation.\n\nIt suits families and kit builders who want a recognized brand for every person. The five-pack lets everyone carry their own.",
     "specs": [
       "99.999999% bacteria claim",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51hAvBvtxrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GTDRN17R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GTDRN17R?tag=rvgearlab-amz-20",
     "description": "The Advenlution 5-Pack uses a 0.1 micron hollow fiber membrane that the page says filters microplastics, sediment and turbidity. Each straw is rated up to 1,600 gallons at about 2 oz, individually sealed, with a backflushing plunger and an emergency whistle.\n\nNeither the Practical Survival nor the Lormandy page describes a plunger, so this is the one that can be maintained. It costs less than the Practical Survival 5-Pack at a similar lifespan.\n\nA good fit for groups wanting a maintenance tool and a whistle with every straw. The sealed packaging keeps them clean in a kit.",
     "specs": [
       "0.1 micron hollow fiber",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/518nGwoTuLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B72JVNFC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B72JVNFC?tag=rvgearlab-amz-20",
     "description": "The Practical Survival 2-Pack holds two reusable straws, each 8 inches long and 2 oz. The maker puts bacteria and parasite removal above 99.99 percent and the life at up to 1,800 gallons, which it equates to about ten years of use.\n\nThat 1,800 gallon figure is the longest on this list, and the page names Legionella as well as E. coli. Against the LifeStraw, it comes as a pair rather than five and cites no test protocols.\n\nIt suits solo hikers and couples who want a long-life pair at a lower price than the large packs. The 8 inch length reaches into a stream.",
     "specs": [
       "Two 2 oz, 8 inch straws",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51xQGXWzmNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FQV7RNGY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FQV7RNGY?tag=rvgearlab-amz-20",
     "description": "The Lormandy 3-Pack lists a 0.1 micron filtration accuracy with 99.9999 percent removal, a flow of about 800 ml per minute and a weight under 1.8 oz. The BPA-free ABS body passed triple filtration testing before shipping, according to the page.\n\nIts flow is the highest here and it is lighter than the 2 oz Practical Survival straws. It is also sold in an 8-pack for larger households.\n\nIt suits small households wanting an easy-sipping straw at a modest price. It works at the source or on a bottle.",
     "specs": [
       "0.1 micron, about 800 ml per minute",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/516jg3IK2fL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CWRRRXKW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CWRRRXKW?tag=rvgearlab-amz-20",
     "description": "The Timain straws use a four-stage system of ultrafiltration membrane, filter mesh and activated carbon, and are sold in packs of two or six. The page says they process up to 1,000 gallons and connect to 28mm threaded bags and bottles or to a backpack hydration setup.\n\nA 7-core umbrella cord and a silicone hose come in the box, which none of the other packs include. The 1,000 gallon figure is the shortest of the five.\n\nIt suits kit builders who want cord and tubing alongside the straws. The six-pack covers a large family.",
     "specs": [
       "Four-stage with carbon",

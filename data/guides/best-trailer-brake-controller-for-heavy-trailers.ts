@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41fhKtKYusL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CC2X8M7X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CC2X8M7X?tag=rvgearlab-amz-20",
     "description": "The CURT TriFlex Next is a proportional inertia controller with a triple-axis accelerometer, and the third axis adds power adjustments when going up or down a hill. It operates 2-8 trailer brakes, listed as 1-4 axles in its bullets and 2-4 axles in the title.\n\nIt is the only pick here from a major brand, and it is the priciest by a wide margin over the Timilge 8508211 and Bydorunce 8508211. Hill-aware braking is the real difference for heavy loads, though the listing does not state a weight rating.\n\nBest for a loaded tandem or triple-axle trailer on hilly routes. Confirm single-axle support if you plan to use it on a lighter trailer.",
     "specs": [
       "Triple-axis proportional",
@@ -55,7 +55,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41uIvKDiGnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G5Y6KPSN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G5Y6KPSN?tag=rvgearlab-amz-20",
     "description": "The cermep controller is sold as a direct replacement for the Tekonsha 90160 Primus IQ and is listed for 1-3 axle trailers. It uses an inertia sensor, a real-time diagnostic display and ships with a snap-in clip and adjustable bracket with 180 degrees of rotation.\n\nIt is a clone, so support runs through a smaller seller than Tekonsha. Compared with the CURT TriFlex it loses a fourth axle and hill logic but costs about half, and it beats the 8508211 clones by offering mounting hardware with a stated brand lineage.\n\nBest for a heavy single or tandem trailer where proportional braking matters and four axles are not needed.",
     "specs": [
       "Proportional, 1-3 axles",
@@ -84,7 +84,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31mAbZVjY5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B45R82Z4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B45R82Z4?tag=rvgearlab-amz-20",
     "description": "The Timilge 8508211 is a proportional controller for 1 to 4 axle trailers (2 to 8 brakes) with an LED display showing voltage to the brakes. The listing describes wiring ports for vehicle-specific harnesses and a four-wire color code.\n\nIt works much like the Bydorunce 8508211 below, but the Timilge is slightly pricier and puts more weight on explaining the wiring colors. Against the cermep 90160 it supports a fourth axle, in exchange for a plainer listing.\n\nBest for a heavy trailer with three or four axles on a tight budget. You will need to check the manual for boost and override details.",
     "specs": [
       "Proportional, 1-4 axles",
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/415QR3gCR-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GV3YDF2D?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GV3YDF2D?tag=rvgearlab-amz-20",
     "description": "The Bydorunce 8508211 is a proportional controller for 1-4 axle trailers with a 2-8 brake range. Its listing highlights adjustable boost settings, a manual override lever, an LED display and no leveling for under-dash mounting.\n\nIt beats the Timilge 8508211 on stated controls because it names boost and override, and it is cheaper. Both are clone-style, and neither gives a weight rating.\n\nBest for heavy trailers when you want boost to bite earlier. Check that its connector matches your harness before buying.",
     "specs": [
       "Proportional, 1-4 axles",
@@ -142,7 +142,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41MUC2xTNGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DM9PNTMQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DM9PNTMQ?tag=rvgearlab-amz-20",
     "description": "The Gihdfer Towpower 8507111 is a time-delayed controller with an LED display showing braking force. It comes with a mounting bracket, six screws and instructions.\n\nTime-delay units ramp on a preset schedule instead of following deceleration, which is a weaker match for heavy trailers than any proportional pick above. The listing says delay reduces jerky braking, but it does not state axle ranges.\n\nBest for a lighter trailer or a spare controller. We would not choose it as the main controller on a loaded heavy trailer.",
     "specs": [
       "Time-delayed activation",
@@ -171,7 +171,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/413wJ-MfTEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G34GC988?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G34GC988?tag=rvgearlab-amz-20",
     "description": "The HocvrlX 8507111 is a time-delay controller listed for vehicles with 1 to 4 axles, supporting 2, 4, 6 or 8 brake systems. It has an LED status light for braking force and a 180-day quality guarantee.\n\nIt is the lowest-priced pick here and covers the full brake range, which the Gihdfer 8507111 does not state. Like it, it uses a timed ramp, so it ranks last for heavy loads.\n\nBest only for a light trailer on a very small budget. Check the part number before purchase, as the listing itself says to do.",
     "specs": [
       "Time-delay, 1-4 axles",

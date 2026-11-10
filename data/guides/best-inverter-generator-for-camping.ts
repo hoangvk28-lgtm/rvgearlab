@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41pN78FIAdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FSD2SJJP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FSD2SJJP?tag=rvgearlab-amz-20",
     "description": "The PowerSmart 3800 is a dual fuel inverter generator rated 3,800 starting and 3,300 running watts on gasoline, and 3,500 and 3,100 on propane. It lists 59 dBA at 25% load in Eco Mode, 8 hours on its 1.3 gallon tank, up to 24 hours on a 20 lb propane tank, and an L5-30R 30A outlet.\n\nAt $459.99 it costs $100.01 more than the RINADURS 2800, but it adds propane, a 30A outlet and 800 more running watts. Pick this if you run an RV air conditioner or want one fuel on the shelf. It is the heaviest of the premium options, and the listing gives no weight.",
     "specs": [
       "3,300W running on gas",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41NkO4kMexL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DR8H7NWR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DR8H7NWR?tag=rvgearlab-amz-20",
     "description": "The RINADURS 2800 delivers 2,800 starting and 2,500 running watts from a 122cc engine, with a 1.5 gallon tank good for up to 10 hours at 25% load. It weighs 45.6 pounds, has two 20A household outlets, 12V DC, USB A and USB C, and a CO sensor.\n\nAt $359.98 it is $97.80 above the Oxseryn 4400 but 900W lower in running output and 10.4 pounds lighter. Pick this if you camp with a fridge, fans and chargers rather than an air conditioner. It has no 30A RV outlet, so you need an adapter to plug an RV cord into the household outlet.",
     "specs": [
       "2,500W running, 45.6 lb",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51q0ZK+ixwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FQ5BB6SS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FQ5BB6SS?tag=rvgearlab-amz-20",
     "description": "The Oxseryn 4400 is rated 4,400 peak and 3,400 running watts, with two 120V ports, a 12V DC port and an RV port. It holds 2 gallons, shows a fuel gauge and lists up to 14 hours at 25% load with ECO mode.\n\nAt $262.18 it costs $97.80 less than the RINADURS 2800 and gives 900 more running watts, but its noise is rated under 72 dBA from 23 feet and it weighs 56 pounds. Pick this if you need to start a rooftop air conditioner on a budget. It is an open frame design, so expect more noise than the enclosed units.",
     "specs": [
       "3,400W running, 4,400W peak",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51koa2UZ87L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B6NPLQH7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B6NPLQH7?tag=rvgearlab-amz-20",
     "description": "The AIVOLT 1600 is a 1,600 watt starting unit with a 60cc four stroke engine, rated 8 hours at 25% load and 2 hours at full load. It is 28 pounds, runs at 57 dBA at 23 feet, and has two 120V outlets, two USB ports (A and C), parallel capability and a CO shutoff.\n\nAt $254.96 it is $24.33 cheaper than the AIVOLT 1750 but runs one hour longer at 25% load. Pick this if a fridge, lights and phones are the whole load. Check the running watt number on the listing, since only the starting watts are in the title.",
     "specs": [
       "1,600W start, 28 lb",
@@ -133,7 +133,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41IfSnOTHlL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GXXZT82D?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GXXZT82D?tag=rvgearlab-amz-20",
     "description": "The AIVOLT 1750 produces 1,350 running and 1,750 peak watts with less than 3% THD and a 26.5 pound body. It is rated 52 dBA, up to 7 hours at 25% load on a 0.66 gallon tank, and shuts off automatically if its CO sensor trips.\n\nAt $279.29 it costs $24.33 more than the AIVOLT 1600 but is quieter (52 dBA against 57) and 1.5 pounds lighter, and it runs one hour less at 25%. Pick this if campground quiet hours matter more than runtime. The listing does not state the distance for its 52 dBA figure, so treat it as a best case.",
     "specs": [
       "1,350W running, 1,750W peak",
@@ -160,7 +160,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ODNQh6i+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09GTKMG2F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09GTKMG2F?tag=rvgearlab-amz-20",
     "description": "The GENMAX GM1200i is the smallest, rated 1,200 starting watts with a 57cc 4 stroke engine at 25.3 pounds. It lists 58 dBA at 25% load measured at 23 feet, 6.5 hours at 50% load on a 0.66 gallon tank, and a CO detect shutdown.\n\nAt $279.99 it costs $0.70 more than the AIVOLT 1750 and delivers less power, with the one 20A outlet and a 5V USB outlet. Pick this if you pack by weight and only charge devices and run lights. It only just stays ahead on weight, and it cannot run a coffee maker and a fridge at the same time.",
     "specs": [
       "1,200W start, 25.3 lb",

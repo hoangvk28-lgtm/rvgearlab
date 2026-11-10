@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41PdS-Vy+yL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CWCYW93X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CWCYW93X?tag=rvgearlab-amz-20",
     "description": "The Sinvitron lists 1000 lumens, a 5200mAh battery and a remote that works up to 10 meters. It offers five lighting modes with stepless dimming and an IPX5 water-resistant body.\n\nAgainst the Yonktoo it gives up some battery size, since 5200mAh sits below the Yonktoo's 6400mAh. Next to the LeKaufen and Jearytop it has the clearest mix of remote range, stepless dimming and a rain rating.\n\nIt suits campers who want one dependable tent light they can dim from bed. The emergency use named in the listing makes it a good power-outage backup too.",
     "specs": [
       "1000 lumens, 5200mAh battery",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41r62ZGdhOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DBZD462P?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DBZD462P?tag=rvgearlab-amz-20",
     "description": "The Yonktoo lists a 6400mAh battery rated up to 300 hours on the lowest setting and 1000 lumens at the top. The remote works from up to 10 meters and controls on and off, modes and brightness.\n\nIt carries the largest battery of the group and is the most compact, at 3 x 3 x 2.5 inches and 8 ounces. That beats the Sinvitron on capacity and pack size.\n\nIt suits multi-day trips where recharging is not guaranteed. Cool, natural and warm white plus red and SOS cover reading, relaxing and night use.",
     "specs": [
       "6400mAh, up to 300 hours low",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41CRJwc40OL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CY1N3JSV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CY1N3JSV?tag=rvgearlab-amz-20",
     "description": "The LeKaufen is a solar camping lantern with 120 LED bulbs, listed at 4000 lumens and 12 hours of run time on a full charge. It charges by USB cable or by solar and includes a remote for five modes.\n\nIt is the only remote model here that can recharge from the sun, which the Sinvitron and Yonktoo cannot. It also lists the highest lumen figure of the four.\n\nIt suits campers who want a back-up charging route on longer trips. A hook lets you hang it upside down to light a wide area.",
     "specs": [
       "4000 lumens, 120 LEDs",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/413eUg3bHWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H6WHMSTX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H6WHMSTX?tag=rvgearlab-amz-20",
     "description": "The Jearytop is a set of five hanging bulb lights with a remote and a timer function. Each light has three brightness levels, an IPX4 rating and a closed hook, and runs 7 to 15 hours on a USB charge.\n\nIt is the only multi-light set here, so one remote covers a whole campsite, which the single Sinvitron and Yonktoo cannot do. Each bulb measures 2.4 by 7.2 inches.\n\nIt suits group sites where you want light at the tent, table and trail. The retro filament look makes it a good fit for string-style ambience.",
     "specs": [
       "Five lights with one remote",

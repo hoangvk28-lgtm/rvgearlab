@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/316afHYMPjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08VBGXF5S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08VBGXF5S?tag=rvgearlab-amz-20",
     "description": "The MAXXAIR Maxx II is a one-piece cover made of high density polyethylene with maximum UV protection. Its aerodynamic design reduces wind resistance, and it mounts on most popular 14 by 14 inch standard roof vents.\n\nThe exclusive Zero-Leak Mounting System means you do not drill any holes in the roof, and a 6 year limited warranty backs it. Rain, bugs and leaves stay out while stale air, smoke and cooking odors escape. It suits owners who want to leave vents open in the rain and avoid roof drilling.",
     "specs": [
       "14 x 14 inch vents",
@@ -53,7 +53,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21MGTTBHUyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CL5BZTC1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CL5BZTC1?tag=rvgearlab-amz-20",
     "description": "The MAXXAIR Maxx I+ has a sleek, updated design with a Zero-Leak mount and fits many popular 14 by 14 inch RV roof vents. The listing stresses hassle-free installation and zero-leak protection.\n\nCompared with the Maxx II in black, the Maxx I+ comes in white, which blends with most RV roofs and stays cooler. It costs less while keeping the Zero-Leak system. It suits owners who want a white rain guard from a known vent brand at a lower price.",
     "specs": [
       "White, Zero-Leak mount",
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31tg2ka+YFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CC4L1QWB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CC4L1QWB?tag=rvgearlab-amz-20",
     "description": "The Jack Boss Cover measures 14 by 14 by 3.25 inches and ships with 13 screws, 13 nuts, a mini wrench and a mini screwdriver. It is made of UV-resistant polypropylene with a reinforced center support beam.\n\nUnlike the MAXXAIR covers, which sit over the vent, the Jack Boss replaces the lid itself on vents such as Ventline models before 2008. The low profile and included hardware make it a one-box fix. It suits owners with a cracked or missing vent lid who want parts included.",
     "specs": [
       "14 x 14 x 3.25 inches",
@@ -109,7 +109,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31obVprDjNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07LBBVPHM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07LBBVPHM?tag=rvgearlab-amz-20",
     "description": "The Camp'N Lid is a 14 by 14 inch replacement cover compatible with Ventline roof vents before 2008 and Elixir vents. It is manufactured from impact resistant plastics for long life.\n\nIt carries a lower price than the Jack Boss Cover, though it does not list the included hardware. The easy-install design aims to reduce time on the roof. It suits owners on a budget who just want a replacement lid.",
     "specs": [
       "14 x 14 inch lid",

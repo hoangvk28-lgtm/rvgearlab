@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41xlK5BqAFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GK8D7TYN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GK8D7TYN?tag=rvgearlab-amz-20",
     "description": "The NXONE is a pop-up baby beach tent with a silver-coated inner layer that blocks up to 98% of UV rays, mesh panels for airflow and an easy-open door with no zipper. It includes built-in sandbags, ground stakes and guy lines, plus water-repellent fabric.\n\nThe no-zipper door and low window height are aimed at small children, which sets it apart from the Pivoryla's three-way zipper. Compared with the Monobeach, it adds built-in sandbags and guy lines for windy sand.\n\nIt suits parents of babies and toddlers who want a tent designed around small children. The roomy storage bag keeps the pack-away simple.",
     "specs": [
       "UPF 50+, 98% UV block",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41taNXgLtEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C379JV3R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C379JV3R?tag=rvgearlab-amz-20",
     "description": "The Kapeazo opens to 54 by 35 by 26 inches, which the listing calls larger than most baby tents. It is made of 190T nylon with a full surrounding silver coating, UPF 50+ blocking 98% of UVA and UVB, and it comes with four pegs and a carry bag.\n\nIt is bigger than the Tiny Land and Pivoryla, and the listing says it pops up in about three seconds after first use. Against the NXONE it costs less and swaps built-in sandbags for four pegs.\n\nIt suits parents of toddlers who need room to sit and play. A diaper bag can sit in the corner.",
     "specs": [
       "54 x 35 x 26 in open size",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51zvg57Q8aL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GJ3DY3P6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GJ3DY3P6?tag=rvgearlab-amz-20",
     "description": "The Dsquu combines a baby beach tent, a ceiling fan with a solar panel and 4000mAh battery, and a baby splash pool area. It uses 210D Oxford polyester with UPF 50+ silver coating and mesh sides of 220 holes per square inch.\n\nIt is the only tent here with an active fan, which adds cooling the passive-mesh tents lack. Compared with the Monobeach, it also offers a splash area and adds the solar fan with 210D fabric.\n\nIt suits parents on hot beaches who want some airflow in a small tent. The mesh sides add visibility.",
     "specs": [
       "Solar fan, 4000mAh battery",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41bo6OQP7RS._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01K15UQ4I?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01K15UQ4I?tag=rvgearlab-amz-20",
     "description": "The Monobeach is a pop-up baby tent designed for children under three with a mini pool bottom so a baby can play in the water. It opens to 47.2 by 30.3 by 23.6 inches, carries UPF 50+ protection and ships with four pegs and a carry bag.\n\nIts water-play floor is the main difference from the Kapeazo and Tiny Land, which are plain play tents. Next to the Dsquu it skips the fan and costs about the same.\n\nIt suits parents who want shade and a shallow splash area in one pack. Place it on level ground and supervise any water play.",
     "specs": [
       "47.2 x 30.3 x 23.6 in open",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51C9fEemIiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GCD9LWTJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GCD9LWTJ?tag=rvgearlab-amz-20",
     "description": "The Tiny Land is a pop-up baby tent that measures 35.4 by 27.6 by 31.5 inches according to its title, with UV protection and a design for portable beach days. It is among the smaller tents here, with a tall 31.5 inch height.\n\nIts 31.5 inch height is taller than the Kapeazo and Monobeach, which helps with a seated toddler. Compared with the Pivoryla, it costs more with a similar footprint.\n\nIt suits parents who want a compact pop-up for an infant or a seated toddler. It folds into a portable shape for travel.",
     "specs": [
       "35.4 x 27.6 x 31.5 in",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51h-tfEC-EL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GRRHTD87?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GRRHTD87?tag=rvgearlab-amz-20",
     "description": "The Pivoryla measures 37 by 29 by 33 inches and weighs 1.2 lb, with a heat-reflective silver coating and tear-resistant mesh. It has a 3-way zipper, three reinforced sand pockets and instant-deploy setup with no assembly.\n\nIt is the lowest priced baby tent here and the only one that lists its weight. Compared with the NXONE, it replaces the zipper-free door with a three-way zip, while keeping sand pockets for anchoring.\n\nIt suits budget parents who need a light travel shade for beach days. The sand pockets give it basic wind resistance.",
     "specs": [
       "37 x 29 x 33 in, 1.2 lb",

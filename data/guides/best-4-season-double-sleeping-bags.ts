@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51yWnoveA3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08BDH2TZ9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08BDH2TZ9?tag=rvgearlab-amz-20",
     "description": "The SereneLife double lists a temperature rating down to 5 to 10F, which is the coldest claim of the four. Hollow cotton fill sits under a 210 thread count lining, and the weight is stated at 7.82 lb with a compression carry bag.\n\nThat 5 to 10F claim is far lower than the AGEMORE's 32 to 59F range, and it splits into two single bags if one sleeper runs warm. Two detachable pillows, two phone pockets, anti-snag zippers and a foot vent come with it.\n\nIt suits couples who camp into late fall and want the extras built in. The price sits in the middle of the group.",
     "specs": [
       "Rated down to 5 to 10F",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41xcMFP4NAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DLL28ZNY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DLL28ZNY?tag=rvgearlab-amz-20",
     "description": "The AGEMORE is a queen double with 3D synthetic fiber filling, a brushed flannel lining and a printed temperature range of 32 to 59F. Zipper and shoulder draft tubes combine with a mummy hood and drawstring, and it weighs 7.9 lb.\n\nCompared with the SereneLife, its range stops at a milder low end, and the draft tubes at the zipper and shoulders plus the hooded drawstring address the shared-air problem directly. A compression sack is included.\n\nIt suits couples who want a clearly stated range and good seal around the shoulders. It splits into two extra large singles.",
     "specs": [
       "32 to 59F printed range",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/419vmBl5dgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CTQJSG18?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CTQJSG18?tag=rvgearlab-amz-20",
     "description": "Naturehike unfolds this double to 87 by 63 inches and gives it three modes: a double cover with a wrap-around zipper, an inner single cover with buttons for summer, and a full-winter setting. It adds two pillows, a flannel plaid lining and a backpack-style carry design.\n\nWhere the SereneLife and AGEMORE publish a number, the Naturehike lets you change the insulation with the season, which is the closest thing here to a true four-season idea. It is also the most expensive of the four.\n\nIt suits couples who camp from spring through fall and are happy to learn the modes. Practice the setup at home first.",
     "specs": [
       "87 x 63 inch, three modes",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/516aLSClEmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DT3N8Q4T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DT3N8Q4T?tag=rvgearlab-amz-20",
     "description": "The ETGLCOZY has a flannel liner, a Thermolock draft tube and a dual-zipper system that converts it into two bags or two blankets. A bottom vent and a storage bag round it out, and it is waterproof and machine washable.\n\nNo other pick here costs less, and it is the easiest to wash, and it shares the AGEMORE's draft tube idea while printing less detail on temperature. Another listing of the same bag exists at a slightly higher price.\n\nIt suits budget couples who camp in cool rather than cold weather. The listing describes it as warm in cool to cold conditions.",
     "specs": [
       "Flannel liner, draft tube",

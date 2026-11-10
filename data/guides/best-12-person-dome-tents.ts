@@ -32,7 +32,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31OSuBCOezL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D96KVD1F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D96KVD1F?tag=rvgearlab-amz-20",
     "description": "The Coleman Skydome XL is sold as an 8 or 12 person dome tent with pre-attached poles and a setup time of under five minutes with two people. The extended interior fits four queen airbeds and includes a room divider, two doors and nearly vertical walls for headroom. At $329.99 it is the larger of the two products.\n\nIt is the only pick in this guide that names a 12 person capacity and the only one with a room divider, which lets a big group split the space into two sleeping areas. The WeatherTec system adds a tub-like floor, welded corners and inverted seams, so the tent is built to keep water out as well as fit people in.\n\nIt is the pick for large families, scout groups and reunion hosts who want a classic dome with weather features, quick setup and enough floor for several airbeds.",
     "specs": [
       "8 or 12 person dome",
@@ -62,7 +62,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51wl+7VU5qL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FSCKGZBT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FSCKGZBT?tag=rvgearlab-amz-20",
     "description": "The VEVOR bubble dome is a pop-up clear tent measuring 12 by 11.1 feet with 540 degree panoramic panels. It uses upgraded TPU panels, 300D Oxford, steel-wire and fiberglass support, heat-sealed bonding and dual roll-up windows. At $197.90 it costs about 40 percent less than the Coleman.\n\nWhere the Coleman is a sleeping tent, the VEVOR is a social shelter: the clear panels give a view of the sky and the campsite, and the pop-up design deploys in minutes. The heat-sealed and double-stitched construction adds durability for repeated use, and the dual roll-up windows help with airflow.\n\nIt is the pick for groups who want a clear gathering space at the campsite, a stargazing dome or a bug-free lounge next to the RV.",
     "specs": [
       "12x11.1 ft clear dome",

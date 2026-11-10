@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41rF5vqXy1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F8MSL2XM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F8MSL2XM?tag=rvgearlab-amz-20",
     "description": "The PURENAT RV Water Filter System ships with a 10-inch compound filter, thick age-resistant housing and lead-free 3/4 inch brass fittings with O-ring seals. The outer layer is high-precision polypropylene over a carbon core.\n\nUnlike the empty housings below, it works out of the box, and its compound cartridge means you replace only the inner core, which the listing says costs less than 15.99. Double O-rings and a positioning mark help the housing seal.\n\nThe best starting point for RVers who want a hose-connected 10-inch system without sourcing parts. The lower core replacement cost keeps it economical over several seasons.",
     "specs": [
       "10 inch compound filter",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31F50QwjmKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F5WJGKC2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F5WJGKC2?tag=rvgearlab-amz-20",
     "description": "The VEVOR RV Water Filter uses a 5-micron PP cotton cartridge and a 5-micron CTO carbon cartridge in 2.5 by 10 inch format. Its listing gives a flow rate of 2.9 GPM and a capacity of 4,500 gallons.\n\nCompared with the PURENAT, it runs two cartridges in series, so sediment and carbon are handled separately. It ships with a hanger, a brass NPT 1/2 inch fitting and an accessory set.\n\nA strong choice for buyers who want staged 5 micron filtration and a documented flow figure in one 10-inch kit. The hanger makes it easy to fix inside a bay or on a wall.",
     "specs": [
       "Two 2.5 by 10 inch cartridges",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4159hrbLO4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C7SPVNHB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C7SPVNHB?tag=rvgearlab-amz-20",
     "description": "The Pro Water Parts Clear RV Filter Housing is a standard 10-inch clear housing with 1/2 inch ports, a heavy-duty metal bracket and a plastic wrench. A 5 micron high-efficiency carbon filter is included for chlorine, VOC and sediment reduction.\n\nIt sits above the H&G Lifestyles housing because it comes with a filter and replaces the FRE-10H format found in many RVs. The clear body shows you at a glance when sediment has built up.\n\nRight for owners swapping a stock Forest River-style housing who want to see their cartridge condition. The included filter means it can go in service the day it arrives.",
     "specs": [
       "Clear 10-inch housing",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31UGuSU0zYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DWZNPCSL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DWZNPCSL?tag=rvgearlab-amz-20",
     "description": "The Pro Water Parts 2-pack is a pair of 2.5 by 10 inch activated carbon block push-nipple cartridges that replace the FRE-10-GN. The listing reports reduction of VOCs, cysts and fine sediment at a 2.5 GPM flow rate.\n\nUnlike the VEVOR kit, this is a cartridge pair for an existing housing, specifically FRE-10H units. The push-nipple seal is designed to eliminate bypass, keeping the carbon doing its job.\n\nIdeal for owners of FRE-10H housings who want a matching replacement carbon block. Buying two at a time keeps a spare ready for the next change.",
     "specs": [
       "Activated carbon block",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31t9CLqXpNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FBP9GFRQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FBP9GFRQ?tag=rvgearlab-amz-20",
     "description": "The Watts Flow-Pur 10-inch VOC carbon block is described as an absolute pleated sediment filter with a 1 micron rating. It fits most industry standard 10-inch housings and improves taste while removing VOCs.\n\nIt offers the finest rating on this list for a standard 10-inch slot, which the 5 micron VEVOR and Pro Water Parts cartridges cannot match. Watts has supplied water technology since 1874.\n\nA good upgrade for anyone who already has a standard housing and wants a 1 micron element inside. The pleated build gives a lot of surface area for its price.",
     "specs": [
       "1 micron absolute rating",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31hwwcejPlL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DZ22CRJL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DZ22CRJL?tag=rvgearlab-amz-20",
     "description": "The H&G Lifestyles 10 by 2.5 inch housing is reinforced polypropylene with dual O-ring seals, a steel mounting bracket and a built-in pressure relief button. Its 3/4 inch NPT brass ports accept standard 10 by 2.5 cartridges from several brands.\n\nIt is the choice if you want to mix and match cartridges instead of buying the PURENAT's bundled setup. Included tools and screws mean you can mount it right away.\n\nBest for DIY RV plumbers who already have cartridges or want to choose their own media. The pressure relief button makes opening the housing easier.",
     "specs": [
       "10 by 2.5 inch housing",

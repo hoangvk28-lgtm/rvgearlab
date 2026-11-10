@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51jheiXVh7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07Z5CW8M9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07Z5CW8M9?tag=rvgearlab-amz-20",
     "description": "The Firebelly Outfitters kit includes a KDF and GAC cartridge, a brass regulator preset to 50 to 55 psi with a filter screen, and a hose protector. The inline filter is described as five stage and rated down to 20 microns.\n\nCompared with the Boltigen Kit above it in price, you give up the adjustable handle and extra fittings but keep a complete filter and regulator pairing for much less. Its fixed output means no pressure tuning.\n\nBest for first-time kit buyers who want filtering and protection in one inexpensive box. Fixed 50 to 55 psi suits most coaches but leaves little margin on a lower-rated system.",
     "specs": [
       "KDF and GAC filter cartridge",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51WrNbJOFnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C5C6Z2G7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C5C6Z2G7?tag=rvgearlab-amz-20",
     "description": "The RVINGPRO kit pairs a regulator with a filter certified by IAPMO R&T against NSF/ANSI 42 for material safety and chlorine reduction. The regulator is lead-free brass tested to under 0.13 percent lead, and the package includes a hose splitter, brass elbow and flexible connector.\n\nWhere the Firebelly Kit makes broad filtering claims, this one names a standard, which is more useful when you are comparing. It costs more than Firebelly but less than Boltigen.\n\nBest for buyers who want a verifiable filter standard and a warranty. The listing offers 3 months for returns and a 12 month warranty, which is a short window for a filter housing.",
     "specs": [
       "NSF/ANSI 42 chlorine claim",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/514AyJtVjPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H4LHZGQ3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H4LHZGQ3?tag=rvgearlab-amz-20",
     "description": "The Enkreefi kit has a regulator with a rotating handle and a gauge, adjustable over a 0 to 140 psi range, plus a five layer composite filter. It includes a flexible hose protector, a brass elbow and a Y-shaped splitter.\n\nCompared with the RVINGPRO Kit, you get adjustability and a gauge rather than a named filter standard. The listing describes a 3/4 inch NPT taper thread, which is not the same as garden hose thread, so verify fit before ordering.\n\nBest for people who want an adjustable regulator in a kit. The thread description is a real caution, so confirm it mates with your hose and spigot.",
     "specs": [
       "0 to 140 psi adjustable",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/513ElEKXwJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CN8KZ54K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CN8KZ54K?tag=rvgearlab-amz-20",
     "description": "The Boltigen kit combines an adjustable-handle regulator with a gauge and an inline filter using granular activated carbon and KDF media. The box adds a hose splitter, a brass elbow, a flexible connector and two quick connects.\n\nIt is the most fully equipped bundle here, ahead of the Enkreefi Kit on extras such as the quick connects. It costs more than the cheaper picks and the listing does not name a filter certification.\n\nBest for owners who want the most hookup hardware in one purchase. Check which of the fittings you will actually use.",
     "specs": [
       "Adjustable handle regulator",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ArDnmRqPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GZKY1228?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GZKY1228?tag=rvgearlab-amz-20",
     "description": "The Camco Tastepure Freshwater Kit includes the Tastepure filter with a flexible hose protector, a brass regulator, a 25 foot EvoFlex drinking water hose and a hose storage basket. The hose is CSA lead-free certified to NSF/ANSI 372.\n\nUnlike the other kits here, which are mostly fittings and a filter, this one bundles a full hose and a basket. That makes it one of the two priciest kits and gives the least regulator detail, since the listing does not give a psi.\n\nBest for first-time RVers who would otherwise buy a hose, a filter and a regulator separately. The regulator's output is not stated in the listing, so check the package.",
     "specs": [
       "Tastepure filter with protector",

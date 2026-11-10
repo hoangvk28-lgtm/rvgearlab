@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31F4cpUyCcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F1SXDZT8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F1SXDZT8?tag=rvgearlab-amz-20",
     "description": "The SANTINY 3-Zip is a women's hiking and golf short in lightweight, quick-drying breathable fabric with UPF 50+ protection and a water-resistant coating. A 3 inch high-rise elastic waistband with internal drawstring, three zipper pockets and a choice of 5 or 7 inch inseam complete it.\n\nIt gives a stated UPF 50+ rating plus a high-rise waist that stays put on climbs, which the plain elastic pairs from zsenoxaxi and TrekChic do not list. Against the SANTINY 4-Pocket, it has more secure zipper storage.\n\nIt suits a woman who hikes in strong sun and wants a secure, high-rise short she can wear all day. Kayaking and biking are listed uses.",
     "specs": [
       "UPF 50+, water-resistant coating",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411PMkwg97L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F26P7F9R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F26P7F9R?tag=rvgearlab-amz-20",
     "description": "The SANTINY 4-Pocket is a women's hiking short made of lightweight, breathable, quick-dry fabric with 4-way stretch and a built-in UPF 50+ rating. It has a stretchy waistband with belt loops, a concealed zip fly and button, and four pockets including a deep back drop-in pocket and a zippered one for keys.\n\nIt adds belt loops and a concealed zip fly to the SANTINY 3-Zip, with 4-way stretch for climbs and scrambles. It sells for less than the 3-Zip with the same UPF 50+ claim.\n\nIt suits a woman who wants a tailored short with a button front and stretch for steps and rocks. The deep back pocket holds a phone.",
     "specs": [
       "UPF 50+, 4-way stretch",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41dQI3-2+8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DR8C15WF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DR8C15WF?tag=rvgearlab-amz-20",
     "description": "The zsenoxaxi Cargo Quick-Dry short is a lightweight, breathable, quick-dry short with water-resistant fabric and four pockets, including a zippered pocket, a hook-and-loop pocket and two deep pockets. An elastic waistband with adjustable drawstring fits it in place.\n\nIt carries more cargo-style storage than the SANTINY pairs and lists sun protection without a UPF number. It sits between the SANTINY 4-Pocket and the TrekChic Zip Cargo on price.\n\nIt suits a hiker who wants a cargo layout in a light, quick-drying short for camp and trail. The drawstring waist adjusts for layers or tops.",
     "specs": [
       "Quick-dry, water-resistant fabric",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/415jzyVGNCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FCD6D94Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FCD6D94Y?tag=rvgearlab-amz-20",
     "description": "The TrekChic Zip Cargo is a women's quick-dry cargo hiking short with lightweight, breathable, water-resistant fabric and multiple zipper pockets deep enough for a phone, keys and a wallet. The elastic waist with adjustable drawstring is designed to avoid pressure marks.\n\nIt beats the zsenoxaxi Cargo Quick-Dry on price while keeping zipper pockets, and it lists sun protection without a UPF number. It lacks the high-rise waist and UPF 50+ rating of the SANTINY pairs.\n\nIt suits a budget buyer who wants secure zipper pockets for hot hikes. The elastic and drawstring waist fits many body shapes.",
     "specs": [
       "Quick-dry, water-resistant fabric",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41i3Lh6TUWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DP1XW4FX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DP1XW4FX?tag=rvgearlab-amz-20",
     "description": "The Mancreda Lined Running short has a 95% polyester, 5% spandex outer and an 85% polyester, 15% spandex inner liner. A curve cut outer layer gives range of movement, and three invisible zipper pockets hold a phone, keys or a card.\n\nA built-in liner is the only feature here that prevents chafing without extra underwear, which the other shorts lack. It is a running short at heart, so it has no UPF listing and a lighter cargo layout than the zsenoxaxi.\n\nIt suits a woman who runs or hikes in hot weather and wants a liner and hidden pockets. The size guide lists S through XXL as US 4 to 20.",
     "specs": [
       "Built-in liner, curve-cut outer",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41f07IiNVSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C3R7DKDK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C3R7DKDK?tag=rvgearlab-amz-20",
     "description": "The Oalka Bermuda is a women's high-waisted workout short with a 10 inch inseam, an ultra soft stretchy breathable quick-dry fabric and a wide elastic high waistband. It has two deep slant pockets and one waistband back zippered pocket.\n\nA 10 inch inseam gives the most coverage of the six, which cuts thigh rub and sun exposure compared with the SANTINY 5 and 7 inch options. It is the cheapest pair and has fewer zipper pockets.\n\nIt suits a woman who wants extra thigh coverage and a smooth high-waist fit on hot hikes and walks. Bermuda length is described as cool for hot weather.",
     "specs": [
       "10-inch Bermuda inseam",

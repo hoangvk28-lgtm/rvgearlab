@@ -21,7 +21,7 @@ export const products = withAmazonUrls([
     badge: "Best overall",
     name: "ABOK Ark3600 Portable Power Station",
     amazonQuery: "ABOK Ark3600 Portable Power Station",
-    amazonUrl: "https://www.amazon.com/dp/B0F47FKBQ4?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0F47FKBQ4?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/51jCu3HF5wL._SL500_.jpg",
     specs: ["Capacity: 3,840Wh","Continuous output: 3,600W","Runtime claim: Up to 1.29 hours","Battery chemistry: LiFePO4"],
     specList: [{"label":"Capacity","value":"3,840Wh"},{"label":"Continuous output","value":"3,600W"},{"label":"Runtime claim","value":"Up to 1.29 hours"},{"label":"Battery chemistry","value":"LiFePO4"}],
@@ -36,7 +36,7 @@ export const products = withAmazonUrls([
     badge: "Best heavy-duty option",
     name: "BLUETTI Apex 300 Solar Generator & B300K",
     amazonQuery: "BLUETTI Apex 300 Solar Generator & B300K",
-    amazonUrl: "https://www.amazon.com/dp/B0FJ217T4P?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0FJ217T4P?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41VCKWq7F2L._SL500_.jpg",
     specs: ["Capacity: 2,764.8Wh","Battery chemistry: LiFePO4","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Capacity","value":"2,764.8Wh"},{"label":"Battery chemistry","value":"LiFePO4"},{"label":"Buyer check","value":"Verify current model compatibility"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -51,7 +51,7 @@ export const products = withAmazonUrls([
     badge: "Best compact option",
     name: "MARBERO Solar Powered Generator 88Wh, 120W Surge",
     amazonQuery: "MARBERO Solar Powered Generator 88Wh, 120W Surge",
-    amazonUrl: "https://www.amazon.com/dp/B0DFGZ5FSR?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0DFGZ5FSR?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/51iRMhbcUoL._SL500_.jpg",
     specs: ["Capacity: 88Wh","Surge output: 120W","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Capacity","value":"88Wh"},{"label":"Surge output","value":"120W"},{"label":"Buyer check","value":"Verify current model compatibility"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -66,7 +66,7 @@ export const products = withAmazonUrls([
     badge: "Best value pick",
     name: "AIVOLT 8000W Dual Fuel Inverter Generator 50A RV Generator",
     amazonQuery: "AIVOLT 8000W Dual Fuel Inverter Generator 50A RV Generator",
-    amazonUrl: "https://www.amazon.com/dp/B0GSDKNY3N?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0GSDKNY3N?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41QozbxH6mL._SL500_.jpg",
     specs: ["Continuous output: 6,100W","Surge output: 8,000W","Listed weight: 129 lb","Runtime claim: Up to 10 hours"],
     specList: [{"label":"Continuous output","value":"6,100W"},{"label":"Surge output","value":"8,000W"},{"label":"Listed weight","value":"129 lb"},{"label":"Runtime claim","value":"Up to 10 hours"}],
@@ -81,7 +81,7 @@ export const products = withAmazonUrls([
     badge: "Best backup pick",
     name: "P5000 Plus 5120Wh Portable Power Station, 3600W Solar Generator",
     amazonQuery: "P5000 Plus 5120Wh Portable Power Station, 3600W Solar Generator",
-    amazonUrl: "https://www.amazon.com/dp/B0GTCZLRWY?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0GTCZLRWY?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41kxtROuwFL._SL500_.jpg",
     specs: ["Capacity: 5,120Wh","Continuous output: 1,800W","Listed weight: 112 lb","Runtime claim: Up to 2.2 hours"],
     specList: [{"label":"Capacity","value":"5,120Wh"},{"label":"Continuous output","value":"1,800W"},{"label":"Listed weight","value":"112 lb"},{"label":"Runtime claim","value":"Up to 2.2 hours"}],
@@ -183,7 +183,7 @@ export const relatedGuides = [
 export const sources = [
   {
     "title": "ABOK Ark3600 Portable Power Station product page",
-    "href": "https://www.amazon.com/dp/B0F47FKBQ4?tag=rvgearlab-20&linkCode=osi&th=1&psc=1"
+    "href": "https://www.amazon.com/dp/B0F47FKBQ4?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1"
   },
   {
     "title": "CPSC carbon monoxide safety center",

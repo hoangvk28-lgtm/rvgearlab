@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31+gknOGFfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08HN13DMW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08HN13DMW?tag=rvgearlab-amz-20",
     "description": "The Hikeman footprint is made of 210D Oxford fabric with a 2000 millimeter PU waterproof coating and double reinforced edges. It measures 210 by 140 centimeters, which is about 83 by 55 inches, and weighs 0.48 pounds with its bag.\n\nIt fits a one or two person tent, and four woven corner straps let you stake it out. Compared with the 33 by 80 inch Frelaxy, it gives much more floor coverage, and compared with the YERGOFE it adds straps and reinforced edges.\n\nIt suits solo and two-person backpackers who want a light, simple ground cloth. Tuck any overhang under the tent so rain does not pool.",
     "specs": [
       "83x55 in, 210D Oxford, PU2000",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31caaCTzB7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CKWZ1T6L?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CKWZ1T6L?tag=rvgearlab-amz-20",
     "description": "The Frelaxy footprint comes in five sizes, and this listing is the 33 by 80 inch size at 0.36 pounds. It uses 190T PU3000 waterproof ripstop polyester with grommets and thickened straps.\n\nIts PU3000 rating is a step up from the 2000 millimeter sheets here, and its weight is the lowest of the five. It is also the narrowest, so it suits a bivy, a hammock or a one-person tent only.\n\nIt suits ultralight and hammock campers who want a minimal ground cloth. Larger sizes exist if you need a bigger tent footprint.",
     "specs": [
       "33x80 in, 190T PU3000 ripstop",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41uGD2HUQ2S._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08BYDGPWF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08BYDGPWF?tag=rvgearlab-amz-20",
     "description": "The BISINNA footprint is 210D Oxford with a PU coating rated to 2000 millimeters, measuring 140 by 210 centimeters. It weighs 10.58 ounces and packs to about 5 by 3 by 0.5 inches in a drawstring pouch.\n\nIt is nearly identical in size to the Hikeman, and it costs about $2 less. Its edge is a flatter packed shape, while the Hikeman adds corner straps.\n\nIt suits campers who want a flat, light sheet for desert sand or beach sites. Lay it under a one or two person tent.",
     "specs": [
       "140x210cm, 210D Oxford, PU2000",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31XS3mmxsIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DSPRJH83?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DSPRJH83?tag=rvgearlab-amz-20",
     "description": "The YERGOFE footprint measures 210 by 150 centimeters and weighs only 0.3 kilograms. It is sized for two-person tents and promises protection from rocks, moisture and sand.\n\nAt 150 centimeters wide it is a little roomier than the Hikeman and BISINNA, which helps if your two-person tent has a vestibule. It costs more than both of them, and it has fewer stated specs.\n\nIt suits couples who share a two-person dome tent. It folds into a built-in drawstring bag.",
     "specs": [
       "210x150cm, about 0.3 kg",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31WiQMt6uyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H36YLGRB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H36YLGRB?tag=rvgearlab-amz-20",
     "description": "The Opvixi footprint is 118 by 118 inches (300 by 300 centimeters) in 210T polyester with a silver waterproof coating. It has reinforced rope holes and comes with a storage bag.\n\nIt is by far the largest sheet in this group, which makes it useful for family tents or as a shared groundsheet. It uses 210T fabric, which is thinner than the 210D Oxford models.\n\nIt suits car campers who want a big sheet under a four to six person tent. It also works as a picnic mat or a sunshade.",
     "specs": [
       "118x118 in, 210T silver coated",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/412+dzwvEQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01N5O7551?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01N5O7551?tag=rvgearlab-amz-20",
     "description": "The MSR PocketRocket 2 is a canister stove that needs no priming, preheating or pressurizing, according to its listing. The flame adjusts from a simmer to a rolling boil, and the listing quotes 3.5 minutes per liter.\n\nNext to the Odoland 3500W it lacks an igniter, and its self-sealing canister fuel is sold in most countries. The serrated pot supports fit a wide range of pot styles.\n\nIt suits beginners who want a trusted brand and the fewest steps from box to boil. A lightweight protective case is included.",
     "specs": [
       "2.6 oz, no priming",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41oxFcZEApL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0829RKQXZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0829RKQXZ?tag=rvgearlab-amz-20",
     "description": "The Odoland 3500W is a foldable stove with a piezo igniter, a flame controller and a built-in windshield. The listing says it boils 1 L in around 3 minutes and fits 7/16 thread single propane or butane-propane canisters (EN 417).\n\nPiezo ignition makes it easier for a newcomer than the MSR PocketRocket 2, and two connectors cover more canister types. It comes with a carrying case.\n\nIt suits beginners who want the simplest start and the lowest price of the two stoves. Wind protection helps in breezy campsites.",
     "specs": [
       "3500 W, piezo ignition",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41F0AAPilZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07Q5WCNDJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07Q5WCNDJ?tag=rvgearlab-amz-20",
     "description": "The Odoland 6-Piece Kit is a boxed starter set built from anodized aluminum, with two pots, a folding stove and a spork. Its stove and pot handles fold to save space, and a mesh carry bag and cleaning cloth are included.\n\nWhere the MSR PocketRocket 2 is a stove only, this kit adds the cookware, so a first-time buyer is ready to cook. The listing says a gas tank fits inside the nested set.\n\nIt suits beginners who would rather buy one box than shop for pots. It suits trips for one to two people.",
     "specs": [
       "2 pots, stove, spork",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hybCmWPwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07NJYV3NP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07NJYV3NP?tag=rvgearlab-amz-20",
     "description": "At a very low price, the AOTU screws onto 7/16 thread canisters, lights with a piezo igniter and uses an adjustable valve to go from simmer to full heat. A honeycomb windproof net sits around the burner, and it ships in a small plastic box.\n\nIt costs the least of the stoves here, so a beginner can try backpacking cheaply. The listing says it fits butane or butane-propane canisters and not propane-only ones.\n\nIt suits beginners who want a spare stove or a low-risk first purchase. A satisfaction guarantee is listed.",
     "specs": [
       "Piezo ignition, 3000 W",

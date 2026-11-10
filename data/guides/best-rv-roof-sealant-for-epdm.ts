@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31KPb724qVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B019QGSE4C?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B019QGSE4C?tag=rvgearlab-amz-20",
     "description": "Dicor 551LSB-1 is a HAPS-free 10.3 ounce black non-leveling lap sealant that gives a secondary seal along roof edges and termination rails. The listing says it is compatible with EPDM, TPO and PVC and bonds to aluminum, galvanized metal, fiberglass, vinyl and wood.\n\nAgainst CUKWUYBY 4 Pack, it is non-leveling for edges while CUKWUYBY self-levels for horizontal laps. Against Kohree 2 Pack, it names the EPDM membrane list directly.\n\nIt is the best match for EPDM roof edges and termination bars. Think of it as the pick for epdm roof edges.",
     "specs": [
       "10.3 oz black non-leveling",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51PDBD+IBmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GZ48PGP8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GZ48PGP8?tag=rvgearlab-amz-20",
     "description": "CUKWUYBY 4 Pack is a self-leveling RV roof sealant that the listing says levels within 30 seconds of extrusion. It states bonding to EPDM, TPO, aluminum, brass, steel, glass, mortar and wood.\n\nAgainst CUKWUYBY 8 Pack, it is the smaller order at a lower price. Against Dicor Black, it is self-leveling for flat laps.\n\nIt suits EPDM owners with a handful of flat joints. Buyers focused on flat epdm laps will find it a sensible match.",
     "specs": [
       "4 tubes, self-leveling",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51BdFkg+O5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GM4VS7DW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GM4VS7DW?tag=rvgearlab-amz-20",
     "description": "CUKWUYBY 8 Pack is the larger order of the same self-leveling sealant that levels within 30 seconds and bonds to EPDM and TPO. The listing names skylights, vents and roof edges among its uses.\n\nAgainst CUKWUYBY 4 Pack, it doubles the tubes. Against PAULINN 6 Pack, it holds more tubes at a similar cost per tube.\n\nIt suits full-roof reseals and owners who share tubes across rigs. It earns its slot for full-roof reseals.",
     "specs": [
       "8 tubes, self-leveling",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51QMm0EcPdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G1BF1VKZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G1BF1VKZ?tag=rvgearlab-amz-20",
     "description": "PAULINN 6 Pack is a white self-leveling lap sealant with true self-leveling flow. The listing says it sets within 30 minutes, fully cures in 24 hours and suits EPDM, metal, wood, concrete and fiberglass.\n\nAgainst CUKWUYBY 8 Pack, it states a cure schedule and a fiberglass fit. Against Kohree 2 Pack, it gives six tubes.\n\nIt suits EPDM owners who care about a stated cure schedule. It is a natural fit for flat laps with cure notes.",
     "specs": [
       "6 tubes, self-leveling",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41NQcSeg4CL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CZP3PHQ3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CZP3PHQ3?tag=rvgearlab-amz-20",
     "description": "Kohree RV Roof Sealant 2 Pack is a white self-leveling lap sealant that levels within 30 seconds. The listing names EPDM, TPO, PVC, aluminum, brass, steel, glass, mortar and wood and describes a low-odor formula.\n\nAgainst CUKWUYBY 4 Pack, it is a smaller, lower-cost pack with a PVC mention. Against Dicor Black, it is self-leveling.\n\nIt suits a small EPDM repair with a few joints. Think of it as the pick for small epdm repairs.",
     "specs": [
       "2 tubes, self-leveling",

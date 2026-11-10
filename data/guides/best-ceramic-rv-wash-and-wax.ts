@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41BhX7Bv-GL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DLC91T7Z?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DLC91T7Z?tag=rvgearlab-amz-20",
     "description": "Meguiar's M2501 Marine/RV Hybrid Ceramic All Surface Sealant is a 32 ounce spray you spray, spread and wipe. The listing says it was formulated for boats and RVs with fiberglass and gel coat and delivers durable hybrid ceramic protection.\n\nAgainst Meguiar's Wash and Wax, it is a leave-on sealant rather than a soap. Against Griot's Garage, it names fiberglass and gel coat directly.\n\nIt is the best match for fiberglass RV owners who want a sprayed-on ceramic layer. Think of it as the pick for fiberglass rvs.",
     "specs": [
       "32 oz hybrid ceramic spray",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41xCWbfUMjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B084F4DC92?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B084F4DC92?tag=rvgearlab-amz-20",
     "description": "Griot's Garage Ceramic 3-in-1 Wax is an SiO2-infused spray wax made in the USA. The listing says it is hydrophobic and self-cleaning and defends against oxidation, sun damage and dirt adhesion.\n\nAgainst Meguiar's Marine RV Sealant, it is a quick spray-on wax and not RV-specific. Against Turtle Wax, it is a leave-on spray.\n\nIt suits owners who want a fast ceramic spray between washes. Buyers focused on quick spray protection will find it a sensible match.",
     "specs": [
       "SiO2 ceramic spray wax",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4189gBupt1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BSYQM7KX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BSYQM7KX?tag=rvgearlab-amz-20",
     "description": "UN-DUZ-IT One-Step RV Wash and Wax with Ceramic Protection is a 20 ounce professional-strength concentrate for RVs, campers and motorhomes. The listing says it removes grime and leaves a protective ceramic finish and can be diluted.\n\nAgainst McKee's 37, it states an RV focus and dilution. Against Meguiar's Wash and Wax, it is a concentrate.\n\nIt suits owners who wash a large rig and want to dilute to strength. It earns its slot for large rig washes.",
     "specs": [
       "20 oz RV concentrate",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41P5z-4bWXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07D4X3PMH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07D4X3PMH?tag=rvgearlab-amz-20",
     "description": "McKee's 37 Max's RV Ceramic Wash and Wax is a 16 ounce concentrated cleaner that produces thick suds. The listing is short and calls it effective and affordable.\n\nAgainst UN-DUZ-IT Ceramic, it makes suds for mitt washing. Against Turtle Wax, it is a smaller concentrate bottle.\n\nIt suits owners who like a thick-sudsing, mitt-style wash. It is a natural fit for mitt washes.",
     "specs": [
       "16 oz RV ceramic concentrate",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Nk2V2MoHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07XYQNZ2R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07XYQNZ2R?tag=rvgearlab-amz-20",
     "description": "Turtle Wax Hybrid Solutions Ceramic Car Wash and Wax is a 48 ounce soap with SiO2 polymers. The listing says it gives extreme water beading, a ceramic layer that lasts for months and buildable shine with each wash.\n\nAgainst Meguiar's Hybrid Ceramic Wash and Wax, it states months of durability and buildable layers. Against Griot's SiO2 Spray, it is a soap.\n\nIt suits owners who want a large bottle of ceramic soap. Think of it as the pick for frequent washes.",
     "specs": [
       "48 oz ceramic wash and wax",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41akiwBy0GL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CLY5G17N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CLY5G17N?tag=rvgearlab-amz-20",
     "description": "Meguiar's Hybrid Ceramic Wash and Wax is a 48 ounce 2-in-1 soap with hybrid ceramic wax. The listing says it gives extreme water beading and is safe on glossy paint and clear coats.\n\nAgainst Turtle Wax Hybrid, it states clear coat safety. Against Meguiar's Marine RV Sealant, it is a soap you rinse.\n\nIt suits painted RVs with clear coat. Buyers focused on painted rvs will find it a sensible match.",
     "specs": [
       "48 oz hybrid ceramic wash",

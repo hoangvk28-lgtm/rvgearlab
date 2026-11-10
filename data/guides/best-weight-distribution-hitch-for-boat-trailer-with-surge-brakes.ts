@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31cv2MHxAmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B004TR8DUE?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B004TR8DUE?tag=rvgearlab-amz-20",
     "description": "The Equal-i-zer 90-00-0601 states 6,000 lb and 600 lb tongue weight with four-point sway control and no shank. The Equal-i-zer 90-00-0601 is a four-point sway control weight distribution hitch rated 6,000 lb trailer weight and 600 lb tongue weight.\n\nIt has the lowest rating here and the title says no shank is included. Its listing does not mention surge brakes.\n\nBest for a smaller boat trailer after the maker confirms surge use. Buy a compatible shank at the same time, since the kit will not work without one.",
     "specs": [
       "6,000 lb, 600 lb tongue weight",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31cv2MHxAmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B004TR8IFO?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B004TR8IFO?tag=rvgearlab-amz-20",
     "description": "The Equal-i-zer 90-00-1001 states 10,000 lb and 1,000 lb tongue weight with four-point sway control and no shank. The Equal-i-zer 90-00-1001 is a four-point sway control weight distribution hitch rated 10,000 lb trailer weight and 1,000 lb tongue weight. The title states that it does not include a hitch shank.\n\nIt is the higher-rated sibling of the 90-00-0601 and costs less. Its listing does not mention surge brakes.\n\nBest for a larger boat trailer after the maker confirms surge use. Buy a compatible shank at the same time.",
     "specs": [
       "10,000 lb, 1,000 lb tongue weight",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31QdetzAhsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CHL1SD5T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CHL1SD5T?tag=rvgearlab-amz-20",
     "description": "Andersen's 2 inch hitch has a 6 inch drop, 14,000 lb GTWR and tension chains instead of spring bars. Andersen's 2 inch shank hitch has a 6 inch drop and a 2-5/16 inch ball and is rated 14,000 lb GTWR. It levels towing by distributing tongue weight across the axles.\n\nIt states a drop and a GTWR but no tongue weight or surge rating. It costs more than Equal-i-zer 90-00-1001.\n\nBest for a boat trailer where a chain system is preferred and surge use is confirmed. It sits between the 4 inch and 8 inch drop versions.",
     "specs": [
       "2 inch shank, 6 inch drop",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31bjdJ8OuLS._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07BT3CPS6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07BT3CPS6?tag=rvgearlab-amz-20",
     "description": "Andersen's 2 inch hitch has an 8 inch drop and a 14,000 lb GTWR for lifted trucks. Andersen's 2 inch shank hitch has an 8 inch drop and a 2-5/16 inch ball and is rated 14,000 lb GTWR. It combines the extended drop for lifted tow vehicles with four bracket options.\n\nIt has more drop than Andersen 2in 6in Drop and costs a little more. It states no surge rating.\n\nBest for a boat trailer behind a lifted truck. It suits lifted trucks with a 2 inch receiver.",
     "specs": [
       "2 inch shank, 8 inch drop",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31v-op0gt4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01MZZ7NEZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01MZZ7NEZ?tag=rvgearlab-amz-20",
     "description": "Andersen's 2.5 inch hitch has an 8 inch drop and a 16,000 lb GTWR. Andersen's 2.5 inch shank hitch has an 8 inch drop and a 2-5/16 inch ball and is rated 16,000 lb GTWR. It is described for heavy lifted trucks with large receivers.\n\nIt is the heaviest-rated pick and needs a 2.5 inch receiver. It states no surge rating.\n\nBest for a heavy boat trailer with a 2.5 inch receiver. It suits lifted trucks with a 2.5 inch receiver and a heavy trailer.",
     "specs": [
       "2.5 inch shank, 8 inch drop",

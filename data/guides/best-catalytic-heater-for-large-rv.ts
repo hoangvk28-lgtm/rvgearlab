@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ZGfzTGcOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FHSS4VCF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FHSS4VCF?tag=rvgearlab-amz-20",
     "description": "The Camco Wave-8 is a catalytic safety heater built on the 57351 platform, with no flame, flue or chimney and no electrical or battery connection. It starts with a self-generating piezo starter and has a 100% safety shut-off valve, which is the combination a big coach wants for boondocking.\n\nNext to the Hotdevil, it is a fixed-style heater with a dedicated safety shut-off rather than a clip-on camping burner. That makes it the more natural choice for heating a long living area through the night with fan-free, silent operation. It suits owners of fifth wheels and Class A coaches who want a quiet, electricity-free primary heat source.",
     "specs": [
       "Catalytic, no flame or flue",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51B-4dRFZ7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00R6WT8AI?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00R6WT8AI?tag=rvgearlab-amz-20",
     "description": "This listing is the Camco 57351 Wave 8, the 8,000 BTU member of the Olympian Wave catalytic family. The Wave-8 line adjusts from about 4,200 to 8,000 BTU and is rated for roughly 290 square feet, which is the largest area any heater in this list is rated to cover.\n\nCompared with the Camco Wave-8 Safety Heater above, it is the same model family sold under a different listing, so the choice is mostly about stock and price. Against the Hotdevil, the adjustable low setting lets it hold steady heat instead of cycling between burn levels. It suits a large RV owner who wants a wall-mounted or portable heater that can step down to a gentle output overnight.",
     "specs": [
       "4,200 to 8,000 BTU range",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Hz8Z6FmML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FKMWC1S6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FKMWC1S6?tag=rvgearlab-amz-20",
     "description": "The Hotdevil is a portable propane heater with a catalytic burner rated at 8,520 BTU, and its combustion head is twice the size of traditional small heaters. It lights with pulse ignition (two AAA batteries) and runs off 1 lb propane cylinders on a foldable base.\n\nWhere the Camco units are installed heaters, the Hotdevil is carried to wherever you sit, and its catalytic burner is credited with lower carbon monoxide and nitrogen oxide output and better wind resistance. It is also by far the most affordable way to get 8,000 plus BTU of catalytic heat here. It suits owners who need a spot heater for a bedroom or patio corner rather than a whole-coach system.",
     "specs": [
       "8,520 BTU catalytic burner",

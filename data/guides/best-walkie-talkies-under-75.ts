@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41vCIZkZb8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DB5NHPJ7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DB5NHPJ7?tag=rvgearlab-amz-20",
     "description": "The Retevis RT15 3-Pack gives three compact rechargeable radios, each 21 mm thick, with 1000mAh lithium batteries rated for 8 to 12 hours of work. They need no license, include squelch to filter noise and use a short integrated antenna.\n\nIt costs about $40, nearly twice the SOCOTRAN TH25 pair, and it adds a third radio plus a slim body that clips to a strap. It is more compact than the BAOFENG BF-888S set, which runs on UHF and has an external antenna.\n\nIt suits families and small camp groups of three who want license-free radios that fit a pocket. The 8 to 12 hour battery covers a full day.",
     "specs": [
       "Three rechargeable radios",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/417mrIyCLbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D5MDS17X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D5MDS17X?tag=rvgearlab-amz-20",
     "description": "The Retevis RT22 Earpiece is an FRS license-free radio with 16 channels, CTCSS encoding and an earpiece included. It weighs 108 grams, charges over USB-C and offers hands-free VOX and noise reduction.\n\nIt costs about $34, around $6 less than the Retevis RT15 3-Pack, and the earpiece makes it the quiet choice for work crews and trail leaders. It has fewer channels than the SOCOTRAN TH25 and no scanning.\n\nIt suits leaders and workers who want one lightweight radio at a time, with a clip and earpiece. Check the pack contents for the number of radios.",
     "specs": [
       "16 channels, CTCSS, FRS",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51+CD3vWABL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DK89KHNZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DK89KHNZ?tag=rvgearlab-amz-20",
     "description": "The SOCOTRAN TH25 Pair is a two-pack of rechargeable FRS radios with 22 channels and 50 CTCSS codes, a 1,400mAh battery with up to 48 hours of standby, scanning, dual watch and VOX. Type-C charging keeps the cable simple.\n\nIt costs about $22, the lowest price on this page, and it carries the largest battery among the license-free sets. It is the pick if two radios are enough and money is better spent on a power bank or a case.\n\nIt suits couples, hunting partners and friends in two vehicles who want license-free radios. Type-C charging works with a car adapter.",
     "specs": [
       "22 FRS channels, 50 codes",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41d+R6J62cL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C3B2T1N8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C3B2T1N8?tag=rvgearlab-amz-20",
     "description": "The BAOFENG BF-888S 4-Pack gives four UHF radios with 1500mAh batteries, output up to 5 W, CTCSS and CDCSS tones, a computer programming interface and a polycarbonate shell. The 35 mm sound cavity and a noise reduction chip aim for clear audio.\n\nIt costs about $50, between the Retevis RT22 Earpiece and the pxton Waterproof 6-Pack, and four radios in one box cover a larger crew. It can be programmed to custom frequencies, and UHF use may need an FCC license.\n\nIt suits work crews, hunting parties and licensed hobbyists who need four radios. License-free use is not guaranteed on this model.",
     "specs": [
       "Up to 5 W UHF output",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41SNbBt6JqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C4KHDL1Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C4KHDL1Q?tag=rvgearlab-amz-20",
     "description": "The pxton Waterproof 6-Pack gives six GMRS radios with a PC/ABS body, a 1500mAh battery, a USB fast-charging dock, weather forecast channels and automatic scanning. It supports GMRS repeaters for extra range.\n\nIt costs about $75, the top of the range, and it is the only set with six radios and weather alerts. GMRS use needs an FCC license, which makes it a fit for people willing to do the paperwork.\n\nIt suits large camp groups, scout leaders and trail teams who want weather alerts and repeaters. The dock charges the whole set.",
     "specs": [
       "Six GMRS radios, 1500mAh",

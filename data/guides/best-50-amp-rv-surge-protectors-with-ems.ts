@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41LZd-zeJJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GT13LFG4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GT13LFG4?tag=rvgearlab-amz-20",
     "description": "The GEARGO lists 20,000 joules for 50 amp service with a built-in circuit analyzer, thermal protection and a live LED readout of line voltage, frequency and wiring status. It cuts power on unsafe voltage, resets itself and carries a 3-year warranty.\n\nIt posts a higher joule figure than the 3,580J Progressive and costs roughly half what the Power Watchdog does. The analyzer checks the pedestal before the rig connects, which the AMEHO and Otytkgo also do.\n\nIt suits an RV owner who wants auto shutoff, a display and a warranty without paying for an app. A hardwired option is a different category.",
     "specs": [
       "20,000J, 50A",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41LI7swlzyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01N9MOY7B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01N9MOY7B?tag=rvgearlab-amz-20",
     "description": "The EMS-PT50X is a 50 amp, 120-240V portable unit rated at 12,000W and 3,580 joules. It watches for high and low voltage, reverse polarity and surge failure, with an all-weather shield, thermal protection and a Lexan housing.\n\nIt lists the broadest fault detection of the five and is made in the USA. Its joule figure is far below the GEARGO's, since the design emphasizes cutoff rather than absorption.\n\nIt suits an RV owner who values proven fault detection over a large joule number. The display and LEDs work in low light.",
     "specs": [
       "50A, 12,000W, 3,580J",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41bYwaimNzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0791VGVZ1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0791VGVZ1?tag=rvgearlab-amz-20",
     "description": "The Power Watchdog PWD50 is a 50 amp, Bluetooth-enabled, IP65 unit with customizable voltage and wattage alerts. A swappable surge module sits inside, and a separate RVWhisper accessory extends monitoring beyond Bluetooth range.\n\nIt is the only pick with app alerts and a replaceable surge module, so a spike does not mean buying a whole new unit. It costs the most of the five.\n\nIt suits an RV owner who wants phone alerts and a long-term, repairable unit. Wireless fault alerts reach you at the site or away from it with the add-on.",
     "specs": [
       "50A, Bluetooth, IP65",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51D-tGqN9LL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FCL244KM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FCL244KM?tag=rvgearlab-amz-20",
     "description": "The AMEHO lists 19,000 joules with smart auto shutoff, a large LED screen showing wattage, kWh, and voltage and amperage for both power lines. It carries an IP67 waterproof cover that fits more plug types.\n\nIt shows six readings at once, which gives the most data of the five. It costs far less than the Power Watchdog and the Progressive.\n\nIt suits a camper who wants to see watts and kWh used at the pedestal. The oversized cover protects the plug from rain.",
     "specs": [
       "19,000J, 50A",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/512ogZEW4XL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FJ8HLTHP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FJ8HLTHP?tag=rvgearlab-amz-20",
     "description": "The Otytkgo lists 19,000 joules with an IP67 waterproof cover and a 1.2 x 3 inch dual-monitor LED display that shows voltage and amperage for both lines, watts and kWh. The listing says the joule rating is at least 25 percent above common 14,000J units.\n\nThe cheapest of the five, it matches the AMEHO on joules and display. Flame-retardant materials are listed for the body.\n\nA budget shopper with a 50A rig gets a protector with a display here. The weatherproof cover handles rain and dust.",
     "specs": [
       "19,000J, 50A",

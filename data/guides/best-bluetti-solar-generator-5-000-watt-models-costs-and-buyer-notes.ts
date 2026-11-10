@@ -21,7 +21,7 @@ export const products = withAmazonUrls([
     badge: "Best overall",
     name: "BLUETTI RVSolar System, All-in-One 5000W 5120Wh RV Power Kit LFP Battery",
     amazonQuery: "BLUETTI RVSolar System, All-in-One 5000W 5120Wh RV Power Kit LFP Battery",
-    amazonUrl: "https://www.amazon.com/dp/B0G13DFFL5?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0G13DFFL5?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41iV0qItAfL._SL500_.jpg",
     specs: ["Capacity: 5,120Wh","Runtime claim: Up to 1 hours","Battery cycle claim: 6,000 cycles","Fuel format: Gasoline"],
     specList: [{"label":"Capacity","value":"5,120Wh"},{"label":"Runtime claim","value":"Up to 1 hours"},{"label":"Battery cycle claim","value":"6,000 cycles"},{"label":"Fuel format","value":"Gasoline"}],
@@ -36,7 +36,7 @@ export const products = withAmazonUrls([
     badge: "Best heavy-duty option",
     name: "BLUETTI Portable Power Station AC180, 1152Wh LiFePO4 Battery Backup w/ 2 1800W (2700W peak) AC Outlets, 0",
     amazonQuery: "BLUETTI Portable Power Station AC180, 1152Wh LiFePO4 Battery Backup w/ 2 1800W (2700W peak) AC Outlets, 0",
-    amazonUrl: "https://www.amazon.com/dp/B0C1SMJTDT?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0C1SMJTDT?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41Bklv+8yZL._SL500_.jpg",
     specs: ["Capacity: 1,152Wh","Continuous output: 1,440W","Surge output: 2,700W","Runtime claim: Up to 1 hours"],
     specList: [{"label":"Capacity","value":"1,152Wh"},{"label":"Continuous output","value":"1,440W"},{"label":"Surge output","value":"2,700W"},{"label":"Runtime claim","value":"Up to 1 hours"}],
@@ -51,7 +51,7 @@ export const products = withAmazonUrls([
     badge: "Best compact option",
     name: "BLUETTI Solar Generator Apex 300 & 1200W Charger 2, 2764.8Wh LFP Battery",
     amazonQuery: "BLUETTI Solar Generator Apex 300 & 1200W Charger 2, 2764.8Wh LFP Battery",
-    amazonUrl: "https://www.amazon.com/dp/B0G4QFGQ5S?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0G4QFGQ5S?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41uQZ9QDagL._SL500_.jpg",
     specs: ["Capacity: 2,764.8Wh","Runtime claim: Up to 2.8 hours","Battery chemistry: LiFePO4","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Capacity","value":"2,764.8Wh"},{"label":"Runtime claim","value":"Up to 2.8 hours"},{"label":"Battery chemistry","value":"LiFePO4"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -66,7 +66,7 @@ export const products = withAmazonUrls([
     badge: "Best value pick",
     name: "BLUETTI Solar Generator Elite 300",
     amazonQuery: "BLUETTI Solar Generator Elite 300",
-    amazonUrl: "https://www.amazon.com/dp/B0GWZPJNDR?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0GWZPJNDR?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41AMqD5cUDL._SL500_.jpg",
     specs: ["Capacity: 3,014.4Wh","Continuous output: 2,400W","Surge output: 4,800W","Included panel: 350W"],
     specList: [{"label":"Capacity","value":"3,014.4Wh"},{"label":"Continuous output","value":"2,400W"},{"label":"Surge output","value":"4,800W"},{"label":"Included panel","value":"350W"}],
@@ -81,7 +81,7 @@ export const products = withAmazonUrls([
     badge: "Best backup pick",
     name: "BLUETTI Elite 200 V2 Solar Generator & 2x200W Solar Panel Included 2073.6Wh",
     amazonQuery: "BLUETTI Elite 200 V2 Solar Generator & 2x200W Solar Panel Included 2073.6Wh",
-    amazonUrl: "https://www.amazon.com/dp/B0FSJM6NZC?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0FSJM6NZC?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41Q6JjGYa7L._SL500_.jpg",
     specs: ["Capacity: 2,073.6Wh","Included panel: 200W","Runtime claim: Up to 5.5 hours","Battery cycle claim: 6,000 cycles"],
     specList: [{"label":"Capacity","value":"2,073.6Wh"},{"label":"Included panel","value":"200W"},{"label":"Runtime claim","value":"Up to 5.5 hours"},{"label":"Battery cycle claim","value":"6,000 cycles"}],
@@ -183,7 +183,7 @@ export const relatedGuides = [
 export const sources = [
   {
     "title": "BLUETTI RVSolar System, All-in-One 5000W 5120Wh RV Power Kit LFP Battery product page",
-    "href": "https://www.amazon.com/dp/B0G13DFFL5?tag=rvgearlab-20&linkCode=osi&th=1&psc=1"
+    "href": "https://www.amazon.com/dp/B0G13DFFL5?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1"
   },
   {
     "title": "CPSC carbon monoxide safety center",

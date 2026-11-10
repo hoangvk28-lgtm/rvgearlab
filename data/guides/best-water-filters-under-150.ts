@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41IZ6mcRu4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07NJ4P99G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07NJ4P99G?tag=rvgearlab-amz-20",
     "description": "The AO Smith AO-US-200 is a 2-stage Claryum system with a dedicated drinking faucet and a tee that connects to a 3/8 inch cold line. It reduces up to 99 percent of 78 contaminants, including lead, PFAS and chlorine, while leaving minerals, and the full system is certified to NSF/ANSI 42, 43 and 401.\n\nAt about $111 it undercuts the EcoPure by $11 and gives a wider contaminant list. The CuZn UC-200 lasts longer, and this one is the better all-around system for the money.\n\nCabin owners, van builders and families who want a separate tap for drinking water will like it. The system suits a sink with room for an extra faucet.",
     "specs": [
       "2-stage Claryum filtration",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41CJNtf-W0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00BA1DX84?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00BA1DX84?tag=rvgearlab-amz-20",
     "description": "EcoPure ECOP20 is a 2-stage system certified to reduce 58 contaminants, including chlorine taste and odor, lead, cysts and chemicals. It includes a dedicated faucet and connects to a 3/8 inch cold water line.\n\nAt about $122 it costs $11 more than the AO Smith and lists fewer contaminants. The faucet is included, which saves buying one separately.\n\nHouseholds that want a separate drinking tap and a familiar brand will like it. It suits a simple kitchen setup.",
     "specs": [
       "2-stage, reduces 58 contaminants",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31JDcOlHF+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B000923524?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B000923524?tag=rvgearlab-amz-20",
     "description": "The CuZn UC-200 uses 3-stage filtration with micro sediment membranes, KDF-55 and coconut shell carbon, and it carries a 5-year filter life. It is certified to NSF/ANSI 42 and 372 and reduces PFAS, PFOA and PFOS, lead and chlorine.\n\nAt about $150 it sits at the cap and is the costliest of the five, and the 5-year life makes the running cost the lowest. The Orvexa also lasts 5 years for $58 less.\n\nBuyers who want a CuZn filter that rarely needs changing will like it. It installs inline without drilling.",
     "specs": [
       "5-year filter life",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31wHXkt8JcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FH15SZ3Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FH15SZ3Q?tag=rvgearlab-amz-20",
     "description": "The CuZn UC-150 offers 20,000 gallons or 2 years of 3-stage filtration with micro sift membranes, KDF-55 and coconut shell carbon. It reduces PFAS, PFOA and PFOS, lead and chlorine and installs inline without drilling.\n\nAt about $100 it costs $50 less than the UC-200 and changes filters every 2 years instead of 5. It has no dedicated faucet, unlike the AO Smith.\n\nBuyers who want a mid-life CuZn filter and a simple install will like it. It suits a cabin that sees seasonal use.",
     "specs": [
       "20,000 gallons or 2 years",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31QOuQhsFiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H3H4BBJR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H3H4BBJR?tag=rvgearlab-amz-20",
     "description": "Orvexa is rated up to 50,000 gallons or 5 years and uses micro-sediment membranes, KDF-55 media and coconut shell carbon. It connects to a standard 3/8 inch cold line and carries lead-free compliance.\n\nAt about $92 it is the cheapest pick and the highest rated capacity here. It has no dedicated faucet.\n\nHeavy-use households and cabins will like the 5-year life. It is the best long-life choice under $100.",
     "specs": [
       "50,000 gallons or 5 years",

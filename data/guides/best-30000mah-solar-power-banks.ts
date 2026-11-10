@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51GNarpEBIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F1MYQJPW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F1MYQJPW?tag=rvgearlab-amz-20",
     "description": "The SNGKMSYG is an AM, FM and NOAA weather radio that includes a 30000mAh power bank for phones and small tablets. It recharges by hand crank, solar panel or Type-C, and carries a spotlight and a four-LED reading light.\n\nOnly this listing names 30000mAh outright, while the YELOMIN lists 38800mAh and the Feidyns 80000mAh. It also adds weather alerts and a crank that the other two lack.\n\nIt suits a camper who wants storm alerts and a power bank in one box. The crank gives a last-resort route when the sun is missing.",
     "specs": [
       "30000mAh power bank",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Xl0qZKy3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FFF3TMN5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FFF3TMN5?tag=rvgearlab-amz-20",
     "description": "The YELOMIN lists 38800mAh with 22.5W USB-C fast charging, four built-in cables, a USB-C in/out port and a USB-A output for up to six devices. It adds two LED flashlights with SOS and strobe plus an IP65 rating.\n\nAt 38800mAh it holds more than the radio and charges faster over a cable. Against the Feidyns it is smaller and lighter.\n\nIt suits a camper who wants a rugged bank with cables built in. The IP65 case handles splashes and dust.",
     "specs": [
       "38800mAh, 22.5W USB-C",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41UDnkpDr8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GTLM4DGS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GTLM4DGS?tag=rvgearlab-amz-20",
     "description": "The Feidyns lists 80000mAh, 35W PD and QC 3.0 output, a 15W wireless pad and seven ports including USB-C PD 3.1. It adds a 5W solar panel for emergencies, a 300 lumen LED with SOS strobe and IP66 protection.\n\nIt carries more than double the cell of the other two and the highest output of the three. It is far heavier than the radio.\n\nIt suits a large group or long trip that needs a charging hub with a light. Seven ports keep everyone plugged in at once.",
     "specs": [
       "80000mAh, 35W PD",

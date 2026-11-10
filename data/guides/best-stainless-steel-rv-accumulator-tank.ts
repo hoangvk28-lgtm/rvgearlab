@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/311wPVW1CZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B000N9VF6Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B000N9VF6Q?tag=rvgearlab-amz-20",
     "description": "The Pentair SHURFLO 182-200 Pre-Pressurized Accumulator Tank is a 24 oz, 125 psi tank factory pre-charged to 30 psi with a built-in diaphragm. It supports system pressures from 20 to 125 psi.\n\nIt reduces pump cycling and pressure spikes and smooths faucet pulses. Compared with the generic units, it comes from the pump maker.\n\nBest for SHURFLO pump owners who want a brand-matched tank. It also suits those who want a stated precharge.",
     "specs": [
       "24 oz, 125 PSI",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41LTYPTDADL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H3Q3W3NN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H3Q3W3NN?tag=rvgearlab-amz-20",
     "description": "The oiununo 1.0 L Accumulator Expansion Tank has a 125 psi maximum, 1/2 inch MNPT and a pre-pressurized rubber diaphragm that prevents waterlogging. The listing says the construction is built for marine and mobile applications.\n\nIt requires no upkeep and costs about $30, well below the SHURFLO. Its larger 1 L volume cuts cycling more than 24 oz tanks.\n\nA good pick for owners who want a low-maintenance 1 L tank. It also suits marine use.",
     "specs": [
       "1.0L, 125 PSI",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41araQkYyrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GZZ3T83Z?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GZZ3T83Z?tag=rvgearlab-amz-20",
     "description": "The MRGVFLO RV Pre-Pressurized Accumulator Tank is 0.75 L with a 125 psi maximum and a 1/2 inch MNPT male thread. It is pre-charged to 10 psi, pre-pressurized from 10 to 125 psi and measures 7.95 by 4.92 by 4.84 inches.\n\nIt costs about $20, the least here, and is described as compatible with most 12V and 110V pumps. It also suits beverage dispensing.\n\nBest for budget compact installs. It also suits spare tanks.",
     "specs": [
       "0.75L, 125 PSI",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41NaSGf2mvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01L2VD41M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01L2VD41M?tag=rvgearlab-amz-20",
     "description": "The Jabsco 30573-0003 Mini Accumulator Tank in black is a compact tank from a marine water systems maker. Its listing is brief, giving a package size of about 29.8 by 20.8 by 11.6 cm.\n\nIt costs about $92, the most on this list, and is chosen mainly for the Jabsco name. Compared with the MRGVFLO, it relies on brand over listed specs.\n\nBest for owners who want a Jabsco-branded tank to match a Jabsco pump. It also suits boats.",
     "specs": [
       "Jabsco mini accumulator",

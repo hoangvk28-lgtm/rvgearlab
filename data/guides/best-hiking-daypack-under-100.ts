@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51tHsFlkBOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09P1HZRXH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09P1HZRXH?tag=rvgearlab-amz-20",
     "description": "The Maelstrom 40L is built from rip-stop 210D nylon that the listing calls water resistant, tear resistant and wear resistant. It comes with a rain cover, a thicker padded back, breathable mesh shoulder straps and reflective prints, with elastic side holders for gear.\n\nCompared with the FENGDONG, it adds a rain cover and a more padded back panel. Against the packable bags, it is a structured pack that holds its shape.\n\nIt suits day hikers who carry layers, lunch and a camera. Several pockets keep gear organized.",
     "specs": [
       "40L rip-stop 210D nylon",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51UPeq-braL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07T9LR6DH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07T9LR6DH?tag=rvgearlab-amz-20",
     "description": "The FENGDONG 40L measures 20.5 by 13 by 7.1 inches, weighs 1.9 pounds and folds into its own pocket. High-density water-resistant polyester, ventilated mesh padding on the straps and back and multiple compartments make up the build.\n\nCompared with the Maelstrom, it folds away and costs a bit less. Against the MIYCOO 35L, it has a more padded back and a bigger capacity.\n\nIt suits hikers who want a full-size day pack that also packs down for travel. Extra thick fabric resists tears.",
     "specs": [
       "40L, 1.9 lb",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41-ExJ3QLBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7VXT59K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7VXT59K?tag=rvgearlab-amz-20",
     "description": "The MIYCOO is a 35L packable backpack with IPX4 water-resistant fabric and three compartments, including a wet pocket. It folds into its inner pocket, weighs about half as much as a phone and carries a survival whistle with lockable zipper clips.\n\nCompared with the Maelstrom, it is far lighter and cheaper. Against the AiryLeben 14L, it more than doubles the capacity.\n\nIt suits budget hikers who want a light bag for easy trails. It also tucks into a suitcase.",
     "specs": [
       "35L, folds into pocket",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41AH5CxMR4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H5B1FP4D?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H5B1FP4D?tag=rvgearlab-amz-20",
     "description": "The AiryLeben 14L weighs 0.68 pounds and folds into a built-in pouch. A zippered phone sleeve sits on the right shoulder strap, with reflective strips, breathable mesh straps and an emergency whistle, and it is hydration bladder compatible.\n\nCompared with the MIYCOO 35L, it is much smaller and tidier for short hikes. Against the WATERFLY Sling, it carries more and uses two shoulders.\n\nIt suits short hikes and days where you only need water and a snack. The shoulder phone sleeve is handy for photos.",
     "specs": [
       "14L, 0.68 lb",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41TLoC8+ujL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07TB11KMW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07TB11KMW?tag=rvgearlab-amz-20",
     "description": "The WATERFLY Sling is a crossbody bag measuring 7 by 3.5 by 15 inches, with a front zipper pocket and a buckle pocket for an iPad mini or phone. A reversible shoulder strap connects to three D-rings, and the listing mentions a hidden earphone hole.\n\nIt is the quickest bag here to reach. Compared with the AiryLeben, it keeps items at the front rather than on the back.\n\nIt suits walkers who prefer a light one-shoulder bag. It also works for easy trails and city strolls.",
     "specs": [
       "7 x 3.5 x 15 inch crossbody",

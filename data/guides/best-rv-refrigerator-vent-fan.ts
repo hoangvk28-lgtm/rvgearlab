@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51lLU-+idzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C6T1LLMX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C6T1LLMX?tag=rvgearlab-amz-20",
     "description": "The TITAN is a long-shaped fridge ventilation fan built for American RV vents, with robust mounting brackets and an IP55 dust and water rating. It offers automatic temperature control plus a 6-level manual controller.\n\nCompared with the 5.5 inch round fans below, its elongated shape covers more of a wide American side vent and it carries a higher IP rating than the IP54 Tellingyou. It suits owners with a standard American side vent who want one sturdy install.",
     "specs": [
       "Long shape for American vents",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51JTBhkLDmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G12RCH43?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G12RCH43?tag=rvgearlab-amz-20",
     "description": "This 5.5 inch (140mm) fan has adjustable speed and temperature control with auto and manual modes, and it comes with a remote control. Custom mounts install without damaging the RV side vent.\n\nAgainst the Tellingyou, it adds a remote so you can change speed without climbing outside, and it advertises fit on RV refrigerators with side vents. It suits owners who want to adjust the fan from the driver's seat or kitchen.",
     "specs": [
       "5.5 inch (140mm) fan",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51H2IEFWcDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F99S337H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F99S337H?tag=rvgearlab-amz-20",
     "description": "The Tellingyou kit uses two 14025 fans at 2200 RPM, an IP54 rating, a temperature control board and an ultra-thin probe. It includes a 11 inch terminal wire at 12V and 0.3A.\n\nIt undercuts the TITAN while giving two fans for more air, and the probe adjusts fan speed to the set temperature. It suits buyers who want automatic control at a lower price.",
     "specs": [
       "Two 14025 fans, 2200 RPM",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51DAdFdgXYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F9LF3TQS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F9LF3TQS?tag=rvgearlab-amz-20",
     "description": "This 5.5 inch fan starts automatic cooling from 68 degrees F and offers 6 manual speeds with a remote. The listing quotes under 32 dB, PBT blades, double ball bearings, a bracket and 2.4 meters of wire.\n\nCompared with the Remote 5.5-Inch fan, it publishes a noise figure and a longer 2.4 meter wire, and the dual ball bearings are made for continuous running. It suits campsites where quiet matters at night.",
     "specs": [
       "Under 32 dB",
@@ -133,7 +133,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41PT-6ABMqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09NLFDLD1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09NLFDLD1?tag=rvgearlab-amz-20",
     "description": "The Quick Products QP-RFVCF90 is a 90mm RV refrigerator vent cooling fan with auto and manual functions and a control box that shows selectable fan speeds. It runs on any 12-volt system, and a 120mm size is sold as well.\n\nWhere the others use 5.5 inch (140mm) fans, the 90mm is the compact choice for narrower side vents. It suits owners who want an established RV accessory brand and a simple switchbox.",
     "specs": [
       "90mm fan size",

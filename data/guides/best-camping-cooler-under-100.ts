@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41WkcniqaQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GL8DM2SM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GL8DM2SM?tag=rvgearlab-amz-20",
     "description": "INSMEER is a 40L collapsible cooler that holds up to 55 cans, with 8mm foam insulation and a leakproof liner. Each of its four sides is reinforced with PP boards, so it stands like a hard cooler.\n\nA rigid hard-shell top doubles as a mini table with four cup holders, which none of the backpack coolers offer. The rated 12-hour insulation is in line with the others here.\n\nChoose it for car camping when you want a bag that stands up and packs flat. The spare tabletop is a bonus at a picnic site.",
     "specs": [
       "40L, holds up to 55 cans",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41-CL09WgwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GSVKVQN6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GSVKVQN6?tag=rvgearlab-amz-20",
     "description": "YOUNGOA is a 37L backpack cooler that fits up to 60 cans, with 8mm EPE foam, a 600D inner liner and a food-grade PEVA leakproof seal. Thickened shoulder straps, a chest strap and a foam back panel spread the load.\n\nIt lists 20 hours of insulation, the longest rated hold among the soft coolers here. It is bigger than the Picnic Time Zuma by a wide margin.\n\nChoose it for long walks from the car to a beach or a tailgate. The backpack carry keeps hands free.",
     "specs": [
       "37L, up to 60 cans",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41rdJBtq8EL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GGGHFG9Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GGGHFG9Y?tag=rvgearlab-amz-20",
     "description": "TOURIT has two independent side-by-side zones, so wet and dry items stay apart, in 30-can or 48-can sizes. The listing states 12-hour insulation and a heat-welded leakproof liner that is stain-resistant.\n\nThat split is the feature that sets it apart from the single-chamber Vankor. The compact size weighs 0.9 kg.\n\nChoose it for trips with sandwiches and drinks that should not share a compartment. It works as a lunch cooler too.",
     "specs": [
       "Two insulated zones",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/61d-LS7rKhL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BDZB4XJ4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BDZB4XJ4?tag=rvgearlab-amz-20",
     "description": "Vankor is an insulated backpack cooler in 33-can and 45-can sizes with leakproof PEVA insulation and an adjustable strap. It is described as compact and lightweight for travel.\n\nIt is the lowest priced pick here, and a good backpack carry costs less than the YOUNGOA. A simple layout keeps it light.\n\nChoose it if you want a basic cooler pack for day trips. It suits hikers and picnickers on a tight budget.",
     "specs": [
       "33 or 45 can sizes",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41g51XSunUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00GXWAV26?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00GXWAV26?tag=rvgearlab-amz-20",
     "description": "The Picnic Time Zuma is a soft backpack cooler in durable polyester that holds up to 13 cans. A top mesh section with drawstring closure holds wet clothes, and it measures 19 x 11 x 7 inches.\n\nIt is the smallest pick here and the only one with a dry storage section for gear. A cell phone pocket and air mesh straps add comfort.\n\nChoose it for a hike or a day at the lake. It works for a solo hiker or a couple.",
     "specs": [
       "Holds up to 13 cans",

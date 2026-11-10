@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41UOx2i2JIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0897XZ5B8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0897XZ5B8?tag=rvgearlab-amz-20",
     "description": "Star Brite is a marine-grade, PFAS-free spray listed for tents, awnings, boat covers and sail covers. Its coverage chart lists 80 sq ft for 22 oz, 232 sq ft for 64 oz and 465 sq ft for a gallon.\n\nCompared with the Better Boat it is a longer-established marine brand with a printed coverage chart, and compared with the Scotchgard it is available in much larger sizes. The listing says it keeps breathability, color and feel unchanged.\n\nIt suits owners of cabin tents, canvas wall tents and awnings who treat many square feet in one go. Dry overnight and re-use the next day.",
     "specs": [
       "PFAS free, marine grade",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41k0rjpkmwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D4F7NSZ7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D4F7NSZ7?tag=rvgearlab-amz-20",
     "description": "Better Boat is a one-gallon, water-based, PFAS-free and low-VOC spray safe for use indoors or outdoors. It treats canvas, nylon, polyester, cotton and leather and promises no color change or stiffening.\n\nIt is the most gentle formula here for treating a tent at home, and it treats more area per dollar than the small cans. Compared with the Star Brite it has a lower printed coverage detail.\n\nIt suits campers who want a low-odor spray for a whole tent and a few other pieces of gear. The 128 oz size handles tents, awnings and cushions.",
     "specs": [
       "1 gallon water-based",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41CQLZA-QbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B001EWHXV2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B001EWHXV2?tag=rvgearlab-amz-20",
     "description": "Gear Aid Revivex is a durable water repellent spray listed for jackets, rain gear, tents and camping gear. It comes in 5, 10 and 16.9 oz sizes, and the listing says it keeps waterproof-breathable fabric from wetting out.\n\nIt suits tent flies and jackets in the same session. Compared with the Star Brite it comes in much smaller sizes and costs far less per can.\n\nIt suits backpackers with a small tent and rain jackets to refresh together. The listing advises washing gear with Revivex Pro Cleaner first.",
     "specs": [
       "DWR spray, 5 to 16.9 oz",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31llwQs7hkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B004ZP83H8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B004ZP83H8?tag=rvgearlab-amz-20",
     "description": "Scotchgard Outdoor Water Shield is a 10.5 oz heavy duty spray for tents, patio cushions, grill covers and boat covers. It treats canvas, polyester, nylon, cotton, leather and suede with a one-coat application.\n\nIt dries within hours, faster than the overnight Star Brite. Compared with the Gear Aid Revivex it is a single heavy-duty coat and does not include a washing step.\n\nIt suits campers who want one coat on a small or mid-size tent. Spray on clean, dry fabric in a well-ventilated area.",
     "specs": [
       "10.5 oz spray can",

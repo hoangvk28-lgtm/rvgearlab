@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41P8GlWKxeL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09YRGQ5L3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09YRGQ5L3?tag=rvgearlab-amz-20",
     "description": "The ALITOVE is a 12 foot cord in 12 AWG pure copper rated for 30A and 360W maximum, compatible with 12V and 24V systems. A rubber cap covers the female lighter socket, and two spare fuses are included.\n\nAt 12 gauge it is the thickest wire of the four, thicker than the 14 AWG RWUJILONG and the 16 AWG Chanzon. The listing says it reaches the furthest tire for an inflator.\n\nIt suits a car camper running a tire inflator, a cooler or a vacuum from the trunk. Spare fuses are handy in the field.",
     "specs": [
       "12 AWG, 12 ft",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51WvRHwOLfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BMPX96JL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BMPX96JL?tag=rvgearlab-amz-20",
     "description": "The RWUJILONG is a 26 ft cord in SPT-2 14 AWG, 2C UL certified copper, rated 240W and 20A. It has a bakelite plug said to resist arcing and heat, and a water and dust protective cap on the female socket.\n\nIt is the longest cord of the four, with twice the reach of the ALITOVE. A shorter 13.1 ft, 16 AWG, 15A version is also sold.\n\nIt suits a car camper who parks far from the tent and wants to run a light or fan to the site. The bakelite plug resists heat.",
     "specs": [
       "14 AWG, 26 ft, 240W",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/519J3mU+eGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07CQMHP33?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07CQMHP33?tag=rvgearlab-amz-20",
     "description": "The Chanzon is a 6 ft cord in UL 16 AWG pure copper with an integrated 15A fuse (6 x 30 mm) and a red LED indicator. The SPT-2 cord and bakelite plug are described as heat-resistant, tested for more than 4000 bends.\n\nIt carries a built-in fuse and LED on the cord, which the ALITOVE and RWUJILONG listings do not mention. It is also the shortest.\n\nIt suits a camper who wants overcurrent protection and a light that shows it is live. It fits a back-seat or trunk reach.",
     "specs": [
       "16 AWG, 6 ft, 15A fuse",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41L4B3WbjhL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DDNVYLCC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DDNVYLCC?tag=rvgearlab-amz-20",
     "description": "The Energeaster is a 12 ft, 16 AWG cord rated for 72W (6A), listed for air compressors, mini fridges, car vacuums and dash cams. A 15 ft version with an LED light is also sold.\n\nIt is the least expensive of the four and matches the ALITOVE on length. Its 72W rating keeps it for small loads.\n\nIt suits a budget camper who powers a dash cam, a phone charger or a small cooler from the car. The 15 ft version adds an LED light for longer reach.",
     "specs": [
       "16 AWG, 12 ft",

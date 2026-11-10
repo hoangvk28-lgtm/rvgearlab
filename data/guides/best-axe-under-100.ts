@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31svk0Ex9pL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BZTC6V7M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BZTC6V7M?tag=rvgearlab-amz-20",
     "description": "The Fiskars A-Series is a 28 inch chopping axe with a precision-balanced design, a low-friction coated blade and a lifetime warranty. It is described for felling small trees and splitting logs, from campsite prep to backyard cleanup.\n\nIt is the only full-length axe here, which gives the swing power the 14 inch Estwing and Hitdudu hatchets cannot. The low-friction coating helps it avoid sticking in wood.\n\nIt fits cabin owners and campers who cut real firewood and small trees. The lifetime warranty covers the investment.",
     "specs": [
       "28 inch, precision-balanced",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31xGV3HH5qL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01D8STIVM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01D8STIVM?tag=rvgearlab-amz-20",
     "description": "The Estwing Camper's Axe is forged from one piece of American steel, with a patented shock reduction grip that the listing says cuts impact vibration by 70%. A ballistic nylon sheath protects the hand-sharpened 4 inch cutting edge and has a belt loop.\n\nA one-piece forged design removes the weak points of a glued head, which separates it from the Hitdudu and Liantral. A stake puller on the head doubles as a tent tool.\n\nIt fits campers who want a durable hatchet made in the USA. It works for kindling, branches and small logs.",
     "specs": [
       "14 inch, one-piece forged steel",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ZjVm6-ewL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09JP8CGPB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09JP8CGPB?tag=rvgearlab-amz-20",
     "description": "The Hitdudu hatchet is 14.2 inches long with a 4.1 inch blade and weighs 1.98 lbs, with a forged carbon steel head and a fiberglass handle that is anti-skid and shock absorbing. A nylon sheath and a limited lifetime warranty are included.\n\nIt is the lowest priced of the group, with a lighter weight than the Estwing for easy carry. The listing says it also suits throwing.\n\nIt fits campers on a budget who want a hatchet for kindling and branches. The sheath keeps the blade covered in a pack.",
     "specs": [
       "14.2 inch, 1.98 lbs",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51cOSUevXeL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07NZN5X2S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07NZN5X2S?tag=rvgearlab-amz-20",
     "description": "The Liantral is a folding survival axe with a steel head and aluminum alloy handle and extension bars so the length can be adjusted. The listing names functions including chop, split, hammer, whistle and compass, and it comes in a sheath.\n\nIt packs smaller than any other pick, which suits bug-out bags and hikers. Adjustable length is a unique feature among these axes.\n\nIt fits backpackers and emergency kit builders who want a compact axe. The sheath makes carry safe in a bag.",
     "specs": [
       "Folding, adjustable length",

@@ -21,7 +21,7 @@ export const products = withAmazonUrls([
     badge: "Best overall",
     name: "PowerMax 6000 Solar Generator, 120/240V Split Phase Voltage 6000W AC Outlets (9000W Peak), 3600Wh Power S",
     amazonQuery: "PowerMax 6000 Solar Generator, 120/240V Split Phase Voltage 6000W AC Outlets (9000W Peak), 3600Wh Power S",
-    amazonUrl: "https://www.amazon.com/dp/B0FRLQBXCY?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0FRLQBXCY?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/51fNGG+yz+L._SL500_.jpg",
     specs: ["Capacity: 3,600Wh","Continuous output: 6,000W","Surge output: 9,000W","Runtime claim: Up to 1.96 hours"],
     specList: [{"label":"Capacity","value":"3,600Wh"},{"label":"Continuous output","value":"6,000W"},{"label":"Surge output","value":"9,000W"},{"label":"Runtime claim","value":"Up to 1.96 hours"}],
@@ -36,7 +36,7 @@ export const products = withAmazonUrls([
     badge: "Best heavy-duty option",
     name: "OSCAL PowerMax 6000 Solar Generator",
     amazonQuery: "OSCAL PowerMax 6000 Solar Generator",
-    amazonUrl: "https://www.amazon.com/dp/B0F5MK8TMF?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0F5MK8TMF?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/51k1bng6tfL._SL500_.jpg",
     specs: ["Capacity: 3,600Wh","Continuous output: 2,200W","Surge output: 9,000W","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Capacity","value":"3,600Wh"},{"label":"Continuous output","value":"2,200W"},{"label":"Surge output","value":"9,000W"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -51,7 +51,7 @@ export const products = withAmazonUrls([
     badge: "Best compact option",
     name: "PowerMax 6000 Solar Generator, 120/240V Split Phase Voltage 6000W AC Outlets (9000W Peak), 3600Wh Power S",
     amazonQuery: "PowerMax 6000 Solar Generator, 120/240V Split Phase Voltage 6000W AC Outlets (9000W Peak), 3600Wh Power S",
-    amazonUrl: "https://www.amazon.com/dp/B0FRLJVRT3?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0FRLJVRT3?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/51AMycg+FGL._SL500_.jpg",
     specs: ["Capacity: 3,600Wh","Continuous output: 6,000W","Surge output: 9,000W","Runtime claim: Up to 1.96 hours"],
     specList: [{"label":"Capacity","value":"3,600Wh"},{"label":"Continuous output","value":"6,000W"},{"label":"Surge output","value":"9,000W"},{"label":"Runtime claim","value":"Up to 1.96 hours"}],
@@ -66,7 +66,7 @@ export const products = withAmazonUrls([
     badge: "Best value pick",
     name: "Anker SOLIX F3000 Portable Power Station, 3,072Wh, 6,000W, Solar Generators",
     amazonQuery: "Anker SOLIX F3000 Portable Power Station, 3,072Wh, 6,000W, Solar Generators",
-    amazonUrl: "https://www.amazon.com/dp/B0F8BC2LFS?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0F8BC2LFS?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/31twHXJikJL._SL500_.jpg",
     specs: ["Capacity: 3,072Wh","Runtime claim: Up to 125 hours","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Capacity","value":"3,072Wh"},{"label":"Runtime claim","value":"Up to 125 hours"},{"label":"Buyer check","value":"Verify current model compatibility"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -81,7 +81,7 @@ export const products = withAmazonUrls([
     badge: "Best backup pick",
     name: "PowerMax 6000 Portable Power Station 3600Wh, 120V/240V AC Outlets",
     amazonQuery: "PowerMax 6000 Portable Power Station 3600Wh, 120V/240V AC Outlets",
-    amazonUrl: "https://www.amazon.com/dp/B0F9KL9NCD?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0F9KL9NCD?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41EMuY4btsL._SL500_.jpg",
     specs: ["Capacity: 3,600Wh","Continuous output: 6,000W","Surge output: 9,000W","Runtime claim: Up to 1.96 hours"],
     specList: [{"label":"Capacity","value":"3,600Wh"},{"label":"Continuous output","value":"6,000W"},{"label":"Surge output","value":"9,000W"},{"label":"Runtime claim","value":"Up to 1.96 hours"}],
@@ -171,7 +171,7 @@ export const relatedGuides = [
 export const sources = [
   {
     "title": "PowerMax 6000 Solar Generator, 120/240V Split Phase Voltage 6000W AC Outlets (9000W Peak), 3600Wh Power S product page",
-    "href": "https://www.amazon.com/dp/B0FRLQBXCY?tag=rvgearlab-20&linkCode=osi&th=1&psc=1"
+    "href": "https://www.amazon.com/dp/B0FRLQBXCY?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1"
   },
   {
     "title": "CPSC carbon monoxide safety center",

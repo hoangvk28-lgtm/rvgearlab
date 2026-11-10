@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41HCqXu9R7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DJR7YC9R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DJR7YC9R?tag=rvgearlab-amz-20",
     "description": "The Stokk 2-Pack lists NSF/ANSI 42 for chlorine, taste and odor reduction and combines GAC carbon with KDF. It has a 10 micron internal sediment filter, a wide-body housing for higher flow and a flexible hose protector with a 360 degree swivel.\n\nIts 10 micron rating is finer than the 20 micron listed for the GLACIER FRESH and Kohree style filters, so it catches smaller sediment. Against the Waterspecialist, it costs a little more but names a micron rating and flow design.\n\nA strong default for most owners who want a certified, finer-sediment hose filter. It is an aesthetic filter, so it will not make unsafe water safe to drink.",
     "specs": [
       "NSF/ANSI 42 listed",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31M4-0BGWzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B089CZ8K8Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B089CZ8K8Y?tag=rvgearlab-amz-20",
     "description": "The Waterspecialist is a KDF and GAC hose filter that lists NSF 42 certification for reducing 97 percent of chlorine, taste and odor, and NSF 372 for lead-free materials. It includes an anti-kink hose protector and is rated for a three-month camping season.\n\nIt is the cheapest here, but the listing gives no micron rating, which the Stokk 2-Pack provides. Compared with the AQUA CREST listings, it names the same NSF 42 and 372 pairing for less money.\n\nPick it if cost matters and you replace filters every season. Remember that NSF 372 covers the housing materials, not what the filter removes.",
     "specs": [
       "NSF 42, 97% chlorine",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41V9gM9ZPVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07NYVRP9R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07NYVRP9R?tag=rvgearlab-amz-20",
     "description": "The AQUA CREST Listing A (the higher-priced of two near-identical AQUA CREST listings) is NSF/ANSI 42 and 372 listed, uses KDF and carbon, and has a hose protector that rotates 360 degrees with anti-rust copper heads. The listing cites a 400 PSI pressure test and 100,000 pulse tests.\n\nIt is priced above the Waterspecialist, mostly for the swivel protector and the durability claims. Next to AQUA CREST Listing B, the filter specs are the same, so confirm the pack count before you buy.\n\nA good fit for owners who move a lot and strain connections. The listing does not give a micron rating.",
     "specs": [
       "NSF/ANSI 42 and 372",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41+6cuN6tFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07Z7ML4LW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07Z7ML4LW?tag=rvgearlab-amz-20",
     "description": "The AQUA CREST Listing B shares the same NSF/ANSI 42 and 372 listing, KDF and carbon media, and swivel hose protector as Listing A, at a lower price. The listing does not state the pack size in the highlights.\n\nIt ranks below Listing A only because the other costs more for what looks like the same filter. Compared with the Stokk 2-Pack, it has no micron rating but offers the same certification.\n\nChoose it if you want the AQUA CREST design for less, and check the pack count on the page before checkout.",
     "specs": [
       "NSF/ANSI 42 and 372",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/418iXBhxvGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08P7XMGRC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08P7XMGRC?tag=rvgearlab-amz-20",
     "description": "The GLACIER FRESH 4-Pack ships with 4 filters and 2 flexible hose protectors. The listing cites independent lab testing for 97.9 percent chlorine reduction, a 20 micron rating, and GAC plus KDF media. It is rated to last a camping season of about three months.\n\nCompared with the 2-pack version below, it is the better choice for full-season or multiple-RV use. Against the Stokk 2-Pack, its 20 micron rating is coarser, and no NSF certification is named in the highlights.\n\nBest for owners who want spares in the garage. If you need a named NSF standard, look to the Stokk 2-Pack or AQUA CREST.",
     "specs": [
       "97.9% chlorine claim",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41k-Ktv32XL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07MG54R6F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07MG54R6F?tag=rvgearlab-amz-20",
     "description": "The GLACIER FRESH 2-Pack has the same 20 micron, GAC and KDF filter as the 4-Pack but with 2 filters and a single flexible hose protector. The listing makes the same 97.9 percent chlorine claim.\n\nIt costs less up front than the 4-Pack but works out dearer per filter. Compared with the Waterspecialist, it gives two filters, but the Waterspecialist names NSF standards.\n\nA reasonable choice for a trailer used for one or two long trips a year. Replace on schedule even if flow seems fine.",
     "specs": [
       "97.9% chlorine claim",

@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41PWldxS99L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GTQMBRY1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GTQMBRY1?tag=rvgearlab-amz-20",
     "description": "The Arsenda listing that states both numbers outright, 18,000 BTU cooling and 10,236 BTU heating, makes it the easiest combo in this list to judge on paper. It is a 110 to 120V non-ducted rooftop unit that fits 14.25 inch by 14.25 inch roof openings and lists operation from 23 to 115 degrees F outdoors.\n\nCompared with the two other Arsenda listings, this one puts the heating BTU in the first bullet instead of leaving it implied. Against the Treeligo, it matches the cooling and heating figures while naming the 12V DC control connection plainly.\n\nBest for owners swapping a standard 14.25 inch rooftop unit who want a heat pump with the heating capacity printed on the page. A good fit for shoulder-season trips where electric heat spares the propane furnace.",
     "specs": [
       "18,000 BTU cool, 10,236 BTU heat",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41TTzBRgFUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H6WNWDR8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H6WNWDR8?tag=rvgearlab-amz-20",
     "description": "This Arsenda 18,000 BTU unit is described as a heat pump with cooling, using R32 refrigerant on 110 to 120V power. It lists a 23 to 115 degree F outdoor range and fits the standard 14.25 inch roof opening.\n\nIt shares its core hardware and price with the other Arsenda listings above and below, so the choice among them comes down to which listing you trust. Against the Treeligo, it lists R32 refrigerant and the 12V DC requirement more openly.\n\nBest for buyers who want a mainstream-sized heat pump combo and are happy to run a 12V feed to the unit as well as shore power. A solid middle option for travel trailers.",
     "specs": [
       "18,000 BTU heat pump, R32",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41VcQhyu6-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H6WQ4RMR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H6WQ4RMR?tag=rvgearlab-amz-20",
     "description": "The second Arsenda heat pump listing carries the same 18,000 BTU rating, R32 refrigerant and 110 to 120V non-ducted design. It uses the same 14.25 inch roof opening and 23 to 115 degree F operating range as the pick above.\n\nAgainst the Arsenda Heat Pump, the specifications read the same, so it works as a second source if one listing is out of stock. Against the Treeligo, it lists the dual-power requirement up front.\n\nBest for buyers who have already settled on Arsenda and want a heat pump rooftop unit without a long hunt. Pick whichever listing is available.",
     "specs": [
       "18,000 BTU with heat pump",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31vpWrlkFIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H7177LTS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H7177LTS?tag=rvgearlab-amz-20",
     "description": "The Treeligo is an 18,000 BTU cooling and 10,236 BTU heating, 115V non-ducted rooftop unit rated at 50 dB. Its listing states a 23 to 115 degree F outdoor range and a fit for 14.17 inch by 14.17 inch vent openings.\n\nAgainst the three Arsenda units, it undercuts them on price while matching the BTU figures and the 50 dB rating. Against the 12V units, it brings far more heating capacity.\n\nBest for budget-minded buyers who want 18,000 BTU of heat-pump capacity on shore power. A strong pick for family-size travel trailers.",
     "specs": [
       "18,000 BTU cool, 10,236 BTU heat",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31VGALxXF0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GXHKQK2W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GXHKQK2W?tag=rvgearlab-amz-20",
     "description": "The Xenjum is a 12V DC rooftop unit rated 11,000 BTU cooling and 4,500 BTU heating, weighing 43 lbs with a 6.1 inch profile. It uses an inverter scroll compressor, lists 35 dB operation and comes with a remote control and LED panel.\n\nAgainst the 115V Arsenda and Treeligo units, it trades heating capacity for battery operation and a much lighter body. Against the Bailigo, it gives clearer numbers on weight, noise and battery bank sizing.\n\nBest for boondockers and van or small trailer owners with a large lithium bank who want a combo that skips the generator. Strong for quiet nights with a battery bank ready to feed it.",
     "specs": [
       "11,000 BTU cool, 4,500 BTU heat",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21rldQweUDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GSVVHKFB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GSVVHKFB?tag=rvgearlab-amz-20",
     "description": "The Bailigo is a 9,300 BTU 12V rooftop unit marketed as an AC and heater combo for campers and trucks. Its listing mentions an inverter-style frequency-adjusting design and an ABS body.\n\nAgainst the Xenjum, it costs less and is smaller in capacity, making it the entry-level 12V option. Against the 115V units, it serves very small spaces such as a camper van or truck sleeper.\n\nBest for tiny spaces, truck cabs and van builds where a low-draw 12V unit is enough. A budget starting point for off-grid experiments.",
     "specs": [
       "9,300 BTU, 12V DC",

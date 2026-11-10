@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41A8JSyduwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07ZHNWMGL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07ZHNWMGL?tag=rvgearlab-amz-20",
     "description": "The Camco Curved Camper Levelers are a pair of drive-on ramps that lift tires up to 4 inches. They use a honeycomb build in a compact length that fits tandem wheel spacing without modification, and include wheel chocks with non-slip rubber grippers.\n\nCompared with the single Camco Curved Leveler, it gives you two ramps and chocks, enough to handle an axle group on each side. It suits triple axle owners who want brand-tested, made-in-USA ramps.",
     "specs": [
       "Lifts up to 4 inches",
@@ -53,7 +53,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41QO+i1zQBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B06XPDKJN7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B06XPDKJN7?tag=rvgearlab-amz-20",
     "description": "The Camco Single Curved Leveler is one ramp that adds up to 4 inches under a tire. It uses the same compact honeycomb design as the pair and comes with a single wheel chock with non-slip rubber grippers.\n\nAgainst the Camco Curved Pair, it costs less and suits trailers where one side needs only a small lift. It fits owners who level one side only or who want to add a second ramp later.",
     "specs": [
       "One ramp, 4 inch lift",
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/419NGtLPd1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B1HJWRW7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B1HJWRW7?tag=rvgearlab-amz-20",
     "description": "The OULEME 2 PK is a pair of curved levelers for dual axle trailers, made of HDPE with two thickened non-slip rubber pads. They level in any increment between 1/2 and 4 inches in under 5 minutes and fit tandem wheeled RVs with a compact length.\n\nCompared with the Camco Curved Pair, it describes a finer 1/2 inch increment and a very high stated tire weight limit. It suits owners who want precise adjustment and a low price for a two-pack.",
     "specs": [
       "Any increment 1/2 to 4 inches",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41-uZFwH8+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B005WLDORS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B005WLDORS?tag=rvgearlab-amz-20",
     "description": "The totes Stadium Snow boot lists waterproof construction, Thermolite insulation for temperatures down to -10 degrees and a faux fur lining. A durable outsole with extra traction and a front zipper make it quick to put on and secure.\n\nCompared with the Moodeng Fur Lined, it states an insulation rating. Against the NORTIV 8 Lightweight Hiker, it is a warmer snow boot with a fur lining rather than a trail boot.\n\nIt suits daily walkers who want one dependable winter boot. The front zipper is useful for quick trips outside.",
     "specs": [
       "Thermolite insulation to -10",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41uorV-0p8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DDKV6GLP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DDKV6GLP?tag=rvgearlab-amz-20",
     "description": "The Moodeng Fur Lined boot has a breathable fur lining and a fluffy insole, a waterproof PU leather upper and a Velcro strap lace-up design. Its rubber sole is described as abrasion-resistant with deeper, wider grain for slip resistance.\n\nAgainst the Mishansha High-Top, it adds a waterproof PU upper and a more relaxed instep. Compared with the totes Stadium Snow, it is lighter and softer with no insulation rating listed.\n\nIt suits casual walkers and travelers who want a soft, light boot. The listing names walking, jogging and traveling.",
     "specs": [
       "Waterproof PU leather upper",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41n0K3wiDRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07P84R5YD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07P84R5YD?tag=rvgearlab-amz-20",
     "description": "The NORTIV 8 Lightweight Hiker has a waterproof membrane and a protective rubber toe cap, with reinforcement around the heel. A suede leather finish, multi-directional traction rubber outsole and shock-absorbent MD midsole round out the build.\n\nCompared with the totes Stadium Snow, it is built for trails with a toe cap and midsole. Against the Mishansha High-Top, it trades fur lining for a removable insole and midsole cushioning.\n\nIt suits walkers who cover long distances on cold, damp trails. The listing mentions hiking, hunting and backpacking.",
     "specs": [
       "Waterproof membrane build",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41XxRLPTYPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07VWK13W5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07VWK13W5?tag=rvgearlab-amz-20",
     "description": "The Mishansha High-Top wraps the foot in a high-top lace-up shape with reinforced eyelets and a water-resistant faux leather finish. Inside sit a fur-style lining and a removable fleece insole, under a deep-tread outsole with a flexible forefoot.\n\nCompared with the Moodeng Fur Lined, it lists a flexible forefoot and reinforced eyelets. Against the ziitop Hook-and-Loop, it adds a lace-up high top.\n\nIt suits walkers who want stable ankles on slick or uneven ground. The listing mentions camping, winter commuting and dog walking.",
     "specs": [
       "High-top lace-up, reinforced eyelets",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41IKi9d-L6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H4527C5D?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H4527C5D?tag=rvgearlab-amz-20",
     "description": "The ziitop Hook-and-Loop boot has a side hook-and-loop closure, a water-resistant oxford cloth upper and a warm faux fur lining. A padded ankle, rubber toe wrap and a textured rubber outsole make it a light everyday winter shoe.\n\nCompared with the ANJOUFEMME Mid-Top, it has a low ankle and a strap instead of laces. Against the Moodeng Fur Lined, it is lighter and more casual.\n\nIt suits commuters and walkers on dry, cold days. The listing says it pairs with jeans and joggers.",
     "specs": [
       "Side hook-and-loop closure",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41nR6NYb+TL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D9LRHTFQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D9LRHTFQ?tag=rvgearlab-amz-20",
     "description": "The ANJOUFEMME Mid-Top boot has a plush fur lining, a thermoplastic elastomer deep-lugged outsole and a PU leather exterior listed as water resistant. A padded ankle collar, cushioned insole and soft toe aim to reduce foot fatigue.\n\nAgainst the ziitop Hook-and-Loop, it adds a deep-lugged TPE outsole. Compared with the Mishansha High-Top, it uses a mid-top with a PU exterior and a lower price.\n\nIt suits budget walkers who also shovel snow or take short hikes. The listing calls it versatile footwear.",
     "specs": [
       "Deep-lugged TPE outsole",

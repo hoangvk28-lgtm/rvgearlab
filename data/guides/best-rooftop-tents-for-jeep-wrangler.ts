@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51BU4M7--6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DNZ1GDX6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DNZ1GDX6?tag=rvgearlab-amz-20",
     "description": "The Naturnest Sirius 1 is a slimline clamshell with an impact-resistant ABS shell, an aluminum frame and a hydraulic boom that opens it in 30 seconds. It sleeps two adults and a child on an 82.6 by 63 inch floor with 47.2 inches of headroom.\n\nOf the two Naturnest tents here it is the smaller and lower-priced one, so it asks the least of a Wrangler roof. Compared with the Sirius 1 Plus it has a thinner mattress.\n\nIt suits Wrangler owners who want an aerodynamic shell with double locks. 420D ripstop and 5000mm waterproofing are listed.",
     "specs": [
       "82.6x63 in floor, 47.2 in headroom",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41vEJ37AM-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DQPZKMNS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DQPZKMNS?tag=rvgearlab-amz-20",
     "description": "The TOPOAK Nebula XL is an aluminum hard shell with a 10,000mm waterproof rating, 320G blackout fabric and a 420D oxford rainfly. Its X-frame expands the space by 50 percent, with a 2 inch memory foam mattress and LED lighting.\n\nIt lists the strongest waterproofing of the four and the only lifetime assurance on its gas springs. It is much pricier than the AvaaHazerl.\n\nIt suits trail campers who face heavy storms and want a premium sleep system on the Wrangler. The gas springs carry a lifetime assurance.",
     "specs": [
       "10,000mm waterproof rating",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/514DhMGyqjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HHDQ6RPT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HHDQ6RPT?tag=rvgearlab-amz-20",
     "description": "The AvaaHazerl is an aluminum hard shell for SUV, truck, Jeep and van roof racks, with stainless steel gas struts and a lightweight shell. A marine pad sits under the mattress, a condensation layer keeps it dry, and the listing rates it for light snow.\n\nIt is the least expensive pick and states that it suits Jeep roof racks. The Nebula XL and Naturnest tents cost far more.\n\nIt suits Wrangler owners who care about roof weight and price. Stainless struts handle the opening.",
     "specs": [
       "Aluminum, stainless struts",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/518XYiAlYPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DNZ2QVYD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DNZ2QVYD?tag=rvgearlab-amz-20",
     "description": "The Naturnest Sirius 1 Plus is a 2 to 3 person hard shell with a honeycomb-insulated ABS shell, a 1.97 inch mattress and blackout fabric. It includes roof crossbars and drops from travel mode to camp in about 30 seconds.\n\nIt sleeps the same number as the Sirius 1 and adds better insulation and a thicker mattress. It also costs more than the AvaaHazerl.\n\nIt suits Wrangler campers who sleep in cold or hot spots and want a quieter shell. Blackout fabric helps with early sunrises.",
     "specs": [
       "Honeycomb-insulated ABS shell",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31U+LeWiDjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07V2CCBCJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07V2CCBCJ?tag=rvgearlab-amz-20",
     "description": "The NORTIV 8 Slip-On Thinsulate boot lists 200g 3M Thinsulate insulation rated for temperatures as low as -25F and a wind-resistant, water-resistant upper with a waterproof shell. A hook-and-loop ankle strap and toggle laces set the fit, and a faux-fur insole adds cushion.\n\nCompared with the ALEADER Pull-On, it names its insulation and adds an adjustable ankle strap. Against the Kricely Insulated, it adds a rubber outsole claim for snow, ice and mud.\n\nIt suits snow shovelers, skiers and ice fishers who want a slip-on that still seals around the ankle. The listing says it fits over jeans or snow pants.",
     "specs": [
       "200g 3M Thinsulate insulation",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41lnww5zfiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07TNYTS85?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07TNYTS85?tag=rvgearlab-amz-20",
     "description": "The ALEADER Pull-On boot has a cushioned footbed, insulation and a seam-sealed waterproof outsole. A drawstring and ankle velcro strap make it easy to pull on, and the listing mentions creek crossings in cold weather.\n\nAgainst the Kricely Insulated, it uses a drawstring and velcro closure. Compared with the NORTIV 8 Slip-On Thinsulate, it skips named insulation and costs less.\n\nIt suits commuters and walkers who want a quick, waterproof boot. It works for wet or snowy conditions on foot.",
     "specs": [
       "Seam-sealed waterproof outsole",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31bh-75H9KL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D52H58RH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D52H58RH?tag=rvgearlab-amz-20",
     "description": "The Kricely Insulated boot lists enhanced cushioning, insulation for extreme cold protection and a seam-sealed waterproof outsole. The wear-resistant rubber sole has a groove texture that increases anti-skid performance.\n\nCompared with the ALEADER Pull-On, it puts the focus on cushioning and a grooved sole. Against the ziitop Zip Ankle, it adds a waterproof sealed outsole.\n\nIt suits skiing, snowmobiling, ice fishing and hunting trips. The listing names jungle and outdoor use as well.",
     "specs": [
       "Seam-sealed waterproof outsole",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41KYFJ9nTLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C4TR999K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C4TR999K?tag=rvgearlab-amz-20",
     "description": "The NORTIV 8 Ankle Hiking boot is a waterproof trail boot with removable cushioned insoles and lightweight EVA midsoles. Its rubber sole carries advanced traction for hiking, hunting, camping and backpacking.\n\nCompared with the NORTIV 8 Slip-On Thinsulate, it is a trail boot rather than a snow boot. Against the Mishansha Winter Hiking, it leans on midsole cushioning and traction over a fur lining.\n\nIt suits cool-weather walkers who want hiking comfort. It works well as an all-season boot.",
     "specs": [
       "Lightweight EVA midsoles",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4132OW00alL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07WGG3T8X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07WGG3T8X?tag=rvgearlab-amz-20",
     "description": "The Mishansha Winter Hiking boot is a high-top lace-up with a water-resistant faux leather finish and a fur-style insole over a removable fleece layer. A flexible forefoot and deep-tread sole help it move across uneven snow.\n\nCompared with the ziitop Zip Ankle, it adds a high-top lace-up for ankle support. Against the NORTIV 8 Ankle Hiking, it adds a fur-lined interior for colder days.\n\nIt suits budget buyers who want warm ankle support for light snow. It also covers camping and dog walks.",
     "specs": [
       "Faux leather, water-resistant",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41CFgZcjX3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C9BSMMNN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C9BSMMNN?tag=rvgearlab-amz-20",
     "description": "The ziitop Zip Ankle boot has a waterproof oxford fabric upper, a synthetic short fleece lining and non-slip rubber soles. Side zippers make the laceless boot easy to put on and take off.\n\nCompared with the Mishansha Winter Hiking, it swaps laces for zippers. Against the Kricely Insulated, it leans on soft fleece rather than a named insulation claim.\n\nIt suits winter walks, dog outings and light outdoor chores. The listing also mentions camping and fishing.",
     "specs": [
       "Waterproof oxford fabric upper",

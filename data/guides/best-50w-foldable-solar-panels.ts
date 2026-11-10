@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/416rcRT27wL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CSPJHSZJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CSPJHSZJ?tag=rvgearlab-amz-20",
     "description": "The BougeRV lists 1.76 lbs, a folded size of 14.4 x 8.54 x 1.22 inches and a fiberglass 10BB cell design. It has a DC7909/5521 port, a USB-C 5V/3A port and a USB-A port, plus 4 carabiners and 2-year tech support.\n\nIt is the lightest of the three and the only one with a stated multi-year support period. It costs less than the Lion Energy and more than the bag-style panel.\n\nIt suits campers who want a light 50W for a BougeRV or other small station. The DC port reaches stations that take DC input.",
     "specs": [
       "1.76 lbs, 14.4 x 8.54 x 1.22 in",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/319NbMRw-NL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B1JRK4QT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B1JRK4QT?tag=rvgearlab-amz-20",
     "description": "The Lion Energy is a 50W, 12V folding panel with kickstands, one USB-A, one USB-C and an included 10 ft barrel-to-barrel cord. It weighs 3 lbs and folds to 11.25 x 11.25 inches.\n\nIt has the longest included cable of the three and kickstands built in. It weighs about 1.2 lbs more than the BougeRV and costs more.\n\nIt suits RV and off-grid users who want a 12V panel with a long cord. The kickstands position it without a prop.",
     "specs": [
       "50W, 12V, 3 lbs",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31sdGMrIrML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C9ZWHHMR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C9ZWHHMR?tag=rvgearlab-amz-20",
     "description": "The Jauarta is a 50W monocrystalline silicon panel built into a 5-fold bag with one USB charging port. It is aimed at camping, hiking, backpacking and fishing.\n\nIt is the budget end of the list and the simplest, with a single USB port and no DC output. It is thinner on specs than the BougeRV.\n\nIt suits backpackers who only need to charge a phone. The bag form carries easily.",
     "specs": [
       "50W mono, 5-fold bag",

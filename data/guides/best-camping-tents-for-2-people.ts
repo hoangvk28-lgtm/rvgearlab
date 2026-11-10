@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31LPn6klGSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7QLQNS5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7QLQNS5?tag=rvgearlab-amz-20",
     "description": "The Coleman Sundome is sold in 2, 3, 4 and 6 person sizes, and the two-person is designed for two campers. It has WeatherTec welded corners and inverted seams, Insta-Clip pole attachments and continuous pole sleeves.\n\nCompared with the UNP, it carries a known weather system and lists large windows and a ground vent. Against the Amazon Basics, it has a familiar frame and a longer track record.\n\nIt suits couples who want a proven tent for car camping. It sets up in about 10 minutes.",
     "specs": [
       "2 to 6 person sizes",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41JKurKZZlL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08HGW1QC1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08HGW1QC1?tag=rvgearlab-amz-20",
     "description": "The UNP two-person dome measures 7 feet by 5 feet by 45 inches and weighs 4.8 pounds. It has a removable rainfly, two zippers, a skylight net, a larger mesh window and an interior storage pocket.\n\nCompared with the Coleman Sundome, it is lighter and cheaper with a smaller footprint. Against the Clostnature, it lists weight and size more clearly.\n\nIt suits pairs who want a light dome that one person can set up in about 3 minutes. It fits one full air mattress.",
     "specs": [
       "7 x 5 ft, 45 inch height, 4.8 lb",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31U+A9gSG-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DDSZML1C?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DDSZML1C?tag=rvgearlab-amz-20",
     "description": "The Amazon Basics Dome is a three-season, free-standing two-person tent in coated polyester with welded seams. Shock-corded poles with snag-free sleeves let it go up in under 4 minutes, and the rainfly has a back window and cool-air port.\n\nCompared with the Coleman Sundome, it pitches faster with a simpler frame. Against the Clostnature, it states setup time and has welded seams.\n\nIt suits first-time campers who want the simplest tent. It stands without stakes.",
     "specs": [
       "3 season, free-standing dome",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41EXGv3DbIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BRX514YX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BRX514YX?tag=rvgearlab-amz-20",
     "description": "The Clostnature two-person dome uses a freestanding X-pole frame and a polyester fly coated to PU 2000. It has factory-sealed seams and a dual-layer door with an N-shaped net.\n\nCompared with the Coleman Sundome, it is simpler and can be moved without taking it down. Against the Amazon Basics, it lists a waterproof number.\n\nIt suits budget pairs who want a freestanding frame. It moves easily when you adjust your site.",
     "specs": [
       "Freestanding X-pole dome",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41kW3X8r0yL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01IVRSGT0?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01IVRSGT0?tag=rvgearlab-amz-20",
     "description": "The Wakeman two-person tent includes a rain fly and a carrying bag, and the listing says it is made in the USA. The fabric is nylon, and the listing describes it as built to keep you and your gear dry.\n\nCompared with the Clostnature, it adds American manufacturing at a similar level of simplicity. Against the UNP, it lists far fewer specifications.\n\nIt suits budget campers who care where their tent is made. It is a basic summer shelter.",
     "specs": [
       "Nylon, rain fly included",

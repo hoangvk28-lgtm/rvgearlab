@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51+ABMsV1EL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F8BDT2V1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F8BDT2V1?tag=rvgearlab-amz-20",
     "description": "The Naturehike CW295 is an ultralight bag filled with 295 g of duck down held in individual channels, wrapped in water-repellent nylon. It weighs 1.3 lb and stows to 4.7 by 10.2 inches.\n\nIt is the lightest and smallest pick here, and the only one with down fill. Compared with the TANSTRIDER Ultralight 75 in, it weighs a little less and costs more.\n\nIt suits backpackers who want the lowest carry weight and the smallest pack for three-season use. It is also the pick for anyone adding a liner to extend the range.",
     "specs": [
       "295 g of duck down",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31tcbVOapKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F82XP35J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F82XP35J?tag=rvgearlab-amz-20",
     "description": "The NewDoar weighs 1.5 lb and packs to 11.8 by 6.5 inches in the included compression sack. It is rated 50 to 70 degrees F, with a 20D 380T ripstop nylon shell and a breathable polyester lining.\n\nIts two-way zippers link it to a second bag for a double, which the Naturehike CW295 Down does not describe. It weighs more than the Naturehike and costs less, and a bottom zipper design with Velcro at the neckline keeps the zipper from opening.\n\nIt suits couples and friends who want to zip two light bags together for warm-weather trips. The compression sack shrinks it to a third of its size.",
     "specs": [
       "1.5 lb, packs 11.8 x 6.5 in",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41w-NONSdZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DK99H94M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DK99H94M?tag=rvgearlab-amz-20",
     "description": "The TANSTRIDER is a 75 by 30 inch bag that weighs 1.5 lb, with a nylon exterior, a washed cotton lining and a 50 to 70 degree F range. A two-way zipper lets it connect to a second bag or open into a blanket, and the foot zippers open separately.\n\nIt carries the lowest price of the four, with pinch-resistant zippers and Velcro collars, and a compression bag is included. Next to the NewDoar Ultralight 1.5 lb, it lists its length and width clearly.\n\nIt suits summer campers and travelers who want a cheap, light blanket-style bag. The foot zippers help vent heat on warm nights.",
     "specs": [
       "75 x 30 in, 1.5 lb",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41fBoVWzp0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01GDGS6K0?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01GDGS6K0?tag=rvgearlab-amz-20",
     "description": "The WERTYCITY weighs about 1.54 lb and compresses to 6.9 inches in height. It has a nylon outer, a polyester pongee lining and a filling the listing calls imitation silk cotton, and its comfort figure is 59 degrees F.\n\nTwo bags in any color zip together to make a double, as with the NewDoar Ultralight 1.5 lb and the TANSTRIDER Ultralight 75 in. It is the second-lowest in price of the four.\n\nIt suits hot-weather campers, scouts and travelers who value a small roll over warmth. The breathable lining helps on hot nights.",
     "specs": [
       "About 1.54 lb",

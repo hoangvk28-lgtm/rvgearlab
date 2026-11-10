@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41OJEOHwezL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07FXZ5V2R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07FXZ5V2R?tag=rvgearlab-amz-20",
     "description": "Classic Campsuds by Sierra Dawn is described as the original biodegradable camping soap, sold in a 4 ounce trail-size bottle. It works as camp dish soap, shampoo, body wash and outdoor shower soap.\n\nIt carries the longest track record of the group and the compact bottle fits a pack, which the larger-format soaps do not. A little goes a long way because it is concentrated.\n\nBackpackers and weekend campers who want one soap for everything will like it. It is a dependable default.",
     "specs": [
       "4 oz concentrated bottle",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51qoIAcMkaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09SN41G4Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09SN41G4Y?tag=rvgearlab-amz-20",
     "description": "Sierra Dawn Outdoor Soap is a concentrated biodegradable camp soap that makes suds with just a few drops. It works in hot, cold and salt water and cleans dishes, pots, pans, clothes and hands.\n\nThe salt water claim sets it apart from Classic Campsuds, and it covers laundry as well. It stays tough on dirt while staying gentle on surfaces.\n\nSailors, beach campers and anyone washing a mix of items will like how widely it works. One bottle covers the dish bin and the laundry bag.",
     "specs": [
       "Works in hot, cold, salt water",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31-Janh6dTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FGS8LFNN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FGS8LFNN?tag=rvgearlab-amz-20",
     "description": "Coghlan's Biodegradable Camp Soap is a scent-free, low-suds concentrated formula for dishes, gear and skin. The listing says it is safe for outdoor use near streams, lakes and campsites when used properly.\n\nScent-free makes it better for bear country and bug-prone sites than perfumed soaps. The low-suds formula rinses clean with minimal water, which saves effort at dry camps.\n\nBackcountry campers and anyone with sensitive skin will like that it does not smell like a bakery. It rinses clean, which suits sites with limited water.",
     "specs": [
       "Scent-free concentrate",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41V-IJmQIHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DW7QLZBR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DW7QLZBR?tag=rvgearlab-amz-20",
     "description": "Uncle Todd's Wild Wash is a biodegradable soap meant for dishes, body, hands and clothes. It doubles as a hiking soap and camping shampoo.\n\nIt is priced between the budget and premium bottles, and it covers laundry as well as body use. It suits a pack that does double duty.\n\nThru-hikers and road trippers who wash everything with one bottle will like it. It saves carrying a separate shampoo.",
     "specs": [
       "Biodegradable multi-use soap",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41X0-H3E4gL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GRWDGBM7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GRWDGBM7?tag=rvgearlab-amz-20",
     "description": "Nerisca is a 4 ounce biodegradable camp soap made with beef tallow. It is an all-in-one wash for dishes, gear and personal care.\n\nThe tallow base makes it different from the detergent-style soaps, and the low-foam formula rinses away quickly. It is the second-cheapest pick.\n\nCampers who prefer a simple, natural-base soap will like it. It handles dishes and a quick wash-up with the same bottle.",
     "specs": [
       "4 oz tallow-based soap",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41l2aofOK7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08223WL6B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08223WL6B?tag=rvgearlab-amz-20",
     "description": "Dead Down Wind Base Camp is a 4 ounce biodegradable multipurpose soap designed to control odors. It is made for dishes, hunting gear, hands and body.\n\nOdor control is the focus, which no other pick here makes a headline. It is gentle enough for skin and priced low.\n\nHunters and sports fans who care about scent will like it. It works for pots, gear and hands at a base camp.",
     "specs": [
       "4 oz bottle",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41R1vMsDCmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07V6JMWYP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07V6JMWYP?tag=rvgearlab-amz-20",
     "description": "The Bessport is a synthetic mummy whose title advertises a 15 to 45F extreme range for 3-4 season use. Body text gives a comfort range starting at 50F, so the title number is the limit rather than the comfort figure.\n\nThe stated fit is adults from 6 ft 1 to 6 ft 6, with a shoulder girth of 63 inches, a hip girth of 50.3 inches and a foot girth of 33 inches. Compared with the Clostnature it uses a 210T water-repellent ripstop shell and a soft taffeta liner.\n\nIt suits tall campers who want a synthetic mummy that tolerates damp. A satisfaction guarantee is stated on the listing.",
     "specs": [
       "15 to 45F extreme claim",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31v31Uuw2iL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FDQ8B7LT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FDQ8B7LT?tag=rvgearlab-amz-20",
     "description": "Clostnature loads this mummy with 840 g of 550-fill white duck down in independent channels, wrapped in 20D nylon with a DWR coating. The listing states 3.08 lb, an 82.6 by 31.5 inch size and a packed size of 15 by 7.8 inches.\n\nIt carries down where the Bessport relies on synthetic fill, and its printed weight and packed size make it easier to plan a pack around. No ISO rating or temperature figure appears, so it cannot be compared to the Bessport's 15 to 45F claim.\n\nIt suits backpackers who want real down at a low price and will provide their own judgment on temperature. A warm pad makes up for the missing rating.",
     "specs": [
       "840 g of 550-fill down",

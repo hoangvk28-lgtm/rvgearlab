@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41qXbUPR5WL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GTVLT92X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GTVLT92X?tag=rvgearlab-amz-20",
     "description": "The ZHENYUAN PD9380 is built for the PD9300 series with part numbers PD9380, PD9380CV and PD9380V. It states a 105 to 130V AC, 60Hz input, 13.2 to 14.7V DC output rated for 80 amps, 1300W output power, a three-stage design and a 20 amp AC plug. Colored LEDs show magenta for constant voltage, blue for lithium, green for flooded lead-acid and white for AGM, and the unit measures 8.51 by 7.48 by 3.22 inches.\n\nIt ranks first because it publishes the most numbers: wattage, plug, voltage window, dimensions and a mode guide. At $189.99 it is $30 above the Xxamz PD9280AV and $94.09 above the VEVOR, which lists a lithium mode but fewer specifics. The extra cost buys the PD9300 series fit and a documented lithium LED.\n\nPick it for a PD9300 replacement with lithium. The caveat is that the listing warns against charging flooded lead-acid batteries in blue or white mode, so choose the mode carefully.",
     "specs": [
       "80A, 13.2V to 14.7V",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41jSo4i57-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GH6TL5L3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GH6TL5L3?tag=rvgearlab-amz-20",
     "description": "The Xxamz PD9280AV is made to replace Inteli-Power 9200 series converters, including the PD9280. It lists an 80A output with up to 1380W peak power and a Charge Wizard that cycles through boost at 14.4V, normal at 13.6V, storage at 13.2V and an equalization mode. Its variable-speed fan adjusts to temperature and the output is filtered for sensitive electronics.\n\nIt ranks second because the Charge Wizard stage list is detailed and it costs $30 under the ZHENYUAN PD9380, but it has no lithium mode. It is $64.09 above the VEVOR 80 Amp, which does list a LiFePO4 mode. Its edge is the equalization and storage stages, which help a flooded bank.\n\nChoose it for a flooded or AGM bank in a PD9200 series rig. The caveat is that the 1380W is a peak figure and the listing names no lithium compatibility.",
     "specs": [
       "80A, Charge Wizard",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41gGlS0+7HL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FX27YVWP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FX27YVWP?tag=rvgearlab-amz-20",
     "description": "The VEVOR 80 Amp supports lead-acid and LiFePO4 batteries, with a 13V to 16.5V operating range and fixed modes at 13.0V, 14.6V and 16.5V. It offers multi-stage charging, an intelligent fan that starts above its rated temperature, a metal housing, six protections and a 100 percent copper cable. The listing says it suits 75Ah to 80Ah batteries.\n\nIt ranks third at $95.90, $94.09 under the ZHENYUAN PD9380, because the lithium mode and copper cable come at a modest price. It is $5.66 above the MWXNE and $4.09 under the JCGSWVJ, which is the same design with a thinner accessory list.\n\nPick it if you want lithium on a budget. The caveat is the 16.5V fixed mode, which is not for normal charging, and the confusing 75Ah to 80Ah bank note for an 80A unit.",
     "specs": [
       "80A, 13V to 16.5V",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/516vgoDFGJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GCJBFSW3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GCJBFSW3?tag=rvgearlab-amz-20",
     "description": "The MWXNE 80 Amp converts 120V AC to 12V DC and charges lead-acid or LiFePO4 batteries using a switch to choose modes. It also has a fixed voltage mode with 13.0V, 14.6V or 16.5V options, automatic three-stage Boost, Normal and Trickle charging, a metal housing with a temperature-controlled fan, and protections that include thermal shutdown and extra fuses.\n\nIt ranks fourth because it is $5.66 cheaper than the VEVOR 80A at $90.24, but without the copper cable, and it is $0.25 above the ZKMYCBSV. Its distinguishing detail is the pack of extra fuses and the explicit Boost, Normal, Trickle stage names, which the other budget units skip.\n\nChoose it if you want named stages and spare fuses. The caveat is the same 16.5V option and the lack of stated wattage.",
     "specs": [
       "80A, switch-selected modes",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/516grtUVlXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GSYTBLHS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GSYTBLHS?tag=rvgearlab-amz-20",
     "description": "The JCGSWVJ 80 Amp charges lead-acid and lithium batteries over a 13.0V to 16.5V range. The case is aluminum alloy with an oxidized surface, there is a built-in cooling fan, and an LED display and indicator lights show charge status. It lists overtemperature, overload, short circuit, undervoltage, overvoltage and reverse-polarity protections.\n\nIt ranks fifth at $99.99, $10.00 above the ZKMYCBSV, which has near-identical wording. The LED display is the visible difference. It is $4.09 more than the VEVOR 80A, which adds the copper cable. Both note 75Ah to 80Ah batteries, so confirm bank sizing.\n\nPick it if you want an on-unit status display. The caveat is that you pay about $10 over the ZKMYCBSV for a display and not a spec.",
     "specs": [
       "80A, 13V to 16.5V",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51U2zmbvVPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G11NVK5K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G11NVK5K?tag=rvgearlab-amz-20",
     "description": "The ZKMYCBSV 80 Amp is the lowest-priced unit here at $89.99 and converts standard 120V AC to a stable 12V DC for any RV power system including lead-acid and lithium. It lists specialized charging modes across a 13V to 16.5V range, an aluminum alloy case with oxidation treatment, a built-in cooling fan and protections covering short circuit, over-temperature, overload, low voltage, overvoltage and reverse polarity.\n\nIt ranks last by a small margin: it is $0.25 under the MWXNE and $10.00 under the JCGSWVJ, whose text it largely matches, and $100.00 under the ZHENYUAN PD9380. You trade the documented wattage and plug for the lowest price.\n\nChoose it when price is the only deciding factor. The caveat is thin documentation, so check wattage and AC plug before installing.",
     "specs": [
       "80A, 13V to 16.5V",

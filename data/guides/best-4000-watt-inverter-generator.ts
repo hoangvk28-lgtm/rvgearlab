@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41QOKH0ETDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H98TT1MN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H98TT1MN?tag=rvgearlab-amz-20",
     "description": "The PowerSmart lists 4000 starting and 3200 running watts with THD under 3%, an L5-30R twist lock outlet, a 12V 8A DC port and dual USB. It runs at 59 dBA from 23 feet and costs $399.99.\n\nIt is the best documented of the five. It costs $144.00 more than the 208cc Evernexta, which gives up its stated noise in exchange. Pick this if you want clear outlet and noise specs; the caveat is that 3200 running is below the 3400 of the cheaper rival.",
     "specs": [
       "4000W start, 3200W running",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51JdXA0Q6NL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GY9Q7ML9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GY9Q7ML9?tag=rvgearlab-amz-20",
     "description": "The 208cc Evernexta lists 4000 starting and 3400 running watts, a 2 gallon tank, 6.5 hours at 50% load, a 30A outlet, two 120V outlets and a 12V DC port. It costs $255.99.\n\nIt is $144.00 cheaper than the PowerSmart and rates 200 running watts higher, which is unusual. The trade is that its listing says little about noise or weight. Pick this if you want the most running watts per dollar; the caveat is the missing dB and weight figures.",
     "specs": [
       "4000W start, 3400W running",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41gVk47j4tL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D47V4J2B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D47V4J2B?tag=rvgearlab-amz-20",
     "description": "The Sperus is a 145cc dual fuel inverter that runs gasoline or propane and lists 62 dBA at 50% load from 23 feet. It costs $499.\n\nIt is $243.01 above the 208cc Evernexta, and that is the price of dual fuel flexibility. Propane output ratings are not shown, so verify before relying on them. Pick this if stored propane matters; the caveat is the highest price and the least documented output.",
     "specs": [
       "4000W class, 145cc OHV",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/514hNFWAhKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GX1FGZ39?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GX1FGZ39?tag=rvgearlab-amz-20",
     "description": "The Aceup lists a 146cc four stroke engine, a 1.59 gallon tank with 7.5 hours at 25% load, two 120V 20A outlets, a 30A RV receptacle and USB A and C ports. It costs $439.99.\n\nIt sits $59.01 below the Sperus but costs $40.00 more than the PowerSmart. Its tank is the smallest of the five. Pick this if you want USB C charging alongside the RV outlet; the caveat is the small tank.",
     "specs": [
       "146cc engine, 1.59 gal tank",
@@ -133,7 +133,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41gIYK0mCRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HD6KJZRR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HD6KJZRR?tag=rvgearlab-amz-20",
     "description": "This Evernexta lists 4000 peak and 3200 running watts, 59 dB from 23 feet, Eco mode and THD under 3%. It sells for $379.99.\n\nIt is $20.00 under the PowerSmart with nearly the same ratings, and $60.00 below the Aceup. It omits the specific outlet details. Pick this if you want the PowerSmart's rating and noise for less; the caveat is the thinner outlet documentation.",
     "specs": [
       "4000W peak, 3200W running",

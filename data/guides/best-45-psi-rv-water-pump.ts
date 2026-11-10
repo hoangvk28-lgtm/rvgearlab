@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41c6tMSHUBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GJ2TYB21?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GJ2TYB21?tag=rvgearlab-amz-20",
     "description": "The DC HOUSE 33 Series is a 12V pump with a 3-chamber diaphragm that delivers up to 3.5 GPM at a 45 PSI shut-off. It lists a noise-dampening rubber mounting base, a copper-wound motor, an adjustable switch and integrated overload protection.\n\nThe damping base and adjustable switch put it ahead of the plain RVGUARD for sleeping-area installs, while the ECO-WORTHY adds a 9.8 foot priming figure. It sits at a low price.\n\nRight for buyers who want a quiet, gentle pump. The adjustable switch gives room to fine-tune.",
     "specs": [
       "3.5 GPM at 45 PSI",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41l0-Bb7jOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BVMDL77Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BVMDL77Y?tag=rvgearlab-amz-20",
     "description": "The ECO-WORTHY is a 12V pump rated 3.5 GPM at a 45 PSI switch point, self-priming up to 9.8 vertical feet. Its on-demand switch rejects rapid cycling, and thermal overload protection and run-dry tolerance are listed.\n\nIt states a 9.8 foot priming height where the others stay vague, which helps rigs with a tank low in the frame. It costs more than the RVGUARD.\n\nA good fit for owners whose tank sits well below the pump. The thermal protection keeps the motor safe in tight bays.",
     "specs": [
       "3.5 GPM, 45 PSI, 12V DC",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51ku21mdY-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F6T9DRQB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F6T9DRQB?tag=rvgearlab-amz-20",
     "description": "The Heuyrao 12V is a three-chamber pump, 4.0 GPM at a steady 45 PSI, that starts when a tap opens. A pure copper motor, overload protection and short run-dry capability are listed.\n\nIt has the highest flow of the 45 PSI pumps and the lowest price in the group. It does not state noise figures like the DC HOUSE.\n\nA fit for owners who want 4 GPM at a gentle setting. The copper motor and overload protection add confidence.",
     "specs": [
       "4.0 GPM at 45 PSI",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41F907VGDFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CYCFGP5W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CYCFGP5W?tag=rvgearlab-amz-20",
     "description": "The RVGUARD is a 12V pump with 3.5 GPM flow and a 45 PSI switch, designed with 1/2 inch MNPT ports. The listing says you need to be within 6 feet to hear it, and its built-in pressure switch starts and stops automatically.\n\nIt states a real-world noise distance that the DC HOUSE and Heuyrao do not, and it is sold as a replacement that suits most RV brands. It is among the cheapest here.\n\nA good fit for owners who sleep near the pump. The plain 1/2 inch MNPT ports fit common plumbing.",
     "specs": [
       "3.5 GPM at 45 PSI",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Rqim8YnCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F2691XNX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F2691XNX?tag=rvgearlab-amz-20",
     "description": "The TWERE is a 12V pump, model 2088-422-144, rated 3.3 GPM at 45 PSI with a 1/2 MNPT connection. Automatic start and stop and dry operation protection are listed.\n\nIt is the one pick that names the 2088-422-144 number and the lowest flow of the group. It costs a little more than the DC HOUSE.\n\nA good fit for owners swapping that exact 2088 pump. The MNPT connection simplifies the hookup.",
     "specs": [
       "3.3 GPM at 45 PSI",

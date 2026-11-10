@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ZqiNbCf5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HKG4W1J3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HKG4W1J3?tag=rvgearlab-amz-20",
     "description": "Renogy's Rover 2 30A states 100V Voc, 450W on 12V (900W on 24V) and 99% tracking with Bluetooth and an LCD. Renogy's Rover 2 30A is a compact MPPT controller with Bluetooth and an LCD that pairs with arrays up to 100V Voc (450W on 12V, 900W on 24V). The listing cites 99% tracking and 53% smaller size than the previous generation.\n\nIt handles more watts at 12V than EPEVER Tracer 30A (390W) and costs more than most others here. It is 53% smaller than the previous generation.\n\nBest for a van or camper with up to 450W and an app. It is the best-integrated 30A for a van or small camper.",
     "specs": [
       "30A MPPT, 12V/24V",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31gfVeVs2eL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07BHKJSFN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07BHKJSFN?tag=rvgearlab-amz-20",
     "description": "EPEVER's Tracer 30A states 100V PV, 390W at 12V, tracking above 99.5% and temperature compensation. EPEVER's Tracer3210AN-G3 is a 30A MPPT controller with 12V/24V auto recognition, 100V maximum PV and 390W on 12V (780W on 24V). The listing cites tracking efficiency above 99.5%, temperature compensation and named LiFePO4, lithium and lead-acid support.\n\nIt is cheaper than Renogy Rover 2 30A but takes less wattage and has no built-in app.\n\nBest for an installer who wants clear specs. It is a documented, no-frills 30A for installers who like clear specs.",
     "specs": [
       "30A MPPT, 12V/24V auto",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41fBa6JsnWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HC182QDC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HC182QDC?tag=rvgearlab-amz-20",
     "description": "AeternaSol's 30A MPPT auto-recognizes 12V or 24V with an LCD and dual USB. AeternaSol's 30A MPPT controller auto-recognizes 12V or 24V systems and shows data on an LCD that acts as a solar power meter. It adds dual USB ports and protection against over-voltage and short circuits.\n\nIt costs much less than EPEVER Tracer 30A but gives no efficiency figure or PV cap.\n\nBest for a budget-minded mid roof. It is a reasonably priced 30A, so ask for the PV limit before buying.",
     "specs": [
       "30A MPPT, 12V/24V auto",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41DIWD2br3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FMRH86WC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FMRH86WC?tag=rvgearlab-amz-20",
     "description": "EARNMee's 30A MPPT accepts 18 to 145VDC on 12V and manual 12V, 24V or 48V selection. EARNMee's 30A MPPT controller accepts PV input of 18 to 145VDC on a 12V battery, 36 to 145VDC on 24V and 70 to 145VDC on 48V, and lets you select the output voltage manually. It names lead-acid, colloidal and lithium batteries.\n\nIt has far more PV headroom than EPEVER Tracer 30A and costs less. Battery voltage must be set by hand.\n\nBest for long series strings on 12V to 48V banks. It is the pick when you need a high PV window at 30A.",
     "specs": [
       "30A MPPT, 12V/24V/48V",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51rkHKMr+QL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H1JPZ1GS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H1JPZ1GS?tag=rvgearlab-amz-20",
     "description": "VUICCI's 30A boost MPPT steps 12 to 60V solar up for 48V, 60V and 72V batteries with a 1200W limit. VUICCI's 30A boost MPPT controller is built for 48V, 60V and 72V batteries, stepping a 12V to 60V solar input up to the battery voltage with a 1200W limit. It uses a full metal housing and names LiFePO4, NMC, lead-acid, AGM and gel batteries.\n\nIt is not a 12V or 24V RV controller, unlike EARNMee 30A MPPT. It uses an all-metal case.\n\nBest for a 48V to 72V battery fed by a small low-voltage array. It is a niche, high-voltage-battery unit, not for a typical 12V RV bank.",
     "specs": [
       "30A boost MPPT",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zwcrNjjlL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H93V2GDP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H93V2GDP?tag=rvgearlab-amz-20",
     "description": "GIRAVO's 30A boost controller does the same step-up job for 48V, 60V and 72V batteries at a lower price. GIRAVO's 30A solar boost controller steps a 12V to 60V solar input up for 48V, 60V and 72V battery systems, with a 1200W limit and MPPT control. An LCD shows voltage, current, power and system status.\n\nIt is a near twin of VUICCI 30A Boost with an LCD showing voltage, current and power. Same limits apply.\n\nBest for a budget high-voltage battery. It is a specialist choice for high-voltage batteries, not a normal RV house-bank controller.",
     "specs": [
       "30A boost MPPT",

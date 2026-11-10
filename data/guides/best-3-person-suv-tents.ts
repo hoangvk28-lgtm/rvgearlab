@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/518XYiAlYPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DNZ2QVYD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DNZ2QVYD?tag=rvgearlab-amz-20",
     "description": "The Naturnest hardshell sleeps 2 to 3 people and uses an ABS shell over an aluminum frame, with a 1.97 inch mattress and blackout fabric. It comes with roof crossbars for lightweight gear and opens in about 30 seconds after the locks release and the ladder drops.\n\nIt carries a thicker mattress than the Sirius, and the included crossbars add cargo room the inflatable WGOS does not offer. The Mount peak costs a small fraction of this price and keeps everyone on the ground instead.\n\nIt suits a small family that camps a lot and wants a dark, quick bed on the roof. The shell stays closed and tidy between trips.",
     "specs": [
       "2 to 3 person hardshell",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31W1mLb7TLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GYHP3FKS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GYHP3FKS?tag=rvgearlab-amz-20",
     "description": "The Mount peak is a tailgate tent that fits 2 to 3 adults depending on gear. The main body measures about 9.8 by 4.9 by 6.9 feet, with a 7.2 foot awning, silver-coated 210D Oxford at PU2000 and B3 nylon mesh windows.\n\nIts floor is the only one on this list that you can judge in square feet, and it keeps the extra person on the ground. Roof tents give a flatter, thicker bed at many times the price.\n\nIt suits a family of three that wants room to sit and store bags under a shaded awning. It can also stand on its own at a campsite.",
     "specs": [
       "2 to 3 adults, 9.8x4.9 ft",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51ktJxUTiIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H6NG8NLT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H6NG8NLT?tag=rvgearlab-amz-20",
     "description": "The WGOS is an air-beam roof tent for 2 to 3 people with a pump, inflatable mattress and ladder included. Its shell uses 420D Oxford with 280G poly-cotton and carries a UV50+ rating.\n\nIt costs about a third of the Naturnest hardshell and ships in a smaller package. The tradeoff is an inflatable mattress rather than a foam one, and an inflation routine at each camp.\n\nIt suits a family that wants an elevated bed with everything bundled. Air beams make the frame easy to carry and store.",
     "specs": [
       "Inflatable 2 to 3 person",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51BU4M7--6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DNZ1GDX6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DNZ1GDX6?tag=rvgearlab-amz-20",
     "description": "The Naturnest Sirius is a clamshell that sleeps two adults and a child, with an 82.6 by 63 inch floor and 47.2 inches of headroom. It uses ABS polymer over an aluminum frame, a hydraulic boom for a 30-second open and double key locks.\n\nIts floor is narrower than the 2 to 3 person hardshell above it, which is why it ranks second among the shells. It costs less than that model and still delivers the quick open and the locking lid.\n\nIt suits a family of two adults and one small child who value fast setup. A 1.2 inch mattress is already built in.",
     "specs": [
       "Two adults and a child",

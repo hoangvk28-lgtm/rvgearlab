@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21njHYcRBwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B002OW5JIU?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B002OW5JIU?tag=rvgearlab-amz-20",
     "description": "The Maxxair MaxxFan is an all-in-one vent, fan and cover that fits the standard 14 by 14 inch opening. It includes a 3-speed fan with a manual opening keypad and a smoke lid, and the interior insect screen removes by rotating four retaining knobs.\n\nCompared with the OUTPRIZE fans, it is the brand-name option with a keypad and a simple-to-clean interior screen. It suits owners who want a recognized fan with straightforward controls.",
     "specs": [
       "3-speed fan",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31FWWDXM5eL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GFCXZNGZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GFCXZNGZ?tag=rvgearlab-amz-20",
     "description": "The OUTPRIZE Rain Shield model is a 12V DC reversible 14 by 14 inch fan with a built-in rain cover that blocks rain, dust and fallen leaves. It tight-fits a 14 inch opening and fits up to 14-1/2 inches, and roof thickness from 1.9 to 7 inches.\n\nAgainst its plainer OUTPRIZE sibling, this one adds the rain cover, which allows airflow even in wet weather. It suits campers who want to leave the vent open without watching the sky.",
     "specs": [
       "Built-in rain shield",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zRvC6WsCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DM8HVT2H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DM8HVT2H?tag=rvgearlab-amz-20",
     "description": "This OUTPRIZE fan offers three speeds with reversible flow in a 14 inch super quiet design. It includes two spare 5A slow fuses and the same 14 by 14 inch fit as the Rain Shield model.\n\nIt trims the rain cover from the other OUTPRIZE, giving the lowest cost on the list apart from the TYTXRV. It suits owners with a sheltered roof or a cover who want a basic quiet fan.",
     "specs": [
       "3-speed reversible",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41I5x-cFsaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CXMF87GX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CXMF87GX?tag=rvgearlab-amz-20",
     "description": "The TYTXRV is a 14 inch, 12V fan with three speeds and reversible blade rotation, a pure copper core motor and a 10-blade fan for stable, quiet running. It carries a removable stainless steel anti-rust insect net and a smoke lid.\n\nIt differs from the OUTPRIZE models by emphasizing the copper motor and the smoke lid for easy cleaning. It suits owners who want basic three-speed airflow with a removable screen.",
     "specs": [
       "Copper core motor",

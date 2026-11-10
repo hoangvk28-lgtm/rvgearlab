@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31d-7fNjhwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DP3MMNFM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DP3MMNFM?tag=rvgearlab-amz-20",
     "description": "The SÄKER Slurpy Sack is a collapsible, BPA-free bottle that folds down to about the size of a banana when empty. Quick release buttons control the water flow, and turning over the lip forms a bowl.\n\nIt packs smaller than any of the rigid bottles here, including the WePet 19 oz. Unused water flows back into the bottle, so a short walk wastes nothing.\n\nIt is the best pick for hikers and trail walkers who want a bottle that disappears in a pocket or pouch. The thick sack is made to last.",
     "specs": [
       "Folds to about banana size",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Y5levB-jL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BQF6G8N5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BQF6G8N5?tag=rvgearlab-amz-20",
     "description": "The TIOVERY holds 20 oz of water and 6.5 oz of food in two layers. It is made from Tritan plastic and food-grade silicone, with two silicone seal rings and a lock key against leaks.\n\nIt carries more water than the Cibaabo and the WePet 12 oz, and the second layer holds treats. Excess water goes back into the bottle with a press of the middle button.\n\nIt suits walkers who bring training treats and want one gadget for both. The detachable design takes apart for deep cleaning and goes in the dishwasher.",
     "specs": [
       "20 oz water, 6.5 oz food",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41FCfGY81-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09F5ZYV7M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09F5ZYV7M?tag=rvgearlab-amz-20",
     "description": "The Cibaabo bottle comes in 10 oz and 19 oz, with a 100g food container attached to the bowl and a carbon filter. The listing notes a silicone loop and a lock to prevent leaks.\n\nIt is the only pick that offers a size choice and a carbon filter. The ABS and PC body is rated to 250F and is dishwasher safe, which gives it more heat tolerance than the plastic WePet bottles.\n\nIt is a good fit for owners of small dogs who pick the 10 oz size, and for medium dogs who need 19 oz. The attached food container handles treats.",
     "specs": [
       "10 oz or 19 oz sizes",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31oHWWe-IAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09DVRP2L6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09DVRP2L6?tag=rvgearlab-amz-20",
     "description": "The WePet 19 oz bottle is built for large dogs or long walks, with a silicone seal ring and a one-key lock. A press of the water key fills the bowl, and unused water goes back into the container.\n\nIt holds more than the Firlaxadc and the WePet 12 oz at a low price. It lacks the treat compartment on the TIOVERY and Cibaabo.\n\nIt is the pick for large-dog owners on a budget who want a simple bottle with one-hand operation. It is lead-free and BPA-free.",
     "specs": [
       "19 fl oz capacity",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51H1CO3189L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H48MWCQL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H48MWCQL?tag=rvgearlab-amz-20",
     "description": "The Firlaxadc is a 10 oz stainless steel bottle with a secure lid and a silicone leak-proof ring. A flexible silicone collar pulls up to form a drinking bowl, and a built-in carry rope makes it easy to hang.\n\nIt is the only stainless bottle on the list, so it resists chewing and odors better than the plastic picks. At 10 oz it holds less than the WePet 19 oz and fits most cup holders.\n\nIt fits small and medium dogs on short walks and car trips. The rope loops onto a bag or a belt.",
     "specs": [
       "10 oz stainless steel",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31JJ3NQ712L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B497MVR1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B497MVR1?tag=rvgearlab-amz-20",
     "description": "The WePet foldable bottle holds 12 oz and features a large drinking bowl that folds flat. A silicone seal and a press-to-fill key keep it simple, and the body is described as high-temperature resistant.\n\nIt is the cheapest bottle on the list and packs flatter than the rigid WePet 19 oz. It holds less water, so it suits shorter outings.\n\nIt works for small and medium dogs on neighborhood walks. The large folded bowl is easy for a dog to use.",
     "specs": [
       "12 oz foldable bowl",

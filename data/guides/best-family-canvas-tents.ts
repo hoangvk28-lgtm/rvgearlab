@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31iCmC9bdAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G56CBJHF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G56CBJHF?tag=rvgearlab-amz-20",
     "description": "The Kodiak Canvas Cabin Lodge has a 12 by 12 ft footprint, vertical walls and a 7.5 ft peak. It uses Hydra-Shield 100 percent cotton duck canvas, a 13.5 oz vinyl sewn-in floor with welded seams and a galvanized 1 inch steel tube frame.\n\nAgainst the WaldZimmer it states a sleeping count of 8, or 4 when using a stove, and carries six windows and two vents. Compared with the bell tents it has vertical walls for standing anywhere inside.\n\nIt suits families who want a durable cabin with stove readiness for cold shoulder seasons. A 5 inch stove jack is built in, with the stove sold separately.",
     "specs": [
       "12 x 12 ft, 7.5 ft peak",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41SxFCObM5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G4C313P6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G4C313P6?tag=rvgearlab-amz-20",
     "description": "The WaldZimmer is a polycotton canvas wall tent with a steel frame, a PVC floor and a separate rainfly. The listing says it fits 6 to 8 people and describes four steel wires, double-layer doors and rainproof eaves.\n\nIt costs about 300 dollars less than the Kodiak and ships with 33 pegs and 21 wind ropes. Compared with the Dream House it is a wall tent with straight sides instead of a bell.\n\nIt suits families who want a wall-tent shape at a lower price. The listing calls it four-season, with canvas insulating against temperature swings.",
     "specs": [
       "Steel frame, PVC floor",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51bcdTkRjDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B088FJKCQH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B088FJKCQH?tag=rvgearlab-amz-20",
     "description": "The Dream House bell tent has a 285 gsm cotton canvas cover with PU coating rated 3000mm and sealed seams. The floor is 540 gsm PVC and zips off, and four roof vents ventilate it.\n\nAgainst the SPECRAFT it offers a 6 m diameter option and a stated 285 gsm fabric. Compared with the Kodiak it uses a single center pole, so the floor stays open while the walls slope.\n\nIt suits large families who want a spacious circular living area. Toggles and loops let you roll up the side walls.",
     "specs": [
       "285gsm cotton, PU 3000mm",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/516ZWePCOjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H3TR5QBW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H3TR5QBW?tag=rvgearlab-amz-20",
     "description": "The SPECRAFT is a 10 ft bell with a 9.8 ft diameter and 6.6 ft height, sold for 3 to 4 people. It uses mixed TC cotton, aluminum poles, double doors and a full mesh base.\n\nIt costs about a seventh of what the Kodiak does. Compared with the Dream House it has a stated 6.6 ft height and aluminum poles.\n\nIt suits small families trying canvas for the first time. Two-layer doors can be rolled up to boost airflow.",
     "specs": [
       "9.8 ft wide, 6.6 ft tall",

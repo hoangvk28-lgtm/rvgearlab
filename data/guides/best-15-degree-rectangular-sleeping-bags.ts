@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51CwZgAyc3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DHXP3LKP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DHXP3LKP?tag=rvgearlab-amz-20",
     "description": "Londtren lists a temperature rating of 0F to 15F and a comfort rating of 20F to 55F on this 90 x 40 inch bag. It has a flannel lining, zipper draft tubes, a thickened shoulder warmer and a drawstring hood, and the 210T shell is waterproof.\n\nNext to the Coleman Dunnock, it is longer and wider, fits people up to 7 ft, and its rating range brackets 15F. The Coleman is the one with the brand-backed construction.\n\nPick it for tall or broad campers who want room and a label that includes 15F. It costs less than the Coleman.",
     "specs": [
       "0 to 15F rated, 90 x 40 inch",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hCyk-j8LL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00363PSKK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00363PSKK?tag=rvgearlab-amz-20",
     "description": "Coleman's Dunnock is rated to 20F and fits adults up to 6 ft 4 in. Its Fiberlock construction, cotton cover, cotton flannel liner and Thermolock draft tube are all named on the listing, along with a patented 2-way ZipPlow zipper.\n\nIt sits closer to 15F than most bags and uses named construction details, where the Londtren relies on size. The machine-washable cotton build feels soft and dries slowly.\n\nA fit for campers who prefer a known brand and a cotton feel. Wash it after muddy trips.",
     "specs": [
       "20F rated, up to 6 ft 4 in",

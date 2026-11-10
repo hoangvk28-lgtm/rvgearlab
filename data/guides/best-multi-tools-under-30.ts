@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/513CPsaBwUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09YLPWXTX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09YLPWXTX?tag=rvgearlab-amz-20",
     "description": "The PERWIN 17-in-1 uses 440A stainless steel and a side-lock design that holds each working tool rigid once it is fully opened, with only the pliers heads left free. It measures 4.3 by 1.57 by 0.78 inches, weighs 0.66 lbs and comes with a nylon sheath.\n\nIt costs about $24, about $8 more than the DURATECH 20-in-1, and the named 440A steel and the slim 0.78 inch body are what that money buys. It is lighter and more focused on pliers than the GIRIAITUS 16-in-1.\n\nIt suits hikers, campers and drivers who want a real pocket multi-tool with locks on the working tools. It suits a daily carry as well.",
     "specs": [
       "440A stainless steel",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/514f2+jarjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08ZM2KC49?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08ZM2KC49?tag=rvgearlab-amz-20",
     "description": "The GIRIAITUS 16-in-1 adds an axe, a hammer, a nail claw, a saw and a whistle to pipe grip pliers, a wire cutter, needle nose pliers, a knife and a serrated knife. A solid nylon bag protects the tool and its sharp parts.\n\nIt costs about $27, the most in this guide, and it covers tent stakes and small kindling that the PERWIN 17-in-1 cannot touch. It is bulkier than the PERWIN 17-in-1, so it stays in the camp box.\n\nIt suits car campers and preppers who want a hammer and axe head on a multi-tool. Use it for stakes, kindling and emergencies.",
     "specs": [
       "Axe, hammer and saw",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Va5Ip3WnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DL8H85Z9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DL8H85Z9?tag=rvgearlab-amz-20",
     "description": "The DURATECH Bits has a straight-edge blade, a saw, a bottle opener, a rope cutter and a can opener with six screwdriver bits. A liner lock locks every accessory when it is fully open, and the black-coated 420 stainless steel resists rust. It measures 5 inches closed and weighs 9 oz.\n\nIt costs about $16, $8 less than the PERWIN 17-in-1, and it favors a knife and bits over pliers. Its liner lock is the strongest locking style in the group.\n\nIt suits campers who want a locking knife with screwdriver bits and can opener for the camp kitchen. It rides in a glovebox.",
     "specs": [
       "Liner lock on every accessory",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41lYW-grpeL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09NRBCGQK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09NRBCGQK?tag=rvgearlab-amz-20",
     "description": "The fangfo Clip 14-in-1 is a 14-function multi-tool with long nose and round nose pliers, replaceable wire cutters, screwdrivers and a saw. It is made from black oxidized stainless steel and opens with one hand, and a pocket clip carries it.\n\nIt costs under $10, about $14 less than the PERWIN 17-in-1, and the pocket clip and one-handed opening are not found on the other tools. It has a slimmer, lighter build than the GIRIAITUS 16-in-1.\n\nIt suits hikers and commuters who want a cheap tool that rides on the pocket edge. It makes a handy spare for a bag.",
     "specs": [
       "14-in-1 with pocket clip",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4143A8o6VDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B087748K2V?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B087748K2V?tag=rvgearlab-amz-20",
     "description": "The Mini 12-in-1 has spring-loaded pliers, a wire cutter and stripper, a folding blade, a serrated knife, a bottle opener, a metal file, screwdrivers and a saw-like edge. The 420 stainless steel body has an aluminum handle and measures 4.3 inches long, weighing 3.5 oz.\n\nIt costs under $10, tying the fangfo Clip 14-in-1, and the 3.5 oz weight makes it the lightest tool on the page. Spring-loaded pliers open on their own, which saves effort.\n\nIt suits hikers and cyclists who want a feather-light tool in a pack or glovebox. A nylon sheath is included.",
     "specs": [
       "12-in-1, 420 stainless",

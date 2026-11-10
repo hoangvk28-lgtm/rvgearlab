@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41puUQ-1PRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CTH96M52?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CTH96M52?tag=rvgearlab-amz-20",
     "description": "The TiFFCOFiO is a 25 ft, 14 AWG heavy duty cord with six grounded outlets, each with a spring-loaded waterproof cover. A 12 inch stake pushes into the ground to keep the sockets above the soil.\n\nIt is the only pick here that protects the outlets themselves with covers, where the other cords rely on the jacket. The stake saves buying a junction box.\n\nIt suits a camper who runs lights and chargers on a lawn site. The covers keep rain, dust and debris out.",
     "specs": [
       "14 AWG, 25 ft, 6 outlets",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41WDJZtNFHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G1B2LM2R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G1B2LM2R?tag=rvgearlab-amz-20",
     "description": "The cismorvex is a 25 ft, 16/3 SJTW cord with three outlets, a one-piece molded plug and double insulation. It is rated 13A, 125V and 1625W, with an IP65 jacket that resists rain, snow and dust. A 10 ft version of the line is also sold.\n\nIt gives three outlets from one plug, which the Skrizcable lacks. It is thinner than the TiFFCOFiO's 14 gauge.\n\nIt suits a camper who wants three outlets for lights, a fan and chargers at a picnic table. Double insulation adds durability over a plain cord.",
     "specs": [
       "16/3, 25 ft, 3 outlets",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41tlyOWvxkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D6VB8B1G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D6VB8B1G?tag=rvgearlab-amz-20",
     "description": "The PlugSaf is a 1-to-3 splitter with a 7 ft head and three 6 ft branches, up to 13 ft end to end, in 16/3 oxygen-free copper with an SJTW weatherproof jacket. The double PVC insulation resists abrasion.\n\nIt spreads outlets in three directions, which a straight cord cannot. It is shorter than the 25 ft cismorvex in total reach.\n\nIt suits a camper who wants outlets in three spots around a pavilion. The oxygen-free copper wire is listed for good conductivity.",
     "specs": [
       "16/3, 7+6+6+6 ft",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41de+Bq8MLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DJ1B39DD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DJ1B39DD?tag=rvgearlab-amz-20",
     "description": "The Skrizcable is a 16 gauge, 50 ft cord rated 13A, 1625W and 125V with an IP65 vinyl jacket, a 3-strand copper core and ETL and cETL listing. A 100 ft version of the line is also sold at 10A and 1250W.\n\nIt gives the longest run of the four. It has one outlet and no covers.\n\nIt suits a camper who wants one long, water-resistant cord for lights or a phone charger. The 3-strand copper core is listed with thick insulation.",
     "specs": [
       "16 gauge, 50 ft, 13A",

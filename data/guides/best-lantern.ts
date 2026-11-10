@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41k+wuj4GKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FL22QSGP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FL22QSGP?tag=rvgearlab-amz-20",
     "description": "Glocusent is a rechargeable lantern with 135 LEDs that throw a full 360 degree beam. A built-in 5000mAh battery is listed for up to 200 hours of light, and it has three color modes for different situations.\n\nIt carries the biggest battery and the longest listed runtime of the group, which lets it outlast the AAA and D-cell models on a long weekend. Three color modes let you switch from bright task light to a softer evening glow.\n\nCampers who want one dependable lantern for a week of trips will like the runtime and the modes. It works as a tent light and a table light in one.",
     "specs": [
       "135 LEDs, 360 degree beam",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51L3CGPQubL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0915B6X66?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0915B6X66?tag=rvgearlab-amz-20",
     "description": "XTAUTO is a collapsible lantern that charges by solar or USB and uses 6+1 high-intensity LED chips. It collapses to about the size of a phone, with a folding handle.\n\nIt packs smaller than any lantern in this group, which makes it the one for a daypack or a kayak hatch. The ABS body is described as waterproof and heat resistant.\n\nHikers and paddlers who want a small light will like how little room it takes. It clips to a pack strap while you walk.",
     "specs": [
       "6+1 LED chips, 360 degree",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/517Fd8eCAAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01C5QSENQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01C5QSENQ?tag=rvgearlab-amz-20",
     "description": "Etekcity gives you four collapsible lanterns with batteries included, each with 30 LED bulbs and up to 154 lumens in a 360 degree glow. Each folds to roughly smartphone size and can be dimmed.\n\nFour lanterns for the price of one big rechargeable cover every tent and the table, and batteries come in the box. It lights up by simply expanding the lantern.\n\nFamilies and groups who want light everywhere will like the pack. Hand one to each kid and everyone has a light.",
     "specs": [
       "Four lanterns, batteries included",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51au7WPaH4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G5ZFGN7F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G5ZFGN7F?tag=rvgearlab-amz-20",
     "description": "KOOPER includes four hanging solar lanterns with warm 3000K LED light and an automatic on and off. Each stands 5.9 inches tall with an upgraded solar panel, and the shadows play across a patio or deck.\n\nIt is the best looking of the group and charges itself by day, which no battery lantern can do. The warm light feels calmer than cool white.\n\nCampsite decorators and backyard campers will like the glow. Hang them around a picnic table for a soft glow.",
     "specs": [
       "Four solar lanterns, 3000K warm",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41fuhgVhgoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GGWHJ8XJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GGWHJ8XJ?tag=rvgearlab-amz-20",
     "description": "MalloMe is a pocket-sized lantern using COB LED technology for up to 300 lumens of 360 degree light. You pull it up to turn on and push it down to switch off, with no buttons.\n\nIt is the cheapest light here and the easiest to use in the dark. It is water resistant and collapses flat for storage.\n\nKids and casual campers will like how simple it is. It fits in a jacket pocket.",
     "specs": [
       "Up to 300 lumens, COB LED",

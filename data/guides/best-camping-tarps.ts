@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41UYOrSrWXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08DXDQT3D?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08DXDQT3D?tag=rvgearlab-amz-20",
     "description": "The FREE SOLDIER camo tarp measures 118 by 126 inches in 210T ripstop polyester with a 2500 PU waterproof rating. A reinforced ridgeline seam, 19 guy points, four nylon guy lines with tensioners and a stuff sack are included.\n\nIt is the only tarp here designed as a pitched shelter, with a ridgeline seam and many tie-out points. Against the poly tarps it costs more and weighs far less.\n\nIt suits campers who want one tarp that can be a roof, a hammock fly or a ground cloth. The camo pattern blends into woods.",
     "specs": [
       "118 x 126 in ripstop polyester",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51ZH4S7b8yL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B089Q18CCZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B089Q18CCZ?tag=rvgearlab-amz-20",
     "description": "The CARTMAN 10 ft by 12 ft tarp is 8 mil polyethylene with heat-sealed, folded hems and nylon rope inside for reinforcement. It has metal grommets every 36 inches and plastic corner reinforcements.\n\nAgainst the Amazon Basics tarps it is thicker, and against the smaller CARTMAN it covers more area. It is built for covering gear.\n\nIt suits campers who need a heavy cover for firewood, gear or a truck bed. Heat-sealed hems leave no needle holes.",
     "specs": [
       "10 x 12 ft, 8 mil poly",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41IgrwKg8YL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0748HGDVD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0748HGDVD?tag=rvgearlab-amz-20",
     "description": "The Amazon Basics 9.5 by 11.3 ft tarp uses rip-stop fabric with polyethylene lamination on both sides. Reinforced corners and edges, grommets for tie-down points and a lightweight design for under tents or over firewood are listed.\n\nIt covers more than the smaller Amazon Basics and costs a little more. Against the CARTMAN it uses ripstop to stop tears from spreading.\n\nIt suits campers who want a big, low-cost tarp for under a tent. The rip-stop weave limits tears.",
     "specs": [
       "9.5 x 11.3 ft rip-stop",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41IgrwKg8YL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0748FG2Z6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0748FG2Z6?tag=rvgearlab-amz-20",
     "description": "The Amazon Basics 7.5 by 9.5 ft tarp has rip-stop polyethylene lamination, reinforced edges and grommets. It is tear resistant and sized for a two-person tent footprint or a small gear pile.\n\nIt is smaller than its 9.5 ft sibling and costs less. Against the CARTMAN 8x10, it adds rip-stop.\n\nIt suits solo campers and car campers who want a compact ground cloth. The reinforced edges and grommets give tie-down points.",
     "specs": [
       "7.5 x 9.5 ft rip-stop",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51FIGhZ26zL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B089PY2LCV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B089PY2LCV?tag=rvgearlab-amz-20",
     "description": "The CARTMAN 8 ft by 10 ft tarp is 8 mil polyethylene with heat-sealed hems, nylon rope reinforcement, grommets every 36 inches and plastic corners. The listing says it is a bit heavier than the 5 mil option.\n\nIt costs less than the 10x12 CARTMAN and gives the same hem build. Against the Amazon Basics 7.5x9.5, it uses a thicker 8 mil sheet.\n\nIt suits campers who want a tough, small cover for the cheapest per-mil price. It protects firewood and gear.",
     "specs": [
       "8 x 10 ft, 8 mil poly",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/519-mBubu-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C3RWSD8Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C3RWSD8Q?tag=rvgearlab-amz-20",
     "description": "The TICONN heavy duty tarp is double-sided polyethylene with a silver UV-reflective side, aluminum grommets spaced about 18 inches apart and double-stitched HDPE corners. It comes in sizes from 8 by 10 ft to 20 by 30 ft and in 5.5, 10 and 16 mil thicknesses.\n\nIt is the least expensive tarp here and has the widest size range. Against the CARTMAN tarps, it has closer grommets.\n\nIt suits campers who want to match thickness and size to the job. Rust-resistant grommets suit wet climates.",
     "specs": [
       "8x10 to 20x30 ft sizes",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31dI6GM7fdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D63H6KKV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D63H6KKV?tag=rvgearlab-amz-20",
     "description": "NOBIS packs 20,000mAh behind four ports, with PD 3.0 and QC 4.0 support and a 45W maximum output that can fast-charge a 14 inch MacBook Pro. The USB-C port also accepts 45W input, so a wall charger refills it quickly, and an LED display shows the charge from 0 to 100 percent.\n\nAt about $28 it carries twice the capacity of the slim $10 banks and the strongest output in this price range. The Anker is lighter and smaller, and it holds half the energy and tops out at 30W.\n\nChoose it for a weekend away with a phone, tablet and small laptop. It runs four devices at once.",
     "specs": [
       "20,000mAh, 45W PD and QC 4.0",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21S46Pfbj7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CZ9LV3H2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CZ9LV3H2?tag=rvgearlab-amz-20",
     "description": "Anker's Zolo power bank holds 10,000mAh in a 4.32 by 2.58 by 0.98 inch body and puts out 30W through USB-C. A 5.4 inch built-in cable is tested for more than 10,000 bends, it charges an iPhone 16 Pro Max to 50 percent in about 27 minutes and supports 30W two-way charging with 20W input.\n\nAt about $30 it is the most expensive pick in the guide and carries the brand with the best warranty, 18 months. It has half the capacity of the NOBIS and a built-in cable that the NOBIS lacks.\n\nChoose it for a pocket bank that carries its own cable. It gives close to two full charges to a typical phone.",
     "specs": [
       "10,000mAh, 30W USB-C",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41GzEENvuwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CB1FW5FC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CB1FW5FC?tag=rvgearlab-amz-20",
     "description": "INIU packs 10,000mAh of TinyCell high-density battery tech into a body 40 percent smaller and lighter than a standard bank. A 45W output takes an iPhone 17 Pro Max to 76 percent, a Galaxy S25 Ultra to 84 percent and an iPad Pro to 60 percent in 30 minutes, and a detachable 0.4 foot braided cable is included.\n\nAt about $22 it costs $8 less than the Anker with more output and a replaceable cable. It is flight-safe and TSA compliant, so it also suits travel.\n\nChoose it for the fastest phone and tablet charging in a compact body. The detachable cable keeps the bank useful if the cable breaks.",
     "specs": [
       "10,000mAh, 45W output",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31eYOhh6qML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DR7RWPCM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DR7RWPCM?tag=rvgearlab-amz-20",
     "description": "Kesguar puts 20,000mAh in a CNC-machined aluminum alloy case that the maker says sheds heat 40 percent faster than plastic. Charging is 22.5W PD 3.0 plus QC 4.0, which takes an iPhone 16 to 65 percent in 30 minutes, and a built-in USB-C cable is included.\n\nAt about $17 it has the same capacity as the NOBIS for $11 less, with half the output and a built-in cable. The 3-year warranty offers a free replacement if capacity drops below 70 percent.\n\nChoose it for rough use in a pack, where a metal body survives drops better than plastic. It is TSA-friendly.",
     "specs": [
       "20,000mAh, 22.5W PD and QC 4.0",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31RqhQKVjKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D984PHG4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D984PHG4?tag=rvgearlab-amz-20",
     "description": "Aaoyun holds 10,000mAh in a 0.6 inch thick aluminum case weighing 6.8 oz. It has 22.5W PD charging that reaches 63 percent on an iPhone 16 or 17 in 30 minutes, a built-in USB-C cable and a second port to charge three devices in all.\n\nAt about $10 it costs a third of the Anker and offers a 3-year warranty with a free replacement for defects. It is slower than the INIU, and it is cheaper by $12.\n\nChoose it for a spare bank in a glove box or a day pack. It is FCC certified and TSA approved.",
     "specs": [
       "10,000mAh, 22.5W PD",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31jvenMMuaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FHHYS8CT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FHHYS8CT?tag=rvgearlab-amz-20",
     "description": "Szfakuer is a 0.63 inch thick, 8.11 oz bank with 10,000mAh of capacity and 22.5W USB-C charging. Its ports are a USB-C that also takes input plus a pair of USB-A outputs, with an LED display and an 8-layer protection system.\n\nAt about $10 it is tied for the lowest price and is heavier than the Aaoyun without the metal case. It offers three outputs instead of the Aaoyun's built-in cable.\n\nChoose it for the lowest price and three ports for friends. It suits travel and short trips.",
     "specs": [
       "10,000mAh, 22.5W USB-C",

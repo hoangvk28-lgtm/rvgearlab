@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41B8z7KFg-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FQ9WSCSD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FQ9WSCSD?tag=rvgearlab-amz-20",
     "description": "The Victoper is a two-pack of small USB-rechargeable zoom flashlights with high, medium and strobe modes and a stated reach of up to 656 feet. The body is aircraft-grade alloy with a Type 3 hard-anodized coating, and the LED life is quoted at over 50,000 hours.\n\nIt is the only pick that combines zoom with USB recharging, which the AAA multi-packs do not offer. It also keeps the pocket size of a mini light.\n\nCamp regulars get a refillable pocket light for the tent plus a second unit that lives in the car. No loose batteries are needed.",
     "specs": [
       "Two USB-rechargeable lights",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51x2eQhPLVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B073VZZKK5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B073VZZKK5?tag=rvgearlab-amz-20",
     "description": "The BESTSUN is a two-pack of zoomable mini torches with five modes and a stated 656 ft reach. Each runs on 3 AAA batteries or a single rechargeable cell, with battery tubes, AAA holders and lanyards in the box.\n\nIt is the only pick that accepts either AAA cells or a single rechargeable, which gives more power options than the Victoper. Batteries are not included, and it is the lowest-priced zoom pair.\n\nIt suits campers who want a zoom light that works on common AAAs in a pinch. The aluminum and rubber body is described as waterproof.",
     "specs": [
       "Zoom, 5 modes, 656 ft",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51j-pOh3P3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07F7VSN9W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07F7VSN9W?tag=rvgearlab-amz-20",
     "description": "The FASTPRO set contains ten mini flashlights, each with nine LEDs and a listed 30 lumens, in an assortment of colors. Three heavy-duty AAA batteries are pre-installed in each, 30 in total, and an ABS body has a rubber-coated handle.\n\nIt supplies far more lights than any 2-pack and is ready to use out of the box. An 18-pack version of the same line is also sold for larger groups.\n\nIt suits scout troops, classrooms and family camps where every person needs a light. The colors help tell them apart.",
     "specs": [
       "Ten 9-LED mini torches",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/416wz1zgWML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GCJCWJM4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GCJCWJM4?tag=rvgearlab-amz-20",
     "description": "The EverBrite 4-Pack has four 9-LED mini flashlights in red, yellow, blue and green with 12 AAA batteries included. Each shines up to 59 feet, has a tail switch and comes with a lanyard.\n\nIt suits a group of four better than the FASTPRO's ten, and it comes in a smaller pack. The 59 foot reach is shorter than the 656 feet claimed for the zoom pairs.\n\nBest for a four-person family where everyone needs their own light. The tail switch gives instant on and off.",
     "specs": [
       "Four 9-LED minis, 59 ft",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41I3XruuPVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B077883KBN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B077883KBN?tag=rvgearlab-amz-20",
     "description": "The EverBrite 2-in-1 is a pair of zoomable mini lanterns, each weighing only 0.19 lb. A 360 degree lantern appears when you screw out the light post, with high, low and strobe modes and a removable hook.\n\nIt is the only pick that works as a lantern as well as a torch. It also weighs less than most flashlights listed here.\n\nIt suits campers who want one small light that hangs in the tent and doubles as a handheld. The hook attaches to either side.",
     "specs": [
       "Torch and 360 degree lantern",

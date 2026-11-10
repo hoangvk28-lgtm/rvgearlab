@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21Rp7ELZV8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GZVBPHJ6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GZVBPHJ6?tag=rvgearlab-amz-20",
     "description": "The Crown Shades 10x30 uses 400D Oxford fabric that is described as waterproof and seam-sealed, with UPF 50+ protection that blocks 99 percent of UV. A CenterLOK one-push frame opens with no tools, with three adjustable leg heights.\n\nIt is by far the largest pick here at 10x30 ft, and the only one whose listing combines heavy 400D fabric with sealed seams. Against the Jojoka it uses a solid roof instead of mesh walls, and the thickened steel frame is built for the long span.\n\nCamp hosts and group leaders with an events-size area to keep dry will get the most from it. Sto-N-Go wheels let the canopy store with fabric attached.",
     "specs": [
       "400D Oxford, seam-sealed",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41DKFjmDGLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HG9GQL7C?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HG9GQL7C?tag=rvgearlab-amz-20",
     "description": "The HOEYITO is a 14.5 x 11 ft camping tarp awning in 210D Oxford with a PU9000mm rating and a silver UV coating that blocks 99.99 percent of UV. It comes with poles and a double retainer system for sand, gravel and lawn.\n\nIts waterproof number is the highest on this list, ahead of the Crown Shades which only names sealed seams. It weighs 8.9 lbs and packs to 17.3 x 6.3 x 4.72 inches, and the listing covers 6 to 8 campers.\n\nBackpack-friendly campers and drivers who want a stronger rain shelter without a frame will like it. It also goes up as a hammock fly.",
     "specs": [
       "PU9000mm, 210D Oxford",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51NRRGGx8mL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HBPW7VT4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HBPW7VT4?tag=rvgearlab-amz-20",
     "description": "The Jojoka is a 13x13 ft instant gazebo with about 169 sq ft of coverage and UPF 50+ Oxford fabric that resists light rain. A pre-assembled steel frame opens with one push and it comes with six removable privacy and wind panels, mesh walls, guy ropes and ground stakes.\n\nIt gives more bug protection than the Crown Shades and more coverage than the HOEYITO. Its reinforced, powder-coated steel frame is stated for lasting durability, which separates it from the Aoxun's fiberglass poles.\n\nFamilies who want a screened room that sheds light rain are its target. The panels can be removed one at a time to tune the airflow.",
     "specs": [
       "13x13 ft, about 169 sq ft",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51S+dIhMlLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G5N9K9PF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G5N9K9PF?tag=rvgearlab-amz-20",
     "description": "The Aoxun is a 12x12 ft pop-up gazebo in thickened 300D Oxford with fine polyester mesh, and the listing claims over 99 percent UV blocking. It stays upright on fiberglass poles with windproof ropes and luminous ground stakes.\n\nSix detachable wind cloths, two with windows, give wind and privacy control that the Crown Shades does not offer. Compared with the Jojoka it is a slightly smaller footprint with a lighter pole frame.\n\nBug-prone campsites with an occasional shower suit it, with the wind cloths for cooler evenings. Setup needs no tools.",
     "specs": [
       "12x12 ft, 300D Oxford",

@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51sEKRuWYGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F1SR8XN8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F1SR8XN8?tag=rvgearlab-amz-20",
     "description": "The LANDERPOW 1500W provides 1500W continuous pure sine power with 3000W surge and a stated efficiency above 91 percent. It has three AC outlets, a 5V/3.1A USB port, a 30W PD port, a 15ft wired remote with an LED screen tracking battery level and output, and two 4AWG battery cables about 2 feet long.\n\nIt ranks first because the cable is the hidden cost at this size, and this is the only pick that names the gauge, 4AWG. It costs $10 more than the Jlouneo 1500W and the same as the ZETAWALE 1500W, which has a hardwire terminal and an extra outlet. Next to the $108.99 AeternaSol 1500W it is $31 more, which buys the cables and a stated efficiency.\n\nPick it if you want a plug-in 1500W pure sine unit with known cable. The caveat is that 4AWG at 140A still demands a short run and a proper fuse, and the listing gives no warranty or transfer information.",
     "specs": [
       "1500W continuous, 3000W surge",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41m8HSF2vAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DDWL4YFP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DDWL4YFP?tag=rvgearlab-amz-20",
     "description": "The ZETAWALE 1500W is a pure sine inverter with 1500W continuous and 3000W peak output. It has four AC outlets, USB and Type-C ports, heavy-duty AC terminal blocks for high-demand appliances, a 14.76ft wired remote with an LCD for battery voltage, AC output voltage and load wattage, and protection against overload, over-voltage, low voltage, over-temperature and short circuit.\n\nIt ranks second because the terminal blocks open the door to a permanent install, something the LANDERPOW's plug-in design does not describe. It costs the same $139.99 as the LANDERPOW 1500W and $31 more than the AeternaSol 1500W. The listing shows no cable gauge or efficiency figure, so the LANDERPOW is easier to size.\n\nChoose it if you plan to hardwire the unit to an outlet circuit. The caveat is that cable and efficiency are unstated, and hardwiring should be done by a qualified installer.",
     "specs": [
       "1500W continuous, 3000W peak",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51a8hfYGcTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FW56YVGT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FW56YVGT?tag=rvgearlab-amz-20",
     "description": "The Jlouneo 1500W is a pure sine inverter for 12V AGM, gel and LiFePO4 systems only, with two display screens, one on the unit and one on the remote, three AC outlets, a 5V/3.1A USB port and other ports. The listing stresses that it is for 12V DC batteries only, which prevents a common wiring error.\n\nIt ranks third at $129.99, which is $10 less than the LANDERPOW 1500W and the ZETAWALE 1500W and $21 more than the AeternaSol 1500W. The second display helps if the inverter is mounted out of sight, and it supports lithium, but the excerpt shows no cable gauge, efficiency or protections beyond what the display shows.\n\nPick it if you want a display on the box and on the remote at a mid price. The caveat is less documentation than the LANDERPOW, so check the manual for fuse size.",
     "specs": [
       "1500W pure sine",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/416R1c+8BtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GBHHQ4PK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GBHHQ4PK?tag=rvgearlab-amz-20",
     "description": "The AeternaSol 1500W gives 1500W pure sine power with 3000W peak. It has two AC outlets, a USB-A port up to 18W, a USB-C PD port up to 30W, dual LCD screens and a 16.4ft wired remote, and protection against over and under voltage, overload, overheating, short circuit and reverse polarity. Battery cables are included.\n\nIt ranks fourth because it has the fewest outlets of the pure sine picks, two, but it is the cheapest of them at $108.99, which is $31 below the LANDERPOW and $21 below the Jlouneo. It also has the longest remote, 16.4ft, in this guide. The tradeoff against the LANDERPOW is that the cable gauge and an efficiency figure are not stated.\n\nChoose it if you want pure sine on a budget and only need two sockets. The caveat is fewer outlets and thinner documentation.",
     "specs": [
       "1500W, 3000W peak",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51if-nrOW7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GL1ZP45S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GL1ZP45S?tag=rvgearlab-amz-20",
     "description": "The EGSCATEE 1500W is a modified sine wave inverter with 1500W continuous and 3000W peak output, an LCD display and five layers of protection. It works with LiFePO4, AGM, gel and lead-acid 12V batteries. The listing is candid that modified sine suits chargers, TVs, fans, lights, laptops and small tools, and it adds a note about devices it is not recommended for.\n\nIt ranks fifth at $99.99, which is $9 below the AeternaSol 1500W and $40 above the Cantonape 1500W. Its honest compatibility wording is its strength, but you give up pure sine, which is what protects CPAP machines and motors.\n\nPick it for simple devices where you want clear limits. The caveat is waveform, and there is no remote mentioned.",
     "specs": [
       "1500W, 3000W peak",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41I4n1mz8CL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DRSG38LH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DRSG38LH?tag=rvgearlab-amz-20",
     "description": "The Cantonape 1500W is a modified sine inverter with 1500W continuous and 3000W surge, two AC outlets and two USB ports. Its LCD shows input and output voltage, battery capacity, load and frequency, and it lists six protections including reverse polarity. The body is aluminum with a temperature controlled fan and an isolated ground neutral design, and the sockets are spaced for two large plugs.\n\nIt ranks last because it is modified sine, but at $59.99 it is $40 below the EGSCATEE 1500W and $49 below the AeternaSol 1500W. That price makes it a way to get a 1500W rating for simple loads.\n\nChoose it for a tool or heater with a resistive load and a tight budget. The caveat is the waveform and the lack of a remote.",
     "specs": [
       "1500W modified sine",

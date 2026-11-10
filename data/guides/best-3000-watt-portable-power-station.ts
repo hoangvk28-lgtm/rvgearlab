@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41caMbsZjuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F2TKY83D?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F2TKY83D?tag=rvgearlab-amz-20",
     "description": "The Dabbsson 3000L stores 3,072Wh and lists a rated 3000W AC output with a 3,600W Power Boost mode for compatible appliances. Its built-in TT-30 outlet is aimed at RV setups, and it recharges from the wall, compatible solar panels or a supported vehicle source, with an app for level, input and output power. The listing gives a 5-year warranty, 3 years standard plus 2 extended, but publishes no weight.\n\nAt $1,029 it costs about $0.33 per watt-hour, the lowest in this guide, and holds 1,024Wh more than the AFERIY P300 and the DELTA 3 Max Plus for $130 less than the DELTA 3 Max Plus at $1,149. It is $180 cheaper than the Dabbsson with Charger S, which adds an alternator charger. The listing says nothing about AC input speed, which AFERIY and EcoFlow publish.\n\nPick it as the default 3000W for an RV: biggest battery per dollar, a TT-30 outlet and a clear warranty. The caveat is the missing weight and recharge speed, so confirm both before ordering.",
     "specs": [
       "3,072Wh, 3000W, TT-30",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4152ZFYBMLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HC39JCZD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HC39JCZD?tag=rvgearlab-amz-20",
     "description": "The AFERIY P300 stores 2,048Wh of LiFePO4 rated for 4,000 plus cycles and delivers a 3000W output through dual pure sine wave inverters, with 15 output ports including a NEMA TT-30 socket and a 140W USB-C. It takes 1,800W of AC input to reach 80 percent in 55 minutes, accepts dual solar inputs, expands to 10kWh, switches over in under 10ms as a UPS, and carries a 7-year support period.\n\nAt $899 it is the cheapest 3000W here, $130 below the Dabbsson 3000L, but holds 1,024Wh less. Per watt-hour it is about $0.44. Against the DELTA 3 Max Plus it is $250 cheaper for the same 2,048Wh and also has a TT-30 socket. The listing gives no weight.\n\nChoose it if you want TT-30 and 3000W at the lowest price and can live with 2,048Wh. The caveat is that the 55-minute charge needs a strong wall circuit, and the weight is not stated.",
     "specs": [
       "2,048Wh LiFePO4, 3000W",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31yJK0Fb-xL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FQV9Q9J2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FQV9Q9J2?tag=rvgearlab-amz-20",
     "description": "The EcoFlow DELTA 3 Max Plus stores 2,048Wh of LiFePO4 and outputs 3000W, with an X-Boost mode up to 3,800W for resistive loads, a switchover under 10ms, an app, and five recharge methods that reach 80 percent in 43 minutes. It expands from 2kWh to 10kWh with extra batteries and carries a 5-year service period. The listing does not mention a TT-30 outlet or a weight.\n\nAt $1,149 it costs $250 more than the AFERIY P300 for the same 2,048Wh and $120 more than the Dabbsson 3000L, which holds 1,024Wh more. About $0.56 per Wh, it is mid-priced, and the premium goes to the fast-charge speed and the EcoFlow expansion ecosystem.\n\nBuy it if you already use EcoFlow gear or want 43-minute charging with smart load control. The caveat is the missing TT-30 mention, which matters for an RV hookup.",
     "specs": [
       "2,048Wh LiFePO4, 3000W",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/418JnAZafnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FN7PZLVS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FN7PZLVS?tag=rvgearlab-amz-20",
     "description": "This bundle pairs the 3,072Wh Dabbsson 3000L with the Charger S, a 560W alternator charger that the listing says charges up to 6 times faster than a 12V cigarette lighter charger while you drive. It keeps the 3000W rated output, the 3,600W P-Boost, the TT-30 for RV charging, 6 AC outlets, a 100W USB-C, under 15ms EPS switchover and 4,000 plus cycles, with the same 5-year warranty.\n\nAt $1,208 the Charger S costs $179 over the standalone 3000L at $1,029, which makes the bundle about $0.39 per Wh. The alternator charger is the only way here to put real charge into the battery while you drive between campsites, which the others do not offer in the box. The Charger S ships separately per the listing.\n\nPick it if you drive daily between sites and want to refill the station on the road. The caveat is that alternator charging needs correct wiring in the tow vehicle, which the listing does not detail.",
     "specs": [
       "3,072Wh, 3000W, TT-30",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31p+QOFJNEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DPK4K5C5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DPK4K5C5?tag=rvgearlab-amz-20",
     "description": "The Gendome Home3000 stores 3,072Wh of EV-grade LiFePO4 rated for more than 6,500 cycles to 60 percent capacity, and delivers 3000W AC through 17 output ports including two PD 3.1 140W USB-C and two wireless pads. A wall outlet at 1800W reaches 80 percent in 50 minutes, and it accepts solar and wind input, with an app that logs history. The listing does not mention TT-30, a weight or a warranty.\n\nAt $2,448.59 it costs $1,419.59 more than the Dabbsson 3000L for the same 3,072Wh, about $0.80 per Wh, so the extra buys a longer stated cycle rating, more ports and wind input. Against the Jackery Explorer 2000 Plus kit at $2,599 it is $150.41 cheaper with 1,030Wh more.\n\nChoose it only if you value the port count and the 6,500-cycle claim for a stationary home backup. The caveat is the price and the missing TT-30, which makes it a weak RV choice.",
     "specs": [
       "3,072Wh LiFePO4, 3000W",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41jlUyac-FL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DY7NS98L?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DY7NS98L?tag=rvgearlab-amz-20",
     "description": "The Jackery Explorer 2000 Plus Kit bundles a 2,042Wh LiFePO4 station rated 3000W with two 100W mini solar panels. It expands to 12kWh with up to five battery packs, or to 24kWh and 6000W by connecting two stations in parallel, charges at about 30 dB, and carries a 5-year warranty and a 10-year battery life claim. The listing says a full charge takes about 2 hours from a wall outlet or six 200W panels, and gives no TT-30 outlet or weight.\n\nAt $2,599 it is the most expensive pick, about $1.27 per Wh with panels, $1,570 above the Dabbsson 3000L and $150.41 above the Gendome Home3000. The two 100W panels add little energy to a 2,042Wh battery, so the money mostly buys the Jackery's expansion and parallel system.\n\nBuy it if you intend to scale to two stations for 6000W and trust the Jackery brand. The caveat is the price and the lack of a TT-30.",
     "specs": [
       "2,042Wh LiFePO4, 3000W",

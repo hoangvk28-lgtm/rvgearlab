@@ -21,7 +21,7 @@ export const products = withAmazonUrls([
     badge: "Best overall",
     name: "Portable Power Station 120W, 110V Power Bank",
     amazonQuery: "Portable Power Station 120W, 110V Power Bank",
-    amazonUrl: "https://www.amazon.com/dp/B0CLVHPGDZ?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0CLVHPGDZ?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41TQRbhEFxL._SL500_.jpg",
     specs: ["Capacity: 97.6Wh","Continuous output: 120W","Listed weight: 2.2 lb","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Capacity","value":"97.6Wh"},{"label":"Continuous output","value":"120W"},{"label":"Listed weight","value":"2.2 lb"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -36,7 +36,7 @@ export const products = withAmazonUrls([
     badge: "Best heavy-duty option",
     name: "Anker SOLIX S2000 Portable Power Station, 2,010Wh, 1,500W",
     amazonQuery: "Anker SOLIX S2000 Portable Power Station, 2,010Wh, 1,500W",
-    amazonUrl: "https://www.amazon.com/dp/B0GY4TQ2P8?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0GY4TQ2P8?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41oUWN32k+L._SL500_.jpg",
     specs: ["Capacity: 2,010Wh","Continuous output: 1,500W","Surge output: 3,000W","Listed weight: 35.7 lb"],
     specList: [{"label":"Capacity","value":"2,010Wh"},{"label":"Continuous output","value":"1,500W"},{"label":"Surge output","value":"3,000W"},{"label":"Listed weight","value":"35.7 lb"}],
@@ -51,7 +51,7 @@ export const products = withAmazonUrls([
     badge: "Best compact option",
     name: "2-in-1 Portable Ac Air Conditioner & Heater, 5200 BTU (1500W) Fast Cooling & Heating",
     amazonQuery: "2-in-1 Portable Ac Air Conditioner & Heater, 5200 BTU (1500W) Fast Cooling & Heating",
-    amazonUrl: "https://www.amazon.com/dp/B0GGGN7LS9?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0GGGN7LS9?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/51MHAwbCW9L._SL500_.jpg",
     specs: ["Continuous output: 400W","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Continuous output","value":"400W"},{"label":"Buyer check","value":"Verify current model compatibility"},{"label":"Buyer check","value":"Verify current model compatibility"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -66,7 +66,7 @@ export const products = withAmazonUrls([
     badge: "Best value pick",
     name: "Cybertake S2 Pro Portable Camping Air Conditioner, Tent AC",
     amazonQuery: "Cybertake S2 Pro Portable Camping Air Conditioner, Tent AC",
-    amazonUrl: "https://www.amazon.com/dp/B0FMKN82GQ?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0FMKN82GQ?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/414sBEqBljL._SL500_.jpg",
     specs: ["Runtime claim: Up to 8 hours","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Runtime claim","value":"Up to 8 hours"},{"label":"Buyer check","value":"Verify current model compatibility"},{"label":"Buyer check","value":"Verify current model compatibility"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -81,7 +81,7 @@ export const products = withAmazonUrls([
     badge: "Best backup pick",
     name: "AFERIY Portable Power Station 1024Wh Generator&200W Solar Panel",
     amazonQuery: "AFERIY Portable Power Station 1024Wh Generator&200W Solar Panel",
-    amazonUrl: "https://www.amazon.com/dp/B0GYZ3B1JQ?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0GYZ3B1JQ?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41l1V31M20L._SL500_.jpg",
     specs: ["Capacity: 1,024Wh","Continuous output: 1,800W","Surge output: 3,600W","Included panel: 200W"],
     specList: [{"label":"Capacity","value":"1,024Wh"},{"label":"Continuous output","value":"1,800W"},{"label":"Surge output","value":"3,600W"},{"label":"Included panel","value":"200W"}],
@@ -171,7 +171,7 @@ export const relatedGuides = [
 export const sources = [
   {
     "title": "Portable Power Station 120W, 110V Power Bank product page",
-    "href": "https://www.amazon.com/dp/B0CLVHPGDZ?tag=rvgearlab-20&linkCode=osi&th=1&psc=1"
+    "href": "https://www.amazon.com/dp/B0CLVHPGDZ?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1"
   },
   {
     "title": "CPSC carbon monoxide safety center",

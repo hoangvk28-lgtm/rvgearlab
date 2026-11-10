@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41k-qip9YhL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GWM1V7P6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GWM1V7P6?tag=rvgearlab-amz-20",
     "description": "The Jackery Solar Generator 5000 Plus lists 7,200W rated output, 14,400W surge, 5,040Wh and support for both 120V and 240V. It includes two 200W panels, accepts up to 4,000W of solar, expands to 60kWh and pairs with a 60A Smart Transfer Switch.\n\nIts rated output tops 5,000W, which no other pick manages, and its surge is far above the ALLPOWERS R2500 V2. Its panels are an advantage over the EcoVolt P5000 Plus, which lists none.\n\nA whole house with a well pump or a dryer is the use this unit is built to serve. The 13 day backup claim is for essential loads.",
     "specs": [
       "7,200W rated, 14,400W surge",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41OkvDQjtIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GTCZLRWY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GTCZLRWY?tag=rvgearlab-amz-20",
     "description": "The EcoVolt P5000 Plus stores 5,120Wh in automotive-grade LiFePO4 cells with a 3,600W pure sine wave inverter, a 20-year lifespan claim and an EPS switchover under 0.01 seconds. AC charging is 1,800W, with 1,000W of solar input and a 0 to 100 percent charge in 2.2 hours.\n\nIt holds slightly more energy than the Jackery 5000 Plus at less than half the price, and rates 3,600W continuous. It lists five AC outlets and 15 ports.\n\nIt suits cabin and home-backup buyers who want 5,000Wh of storage at a lower price. The long runtime suits fridges and lights for days.",
     "specs": [
       "5,120Wh LiFePO4, 3,600W",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41qvIqkSgSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F313G9PV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F313G9PV?tag=rvgearlab-amz-20",
     "description": "The ALLPOWERS R2500 V2 lists 2,500W continuous with a 5,000W peak from a 1,920Wh LiFePO4 battery. It charges to 80 percent in 1 hour and fully in 1.3 hours, has 4 AC outlets, 13 ports in all and a UPS under 15ms.\n\nIt is the lowest in cost and the smallest in capacity, with a 5,000W figure that is a peak only. Next to the EcoVolt P5000 Plus it charges fast and stores far less.\n\nIt suits renters and RV owners who want a 5,000W surge to start motors. The 100W USB-C ports charge laptops quickly.",
     "specs": [
       "1,920Wh LiFePO4, 2,500W",

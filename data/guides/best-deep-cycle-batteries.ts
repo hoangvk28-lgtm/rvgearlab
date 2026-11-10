@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31soCn59teL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B075RFXHYK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B075RFXHYK?tag=rvgearlab-amz-20",
     "description": "The Renogy 100Ah is a 12V AGM battery that supports unlimited series connections and up to four in parallel. The listing names a 1100A 5-second maximum discharge, an operating range of -4 to 140 degrees F and enough output to run a fridge and a microwave.\n\nIt is the middle of the capacity ladder, with half the energy of the Renogy 200Ah and far more than the small mobility batteries. AGM construction means it needs no watering, and the listing stresses stable chemistry and minimal troubleshooting.\n\nIt suits campers building a first house battery for lights, a fridge and device charging. The 100Ah size is the usual starting point for a weekend setup.",
     "specs": [
       "12V 100Ah AGM",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31hWBJ9YLXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B075RGX1WR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B075RGX1WR?tag=rvgearlab-amz-20",
     "description": "The Renogy 200Ah is an AGM battery using thick glass mat separators and quinary alloy plates. The listing says it supports discharge currents up to 10 times its rated capacity, keeps self-discharge below 3 percent per month at 77 degrees F and performs below 32 degrees F.\n\nIt doubles the 100Ah Renogy and dwarfs the mobility batteries. Against the NERMAK lithium it offers far more energy at a lower price per amp hour.\n\nIt suits campers who plan multi-day off-grid trips with a fridge and lighting. Low self-discharge means it stores well between seasons.",
     "specs": [
       "12V 200Ah AGM",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41JwbB+rDjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CVX7BHJ8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CVX7BHJ8?tag=rvgearlab-amz-20",
     "description": "The VEVOR is a 12V 40Ah AGM marine battery measuring 7.8 by 6.5 by 6.7 inches. The listing names a 400A maximum discharge within 5 seconds and sells it for mobility scooters, wheelchairs, go-karts and e-bikes.\n\nIt sits between the 20Ah UPLUS and the 100Ah Renogy and adds a marine label. Compared with the Interstate it offers more capacity at a lower price.\n\nIt suits campers running a small light and fan setup or a portable power box. Its marine rating adds some resistance to damp conditions in a boat or camper.",
     "specs": [
       "12V 40Ah AGM",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41YTlYD1AML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B005CLPOQM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B005CLPOQM?tag=rvgearlab-amz-20",
     "description": "The Interstate DCM0035 is a 12V 35Ah sealed lead-acid AGM battery with insert terminals, made for electric wheelchairs and scooters. The listing calls it rechargeable, maintenance-free, spill-proof and valve-regulated.\n\nIt matches the VEVOR on chemistry and gives up a little capacity. Compared with the Renogy pair it targets a very different job, with a compatibility guide for named mobility brands.\n\nIt suits campers who need a dependable small AGM for a mobility device or portable setup. The 7-point quality protocol is cited in the listing.",
     "specs": [
       "12V 35Ah sealed AGM",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41e0ij+CJ1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09H1XRPYY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09H1XRPYY?tag=rvgearlab-amz-20",
     "description": "The UPLUS LP12-20 is a 12V 20Ah AGM battery measuring 7.14 by 3.01 by 6.59 inches and weighing 12.46 lbs. The listing names F3 nut and bolt terminals, up to 600 cycles and uses in solar gates, emergency lighting and small solar systems.\n\nIt is the smallest lead-acid pick and costs the least of the lead-acid batteries. Against the VEVOR it halves the capacity and trims weight.\n\nIt suits campers who want a backup battery for a router, light or small fan. The F3 terminals take standard fittings.",
     "specs": [
       "12V 20Ah AGM",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41VHyCoo5cL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B097BRKCQP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B097BRKCQP?tag=rvgearlab-amz-20",
     "description": "The NERMAK is a 12V 10Ah LiFePO4 battery with a built-in 10A BMS and a listing that claims 2000+ cycles. It can be connected up to four in series, quick-charges at 6A, and delivers 10A continuous with 2C discharge.\n\nIt is the only lithium pick, and the title stresses how light it is. Against the AGM batteries it offers a BMS and a cycle count the lead-acid listings do not claim.\n\nIt suits campers who need a tiny reliable power source for a router, LED strip or fish finder. The listing names small UPS use under 200W.",
     "specs": [
       "12V 10Ah LiFePO4",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ZqqJhkxtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CJR8DKPW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CJR8DKPW?tag=rvgearlab-amz-20",
     "description": "The KAMPKEEPER is a wheeled replacement bag for most 10x10 instant pop-up canopies, cut from 1680D Oxford fabric. It sells in a 62 inch and a 52 inch length and adds a large central storage pocket with a Velcro closure.\n\nIts 1680D fabric is the heaviest weave among the five, ahead of the 600D Oxford and polyester used by the Smyhlf and Bstge. Padded handles are widened so two people can lift it, for loads that need two carriers.\n\nIt suits campers and vendors who haul a heavy canopy to a different site every weekend. The two length options let you match a longer or shorter frame.",
     "specs": [
       "1680D Oxford fabric",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41pvon3aUpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GC5Z4ZQW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GC5Z4ZQW?tag=rvgearlab-amz-20",
     "description": "The Bstge bag fits 10x10 pop-up canopies with a folded size up to 10 by 10 by 62 inches. It uses 600D polyester, a plastic base with two wheels, a top rubber handle and a 20 inch external pocket.\n\nIt costs less than the KAMPKEEPER and the Eurmax while keeping wheels, which the Smyhlf and Vincreem skip. An external pocket gives room for stakes and weights without opening the main compartment.\n\nIt suits occasional campers and tailgaters who want wheels without paying for heavy fabric. The buckle strap cinches the folded canopy so it does not shift.",
     "specs": [
       "Fits 10x10x62 in folded",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41XogDku-eL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H8R2DQ34?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H8R2DQ34?tag=rvgearlab-amz-20",
     "description": "The Eurmax roller bag is made from high-strength polyester and states that it fits 10x10 frames smaller than 7.87 by 7.87 by 61.8 inches when closed. Its wheels sit on a solid aluminum plate and a front pocket holds stakes and ropes.\n\nOf the five, it is the only listing to give a maximum folded cross-section, which makes matching a frame simple. Compared with the Bstge it moves the wheel mounting to aluminum rather than plastic.\n\nIt suits buyers who measure first and want a clear yes or no on fit. The easy-clean polyester keeps muddy stakes from becoming a problem.",
     "specs": [
       "Max 7.87 x 7.87 x 61.8 in",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/318WwFAEX2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FH9LGV5C?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FH9LGV5C?tag=rvgearlab-amz-20",
     "description": "The Smyhlf bag measures 63 by 17.5 by 11.5 inches and uses 600D Oxford fabric with a water-resistant coating. It carries four handles, including two rubber end handles stitched along their full length, and closes with a double zipper.\n\nIt trades wheels for a wider opening and more cross-section than the wheeled bags above. Against the Vincreem it is a shorter bag, and it also holds umbrellas and hammock stands.\n\nIt suits campers who carry the bundle from the car to the pitch together and want a sturdy pair of handles. The double zipper helps with a tightly packed frame.",
     "specs": [
       "63 x 17.5 x 11.5 in",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31GB1A6V3VL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F4KB4ZD6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F4KB4ZD6?tag=rvgearlab-amz-20",
     "description": "The Vincreem duffle offers 260 liters of room in an 83 by 16 by 12 inch shell, made from 600D Oxford with padded shoulder straps. It folds flat when empty and is sold for party tents and canopy equipment.\n\nIt is the longest bag here, a fit for canopies packed with add-on parts. Against the Smyhlf it adds a shoulder strap and a roomier length.\n\nIt suits owners of bigger canopies or kits that include side walls and weights. The foldable body stores small when not in use.",
     "specs": [
       "83 x 16 x 12 in, 260 L",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/412+ynQ7f5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07KRS432K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07KRS432K?tag=rvgearlab-amz-20",
     "description": "The LLSOARSS Orthotic lists a built-in orthotic arch support and a medium-density EVA midsole that is lightweight and flexible. A soft woven toe post, foam-lined strap and rubber outsole add comfort and grip.\n\nCompared with the KuaiLu Slides, it uses a toe-post style with an orthotic footbed. Against the shevalues Recovery Flip Flops, it lists a firmer medium-density EVA.\n\nIt suits wearers who want orthotic-style support in a flip-flop. The listing suggests wearing them a few hours at a time for the first few days.",
     "specs": [
       "Built-in orthotic arch support",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41-TehUvqoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BNTSDXYG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BNTSDXYG?tag=rvgearlab-amz-20",
     "description": "The KuaiLu Slides are women's adjustable slides with an upgraded wrap-around strap, a high arch design and a deep heel cup. The midsole is TPE thermoplastic elastomer that the listing calls soft and skin-friendly.\n\nCompared with the Evshine Cloud, it adds an adjustable strap and a wrap-around design. Against the LLSOARSS Orthotic, it is a slide with no toe post.\n\nIt suits wearers who want a slide with adjustability. The listing says it is as soft as stepping on pillows.",
     "specs": [
       "High arch, deep heel cup",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/415MBGqO6wL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DSKG2MK5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DSKG2MK5?tag=rvgearlab-amz-20",
     "description": "The KuaiLu Rhinestone is a women's flip-flop with a rhinestone upper, a cushioning yoga mat footbed and an arch design that the listing says helps ease plantar fasciitis pain. An EVA midsole and deep-textured rubber outsole give grip, and soft laces avoid rubbing.\n\nCompared with the shevalues Recovery Flip Flops, it adds a dressier look. Against the LLSOARSS Orthotic, it offers a softer yoga mat footbed.\n\nIt suits wearers who want arch support in a sandal for dressier outings. The listing says it packs light.",
     "specs": [
       "Yoga mat cushion footbed",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31DH-Z2pJML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09LC836QG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09LC836QG?tag=rvgearlab-amz-20",
     "description": "The shevalues Recovery Flip Flops have 1.6 inch squishy EVA midsoles, ergonomic arch support and a non-slip outsole. They are described as lightweight, waterproof and buoyant, and the thong design is easy to clean with water.\n\nCompared with the KuaiLu Rhinestone, it stresses thicker EVA and a recovery feel. Against the Evshine Cloud, it is a thong style rather than a slide.\n\nIt suits wearers who want a thick, easy-clean flip-flop. The listing says to avoid heat so they do not shrink.",
     "specs": [
       "1.6 inch EVA midsoles",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31VZ7f1nMnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09Y32QBQP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09Y32QBQP?tag=rvgearlab-amz-20",
     "description": "The Evshine Cloud is a women's orthopedic slide with a deep heel cup, contoured arch support and 1.6 inch EVA midsoles. Drain holes and an open strap give breathability, and sturdy waved outsoles grip when wet.\n\nCompared with the KuaiLu Slides, it adds drain holes and a thicker midsole. Against the shevalues Orthopedic Slide, it has a slightly thinner EVA.\n\nIt suits wearers who shower or walk near water. The listing says to avoid long sun exposure.",
     "specs": [
       "Deep heel cup, arch support",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411QbRP+FKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BRX58B8J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BRX58B8J?tag=rvgearlab-amz-20",
     "description": "The shevalues Orthopedic Slide lists 1.7 inch squishy EVA midsoles for shock absorption, deep heel cups and contoured arch support. Open straps add breathability, and the outsole has a waved texture for grip.\n\nCompared with the Evshine Cloud, it uses a slightly thicker 1.7 inch midsole. Against the LLSOARSS Orthotic, it is a cloud-style slide.\n\nIt suits wearers who want the thickest cushioning in the list for little money. Lightweight and buoyant, per the listing.",
     "specs": [
       "1.7 inch EVA midsoles",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41uRYFJL8OL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F6YN3XJ4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F6YN3XJ4?tag=rvgearlab-amz-20",
     "description": "The Jackery Solar Generator 1000 v2 kit pairs a 1,070Wh LiFePO4 station with a 100W panel. Output reaches 1,500W with a 3,000W surge from three pure sine AC sockets, with two USB-C, one USB-A and a DC car outlet filling out the panel.\n\nAgainst the Jackery 300 kit, it holds more than three times the energy and runs bigger appliances. Compared with the MARBERO, it uses a battery rated for more than 70 percent capacity after 4,000 cycles.\n\nIt suits base camps, van setups and outages where a fridge, a laptop and lights run together. App control and a one hour emergency charge are listed.",
     "specs": [
       "1,070Wh LiFePO4, 1,500W",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41S0DhkhCvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G429L5B4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G429L5B4?tag=rvgearlab-amz-20",
     "description": "The Jackery Solar Generator 300 kit pairs a 292Wh LiFePO4 station weighing 7.5 pounds with a 40W Air solar panel. Output is 300W with a 600W surge, through a pair of AC sockets plus 100W PD USB-C, USB-A and a 120W car jack.\n\nCompared with the 1000 v2 kit, it is a fraction of the weight and size, and it still uses the long-life LiFePO4 chemistry. The panel, AC and car chargers are all in the box.\n\nIt suits backpack-in sites, paddle trips and weekend tents with phones, lights and a laptop. The cells keep over 70 percent after 4,000 cycles.",
     "specs": [
       "292Wh LiFePO4, 300W / 600W",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Rfqfec41L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CZDX262N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CZDX262N?tag=rvgearlab-amz-20",
     "description": "The MARBERO M823 kit pairs a 237Wh, 64,000mAh lithium-ion battery with 300W of rated output and a 375W peak across a pair of pure sine AC sockets. A foldable 60W panel with a 21.5 to 23.5 percent conversion rate comes in the box, along with a smart DC adapter set.\n\nCompared with the Jackery 300 kit, it ships a stronger 60W panel and costs less. It uses lithium-ion rather than LiFePO4, so no cycle rating is listed.\n\nIt suits campers who want a mid-size kit that costs less. The built-in flashlight has an SOS mode.",
     "specs": [
       "237Wh lithium-ion, 300W AC",

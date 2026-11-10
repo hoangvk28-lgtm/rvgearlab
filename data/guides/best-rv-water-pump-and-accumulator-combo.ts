@@ -30,7 +30,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Ac9zs1DdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DM5HW3MN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DM5HW3MN?tag=rvgearlab-amz-20",
     "description": "The CrestWave RV Water Pump & Accumulator Tank Set runs on 12V and delivers 7 GPM at 70 PSI through a five-chamber diaphragm. A 1L accumulator tank comes in the set, and the price is $99.99, the lowest among the 7 GPM sets.\n\nCompared with the 110V CrestWave below it, this set runs straight from the coach battery system, which matches how nearly every travel trailer and motorhome is wired. Compared with the SEAFLO, it moves 7 GPM against 3.0 GPM, giving stronger showers and quicker fills.\n\nIt is the best match for owners with a standard 12V rig and sturdy plumbing who want strong flow and a smoother, quieter system at the best price.",
     "specs": [
       "12V, 7 GPM, 70 PSI",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/413wlR6eG1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DM5JF982?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DM5JF982?tag=rvgearlab-amz-20",
     "description": "The CrestWave 110V RV Water Pump with 1L Accumulator Tank delivers the same 7 GPM at 70 PSI as the 12V set, with a five-chamber diaphragm and a thicker copper motor. It plugs into AC power and is priced at $129.99.\n\nCompared with the 12V set above it, this version suits setups with household power, such as a cabin, a shop or a shore-powered rig. Compared with the quiet-documented CrestWave below it, it gives the same flow and accumulator at a lower price.\n\nIt is a good choice for stationary installations with AC power at hand, where a strong 7 GPM supply and a 1L tank make water use steady.",
     "specs": [
       "110V, 7 GPM, 70 PSI",
@@ -86,7 +86,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51PRhXN7-rL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GQF91HVY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GQF91HVY?tag=rvgearlab-amz-20",
     "description": "The CrestWave Fresh Water Pump Set is a 110V, 7 GPM, 70 PSI pump priced at $139.99. Its listing states 45 dB or less, an IP68 rating, a 1-year warranty and 10 foot self-priming.\n\nCompared with the 110V set above it, this one adds a documented noise figure, a waterproof rating and a stated warranty. Compared with the SEAFLO below it, it provides much stronger flow and a self-priming lift.\n\nIt suits owners who place the pump near a bedroom or living area, want quiet running with the numbers to prove it and have AC power available.",
     "specs": [
       "110V, 7 GPM, 70 PSI",
@@ -114,7 +114,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41EE0WlyrWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B081544YH8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B081544YH8?tag=rvgearlab-amz-20",
     "description": "The SEAFLO 33-Series Water Pump and Accumulator Tank System is a 12V pump with 3.0 GPM flow, a 45 PSI shut-off and a 0.2 gallon accumulator, priced at $119.99. EPDM valves and a Santoprene diaphragm give it durable wetted parts.\n\nCompared with the CrestWave sets above it, the SEAFLO runs at a gentler pressure that matches older RV plumbing ratings, and it supplies several fixtures at a calm rate. Its materials suit long service in a fresh water system.\n\nIt is the best fit for older coaches with lines and fittings rated for lower pressure, where a protective 45 PSI shut-off is the priority.",
     "specs": [
       "12V, 3.0 GPM, 45 PSI",

@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31+rUEhfj5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FD948Z3F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FD948Z3F?tag=rvgearlab-amz-20",
     "description": "The Foam Global Bliss is an 8 inch gel memory foam bifold short queen made in the USA and listed as hinged for RV beds. The bifold design lets you lift half the mattress for storage access.\n\nAgainst the Camping World Cozyway 8 inch it adds gel memory foam and the thicker, more plush feel. It suits RV owners who want a daily-use bed that also folds for access.",
     "specs": [
       "8 inch gel memory foam",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410PGbVp93L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D2JK3514?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D2JK3514?tag=rvgearlab-amz-20",
     "description": "The Camping World Cozyway Bifold 8 inch is a 60 by 75 inch short queen with CertiPUR-US high density foam that ships compressed and boxed. It is designed for RVs, campers and trailers.\n\nIt matches the Bliss on thickness and fold style while using conventional foam, and it sits above its own 6 inch sibling on comfort. It suits owners who want an RV-brand replacement they can install alone.",
     "specs": [
       "60 by 75 inch short queen",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ccymMckuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D2JKW2XT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D2JKW2XT?tag=rvgearlab-amz-20",
     "description": "The Camping World Cozyway 6 inch is the thinner version of the same bifold short queen, built from high density memory foam that conforms to the body. It uses the same boxed delivery as the 8 inch.\n\nIt keeps the same 60 by 75 inch footprint as the 8 inch Cozyway with less bulk, which helps where headroom is tight. It suits lighter sleepers and guest or bunk beds.",
     "specs": [
       "6 inch memory foam",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21RvtoGJIjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F4XCK36X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F4XCK36X?tag=rvgearlab-amz-20",
     "description": "The Inofia is a 6 inch trifold memory foam short queen with a removable cover and a memory foam top layer. Three panels fold into a compact stack.\n\nIt folds smaller than the Camping World bifolds and is easier to move or store than a single slab. It suits owners who store the mattress seasonally or need a portable sleep surface.",
     "specs": [
       "6 inch trifold",
@@ -133,7 +133,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51CfkZ1LdsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H6DH48XC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H6DH48XC?tag=rvgearlab-amz-20",
     "description": "The HOMBYS is a 6 inch cooling short queen with a four-section fold, using air-layer fabric over memory foam and high density support foam. The extra folds make it the most compact of the group.\n\nCompared with the Inofia trifold it adds one more fold and a cooling cover for warm campers. It suits van and truck-camper owners who need the smallest folded size.",
     "specs": [
       "Four-section fold",

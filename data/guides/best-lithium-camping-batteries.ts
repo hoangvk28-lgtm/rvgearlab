@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41y9spCjVPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07R69Y9Y6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07R69Y9Y6?tag=rvgearlab-amz-20",
     "description": "The Energizer Ultimate Lithium AAA comes in a 24-pack and, per the listing, works from -40 to 140 degrees F. The cells are leak proof based on standard use and store for up to 25 years.\n\nIt is the only AAA option here, which makes it the answer for small headlamps and compact flashlights that take triple-A cells. A smaller 8-pack of the same cell exists for lighter users, while the AA lines in this list suit lanterns and larger flashlights.\n\nIt suits campers with AAA headlamps who want cells that keep working in a freezing tent. The 24-pack covers a season of trips without a restock.",
     "specs": [
       "AAA lithium, 24 pack",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41icSPG0FeL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FWCN6M21?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FWCN6M21?tag=rvgearlab-amz-20",
     "description": "The EBL Super III lists 3,700mAh per AA cell in a 12-pack, with a rated range of -68 to 140 degrees F. The listing says it lasts seven times longer than alkaline and stores for 25 years.\n\nIt states the widest temperature range and the highest capacity of the AA packs, ahead of Enegitech at 3,000mAh and xuniuzero at 3,200mAh. It costs less than the 24-packs because it comes in a smaller count.\n\nIt suits winter campers running headlamps and lanterns that take AA cells. Twelve cells cover several devices through a long trip.",
     "specs": [
       "3,700mAh AA, 12 pack",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411UiDOAupL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09VGPLX7W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09VGPLX7W?tag=rvgearlab-amz-20",
     "description": "The BEVIGOR is a 24-pack of 1.5V lithium AA cells with a listed 20-year shelf life and less than 1% yearly self-discharge. The cells work from -40 to 140 degrees F and carry leak-proof, explosion-proof valve and short-circuit protection.\n\nIt gives the largest count of AA cells here, double the EBL's 12, and the listing says the voltage holds steady until nearly the end. Compared with Enegitech it has no stated mAh, while it offers more cells per pack.\n\nIt suits families and groups that go through AA cells in lanterns, radios and flashlights over a season. The three-layer protection suits devices that cost more than the batteries.",
     "specs": [
       "24 pack, 1.5V lithium AA",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51kK-KEUyZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B076MNQ16C?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B076MNQ16C?tag=rvgearlab-amz-20",
     "description": "The Enegitech lists 3,000mAh per AA cell, 1.5V, with a 10-year shelf life and a -40 to 140 degrees F range. The listing calls the cells leak proof based on standard use and warns not to recharge them.\n\nIts shelf life is the shortest of the group, behind the 20 to 25 years of the BEVIGOR and EBL. It states a capacity figure that the BEVIGOR does not.\n\nIt suits trail cameras and cold-weather devices that use AA cells and do not need long storage. It is a sensible middle price between the small packs and the bulk packs.",
     "specs": [
       "3,000mAh 1.5V AA",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51CWGy-w5hL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H5VGT3NF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H5VGT3NF?tag=rvgearlab-amz-20",
     "description": "The xuniuzero is a 4-count AA lithium pack at 3,200mAh each, 1.5V, with a 20-year shelf life and under 1% yearly self-discharge. The listing names an explosion-proof valve, anti-short-circuit valve and airtight seal.\n\nIt is the cheapest way to try lithium AA cells, with a higher listed capacity than Enegitech at 3,000mAh. Four cells only fill one or two devices, so it sits below the EBL for coverage.\n\nIt suits a single headlamp or a flashlight that needs a fresh set before a trip. It also works as a spare set in a pack.",
     "specs": [
       "4 count, 3,200mAh AA",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51E-wyQQ8aL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08G1WZM77?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08G1WZM77?tag=rvgearlab-amz-20",
     "description": "The KidzAdventure bag is a mummy rated 32F to 59F with a pillow sleeve and a backpack-style carry sack. It weighs about 2 lb and comes in both kids and youth sizes.\n\nCompared with the adult-cut bags, it has a smaller footprint so there is less empty space to warm. Against the BISINNA, it is a true kids size and a mummy with a warmer 32F lower figure.\n\nIt suits children who hike and camp from spring to fall. The pillow sleeve holds a rolled jacket in place.",
     "specs": [
       "Mummy, 32F to 59F",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zSEcxdTeL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08FWY324K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08FWY324K?tag=rvgearlab-amz-20",
     "description": "The BISINNA bag has a 210T polyester shell with hollow cotton filling. It comes with a pillow, is safe for machine washing and lists left and right zipper bags that can join into a double.\n\nAgainst the KidzAdventure, it is an adult-cut bag that grows with the child. Compared with the MalloMe, it adds a pillow and a double-bag option.\n\nIt suits families who share bags between kids and adults. The zippers let two bags join.",
     "specs": [
       "210T polyester shell",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51ne2zCnH7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B077XNJXMR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B077XNJXMR?tag=rvgearlab-amz-20",
     "description": "In the MalloMe bag, a 50F to 77F range comes with a roughly 3 lb weight and room for a 6 foot sleeper. Its waterproof shell is made to be wiped down, with machine washing for bigger messes.\n\nCompared with the Sportneer, it names a temperature range and weight. Against the KidzAdventure, it is heavier and cut for larger kids and teens.\n\nIt is a good fit for older kids and teens on summer trips. The shell makes muddy cleanup quick.",
     "specs": [
       "About 3 lb",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41D5OIW3qtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DQNPR4VD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DQNPR4VD?tag=rvgearlab-amz-20",
     "description": "The Sportneer bag measures 31.5 by 87 inches and has a two-way separating zip at the bottom for feet. It uses a 190T polyester taffeta outer, a 190T pongee lining and polyester filling.\n\nNext to the BISINNA, it costs less and has a foot vent. Compared with the LRYBUKNT, it lists a larger body size and a simpler build.\n\nIt suits kids on warm nights who need an inexpensive bag. The foot vent lets them cool off.",
     "specs": [
       "31.5 x 87 inch size",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/413QJ+6AwQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GVSDNJ4H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GVSDNJ4H?tag=rvgearlab-amz-20",
     "description": "The LRYBUKNT bag has a 50F to 68F comfort range and a 41F to 77F recommended limit range. It measures 86.6 by 31.5 inches, weighs about 3 lb, and has dual zippers with an anti-pinch design.\n\nAgainst the MalloMe, it states both comfort and limit ranges. Compared with the Sportneer, it is slightly narrower and spells out its temperatures.\n\nIt suits teens who want a clear rating and a bag that packs small. The travel sack keeps it tidy.",
     "specs": [
       "50F to 68F comfort",

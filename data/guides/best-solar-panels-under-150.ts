@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51OsxlaXCcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GJZZVNHV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GJZZVNHV?tag=rvgearlab-amz-20",
     "description": "HQST is a 200W rigid N-type panel with 16BB Grade A+ cells at up to 25.4 percent efficiency, measuring 46.3 by 30.1 by 1.2 inches. It is 13 percent smaller and 14.5 percent lighter than conventional panels, carries a 30-year service life claim and has an IP65 rated frame.\n\nAt about $108 it gives 200W for $42 less than the cap, which is the lowest price per watt in this guide. The WUZECK flexes, and the ZOUPW and DOKIO fold, so this one is the best choice for a roof.\n\nChoose it for a van roof, an RV or a shed where you want the most watts for the money. It is sized for Class B vans.",
     "specs": [
       "200W N-type, up to 25.4% efficient",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4181dvWVirL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DRBHNX7B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DRBHNX7B?tag=rvgearlab-amz-20",
     "description": "WUZECK is a 12V 150W flexible panel with a dual-layer fiberglass composite film, a profile 2.5mm thick and a weight of 6.6 lb. It bends up to 240 degrees, resists 2400Pa wind and 5400Pa snow loads and mounts with adhesive backing or pre-drilled holes.\n\nAt about $114 it costs $6 more than the HQST and delivers 50W less, and it is the only pick that fits a curved roof. The HQST needs a flat surface.\n\nChoose it for a boat, a camper van with a curved roof or any surface where weight matters. Pre-installed waterproof connectors allow a plug-and-play hookup.",
     "specs": [
       "150W flexible, 6.6 lb",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51SyNN01llL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07Y8CT1W9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07Y8CT1W9?tag=rvgearlab-amz-20",
     "description": "DOKIO is a 150W foldable kit that weighs 7.3 lb and folds to about 21 by 20 inches, with a standalone PWM controller, a 9.8 foot cable and USB ports. The controller protects a 12V battery against reverse polarity, overcharge and overload.\n\nAt about $95 it costs $13 less than the HQST for 50W less, and it includes a controller and the ability to move with you. The ZOUPW 100W has a built-in USB hub and no controller.\n\nChoose it for a camping trip with a 12V battery or a van parked in changing light. It stores easily behind a seat.",
     "specs": [
       "150W foldable, 7.3 lb",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41O9ZbgIgkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CR42CFJ9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CR42CFJ9?tag=rvgearlab-amz-20",
     "description": "ZOUPW's 100W foldable panel pairs A+ monocrystalline cells rated 23.5 percent with a 5-in-1 cable with DC8020, XT60, Anderson and other connectors to fit most power stations. It has IP67 ETFE lamination, a magnetic carry handle and a built-in hub with a USB-C PD 15V/3A port and two USB-A ports.\n\nAt about $88 it is the cheapest pick and the one that can charge a phone directly. It weighs 9.48 lb and folds to 24.13 by 21.06 inches, which is bigger than the DOKIO.\n\nChoose it for a power station that needs an adapter-ready panel. The built-in USB hub works without a station.",
     "specs": [
       "100W foldable, 23.5% cells",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41yq3I3zBjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HJWG6MV1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HJWG6MV1?tag=rvgearlab-amz-20",
     "description": "VTOMAN's VS110 is a 110W foldable panel at 19V with MC4, Anderson, XT60 and DC5521 connectors, 23 percent monocrystalline cells, two adjustable kickstands and four hanging holes. It carries an IP67 splash rating.\n\nPriced near $150, it has the highest price tag here and the fewest watts per dollar. Its value is as a matched accessory for VTOMAN Jump power stations.\n\nChoose it if you own a VTOMAN station and want a panel the maker specifies. It folds for travel and hangs from a tent loop.",
     "specs": [
       "110W foldable, 19V working voltage",

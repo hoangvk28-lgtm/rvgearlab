@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31oaX6RArNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GXFCHCD5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GXFCHCD5?tag=rvgearlab-amz-20",
     "description": "This bivy sack is made from 70D ripstop nylon with a heat reflective coating and a 5000 millimeter hydrostatic head waterproof rating. It measures 87 by 33 inches and weighs about 416 to 448 grams depending on the color.\n\nNo other pick in this group states a waterproof rating, and the ripstop weave resists tears better than foil bags. The Vital Gear bug bivy keeps insects out, while this one adds a heat-reflective coating that is claimed to add about 9 degrees Fahrenheit.\n\nIt suits backpackers and bikepackers who want a light waterproof shell with a little warmth. Use it over a sleeping bag on a ground sheet.",
     "specs": [
       "70D ripstop, 5000mm rating",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/61a-+wpcZWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FXSZQBJF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FXSZQBJF?tag=rvgearlab-amz-20",
     "description": "The Vital Gear bivy is a one-person mesh shelter with no-see-um netting and a waterproof, tear-resistant floor. It weighs under a pound and pitches with stakes, trekking poles or under a tarp.\n\nIt stands apart from the shell covers by keeping insects off your face while letting air flow through. It does not shed rain on its own, so a tarp over it is the way to pair it.\n\nIt suits summer hikers and hunters in buggy country who want a minimalist sleeping space. Pair it with a lightweight tarp for rain.",
     "specs": [
       "Under 1 lb, mesh shelter",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51KRpTxZ1ZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09WMT8TJ3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09WMT8TJ3?tag=rvgearlab-amz-20",
     "description": "The Ironstripe set includes two oversized bivy bags, each 94 by 48 inches with a built-in hood, and an emergency whistle. It is described as waterproof and wind-resistant and made for all seasons.\n\nAt 94 inches long and 48 wide it is the roomiest bag in the group, which leaves space for a jacket or a pack. It costs about the same as the ripstop bivy and gives you two bags.\n\nIt suits larger campers and families who want a roomy emergency layer. Keep one in each vehicle.",
     "specs": [
       "94x48 in, built-in hood",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41KAvX9pVfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07681P4RZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07681P4RZ?tag=rvgearlab-amz-20",
     "description": "The Go Time Gear bivy weighs 4.1 ounces and retains up to 90 percent of body heat in a polyethylene bag. It includes a 120 decibel whistle and 20 feet of paracord.\n\nIt is the lightest pick in the group and the only one with a paracord line as well as a whistle. It can also line a sleeping bag or act as a thermal blanket.\n\nIt suits day hikers and bike commuters who want the smallest emergency bag in a pocket. Stash it in a first-aid kit.",
     "specs": [
       "4.1 oz polyethylene bag",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41yiW1qtWxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G46W8GF1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G46W8GF1?tag=rvgearlab-amz-20",
     "description": "The Vanthorivia set includes four mylar emergency sleeping bags and a whistle. The bags are waterproof and reflect body heat, and they stuff into small storage pouches.\n\nIt costs less than the Ironstripe pair and gives twice the bag count, which makes it useful for a group or several vehicles. The material is thin foil, so these are for emergencies only.\n\nIt suits families, scout leaders and groups who want enough bags for everyone. Keep two in the car and two at home.",
     "specs": [
       "Four mylar bags",

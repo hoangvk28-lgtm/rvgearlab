@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411E-bWprkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09C4K26BS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09C4K26BS?tag=rvgearlab-amz-20",
     "description": "The Merino.tech Women's Merino is a 100 percent merino set at 250 g/m² with superfine 17.5 micron wool. The listing lists natural wicking, odor resistance and temperature regulation, and includes free merino hiking socks.\n\nAgainst the HEROBIKER, it uses natural fiber and regulates temperature. Compared with the SIMIYA, it costs more and adds natural odor resistance.\n\nIt suits women who want a premium base layer that works for outings and daily wear. The brand backs it with a promise.",
     "specs": [
       "100% merino, 250 g/m²",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31hYiCcQZgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H6PZL8X7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H6PZL8X7?tag=rvgearlab-amz-20",
     "description": "The Ekouaer 210 GSM is a fleece-lined thermal set at a stated 210 GSM with four-way stretch, a modern-rise waistband and anti-static, no-balling fabric. It is described as lightweight and fitted for winter walks.\n\nAgainst the Ekouaer Lightweight, it states a weight. Compared with the persimar, it is a single set at a lower price.\n\nIt suits women who want a stated weight at a low cost. The set can layer under outerwear.",
     "specs": [
       "210 GSM fleece lined",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31sIXVR+NBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FDWLWL6S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FDWLWL6S?tag=rvgearlab-amz-20",
     "description": "The persimar 2 Pack is a fleece-lined thermal set in a polyester and spandex blend with four-way stretch. The listing describes odor-treated, anti-pilling and shrink-resistant fabric.\n\nAgainst the HEROBIKER, it gives two sets. Compared with the SIMIYA, it adds odor-treated fabric.\n\nIt suits women who want to rotate sets. The slim cut avoids bulk.",
     "specs": [
       "Fleece-lined, 2 pack",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Zkd3HpktL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07HN2NH38?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07HN2NH38?tag=rvgearlab-amz-20",
     "description": "The HEROBIKER Fleece Set uses a polyester and spandex blend (92 percent and 8 percent) over a light fleece lining and four-way stretch. The listing calls it the warmest base layer from the brand.\n\nAgainst the SIMIYA, it uses a lighter fleece. Compared with the Merino.tech, it is synthetic and costs far less.\n\nIt suits women who want warmth without much bulk. The listing names skiing, cycling and yoga.",
     "specs": [
       "92% polyester, 8% spandex",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31aOl1mev+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09FKZLFSB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09FKZLFSB?tag=rvgearlab-amz-20",
     "description": "The SIMIYA Fleece Set is a fleece-lined thermal set with four-way stretch and a snug, not-bulky fit. The listing says it can be worn under jeans or ski pants.\n\nAgainst the HEROBIKER, it focuses on slim layering. Compared with the persimar, it is a single set.\n\nIt suits women who layer under pants. It is machine washable.",
     "specs": [
       "Fleece-lined thermal set",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41T1FqUJ1ML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FVSLXBXW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FVSLXBXW?tag=rvgearlab-amz-20",
     "description": "The Ekouaer Lightweight is a lightweight thermal set with soft, smooth fabric and four-way stretch. The listing says it works as pajamas or a winter outdoor base layer.\n\nAgainst the Ekouaer 210 GSM, it is lighter and states no weight. Compared with the persimar, it is a single light set.\n\nIt suits women who want a thin layer for cool days. The fit is snug.",
     "specs": [
       "Lightweight thermal set",

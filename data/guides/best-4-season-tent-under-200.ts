@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31bCfifeuwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F5WK281S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F5WK281S?tag=rvgearlab-amz-20",
     "description": "The Naturehike 4 Season two-person tent uses 20D silicone-coated nylon with a PU 3000mm waterproof rating. A flexible pole set crosses at the dome apex for a simple setup in snow and rain.\n\nNext to the BISINNA, it is the cleaner tent for backpackers because it leans on lightweight fabric. Against the camppal, it gives two sleeping spots instead of a solo length.\n\nIt suits two backpackers who want a dome built for cold weather without a premium price. The 3000mm rating covers wet snow.",
     "specs": [
       "20D silicone-coated nylon",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41YcorK-OwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FWB9NCWB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FWB9NCWB?tag=rvgearlab-amz-20",
     "description": "The BISINNA tent includes a snow skirt and measures 82.6 by 59 by 43.3 inches. It weighs 6.4 pounds and packs to 18 by 7 by 7 inches, with a double layer of mesh and fabric, two doors and two windows.\n\nCompared with the Naturehike 4 Season 2P, it is heavier and has a wider footprint with two doors for easy entry. Against the camppal, it adds a second sleeper and a skirt that keeps snow from sliding under the fly.\n\nIt suits two campers who want a skirted tent that still fits a pack. Two doors and windows help with ventilation and condensation.",
     "specs": [
       "82.6 x 59 x 43.3 inch interior",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/311SmL-vilL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0813M3VWZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0813M3VWZ?tag=rvgearlab-amz-20",
     "description": "The camppal one-person tent has an inner tent of 8.2 by 2.95 by 2.95 feet and an outer with a 3500 to 4000mm waterproof rating. It uses seam taping on the zippers, a single pole and a setup the listing puts at 3 minutes.\n\nCompared with the Underwood Aggregator, it states waterproof and dimension numbers more clearly. Against the two-person tents, it saves weight and gives a long 8.2 foot floor for taller campers.\n\nIt suits tall solo hikers who want a four season shelter at a low cost. The single-pole design keeps setup quick in bad weather.",
     "specs": [
       "8.2 ft long, single pole",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41mVtDwh7uL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FP91W1FG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FP91W1FG?tag=rvgearlab-amz-20",
     "description": "The Underwood Aggregator is a single-person backpacking tent with aircraft grade aluminum poles, a two-way zipper and an interior hook for a camping light. The listing markets it as an extreme weather tent for every season.\n\nCompared with the camppal, it adds small touches like the light hook and the poles that hold up in wind. Against the Naturehike 4 Season 2P, it is a pure solo shelter that is easier to pitch on a narrow ledge.\n\nIt suits solo hikers who like the small conveniences. The poles are a clear step up from fiberglass.",
     "specs": [
       "Aircraft grade aluminum poles",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41s1dth3R-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CQS99MRV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CQS99MRV?tag=rvgearlab-amz-20",
     "description": "The Chihee tunnel tent sleeps four, with a PU 2000mm outer, a built-in PE groundsheet and two entrances. It uses B3 mesh for airflow and curved poles that tunnel tents are known for.\n\nCompared with the two-person tents, it gives far more room for gear and a second door for cooking. Against the generic four-person tent, it names a waterproof number and a built-in floor.\n\nIt suits families who want four-season-labeled space under $200. Two entrances keep luggage on one side and cooking on the other.",
     "specs": [
       "4 person tunnel tent",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21AxP8paCwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F2TG2M5P?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F2TG2M5P?tag=rvgearlab-amz-20",
     "description": "The generic four-person tent has waterproof seams and a coated fabric, with an ultralight and compact design. The listing promises a simple setup and a spacious feel for four.\n\nIt is the lowest cost on the list and the only four-person option under $50. Compared with the Chihee Tunnel, it offers less detail on doors and floors.\n\nIt suits campers who want a low-risk, low-cost group shelter for mild winter use. It is a way to try four-season camping on a small budget.",
     "specs": [
       "Four-person capacity",

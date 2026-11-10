@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41CpeBcid0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09FNXBY3W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09FNXBY3W?tag=rvgearlab-amz-20",
     "description": "The GOTIDY is sold as a Gladiator bed tent and states a design for the 2020 to 2021 Gladiator JT. It uses 210D oxford polyester with a PU2000mm coating, 8.5mm fiberglass poles and a full tent floor, with an interior of 63 inches plus a 20 inch extension by 65 inches wide.\n\nNext to the Qualencey it is the one that names the Gladiator in its own design notes instead of listing it in a long compatibility string. It sits above the cap-style DAC for people who want a free-standing pole tent with a floor and a rear window.\n\nIt suits Gladiator owners camping from an open bed who want one door, side mesh windows and a rainfly. The 67 inch peak height lets two adults sit up.",
     "specs": [
       "210D oxford, PU2000mm",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41nzvzxs5eL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DNHLHMT1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DNHLHMT1?tag=rvgearlab-amz-20",
     "description": "The Qualencey is a 5 to 5.2 foot bed tent in 210D oxford with a PU5000mm coating, and its compatibility list gives Jeep Gladiator a 5 foot bed length. Outside dimensions run 84.6 inches deep, 64.9 wide and 67 high, and an awning adds a shaded lounge area.\n\nIts PU5000mm rating is the highest of the four and well above the GOTIDY and JOYTUTUS at PU2000mm. It also costs less than the JOYTUTUS topper tent.\n\nIt is the pick for Gladiator campers who expect rain and want the best listed coating plus an awning. Fiberglass poles and insect-screened doors round out the build.",
     "specs": [
       "PU5000mm oxford fabric",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41tJ7IFW1BL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GCF4VCB7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GCF4VCB7?tag=rvgearlab-amz-20",
     "description": "The JOYTUTUS tailgate tent is built for trucks with a soft or hard topper or camper shell and lists Gladiator JT among mid-size fits. It adds an extended awning, a high-density mesh door, an opaque zipper door and an openable PVC skylight, on 210D oxford with PU2000mm and aluminum support rods.\n\nWhere the GOTIDY and Qualencey need the bed fully open, this one attaches to the back of a cap and turns the covered bed into the bedroom. It trades the pole-tent floor for a tunnel into the truck.\n\nGladiator owners who already run a topper and want weather cover over the tailgate get the most from it. The skylight allows stargazing from the bed.",
     "specs": [
       "Soft or hard topper fit",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31uomZWhStL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00BYA10F4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00BYA10F4?tag=rvgearlab-amz-20",
     "description": "The DAC truck tent names the Jeep Gladiator and the Ford Maverick, Ranger, Nissan Frontier, Rivian R1T and Tesla Cybertruck, with a tailgate width of 58 inches or less and a flat-back camper shell. It uses no poles, only elastic shock cords with plastic-coated hooks, and weighs 5 pounds packed to 11 by 11 by 6 inches.\n\nIt is the lightest and most compact pick here and the only one rated fire-retardant. Against the JOYTUTUS it skips the awning and skylight in exchange for a quicker, pole-free slip-over fit.\n\nIt suits Gladiator owners with a cap who want a very small, fast tailgate enclosure. Dual rear panels tie back or zip shut.",
     "specs": [
       "5 lb, packs 11x11x6 in",

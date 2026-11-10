@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Qpl8TonaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08F2XHV5V?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08F2XHV5V?tag=rvgearlab-amz-20",
     "description": "The AquaQuest Pharaoh envelops a sleeping bag and pad in a waterproof-breathable shell of durable 70D nylon. It carries a 10,000mm waterproof rating and a 10,000 gr/m2/day moisture vapor rating, weighs 1.1 pounds and packs into a built-in stuff sack 9 inches long by 5 inches wide.\n\nCompared with the Litume, it states both waterproof and breathability numbers and weighs about twice as much. Against the 3F UL Gear Tyvek cover, it is a true storm shelter, with fabric built to be used alone.\n\nIt suits ultralight backpackers who want a real bivy for shoulder-season nights. It needs no setup and almost no space.",
     "specs": [
       "70D nylon, 10,000mm waterproof",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31yjhHzwm7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FV883PQB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FV883PQB?tag=rvgearlab-amz-20",
     "description": "The Litume bivy folds to about 17.5 by 8.5 cm and weighs under 400 grams. It uses a waterproof and breathable fabric with a water-repellent treatment, and it is tailored for mummy-style bags with a spacious footbox and a hood.\n\nCompared with the AquaQuest, it is lighter and smaller and lists no millimeter ratings. Against the Tyvek cover, it is a proper waterproof shell with a hood.\n\nIt suits backpackers who want a light bag cover that fits a mummy bag. It stuffs into the corner of a pack.",
     "specs": [
       "Under 400 g, folds 17.5 x 8.5 cm",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41cmsfLjXOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B085WZL9G5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B085WZL9G5?tag=rvgearlab-amz-20",
     "description": "The 3F UL Gear cover is made of DuPont Tyvek and comes in Type A, 180 by 80 cm at 130 grams, or Type B, 230 by 90 cm at 200 grams. It folds to 16 by 8.5 cm and is meant to prevent condensation inside a tent or tarp.\n\nIt is the lightest option on the list and gives the least weather protection. Against the AquaQuest, it is a condensation and dirt barrier used with a tent or tarp, not a stormproof shell.\n\nIt suits ultralight hikers who pitch a tarp and want a light cover to keep a bag dry. The listing says to use it with a sleeping bag, not alone.",
     "specs": [
       "Tyvek, 130 g or 200 g",

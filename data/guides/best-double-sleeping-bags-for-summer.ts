@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41W4ToCwJQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B081VYH9HR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B081VYH9HR?tag=rvgearlab-amz-20",
     "description": "VENTURE 4TH states a range of 30 to 70F for this double, which is the only one here that reaches into the 70s. A breathable design and a two-way zipper let you adjust airflow, and a water-resistant polyester shell and a compression sack are included.\n\nAgainst the AGEMORE Flannel Double, it has the higher top end for warm nights and a lifetime replacement guarantee. It also costs a little less.\n\nA good pick for couples who camp in summer at elevation or in the mountains where nights run cool. It fits campers up to 5 feet 11 inches.",
     "specs": [
       "30 to 70F stated range",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51z0CN852PL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B077TC9NS5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B077TC9NS5?tag=rvgearlab-amz-20",
     "description": "The AGEMORE double pairs a 210T water-resistant polyester exterior with a brushed cotton flannel interior, and its design range is listed as 41 to 59F. Zippers on both sides open it into two single bags or one wide quilt.\n\nIt runs cooler in range than the VENTURE 4TH Double 3-Season, so it suits summer nights that drop into the 40s and 50s rather than hot ones. The flannel lining makes it comfortable on bare skin.\n\nA fit for couples who camp in cool-summer regions and want a cozy flannel double. It compresses into its carry bag.",
     "specs": [
       "41 to 59F design range",

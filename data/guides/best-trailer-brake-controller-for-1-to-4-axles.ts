@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41fhKtKYusL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CC2X8M7X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CC2X8M7X?tag=rvgearlab-amz-20",
     "description": "The CURT 51146 TriFlex Next is a proportional inertia controller that operates 2 to 8 trailer brakes at a time (1 to 4 axles). It uses a triple-axis motion-sensing accelerometer, and the third axis adjusts power on hills.\n\nIt ranks first because it covers the full axle range from a known brand at a mid price. The Kohree Split below adds a windshield display and more boost levels, and the Synhalt Bluetooth moves between vehicles but costs far more.\n\nBest for most owners who want one dependable dash unit for a trailer that may gain an axle later. The title says 2-4 axles while the spec line says 1-4 axles, so confirm single-axle use with CURT.",
     "specs": [
       "Operates 2 to 8 trailer brakes",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41h5ElCbw8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D3DYMGZJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D3DYMGZJ?tag=rvgearlab-amz-20",
     "description": "The Kohree is a proportional controller for 1 to 4 axle trailers with a split design: an LCD display that can sit on the windshield and a separate controller body mounted elsewhere. It lists 9 levels of boost and automatic leveling.\n\nCompared with the CURT TriFlex above, it gives you far more boost steps and puts the display at eye level, but you mount two parts and run wiring between them. Next to the A-Outsanding below, it costs about twice as much and adds the display and the Type-C data cable.\n\nBest for owners who want to read output at a glance and fine tune boost for a heavy trailer. Plan for a longer install than a single body.",
     "specs": [
       "Proportional, 1 to 4 axles",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41IPfqOqOkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H6W1ZGNH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H6W1ZGNH?tag=rvgearlab-amz-20",
     "description": "The Synhalt is a proportional controller that plugs between the tow vehicle and trailer 7-way connectors and is controlled from a phone over Bluetooth. It lists triple-axis motion sensing, auto calibration and support for 1 to 4 axles and up to 8 electric brakes.\n\nCompared with the dash units above it needs no hardwiring or drilling and moves between trucks, but it is the most expensive pick here. The phone becomes the display, so a dead or missing phone means no adjustments.\n\nBest for people who swap trailers or tow vehicles and want zero under-dash work. The vehicle's 7-way must supply power for the brake circuit, which you should verify.",
     "specs": [
       "Bluetooth app control",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ZNBjWQv-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GL81VVGY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GL81VVGY?tag=rvgearlab-amz-20",
     "description": "The A-Outsanding is a proportional controller sold with a 51515 universal four-wire wiring pigtail, and the listing says the package includes a 51140 TriFlex controller. It manages 4 axles (8 brakes), has a three-axis accelerometer, automatic leveling and an LED screen showing gain and system health.\n\nIt comes in at roughly half the price of the Kohree Split and CURT TriFlex above and adds a manual slider for trailer sway. The tradeoff is a third-party seller and a 24 inch universal pigtail rather than a vehicle-specific plug.\n\nBest for a four-axle trailer where you want proportional braking and a harness in the box for less money. Check that the universal pigtail suits your truck's wiring.",
     "specs": [
       "Proportional, 4 axles (8 brakes)",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41bYzlYd91L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FK567BQC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FK567BQC?tag=rvgearlab-amz-20",
     "description": "The Lrichy 8507111 is a time-delay controller for 1 to 4 axles that replaces the 8507111 Time-Delay Brake IV. It ramps braking force at a fixed rate and has an LED display for settings, diagnostics and alarms.\n\nAgainst the proportional picks above it is simpler and cheaper but follows a timer instead of your deceleration. It includes brackets and screws, a plug-and-play port, can mount in any direction, and carries a stated two-year warranty.\n\nBest for a light trailer pulled occasionally where a predictable ramp is acceptable. For a heavy tandem or triple-axle rig, one of the proportional units is the better match.",
     "specs": [
       "Time-delay, 1 to 4 axles",

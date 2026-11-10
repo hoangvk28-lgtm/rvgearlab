@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41cp1++xMcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GDY3V9PC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GDY3V9PC?tag=rvgearlab-amz-20",
     "description": "The FitVille Wide Men's is a closed-toe sandal with a wide toe box described as tailored for swollen feet, bunions or hammertoes, plus a removable midsole with arch support. A slip-resistant rubber outsole, a reinforced closed-toe cap and fast-pull laces with an adjustable strap complete the fit.\n\nCompared with the KEEN Newport H2, it adds a removable midsole and a lower price. Against the TRAILBLITZ, it names the width design instead of leaving it to guesswork.\n\nIt suits men with wide, swollen or bunioned feet who want protection and easy entry. The mesh upper wicks moisture.",
     "specs": [
       "Wide toe box, high arch",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41YWM4aEbSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B002Y25BSS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B002Y25BSS?tag=rvgearlab-amz-20",
     "description": "The KEEN Newport H2 is a closed-toe water sandal using quick-dry synthetic straps, a lace lock bungee capture system and shock-absorbing underfoot support. KEEN Original fit offers generous space across the forefoot, and multi-directional lugs with siping channels grip slippery ground.\n\nCompared with the FitVille Wide Men's, it uses a non-removable footbed and costs more. It adds a machine-washable build and an iconic toe protection design.\n\nIt suits men who want a famous, rugged sandal with room for toes to spread. Non-marking soles are friendly to boat decks.",
     "specs": [
       "KEEN Original wide forefoot fit",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41SkA4tRF1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G5YZCVZ6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G5YZCVZ6?tag=rvgearlab-amz-20",
     "description": "The shevalues Women's Adjustable has a cushioned EVA footbed with ergonomic arch support and multiple hook-and-loop straps that adjust to different foot shapes. The listing states it is ideal for wide feet and describes lightweight, breathable construction with a sturdy rubber outsole.\n\nIt is the only women's pick with an explicit wide-feet claim. Compared with the UBFEN, it focuses on adjustability and cushioned comfort.\n\nIt suits women with broad forefeet who want straps that open up. The lightweight build suits travel and camp.",
     "specs": [
       "Cushioned EVA arch footbed",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/414xFEsyo8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GJRBKGZB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GJRBKGZB?tag=rvgearlab-amz-20",
     "description": "The UBFEN Light weighs about 175 grams per shoe and has arch support, an all-terrain rubber outsole and lint-free adjustable hook-and-loop closures. The breathable design is pitched for hiking, beach and travel.\n\nCompared with the shevalues, it is lighter and less specific about fit. Next to the FitVille, it has open straps rather than a closed toe.\n\nIt suits women who want a very light sandal and can adjust straps for a roomier fit. The listing does not claim a wide width.",
     "specs": [
       "About 175g per shoe",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41EedjoNn3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GX6JL8KC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GX6JL8KC?tag=rvgearlab-amz-20",
     "description": "The TRAILBLITZ Closed Toe is a men's sandal with a protective toe cap, an adjustable drawstring and hook-and-loop strap, a durable MD midsole and a non-slip rubber outsole. The cushioned midsole relieves foot pressure.\n\nCompared with the FitVille Wide Men's, it is simpler and priced a bit higher. Against the KEEN Newport H2, it offers a lighter build with fewer technical details.\n\nIt suits men who want an easy-entry closed-toe sandal with adjustable fit. The drawstring snugs the foot.",
     "specs": [
       "Protective toe cap",

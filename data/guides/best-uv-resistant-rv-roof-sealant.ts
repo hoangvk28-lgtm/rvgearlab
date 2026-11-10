@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31KuM52fCCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B000BRF7QE?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B000BRF7QE?tag=rvgearlab-amz-20",
     "description": "The Dicor 501LSW is a 10.3 ounce tube of white self-leveling lap sealant made for RV roofing on horizontal surfaces. Its listing says it is sun-ray stabilized to avoid spoiling and discoloration and will not stain or discolor roofing.\n\nIt is the standard RV-industry tube in this group. The multi-pack options trade that brand for lower cost per tube.\n\nIt fits owners who want a single proven tube for vents and seams. Under uv resistant rv roof sealant, expect vent and seam detail to suit it.",
     "specs": [
       "10.3 oz white tube",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zeKFpBzaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BY3BKX4X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BY3BKX4X?tag=rvgearlab-amz-20",
     "description": "The Liquid Rubber RV lap sealant 4 pack is white and self-leveling, designed for horizontal roof details like vents, skylights, AC units and antenna mounts. It forms a flexible waterproof barrier that moves through temperature changes and road vibration.\n\nIt gives four tubes for a price close to two Dicor tubes. It is part of a larger roof system with the brand's coating.\n\nIt fits owners who plan to use the Liquid Rubber coating system. Under uv resistant rv roof sealant, expect system buyers to suit it.",
     "specs": [
       "4 pack, white self-leveling",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51vWMHmxcZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09DCTBPCK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09DCTBPCK?tag=rvgearlab-amz-20",
     "description": "The PAULINN white self-leveling lap sealant has true self-leveling fluidity for flat roof surfaces. Its listing says it is UV resistant, sets within 30 minutes once cured and is non-toxic and odorless.\n\nIt offers a stated cure time. It costs less than Dicor per tube.\n\nIt fits owners who want quick set times. Under uv resistant rv roof sealant, expect quick jobs to suit it.",
     "specs": [
       "White self-leveling sealant",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41-TIX3BpbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CRDYC5LP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CRDYC5LP?tag=rvgearlab-amz-20",
     "description": "The Gociean white self-leveling sealant 2 pack is compatible with roof coatings and tape. Its listing names bonding to EPDM, TPO, aluminum, brass, steel, glass, mortar, wood and PVC, with no pungent smell.\n\nIt gives two tubes at a low price. It lists a long surface set.\n\nIt fits owners who want two tubes for different spots. On uv resistant rv roof sealant, mixed surfaces is where it fits.",
     "specs": [
       "White 2 pack",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51BdFkg+O5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GM4VS7DW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GM4VS7DW?tag=rvgearlab-amz-20",
     "description": "The CUKWUYBY 8 pack self-levels within 30 seconds after extrusion and is UV resistant. Its listing names bonding to EPDM, TPO, aluminum, brass, steel, glass, mortar and wood, with a low odor non-toxic formula.\n\nIt gives eight tubes for a low cost per tube. It is the cheapest per tube in this group.\n\nIt fits owners resealing a whole roof. With uv resistant rv roof sealant, whole roof resealing fits it best.",
     "specs": [
       "8 pack, self-leveling",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31VhuGJrrKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00YBFTCZE?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00YBFTCZE?tag=rvgearlab-amz-20",
     "description": "The Dicor Ultra Sealant is a 10.1 ounce polyether sealant with no solvents or isocyanates. Its listing says it stays non-yellowing under prolonged sun and withstands extreme heat and cold.\n\nIt adds a non-yellowing claim. Its listing text calls it non-leveling while the title says self-leveling, so verify the type.\n\nIt fits owners who care about long-term color. For uv resistant rv roof sealant, it suits color retention.",
     "specs": [
       "10.1 oz polyether sealant",

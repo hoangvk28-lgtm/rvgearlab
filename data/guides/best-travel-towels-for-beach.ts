@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51CSvAA+1-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CBFLHW9S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CBFLHW9S?tag=rvgearlab-amz-20",
     "description": "The Widdonen set has two 71 x 32 inch microfiber towels made from ultra-fine, thin fabric that is listed as sand-resistant, odor-free and quick-drying. Each set comes with a carry bag, and both sides carry a printed design.\n\nThe included bag is the main difference against the Eunzel and BLWBTDRA, which pack with straps or nothing. It is also listed as odor-free, which suits damp towels stuffed in a bag.\n\nIt fits couples and families who want matching towels and a clean way to carry them. The double-sided print keeps them easy to spot on a crowded beach.",
     "specs": [
       "Two 71 x 32 inch towels",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51bW6B7tSQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CS3W4C24?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CS3W4C24?tag=rvgearlab-amz-20",
     "description": "The Eunzel pair measures 71 x 32 inches and the listing says it dries three times faster than regular towels. Sand does not stick to the microfiber, so a shake clears the surface.\n\nThe sand-free claim is the headline feature, and the towels are listed as windproof as well. They suit camping and pool trips alongside the beach.\n\nIt fits beachgoers who hate gritty bags and want to shake out quickly. The double-sided design adds some style.",
     "specs": [
       "Two 71 x 32 inch towels",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41F61gaLlPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GZN72C2T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GZN72C2T?tag=rvgearlab-amz-20",
     "description": "The BLWBTDRA pair is 71 x 32 inches, dries three times faster than cotton and comes with a strap that rolls each towel up for carrying. The microfiber is listed as soft and sand-resistant.\n\nThe strap sets it apart from the Eunzel, since each towel rolls into a neat bundle. It also works for yoga and the gym.\n\nIt suits travelers who want towels that roll up fast between stops. The vibrant blue color holds up through washes.",
     "specs": [
       "Two 71 x 32 inch towels",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51cy0+bnsjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FXBBCJKF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FXBBCJKF?tag=rvgearlab-amz-20",
     "description": "The Utopia set has two 32 x 71 inch towels made from sueded cloth that is 85% polyester and 15% polyamide. A high-density weave sheds sand, and the fabric is highly compressible for luggage.\n\nIt is the thinnest and most compressible of the three 2-packs, and the price is lower than the Widdonen. It gives up the bag and the strap of the others.\n\nIt fits travelers who weigh every inch of luggage space. Printed designs such as Blue Flamingo add some fun.",
     "specs": [
       "Two 32 x 71 inch towels",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41KL+OQgfdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BKZJPRR7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BKZJPRR7?tag=rvgearlab-amz-20",
     "description": "The Antfuny is an oversized Turkish-style towel that is quick-drying, sand-free and machine washable. The listing says it is fade-resistant and keeps its color after multiple washes.\n\nIt is a single towel rather than a pair, which makes it lighter and cheaper per piece than the microfiber sets. The Turkish weave also works as a light blanket.\n\nIt fits solo travelers and couples who prefer a lighter, flatter weave. It folds small and dries fast on a line.",
     "specs": [
       "Oversized Turkish style",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Lp5LbOt+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DRJZR855?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DRJZR855?tag=rvgearlab-amz-20",
     "description": "The Aegero Turkish towel measures 36 x 71 inches, is quick-drying and absorbent and folds down compact for a pack. The listing says it can double as a pool towel and a picnic blanket.\n\nIt is the widest of the six at 36 inches and the lowest priced. It gives a single wide towel instead of two narrower ones.\n\nIt fits budget travelers and kids who just need a wide towel. It dries quickly in any climate.",
     "specs": [
       "36 x 71 inch Turkish towel",

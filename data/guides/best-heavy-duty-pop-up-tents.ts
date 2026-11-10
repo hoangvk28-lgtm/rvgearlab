@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51+J+b0YfNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HFJD48GG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HFJD48GG?tag=rvgearlab-amz-20",
     "description": "The Quictent 10 x 20 Heavy Duty canopy uses industrial 600D fire-retardant fabric that the listing says withstands 8 inches of rain per hour and 35 mph winds. It also claims 45 mph windproof stability and covers 250 sq ft with 3 removable walls and an awning.\n\nIt uses heavier fabric than the COBIZI 10x20 and adds a wheeled 800D bag. A 3-minute setup and 3 adjustable heights keep it practical.\n\nIt suits farmers markets, events and camps that see weather. A 1-year frame warranty and half-year cover warranty are listed.",
     "specs": [
       "10 x 20 ft, 250 sq ft shade",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41VEouWDn9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BB273T1J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BB273T1J?tag=rvgearlab-amz-20",
     "description": "The COBIZI 10 x 20 canopy has a full truss powder-coated frame with 1.26 inch pipes. Its top is 420D Oxford with two layers of PU coating and UPF 50+, and the set includes 6 sidewalls.\n\nThe listing says it handles 15 to 20 people and ships in a 3-wheel roller bag, with the whole tent weighing about 100 lb. It has more walls than the Quictent 600D and a heavier frame than the COBIZI 10x15.\n\nIt suits large groups and market vendors who need a robust frame. Two or three people can set it up.",
     "specs": [
       "Full truss 1.26 in pipes",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31nwUR4FYxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BY1CR7XB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BY1CR7XB?tag=rvgearlab-amz-20",
     "description": "The Crown Shades 10 x 10 canopy uses patented CENTERLOK to lock all four legs with one push. It gives 100 sq ft of shade with an interior height over 9 ft 5 in, 300D silver-coated fabric with UPF 50+, and CPAI-84 flame resistance.\n\nIt has a steel truss with hardened bolts and two legs with integrated wheels, plus a Sto-N-Go bag. It is a 10 x 10, where the COBIZI models are bigger, and it adds legs with wheels.\n\nIt suits campers and vendors who want a compact, high-quality frame. Two people can handle it easily.",
     "specs": [
       "10 x 10 ft, CENTERLOK",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41tNMPnns0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GC4Q3FJ9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GC4Q3FJ9?tag=rvgearlab-amz-20",
     "description": "The COBIZI 10 x 15 canopy has a powder-coated frame that supports up to 300 lb of weight distributed suspension. It uses 420D Oxford of 280gsm with two PU layers and UPF 50+, and includes 4 removable sidewalls with zipper doors.\n\nIt accommodates 10 to 15 people and sets up with 1 or 2 people in minutes, so it is lighter to handle than the 10 x 20 versions. It costs less than the COBIZI 10x20.\n\nIt suits groups that need more space than a 10 x 10 while stopping short of a full 10 x 20. Four sidewalls with zipper doors give weather options.",
     "specs": [
       "10 x 15 ft, 280gsm 420D",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/317OrKsIH4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C2TD3FNN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C2TD3FNN?tag=rvgearlab-amz-20",
     "description": "The CAPHAUS 10 x 10 canopy uses a patented one-push center lock and a steel frame with corrosion-resistant finish. Its 400D fabric has a silver-coated inner cover.\n\nThe kit includes 4 weight bags, 4 pegs, 4 ropes and 4 extra stakes, with a wheeled carry bag. It is far cheaper than the others, and sidewalls are not part of the listing.\n\nIt suits budget buyers who want a heavy-duty frame and weights for a basic shade. Add walls later if the weather demands them.",
     "specs": [
       "10 x 10 ft, 400D fabric",

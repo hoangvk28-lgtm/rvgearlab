@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41wgUhMXy3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DG8JQNS4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DG8JQNS4?tag=rvgearlab-amz-20",
     "description": "The OUPES Mega 1 delivers 2000W continuous and 4500W surge from 1024Wh of LiFePO4, with a 0 to 80 percent charge in 36 minutes through AC or 26 minutes with solar. Two B2 Extra Batteries expand it up to 5120Wh without extra inverters. It adds dual 100W USB-C ports, four QC3.0 USB-A ports, 12V DC outputs and a Bluetooth app.\n\nIt costs less than the Mega 1 Lite and is the one that can grow, thanks to its expansion batteries. Compared with the Mega 1 Lite, it gives up the 140W USB-C ports and the lighter 26.7 pound body.\n\nIt suits campers who may add capacity later and want to start motors and compressors. Its smart BMS balances cells and manages temperature.",
     "specs": [
       "2000W, 4500W surge, 1024Wh",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41RL0I+GqWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GTQ7BHVL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GTQ7BHVL?tag=rvgearlab-amz-20",
     "description": "The OUPES Mega 1 Lite lists 2000W continuous and 4500W surge from 1024Wh of LiFePO4, with 1400W of AC input for a 0 to 100 percent charge in 46 minutes and up to 800W of solar input through an Anderson port. It has two 140W USB-C ports, nine ports in total, a switchover under 20ms and a 5-year warranty.\n\nIt weighs 26.7 pounds and adds two 140W USB-C ports. Compared with the Mega 1, it names an 800W solar input and a 5-year warranty on its listing.\n\nIt suits campers who charge laptops over USB-C and want a lighter body for a trunk. Three 240W panels can fill it in about 70 minutes, according to the listing.",
     "specs": [
       "2000W, 4500W surge, 1024Wh",

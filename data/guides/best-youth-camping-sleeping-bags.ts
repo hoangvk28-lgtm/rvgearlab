@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41SY1DSDzlL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D9NYK46W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D9NYK46W?tag=rvgearlab-amz-20",
     "description": "KingCamp builds this kids' bag for children under 4 ft 7 in, with three adjustable lengths of 2 ft, 2 ft 11 in and 3 ft 10 in. It uses 300 g/m2 cotton hollow fiber fill, a 100% cotton flannel lining and an anti-tear waterproof polyester shell, and weighs 3.09 lb.\n\nThe adjustable length lets one bag fit a child for years, which the TETON Junior 20F and Coleman Kids 45F cannot do. Two-way zippers allow pairing two bags, and an outdoor skills card set comes in the box.\n\nA good match for parents who want a bag to last through growth spurts. The flannel lining feels soft and quiet.",
     "specs": [
       "Three lengths up to 3 ft 10",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31CbZOTBS+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B007JTLQHQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B007JTLQHQ?tag=rvgearlab-amz-20",
     "description": "TETON's Junior is a 20F kids' bag with a taffeta or canvas shell and a full-length zipper draft tube. A lining pocket holds a phone or flashlight, and the zippers run both ways with a stuff sack and hang loops included.\n\nIt is the only bag in the group rated for real cold, which makes it the one for fall and early spring trips. The draft tube blocks air along the zipper, a feature the lower-rated bags rarely name.\n\nRight for school-age kids who camp when nights drop toward freezing. It is built for cooler weather than the mild-night bags here.",
     "specs": [
       "20 degree rated kids bag",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41n8k6jIZAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CVSGRFW8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CVSGRFW8?tag=rvgearlab-amz-20",
     "description": "Coleman rates this kids' bag to 45F and sizes it for campers up to 5 ft 5 in. Roll Control keeps the bag straight when rolling up, a Comfort Cuff surrounds the face, and a ZipPlow zipper avoids snags.\n\nIt covers the tallest range of the five, past the KingCamp 45F Kids Flannel, and the Roll Control helps a child pack their own bag. The brand name signals consistent quality.\n\nA fit for elementary through early teen campers on warm nights. Pack a pad and layers for cool mornings.",
     "specs": [
       "Rated to 45F",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41TVxeKRMyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08FVBK86X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08FVBK86X?tag=rvgearlab-amz-20",
     "description": "KidzAdventure makes this mummy bag for 32 to 59F, in kids and youth sizes. It weighs about 2 lb and has a pillow sleeve and a backpack-style sack.\n\nThe 32F low end is the second coldest in the group and it is the lightest bag here at 2 lb. The mummy cut reduces unused space, and the youth size covers older kids.\n\nA reasonable choice for kids who hike a little and camp into fall. The pillow sleeve holds a rolled jacket.",
     "specs": [
       "Mummy, 32 to 59F",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41G70u6vjuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0851GVCBX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0851GVCBX?tag=rvgearlab-amz-20",
     "description": "The tuphen listing gives a 5 to 25C rating (roughly 41 to 77F) and calls 17 to 24C the comfortable band. It measures 29.5 x 86.6 inches, has a microfiber liner and a two-way zipper, and packs into a carry bag.\n\nPriced under the other four, it fits both older kids and adults, so it grows into an adult bag. The liner wipes clean and the bag can be machine washed.\n\nGood for youth on summer trips and sleepovers. It is best for kids tall enough to fill an 86 inch bag.",
     "specs": [
       "5 to 25C rated, 86.6 inches",

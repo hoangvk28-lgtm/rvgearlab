@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51l2HjYLe+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09ZK66DW3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09ZK66DW3?tag=rvgearlab-amz-20",
     "description": "The Garmin RV 1095 is a 10 inch RV navigator with a bright high-resolution touchscreen that works in landscape or portrait. It provides custom routing for RV size and weight and a directory of RV parks and services.\n\nAgainst the Garmin RV 795, the 1095 adds a much larger 10 inch display. Against the HINYFVOZ units, it adds RV park content and satellite imagery.\n\nIt is the best choice for Class C owners who want the largest and easiest screen. Think of it as the pick for largest screen for the cab.",
     "specs": [
       "10 inch touchscreen",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41WEtc8c5jL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09ZJXYL6W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09ZJXYL6W?tag=rvgearlab-amz-20",
     "description": "The Garmin RV 795 is a 7 inch RV navigator with custom routing and BirdsEye satellite imagery. It includes a preloaded directory of RV parks and services.\n\nCompared with the Garmin RV 1095, it is a smaller screen at roughly half the price. Compared with the Garmin Camper 795 EU, it is a North American map unit.\n\nA fit for Class C owners who want Garmin routing at a fair price. Buyers focused on mid-price garmin routing will find it a sensible match.",
     "specs": [
       "7 inch touchscreen",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41KBLw1yS4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B3YB6G7Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B3YB6G7Y?tag=rvgearlab-amz-20",
     "description": "The Garmin Camper 795 EU is a motorhome navigator with a voice assistant and routes that follow the size and weight of the vehicle. It warns of bridge heights, weight limits, sharp curves, steep slopes and environmental zones.\n\nAgainst the Garmin RV 795, it adds environmental zone alerts for European driving. Against the HINYFVOZ units, it brings Garmin routing at a mid-range price.\n\nA fit for Class C owners shipping or renting in Europe. It earns its slot for european trips.",
     "specs": [
       "Motorhome routing",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/413PIcg3GML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H4WPX7F6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H4WPX7F6?tag=rvgearlab-amz-20",
     "description": "The HINYFVOZ 7 inch GPS has a 7 inch touchscreen, preloaded North American maps and free lifetime updates. The listing says you can enter your vehicle's size for custom routing for cars, trucks and RVs.\n\nAgainst the other HINYFVOZ 7 inch listing, it is the near-identical option with different map-year wording. Against the Garmin RV 795, it drops RV park directories for a very low price.\n\nA fit for Class C owners who want basic size-aware routing at a low cost. It is a natural fit for basic budget navigation.",
     "specs": [
       "7 inch touchscreen",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ZP+fck2lL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HDCGT958?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HDCGT958?tag=rvgearlab-amz-20",
     "description": "The second HINYFVOZ 7 inch GPS comes with 2026 North America maps and free lifetime updates. It lets you input height, weight, length and width for custom routing that avoids unsuitable roads.\n\nCompared with the first HINYFVOZ 7 inch listing, it states the 2026 maps and 25 plus languages. Compared with the Garmin RV 1095, it is a far cheaper, smaller unit.\n\nA fit for budget Class C owners who want the freshest listed maps. Think of it as the pick for fresh maps on a budget.",
     "specs": [
       "7 inch HD touchscreen",

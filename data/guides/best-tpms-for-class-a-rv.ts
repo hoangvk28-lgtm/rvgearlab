@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/517uhG+fLRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07FKTH136?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07FKTH136?tag=rvgearlab-amz-20",
     "description": "The Truck System Technologies 507 kit ships with four cap sensors, a 3.5 inch color display and a rechargeable monitor with a Micro-USB charger. The system can watch your towing truck and up to four towable vehicles, and the sensors use user-replaceable CR2032 batteries.\n\nAgainst the GUTA GT20 below it, the TST starts with only four sensors, so a motorhome needs expansion sensors to cover six tires. In exchange it offers a three-year warranty on the system and USA-based live customer support, which the GUTA listing does not mention.\n\nIt fits a Class A owner who plans to build up a full system over time, adding sensors for dual rear tires and a toad. Budget for the extra sensors, because four only cover half a typical Class A rig.",
     "specs": [
       "Four cap sensors, 3.5 inch display",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51xe9ZgYu0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CW9KB4X6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CW9KB4X6?tag=rvgearlab-amz-20",
     "description": "The GUTA GT20 is sold with ten sensors and monitors pressure from 0 to 188 PSI and temperature from -40 to 221 degrees F. It supports up to 24 tires' worth of data with six alert modes, which covers a six-tire Class A and a four-tire toad.\n\nCompared with the TST 507 Cap above, it brings ten sensors to the starting kit rather than four, so nothing needs adding for a motorhome with a toad. Compared with the Tymate TM12 Flow below, the GT20 does not state a flow-through design, so confirm how you would add air before assuming the sensors can stay on.\n\nIt suits a Class A that tows a car and wants everything on a single page. The sensor style is not named in the title, so confirm it if you have dual rear wheels with hard-to-reach stems.",
     "specs": [
       "Ten sensors, 0 to 188 PSI",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41lnxjewHiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GQ9MQ2KF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GQ9MQ2KF?tag=rvgearlab-amz-20",
     "description": "The Tymate TM12 four-sensor set uses flow-through sensors: you add air through them without removing them from the valve stem. The display supports up to 12 tires across four zones and runs on USB-C or solar.\n\nAgainst the GUTA GT20 above, this kit costs much less but starts with four sensors, so a Class A needs a second set for its dual rear tires. Against the Masoll 4-Sensor below it, you gain the flow-through design that saves repeated sensor removal at every fill.\n\nIt suits an owner who airs tires up often and does not want to unscrew a sensor on an inner dual each time. Flow-through sensors work best with metal valve stems, so check yours before buying.",
     "specs": [
       "Four flow-through sensors",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41EiAIXjCoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GHRNZHFN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GHRNZHFN?tag=rvgearlab-amz-20",
     "description": "The Masoll four-sensor set is part of a range sold in 2, 4, 6 and 8 sensor kits, so a Class A owner can match the tire count. It includes a booster that stretches the sensor signal up to 120 feet.\n\nCompared with the Tymate TM2 below it, the Masoll adds a booster and a four-level brightness display for a higher price. Compared with the TM12 Flow above, it lacks the flow-through feature but includes the signal booster.\n\nIt suits a motorhome owner who wants a booster in the box and plans to add sensors from the same range. The title does not state a PSI range, so confirm it against your tire pressure.",
     "specs": [
       "Four sensors, 120 ft booster",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/416JYC5EnqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CW9GXBCB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CW9GXBCB?tag=rvgearlab-amz-20",
     "description": "The Tymate TM2 set of four uses external sensors and a color LCD, with a stated 0 to 87 PSI range. It charges by solar or USB and offers six alarm modes.\n\nThat 87 PSI ceiling is the key limitation for a Class A, since heavy motorhome tires can run well above 80 psi cold. Against the Masoll 4-Sensor above, it costs less but adds no booster and tops out lower.\n\nIt is only suitable for a toad, a tow car or a very light motorhome with tires at lower pressures. Most Class A owners should skip it for the picks above.",
     "specs": [
       "Four external sensors",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51V52cyuULL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GVJ7KWDL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GVJ7KWDL?tag=rvgearlab-amz-20",
     "description": "The Flydew kit covers six wheels, which matches a typical Class A with duals. It reads 0 to 144 PSI with plus or minus 1.5 PSI accuracy, updates every 0.3 seconds and offers six alarm modes with custom thresholds.\n\nCompared with the Tymate TM2 above, it provides two more sensors and a much higher ceiling for even less money. Compared with the GUTA GT20, it has no stated tow-vehicle expansion, so the toad would need a separate system.\n\nIt fits a Class A on a tight budget where the tire pressure stays under about 140 psi. Test signal strength through the coach before relying on it.",
     "specs": [
       "Six sensors, 0 to 144 PSI",

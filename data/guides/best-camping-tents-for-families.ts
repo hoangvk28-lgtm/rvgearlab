@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Zj-W5I+ZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00VFH1RQS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00VFH1RQS?tag=rvgearlab-amz-20",
     "description": "The CORE 9 person instant cabin tent measures 14 by 9 feet with a 78 inch center height and fits two queen air beds. It uses pre-attached poles that lock in about 2 minutes, plus H20 Block Technology with 1200mm fabric, a fully taped rainfly and sealed seams.\n\nCompared with the Coleman Instant, it lists a clear fabric rating and comfortable 4-person capacity with gear. Against the WildFinder, it sets up faster.\n\nIt suits families who want a quick, roomy cabin. Storage pockets keep small items off the floor.",
     "specs": [
       "14 x 9 ft, 78 inch center",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31FPNquhvfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D6NQKDWJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D6NQKDWJ?tag=rvgearlab-amz-20",
     "description": "The Coleman instant tent comes in 4, 6, 8 and 10 person sizes with a 1-minute setup. It uses WeatherTec welded corners and inverted seams, an integrated rainfly and double-thick Polyguard 2X fabric.\n\nCompared with the CORE, it offers more size options and a stated fabric type. Against the Fanttik, it uses a known brand weather system.\n\nIt suits families who want proven weather protection with instant pitching. Pick the size that matches your group.",
     "specs": [
       "4 to 10 person sizes",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31sqUqEG2IL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7QHY574?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7QHY574?tag=rvgearlab-amz-20",
     "description": "The Coleman Sundome includes a rainfly and a strong frame that the listing says withstands 35+ mph winds. It has large windows, a ground vent and an E-Port for bringing electrical power inside.\n\nCompared with the Coleman Instant, it is a dome with poles and a lower cost. Against the BravArrk, it has a stated wind rating and an E-Port.\n\nIt suits families who camp where wind is a worry. It is a classic family tent.",
     "specs": [
       "Frame withstands 35+ mph winds",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41JC2RkC+bL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H5K4G8V2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H5K4G8V2?tag=rvgearlab-amz-20",
     "description": "The WildFinder 10 person tent measures 18 by 9 by 6.9 feet with an 82.7 inch center height. It has large mesh windows, a double-layer design and an included rainfly.\n\nCompared with the CORE, it is bigger and has more headroom at 82.7 inches. Against the BravArrk, it fits 10 instead of 6.\n\nIt suits big families and groups who want the most space. The mesh windows give airflow.",
     "specs": [
       "18 x 9 x 6.9 ft, 10 person",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41eLu13lAoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CR144NCS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CR144NCS?tag=rvgearlab-amz-20",
     "description": "The Fanttik Zeta C6 Pro sets up in under 60 seconds with pre-installed poles. It measures 120 by 108 inches, with a door zipper drainage channel, mesh windows on all four sides, floor vents and a mesh ceiling.\n\nCompared with the CORE, it is smaller and quicker. Against the BravArrk, it has pre-installed poles and a drainage channel.\n\nIt suits families who prioritize fast pitching and airflow. The listing says it fits 3 people most comfortably.",
     "specs": [
       "Setup in under 60 seconds",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51c34Dn6EjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H1N15P7J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H1N15P7J?tag=rvgearlab-amz-20",
     "description": "The BravArrk 6 person cabin tent has a 10 by 9 foot interior and a 78 inch center height. It has a large mesh door, mesh windows and a mesh roof, and two people can pitch it in about 5 minutes.\n\nCompared with the CORE, it is smaller and cheaper. Against the Coleman Sundome, it has a cabin shape with more headroom.\n\nIt suits families on a budget who want a cabin layout. One person can also pitch it.",
     "specs": [
       "10 x 9 ft, 78 inch center",

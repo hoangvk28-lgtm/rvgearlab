@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41yBMwbxvPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00WFFSFZ0?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00WFFSFZ0?tag=rvgearlab-amz-20",
     "description": "The Optimus Crux Lite weighs 2.5 oz (72 g) and delivers a 3000 W burner for 3-minute boils and precise simmering. It is compatible with EN417 butane, isobutane or propane cartridges.\n\nRemoving the folding mechanism trims 11 g from the original Crux, and it is the lightest canister stove in the Optimus lineup. It matches the MSR PocketRocket 2 on size while claiming a stronger burner.\n\nIt suits thru-hikers and alpine climbers who weigh every gram. Optimus has made stoves since 1899.",
     "specs": [
       "2.5 oz (72 g)",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/412+dzwvEQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01N5O7551?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01N5O7551?tag=rvgearlab-amz-20",
     "description": "The MSR PocketRocket 2 comes in at 2.6 oz and takes about 3.5 minutes to bring a liter to a boil, according to MSR. It burns isobutane-propane canisters and skips priming, which keeps trail routines simple.\n\nIt is widely sold in trail towns and has serrated pot supports for many pot shapes. Next to the Crux Lite it is slightly heavier and folds smaller.\n\nIt suits first-time thru-hikers who want a stove that is easy to replace on trail. A protective case is included.",
     "specs": [
       "2.6 oz, folds to 2x2x3 inches",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hybCmWPwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07NJYV3NP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07NJYV3NP?tag=rvgearlab-amz-20",
     "description": "The AOTU is a 3000 W canister stove with piezo ignition, a control valve and a windproof aluminum honeycomb net. It packs to 4 by 5 by 8 cm and fits 7/16 thread butane or butane-propane canisters.\n\nIt costs a fraction of the Crux Lite and is the only stove here that lists a plastic storage box. The honeycomb net doubles as a wind shield.\n\nIt suits budget hikers who want an igniter and a spare. The listing does not fit propane-only canisters.",
     "specs": [
       "3000 W, piezo ignition",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41oxFcZEApL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0829RKQXZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0829RKQXZ?tag=rvgearlab-amz-20",
     "description": "The Odoland 3500W is a foldable stove rated up to 3500 W, with a built-in wind guard, a piezo igniter and a flame controller. Its listing gives about 3 minutes for 1 L of water.\n\nTwo connectors cover different canister types, and a carrying case is included. Output is the highest rated figure in this group.\n\nIt suits hikers who cook in wind and want a built-in windshield. It is a good second stove for group trips.",
     "specs": [
       "3500 W, windshield design",

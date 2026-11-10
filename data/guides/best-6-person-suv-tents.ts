@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31fxHnkP6fL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FT2K2QBH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FT2K2QBH?tag=rvgearlab-amz-20",
     "description": "Built as an instant cabin for six, the Fanttik arrives with poles already attached and a quoted 60-second pitch with two people. It attaches to a tailgate and works with most CUVs and SUVs, and it can also stay up after the car leaves.\n\nNext to the two UNP tents it is the only one with pre-attached poles and a detachable canopy, plus dual ground vents that open or close. Strong stakes and adjustable guy lines keep it planted in rain, and the listing states connecting it to the car reduces cool air loss in summer.\n\nIt suits families who set up in a hurry at busy campgrounds and want an instant cabin. It also appeals to anyone who dislikes threading poles.",
     "specs": [
       "6-person instant cabin",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51rvV9-mC0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D8KNW343?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D8KNW343?tag=rvgearlab-amz-20",
     "description": "The UNP Tailgate tent has a 10 by 9 ft floor under a 78 inch peak, with room for two air mattresses or six sleeping bags. An adjustable vehicle sleeve attaches to the back of any size SUV, and four mesh windows plus a mesh top handle airflow.\n\nIt sits between the Fanttik and the UNP Dome on price, and it lists the tailgate sleeve, a removable rainfly and a one-year assurance with a 12 hour response. The listing names CUVs, SUVs and the Model Y as fits.\n\nIt suits families who want a classic tent with a sleeve and plenty of mesh. The rainfly comes off for stargazing.",
     "specs": [
       "10 x 9 ft, 78 in center height",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410+UJ3nFuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DFYCMFWG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DFYCMFWG?tag=rvgearlab-amz-20",
     "description": "The UNP Dome is a 10 by 10 ft tent with an 84 inch center height that comfortably sleeps 4 to 6 adults, with room for two air mattresses or six sleeping bags. Adjustable vehicle straps and a heavy-duty elastic sleeve hug the car, and the rainfly has taped seams.\n\nIt costs the least here and has the tallest standing height, 6 inches above the UNP Tailgate. Against the Fanttik it trades instant pitching for a larger 10 by 10 ft square floor.\n\nIt suits budget buyers with CUVs, SUVs and minivans who still want room to stand. The elastic sleeve is meant to fit a range of hatch sizes.",
     "specs": [
       "10 x 10 ft, 84 in center height",

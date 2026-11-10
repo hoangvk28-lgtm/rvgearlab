@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41VmjAIuWrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FNPVH7DB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FNPVH7DB?tag=rvgearlab-amz-20",
     "description": "The TGpao is a one-person bivy-style tent weighing 2.2 lb with 7001 aluminum poles, a freestanding seven-section frame and a compact carry bag. The outer tent lists a 2000 to 3000mm waterproof rating over a PU2000 base, and a zippered mosquito net is included.\n\nAt 2.2 lb it is the lightest listed tent here, 0.56 lb under the Naturehike Star Trail 2-person. Compared with the Clostnature 1P it saves about 1.8 lb of listed weight in exchange for a lower stated rain rating.\n\nIt suits solo hikers and bikepackers who count ounces. The 80 by 230 cm interior suits people under 6 ft 4 in.",
     "specs": [
       "2.2 lb, 7001 aluminum poles",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31bPCXq3cOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G2LBTWWV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G2LBTWWV?tag=rvgearlab-amz-20",
     "description": "The Naturehike Star Trail comes as a 2.3 lb one-person or a 2.76 lb two-person tent that stuffs down to under 18 inches long. Its 10D nylon outer carries PU1500mm+ and the 20D inner floor and footprint carry PU3000mm, and the two-person interior is 82.7 by 51.2 by 39.3 inches.\n\nIt is the lightest two-person tent here by more than a pound over the Cloud-Up 2. Compared with the Cloud-Up it gives up some of the waterproof margin for that saving.\n\nIt suits couples who want a full 3 season mesh inner at 2.76 lb. The listing says it pitches in about 3 minutes.",
     "specs": [
       "2.76 lb two-person, 2.3 lb solo",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31KI2nvfQfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D31F6PBB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D31F6PBB?tag=rvgearlab-amz-20",
     "description": "At 3.97 lb the Naturehike Cloud-Up 2 stuffs down to a roughly 16 inch roll. Silicone-coated 20D nylon gives a PU4000mm rating, the corners and seams are taped, and a footprint ships with it.\n\nIt carries the strongest rain rating of the five and a ventilation window above the door. Compared with the Star Trail it is heavier by about 1.2 lb and much sturdier in fabric.\n\nIt suits hikers who accept a lighter-than-typical two-person tent and still want weather margin. The double-layer design and B3 mesh help airflow.",
     "specs": [
       "3.97 lb listed weight",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51ehXDJpryL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0893QB42Z?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0893QB42Z?tag=rvgearlab-amz-20",
     "description": "The Clostnature 1P weighs 4 lb total or 2.97 lb at minimum trail weight with fly and inner tent. It has a PU 5000 coating, freestanding two-pole aluminum structure, mesh walls, a pole repair kit and 14 aluminum stakes in the box.\n\nIt gives a freestanding solo tent at a lower price than the TGpao and a higher listed PU rating than the Naturehike. Compared with the Clostnature 2P it saves roughly 1.5 lb of minimum trail weight.\n\nIt suits solo hikers who want a high PU number on a budget. Adjustable guy lines help hold it in wind.",
     "specs": [
       "4 lb total, 2.97 lb minimum",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41XP3ccIaiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07D4J3J2R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07D4J3J2R?tag=rvgearlab-amz-20",
     "description": "The Clostnature 2P weighs 5.29 lb total or 4.52 lb at minimum trail weight, and gives a floor 4 ft 11 in wide under a 3 ft 10 in roof. Its fly and floor share a PU 5000 coating, and each side gets a D-shaped door plus a vestibule, all on two aluminum poles.\n\nIt is the heaviest and roomiest pick here, with the most generous floor at 4 ft 11 in wide. Compared with the Cloud-Up 2 it weighs about 0.5 lb more at trail weight and costs far less.\n\nIt suits couples who want two doors and space on a budget. Full mesh walls give strong ventilation.",
     "specs": [
       "4.52 lb minimum, 5.29 lb total",

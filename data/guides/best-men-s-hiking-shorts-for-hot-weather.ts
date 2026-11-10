@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41uSMvGfMkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B083NCQ6JC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B083NCQ6JC?tag=rvgearlab-amz-20",
     "description": "The FREE SOLDIER Cargo Shorts use four-way stretch nylon and spandex with quick-drying technology and a water-resistant finish. The listing also notes UV protection and an adjustable waistband with a belt included.\n\nAgainst the XKTTAC Cargo Shorts, it adds a belt in the box and a stretch fabric specified as nylon and spandex. Compared with the Pudolla Cargo Shorts, it focuses on lighter movement rather than a long inseam.\n\nIt suits hikers who want a well-rounded hot weather short. The four-way stretch helps with high steps and scrambling.",
     "specs": [
       "Four-way stretch nylon spandex",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/314ZrZ1mvXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07VVJV7TF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07VVJV7TF?tag=rvgearlab-amz-20",
     "description": "The XKTTAC Cargo Shorts have six pockets, including four big deep side zipper pockets and two front pockets. The listing adds reflective strips, UPF 50+ protection and some water resistance.\n\nCompared with the FREE SOLDIER Cargo Shorts, it stresses zippered storage and a stated UPF rating. Against the AUTIWITUA Tactical Shorts, it uses a lighter, stretchy material.\n\nIt suits hikers who carry a phone, keys and a wallet and want them zipped away. The elastic and adjustable waistband keeps them in place.",
     "specs": [
       "Four deep zip side pockets",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/413P0OhwZ0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DQP4F8P3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DQP4F8P3?tag=rvgearlab-amz-20",
     "description": "The Pudolla Cargo Shorts have an 11 inch inseam with five deep pockets, a stretch breathable fabric and a water-repellent finish. UPF 50+ fabric and an expandable waistband with a button and zip fly are listed.\n\nAgainst the TBMPOY Running Shorts, it covers more of the thigh, which helps with sun and brush. Compared with the CRYSULLY Cargo Shorts, it adds a UPF 50+ rating.\n\nIt suits hikers who prefer longer shorts for coverage. The listing mentions camping, travel and golf uses as well.",
     "specs": [
       "11 inch inseam",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hhSyA1HWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F66SK3VG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F66SK3VG?tag=rvgearlab-amz-20",
     "description": "The AUTIWITUA Tactical Shorts use a 65% cotton, 33% polyester and 2% elastane blend with a surface water-repellent treatment. Six pockets include two slash pockets, two flat pockets and two back pockets, with an elastic back waistband.\n\nAgainst the CRYSULLY Cargo Shorts, it uses a sturdier cotton-heavy blend with deep zipper pockets. Compared with the XKTTAC Cargo Shorts, it is built more like a work short than a light trail short.\n\nIt suits hikers who also use shorts for chores, camping and fishing. The listing says no belt is included.",
     "specs": [
       "65% cotton, 33% polyester",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31eQkY1xeKS._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08ZXBS5GJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08ZXBS5GJ?tag=rvgearlab-amz-20",
     "description": "The CRYSULLY Cargo Shorts use a 90% nylon and 10% spandex fabric that the listing says evaporates moisture quickly. Five pockets include two slant pockets, two zip pockets and a back pocket, with an elastic side waist.\n\nCompared with the AUTIWITUA Tactical Shorts, it is lighter and dries faster thanks to the nylon blend. Against the Pudolla Cargo Shorts, it skips the UPF rating and sits at a lower price.\n\nIt suits hikers who want a simple, breathable short for warm days. It also works for golf, travel and fishing.",
     "specs": [
       "90% nylon, 10% spandex",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41FrJgDyb9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B071VSB42N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B071VSB42N?tag=rvgearlab-amz-20",
     "description": "The TBMPOY Running Shorts have a 7 inch inseam, quick-dry 4-way stretch fabric and three zip pockets (two sides and one back). Flatlock seams reduce chafe and an elastic waistband has an inner drawstring.\n\nAgainst the CRYSULLY Cargo Shorts, it is shorter, lighter and clearly built for movement. Compared with the Pudolla Cargo Shorts, it gives up pockets and coverage for a runner's cut.\n\nIt suits hikers who want a light short for hot days or trail running. The listing says it works for hiking, walking and biking.",
     "specs": [
       "7 inch inseam, 4-way stretch",

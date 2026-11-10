@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41TuXFs4PRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08CHP9BJT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08CHP9BJT?tag=rvgearlab-amz-20",
     "description": "The Backyard Flock MaxFlow is a fixed regulator that the listing says delivers up to 18 gallons per minute while still giving safe pressure at any inlet up to 125 psi. It is described as made in the USA of industrial grade components and needs no adjustment.\n\nThat is the only pick here with a stated gpm, which sets it apart from the Valterra and Wadoy units that only say Hi-Flow. It also costs the most by a wide margin, so you are paying for the claim.\n\nBest for motorhome-sized demand, long hoses and multi-fixture use. The listing gives no psi output number on the listing, so confirm the delivered pressure before buying.",
     "specs": [
       "Up to 18 gpm claimed",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41fjXdnQGmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B003YJJHI0?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B003YJJHI0?tag=rvgearlab-amz-20",
     "description": "The Valterra Hi-Flow regulates to 50 to 55 psi in a lead-free brass body, and it does not reduce pressure when inlet pressure is already below 50 psi. A screened washer removes debris and the listing says to clean it as needed.\n\nCompared with the Valterra Stainless below it, the brass body is cheaper and well documented, and its 50 to 55 psi band is clearly stated. Next to Backyard Flock it makes no gpm claim, so the flow benefit is implied.\n\nGood for most trailers that want a firmer stream without paying for an extreme flow claim. Do not expect it to boost a weak spigot, since it only reduces.",
     "specs": [
       "50 to 55 psi output",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hgzOaq5NL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08KT97PY8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08KT97PY8?tag=rvgearlab-amz-20",
     "description": "The Wadoy Hi-Flow outputs 50 to 55 psi and uses lead-free brass with a double layer stainless mesh screen. The listing says it is built to avoid the flow restriction most regulators cause, and it fits 3/4 inch garden hose and NH threads.\n\nIt matches the Valterra Brass on output band and adds the double screen for less money. The double layer is better at stopping sediment but can clog faster in sandy campgrounds.\n\nBest for value shoppers who want a firm stream. No certification standard is named in the listing, so check the package for one if you drink from the hose.",
     "specs": [
       "50 to 55 psi output",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41aR-cVN-bL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B003YJCE9E?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B003YJCE9E?tag=rvgearlab-amz-20",
     "description": "The Valterra A01-1114VP is a stainless steel high flow regulator; the listing provides package dimensions of 9.5 by 2 by 3.75 inches and a weight of 0.75 pounds, plus part number A011114VP. It lists China as country of origin.\n\nAgainst the Valterra Brass above it, the body is stainless but the listing offers no psi band or certification, which are the two specs buyers most need. Cost is higher than the brass version.\n\nBest for stainless fans who already know this part's behavior. Because the listing gives no output psi, ask yourself whether the missing data is worth the upgrade.",
     "specs": [
       "Stainless steel body",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51+Sm6pUzaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B091YJTCGT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B091YJTCGT?tag=rvgearlab-amz-20",
     "description": "The Hourleey Hi-Flow comes as two brass regulators, rated to keep pressure at 40 to 50 psi, with a stainless filter screen and CSA low lead certification. The listing says the lead-free construction is safe for drinking water.\n\nNext to the Wadoy Hi-Flow, it outputs a lower band, so it is gentler on plumbing but less forceful at the shower. The second regulator is the real value, since a spare can live in the truck or on a second hose.\n\nBest for owners with two hookups or who want a backup. Expect a softer stream than the 50 to 55 psi picks.",
     "specs": [
       "Two regulators included",

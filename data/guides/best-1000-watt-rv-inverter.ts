@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41tS2VwPrZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GRH4DJFM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GRH4DJFM?tag=rvgearlab-amz-20",
     "description": "The HQST 1000W lists 1000W continuous and 2000W peak, with a separate 5-second boost mode for starting demanding appliances. It has three AC outlets including a 15A socket, a 5V/3.4A USB port, built-in GFCI protection, and a stated total harmonic distortion of 3.3 percent, compared with the 20 to 40 percent the listing gives for typical modified sine units.\n\nIt ranks first because it states the boundary in plain terms: the 1000W is continuous, the boost is called a boost and limited to 5 seconds, and it is $10.40 cheaper than the AeternaSol 1000W. GFCI is rare in this class and matters for wet campsites. It lacks the AeternaSol's dual displays and USB-C port, and it costs $23.64 more than the FT feiteeng.\n\nPick it if you want a GFCI outlet and a clean waveform at a low price. The caveat is that the listing shows no remote, warranty length or no-load draw, so check the full listing for how the unit is controlled.",
     "specs": [
       "1000W continuous, 2000W peak",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hB6CpFRLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GBK8GW4G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GBK8GW4G?tag=rvgearlab-amz-20",
     "description": "The AeternaSol 1000W is a pure sine inverter with 2000W peak, two AC outlets, a USB-A port up to 18W and a USB-C PD port up to 30W. It has dual LCD displays showing battery voltage, output power and protection alerts, a 16.4ft wired remote, and battery cables in the package. Protections include over and under voltage, overload, overheating, short circuit and reverse polarity.\n\nIt ranks second because it is the easiest to monitor: the displays and the longer remote let you read load without opening the cabinet. It costs $10.40 more than the HQST 1000W and $20 less than the BELTTT 1000W, with a similar output. It gives up the HQST's GFCI and a third outlet.\n\nChoose it if you want to watch voltage and load from your seat and charge a phone with USB-C. The caveat is two outlets only and no stated warranty or efficiency figure.",
     "specs": [
       "1000W, 2000W peak",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41vWnqM2vNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DCJHY3TH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DCJHY3TH?tag=rvgearlab-amz-20",
     "description": "The BELTTT 1000W delivers 1000W continuous and up to 2000W peak with pure sine output. It has a high-brightness LCD showing input and output voltage, battery and load status, dual AC sockets, a 5V/2.1A USB port, and 3-foot thicker cables with an installation tool in the box. Its protections cover under and over voltage, overload, over temperature, short circuit and reverse connection, in an aluminum housing.\n\nIt ranks third because it asks $20 more than the AeternaSol 1000W and $30.40 more than the HQST 1000W, and it has no USB-C and no listed remote. What you get for the premium is the cable and install tool, and the 3-foot cables help if the battery sits close.\n\nPick it if you want everything to install it included and a clear LCD. The caveat is the USB port at only 2.1A and the missing remote.",
     "specs": [
       "1000W, 2000W peak",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41akEgZqJKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GKQYJ6QM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GKQYJ6QM?tag=rvgearlab-amz-20",
     "description": "The FT feiteeng 1000W is a pure sine inverter with 1000W continuous, 2000W surge and a stated conversion efficiency of up to 95 percent. The LED display shows input voltage, output voltage and protection status, and the listing describes a fault-code system with codes starting at EE1 and six protections including over-voltage, under-voltage, overload, short circuit, over-temperature and reverse polarity.\n\nIt ranks fourth because it undercuts every other pure sine pick: $65.95 is $23.64 less than the HQST 1000W and $54.04 less than the BELTTT 1000W. A 95 percent efficiency figure would mean about 88A from the battery at full load, compared with about 92A at the 91 percent some units state, though 'up to' is a best-case number. It lists no GFCI, no remote and no USB-C.\n\nChoose it if price decides and you can live without a remote. The caveat is the up to wording on efficiency and little detail on outlets, so check the layout.",
     "specs": [
       "1000W, 2000W surge",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/510x3k0BBqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00IQHT1M2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00IQHT1M2?tag=rvgearlab-amz-20",
     "description": "The AIMS 1000W is the only pick here that combines a pure sine inverter, a 35A multi-stage charger and an automatic transfer switch in one unit. It delivers 3000W surge for up to 20 seconds, supports gel, AGM, lead-acid and LiFePO4 batteries with seven selectable charge settings, includes a lithium wake-up feature, and has a battery priority mode for renewable setups.\n\nIt ranks fifth only because it costs $682 against $55.98 to $119.99 for the others, which is $592.41 more than the HQST 1000W. A 3000W surge for 20 seconds is a stated figure rather than a boost mode of a few seconds, and that is the best motor-starting support in this guide. If you do not need the charger and switch, the extra money buys nothing you will use.\n\nPick it for a permanent install where one box must charge, invert and switch. The caveat is price and installation complexity, plus a listing that gives no remote or efficiency detail.",
     "specs": [
       "1000W pure sine, 35A charger",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51dP3v+IQOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0927P7P66?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0927P7P66?tag=rvgearlab-amz-20",
     "description": "The YSOLX 1000W is a modified sine wave inverter with three AC outlets, two USB-A ports, a 30W USB-C PD port and dual 12V cigarette lighter sockets. The LED display shows battery voltage and error codes E1 to E6, and the cooling fan starts at 42 degrees C and shuts off at 38 degrees C. The listing warns not to power devices above 150W through the cigarette lighter adapter.\n\nIt ranks last because of the waveform: $55.98 is $9.97 less than the FT feiteeng and $33.61 less than the HQST, but modified sine output is a poor match for CPAP machines and motors. Its extra outlets and ports are the most generous here, which makes it a charging hub for resistive loads.\n\nChoose it for work lights, chargers and simple tools on a tight budget. The caveat is the waveform and the 150W lighter socket limit.",
     "specs": [
       "1000W modified sine",

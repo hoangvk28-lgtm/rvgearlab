@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51vL8HVZcIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DPNJ7J5L?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DPNJ7J5L?tag=rvgearlab-amz-20",
     "description": "The BEEST RV Roof Repair Kit bundles a 5 gallon roof coating, a 1 gallon EPDM primer, a 32 oz roof cleaner and non-sag lap sealant. The coating is a commercial quality water-based elastomeric that reduces roof temperature, and the primer targets adhesion to EPDM and TPO.\n\nIt is the most complete system here because it includes cleaning, priming and sealing parts. The Liquid Rubber 30 ft kit is the closest rival, but this one adds a named primer.\n\nIt suits owners who want everything for a full repair in one purchase and have EPDM or TPO surfaces. In rv slide out roof coating, complete repair job is its lane.",
     "specs": [
       "5 gal coating, 1 gal primer",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ipdKAjnrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CSHW2ZH4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CSHW2ZH4?tag=rvgearlab-amz-20",
     "description": "The Liquid Rubber 30 ft leak repair kit follows a 3-step system that the listing describes as a weekend project. The coating creates a flexible waterproof membrane for EPDM, TPO, fiberglass and aluminum roofs, skylights and vent covers.\n\nIt has the highest price in this list, which reflects its large kit size. It lists the same material support as the 5 gallon pail but in a packaged system.\n\nIt fits owners tackling a large repair on several surfaces who want a single branded system. For rv slide out roof coating, it suits large multi-surface repairs.",
     "specs": [
       "30 ft leak repair kit",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41TkOeySV-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01EV4EXG2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01EV4EXG2?tag=rvgearlab-amz-20",
     "description": "The Liquid Rubber 5 gallon coating is a white elastomeric with reflective heat-reduction properties aimed at EPDM, TPO, fiberglass and aluminum roofs. It uses the same weekend 3-step system as its kit.\n\nIt costs less than the kit while keeping the same branded coating. It leaves out the extra primer and cleaner parts.\n\nIt fits owners who already have the prep products and just need the coating. Among rv slide out roof coating, think coating-only buyers.",
     "specs": [
       "5 gallon white coating",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41i6f9mj3nL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H2CRRPW6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H2CRRPW6?tag=rvgearlab-amz-20",
     "description": "The E-SDS camper roof sealant is a 1 gallon MS polymer formula with a 10 plus year service life claim. It bonds to rubber, metal and concrete, resists corrosion, and is non-toxic and odorless.\n\nIt covers 40 square feet per gallon and calls for 2 to 3 coats for a 0.8 to 1 mm build. Next to the polyurethane Xmntdo, it is the one that names corrosion resistance and zero odor.\n\nIt suits owners with a metal or mixed slide topper. It is also good when working in a closed space.",
     "specs": [
       "MS polymer, 1 gallon",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Fy0lyfzJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G1YDYC3X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G1YDYC3X?tag=rvgearlab-amz-20",
     "description": "The Xmntdo 1 gallon coating is a white polyurethane waterproof coating that lists heat reflective performance and compatibility with a range of roofs including EPDM. It applies by brush or roller as a weekend DIY job.\n\nIt has the lowest price here. It lacks the kit contents of BEEST Repair Kit.\n\nIt is a fit for a small slide roof patch on a tight budget. In rv slide out roof coating, small patch is its lane.",
     "specs": [
       "White polyurethane coating",

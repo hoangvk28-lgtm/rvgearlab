@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/412rMoe7qxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07KQ4Q2L5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07KQ4Q2L5?tag=rvgearlab-amz-20",
     "description": "The BESTEK delivers 300W continuous and 700W peak as pure sine wave, with 2 AC outlets and 2 USB ports at up to 2.4A each. It accepts 11 to 17V, so it suits newer vehicles, and it has a 40A fuse and an 18 month warranty.\n\nAt about $39 it costs a little more than the Goodway and less than the 1000W model. It is the only pick here that combines pure sine with a warranty, which the modified sine units cannot offer.\n\nIt suits campers who plug in a laptop, camera batteries and a small fan. It is small enough to sit in a glove box.",
     "specs": [
       "300W pure sine, 700W peak",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ctUZeiwqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CQY798SV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CQY798SV?tag=rvgearlab-amz-20",
     "description": "The Dual-AC 1000W delivers 1000W continuous and 2000W peak across dual AC sockets, 36W Type-C and a 5V/3A USB-A port. An LCD shows input and output voltage, battery state and protection codes.\n\nAt about $73 it gives three times the watts of the BESTEK 300W and has the fastest USB-C here. It does not name its waveform, so it is a safer pick for tools and lights than for delicate electronics.\n\nIt suits a van or truck camper that runs a small appliance from the battery. Use thick cables and keep the engine on.",
     "specs": [
       "1000W continuous, 2000W peak",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41rMujvRW4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H7VZLVBQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H7VZLVBQ?tag=rvgearlab-amz-20",
     "description": "The Etnal runs from a DeWalt 18V or 20V pack and provides 250W continuous and 500W peak. It weighs 0.75 lb, measures 4.49 by 2.83 by 3.74 inches and includes a 400 lumen work light with three brightness levels.\n\nAt about $27 it is the only pick that works with the engine off, so it removes the dead-battery worry the plug-in units carry. The Goodway beats it on continuous watts, while this one wins on portability.\n\nIt suits anyone with spare DeWalt packs who wants quiet AC power at a campsite. Add a second pack for longer evenings.",
     "specs": [
       "250W continuous, 500W peak",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41JQSZsN9BL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G884FFXZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G884FFXZ?tag=rvgearlab-amz-20",
     "description": "Goodway rates 400W continuous and 800W surge from an anodized aluminium case with metal end plates for cooling. It has one AC socket, a 2.4A USB-A port and an 18W USB-C port, with a 10 to 15.5V input range.\n\nAt about $23 it costs less than the Etnal and offers more continuous watts from a single AC outlet. It is the simple budget option when the Dual-AC 1000W is more than you need.\n\nIt suits a car that needs one reliable AC plug for a laptop. The metal case handles longer loads.",
     "specs": [
       "400W continuous, 800W surge",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41uhBR9EnzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CFQMXVMV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CFQMXVMV?tag=rvgearlab-amz-20",
     "description": "Ampeak's 150W unit offers 300W peak, one AC outlet and two 2.4A USB ports in a 2.8 by 1.5 by 5.4 inch body. It lists 11 protection layers, 88 percent conversion efficiency and a quiet cooling fan.\n\nAt about $20 it costs less than the Goodway and stays within what a lighter socket can supply, so it avoids the clip-on cables. It gives up the extra watts of the pricier picks.\n\nIt suits a commuter or camper who only charges phones and a laptop. It also fits a cup holder.",
     "specs": [
       "150W, 300W peak",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41OCW3vyKkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B072LM88F9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B072LM88F9?tag=rvgearlab-amz-20",
     "description": "Ampeak's 100W unit has one AC outlet and two 2.4A USB ports with a 200W peak. It features 11 layers of protection, a pivoting head for awkward sockets and faster USB charging than older 2.1A ports.\n\nAt about $18 it is the lowest-priced pick and gives up 50W against the Ampeak 150W. It is a charger-class unit, not a power source.\n\nIt suits a spare in the glove box for laptop and phone charging. Do not plan on running anything bigger.",
     "specs": [
       "100W, 200W peak",

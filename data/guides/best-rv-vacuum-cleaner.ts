@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/417bhVg8ffL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DJ11NG2T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DJ11NG2T?tag=rvgearlab-amz-20",
     "description": "The Tikom V500 is a cordless stick vacuum with 450W and 40 kPa suction, a color touch screen, a wall dock and a 6 by 2,000 mAh battery. It converts between stick, hand and stair vacuum and has an anti-tangle brush.\n\nAgainst the Eureka Blaze, it offers cordless freedom and a detachable battery. Against the plug-in vacs, it needs no cord or outlet.\n\nBest for RVs with a spot to mount a charging dock. A strong choice for full-floor cleaning without a cord.",
     "specs": [
       "450W, 40 kPa cordless stick",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41SEudcyZ-S._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B094YP1HBL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B094YP1HBL?tag=rvgearlab-amz-20",
     "description": "The RecPro Central Vacuum Cleaning Kit is an 8-piece deluxe set made for RVs, campers and boats. It fits any 1-3/8 inch central inlet valve.\n\nAgainst the cordless picks, it uses the RV's own central vacuum for suction. Against the shop vacs, it adds hose and tools rather than a motor.\n\nBest for RVs that already have a central vacuum inlet. A tidy way to add reach and tools.",
     "specs": [
       "8-piece central vac kit",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41CDnMOhoBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07TBJCHKJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07TBJCHKJ?tag=rvgearlab-amz-20",
     "description": "The WORKSHOP WS0255VA is a 2.5 gallon wet/dry vacuum with 1.75 peak horsepower, a 10 foot cord, a 4 foot hose and on-board storage for attachments. It has a flat-bottom design that resists tipping, a carry handle and a blowing port.\n\nAgainst the car vacs, it handles wet spills and has a larger tank. Against the Tikom, it needs an outlet but is built for debris.\n\nBest for wet spills, garage-style messes and storage-bay cleanup. A sturdy pick for shore-power sites.",
     "specs": [
       "2.5 gallon wet/dry, 1.75 peak HP",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41wnBhTf5sL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GS8BWS7M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GS8BWS7M?tag=rvgearlab-amz-20",
     "description": "The Shop-Vac 12V is a handheld car vacuum with 7 kPa suction, a 16 foot cord and a washable reusable filter. It includes a crevice tool, brush tool and extension hose.\n\nAgainst the ThisWorx, it has a similar 16 foot cord. Against the WORKSHOP, it runs from a 12V outlet, so it works off-grid.\n\nBest for off-grid RVs with a 12V socket. A compact helper for upholstery and corners.",
     "specs": [
       "12V handheld, 7 kPa suction",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31B7MyTnFHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B075P7J8BB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B075P7J8BB?tag=rvgearlab-amz-20",
     "description": "The Eureka Blaze is a 3-in-1 corded stick vacuum that weighs 4 pounds and has a 2 amp motor, a swivel steering head and a capture nozzle. It has an onboard crevice tool and a washable filter.\n\nAgainst the Tikom, it is much lighter on the wallet and plugs into an outlet. Against the handhelds, it cleans a whole floor.\n\nBest for hard floors and low-pile carpet in a shore-powered RV. A light, low-cost stick.",
     "specs": [
       "3-in-1 stick vac, 4 pounds",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51O8Y9a7AsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B06ZY896ZM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B06ZY896ZM?tag=rvgearlab-amz-20",
     "description": "The ThisWorx handheld vacuum weighs 2.4 lbs, has a 106W motor, a 16 foot cord and a large dust bin. It includes three attachments, a carry bag, a filter brush and a spare HEPA filter.\n\nAgainst the Shop-Vac 12V, it adds a spare filter and a carry bag. Against the Tikom, it is a quick-touch tool.\n\nBest for small RV spaces and car interiors. A convenient pick for quick crumb cleanup.",
     "specs": [
       "2.4 lbs, 106W handheld",

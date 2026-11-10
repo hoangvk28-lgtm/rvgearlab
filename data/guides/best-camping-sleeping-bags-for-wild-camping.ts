@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41V-vABD6oL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FNCTXGQH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FNCTXGQH?tag=rvgearlab-amz-20",
     "description": "The QOOMO is a 31 by 90 inch bag with a design range of 32 to 77 degrees F, 210T waterproof shell, 190T pongee lining and microfiber fill. It weighs 3 lb and its package is a cylinder of 11.8 by 13.11 inches, with a hood drawstring and a foot zipper.\n\nIt prints weight, pack size and the colder low end of the range, which beats the MalloMe's 50F floor. It costs about the same as the KANYAK and is lighter.\n\nIt suits wild campers on mild, dry-ish trips who want a clearly stated weight. Its 32F low end is for cool, not cold, nights.",
     "specs": [
       "31 x 90 inch, 3 lb",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41IKetQOHGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09MMXW7VK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09MMXW7VK?tag=rvgearlab-amz-20",
     "description": "Weighing 4 lb, the KANYAK compresses to 11 to 14.2 inches. Its listing gives 41 degrees F comfort and a 32 degree F limit, plus a 210T anti-tearing shell and three zippers with a foot vent.\n\nIt prints the clearest comfort and limit pair of the group. It is a pound heavier than the QOOMO and more compressible.\n\nIt suits wild campers who may see cold mornings and want honest figures. Plan on the 41F comfort number.",
     "specs": [
       "Comfort 41F, limit 32F",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/416O8NMsIAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B077XQ285X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B077XQ285X?tag=rvgearlab-amz-20",
     "description": "The MalloMe is rated 50 to 77 degrees F and weighs about 3 lb. A waterproof shell wipes clean, the fabric can be machine washed and the double-sided zippers are snag-free.\n\nIt matches the QOOMO's 3 lb weight with a warmer range, and it costs less. The headrest drawstring pulls the bag closer to your head.\n\nIt suits wild campers on warm nights who want a shell that wipes off mud. It is a summer bag.",
     "specs": [
       "50 to 77F rated",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41MoDkRsAhL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DK8XQF7N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DK8XQF7N?tag=rvgearlab-amz-20",
     "description": "The GJD set contains three Mylar emergency bags, each weighing 120 g and measuring 90 by 213 cm, with a storage pouch. The listing describes tear-resistant, reusable Mylar that retains body heat.\n\nIt does not replace a sleeping bag, yet at 120 g each it adds an emergency layer for almost no weight. It costs less than any other pick.\n\nIt suits wild campers who want a backup in case of a sudden cold night. It is for emergencies, not routine sleeping.",
     "specs": [
       "Three Mylar bags, 120 g each",

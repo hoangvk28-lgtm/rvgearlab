@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4198d8rC5uL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DCJPTVMW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DCJPTVMW?tag=rvgearlab-amz-20",
     "description": "The BELTTT is a 2000W pure sine wave inverter with 4000W of peak surge, two AC sockets, a 20A outlet and a hardwire port. It adds a 5V 2.1A USB port, a bright LCD and a remote with 23 ft of cable.\n\nAgainst the Pro Chaser 400W it offers five times the continuous output and a clean sine wave for inductive loads. Compared with the Azocek and the socket adapters, it is the only pick here meant for a direct battery connection rather than a plug-in.\n\nIt suits campers running a battery bank for a fridge, lights and a small appliance. The remote lets the unit sit near the battery while the switch stays inside the camper.",
     "specs": [
       "2000W continuous, 4000W surge",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41MNF0L0feL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CPDGXT5H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CPDGXT5H?tag=rvgearlab-amz-20",
     "description": "The Pro Chaser gives 400W continuous and 800W peak through two 110V sockets plus 3.1A USB ports. It is phone-sized with a 30 inch cord and a fan that starts at 113 degrees F.\n\nIt sits between the BELTTT and the 300W adapters. It has more headroom than the BESTEK and YSOLX and keeps the same plug-in convenience, while the BELTTT needs a battery connection.\n\nIt fits car campers who charge laptops, camera batteries and similar devices from the vehicle. Keeping it on one device at a time suits the vehicle socket limits.",
     "specs": [
       "400W continuous, 800W peak",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hEeE+OZhL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B004MDXS0U?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B004MDXS0U?tag=rvgearlab-amz-20",
     "description": "The BESTEK provides 300W continuous with two 110V sockets and two 4.8A USB ports. Its listing names an 11 to 17V input range, a 40 amp fuse, an aluminum housing and a 32 inch plug cord.\n\nCompared with the Pro Chaser it has less peak capacity and a lower price. Against the YSOLX it adds a named fuse rating and a rugged aluminum shell.\n\nIt suits campers who want a dependable laptop and tablet charger with a longer cord. The wide voltage range also covers vehicles with higher charging voltages.",
     "specs": [
       "300W continuous, 40A fuse",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/413IFzgNpIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D8YFR7LB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D8YFR7LB?tag=rvgearlab-amz-20",
     "description": "The YSOLX offers 300W through a double 110V outlet and four USB-C and USB-A ports at 24W each. It measures 5.4 by 2.75 by 1.4 inches and weighs 9.17 oz.\n\nNext to the BESTEK it gives up the metal case and the fuse rating, yet it provides more USB ports. Against the PiSFAU it adds 100 more watts for a similar footprint.\n\nIt works for backseat charging when several phones and a laptop are plugged in at once. The listing names a 12V-only, car-only design.",
     "specs": [
       "300W, four 24W USB ports",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41TnIJVNvzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CFB6T2QN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CFB6T2QN?tag=rvgearlab-amz-20",
     "description": "The PiSFAU is a 200W car inverter with two US AC outlets and four USB ports in an ABS shell. It measures 2.7 by 1.4 by 5 inches and weighs about 8.5 oz.\n\nIt has the lowest output here, 100W under the 300W pair, and it is also the cheapest. That makes it the pick when only a phone, a tablet and a small laptop need power.\n\nIt suits first-time buyers who want a basic cigarette-socket adapter for road trips. A fully insulated case adds a layer of electrical safety.",
     "specs": [
       "200W, two AC outlets",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41mPwJoNtWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DHGX4Y9F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DHGX4Y9F?tag=rvgearlab-amz-20",
     "description": "The Azocek runs from Milwaukee 18V batteries and delivers 220W through one AC outlet, two 18W USB QC ports and a 30W PD Type-C port. It adds a 400 lumen LED work light with a strobe mode.\n\nIt is the one pick that needs no vehicle at all, which separates it from the plug-in units. Compared with the PiSFAU it offers similar output with the battery you already own.\n\nIt suits campers who already carry Milwaukee 18V tool batteries. The light doubles as emergency lighting at the picnic table.",
     "specs": [
       "220W from Milwaukee 18V",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31NyUAylypL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GXTVVHS3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GXTVVHS3?tag=rvgearlab-amz-20",
     "description": "The BLUETTI 500W lists 25 percent efficiency, a weight of 28.4 lbs and a folded size of 22.4 by 17.5 by 3.3 inches. It carries an IP67 rating, impact-resistant materials and a 1.5 m MC4 to XT60 cable.\n\nAgainst the LVYUAN, it has a better weather rating and higher efficiency. It is also the pick built to pair with BLUETTI stations.\n\nIt suits BLUETTI power station owners who want a panel made for their system. The manual and cable are included in the box.",
     "specs": [
       "500W, 25%, IP67",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41fB7Q6bcHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GXYT9C87?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GXYT9C87?tag=rvgearlab-amz-20",
     "description": "The LVYUAN 500W lists a 48V operating voltage, 10.42A operating current, a 56.64V open-circuit voltage and 11.46A short-circuit current. It folds to about 18.9 by 22.2 by 3.1 inches and ships with an MC4 output cable plus XT60, DC5521, DC5525 and DC7909 adapters.\n\nIt is priced below the BLUETTI and offers the most electrical detail on the list. Compared with the MHPOWOS, it gives a full 500W and a wider adapter set.\n\nIt suits campers who want exact electrical numbers to match against a station's input window. It carries about 23 percent efficiency in a blanket layout.",
     "specs": [
       "500W, 48V Vmp, 56.64V Voc",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hEuTc0zdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DHRYW4TM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DHRYW4TM?tag=rvgearlab-amz-20",
     "description": "The MHPOWOS is a 400W foldable with A+ monocrystalline cells at 23.5 percent efficiency, IP67 protection and a multifold design with a zippered accessory pouch. Four incorporated kickstands hold it at an angle.\n\nIt gives up 100 watts against the two 500W picks and costs the least. Against the LVYUAN, it has a higher weather rating, and against the BLUETTI it adds built-in stands.\n\nIt suits campers who find 500W overkill and want a 400W panel with built-in stands. The cable set includes Anderson, XT60, DC7909 and DC5521 connectors.",
     "specs": [
       "400W, 23.5% efficiency",

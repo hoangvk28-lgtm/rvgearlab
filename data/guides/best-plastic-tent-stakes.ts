@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51vIHzJg6mL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CBCBZY71?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CBCBZY71?tag=rvgearlab-amz-20",
     "description": "WOPPLXY ships 80 ABS plastic stakes at about 9 inches long with a spike and hook design. The listing says the plastic will not rust or deteriorate and names tents, canvas, hammocks, hanging chairs and inflatable boats among its uses.\n\nIt carries more pieces than any other set here, and it uses ABS instead of the PP found in the AOZUO and GDLPZM listings. The 80-piece count suits large groups and repeated use more than a single tent.\n\nIt fits families, scout leaders and event setups that stake many tents and tarps in one weekend. A bulk pack also leaves spares for losses on grass.",
     "specs": [
       "80 ABS plastic stakes",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51e5p0vSyvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GCVNHC13?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GCVNHC13?tag=rvgearlab-amz-20",
     "description": "AOZUO supplies 60 yellow PP plastic stakes at 9 inches, with a slanted tip and a hook with a hole. The listing says the tip penetrates ground or sand and the hook lets you pull by hand or with a hammer.\n\nIt sits between the WOPPLXY and the 12-piece sets, with enough stakes for a tent, a canopy and a beach blanket and a lower price than the 80-piece pack. Its yellow color helps spot stakes in grass and sand.\n\nIt suits beach and park campers who want a mid-size bulk pack and bright stakes for sand anchors, landscape edging and canopies. The slanted tip makes starting a stake in loose sand easy.",
     "specs": [
       "60 PP plastic stakes",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41TP9KZvVkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B083W8D1V3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B083W8D1V3?tag=rvgearlab-amz-20",
     "description": "MUDOR supplies 12 yellow ABS plastic stakes at 9 inches, or 22.5 cm. The listing calls the strength sometimes better than metal tent nails and says they hold the target deeper and stronger.\n\nIt is the ABS counterpart to the GDLPZM, with the same 12-piece count and a more impact resistant plastic. It is priced at the bottom of the 9 inch sets, tied with the GDLPZM.\n\nIt suits a solo camper or a single small tent that wants ABS plastic in a small, low-cost pack. The listing also cites inflatables and fence jobs.",
     "specs": [
       "12 ABS plastic stakes",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41v-oTt-lML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GXK2NJ94?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GXK2NJ94?tag=rvgearlab-amz-20",
     "description": "GDLPZM offers 12 yellow PP plastic tent pegs, 9 inches (220 mm) long and 22 mm wide, with a hook and hole at the top. The listing names awnings, caravans and campsite use.\n\nIt matches the MUDOR in count and length and uses PP in place of ABS. Compared with the AOZUO, it provides fewer pieces for a similar hook-and-hole head.\n\nIt is aimed at caravan and awning users who need a small set of reusable plastic pegs. The yellow color shows well against grass and gravel.",
     "specs": [
       "12 PP plastic pegs",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41IxKxwMi-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D9L9F7C8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D9L9F7C8?tag=rvgearlab-amz-20",
     "description": "Moicstiy ships 24 black plastic stakes at 5.7 inches (145 mm) long and 0.86 inches (22 mm) wide, with a sharp head for easy insertion. The listing calls them lightweight and sized to fit in a backpack.\n\nThey are the shortest in the group, well under the 9 inch WOPPLXY and AOZUO stakes, and a very low price. The short length trades depth for packing size and works best in soft ground.\n\nThey suit beach tents, ground sheets and picnic shelters where little pull is expected. A 12 pack in yellow is also sold under the same name.",
     "specs": [
       "24 plastic stakes",

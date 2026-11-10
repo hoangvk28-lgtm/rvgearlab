@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zTTNwzJcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H7B816WF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H7B816WF?tag=rvgearlab-amz-20",
     "description": "This stove delivers up to 3500W, or about 11,900 BTU, from a honeycomb mesh burner behind a windproof shield. It includes an adapter for 7/16 inch EN 417 isobutane-propane canisters and for 1 lb propane tanks, push-button piezo ignition and a carrying case, and boils 1 liter in about 3 minutes.\n\nIt is the most capable stove at the top of this budget, with the highest rated output and a windscreen that the cheaper stoves lack. The RANDDER offers a similar fuel adapter for about $2 less, and the BRS weighs a fraction as much.\n\nIt suits car campers who want fast boils in the wind and the option to run on a refillable propane tank. It folds into its case.",
     "specs": [
       "3500W, 11,900 BTU, windshield",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/415sEHEi6qL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09LSSX8K8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09LSSX8K8?tag=rvgearlab-amz-20",
     "description": "The RANDDER is a 10,000 BTU single burner with a flame adjuster, a 16 oz propane tank adapter and a zippered carrying case in the box. It has a 6.7 inch wide base that holds a coffee percolator or a larger pan.\n\nIt costs about $2 less than the 3500W stove and gives similar fuel options with no windshield. The wide base is what sets it apart from the smaller stoves on the list.\n\nIt suits campers who want to run propane or isobutane on a stable base. It works well with a percolator.",
     "specs": [
       "10,000 BTU, flame adjuster",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41NyE2N5X9S._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B092QS9DX7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B092QS9DX7?tag=rvgearlab-amz-20",
     "description": "This small stove has fold-out pot supports, a control valve for smooth flame adjustment and an adapter that lets it use butane cylinders and 1 lb propane bottles. A zippered case comes with it.\n\nIt costs a nickel more than the 3500W stove and has a wider base than most mini stoves, which holds bigger pots steady. It lacks the 3500W's windshield, and the maker gives fewer specs.\n\nIt suits campers who want a compact stove that works with several fuel types. It also suits an emergency kit in a vehicle.",
     "specs": [
       "Fold-out pot supports",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41MP+LromxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00NNMF70U?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00NNMF70U?tag=rvgearlab-amz-20",
     "description": "The BRS-3000T is a 25 g titanium burner rated at 2700W that twists directly onto a canister. Its stated boil time for 1 liter is about 2 minutes 58 seconds, using around 140 g of gas per hour.\n\nIt weighs a tiny fraction of the 3500W stove and costs about $3 less. It has no igniter or windshield, and its small supports suit narrow pots.\n\nIt suits backpackers and kayakers who want the lightest burner at a low price. Carry a lighter and a windscreen.",
     "specs": [
       "25 g titanium, 2700W",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41gEVT-VxGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09QFGZ32V?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09QFGZ32V?tag=rvgearlab-amz-20",
     "description": "The Boundless Voyage is a titanium alcohol stove with a double-layer burner that has 24 micropores. A folding flame regulator tames the burn, and the pot stand doubles as a small wood stove with 12 holes at the base.\n\nIt needs no pressurized canister, which sets it apart from every other stove here, and it costs about $3 less than the 3500W stove. Alcohol burns slower than gas, so boils take longer.\n\nIt suits minimalist backpackers who want a silent stove that burns denatured alcohol or small twigs. Carry a fuel bottle and a lighter.",
     "specs": [
       "Titanium alcohol stove",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hybCmWPwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07NJYV3NP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07NJYV3NP?tag=rvgearlab-amz-20",
     "description": "The AOTU is a 3000W canister stove with a piezo igniter and a windproof net around the burner. Its 9.5 by 9.5 cm fire board suits a pot of about 20 cm, and it screws onto any 7/16 thread butane or butane-propane canister before folding into a pocket-sized box.\n\nIt is the cheapest stove here at about $10 and has an igniter that the BRS lacks. The 3500W gives a windshield and more output.\n\nIt suits budget campers and first-time stove buyers cooking for one to three people. Keep it for small pots.",
     "specs": [
       "3000W, piezo ignition",

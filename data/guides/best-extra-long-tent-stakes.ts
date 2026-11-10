@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Fo7YJLFnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CNH6PPT6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CNH6PPT6?tag=rvgearlab-amz-20",
     "description": "This HOLANHING pack is 20 forged S45C steel stakes at 16 inches, 0.35 inch thick and about 7 ounces each. Fluorescent rubber rings and a storage pouch complete the set.\n\nIt has the largest quantity in this group and the same forged steel as the RIY. Against the HNBun and GESTONE sets, it adds rubber marking rings and a pouch.\n\nIt suits campers who want deep anchors for a tent, a canopy and a tarp from one purchase. The listing names rocks, grassland, snowfield and beaches among its uses.",
     "specs": [
       "16 in forged S45C steel",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51nCJJqWjkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B99Y88T8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B99Y88T8?tag=rvgearlab-amz-20",
     "description": "HNBun sells 12 forged carbon steel stakes measuring 39.6 cm (15.6 in) with a 9 mm diameter. The wide round head and straight hanging hole are designed for accurate hammer strikes and easy storage.\n\nNext to the HOLANHING it provides fewer stakes and no rings, while next to the RIY it adds a wider head. The straight hanging hole stacks the stakes tidier than a side-hole design.\n\nIt is aimed at a camper who wants a carbon steel stake that stores flat. The heat-treated build is listed as hard to deform.",
     "specs": [
       "15.6 in forged carbon steel",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41R269xmMYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09P34WPBZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09P34WPBZ?tag=rvgearlab-amz-20",
     "description": "The RIY set has eight forged S45C steel stakes at 16 inches long and about 0.35 pounds each. The listing stresses a large head and sharp end for hard or rocky ground.\n\nAgainst the HOLANHING it uses the same S45C forged steel in an eight-stake pack at a lower price. It is lighter in total than the 20-pack and more focused than the GESTONE rebar set.\n\nIt suits one-tent campers who want 16 inch forged stakes in desert, snowfield and grassland without paying for a 20-pack. The sharp end makes starting the stake easy.",
     "specs": [
       "16 in forged S45C steel",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51bheVzG3ML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F2DR16DM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F2DR16DM?tag=rvgearlab-amz-20",
     "description": "GESTONE offers eight 16 inch black powder-coated steel J stakes with ridges along the shaft. The listing recommends them for strong wind, soft sand, mud and snow and for trampoline tents.\n\nWhere HOLANHING and RIY use straight pegs, these ridged rebar stakes use surface ridges to spread wind pull across the soil. They include a J hook that holds straps and loops.\n\nThey suit trampoline tents, tall canopies and inflatables in places the listing names, including deserts, high mountains and hurricane-prone areas. The powder-coated finish is listed as weather resistant.",
     "specs": [
       "16 in powder-coated steel",

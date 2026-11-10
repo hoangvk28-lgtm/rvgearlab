@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41keO1KCq5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B004J2FB5Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B004J2FB5Y?tag=rvgearlab-amz-20",
     "description": "The Coleman Heritage Big & Tall is a 10F flannel-lined bag with 5 pounds of Holofill 808 insulation, sized 40 by 84 inches to fit campers up to 6 feet 7 inches. FiberLock construction keeps the fill from shifting, and the cotton cover is machine washable.\n\nIt costs about $102, the lowest of the four heavy bags and about $28 less than the TETON Deer Hunter Canvas. It is the only pick with a big and tall cut at the lowest cold rating on a machine washable shell.\n\nIt suits tall campers, cold-weather car campers and anyone who wants a bag that goes through the laundry. It is built for cabins and vehicle camping.",
     "specs": [
       "10F rated, 5 lb Holofill 808",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41gsi5VRJeL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01L456M8I?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01L456M8I?tag=rvgearlab-amz-20",
     "description": "The Stansport Grizzly is a -10F bag with 6 pounds of Poly-Therm insulation that keeps its warmth when wet. It has a cotton canvas shell, cotton flannel liner, double-layer construction and offset stitching to prevent cold spots, and it measures 81 by 39 inches.\n\nIt costs about $111, a little above the Coleman Heritage, and it has the lowest rating and the most fill of any pick. It fits shorter than the Coleman Heritage Big & Tall at 81 inches, which is the trade for extra insulation.\n\nIt suits hunters, ice fishers and campers who sleep out in subzero weather. The wet-insulation claim helps in damp climates.",
     "specs": [
       "-10F, 6 lb Poly-Therm fill",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51StdnCF8vL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08S3N8PNW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08S3N8PNW?tag=rvgearlab-amz-20",
     "description": "The AGEMORE is a heavy-duty bag with a 270GSM canvas exterior and a 145GSM cotton flannel lining, built in two offset layers. It measures 94.5 by 35.5 inches, and the inner flannel layer can be removed to make a separate single bag.\n\nIt costs about $114, a few dollars above the Stansport Grizzly, and it is the longest bag in this guide at 94.5 inches. The text states use down to 14F, which is warmer than the title suggests, and it is the pick with the removable inner layer.\n\nIt suits tall and broad sleepers and campers who want a bag that splits into two. It works for fishing, hunting and cold-weather travel.",
     "specs": [
       "270GSM canvas, cotton flannel",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ggZVlyhTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00A4VLHSE?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00A4VLHSE?tag=rvgearlab-amz-20",
     "description": "The TETON Deer Hunter is a 0F bag with a canvas shell, fiber fill, poly-flannel lining and a half-circle hood. It uses double-layer construction for steady warmth.\n\nIt costs about $130, the top of this budget and about $28 above the Coleman Heritage Big & Tall. The extra money buys a canvas shell and a hood, which the Coleman lacks.\n\nIt suits hunters and cold-weather campers who want a canvas bag with a hood. It handles long seasons of rough use.",
     "specs": [
       "Canvas shell, fiber fill",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41e3bnxlOpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07V5HSB91?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07V5HSB91?tag=rvgearlab-amz-20",
     "description": "The Bessport is a 15 to 45F mummy bag in 210T ripstop with an insulated footbox and double zippers with an anti-snag slider. It fits adults up to 6 feet 6 inches.\n\nIt costs about $50, under half the price of the Coleman Heritage Big & Tall, and it is the only mummy cut here. It is far lighter and packs smaller than the four canvas bags, and it suits milder weather.\n\nIt suits backpackers and campers who sleep in three-season weather. A mummy cut keeps heat in a smaller space.",
     "specs": [
       "15 to 45F, mummy cut",

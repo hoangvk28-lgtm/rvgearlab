@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51gUnYs+DTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F2411PZZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F2411PZZ?tag=rvgearlab-amz-20",
     "description": "This Zappyway kit adds a 6.6 gallon foldable bucket and an immersion heater to a 6000mAh rechargeable pump. A digital display, a waterproof switch, a four-mode shower head and a mesh storage bag complete the all-in-one box.\n\nAt about $70 it is the only heated kit under $75 and costs $20 more than the tent kits, so it buys hot water rather than privacy. The bucket is larger than the 20L buckets on the cheaper pump kits, which means fewer refills for a group.\n\nIt suits campers on a powered site or with a generator who want a warm shower in cool weather. Pet bathing and gear rinsing also work well.",
     "specs": [
       "6000mAh pump, immersion heater",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41DaDAZbAkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G6BBMFPX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G6BBMFPX?tag=rvgearlab-amz-20",
     "description": "The Abahub is a pop-up privacy tent measuring 4.9 by 4.9 by 6.2 feet, made of 190T silver-coated polyester with a UPF 50+ rating, said to block 98 percent of ultraviolet light. It comes with a 5 gallon solar shower bag that heats water up to 113F and a zippered carry bag.\n\nAt about $49 it is $21 below the Zappyway Heated Kit and gives privacy that no pump kit does. The oversized interior leaves room to change and dry off, which the FUN ESSENTIALS Tent Kit does not match.\n\nIt suits beach days, busy campgrounds and families who want privacy without a bathhouse. The tent pops open with a toss.",
     "specs": [
       "4.9 by 4.9 by 6.2 foot pop-up",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41FmXmwOSBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D6RJ42M2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D6RJ42M2?tag=rvgearlab-amz-20",
     "description": "The Spopal Filter Kit has a 6000mAh battery rated for 120 to 150 minutes with Type-C charging. An LED display shows battery and water temperature from 32F to 140F, the motor runs quietly, and the shower head has four settings with a PP element that filters impurities.\n\nAt about $33 it costs less than half the Zappyway and has no heater, so the water is only as warm as you pour in. The filter element is the difference from the Pump Shower 7800mAh next to it.\n\nIt suits campers who use stream or tank water and want a filtered head. The display helps judge temperature.",
     "specs": [
       "6000mAh, 120 to 150 minutes",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41nCsz+lkjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H7R5CLKY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H7R5CLKY?tag=rvgearlab-amz-20",
     "description": "This kit has a 7800mAh battery rated for up to 180 minutes per charge, Type-C charging from a power bank or car charger and an IPX8 submersible pump. The head has three spray modes, and the kit packs into a mesh bag.\n\nAt about $27 it carries the lowest price of the five and runs 30 to 60 minutes longer than the 6000mAh kits. It lacks a temperature display.\n\nIt suits groups on long weekends who need many showers per charge. It is the best low-cost partner for a pan of heated water.",
     "specs": [
       "7800mAh, up to 180 minutes",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41NfV2czF2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BJTVZ3GS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BJTVZ3GS?tag=rvgearlab-amz-20",
     "description": "The FUN ESSENTIALS kit packs a pop-up shower tent, four ropes, eight ground stakes, four sand bags, a 5 gallon solar bag and a carry bag into 5 lb. The tent doubles as a changing room or toilet screen.\n\nAt about $50 it costs a dollar more than the Abahub and offers a smaller tent. The sand bags anchor it on beaches.\n\nIt suits campers who want a light tent kit for sandy or windy sites. A hanging rope with a hook is included.",
     "specs": [
       "Pop-up tent plus 5 gallon bag",

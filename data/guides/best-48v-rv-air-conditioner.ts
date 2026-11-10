@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41fGhLq1poL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GL1BYCHS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GL1BYCHS?tag=rvgearlab-amz-20",
     "description": "The TURBRO 15,000 BTU 48V DC RV Air Conditioner connects directly to a compatible 48V battery using the included 8 AWG UL-certified cable, with no external AC inverter. It uses a twin-rotary inverter compressor and offers heat pump heating with app and remote control.\n\nAgainst the NEKPOKKA units, it gives more cooling at about 15,000 BTU and a rooftop heat pump design. Against the MIAOXIAOLONG 11K, it states a 48V-only build rather than a multi-voltage family.\n\nBest for boondockers with a high-capacity 48V battery bank or solar-charged system. The lower current demand of 48V is the point of the design.",
     "specs": [
       "15,000 BTU, native 48V DC",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41x9ekRB7LL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F9238VVY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F9238VVY?tag=rvgearlab-amz-20",
     "description": "The NEKPOKKA Universal 48V Air Conditioner is a hidden underbody unit with a metal-shell outdoor unit and about 13,000 BTU of cooling (2,200 to 2,800W). The listing gives a 35A current requirement and 760 cubic meters per hour of evaporator airflow.\n\nAgainst the NEKPOKKA 360 Vent, it adds a silent evaporator with multiple working modes. Against the TURBRO GLD15, it offers about 2,000 BTU less cooling at a much lower price.\n\nBest for trailers, trucks and vans where a rooftop unit will not fit. The listing says the outdoor unit can mount in several ways.",
     "specs": [
       "48V, about 13,000 BTU",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41rPWe3kW9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F924LS2Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F924LS2Y?tag=rvgearlab-amz-20",
     "description": "The NEKPOKKA 48V underbody air conditioner uses a four-hole evaporator whose outlets can turn 360 degrees. It shares the 2,200 to 2,800W (about 13,000 BTU) rating and 35A current requirement of the other NEKPOKKA.\n\nAgainst the NEKPOKKA Underbody, it swaps the silent-evaporator mode set for adjustable vents and a lower price. Against the MIAOXIAOLONG 11K, it provides about 2,000 BTU more cooling in an underbody layout.\n\nBest for vans and cabins where directing airflow matters. The listing lists it for trucks, campers, trailers and construction vehicles.",
     "specs": [
       "48V, about 13,000 BTU",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41QEw0eLIpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H6RH9JQC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H6RH9JQC?tag=rvgearlab-amz-20",
     "description": "The MIAOXIAOLONG Low-Profile Camper Air Conditioner lists 11,000 BTU of cooling and 3,500 BTU of heating, with a title naming 48V. The listing says it is made in 12V, 24V, 48V and 60V to 72V models and has a weatherproof ABS shell.\n\nAgainst the NEKPOKKA units, it is a rooftop unit that adds heating at a lower price. Against the TURBRO GLD15, it has less cooling and a simpler spec sheet.\n\nBest for budget buyers who want a rooftop 48V unit with some heat. It fits a skylight opening of at least 12.59 by 9.45 inches.",
     "specs": [
       "11,000 BTU cool, 3,500 BTU heat",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ciNH8rGbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BTRV37RN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BTRV37RN?tag=rvgearlab-amz-20",
     "description": "The TOSOT 16,000 BTU RV Air Conditioner has a 12,500 BTU heat pump and 43 dB operation. It fits 14.25 by 14.25 inch roof openings and works in ambient temperatures from 23 to 115 degrees F.\n\nCompared with the TURBRO GLD15, it offers more cooling and a lower price on an AC supply rather than a native 48V one. Compared with the Arsenda 18K, it adds a quieter 43 dB rating and a WiFi-ready Gree+ app.\n\nBest for 48V owners who plan to run an inverter and want a quiet unit. It suits RVs 16 to 24 feet.",
     "specs": [
       "16,000 BTU, 12,500 BTU heat pump",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/417L6lQRMoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GS94YT4W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GS94YT4W?tag=rvgearlab-amz-20",
     "description": "The Arsenda 18000 BTU Rooftop RV Air Conditioner has a heat pump rated at 10,236 BTU of heating and is listed for interiors up to 680 square feet. It runs at 50 dB and works in 23 to 115 degrees F ambient temperatures.\n\nAgainst the TOSOT 16K, it adds 2,000 BTU of cooling at a lower price. Against the TURBRO GLD15, it offers more rated capacity at about half the price.\n\nBest for large RVs where a 120V inverter is already part of the plan. The listing says it needs both 115V AC and 12V DC connections.",
     "specs": [
       "18,000 BTU, 10,236 BTU heat",

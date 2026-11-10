@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31I4ljXsPgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BNQDD2ZN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BNQDD2ZN?tag=rvgearlab-amz-20",
     "description": "The Gorich opens to 86.6 x 59 x 48 inches and folds to a 17 x 4 x 4 inch bundle at 3.9 pounds. Its frame is 8.0mm fiberglass, with silver-coated fabric, three large mesh windows and 40 inches of extra floor.\n\nCompared with the Wolfwise it is lighter and has the larger footprint, and next to the Venustas it states a packed size and weight. This listing is the 3 to 4 person size of a line that runs from 3 to 10 person.\n\nIt suits two adults or a parent with kids after a roomy, compact shelter. The extended floor adds seating.",
     "specs": [
       "3.9 lb, folds 17x4x4 in",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41aPqSBnWoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B06XWRLDML?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B06XWRLDML?tag=rvgearlab-amz-20",
     "description": "The Wolfwise 3 Person pops up and folds down in seconds at about 4.2 pounds. It measures 86 by 57 by 47 inches, with 190T anti-tear polyester, taped seams, a reinforced fiberglass frame and a silver coating said to cut up to 98 percent of UV.\n\nIt weighs a touch more than the Gorich and adds taped seams plus rear double pull sliders for easier entry. Compared with the Etto it is a standard 3-person size instead of a solo-friendly one.\n\nIt suits small groups who want a pop-up with extra water repellency. Two storage pockets under the windows keep small items off the sand.",
     "specs": [
       "About 4.2 lb, 86x57x47 in",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31jOOypBMxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07PNW1WPB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07PNW1WPB?tag=rvgearlab-amz-20",
     "description": "The Venustas matches the Gorich dimensions at 86.6 x 59 x 48 inches, using 190T silver-coated polyester in four layers and an 8mm fiberglass frame. It has 4-sided ventilation and is sold in 3, 4, 6 and 8 person sizes.\n\nAgainst the Gorich it gives similar space at a slightly lower price, while the listing describes weight with a comparison to cans, with no number. The listing calls it easier to fold than a pop-up.\n\nA fit for shoppers chasing a roomy 3-4 person footprint at low cost. The folding style makes it easy to repack.",
     "specs": [
       "86.6 x 59 x 48 in",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41StENuJB5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GHY3F64X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GHY3F64X?tag=rvgearlab-amz-20",
     "description": "The Etto beach tent is sold for 2 to 6 persons, and this listing describes it as a cozy space for solo relaxation, a parent with a child or kids on a shaded break. It has dual doors for cross airflow, silver-coated fabric rated for up to 98 percent UV blocking and an extended front floor.\n\nWhere the Gorich and Venustas list a 3 to 4 person room, the Etto adds sandbags, stakes and wind ropes in the box. The color-coded poles make assembly easier than a plain frame.\n\nIt suits solo beach-goers and one-adult-plus-kid pairs who want airflow from both ends. It also carries a very low price.",
     "specs": [
       "Dual-door airflow",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Zda6t1XDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GPR6BZ96?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GPR6BZ96?tag=rvgearlab-amz-20",
     "description": "The NORKIRK is a pop-up beach tent with UPF 50+ protection, reinforced fiberglass poles and built-in sandbags. It is described as lightweight and portable and comes with a carry bag.\n\nIts listing is the shortest of the five, with no weight or size given. Against the Etto it adds built-in sandbags, and next to the Gorich it costs far less.\n\nIt suits shoppers on a tight budget who only need basic pop-up shade for a short beach visit. It is the lowest-priced pick.",
     "specs": [
       "UPF 50+ fabric",

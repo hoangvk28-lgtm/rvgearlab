@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41o7qfAB94L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CSMW6VVN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CSMW6VVN?tag=rvgearlab-amz-20",
     "description": "The Slendor 29-inch XL uses a third-generation aluminum alloy lock on a triangular frame with thickened square steel pipes. It adds a thickened footrest and a removable back cushion that weighs 3.1 pounds.\n\nAgainst the Colegence Lockable it offers a more heavily described lock and a stable triangle frame, rather than a lower price. It suits campers who want the lock itself to be the headline feature.",
     "specs": [
       "Aluminum alloy lock",
@@ -56,7 +56,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41FFNKZ5GYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DXKR2XBB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DXKR2XBB?tag=rvgearlab-amz-20",
     "description": "The JEAREY has a 29 inch wide padded seat and a 400 pound capacity. Its upgraded lock catch is described as more convenient than twist knobs, so you simply press to adjust the recline.\n\nCompared with the Slendor 3rd-Gen Lock, it focuses on one-hand operation and adds a detachable side tray with dual cup holders. It suits campers who adjust the angle often and want a tray built in.",
     "specs": [
       "400 lb capacity",
@@ -86,7 +86,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41HL6RS6MLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B9BTMX6H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B9BTMX6H?tag=rvgearlab-amz-20",
     "description": "The UDPATIO Oversized pairs a full backrest, adjustable headrest, and footrest with a locking system that sets the recline angle. A removable cushion and cup holder come with the chair.\n\nNext to the JEAREY Lock Catch, it leans on full-body support rather than a specific lock upgrade. It suits campers who want head, back, and foot support in one folding chair.",
     "specs": [
       "Adjustable locking system",
@@ -116,7 +116,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41xjLXcqG2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7LW4DB8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7LW4DB8?tag=rvgearlab-amz-20",
     "description": "The Colegence has a 29 inch seat with 300 gsm cushioning, 600D Oxford fabric, and a powder-coated steel frame with 1.5 mm tube walls. It reclines from upright to a 0 to 170 degree position and holds it with a locking feature, rated for 400 pounds.\n\nAgainst the Slendor 3rd-Gen Lock, it describes frame wall thickness and bungee strands in detail while costing less. It suits budget campers who still want a 400 pound rating and a removable side table.",
     "specs": [
       "400 lb capacity",
@@ -146,7 +146,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41iQshxlafL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G8FQRKLB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G8FQRKLB?tag=rvgearlab-amz-20",
     "description": "The NEWBULIG ships as a set of two folding recliners with a frame supporting up to 330 pounds. The backrest adjusts between 0 and 160 degrees, and each chair has an adjustable headrest and a detachable tray with several compartments.\n\nCompared with the Colegence Lockable, it gives you two chairs at a modest per-chair cost with a lower rating. It suits couples who want matching recliners for one campsite.",
     "specs": [
       "Set of two chairs",

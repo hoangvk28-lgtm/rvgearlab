@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51ljFbpPkcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H3FHW1Z7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H3FHW1Z7?tag=rvgearlab-amz-20",
     "description": "The Kohree 50 FT hose is rated to -40°F with NSF 372 lead-free certification, a high-density insulated jacket and a thermostat-controlled cable. Kohree's 50 FT hose is rated to -40°F with an NSF 372 certified lead-free build and a high-density insulated outer jacket.\n\nIt is the only 50 ft pick here with a named lead-free certification, and it costs less than the SZFY and FYSFLYA. The jacket helps hold heat.\n\nA thermostat-controlled heating cable activates only when temperatures drop. It suits owners who want a certified hose at -40°F.",
     "specs": [
       "50 ft, -40°F protection",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/516wNz4cT+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H6W4G5XH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H6W4G5XH?tag=rvgearlab-amz-20",
     "description": "The RVshark 40FT is rated to -40°F with NSF/ANSI/CAN 372 lead-free certification and intelligent temperature control. RVshark's 40FT hose is rated to -40°F, with NSF/ANSI/CAN 372 lead-free certification and built-in intelligent temperature control.\n\nIt gives ten feet less than the 50 ft picks at a lower price. The light blue colour is easy to see in snow.\n\nIt is offered in four lengths and the light blue color is easy to spot in snow. It suits owners who need 40 feet and a certified hose.",
     "specs": [
       "40 ft, -40°F protection",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51kvc3pWrRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7HJS1CV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7HJS1CV?tag=rvgearlab-amz-20",
     "description": "The PBPHX 50FT is titled -40°F with a self-regulating external thermostat, and the text cites -45°F. PBPHX titles this 50FT hose at -40°F with a self-regulating external thermostat.\n\nIt costs about 5 dollars less than the Kohree and carries eight years of user feedback. It lacks a named certification.\n\nThe text cites -45°F, and the brand says it has gathered eight years of user feedback. It suits budget buyers who want 50 feet.",
     "specs": [
       "50 ft, -40°F in title",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/511qOoCIi4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D99YVH4X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D99YVH4X?tag=rvgearlab-amz-20",
     "description": "The PBPHX 25FT has the same self-regulating thermostat and -40°F title rating as its 50 ft sibling. PBPHX titles this 25FT hose at -40°F, with a self-regulating external thermostat.\n\nIt is the cheapest of the six and gives 25 feet. The text cites -45°F.\n\nThe text cites -45°F and the brand has gathered eight years of user feedback. It suits budget buyers with a short run.",
     "specs": [
       "25 ft, -40°F in title",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51B9xVSoInL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F6BJLH8G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F6BJLH8G?tag=rvgearlab-amz-20",
     "description": "The FYSFLYA 50FT uses potable-water hose free of lead, phthalates and bisphenol, with a 3D five-layer structure and reinforced heating ends. FYSFLYA's 50FT hose is made from potable-water hose free of lead, phthalates and bisphenol, with a 3D five-layer structure.\n\nIt costs about 24 dollars less than the SZFY. The title does not state a freeze rating.\n\nThe ends of the heating section are reinforced for durability. It suits owners who value a reinforced build.",
     "specs": [
       "50 ft, potable water hose",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Y18YJ3R1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F283D7MQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F283D7MQ?tag=rvgearlab-amz-20",
     "description": "The SZFY 50FT has food-grade inner tubing, a five-layer shell and an internal heating coil that changes with temperature. SZFY's 50FT hose has food-grade inner tubing, a five-layer shell and an internal heating coil that varies with temperature.\n\nIt sits at the premium end of the price range. The title says -45°F and the text -40°F.\n\nThe title says -45°F, while the text cites -40°F. It suits buyers who want the heaviest shell.",
     "specs": [
       "50 ft, five-layer shell",

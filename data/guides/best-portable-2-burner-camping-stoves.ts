@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Z1fggxjZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GJ5RH39Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GJ5RH39Q?tag=rvgearlab-amz-20",
     "description": "The COGRICHBF folds to 10.6 by 9 by 4.5 inches and carries two independent propane burners at up to 24,000 BTU total. Kit parts include a baking tray, windshield, two racks, a moka pot holder, a griddle lifter, a gas hose and a carry bag.\n\nIt is the most complete package here, and a magnetic lid closes it quickly. Next to the Tengizuohz, it has more output, and next to the Coleman it packs smaller.\n\nIt suits campers, RV travelers and tailgaters who want everything in one box. The windshield stabilizes the flame.",
     "specs": [
       "Folds to 10.6 x 9 x 4.5 in",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51RZVbeOyHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GCNX4TJW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GCNX4TJW?tag=rvgearlab-amz-20",
     "description": "The SENBOWE lists two independent 12,000 BTU burners for 24,000 BTU total, folded dimensions of 10.63 by 9.05 by 5.5 inches and a magnetic closure. The set includes a windshield, a carry bag, a 40 inch gas connector and a 7.9 by 9.1 inch grill pan.\n\nIt matches the COGRICHBF on output and adds a 40 inch connector and a grill pan. Its fold is a little taller at 5.5 inches.\n\nIt suits campers who grill and fry as well as boil. Heavy-duty metal resists rust.",
     "specs": [
       "24,000 BTU, 2 x 12,000",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41PuJZiouFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GFCT9JNV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GFCT9JNV?tag=rvgearlab-amz-20",
     "description": "The nowcamp is a foldable two-burner stove with 30,000 BTU from two brass burners. A magnetic closure, windshield, storage bag and 304 stainless coffee stand are listed.\n\nIt has the highest output of the five, past the COGRICHBF and the SENBOWE at 24,000 BTU. It folds compactly like the others, and the page gives no dimensions.\n\nIt suits campers who want maximum heat from a stove that still folds. Boiling, frying and grilling are listed uses.",
     "specs": [
       "30,000 BTU, brass burners",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Vfyc7J-tL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FJFJMMFV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FJFJMMFV?tag=rvgearlab-amz-20",
     "description": "The TENGIZUOHZ puts 10,000 BTU across two propane burners. Closed, it measures 10.2 x 9 x 3.5 inches, and the 304 stainless body adds push-button igniters on both sides plus a carry bag.\n\nIt is the thinnest when folded and the lowest in listed output, the opposite trade from the nowcamp. Wind-resistant steel barriers surround the flames.\n\nIt suits solo campers and emergency kits where pack size comes first. It heats small pots patiently.",
     "specs": [
       "10,000 BTU total, 3.5 inch thick",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31BW7+A0xXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09HN1C1YJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09HN1C1YJ?tag=rvgearlab-amz-20",
     "description": "A full-size cooktop from Coleman, the Triton runs two propane burners with simmer-friendly knobs. Its two wind guards, travel latch and lift-out grate are the features that matter at camp.\n\nIt does not fold as thin as the foldables, and it offers sturdier wind protection and a familiar build. Compared with the Tengizuohz, it cooks larger pans better.\n\nIt suits family camping where the stove rides in a car. The latch closes it for travel.",
     "specs": [
       "Two independently adjustable burners",

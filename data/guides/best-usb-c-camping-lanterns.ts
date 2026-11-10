@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31j733mVWHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D11BJHG8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D11BJHG8?tag=rvgearlab-amz-20",
     "description": "The Cullaby lists 3000 lumens, a 7500mAh battery with a USB-C power bank port and five light modes with stepless dimming. Warm, cool and natural white, red light and a red COB strobe are all included.\n\nIt has the biggest battery here and stepless dimming across its five modes. A removable diffuser cap and dual hanging design let it serve as tent light or work light.\n\nIt suits campers who want a lantern that doubles as a phone charger and storm light. IP54 resistance and a shock-resistant housing back that up.",
     "specs": [
       "3000 lumens, 7500mAh",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41k+wuj4GKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FL22QSGP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FL22QSGP?tag=rvgearlab-amz-20",
     "description": "The Glocusent 135 uses 135 LEDs for a 360 degree beam over about 201 square feet. A 5000mAh battery lists up to 200 hours on low and 12 hours at maximum, with a 3.5 hour full charge and a Type-C port that charges devices.\n\nIt trades the Cullaby's raw output for a long low-light runtime. Against the pocket Glocusent, it offers more LEDs and a 1501LM super bright mode.\n\nIt suits tent campers who leave a dim light on overnight. The listing names IP45, an SOS red strobe and three colour modes.",
     "specs": [
       "5000mAh, up to 200 hours low",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41g2DGqLKLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GGHCPRVQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GGHCPRVQ?tag=rvgearlab-amz-20",
     "description": "The Glocusent Pocket has 60 LEDs in a semi-cylindrical design with five brightness levels and three colour modes. It weighs 5.4 oz and measures 3.2 by 3.2 by 2.6 inches.\n\nIts 5000mAh battery charges in 3.5 hours over Type-C and supports reverse charging for a phone. Compared with the 135 LED model it is smaller and lighter, which suits backpacks.\n\nIt suits hikers and backpackers who want USB-C and a battery bank in one small light. The listing also names an SOS mode.",
     "specs": [
       "5000mAh, Type-C, reverse charging",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Xz6V2KytL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GL1TGW1S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GL1TGW1S?tag=rvgearlab-amz-20",
     "description": "The YZMYUKS lists 1500 lumens, a Type-C interface, five lighting modes and three light colours. The body measures 5.91 by 3.8 by 1.18 inches and weighs 0.64 lb, with a 180 degree rotating foldable design.\n\nIt costs a fraction of the other three and still names USB-C charging. Compared with the Cullaby, it has no power bank function stated.\n\nIt suits casual campers and car campers who want an inexpensive USB-C lantern. ABS and PC materials give it a sturdy feel.",
     "specs": [
       "1500 lumens, Type-C",

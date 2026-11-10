@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41-Y0wGkbFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GF6CWMFN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GF6CWMFN?tag=rvgearlab-amz-20",
     "description": "The Vocpuli weighs 3.3 lb and uses a 7075 aluminum alloy frame with 600D ripstop fabric and a mesh back. It rates for 330 lb, opens to 14.2 by 12.2 by 25.6 inches and folds to 15 by 5.1 by 5.1 inches with a shock-cord frame that sets up in seconds.\n\nAt about $30 it costs $10 less than the ONETIGRIS and carries the same 330 lb rating, so it gives up only a little weight. Compared with the WEIDIORME, it swaps steel for aluminum and drops half a pound.\n\nIt suits backpackers and campers who want a light aluminum chair on a modest budget. It packs small enough to ride in a pack side pocket.",
     "specs": [
       "7075 aluminum, 3.3 lb",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31T6mYUjRLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CQJR8NLW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CQJR8NLW?tag=rvgearlab-amz-20",
     "description": "The Tigerblade weighs 2.9 lb and uses a 7075 aluminum frame with a triangle structure and 600D polyester fabric rated for 330 lb. It folds to 5.9 by 5.1 by 13 inches and opens to a seat about 20 inches wide, with a detachable fabric seat.\n\nAt about $40 it is the priciest of the five, with half a pound lighter than the Vocpuli. The detachable fabric makes cleaning easy, while the WEIDIORME two-pack costs less per seat.\n\nIt suits ultralight backpackers who count ounces and want a stable triangle frame. The packed size fits a bottle pocket.",
     "specs": [
       "2.9 lb, 330 lb capacity",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/414PPzOqu+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C4NK8HD2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C4NK8HD2?tag=rvgearlab-amz-20",
     "description": "The WEIDIORME set includes two chairs, each 3.6 lb, with a steel frame, 600D Oxford fabric and individual carry bags. Each supports 250 lb and fits users up to about 6 feet tall, with a contoured seat and breathable fabric.\n\nAt about $37 for two chairs, it costs less per seat than any single chair here. The steel frame is heavier than the Vocpuli and the weight rating is lower than the 330 lb picks.\n\nIt suits couples and friends who want matching chairs at a low cost. Each chair has its own bag, so you can split them between two packs.",
     "specs": [
       "Two chairs, 3.6 lb each",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41SdZhj3R+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GZR1YZ3V?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GZR1YZ3V?tag=rvgearlab-amz-20",
     "description": "This compact chair weighs about 3 lb and packs to roughly 14 by 4 by 4 inches, with an iron frame and 600D Oxford fabric rated to 220 lb. It disassembles into the included carry bag and suits camping, tailgating, fishing and festivals.\n\nAt about $20 it costs less than the Vocpuli and packs smaller than most chairs here. The lower rating and iron frame keep the price down, while the smaller size suits younger campers.\n\nIt suits teens, kids and lighter adults who want a pack-down chair on a low budget. It is not recommended for the beach.",
     "specs": [
       "About 3 lb, folds 14 by 4 by 4",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Aw7kIn3IL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00BPWDMOS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00BPWDMOS?tag=rvgearlab-amz-20",
     "description": "The Coleman Broadband Mesh Quad has a cooling mesh back, a mesh cup holder, a strong steel frame and adjustable arm heights, with a 21.3 inch seat and a carry bag. It costs about $15.\n\nIt is the cheapest pick in this guide and the only one with adjustable arms. At roughly three times the weight of the aluminum chairs, it is a car-camp seat, not a backpacking seat.\n\nIt suits families who want a roomy, simple chair for the campsite. The mesh back keeps summer sweat down.",
     "specs": [
       "Mesh back, adjustable arms",

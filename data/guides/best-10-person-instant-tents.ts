@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41U5wSsvalL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DPLPJYDH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DPLPJYDH?tag=rvgearlab-amz-20",
     "description": "The CORE 10 Person Instant Cabin Tent measures 14 by 10 feet with a 78 inch center height, and the listing says it fits four queen air beds. Its H20 Block fabric is rated 1200mm, with a fully taped rainfly and sealed seams.\n\nAgainst the EVER ADVANCED Tent it keeps the same 14 by 10 footprint and adds a room divider and steel stakes in the box. Compared with the Coleman Tent it is cheaper and focuses on interior layout instead of a screened porch.\n\nIt suits families who want real bed space and two separate rooms in a tent that goes up in about two minutes. Its layout is the easiest to share between two families.",
     "specs": [
       "14 x 10 ft, 78 in peak",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/517yaBmyvOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FX4L87XZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FX4L87XZ?tag=rvgearlab-amz-20",
     "description": "The EVER ADVANCED 10 Person tent has a 14 by 10 ft floor and a 78 inch center height, with blackout fabric that filters out most outside light. It carries a 4000mm water-resistant coating and fully taped seams.\n\nWhere the CORE 10 Tent adds a divider, this one adds darkness and the highest waterproof number in the group. It also lists two large doors, five zippered mesh windows and an overhead net roof for 360 degree airflow.\n\nIt is the tent for late sleepers and kids who nap, set up in roughly three to five minutes. Its mesh roof also keeps the air moving on warm nights.",
     "specs": [
       "Blackout light-blocking fabric",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31KRgnuHaDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FQNHJHXC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FQNHJHXC?tag=rvgearlab-amz-20",
     "description": "The HINSTANT 10 person version is 14 by 10 ft like the CORE 10 Tent and raises the center height to 83 inches. It uses 190T polyester with a PU 2000mm coating, two doors, six large mesh windows and two lower vents.\n\nIt undercuts the CORE and EVER ADVANCED on price while taking the tallest walls here. The trade is a lower waterproof rating than the EVER ADVANCED, and it does not list a room divider.\n\nIt is the pick for a budget-minded group that wants headroom and plenty of ventilation. The listing covers a 4, 6, 8 and 10 person family, so choose the 10 person option.",
     "specs": [
       "14 x 10 ft, 83 in peak",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41-RX3ibUGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7QHX9V7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7QHX9V7?tag=rvgearlab-amz-20",
     "description": "The Coleman 4/6/8/10 Person Instant Tent listing includes a screened porch that Coleman says adds 35 percent more space than comparable 6 person dome tents. WeatherTec welded corners, inverted seams and an included rainfly are named.\n\nIt is the priciest pick and the only one with a bug-free porch, where the CORE 10 Tent and HINSTANT Tent give you only interior floor. Reflective Illumiline guy lines and a heat-reducing fabric add small practical touches.\n\nIt suits campers who want a lounge space attached to the tent. The page covers several sizes, so select the 10 person option.",
     "specs": [
       "Screened porch included",

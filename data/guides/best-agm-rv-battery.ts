@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31hWBJ9YLXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B075RGX1WR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B075RGX1WR?tag=rvgearlab-amz-20",
     "description": "Renogy's 200Ah AGM puts the capacity of two 100Ah batteries into a single sealed case. Renogy publishes a full capacity table, from 152.9Ah at the 3-hour rate up to 200Ah at the 20-hour rate, and quotes monthly self-discharge below 3% at 77F.\n\nIt ranks above the Interstate group 31 because it doubles the energy in one battery for roughly the same price as a single premium 100Ah unit, which makes it the best value per amp-hour among our sealed house batteries. The tradeoff is physical: it is far larger and heavier than a group 31, so it will not fit a typical tongue box.\n\nBest for Class A and fifth-wheel owners with a basement battery bay who want maximum sealed capacity. The caveat is installation: Renogy recommends mounting it upright, and you will want a helper to lift it.",
     "specs": [
       "12V 200Ah at C20",
@@ -55,7 +55,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31zt+XjvDCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BHX3FBCQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BHX3FBCQ?tag=rvgearlab-amz-20",
     "description": "Interstate's 31-AGM5 is a pure lead AGM in group 31 size, rated 100Ah with 925 cold cranking amps and 1110 cranking amps. Interstate claims around three times the service life of conventional flooded batteries and twice that of alloyed lead AGM.\n\nIt sits second because it does two jobs well: deep cycling for house loads and enough cranking power to start an engine. Against the Renogy 200Ah above, it stores half the energy for a similar price, but fits a common group 31 tray and can double as a chassis battery.\n\nBest for Class B and C motorhome owners who want one premium battery that can handle either role. The caveat is value for pure house use: if you never need cranking power, the Renogy or Weize AGMs give more amp-hours per dollar.",
     "specs": [
       "12V 100Ah, group 31",
@@ -83,7 +83,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41bqV6Wt2oL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07SW353M8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07SW353M8?tag=rvgearlab-amz-20",
     "description": "Weize's 100Ah AGM is a straightforward sealed deep cycle battery measuring 12.99 x 6.73 x 8.43 inches. It lists a charging range of 14F to 122F and a discharging range of 5F to 122F, plus a 1100A five-second maximum discharge.\n\nIt undercuts the Interstate above by a wide margin on price for the same 100Ah rating, though it lacks pure lead plates and cranking ratings. Against the Mighty Max below, it is cheaper and lighter in specification, but its warranty is one year versus two.\n\nBest for weekend trailer owners who want a sealed upgrade from a worn stock battery without spending much. The caveat is warranty: one year is short, and Amazon does not process battery returns, so you will deal directly with Weize.",
     "specs": [
       "12V 100Ah, 12.99 x 6.73 x 8.43 in",
@@ -111,7 +111,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41AQrCOTTqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G7LQ87LG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G7LQ87LG?tag=rvgearlab-amz-20",
     "description": "The MM-G31M squeezes 110Ah into a group 31M case measuring 13.00 x 6.81 x 8.35 inches, with 825 CCA and 240 minutes of reserve capacity. Mighty Max publishes up to 700 cycles at 50% depth of discharge and backs it with a two-year warranty.\n\nIt ranks behind the Weize because it costs more, but it offers 10Ah more capacity, a real cycle-life figure, and double the warranty. Compared with the Interstate group 31, it gives more amp-hours for less money, while Interstate wins on pure lead construction and retail support.\n\nBest for travel trailer owners with a group 31 box who want the most sealed capacity without changing trays. The caveat is weight: at about 70.7 pounds, lifting it into a tongue box is a two-person job.",
     "specs": [
       "12V 110Ah, group 31M",
@@ -139,7 +139,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31xlvdaK8VL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C9LYT6NQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C9LYT6NQ?tag=rvgearlab-amz-20",
     "description": "This Renogy two-pack gives you a matched pair of 12V 100Ah AGM batteries, which is the safest way to build a parallel bank since both start with identical age and chemistry. Renogy rates discharge performance from -4F to 140F and covers both batteries with a two-year warranty.\n\nIt ranks below the single Renogy 200Ah because it costs more for the same total capacity and needs extra cabling. The upside versus the single battery is handling: each 100Ah unit is much lighter to install, and the pair fits the dual tray many trailers already have.\n\nBest for travel trailers with two side-by-side battery trays. The caveat is wiring: use equal length cables and connect loads diagonally across the bank so both batteries share the load evenly.",
     "specs": [
       "Two 12V 100Ah batteries",
@@ -167,7 +167,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41fj1LvTddL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CRQSKG3G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CRQSKG3G?tag=rvgearlab-amz-20",
     "description": "Weize's group 24M is a 90Ah dual purpose AGM with 550 CCA and 150 minutes of reserve capacity. Weize recommends charging at 14.4V with up to 15.8A, and backs this model with a two-year warranty.\n\nIt ranks last on capacity, but it is the only pick that fits a group 24 box, which is common on smaller travel trailers and pop-ups. Compared with the Weize 100Ah above, it gives up 10Ah but adds cranking ability and a longer warranty in a smaller case.\n\nBest for owners of compact trailers who cannot fit a group 31. The caveat is runtime: at 90Ah, plan on about 45Ah of usable energy, which is enough for lights and a water pump but not long furnace use.",
     "specs": [
       "12V 90Ah, group 24M",

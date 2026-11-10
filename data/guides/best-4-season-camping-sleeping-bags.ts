@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Sy4lP8B-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F1FJ16DN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F1FJ16DN?tag=rvgearlab-amz-20",
     "description": "TANSTRIDER sizes this bag 86.6 x 31.5 inches for adults, teenagers and children, with a stated comfort range of 32 to 43F and a 3 to 4 season rating. The listing names a waterproof tear-resistant shell, anti-snag two-way zippers and a 5.3 lb weight.\n\nIts comfort range reaches lower than the tuphen, and it prints more detail than the Kanyak's single 32F figure. That makes it the better-documented cool-weather bag, and the flat-open design lets it work as a blanket.\n\nA good pick for families who want one bag that fits teens and adults. Unzip the foot end to vent.",
     "specs": [
       "Comfort 32 to 43F stated",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41i5NRqkeCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FZJDBXCV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FZJDBXCV?tag=rvgearlab-amz-20",
     "description": "TANSTRIDER offers an XXL version measuring 40 x 90 inches, cut for people as tall as 6 ft 7 in. The listing states a comfortable temperature of 36 to 41F and a limit of 18F, along with a draft collar, a zipper windbreak strip, a zipper guard and machine washing.\n\nIt is wider than the standard TANSTRIDER and states a lower limit, which gives it a cold-weather margin the tuphen lacks. A sibling XXL listing states a warmer 41 to 50F band, so check which variant you order.\n\nChoose it for tall or broad campers who want room and a stated limit. Wash it with the lining facing out.",
     "specs": [
       "40 x 90 inch XXL cut",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41IHA+panHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CJ53ZW31?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CJ53ZW31?tag=rvgearlab-amz-20",
     "description": "Kanyak titles this bag 32F for adults, kids and teens and sells it for 3-4 season camping. The listing mentions separate side and bottom zippers that let you vent or open the bag.\n\nIt prints only a 32F figure and little other detail, which makes it the simplest of the four. The TANSTRIDER bags document more, while this one competes on a cold title figure at a low cost.\n\nChoose it for occasional campers who want a basic cool-weather bag. Vent the foot end when nights warm up.",
     "specs": [
       "32F in the title",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41G70u6vjuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0851GVCBX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0851GVCBX?tag=rvgearlab-amz-20",
     "description": "tuphen rates this bag at 5 to 25C, about 41 to 77F, with a comfort range of 17 to 24C. It measures 29.5 x 86.6 inches, has a microfiber liner and a two-way zipper, and packs into a carry bag.\n\nIt costs the least and has the warmest range, so it is the right bag for summer and early fall. Its 4-season title is the least accurate of the group, and a user planning cold nights should choose a TANSTRIDER.\n\nChoose it for summer campers and sleepovers. The microfiber liner wipes clean after a spill.",
     "specs": [
       "5 to 25C rating, 29.5 x 86.6 inch",

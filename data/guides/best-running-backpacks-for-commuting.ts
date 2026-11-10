@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51XbI2jfhWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DXKYXYDQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DXKYXYDQ?tag=rvgearlab-amz-20",
     "description": "The Zelvot 2L vest uses a front chest pack with three waterproof zippered pockets for a phone, keys and gels, made from waterproof, scratch-resistant 900D Oxford fabric. It includes a 2L food-grade BPA and PVC-free bladder with a high-flow bite valve, and widened adjustable shoulder straps and a waist belt.\n\nIt has more weatherproof front storage than the Criuage and NEVO RHINO, so a phone stays dry in a rain commute. The waist belt adds stability that the lighter vests skip.\n\nIt suits runners who commute in wet weather and need a drink and pockets they can reach. The mesh back panel keeps airflow moving.",
     "specs": [
       "2L bladder, bite valve",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ErM79ujhL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DYJBYHTF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DYJBYHTF?tag=rvgearlab-amz-20",
     "description": "The Zelvot Flask vest ships with a 500ml soft flask free of BPA and PVC and has seven front pockets and two large back pockets. It is made of breathable lightweight neoprene with triple-sized ventilation holes and three adjustable chest straps.\n\nIt has far more pockets than the 2L Zelvot and uses a front flask instead of a rear bladder. It stores more small items, such as a card, gels and keys, within reach.\n\nIt suits runners who want quick access to lots of small items and prefer a bottle at the chest. The unisex fit works for many body types.",
     "specs": [
       "500ml soft flask included",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41RPFKEIPKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F313TTNH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F313TTNH?tag=rvgearlab-amz-20",
     "description": "The Criuage vest is a chest pack with a 2.0L PEVA bladder, adjustable chest straps and multiple pockets built for endurance activities. The straps adjust to limit bounce, and the pack carries water and essentials together.\n\nIt matches the Zelvot on bladder size and costs a little less. Against the KUYOU, it lacks an insulated sleeve, and it has fewer details listed.\n\nIt suits runners who want a plain bladder vest with a close fit. The straps customize the fit across torso sizes.",
     "specs": [
       "2.0L PEVA bladder",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ihFj5xnJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09TRBTFG4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09TRBTFG4?tag=rvgearlab-amz-20",
     "description": "The NEVO RHINO is a 12L, 8.5 ounce hydration backpack with a 2L bladder, waterproof and tear-resistant PU-coated nylon and a hose clamp. Shoulder straps adjust from 19 to 34 inches and chest straps from 2.4 to 7.9 inches, with a bidirectional main zipper pocket for the bladder.\n\nIt is the lightest here and has the biggest volume at 12L. Compared with the Zelvot 2L, it is a true backpack shape, so it holds a light shirt.\n\nIt suits commuters who need a small backpack shape for a change of clothes. The multi-adjustable straps handle many sizes.",
     "specs": [
       "12L, 8.5 oz",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41FeHhgBU1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FB3GFW4Z?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FB3GFW4Z?tag=rvgearlab-amz-20",
     "description": "The Maelstrom hydration vest weighs 1.1 pounds in total, with four storage pockets and an aluminum-lined bladder sleeve for a 2L PEVA bladder. External clips hold a cycling helmet, and reflective strips add visibility, with chest straps adjusting from 22.4 to 61 inches.\n\nIt is the pick for people who both run and bike to work, with helmet clips the others lack. It has the widest strap range listed, so it fits almost any body.\n\nIt suits multi-sport commuters who cycle some days. The aluminum-lined sleeve helps keep water cool.",
     "specs": [
       "1.1 lb, 4 pockets",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41TnPYxKbbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01C5O9T50?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01C5O9T50?tag=rvgearlab-amz-20",
     "description": "The KUYOU vest has an insulated compartment for a 2L BPA-free PEVA bladder, two elastic shoulder pockets for 500ml bottles and breathable mesh straps. Front and back reflective strips and an emergency whistle add safety.\n\nIt has the lowest price and an insulation sleeve the Criuage skips. Compared with the Maelstrom, it adds the whistle and two bottle pockets.\n\nIt suits budget commuters who run before dawn or after dark. The secure clip keeps the hose in place.",
     "specs": [
       "2L bladder, insulated sleeve",

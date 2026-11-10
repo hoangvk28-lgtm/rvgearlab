@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41k-Ktv32XL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07MG54R6F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07MG54R6F?tag=rvgearlab-amz-20",
     "description": "GLACIER FRESH is the only pick that puts a chlorine number on the listing: independent laboratory testing is cited for 97.9% chlorine removal, with a stated 20-micron rating. It uses GAC and KDF in a food-grade plastic housing and ships as a two-pack with a hose protector.\n\nAgainst Camco Tastepure XL below, it offers a specific percentage, while Camco offers a certification standard instead. The asterisks on the claim mean you should read the fine print before treating the figure as universal.\n\nIt suits anyone who wants a chlorine figure in writing and a spare filter. The percentage depends on the test conditions, so use it as a guide, not a guarantee.",
     "specs": [
       "97.9% chlorine claim",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51127i5vSnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07B2LPLBQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07B2LPLBQ?tag=rvgearlab-amz-20",
     "description": "Camco's XL version claims twice the filtration power of the standard Tastepure, with six-step Hex-Flow design and GAC with KDF. The listing says it is tested and listed to NSF/ANSI 42 and 53, with CSA lead-free certification to 372.\n\nBeside GLACIER FRESH above, you trade the percentage claim for named NSF standards, and the XL body gives longer life at a higher price per unit. Compared with Camco Tastepure below, the XL is the better fit if you run through a lot of water.\n\nIt works best for families or full-timers filling tanks often. The listing does not itemize the chlorine reduction rate, so the standard 42 listing is the evidence to rely on.",
     "specs": [
       "NSF/ANSI 42 and 53",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41EqNnGDqfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DR2J7QXD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DR2J7QXD?tag=rvgearlab-amz-20",
     "description": "Filterelated is a three-stage canister system with 3/4 brass fittings: a 1-micron sediment filter, a 5-micron compressed activated carbon block, and a granular activated carbon stage. The listing says the carbon stage can reduce up to 99% of chlorine.\n\nThe tradeoff against the hose filters above is cost and bulk, in return for three replaceable cartridges and a prefilter that protects the carbon. It pairs better with the Camco Tastepure below if you want a hose filter as a backup.\n\nGood for long stays where you can mount a housing. The listing names no NSF certification, so the 99% figure is a manufacturer claim.",
     "specs": [
       "1-micron sediment stage",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51snwG3Z8zL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0006IX87S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0006IX87S?tag=rvgearlab-amz-20",
     "description": "The standard Camco Tastepure uses GAC and KDF in a six-step design, listed to NSF/ANSI 42 and 53 with 372 lead-free certification. The listing says it reduces taste, odor, chlorine and sediment.\n\nAgainst Camco Tastepure XL above, it is the smaller, cheaper body with the same standards, so you replace it more often. Compared with Hourleey below, it has the stronger certification paper trail.\n\nIt is the sensible default for weekend campers. Capacity is not given as a number on the listing, so rely on the three-month replacement habit.",
     "specs": [
       "NSF/ANSI 42 and 53",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41HLIcYCHtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CBJZ4238?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CBJZ4238?tag=rvgearlab-amz-20",
     "description": "Hourleey sells two inline filters using GAC with KDF to reduce taste, odor, chlorine and sediment. The housing is food-grade plastic that is described as reinforced, and each filter is rated for about a camping season of up to three months.\n\nAgainst GLACIER FRESH above, it gives no chlorine percentage, and against Camco Tastepure it lists no certification. What it offers is two filters and flexible hoses for a low price.\n\nIt is fine for occasional campers who want a spare. Treat chlorine claims as general, since no test result is shown.",
     "specs": [
       "GAC and KDF media",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51CY82OVmiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BX8M7G8N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BX8M7G8N?tag=rvgearlab-amz-20",
     "description": "Beckacher states a capacity of 1,350 gallons over three months, with GAC and KDF to reduce taste, odor, chlorine and sand. It is lead-free and BPA-free by its own listing and goes on by hand in about five minutes.\n\nCompared with Hourleey above, it adds a gallon figure, which makes planning easier. Against Camco Tastepure, it lacks named certifications.\n\nChoose it if you want the stated gallon rating and a spare filter at low cost. No micron or flow rate is stated, so expect a basic taste filter.",
     "specs": [
       "1,350 gallon rating",

@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41BKWxxQd0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CRBMP769?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CRBMP769?tag=rvgearlab-amz-20",
     "description": "The Suburban ST-42 is a 42,000 BTU tankless heater whose listing details flame out protection, an internal high-temperature scald kill switch and a child lock that holds outlet temperature to 113 F. It also lists active freeze protection and voltage protection.\n\nCompared with the Garvee and RecPro units, it is the best documented on family-oriented safeguards, and it comes from a long-standing RV water heater maker. It only fires burners when water is drawn, which is the energy-saving point of a tankless design.\n\nBest for families who want child lock and scald protection. It also suits buyers who prefer a familiar brand.",
     "specs": [
       "Flame out protection",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41uwa3WOjCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B019BWN8E2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B019BWN8E2?tag=rvgearlab-amz-20",
     "description": "The GIRARD tankless RV water heater is a 42,000 BTU unit with a quiet brushless motor that runs on 12V power under three amps. An onboard microprocessor monitors incoming temperature, flow and outgoing temperature to keep output steady.\n\nIt adds a digital control panel with 95 to 124 F adjustment and a Fahrenheit and Celsius toggle. The listing says it uses half the LP gas of a six-gallon tank heater for the same hot water.\n\nA great fit for travelers who want steady temperature and fuel savings. It also suits owners who value low noise.",
     "specs": [
       "12V under 3 amps",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31-8nvcrXZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CZS5KT3J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CZS5KT3J?tag=rvgearlab-amz-20",
     "description": "The RecPro RV Tankless Gas Water Heater is a 42,000 BTU unit offered in two door sizes, 15 by 15 inch or 18 by 18 inch. It has a copper heat exchanger, automatic ignition and low water pressure startup.\n\nIt adds wired controllers with fault auto-diagnosis and code display, a speed-changing function for different flow rates and wind resistance for outdoor use. Choosing the door size that matches your cutout keeps the install simple.\n\nBest for owners who need the 18 inch door option or want fault codes. It also suits those replacing an older tank heater.",
     "specs": [
       "42,000 BTU gas heater",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31NpW+YHeIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HFWLWH67?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HFWLWH67?tag=rvgearlab-amz-20",
     "description": "Garvee's 42,000 BTU model offers low-flow ignition at a minimum of 0.74 GPM and a water pressure range of 14.5 to 100 psi. It lists six safety features: overheat protection, overpressure relief, flame failure protection, anti-freeze protection, flue blockage protection and an ignition failure alarm.\n\nIt costs well below the Suburban ST-42 and still adds an anti-freeze function that starts below 42 F. Temperature adjusts from 95 to 123 F.\n\nA strong pick for budget upgrades from a tank heater. It also suits anyone who wants the longest safety list at the lowest price.",
     "specs": [
       "Six safety features",

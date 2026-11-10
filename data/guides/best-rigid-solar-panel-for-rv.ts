@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/310PuU3YOmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DMT2WTC8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DMT2WTC8?tag=rvgearlab-amz-20",
     "description": "The Renogy ShadowFlux is a 200W N-type panel with 16BB cells, anti-shading technology and an IP67 or better rating. The listing says it is 7% smaller and 10% more compact than earlier models, priced at $184.67.\n\nIt costs $32.68 more than the Renogy 200W N-Type and $44.68 more than AeternaSol, and the extra buys shade tolerance, which matters under roof vents and AC units. Pick this if partial shade is unavoidable on your roof. Caveat: weight is not listed.",
     "specs": [
       "200W N-type, 16BB cells",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/414ARZAI9kL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08CRJYJ22?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08CRJYJ22?tag=rvgearlab-amz-20",
     "description": "This Renogy 200W N-type panel uses 16BB cells with 25% claimed cell efficiency and operates at 24V, which cuts current loss in long wire runs. It is 7.5% smaller and 11.7% lighter than previous models for $151.99.\n\nIt saves $32.68 over the ShadowFlux but has no anti-shading feature, and it costs $12.00 more than AeternaSol. Pick this if your controller accepts 24V input and you want a known brand. Caveat: a 24V panel needs a controller that handles it, so check before buying.",
     "specs": [
       "200W N-type, 24V",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Sc8-xy10L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G58HWV72?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G58HWV72?tag=rvgearlab-amz-20",
     "description": "The AeternaSol is a 200W N-type 12V panel with 25.6% claimed efficiency, 18BB cells and an IP68 junction box. Its slim frame measures 56.7 inches long and it sells for $139.99.\n\nIt is $12.00 below the Renogy 200W N-Type and $44.68 below ShadowFlux, and it has the highest claimed cell efficiency of the four. Against JJN it costs the same but is not bifacial. Pick this if you want a 12V panel at a low price. Caveat: the brand is newer and warranty terms are not listed.",
     "specs": [
       "200W N-type, 12V",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51tx0Y1lbKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DHZBLZSV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DHZBLZSV?tag=rvgearlab-amz-20",
     "description": "The JJN is a 200W bifacial panel with a transparent backsheet, 16BB N-type cells claiming 25% efficiency, a black corrosion-resistant aluminum frame and pre-drilled mounting holes. It weighs just 24.3 pounds and costs $139.99.\n\nIt matches AeternaSol on price, and bifacial output only helps if light reflects onto the rear, which a flat RV roof rarely provides. Against Renogy ShadowFlux it saves $44.68. Pick this if weight matters or you mount the panel on a tilt stand. Caveat: do not count on extra rear-side power on a flat roof.",
     "specs": [
       "200W bifacial N-type",

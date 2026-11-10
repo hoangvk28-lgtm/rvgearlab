@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31lCG0cHG6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00GLNXC28?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00GLNXC28?tag=rvgearlab-amz-20",
     "description": "The Fruit of the Loom CoolBlend Hi-Cut comes as a four-pack with moisture-wicking CoolBlend fabric and a soft microfiber leg and waistband. The hi-cut shape sits high on the hip.\n\nAgainst the Fruit of the Loom CoolBlend Bikini, it has a higher leg line for more freedom at the hip. Compared with the BAMBOO COOL, it comes as a multipack at a lower price.\n\nIt suits walkers who want an affordable, wicking pack that is easy to rotate. The soft edges are meant to sit gently under leggings.",
     "specs": [
       "CoolBlend moisture wicking",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31b2R92yKDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01JM77RWK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01JM77RWK?tag=rvgearlab-amz-20",
     "description": "The Fruit of the Loom CoolBlend Bikini offers the same four-pack, CoolBlend wicking fabric and soft microfiber leg and waistband in a bikini shape. The listing notes plus sizes are available.\n\nCompared with the Hi-Cut, it sits lower on the hip with a classic bikini coverage. Against the BAMBOO COOL, it uses a wicking blend rather than a plant-fiber brief.\n\nIt suits walkers who prefer a lower rise that stays out of the way under shorts. Plus sizes extend the range.",
     "specs": [
       "CoolBlend moisture wicking",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31HZE0Su3NL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DB59FQ6D?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DB59FQ6D?tag=rvgearlab-amz-20",
     "description": "The BAMBOO COOL High-Waist Brief is a high-waisted brief that sits above the belly button with moderate tummy support and full seat coverage. The fabric is described as soft, breathable and moisture-wicking, with a tag-free design.\n\nAgainst the Fruit of the Loom picks, it offers more coverage and a higher waistband. Compared with the READY TO LOVE, it focuses on wicking comfort rather than a lace look.\n\nIt suits walkers who like a high waist that stays in place under leggings. The tag-free design avoids labels rubbing.",
     "specs": [
       "High-waist brief",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Jpy5kCfOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GSJ2Z1WW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GSJ2Z1WW?tag=rvgearlab-amz-20",
     "description": "The READY TO LOVE Lace Cotton is a pack of lace-trimmed cheeky bikinis in 95 percent cotton and 5 percent elastane. The fabric is described as lightweight, ultra-soft and breathable.\n\nCompared with the BAMBOO COOL, it uses cotton instead of a wicking brief. Against the Fruit of the Loom picks, it adds lace details and a cheeky cut.\n\nIt suits casual walks, travel days and sleep, where cotton softness matters more than sweat management. The listing is plus-size inclusive.",
     "specs": [
       "95% cotton, 5% elastane",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31vdfYO-2IL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B088H5DWV3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B088H5DWV3?tag=rvgearlab-amz-20",
     "description": "The WEERTI Thermal Set is a fleece-lined long johns set with a top and bottom in four-way stretch fabric. The listing describes it as lightweight, fitted, dry and odor-resistant.\n\nCompared with the Fruit of the Loom picks, it covers the whole leg and torso for winter walks. Against the BAMBOO COOL, it is a base layer rather than a brief.\n\nIt suits winter walkers who need a warm layer under pants. It also works as a camp or sleep layer.",
     "specs": [
       "Fleece-lined top and bottom",

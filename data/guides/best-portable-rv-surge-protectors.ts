@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410Z5nA8S4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01N0W4CZ8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01N0W4CZ8?tag=rvgearlab-amz-20",
     "description": "Rated 30 amp, 120V and 3,600W, the EMS-PT30X soaks up 1,790 joules and pairs that with an electrical management system. Its watch list covers voltage swings, ground and neutral faults, reversed polarity, a miswired pedestal, accidental 240V and frequency drift.\n\nIt lists the broadest fault list of the four and adds thermal protection, a weather shield and a display readable in low light. It costs the most of the group.\n\nIt suits a 30A owner who wants the strongest fault detection in a portable body. The weather shield keeps rain off the display.",
     "specs": [
       "30A, 3,600W, 1,790J",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41xaBDuq-yL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B015Y9A4HU?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B015Y9A4HU?tag=rvgearlab-amz-20",
     "description": "The SSP-50XL is a portable smart surge protector for 50 amp, 120-240V service with 12,000W capacity and 1,650 joules. Alerts cover high or low voltage, ground and neutral faults, polarity reversal and surge failure, with AC frequency protection.\n\nIt is the only 50A pick here, and it costs far less than the 30A EMS unit. Its fault list is shorter than the EMS-PT30X.\n\nIt suits a 50A coach owner who wants a Progressive-made portable unit at a modest price. Frequency monitoring is part of the package.",
     "specs": [
       "50A, 12,000W, 1,650J",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41T7u17wX+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B015Y9MX38?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B015Y9MX38?tag=rvgearlab-amz-20",
     "description": "The SSP-30XL is a portable smart surge protector rated 30 amp, 120V and 3,600W, absorbing 825 joules. Its warnings include voltage swings, ground and neutral faults, polarity reversal, surge failure and frequency issues.\n\nIt is the lowest priced Progressive of the three and has the lowest joule rating. It gives less than the EMS-PT30X in fault depth.\n\nA 30A camper wanting a trusted brand at a small price is the target. The unit adds frequency protection beyond basic surge control.",
     "specs": [
       "30A, 3,600W, 825J",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41NU4tSRcLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B38DJ5Z9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B38DJ5Z9?tag=rvgearlab-amz-20",
     "description": "The GEARGO lists 12,000 joules with a circuit analyzer for wiring faults, V-1 flame-retardant material and an IP68 waterproof cover. It has ergonomic grip handles and a right-angle connector, plus a 3-year warranty.\n\nThe lowest price of the four goes with the highest joule figure among the 30A units. The orange body is easy to spot in the dark.\n\nA 30A camper wanting a visible, waterproof unit at a low price is the target. The analyzer checks the pedestal.",
     "specs": [
       "12,000J, IP68, analyzer",

@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51KrrFrL8ML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DMSRNYK7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DMSRNYK7?tag=rvgearlab-amz-20",
     "description": "The Genkins 8000W lists 8,000 peak and 6,500 rated watts from a 327 cc engine at 2 percent THD or less, a 4 gallon tank claimed at 8 hours at 50 percent load and 16 hours at 25 percent, and 62 dBA at 23 feet. Outlets are one 240V L14-30R, one 120V L5-30R and two 120V 5-20R. It weighs 112 lb with a telescoping handle and two never-flat tires, with electric start and a digital display.\n\nIt ranks first because it combines 6,500 running watts, a published 62 dBA figure and both a 240V and a 30A 120V outlet at $839, which is $19.01 above the LIFAN 6900 and $289.01 above the GENMAX 6000. By our arithmetic 6,500 watts is about 27.1 amps at 240V. Against the WEN GN875i it costs $60.99 less, runs enclosed and quieter, but has 500 fewer rated watts.\n\nPick it if your 240V need is a well pump, a small shop compressor or a transfer switch inlet and you care about noise. The caveat is that the 240V outlet is listed as an L14-30R only, so a 50A inlet needs a different unit.",
     "specs": [
       "6,500W rated, 8,000W peak",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ierJJE1zL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09QG1QQ5V?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09QG1QQ5V?tag=rvgearlab-amz-20",
     "description": "The GENMAX GM6000XiE lists 6,000 peak and 5,250 rated watts from a 312 cc engine at under 3 percent THD. Its covered outlets include a 120/240V 30A locking outlet (L14-30R) and 120V receptacles, and it has electric start with a battery and cold start technology, a steel handle and two wheels, and a claim of up to 9 hours at 50 percent load on a 3.8 gallon tank. The listing gives its weight as 106.9 lb.\n\nIt ranks second because it is the cheapest 240V pick at $549.99, $270.00 below the LIFAN 6900 and $289.01 below the Genkins 8000. By our arithmetic its 5,250 watts is about 21.9 amps at 240V, the lowest here, and it is an open frame design with no stated noise figure. It does make a 240V outlet affordable.\n\nChoose it if you want a 240V outlet at the lowest price for a small pump or a transfer switch circuit that draws well under 5,000 watts. The caveat is that open frame operation is louder and no dBA figure is given.",
     "specs": [
       "5,250W rated, 6,000W peak",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41cSLWZ-FfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08STWSWLH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08STWSWLH?tag=rvgearlab-amz-20",
     "description": "The WEN GN875i lists 8,750 surge and 7,000 rated watts from a 420 cc engine. It has four 120V NEMA 5-20R receptacles, two 5V USB ports, one 120V/240V transfer-switch-ready L14-30R twist lock and one 120V TT-30R RV outlet, with electric start, a 4.2 gallon tank claimed at 6.7 hours at half load and a body the listing says weighs 30 percent less than a traditional 8,750 watt unit.\n\nIt ranks third because it offers the highest rated watts under $900 at $899.99, with 7,000 rated watts or about 29.2 amps at 240V by our arithmetic. That is $60.99 above the Genkins 8000, with 500 more rated watts, but it is open frame and no noise figure is listed, and the 4.2 gallon tank runs 6.7 hours at half load, shorter than the Genkins 8 hours.\n\nChoose it if you need both a 240V twist lock and a TT-30R RV outlet at one price. The caveat is the open frame noise and no stated warranty term in the feature text.",
     "specs": [
       "7,000W rated, 8,750W surge",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51nt2LhZpUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GFNBRFTC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GFNBRFTC?tag=rvgearlab-amz-20",
     "description": "The LIFAN 6900W lists 6,900 peak and 5,500 rated watts from a 312 cc engine, with a 120V/240V 23A twist lock outlet, two 120V 20A household outlets and USB ports. It is a fully enclosed design with a 62 dB figure at 25 percent load, ECO mode, pure sine wave under 3 percent THD and a key fob that starts it from up to 50 ft. The listing calls the twist lock transfer switch ready.\n\nIt ranks fourth because the 240V outlet is a 23A twist lock rather than a 30A, which is consistent with its 5,500 rated watts and about 22.9 amps at 240V by our arithmetic. At $819.99 it costs $270.00 more than the GENMAX 6000, and $80.00 less than the WEN GN875i with 1,500 fewer rated watts. In exchange for those watts you get an enclosed case and a remote start.\n\nPick it if you want an enclosed, quieter mid-size unit with remote start for a home inlet. The caveat is that a 23A inlet on your transfer switch may not match, so check the connector before ordering.",
     "specs": [
       "5,500W rated, 6,900W peak",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41gCtK8K3IL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C8W2QLLM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C8W2QLLM?tag=rvgearlab-amz-20",
     "description": "The Pulsar 7,250 lists gasoline output of 7,250 peak and 6,000 running watts and propane output of 6,500 and 5,500, supports 120 and 240 volt output, and carries an L14-30R 120V/240V outlet, a TT-30 RV outlet, two GFCI 5-20R outlets and USB A and C ports. It has a 312 cc engine with an enclosed frame, parallel capability, remote, electric and recoil start, a digital display and CO detection.\n\nIt ranks fifth because at $1,198.95 it costs $298.96 more than the WEN GN875i and does not publish runtime or noise, but it is the only unit here with propane operation at 240V (5,500 watts, about 22.9 amps by our arithmetic) and a parallel option. Compared with the Genkins 8000 it costs $359.95 more and lists 500 fewer running watts.\n\nChoose it if you need propane as a 240V fuel and may want to parallel a second unit later. The caveat is the missing runtime and noise numbers.",
     "specs": [
       "6,000W gas, 5,500W propane",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51qEoNR3TeL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G2MX6PCR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G2MX6PCR?tag=rvgearlab-amz-20",
     "description": "The WEN TF1300iX lists 13,000 surge and 10,500 running watts on gasoline, 11,250 and 9,000 on propane and 10,000 and 8,000 on natural gas from a 550 cc engine. It has a bonded-neutral 120V/240V configuration the listing calls suited to transfer switches, emergency backup and Level 2 charging for battery and hybrid electric vehicles, and outlets include a 14-50R, an L5-30R, a 10-50R, two 5-20R, 12V DC and USB. The 7.1 gallon tank is claimed at 7.7 hours at half load.\n\nIt ranks last because at $2,299 it is $1,100.05 above the Pulsar 7250 and the half-load runtime of 7.7 hours is modest for the tank. Its case rests on the highest running watts (about 43.8 amps at 240V on gasoline by our arithmetic) and the explicit bonded-neutral statement, which none of the other listings make.\n\nChoose it if you plan to charge an electric vehicle at 240V or feed a whole-home transfer switch. The caveat is price and that EV charging draws near the full rating for hours, so run it at a modest load.",
     "specs": [
       "10,500W gas, 8,000W natural gas",

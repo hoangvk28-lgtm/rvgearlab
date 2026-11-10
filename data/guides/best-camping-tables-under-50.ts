@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41PP3ImkUpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CQYJV24G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CQYJV24G?tag=rvgearlab-amz-20",
     "description": "The Titanker 2ft opens to 24.4 by 16.3 inches at 20.9 inches high and folds to 12.2 by 16.3 by 2.7 inches. It is 90 percent aluminum with a density-board top, weighs about 6 lb and adds side racks and a storage net for 50 percent more storage.\n\nAt about $32 it sits just above the hediya two-pack and gives the largest single top in this guide. Compared with the Grope, it weighs more and adds racks and a net, so cups and snacks have a place that is not the tabletop.\n\nIt suits two to four people who want one sturdy table for cards, coffee and a stove. The folded slab slips behind a seat or into a trunk.",
     "specs": [
       "24.4 by 16.3 inch top, 6 lb",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41N1pVSIsWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GVN9HJG6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GVN9HJG6?tag=rvgearlab-amz-20",
     "description": "The WildFinder is a 2 by 1.3 foot grill table with three heights of 10.2, 19.6 and 27.5 inches and a heat-resistant metal mesh top. It has a triangular frame with non-slip feet and unfolds in seconds without tools.\n\nAt about $30 it costs less than the Titanker 2ft and adds height adjustment that the Titanker 2ft lacks. The top is smaller than the Titanker's, so it suits a stove or small grill more than a dinner spread.\n\nIt suits campers who want one table for a stove at ground level and a prep surface at standing height. The mesh top handles hot pots.",
     "specs": [
       "10.2, 19.6 or 27.5 inch heights",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41LYTJB4INL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GCDTYX7V?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GCDTYX7V?tag=rvgearlab-amz-20",
     "description": "The hediya set includes two aluminum folding tables, each weighing 2.46 lb with a 16.5 by 13.9 inch top. Triangular support structures and 14 mm legs hold each table, and each sets up without tools.\n\nAt about $30 for two tables it works out to $15 each, below the Titanker 2ft. Two tables can sit side by side for more room, which a single table cannot do.\n\nIt suits families who want a spot beside each chair. The two together weigh less than one larger table.",
     "specs": [
       "Two tables, 2.46 lb each",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41B9i3NSgIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GTVKNSJW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GTVKNSJW?tag=rvgearlab-amz-20",
     "description": "The Opliy pair uses a titanium-coated steel alloy at 2.64 lb each with 14 mm legs and a 17 mm frame, rated to hold 75 lb. Each table unfolds to 15.7 by 13.8 by 11.8 inches and folds to 15.8 by 6.7 by 6.7 inches with a carry bag.\n\nAt about $30 it costs the same as the hediya and sits lower at 11.8 inches, which pairs with low backpacking chairs. The waterproof, scratch-resistant top wipes clean after sauce or sand.\n\nIt suits campers who sit low and want a table that fits their chair height. The pair fits under a car seat.",
     "specs": [
       "2.64 lb each, holds 75 lb",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41OeGXi70EL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07V2NWMRR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07V2NWMRR?tag=rvgearlab-amz-20",
     "description": "The Grope is an aluminum folding table with a painted waterproof top, a hinge design with foot caps and a carry bag. The small size weighs 1.88 lb and sets up without tools.\n\nAt about $21 it is the cheapest table here and the lightest of the group. It gives up the side racks of the Titanker 2ft and the height options of the WildFinder.\n\nIt suits solo campers and hikers who want a quick side table. It also works at the beach.",
     "specs": [
       "1.88 lb aluminum, small size",

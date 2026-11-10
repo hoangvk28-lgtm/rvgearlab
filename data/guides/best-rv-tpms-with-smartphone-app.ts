@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31l-ZjSepNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FS9TYB6R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FS9TYB6R?tag=rvgearlab-amz-20",
     "description": "Schrader's AirCheck BLE retrofit kit has two internal sensors, a long-range extender and a smartphone app. Schrader's AirCheck BLE retrofit kit includes two clamp-in internal Bluetooth sensors and a long-range signal extender, with smartphone monitoring aimed at single-axle trailers. The listing gives a 738 ft extender range.\n\nIt has a stated 738 ft extender range, unlike the B-Qtech kits, but covers only two sensors. It reports battery status to the app.\n\nBest for a single-axle trailer that can accept internal sensors. It covers a single axle, so add sensors for more wheels.",
     "specs": [
       "2 internal BLE sensors + extender",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41F+mI2MZIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H5QNXV4K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H5QNXV4K?tag=rvgearlab-amz-20",
     "description": "B-Qtech's six-sensor kit offers switchable 2, 3, 4 and 6 wheel modes in its Bluetooth app. B-Qtech's six-sensor Bluetooth TPMS sends pressure and temperature to a phone app and offers switchable 2, 3, 4 and 6 wheel modes with a 0 to 95 psi range. The external sensors are IP67 rated and the listing mentions replaceable batteries.\n\nIt handles more wheels than Schrader AirCheck Kit and costs far less. Its 95 psi ceiling is low.\n\nBest for a six-tire rig with moderate pressure. The 95 psi ceiling needs checking against your tires.",
     "specs": [
       "6 external sensors, Bluetooth app",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41TjngG242L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GXSLWZ51?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GXSLWZ51?tag=rvgearlab-amz-20",
     "description": "AotuLink's Bluetooth 5.0 TPMS lets the app switch pressure units between PSI, kPa and bar. AotuLink's TPMS uses Bluetooth 5.0 and app control with IP67 external sensors and unit switching between PSI, kPa and bar. The listing describes broad vehicle compatibility including RVs.\n\nIt has unit switching that B-Qtech BT 6-Sensor does not describe. Its sensor count is not in the headline.\n\nBest for a driver who wants unit flexibility. Confirm the sensor count for your wheels before ordering.",
     "specs": [
       "Bluetooth 5.0, app control",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41JrUzVaVCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G42G9GNP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G42G9GNP?tag=rvgearlab-amz-20",
     "description": "Easesuper's TPMS uses an app with custom thresholds and real-time alerts for pressure, leak, temperature and battery. Easesuper's Bluetooth TPMS connects through a mobile app for real-time tire status and custom thresholds, with notifications for pressure, leak, temperature and low battery. The listing says it works with iOS and Android.\n\nIt costs less than AotuLink Bluetooth TPMS and states little on sensor count. It supports iOS and Android.\n\nBest for a low-cost app trial. The listing is thin on sensor count and range, so confirm both with the seller.",
     "specs": [
       "Bluetooth app TPMS",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/419KtvIMOkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GYR9XDZS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GYR9XDZS?tag=rvgearlab-amz-20",
     "description": "Hyphoon's TPMS is a motorcycle set with two external sensors and the Spedal Link app. Hyphoon's TPMS is listed for motorcycles and includes two compact external valve sensors that report front and rear pressure and temperature to the Spedal Link app over Bluetooth. Custom limits and fast-leak reminders are listed.\n\nIt costs more than Easesuper BT, monitors only two wheels and is sold for motorcycles. It does not suit a multi-wheel RV.\n\nBest only for a motorcycle. It is a motorcycle product, so it does not cover a multi-wheel RV.",
     "specs": [
       "Two external sensors, Bluetooth app",

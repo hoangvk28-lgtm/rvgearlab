@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ZxachS9EL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09KRQRRFL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09KRQRRFL?tag=rvgearlab-amz-20",
     "description": "The Glocusent 106 lists a true IP68 waterproof rating, 1200 lumens from 106 LEDs and five brightness levels. It has a 5000mAh battery that charges over USB-C, three color temperatures (3000K, 4000K and 6000K) and an SOS mode.\n\nIt has the highest water rating of the four, which sits two steps above the IP44 claims of the Wondrastical, AYL and Tubicen. It is also far more compact, at 2.2 x 2.2 x 5.6 inches and 8.5 ounces.\n\nIt suits kayak trips, rainy-season campers and anyone who wants a lantern that tolerates immersion. The USB-C port charges from a power bank or a small solar panel.",
     "specs": [
       "IP68 rating, 1200 lumens",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/413XCSzVJTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09YT5D357?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09YT5D357?tag=rvgearlab-amz-20",
     "description": "The AYL lists 1800 lumens from 46 LED bulbs, a 4400mAh battery that serves as a power bank and IP44 protection. Four light modes cover daylight, warm light, both and flash, all dimmable.\n\nIt has the most light of the four, 600 lumens above the Glocusent 106 Lantern. It also gives the phone-charging role that the Wondrastical and Tubicen do not list.\n\nIt suits car campers and storm-prep kits that need a bright lantern plus a charger. A slip-proof handle makes hanging simple, and it stays at home on a covered porch.",
     "specs": [
       "1800 lumens, 46 LEDs",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51+3xB0UirL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DQW32H2M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DQW32H2M?tag=rvgearlab-amz-20",
     "description": "The Wondrastical pair gives each lantern a 1200mAh battery that charges in 2.5 hours and runs up to 10 hours. Four modes mix a flickering flame effect with warm, neutral and cold white, and a remote sets timers such as dusk-on and dawn-off.\n\nIt is the only pick with a remote control and a flame mode, which turn it into a patio light rather than a work light. The ABS body carries an IP44 rating for porch hooks, branches and pergolas.\n\nIt suits campers who want atmosphere around a site or a porch more than raw output. A bronze vintage look finishes the style.",
     "specs": [
       "IP44, 1200mAh, 2.5 hour charge",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41wiTuPTp-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DT1196ZX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DT1196ZX?tag=rvgearlab-amz-20",
     "description": "The Tubicen is a cordless outdoor table lamp with a nickel-finish metal body and frosted shade, sized 4.5 inches across and 8.7 inches tall. Its 4000mAh battery gives up to 80 hours at minimum brightness, and the IP44 rating gives splash protection.\n\nFour-level touch dimming with memory (100, 50, 15 and 5 percent) gives a smoother glow than the fixed modes on the AYL 1800LM Lantern. It uses a 3000K warm glow, which suits dining outside better than the daylight modes of the others.\n\nIt suits glampers and RV owners who want a table light that looks at home on a picnic table or patio. A no-slip handle lets it move from the table to the tent.",
     "specs": [
       "4000mAh, 80 hours at lowest",

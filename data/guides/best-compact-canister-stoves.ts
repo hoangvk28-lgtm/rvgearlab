@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31-9oVajyIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09S5Y9J6C?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09S5Y9J6C?tag=rvgearlab-amz-20",
     "description": "The CAMPINGMOON XD-2F has a built-in pressure regulator that keeps gas flow steadier as the canister drains, and it puts out up to 3.3 kW. It connects to isobutane backpacking canisters with a Lindal valve and has a piezo igniter.\n\nFour detachable pot arms form a broad platform, and a raised burner rim shields the flame in a breeze. Compared with the THTYBROS 3000W it adds the regulator and a stainless steel build, and it comes with a storage case.\n\nA smart buy for backpackers and car campers who simmer and want even heat as the canister empties. The pot support detaches to pack flat.",
     "specs": [
       "3.3 kW, built-in regulator",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41SDjzWzfTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F1M9BZC1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F1M9BZC1?tag=rvgearlab-amz-20",
     "description": "The THTYBROS is a 3,000 W canister stove on an aircraft-grade aluminum base with a honeycomb windproof mesh. It folds to 4 by 5 by 8 cm and takes 7/16 threaded EN417 butane or butane-propane canisters.\n\nIt is smaller and cheaper than the CAMPINGMOON XD-2F and lacks a regulator. A 9.5 cm burner head holds pots near 20 cm across.\n\nGood for budget hikers who want a back-up burner or a stove for kids' trips. A twin-pack option is offered.",
     "specs": [
       "3,000 W, 9.5 cm head",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51MzUmOLIuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CW6KRZD7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CW6KRZD7?tag=rvgearlab-amz-20",
     "description": "The Facitsolvit lists 6,800 W from three brass burners and says it boils 1 liter in under 2 minutes. It takes isobutane, butane and 1 lb propane tanks, and a 50 cm hose keeps the canister back from the flame.\n\nThat hose and the three sturdy feet make it a stove for group cooks rather than a pocket burner like the THTYBROS. The serrated pot support is rated for a 10 kg load, and a windproof shield is built in.\n\nFits families and small groups who want a quick boil and fuel flexibility in a foldable body. A one-year warranty is included.",
     "specs": [
       "6,800 W, three brass burners",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41geZ6TszVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GXVX9TVL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GXVX9TVL?tag=rvgearlab-amz-20",
     "description": "The sengmate packs a 3-ring burner rated at 20,500 BTU with a wind-resistant ring and a vented base. It fits cookware from 2.4 to 13.8 inches across and includes a stand for small pots such as moka pots.\n\nUnlike the screw-on picks, it comes with a 1 lb propane adapter and works with isobutane canisters too. It is the widest-range cooker in this list.\n\nA good answer for RV and picnic cooks with big pans who still want a compact build. Fuel canisters are not included.",
     "specs": [
       "20,500 BTU, 3-ring burner",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41XqM5TM8eL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CR4W66C3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CR4W66C3?tag=rvgearlab-amz-20",
     "description": "The Odoland Heat Exchanger Kit pairs a 1,300 W canister stove with 0.6 and 0.8 liter pots, a canister stabilizer, a 16 ounce mug and a utensil set. The whole system weighs 660 grams and packs to about 4.9 by 6.6 inches.\n\nIts heat exchanger pots are claimed to boil 0.5 liter in about 2 minutes. The stove is lower in power than every other pick, and this is the only pick sold with pots.\n\nA tidy start for backpackers who want a complete small kit. The mesh bag keeps it together.",
     "specs": [
       "1300 W stove, two pots",

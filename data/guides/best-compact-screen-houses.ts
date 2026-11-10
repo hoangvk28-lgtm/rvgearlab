@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51rxYh+Ct9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GC546BN4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GC546BN4?tag=rvgearlab-amz-20",
     "description": "The Lenotos 6x6 Screen House is a pop-up with a 6.5 ft interior height and a unique folding mechanism for roughly one-minute setup. It folds into a 27 inch disc just 2 inches thick and includes eight stakes, four sandbags and eight guylines.\n\nIt has the best anchoring kit of the four and a one-minute pitch against the MAIZOA's ten, plus dual zipper doors and gear hooks inside. The MAIZOA 8x7 Screen House gives more floor, while the SMOOTOR Screen House needs no stakes at all.\n\nIt suits campers and patio owners who want a slim, fast, wind-ready room for two or three. Its dual-layer walls add closable windows for privacy.",
     "specs": [
       "6 x 6 ft, 6.5 ft high",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51x+Y7pAj9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H8N69PQP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H8N69PQP?tag=rvgearlab-amz-20",
     "description": "The MAIZOA 8x7 Screen House is a six-sided room measuring 8.2 by 6.9 by 5.2 ft, rated for 4 to 6 people with minimalist furniture. It weighs 4.4 pounds and packs to 17.8 by 6.5 by 6.2 inches, and three fiberglass poles cross over to assemble it.\n\nIt gives a little more floor than the Lenotos 6x6 Screen House and a shorter pack than that tent's 27 inch disc. The 360 degree mesh screens keep the view open.\n\nIt suits campers who pack into a bag and want a small table's worth of space. The three-pole cross design is simple to learn.",
     "specs": [
       "8.2 x 6.9 x 5.2 ft",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41uqgnNMlaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GWCS6S9S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GWCS6S9S?tag=rvgearlab-amz-20",
     "description": "The SMOOTOR 2-4 Person Screen House is a freestanding mesh tent with a removable floor that needs no stakes. Its straight walls give enough height to stand and move around, and it is rated for three seasons and for indoor or outdoor use.\n\nIt is the one pick that works on concrete, balconies and decks, where stakes are impossible. Compared with the Lenotos 6x6 Screen House it trades the pop-up fold for an anchor-free structure.\n\nIt suits balcony and patio owners who cannot hammer in stakes. The listing also pitches it for indoor use.",
     "specs": [
       "Freestanding, no stakes",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51xA5ZHsQEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GKCXND8S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GKCXND8S?tag=rvgearlab-amz-20",
     "description": "The Abahub Screen House for 1 or 2 people has a 5.9 by 4.3 by 5.2 ft interior and weighs 4 pounds packed. It has two doors and one window, and the listing says it is most comfortable for one person.\n\nIt is the smallest and cheapest of the four and uses a classic manual assembly. Compared with the MAIZOA 8x7 Screen House it covers less than half the floor.\n\nIt suits solo campers who want a bug-proof reading nook. A window and two doors keep air moving in a tiny footprint.",
     "specs": [
       "5.9 x 4.3 x 5.2 ft",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51OnI9GehML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H6QFZQYX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H6QFZQYX?tag=rvgearlab-amz-20",
     "description": "The OGERY 2-Pack gives you two 32.8 ft reels, each with 8 lighting modes (5 plus 3). Each weighs 7.4 ounces and combines a camping light, string, work light and flashlight, with ABS, PC and a magnet.\n\nIt is a two-pack from a brand that also sells single reels, so a pair costs less per reel. Against the MDCMLKS pair, it states a magnetic suspension design.\n\nIt suits couples who want a light for each tent. Quick storage takes seconds.",
     "specs": [
       "Two 32.8 ft reels",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41cqrooIV9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DSJKT7FV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DSJKT7FV?tag=rvgearlab-amz-20",
     "description": "The MDCMLKS pair lists 8 lighting modes, a built-in 2000mAh battery and 5 to 12 hours of runtime. A battery indicator and USB charging come with a quick-wind handle that stores the string in about 30 seconds.\n\nIt states more battery detail than the OGERY pair. Compared with the Staaricc, it adds a charge indicator.\n\nIt suits campers who want to know the charge level. Each weighs little.",
     "specs": [
       "2000mAh, 5 to 12 hours",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51PJH0Y5kUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F243GVZB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F243GVZB?tag=rvgearlab-amz-20",
     "description": "The Staaricc pair has a non-detachable 2000mAh battery rated for 6 to 12 hours and 8 modes, with a hanging loop and storage in about 30 seconds. It is sold as tent fairy lights and has four power-source options.\n\nIt states a longer minimum runtime than the MDCMLKS. Compared with the KUQIHUG pair, it highlights waterproofing.\n\nIt suits tent campers who want a pull-out string. A hanging loop makes setup easy.",
     "specs": [
       "2000mAh, 6 to 12 hours",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51dXUaISCqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GWH6F7QJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GWH6F7QJ?tag=rvgearlab-amz-20",
     "description": "The KUQIHUG pair gives two 32.8 ft reels with a 2000mAh battery each, and a full charge takes roughly 5 hours. The runtime ranges from 5 to 12 hours, stretching to 30 hours when only the string is lit.\n\nIt states a strings-only runtime that the others omit. Against the MDCMLKS, it has the same capacity at a lower price.\n\nIt suits campers who run lights all evening. A storage reel keeps the cord neat.",
     "specs": [
       "2000mAh, 5 hour charge",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51dn59eCC0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H26RNBM8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H26RNBM8?tag=rvgearlab-amz-20",
     "description": "The OGERY Remote Reel adds a remote to the 32.8 ft, 4-in-1 design. It lists times by mode: warm string lights about 6H, RGB alternating flash 6H and RGB breathing 12H.\n\nIt is the only reel here with a remote, and it costs less than any pair. Compared with the OGERY pair, it is a single reel.\n\nIt suits campers who set lights from a sleeping bag. It weighs 7.4 ounces.",
     "specs": [
       "Remote control",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51QTxlxs6aL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D797C8GQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D797C8GQ?tag=rvgearlab-amz-20",
     "description": "The Wellgium has a 2000mAh battery with USB Type-C charging in and out, 32.8 ft of RGB lights and storage in under 20 seconds. The body is ABS with copper wire and soft PVC.\n\nIts listing names USB charging in and out, which suits a one-cable kit. Compared with the OGERY Remote Reel, it focuses on Type-C in place of a remote.\n\nIt suits campers who want one cable for all gear. Waterproof construction handles damp nights.",
     "specs": [
       "2000mAh, Type-C in and out",

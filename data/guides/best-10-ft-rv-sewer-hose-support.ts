@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/416qTk6WZ1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DJT1FR9L?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DJT1FR9L?tag=rvgearlab-amz-20",
     "description": "The Kohree 10 foot support is an accordion cradle made of sturdy polypropylene with a deep U-shaped design for stability. Nothing needs assembling, and the height can be changed to hold the downhill slope.\n\nIt lists a steady, deep cradle at a price near the RVSNAIL and a step above the budget group. The listing names polypropylene as its material where others say plastic.\n\nBest for owners who want a plain, well-described 10 foot support. A dependable default for short runs.",
     "specs": [
       "10 ft accordion, polypropylene",
@@ -53,7 +53,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41WcsEZfirL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FGPDTX4P?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FGPDTX4P?tag=rvgearlab-amz-20",
     "description": "The RVSNAIL 10 foot support comes fully assembled with a carrying strap, a deep U-shaped structure and an upgraded slope. It is made of premium polypropylene with reinforced construction and an accordion design that bends around obstacles.\n\nIt costs slightly less than the Kohree and adds a strap for carrying. Its upgraded slope is what puts it ahead of the BEBOBLY in this guide.\n\nBest for owners who want the strap and a stronger slope. A good value for frequent movers.",
     "specs": [
       "10 ft accordion, premium PP",
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51VsmX6XVvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DP8NKYF9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DP8NKYF9?tag=rvgearlab-amz-20",
     "description": "The PAULINN 10 foot support is a lightweight, UV-resistant plastic cradle that folds like an accordion and adjusts in height. A notice on the listing says the hose must be fully unfolded before placing it on the bracket.\n\nIt costs slightly less than the Kohree and names UV resistance. The unfolding notice is useful guidance that other listings leave out.\n\nBest for sunny sites where the support stays out. A cost-conscious pick.",
     "specs": [
       "10 ft accordion, UV-resistant",
@@ -107,7 +107,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41mwu9CsW1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DP97Q15R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DP97Q15R?tag=rvgearlab-amz-20",
     "description": "The BEBOBLY 10 foot support has a collapsible design, a secure rubber band and a carry strap. It fits hoses up to 3.8 inches in diameter and has a deep cradle for stability.\n\nIt is priced the same as the PAULINN and adds a rubber band to hold the folded support. The 3.8 inch diameter limit is clearer than most listings.\n\nBest for owners who want the band and the strap. A tidy, low-cost pick.",
     "specs": [
       "10 ft, hoses to 3.8 inches",
@@ -134,7 +134,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51d-17qPlhL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DP8Q7V6K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DP8Q7V6K?tag=rvgearlab-amz-20",
     "description": "The WELLUCK 10 foot support has an upgraded steeper slope and nine height settings. It includes four guy ropes and a storage strap and is described as resistant to wind, rain and UV.\n\nIt costs the least among the multi-feature supports and gives the widest height range here. The guy ropes add stability in wind, which no other listing offers.\n\nBest for windy sites and uneven ground. A strong value with the most height choices.",
     "specs": [
       "10 ft, nine height settings",
@@ -161,7 +161,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41UtEuM0zHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GY1WCTZ3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GY1WCTZ3?tag=rvgearlab-amz-20",
     "description": "The Lippert 10 foot support works with all standard RV sewer hoses and adjusts in height to prevent backups. It folds compactly, includes a strap and flexes around rocks and trees.\n\nIt undercuts every other support here on price and states that it suits all standard RV sewer hoses. Compared with the WELLUCK, it skips guy ropes and gives fewer details.\n\nBest for light use and a simple setup. A low-cost brand-name choice.",
     "specs": [
       "10 ft collapsible support",

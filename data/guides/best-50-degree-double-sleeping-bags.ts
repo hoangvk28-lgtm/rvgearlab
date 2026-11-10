@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31VfFDT6gIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G3YJ4G5N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G3YJ4G5N?tag=rvgearlab-amz-20",
     "description": "CORE prints 50 degree right in the name of this double, and the listing gives a 50 to 70F comfort level. Synthetic hollow fiber fill is said to hold insulation when wet and dry quickly, and polyester forms both shell and lining.\n\nIt is the only double here that matches the keyword, ahead of the Swtmerry and the Amazon Basics 35F Double. An interior accessory pocket and a strap system that attaches the bag to your pad help keep you in place on uneven ground.\n\nA strong choice for couples who want a double for warm nights, indoor sleepovers or summer camps. It is a 3-season bag at heart.",
     "specs": [
       "50 to 70F comfort level",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51p2IHwY0sL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G1YK4D9F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G1YK4D9F?tag=rvgearlab-amz-20",
     "description": "Swtmerry sells a flannel-lined queen XL that fits two people up to 7 feet. The listing gives a comfort temperature of 5 to 25C (about 41 to 77F) and an extreme of 0C, in a rectangular, water-resistant shell.\n\nIt adds two pillows and wraparound zippers that split the bag into two singles or two blankets. Against the CORE 50 Degree Double, it offers a wider range of use in warm weather and a larger fit for tall pairs.\n\nBest for tall couples or families who want one bag that doubles as blankets. A compression bag with a handle is included.",
     "specs": [
       "Comfort 5 to 25C, extreme 0C",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31+RY-r5LjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G63CTSCH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G63CTSCH?tag=rvgearlab-amz-20",
     "description": "Amazon Basics sells this double as 35F, with an 84 x 59 inch body, synthetic fill and a compression sack. Cross-bag stitching keeps the insulation from shifting, and loops let you bundle it neatly after use.\n\nIt sits 15 degrees below a 50F label, which gives a warmer margin than the CORE 50 Degree Double. It is also lower in price and machine washable.\n\nA good choice for couples who camp from spring to fall and want a plain, cheap double. The bag opens flat as two blankets.",
     "specs": [
       "35F rating, 84 x 59 in",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31tcbVOapKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F82XP35J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F82XP35J?tag=rvgearlab-amz-20",
     "description": "The NewDoar is a single 1.5 lb bag rated 50 to 70F whose matching zippers join two bags into one big bed. A compression sack shrinks each bag to a third of its size, and a Velcro neckline holds the zipper closed.\n\nTwo NewDoar bags cost more than the Amazon Basics double or the Swtmerry, and each one packs on its own. That makes the pair a better fit for couples who also hike.\n\nA fit for couples who want the choice to sleep apart or together. Buy two to build the double.",
     "specs": [
       "Weighs 1.5 lb total",

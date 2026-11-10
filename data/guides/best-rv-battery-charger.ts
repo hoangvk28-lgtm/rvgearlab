@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41+5+ohriYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FLJLQJR2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FLJLQJR2?tag=rvgearlab-amz-20",
     "description": "The yourheey is a 12V/24V 0-20A heavy-duty charger and maintainer with auto shutoff, repair mode, winter mode and smart voltage detection. It sells for $99.99.\n\nIt costs $20.00 more than the sdanbom PM4 converter, but it works on a battery directly rather than powering RV circuits. Against TowerTop it adds 24V support and costs $10.00 more. Pick this if you want a fast, adjustable charger for a house bank. Caveat: chemistry support should be confirmed on the listing.",
     "specs": [
       "12V/24V, up to 20A",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zMEcXRnuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07QPSNZPP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07QPSNZPP?tag=rvgearlab-amz-20",
     "description": "The TowerTop is a 2/10/25 amp 12V smart charger with 4 adjustable current settings, an HD LCD and 8-stage charging including desulfurization. It also offers engine start, priced at $89.99.\n\nIt is $10.00 below yourheey and offers a higher 25A top setting, but only for 12V. Pick this if you want fine current control and an LCD for batteries in cars, boats and RVs. Caveat: it is a plug-in charger, not a built-in converter for RV circuits.",
     "specs": [
       "2/10/25 amp settings",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41XqooXvxsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F3WSC4MG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F3WSC4MG?tag=rvgearlab-amz-20",
     "description": "The EYPDARL WF-8955-AD is a 55A RV power converter and power center with automatic 3-stage charging and a 105 to 130 VAC input. It is built to replace the converter in a camper and costs $165.90.\n\nIt costs $86.00 more than the sdanbom PM4 with the same 55A rating, so the extra buys the power center layout. Pick this if you need a drop-in replacement for an existing WFCO-style panel. Caveat: 3-stage charging assumes lead-acid, so check lithium compatibility.",
     "specs": [
       "55A converter charger",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/414zbWYIceL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FD9W6812?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FD9W6812?tag=rvgearlab-amz-20",
     "description": "The sdanbom PM4 is a 55A RV power converter with a built-in 4-stage smart battery charger, converting 110 to 120V AC to 12 to 16.5V DC. The cooling fan stays off at light load, and it costs $79.99.\n\nIt is $86.00 below EYPDARL 55A for the same amp rating. Against NOCO Genius2D it provides 53A more, but it is a converter, not a maintainer. Pick this if your converter died and you want the cheapest 55A fix. Caveat: it lacks the power center layout, so wiring may need work.",
     "specs": [
       "55A, 4-stage charging",
@@ -133,7 +133,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41supMN2OtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07W3QSMF9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07W3QSMF9?tag=rvgearlab-amz-20",
     "description": "The NOCO Genius2D is a 2A onboard charger and maintainer for 12V lead-acid batteries including AGM, gel, SLA and VRLA. It has a direct-mount bracket and a thermal sensor that adjusts charge to ambient temperature, at $39.95.\n\nIt is $39.95 for a job none of the others do cheaply, topping up a stored RV or trailer battery. At 2A it takes days to refill a drained bank, so it is not a house charger. Pick this if the rig sits for months. Caveat: do not buy it as your main bank charger.",
     "specs": [
       "2A, 12V onboard charger",

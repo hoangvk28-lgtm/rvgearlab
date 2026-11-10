@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41aC5PNm+4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H4Y85WKR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H4Y85WKR?tag=rvgearlab-amz-20",
     "description": "The GVDV is a 10 by 10 foot canopy with four sidewalls, a one-push lock and three height settings, giving 100 square feet of shade. It uses a 210D silver-coated Oxford top rated UPF 50+, a rust-resistant steel frame, integrated vents, a wheeled storage bag and a 12-month warranty.\n\nWarranty cover and a wheeled bag arrive together on this one, which is why it takes first place. The Vinabilia gives a similar sidewall set for less money, and the NatureNook gives a larger floor.\n\nIt suits campers who want shade, walls and some manufacturer backing for regular use. The roof has vents, which helps with heat build-up when the walls are closed.",
     "specs": [
       "10x10 ft with four sidewalls",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41JmXRQY+kL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G6DPMKSM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G6DPMKSM?tag=rvgearlab-amz-20",
     "description": "Vinabilia's 10 by 10 foot canopy has four removable sidewalls, a one-push center lock and three heights. It uses 25 by 25 millimeter main tubing and 22 by 11 millimeter crossbars, and packs under 31 pounds.\n\nIt costs about $33 less than the GVDV, and it gives the same sidewall set and a similar frame. You lose the warranty and the wheeled bag, which is the price of the lower tag.\n\nIt suits budget buyers who want walls at the lowest cost in this range. It fits a table and chairs for six to eight people.",
     "specs": [
       "Four removable sidewalls",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zuxIMY8uL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F247JGQ3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F247JGQ3?tag=rvgearlab-amz-20",
     "description": "The NatureNook is a 12 by 12 foot pop-up gazebo in 300D polyester that is waterproof to 5000 millimeters. It adds an awning, sidewalls, roll-up wind panels and zipper vents.\n\nIt covers the most ground of the four and handles rain better than the 210D tops, thanks to the higher water rating. It is also the heaviest, so it favors vehicle camping over carrying.\n\nIt suits families who want a screened living room at the campsite, since the panels keep bugs out while the awning adds shade. It has no floor for sleeping, and it shelters up to eight people at a table.",
     "specs": [
       "12x12 ft, 300D polyester",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31zGVyDiTxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B5TYQFLT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B5TYQFLT?tag=rvgearlab-amz-20",
     "description": "The Zeny is a 10 by 10 foot straight-leg canopy with about 96 square feet of shade, a 210D Oxford top, three push-button heights and a wheeled 600D carry bag. Stakes and ropes are included.\n\nIt is the least expensive pick in the group, and its price is less than half the GVDV. It has no sidewalls or warranty, so it only handles shade.\n\nIt suits campers who prefer to spend the savings on other gear and only need an open canopy. Pair it with weights on windy days.",
     "specs": [
       "96 sq ft straight-leg design",

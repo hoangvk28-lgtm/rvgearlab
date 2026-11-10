@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51cEM+M8mIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0024E6V30?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0024E6V30?tag=rvgearlab-amz-20",
     "description": "Camco ships two RV hose filters with a 6-step filtration design using GAC carbon and KDF media. They are tested to NSF/ANSI 42 and 53, certified lead-free to NSF/ANSI 372, and made in the USA.\n\nNear $26, the Camco carries the highest price of the four, and the second filter in the box plus the NSF listings make it the strongest buy under $30. The Amazon Basics costs about $11 less and filters sediment only, while this one improves taste and reduces chlorine.\n\nRVers and campers who fill from campground spigots every trip will like the carbon filtration. A spare in the pack means no scramble when the first one clogs.",
     "specs": [
       "GAC and KDF, 6-step filtration",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41k-Ktv32XL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07MG54R6F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07MG54R6F?tag=rvgearlab-amz-20",
     "description": "GLACIER FRESH uses lead-free, BPA-free GAC carbon and KDF media in a hose-end filter that the maker says removed 97.9 percent of chlorine in independent lab testing. It attaches to any standard water hose and comes with a flexible hose protector.\n\nAt about $25 it costs about a dollar less than the Camco and gives a stated chlorine reduction figure with no second filter in the box. The Camco gives two filters for nearly the same money.\n\nRV, marine and pet owners who want a specific chlorine number will like the lab result. It also works for a garden hose.",
     "specs": [
       "GAC and KDF media",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31MrLEE3KZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07L3W3W4D?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07L3W3W4D?tag=rvgearlab-amz-20",
     "description": "Amazon Basics sells two inline 20-micron sediment filters with KDF media, each rated for 1350 gallons and measuring 10.7 by 2.5 by 2.5 inches. They connect to a standard hose or faucet, and a 1-year limited warranty backs them.\n\nNear $15, the Amazon Basics pack undercuts the field, and two filters hold up for a camping season. It focuses on sediment, so the taste improvement is smaller than the Camco and GLACIER FRESH.\n\nBudget campers, gardeners and anyone filtering dirty site water will like the price. It is a good pre-filter ahead of a better filter.",
     "specs": [
       "20-micron sediment, KDF media",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41u4sfSB-nL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H1H29N7G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H1H29N7G?tag=rvgearlab-amz-20",
     "description": "H&G is a hose-end filter that reduces calcium and magnesium scale, with 3/4 inch GHT threads that fit standard hoses and RV hoses. It is aimed at washing cars, filling pools, outdoor showers and spa water.\n\nIt costs about $25 and addresses scale, which the carbon filters do not. It is not a drinking-water filter in the way the Camco is, so it suits washing and fixtures.\n\nRVers who park in hard-water regions and want to reduce scale on fixtures and the water heater will like it. It also works for outdoor showers.",
     "specs": [
       "Reduces calcium and magnesium scale",

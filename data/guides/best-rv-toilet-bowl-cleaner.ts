@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51FB437W8XL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DGNZRVM2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DGNZRVM2?tag=rvgearlab-amz-20",
     "description": "Pure RV Toilet Bowl Cleaner is marketed as a 5x stronger stain and odor remover with a non-acid formula. The listing calls it sensor safe and septic safe and says it cleans and deodorizes within 60 seconds.\n\nAgainst Walex, it makes stronger cleaning claims and names sensors directly. Against Star Brite, it is an all-in-one cleaner, whereas Star Brite adds seal lubrication.\n\nThe best fit for owners who want a fast, non-acid bowl cleaner with tank-sensor wording. Think of it as the pick for fast non-acid cleaning.",
     "specs": [
       "Non-acid bowl formula",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41vzBAzRg1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CPG7SSGM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CPG7SSGM?tag=rvgearlab-amz-20",
     "description": "Walex Premium RV/Marine Toilet Bowl Cleaner is a naturally derived lavender cleaner that names both plastic and ceramic toilets. It is made to work with Walex holding tank treatments.\n\nCompared with Pure RV Bowl, it states the bowl material more clearly. Compared with Liquified, it has a full lavender scent and a pairing with the Walex tank line.\n\nA good choice for owners with a plastic RV bowl who also use Walex tank products. Buyers focused on plastic rv bowls will find it a sensible match.",
     "specs": [
       "Plastic and ceramic safe",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41D+9vvYw1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B000ZFUYLK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B000ZFUYLK?tag=rvgearlab-amz-20",
     "description": "Star Brite Toilet Bowl Cleaner is a 16 oz marine and RV formula that removes stains without hard scrubbing. The listing says it also lubricates valves and seals, and it works on plastic and porcelain.\n\nCompared with Pure RV Bowl, it adds valve and seal lubrication. Compared with Walex, it is a long-running marine formula.\n\nBest for owners who want a bowl cleaner that also looks after the rubber blade seal. It earns its slot for seal-friendly cleaning.",
     "specs": [
       "Valve and seal lubrication",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51pVdHEOu3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FT4X9K65?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FT4X9K65?tag=rvgearlab-amz-20",
     "description": "Unique Scrub-It is a foaming powder in stick packs that remove rings, stains and debris from RV toilet bowls. The 15-count box also introduces enzymes and probiotics for tank odor and waste control.\n\nAgainst the 6-count box, it offers a lower cost per pack. Against liquids like Pure RV Bowl, it has no bottle to store.\n\nGreat for small rigs that want pre-measured packs and a citrus scent. It is a natural fit for pre-measured cleaning.",
     "specs": [
       "15 foaming stick packs",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/5110vSzZQfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GX77G59K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GX77G59K?tag=rvgearlab-amz-20",
     "description": "The 6-count Unique Scrub-It box is the same foaming powder stick pack for RV toilets. It lifts rings and stains and adds beneficial enzymes and probiotics to the black tank.\n\nCompared with the 15-count box, it costs less up front. Compared with Liquified, it is a powder that dissolves in the bowl.\n\nA neat fit for first-time buyers and short trips. Think of it as the pick for trial or short trips.",
     "specs": [
       "6 foaming stick packs",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31YgDDjfQQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CXNH7H81?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CXNH7H81?tag=rvgearlab-amz-20",
     "description": "Liquified RV Toilet Bowl Cleaner is a natural-formula liquid described as septic tank safe with no harsh chemicals. It is positioned as a regular part of RV cleaning supplies.\n\nCompared with Pure RV Bowl, it is a gentler claim at a lower price. Compared with Walex, it says septic safe rather than naming bowl materials.\n\nSuited to owners who prefer a natural formula and a simple routine. Buyers focused on natural-formula buyers will find it a sensible match.",
     "specs": [
       "Natural formula",

@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41I4oc7WQKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FNCRN4F9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FNCRN4F9?tag=rvgearlab-amz-20",
     "description": "The ATRACYPART WF-9865 is a 65 amp deck-mount converter that takes 105 to 130 VAC and is listed as a direct replacement for the WF-9800 series, including the WF-9865, WF-9865-MBA, WF-9865-AD-MBA and WF-9865AN. It uses auto-detect three-stage charging across bulk, absorption and float, and lists over-temperature, short-circuit, over-voltage and reverse-polarity protection with a quiet high-efficiency fan.\n\nIt ranks first because it combines a stated 12-month warranty with a clear three-stage description at $82.99. That is $1.90 less than the RUIANOMG, which gives voltages but has a confusing listing, and $7.00 less than the sdanbom WF-9865. The CRAPOZ undercuts it by $8.50, but its listing says nothing about warranty length.\n\nPick this if you want a plain WF-9800 swap with a written warranty. The caveat is that the listing title mentions two years while the body says 12 months, so confirm which applies before you rely on it.",
     "specs": [
       "65A deck mount",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41cjgU6gf0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FD3ZRZ81?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FD3ZRZ81?tag=rvgearlab-amz-20",
     "description": "The RUIANOMG WF-9865 is the only unit here that states its three output voltages: 13.2V float, 13.6V absorption and 14.4V bulk. It lists overload, short-circuit, over-voltage, over-current and high-temperature protection and a built-in fan that starts only when needed. Fitment codes include WF-9865, WF-9865-AD, WF-9865-AD-CB, WF-9865-MBA and WF-9865LIS.\n\nIt ranks second because the voltage table is useful but the listing has loose ends. It is $1.90 more than the ATRACYPART and gives no warranty term, and one sentence mentions replacing a worn-out WF-9875, which is the 75 amp model. Against the sdanbom WF-9865 it is $5.10 cheaper.\n\nChoose it when you want to compare stage voltages against your battery's label before buying. The caveat is the stray WF-9875 reference, so check your old converter's model number and ask the seller if you are unsure.",
     "specs": [
       "13.2V, 13.6V, 14.4V stages",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41A7dzUzOcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CRZ7CQLQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CRZ7CQLQ?tag=rvgearlab-amz-20",
     "description": "The sdanbom WF-9865 converts 110VAC to 12VDC and is billed as a three-stage converter and charger for WF-9800 series replacement. Its listing covers electronic current limiting that shuts power off under overload or short circuit, a cooling fan that stays off until the load calls for it, and basic install advice: cut AC power first and snug every wire.\n\nIt ranks third because the extras are modest. It costs $7.00 more than the ATRACYPART and $15.50 more than the CRAPOZ, and it shares the CRAPOZ's text nearly word for word without giving stage voltages or warranty. Compared with the GYHMK at $129, it saves $39.01 for the same class of claim.\n\nPick it if you prefer its listing's install advice and a seller that offers after-sale support. The caveat is that it offers no documented edge on the cheaper units, so you are paying for the seller, not the spec sheet.",
     "specs": [
       "65A, 110VAC input",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41rcG2zXX+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GKV3FSK8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GKV3FSK8?tag=rvgearlab-amz-20",
     "description": "The CRAPOZ WF-9865 is the cheapest converter here at $74.49. It lists 65 amps of clean DC from 110V AC, automatic three-stage charging, electronic current limiting and a fan that waits for load before starting. Protections include over-current and over-temperature, and it is billed as a direct replacement for the WF-9800 series.\n\nIt ranks fourth, not first, because its copy is nearly identical to the sdanbom WF-9865 yet it is $15.50 cheaper, which tells you the extra money at the sdanbom buys a seller, not hardware. Against the ATRACYPART it saves $8.50 but gives up the stated 12-month warranty.\n\nChoose it for the lowest spend on a straightforward 9800 series swap in a rig that sees light use. The caveat is thin support details, so keep your order record and photograph your old unit's label before you remove it.",
     "specs": [
       "65A, three-stage",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41BaiT3DpYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CPDPCNM1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CPDPCNM1?tag=rvgearlab-amz-20",
     "description": "The GYHMK 9865-AD is a 65 amp deck-mount replacement for the 9800 series that says it filters its DC output so it does not interfere with television or radio signals. An electronic current limiter shuts off power on overload or short circuit, and the unit uses automatic three-stage charging with three rated output modes. The price is $129.\n\nIt ranks fifth because it costs $46.01 more than the ATRACYPART and $54.51 more than the CRAPOZ with no added specs. Its one distinct claim is the clean, filtered output, which matters if you hear interference on a radio or TV when the converter runs. No other listing makes that claim.\n\nChoose it only if electrical interference is a problem in your rig. The caveat is that the listing publishes no voltages and no warranty, so the premium buys a claim rather than a published number.",
     "specs": [
       "65A, 9865-AD",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51bvBrnewQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GYJKY9SF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GYJKY9SF?tag=rvgearlab-amz-20",
     "description": "The Dasbecan WF-9865 is compatible with the 9800 series and lists a continuous 65 amp output that converts 110V AC to 12V DC for devices such as a fridge, TV or small microwave. Protections cover overload, short circuit, over-voltage, under-voltage and overheat. The package is a single converter.\n\nIt ranks last because it never mentions multi-stage charging, so it is described more as a power supply than a battery charger. It costs $74.99, only $0.50 more than the CRAPOZ, which does list three-stage charging, and $8.00 less than the ATRACYPART.\n\nPick it only if you mostly run loads from shore power and the battery is a secondary concern. The caveat is that without any listed charge profile you should assume the battery is not being maintained properly.",
     "specs": [
       "65A continuous",

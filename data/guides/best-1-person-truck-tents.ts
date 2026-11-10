@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ClvpewbHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G1LKKBMT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G1LKKBMT?tag=rvgearlab-amz-20",
     "description": "The Tecoom pop-up is a 5.5 to 5.8 foot bed tent with an automatic frame that opens like an umbrella. It measures 86.6 by 65 by 66.9 inches, has PU3000mm double-layer 210D oxford with taped seams and carries a 1-year warranty.\n\nIt has the fastest setup and the lowest price of the four. Against the Bosvell it needs no pole threading.\n\nIt suits solo campers who want to be set up in about five minutes. The extra floor room holds a pack and boots.",
     "specs": [
       "Pop-up frame, 5 min setup",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51698xZt57L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GL7Y3JX7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GL7Y3JX7?tag=rvgearlab-amz-20",
     "description": "The Bosvell is a 5.0 to 5.8 foot bed tent with PU3000mm 210D oxford, a rainfly and a connection tunnel for power and airflow. It has color-coded poles, ventilation windows and storage pockets.\n\nIt is the only pick with a power tunnel and has a wider bed range than the Tecoom. Against the JOYTUTUS it has a higher coating.\n\nIt suits a solo camper who runs a fan or charger from the truck. The storage pockets hold a phone and headlamp within reach.",
     "specs": [
       "PU3000mm with rainfly",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51i4zXdLOHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08XH7TK3M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08XH7TK3M?tag=rvgearlab-amz-20",
     "description": "The JOYTUTUS is a 5.5 to 5.8 foot bed tent that measures 90.5 by 62.9 by 66.9 inches and has three ventilated windows. It includes a rainfly, four fiberglass poles and two spare poles with PU2000mm.\n\nIt gives a long floor for one sleeper plus gear and includes spare poles. The Bosvell and Tecoom carry higher coating numbers.\n\nIt suits solo campers who want room to stretch out. Inner mesh bags keep small items off the floor.",
     "specs": [
       "90.5x62.9x66.9 in",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41mNymRWSQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D1C1RLVY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D1C1RLVY?tag=rvgearlab-amz-20",
     "description": "The VEVOR is a 6.4 to 6.7 foot bed tent in PU2000mm with 9mm fiberglass poles and a 5.58 foot peak height. It lists a skylight, a mesh window and a carry bag.\n\nIt is the only long-bed tent here and has the tallest peak. The others suit short beds.\n\nIt suits solo campers with a long box who want standing room. The carry bag keeps the packed tent tidy in the bed.",
     "specs": [
       "Long 6.4 to 6.7 ft beds",

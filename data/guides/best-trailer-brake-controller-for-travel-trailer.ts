@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41+zI1WcsLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G5Y223KN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G5Y223KN?tag=rvgearlab-amz-20",
     "description": "The cermep 90885 is a proportional controller sold as a replacement for the Tekonsha Prodigy P2 and listed for 1-4 axle trailers. It uses an internal inertia sensor, a digital LED display and a manual override slider, with a case described as durable and built-in circuit protection.\n\nAs the listing says, it is a third-party clone, not a Tekonsha. It beats the CURT Venturer for travel trailers because proportional braking follows the truck's deceleration, which feels more natural when a big box is behind you, but it costs more and gives you a clone's warranty instead of a major brand's.\n\nBest for towing a travel trailer with an unknown number of brakes, since it covers 2, 4, 6 or 8 brakes. The listing says to verify vehicle compatibility, so check your harness before ordering.",
     "specs": [
       "Proportional, 1-4 axles",
@@ -55,7 +55,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41NXn-L37lL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CC2XXMRJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CC2XXMRJ?tag=rvgearlab-amz-20",
     "description": "The CURT Venturer Next is a time-delay controller for 1-3 axles and 2-6 brakes, with fully adjustable power and ramp time. It is low profile, uses a bracket intended to improve dash clearance, and has no internal moving parts or leveling requirement.\n\nCompared with the cermep 90885 it is simpler and cheaper but not proportional, so braking follows a timed ramp rather than your own stopping. That is fine for a light trailer on flat roads and less ideal for long grades.\n\nBest for occasional weekend camping where you want a name-brand, plug-and-play controller. If your trailer has more than six brakes, this is not the one.",
     "specs": [
       "Time-delay, adjustable ramp",
@@ -84,7 +84,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41-BeTCdDML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HFCHVZNW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HFCHVZNW?tag=rvgearlab-amz-20",
     "description": "The LAJBZ Primus unit is listed as compatible with Tekonsha 90160 Primus IQ, which tells you it is a clone. It is proportional with self-leveling, three boost modes and a backlit LED readout of voltage, connection status and diagnostics.\n\nVersus the cermep 90885 it is a little cheaper and self-leveling, but the listing does not state an axle range, so check that detail. Versus the CURT Venturer it adds proportional braking for a similar outlay.\n\nBest for buyers who want self-leveling so mounting angle does not matter. It installs under the dash with a clip, and the listing says it plugs into vehicle-specific harnesses sold separately.",
     "specs": [
       "Proportional, self-leveling",
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41VZv7qFLeL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B004PL96IC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B004PL96IC?tag=rvgearlab-amz-20",
     "description": "The CURT 51516 is a universal quick-plug harness with blunt-cut wires you splice into the vehicle. It uses 12-gauge wire, is 24 inches long and comes with a slit-loom sleeve.\n\nUnlike the vehicle-specific REESE 7805011 below, you cut and splice here, so it suits a truck with no factory connector and a willing installer. It works with any CURT controller that has a quick plug connector, which does not include the cermep or LAJBZ units unless their plugs match.\n\nBest for older or unusual tow vehicles with no plug-in option. Confirm the controller's plug type before buying, and be comfortable splicing.",
     "specs": [
       "Universal, blunt-cut wires",
@@ -142,7 +142,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41sac3mPbCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01HT0VGEC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01HT0VGEC?tag=rvgearlab-amz-20",
     "description": "The REESE Towpower 7805011 is an OEM-style harness with a factory connector on one end and a brake-control plug on the other. Its applications include 2003-2006 Chevrolet Silverado 1500 and Avalanche, Tahoe, Suburban and GMC Sierra 1500 models.\n\nIt plugs into a factory under-dash connector, so no splicing, and the listing says it works with REESE Towpower and Tekonsha controllers. That makes it a cleaner path than the CURT 51516 if your truck is on the list, but it is useless for anything else.\n\nBest for a 2003-2007 GM truck or SUV on the application list. Check your exact model year against it first.",
     "specs": [
       "OEM-style plug-in harness",
@@ -171,7 +171,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41JJdkBZpLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0982R4BTR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0982R4BTR?tag=rvgearlab-amz-20",
     "description": "The Oyviny 3050-P is a plug-and-play adapter for select Nissan Titan, Armada, Frontier, NV, Pathfinder and Xterra years. It has a standard 4-pin plug, is 31 inches long and is made from ABS plastic with tin-plated copper terminals.\n\nLike the REESE 7805011 it needs no splicing, but it targets a different group of vehicles. The listing names Draw-Tite Activator and Tekonsha controllers, so matching to a clone such as the cermep 90885 means checking the plug yourself.\n\nBest for Nissan owners who already have a controller and need the truck-side connection. Check your model year against the list before buying.",
     "specs": [
       "Select Nissan models",

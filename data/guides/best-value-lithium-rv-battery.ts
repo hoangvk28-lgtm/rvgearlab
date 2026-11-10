@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41g+X4tm3kL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F546X7FG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F546X7FG?tag=rvgearlab-amz-20",
     "description": "The TechCella 320Ah delivers the strongest overall value in the whole-bank tier: 320Ah with Bluetooth and a 200A BMS for about $400, or roughly $1.25 per Ah. Its case measures 13.58 x 7.48 x 9.64 inches at 58.43 lbs, and it accepts anywhere from 20A to 160A of charging current, so it pairs well with both a basic converter and a large solar array.\n\nThe GOKWH 280Ah ranked second costs about $20 less but holds 40Ah less, so the TechCella wins on cost per Ah. Against the VATRER and ECO-WORTHY picks below, it lacks a starting mode and a metal case, but it costs $130 to $360 less.\n\nBest for dry campers who want a single big, monitored battery without paying premium prices. Caveat: TechCella recommends starting a recharge at 10% to 20% remaining, and deeply discharged units need a charger with 0V activation.",
     "specs": [
       "320Ah, about $1.25 per Ah",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/514NxwUwsUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GD11KCL4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GD11KCL4?tag=rvgearlab-amz-20",
     "description": "The GOKWH 280Ah is the cheapest way into this tier at about $380, storing 3584Wh behind a 200A BMS. Its Bluetooth app shows capacity, current, and temperature and adds fault alerts and diagnostic info, and the brand lists FCC and UN38.3 compliance with an 8000 plus cycle rating.\n\nIt ranks below the TechCella because it costs more per Ah, roughly $1.36 versus $1.25. It ranks above the VATRER because it saves about $160 while offering similar monitoring, though without a starting mode or self-heating.\n\nBest for RVers with a firm budget who want app monitoring and a large single battery. Caveat: the listing details a discharge stop at -4°F but is less clear about the charging cutoff, so avoid charging below freezing.",
     "specs": [
       "280Ah, 3584Wh",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Nb3m+UeeL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GDD4KLY4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GDD4KLY4?tag=rvgearlab-amz-20",
     "description": "The VATRER 300Ah adds something none of the other large batteries here offer: a dual-mode BMS. In normal mode it is a 300Ah deep-cycle house battery rated for over 5000 cycles; in start mode it can deliver 1500A for cranking an engine or generator. The app tracks voltage, current, SOC, and cycle count.\n\nIt ranks third because at about $540 it costs roughly $1.80 per Ah, notably more than the TechCella and GOKWH above. Compared with the ECO-WORTHY 280Ah below, it costs about the same, trading a metal case for the start mode and slightly more capacity.\n\nBest for motorhome or generator owners who want emergency starting power from the house bank. Caveat: it is a non-heated model, and its low-temperature cutoff means no charging in freezing weather.",
     "specs": [
       "300Ah, 200A BMS",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4152WgrC3+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G79296WJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G79296WJ?tag=rvgearlab-amz-20",
     "description": "The ECO-WORTHY EnergyRock 280Ah is built for rigs that take a beating. Its metal enclosure adds heat and fire resistance, four mounting feet let it bolt directly to the floor without a battery box, and reinforced internal cell holders resist road vibration. A one-touch safety switch disconnects output during installation or storage.\n\nIt ranks fourth on value because at about $530 it costs roughly $1.89 per Ah, more than every pick above it. Compared with the larger ECO-WORTHY 400Ah below, it costs $230 less and is easier to place, but you lose 120Ah.\n\nBest for vans, truck campers, and off-road trailers where vibration and mounting matter more than squeezing every Ah per dollar. Caveat: ECO-WORTHY recommends disabling float on solar controllers, or setting it to 13.8V if it cannot be disabled.",
     "specs": [
       "Metal case, mounting feet",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/418moCD8lvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H2M9VYD9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H2M9VYD9?tag=rvgearlab-amz-20",
     "description": "The ECO-WORTHY 400Ah is the pick for full-timers who want to replace four 100Ah batteries with one box. It pairs Grade A cells with a 250A BMS, the highest current rating here, so it can support a larger inverter than the 200A picks above, and its steel case, mounting feet, and independent low-current safety switch carry over from the 280Ah model.\n\nAt about $760, it works out to roughly $1.90 per Ah, nearly identical to the 280Ah EnergyRock, so you are not paying a premium for the bigger size. Compared with the LiTime 460Ah below, it offers a little less capacity for about $240 less.\n\nBest for full-time and long-stay boondockers with a 2500W-class inverter. Caveat: a single 400Ah battery is heavy and concentrates all your storage in one unit, so plan the install and lifting carefully.",
     "specs": [
       "400Ah, 250A BMS",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31KlcFwJsWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C7G3YNV6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C7G3YNV6?tag=rvgearlab-amz-20",
     "description": "The LiTime 460Ah is the capacity ceiling for this guide, built into a standard Group 8D case for motorhomes and large fifth wheels that already have an 8D bay. It uses EV-grade cells with a 250A BMS, holds above 12.8V across its usable range, and is covered by product liability insurance.\n\nIt ranks last on value because at about $1000 it costs roughly $2.17 per Ah, the most in this roundup, and this listing does not mention Bluetooth. What you pay for is a recognized brand and a standard size that drops into an existing 8D tray.\n\nBest for large motorhome owners who want maximum capacity in an 8D slot from a well-known brand. Caveat: add a shunt monitor, and confirm your converter or inverter charger can deliver enough current to recharge 460Ah in reasonable time.",
     "specs": [
       "460Ah, Group 8D size",

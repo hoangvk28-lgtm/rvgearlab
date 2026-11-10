@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Zj3QUgB1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HB56CSN2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HB56CSN2?tag=rvgearlab-amz-20",
     "description": "SUNER POWER's 30A MPPT states its limits clearly: 100V PV, 360W at 12V and up to 99% tracking efficiency. SUNER POWER's 30A MPPT lists a 100V maximum PV input with 360W on 12V and 720W on 24V and says it reaches up to 99% tracking and 98% peak efficiency. It uses a three-stage charge, lists temperature compensation and carries protections for PV and battery over-voltage, overheating and reverse polarity.\n\nIt is far better documented than Depvko 30A MPPT and costs less than LiTime 30A MPPT, though it has no Bluetooth. Its 360W 12V cap matches the amps exactly.\n\nBest for an RV with one to three panels that wants tracking. It is a well-specified mid-priced MPPT for one to three panels on a 12V bank.",
     "specs": [
       "30A MPPT, 12V/24V",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/417Jraba3bL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BJ75NLRM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BJ75NLRM?tag=rvgearlab-amz-20",
     "description": "LiTime's 30A MPPT adds built-in Bluetooth and a die-cast aluminum body to a 99%-tracking controller. LiTime's 30A MPPT controller lists 99% tracking, a built-in Bluetooth module (no extra module to buy) and a die-cast aluminum case. An LCD with four buttons and LED indicators shows system data on the unit.\n\nIt is the premium choice over SUNER POWER 30A MPPT, paying for the app. Next to the PWM units it costs several times more.\n\nBest for an owner who wants phone monitoring. It is the premium app-ready 30A here, so confirm the PV voltage limit against your panels.",
     "specs": [
       "30A MPPT, 12V/24V",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31DsI0BVdlL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DXF3JJ4J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DXF3JJ4J?tag=rvgearlab-amz-20",
     "description": "Renogy's Adventurer is a 30A four-stage PWM with flush and surface mounting and temperature compensation. Renogy's Adventurer is a 30A four-stage PWM controller that auto-detects 12V or 24V and charges lithium, AGM, gel and flooded batteries. It is negative ground, ships with flush and surface mounting hardware and lists automatic temperature compensation across -4F to 140F.\n\nIt is dearer than Renogy Wanderer Li 30A but adds mounting hardware and a stated -4F to 140F range. It is PWM, so it cannot match the MPPT units on high-voltage strings.\n\nBest for an RV that wants a wall-mounted controller. It is the tidy built-in option for an RV wall panel.",
     "specs": [
       "30A PWM, 12V/24V auto",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31uGzInSYVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DXF37VLR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DXF37VLR?tag=rvgearlab-amz-20",
     "description": "Renogy's Wanderer Li is a 12V 30A PWM measuring 5.5 by 3.9 by 1.8 inches with a lithium option. Renogy's Wanderer Li is a 12V 30A four-stage PWM controller whose listing names lithium, AGM, gel and flooded batteries. It measures 5.5 by 3.9 by 1.8 inches and carries an IP32 waterproof rating, so it suits an indoor or protected compartment.\n\nIt is smaller and cheaper than Renogy Adventurer 30A but 12V only and IP32. It names lithium, AGM, gel and flooded batteries.\n\nBest for a compact install on a 12V lithium bank. It is 12V only, so a 24V bank needs a different model, and Bluetooth needs the separate BT-1 module.",
     "specs": [
       "30A PWM, 12V only",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41YAjlgJLFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G7DJHLSW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G7DJHLSW?tag=rvgearlab-amz-20",
     "description": "Depvko's 30A MPPT is a low-priced unit that auto-adapts to 12V or 24V and offers USB charging. Depvko's 30A MPPT controller auto-adapts to 12V or 24V and uses a microcontroller to optimize charging. The listing mentions USB charging and an LCD, but gives no tracking efficiency figure.\n\nIt costs less than SUNER POWER 30A MPPT but gives no tracking figure or PV limit. Confirm both before relying on it.\n\nBest for a budget MPPT where you verify specs. Confirm max PV voltage and efficiency with the seller before relying on it.",
     "specs": [
       "30A MPPT, 12V/24V auto",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41M0gMi3O2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08L8TBCK6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08L8TBCK6?tag=rvgearlab-amz-20",
     "description": "Depvko's 30A PWM is the cheapest option and states it is lead-acid only. Depvko's 30A PWM controller adapts automatically to 12V and 24V systems and carries an LCD with auto parameter setting. The listing states it is only suitable for lead-acid batteries (open, sealed, colloid) and lists overcurrent, short-circuit, reverse and low-voltage protection.\n\nIt undercuts Depvko 30A MPPT but cannot charge lithium. It has an LCD and dual USB ports.\n\nBest for a flooded or AGM bank on a minimal budget. Pick it only for flooded or AGM banks, and never for a lithium battery.",
     "specs": [
       "30A PWM, 12V/24V auto",

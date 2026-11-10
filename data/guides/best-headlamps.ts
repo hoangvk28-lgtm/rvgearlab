@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51wEsOW1M-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07FLK7V3H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07FLK7V3H?tag=rvgearlab-amz-20",
     "description": "DanForce Bold-S is a USB rechargeable headlamp with a Luminus LED rated at 1080 lumens and a red light mode. It has an adjustable headband and a lightweight fit for long outdoor use.\n\nThe red light and rechargeable battery put it a step above the AAA models, and its listed brightness tops the group. It is the best fit for trail use where you need to see far.\n\nNight hikers and campers who spend long evenings outside will like the output and comfort. The band stays put on a brisk walk.",
     "specs": [
       "1080 lumens, Luminus LED",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41EL2+rhpnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CZ78NBL3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CZ78NBL3?tag=rvgearlab-amz-20",
     "description": "Sinvimes is a rechargeable headlamp with five modes and a listed battery life of 95 hours. It charges by USB-C and has a 125 degree adjustable angle with a comfortable headband.\n\nThe runtime and USB-C charging set it apart from the AAA-powered lamps, and the price is lower than the DanForce. It adds five modes for different tasks.\n\nCampers who want long runtime and USB-C will like it for multi-day trips. One USB-C cable keeps it ready.",
     "specs": [
       "95 hour listed battery life",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41evvXVMkIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BN4HDWQ2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BN4HDWQ2?tag=rvgearlab-amz-20",
     "description": "Energizer Vision HD+ comes as a 2-pack of 260 lumen LED headlamps with a beam distance up to 80 meters. They are IPX4 water resistant and suit emergencies, outdoor use and work.\n\nEnergizer's name and the IPX4 rating add confidence, and a pair means one for you and one for a friend. It is brighter than the Eveready lamps.\n\nCamping couples will like having two lamps for the price of one good one. Hand one over and both of you can work hands-free.",
     "specs": [
       "Two 260 lumen headlamps",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ffOTBYoBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B9GVXLKB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B9GVXLKB?tag=rvgearlab-amz-20",
     "description": "Blukar is a rechargeable headlamp with three light sources and five modes, including main light, side light and zoom adjustment. It charges by USB-C in about 5 hours.\n\nIt is the cheapest rechargeable pick, and the zoom lets you switch between wide and long beam. The side light is handy for close work.\n\nBudget campers who want rechargeable power will like it. It tucks into a glovebox for emergencies.",
     "specs": [
       "Rechargeable, USB-C",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51FNhD2hzLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09LDJGLWX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09LDJGLWX?tag=rvgearlab-amz-20",
     "description": "Eveready Pro200 comes as a 5-pack of LED headlamps with a beam of 165 feet. Each uses three AAA batteries and is designed for hands-free outdoor and home projects.\n\nFive lamps cover a family, a scout troop or a car kit, which none of the other packs do. It is the best fit for emergencies.\n\nGroups and families will like the stack of lamps for the price. Keep a spare in every vehicle and tent.",
     "specs": [
       "Five LED headlamps",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410GOiXwCsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DYSWT59X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DYSWT59X?tag=rvgearlab-amz-20",
     "description": "Amazon Basics includes two headlamps with seven lighting modes and a red light for added safety. Each tilts up to 45 degrees.\n\nIt is the lowest-priced pair, and seven modes is more than the Energizer or Eveready lamps offer. It makes a good spare set.\n\nCasual campers will like the modes and the price. Toss them in a kit and forget them until needed.",
     "specs": [
       "Two headlamps",

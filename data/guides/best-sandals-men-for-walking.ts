@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41gzxRP98KL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0007LGCB8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0007LGCB8?tag=rvgearlab-amz-20",
     "description": "The KEEN Newport is a closed-toe hybrid sandal with a premium leather upper from Leather Working Group certified tanneries and a quick-dry lining. A lace lock bungee capture system secures the fit, and lugs with water-channeling grooves grip slippery ground while the non-marking rubber is safe on boat decks.\n\nCompared with the FLARUT Closed Toe, it adds a lace-lock system and water channeling. Against the Skechers Tresmen-garo, it protects the toes and lasts longer.\n\nIt suits walkers on mixed terrain, from trails to boat decks. The listing says it runs true to size and gives generous space across the forefoot.",
     "specs": [
       "Leather upper, quick-dry lining",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41EWy2qAvgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01LWV3721?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01LWV3721?tag=rvgearlab-amz-20",
     "description": "The Dockers Newpage uses a dual-layer comfort system with a Fusion Footbed and a memory foam insole. Hook-and-loop strap closures adjust on the go, and a flexible build lets the sandal move with the foot over a rubber outsole.\n\nCompared with the Skechers Tresmen-garo, it adds memory foam and a more casual look. Against the KEEN Newport, it is an open sandal at a lower price.\n\nIt suits casual walkers and travelers who want plush support. The listing says it is sold in whole sizes only.",
     "specs": [
       "Dual-layer footbed, memory foam",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41QbphytMmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07WMC2WWJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07WMC2WWJ?tag=rvgearlab-amz-20",
     "description": "The Skechers Tresmen-garo is an open-toe water sandal with Luxe Foam cushioning, a relaxed fit and a sporty ankle strap with hook-and-loop closure. The listing describes a synthetic sole.\n\nCompared with the Dockers Newpage, it adds an ankle strap and a water sandal design. Against the KuaiLu Hiking Sandals, it offers less arch detail.\n\nIt suits walkers who want a roomy, easy sandal for water days. The listing names relaxed fit.",
     "specs": [
       "Luxe Foam cushioning",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31frYLk9QHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CTH21B84?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CTH21B84?tag=rvgearlab-amz-20",
     "description": "The KuaiLu Hiking Sandals are orthopedic men's sandals with ergonomic arch support, a 1.2 inch deep heel cup and a 6mm heel-toe drop. Adjustable toe, instep and heel ankle straps customize fit, and a thick shock-absorbing midsole pairs with a deep textured outsole.\n\nCompared with the FLARUT Open Toe, it adds a deep heel cup and arch support. Against the KEEN Newport, it is an open design with adjustable straps.\n\nIt suits walkers who want support and adjustability. The listing says the leather and breathable lining work for beach and water use.",
     "specs": [
       "1.2 inch deep heel cup",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/517SbkctE+S._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B094Y6Q5RN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B094Y6Q5RN?tag=rvgearlab-amz-20",
     "description": "The FLARUT Closed Toe has a leather upper with a breathable lining, a rubber sole with a lightweight EVA midsole and a 3D footbed. A toe cap prevents injuries to the toes and the closed loop elastic cord lace with adjustable hook secures the fit.\n\nCompared with the FLARUT Open Toe, it adds a toe cap and a lace. Against the KEEN Newport, it offers a similar closed-toe concept at a lower price.\n\nIt suits walkers who want toe protection without a boot. The listing names gym, beach and daily wear.",
     "specs": [
       "Leather upper, toe cap",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41h+K8-9-xL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D48KHJT7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D48KHJT7?tag=rvgearlab-amz-20",
     "description": "The FLARUT Open Toe has a leather upper, a PU sole that the listing says is much lighter than other materials and a 3D PU footbed. Adjustable buckle straps include an enlarged heel strap that reduces pressure on the foot.\n\nCompared with the FLARUT Closed Toe, it is lighter and more open. Against the Dockers Newpage, it uses a PU footbed and buckles.\n\nIt suits travelers and vacation walkers who want a light, ventilated pair. The listing says open toe sandals suit travel.",
     "specs": [
       "Leather upper, PU sole",

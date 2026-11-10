@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Soc1nNy5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FXWYC51B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FXWYC51B?tag=rvgearlab-amz-20",
     "description": "The IWVE uses 4 inches of memory foam in a pillow weighing 400 grams, with a cover that comes off for washing in either season. The shape cradles the neck and doubles as lumbar support.\n\nIt costs about $29, nearly twice the Hikenture Inflatable, and it is the only pick with real memory foam at this thickness. The stated 4 inch height suits side sleepers better than the 1 MIDDLE ONE Foam Pillow.\n\nIt suits side sleepers wanting a thick, supportive pillow without the premium price. Use it as a back cushion on long drives.",
     "specs": [
       "10 cm (4 inch) memory foam",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4125Lv8vjXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0833T8KMZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0833T8KMZ?tag=rvgearlab-amz-20",
     "description": "The Gear Doctors is a 3.5 oz inflatable that packs to a soda-can 2.4 by 4.7 inches and inflates in about three breaths to 12 by 17 inches, 4.3 inches thick. It has an anti-leak valve and hexagon-pattern TPU fabric.\n\nIt costs about $15, half the IWVE Memory Foam, and it weighs about a tenth as much. It gives less support for a restless side sleeper than foam.\n\nIt suits backpackers and thru-hikers who count every ounce. A 4.3 inch loft is enough for most back sleepers.",
     "specs": [
       "3.5 oz, packs 2.4 x 4.7 in",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410WML9OwGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0896WCB5D?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0896WCB5D?tag=rvgearlab-amz-20",
     "description": "The Hikenture is an ergonomic ultralight inflatable with a removable, washable cotton cover and a one-click valve. Its leak-resistant build adds a layer beneath the fabric, and it supports back and side sleepers.\n\nIt costs about $20, a third less than the IWVE Memory Foam, and the soft cover feels better on skin than the bare TPU on the Gear Doctors. It weighs more than the Gear Doctors.\n\nIt suits campers who like an inflatable and want a cover. The cover can go in the washing machine.",
     "specs": [
       "Ergonomic ultralight inflatable",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51YIkqa30eL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DZHLNM69?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DZHLNM69?tag=rvgearlab-amz-20",
     "description": "The 1 MIDDLE ONE Foam Pillow is a 15.5 by 12 inch pillow filled with shredded memory foam mixed with polyester fiber, in a breathable microfiber cover with a travel bag. Machine-washable cover and a kids' size are offered.\n\nIt costs about $18, $11 less than the IWVE Memory Foam, and the shredded fill lets you press it flatter or fluff it up. It is smaller than the IWVE and not as thick.\n\nIt suits campers who want a real-pillow feel in a small package. Let it relax for 48 hours after unpacking.",
     "specs": [
       "15.5 x 12 inch shredded foam",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31xXXCkVR+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00DDP3B1Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00DDP3B1Y?tag=rvgearlab-amz-20",
     "description": "The TETON Camp Pillow springs back to full size on its own once unpacked and ships with a pillowcase that goes in the wash. Its fabric matches the lining of TETON sleeping bags.\n\nIt costs about $16, roughly half the IWVE Memory Foam, and it needs no inflating. It is softer and less supportive than foam.\n\nIt suits car campers, kids and people who want a plain pillow. It washes with its case.",
     "specs": [
       "Self-lofting soft pillow",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31j+pwSvDuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DFCFR5VG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DFCFR5VG?tag=rvgearlab-amz-20",
     "description": "The Portal is a 2-room, 8-person tent measuring 14 by 8 feet with an 80 inch height, plus a 14 by 7.5 foot porch under a 6.5 foot roof. It has two E-ports for power, six mesh windows, a gear loft, a mud mat and a room divider.\n\nAgainst the DMH and the JELUCAMP, it has the largest stated porch and the most built-in features. Compared with the UNP tunnel, it uses fiberglass and steel poles and fully taped seams where the UNP lists a 1500 mm coating.\n\nIt suits families who want a roomy porch and an organized interior, with separate sleeping rooms for privacy. The room divider and wall pockets keep gear sorted.",
     "specs": [
       "14 x 7.5 ft porch",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51XhoGJXNWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CVVQQ6S8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CVVQQ6S8?tag=rvgearlab-amz-20",
     "description": "The DMH is a 6-person cabin tent with a floor listed as (9 + 5) by 10 feet and a 78 inch center height, plus an extra screened-in porch. It has a rain-resistant E-Port, a tent skirt, taped seams and a rainfly.\n\nNext to the Portal it is smaller and offers a screened porch you can sit in. It adds an overhead mesh loft, a tablet pocket and two mesh pockets for storage.\n\nIt suits a family of six who wants a bug-free sitting space attached to the tent. Two people can pitch it in about 15 minutes, and the tent skirt helps keep drafts out.",
     "specs": [
       "(9+5) x 10 ft, 78 in height",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31QQgvne2uL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DZ67YMQ2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DZ67YMQ2?tag=rvgearlab-amz-20",
     "description": "The JELUCAMP comes in a 10 by 8 by 5.7 foot 6-person size and a 15 by 12 by 6 foot 8-person size, each with a bug-free screen porch and full-coverage mesh walls. It has a PU3000-rated rainfly and sealed seams.\n\nCompared with the DMH, it offers two size choices and a PU3000 rating on the rainfly. Its full-coverage mesh walls give 360 degree views.\n\nIt suits campers who want mesh walls for ventilation and the freedom to pick a 6 or 8 person size. The listing says two people can pitch it in about 15 minutes.",
     "specs": [
       "6/8 person size options",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31epl5o5vKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GK6RQ2G2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GK6RQ2G2?tag=rvgearlab-amz-20",
     "description": "The UNP is a tunnel tent for 8 people with a 20 foot total length (14 + 6) by 9 feet and an 80 inch height, with a screen porch. It has a 1500 mm polyurethane coating, eight steel leg poles, four oversized mesh windows and two doors with a mesh ceiling.\n\nThe tunnel design stretches along one axis, where the Portal is a cabin shape. It lists the longest total length in the group and the lowest listed waterproof rating.\n\nIt suits large groups who prioritize room and a 15 minute two-person setup, and who camp in fair weather. The color-coded poles keep a big tent manageable.",
     "specs": [
       "20 ft long tunnel, 80 in high",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41VZOMw57wL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08P31R7CC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08P31R7CC?tag=rvgearlab-amz-20",
     "description": "The AYAMAYA is a 4-person tunnel tent measuring 14 by 6.6 by 4.3 feet overall, made of a 7.4 foot sleeping area and a 6.6 foot vestibule porch. The vestibule has two doors, and the outer tent uses 210T rip-stop polyester with a B3 mesh liner.\n\nIt is the smallest and cheapest tent here, and the vestibule fits a bike or motorcycle. Against the DMH and JELUCAMP, it gives a gear porch instead of a screened sitting area.\n\nIt suits couples, bikers and cyclists who need to store gear under cover and a compact three-pole pitch. The detachable bedroom lets you leave the vestibule up as a gear shed.",
     "specs": [
       "14 x 6.6 x 4.3 ft tunnel",

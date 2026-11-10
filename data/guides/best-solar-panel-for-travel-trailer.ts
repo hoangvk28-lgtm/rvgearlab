@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ouu03inTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GK146PX4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GK146PX4?tag=rvgearlab-amz-20",
     "description": "The HQST 400W set is two 200W N-Type panels with 16BB Grade A+ cells at up to 25.4% efficiency and IP65 protection. HQST quotes a 30 year service life at 87.4% output, and the panels are 13% smaller and 14.5% lighter than conventional PERC cells. The listing does not mention a controller.\n\nAt $206.99 it costs only $21.00 more than the ECO-WORTHY 200W Kit yet delivers double the watts, which is its main edge. You must buy a controller and wiring separately, so the real price is higher. Pick this if you want maximum power for a trailer with big batteries. The caveat is that 400W needs a controller rated for the voltage and amps.",
     "specs": [
       "2 x 200W N-Type panels",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41WWXphNKML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09RZZHHHM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09RZZHHHM?tag=rvgearlab-amz-20",
     "description": "The ECO-WORTHY 200W kit is two 100W panels, each 35.2 by 23.1 by 1.37 inches, with a 30A controller. The maker quotes 800Wh a day at 4 sun hours and 21.5% cell efficiency. Wires plug in and can be set in series for 24V or in parallel for 12V.\n\nIt is $59.65 above the Renogy 100W Kit and doubles its output, and it is also $6.00 above the Callsun Flex 200W. Rigid panels run cooler than flexible ones. Pick this if you want a complete 200W system in one box. The caveat is a 1 year warranty, shorter than Renogy's 10 year panel coverage.",
     "specs": [
       "2 x 100W panels, 30A controller",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411CKOU34FL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00BFCNFRM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00BFCNFRM?tag=rvgearlab-amz-20",
     "description": "The Renogy 100W starter kit comes with a Wanderer 30A PWM controller and a 22.5% efficient panel, making about 500Wh a day in average sun. It carries UL 61730 certification, IP65 junction box and IP67 connectors. A BT-1 Bluetooth module can be added for the DC Home app.\n\nAt $126.34 it is $53.65 under the Callsun Flex 200W and $59.65 under the ECO-WORTHY 200W. Renogy says the controller supports expansion up to 400W, so you can start small and grow. Pick this if your trailer only runs lights and a fridge. The caveat is that 100W is thin for an AC heavy rig.",
     "specs": [
       "100W, 22.5% efficiency",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41q8dkOTXAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FS6J4XQD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FS6J4XQD?tag=rvgearlab-amz-20",
     "description": "The Callsun Flexible 200W panel is 0.1 inch thick and about 50% lighter than a rigid equivalent, with 240 degree flexibility and ETFE coating. It is aimed at curved roofs and low-drag mounting. The listing is panel only, with connectors but no controller.\n\nIt costs $6.00 less than the ECO-WORTHY 200W Kit but leaves out the controller, which makes the total cost about equal or higher. It fits the same roof area with less weight. Pick this if your trailer roof is curved, or you want to avoid roof rack height. The caveat is that glued flexible panels run hot and can have shorter life.",
     "specs": [
       "200W flexible, 240° bend",

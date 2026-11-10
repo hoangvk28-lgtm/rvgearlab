@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41RCldaoZgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B097NGF42B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B097NGF42B?tag=rvgearlab-amz-20",
     "description": "The Bio-Kleen RV Roof Cleaner and Protectant is a 1 gallon product that the listing says carries an SPF 70 UV blocker and up to 6 months of protection. It is described as safe for EPDM, PVC, TPO and most RV roofs, biodegradable and non-aerosol.\n\nAgainst the Thetford 64 oz, it adds a UV protectant and names more roof types. Against the Walex 64 oz, it states a protection window.\n\nBest for owners who want a cleaner that also leaves UV protection on EPDM, PVC or TPO roofs. One application cleans and protects.",
     "specs": [
       "1 gallon cleaner and protectant",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41sWiYRXbzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00KARB6SS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00KARB6SS?tag=rvgearlab-amz-20",
     "description": "The Thetford Premium RV Rubber Roof Cleaner is a 64 ounce non-toxic, non-abrasive detergent for EPDM rubber roofs. The listing says it dissolves heavy grime and chalk, helps prevent black streaks and is biodegradable.\n\nAgainst the Thetford 32 oz, it doubles the volume for a better per-ounce price. Against the Bio-Kleen, it lacks a UV blocker but names chalk and streak control.\n\nBest for EPDM owners with a larger rig who want a big bottle. Black streak control is the main attraction.",
     "specs": [
       "64 oz, EPDM roof cleaner",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31MJFwQQ6VL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CPGB42T2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CPGB42T2?tag=rvgearlab-amz-20",
     "description": "The Walex RV Rubber Roof Cleaner and Conditioner is a 64 ounce bottle that the listing says removes dirt, road grime, tree sap and bird droppings while conditioning the roof. It claims to help prevent cracking or damage.\n\nAgainst the Thetford 64 oz, it names tree sap and bird droppings plus a conditioning step. Against the Camco four-pack, it is a single large bottle.\n\nBest for owners who want a cleaner that also conditions. It works on RVs, campers, motorhomes and trailers.",
     "specs": [
       "64 oz cleaner and conditioner",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41oycLZFSfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00IQ3M89Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00IQ3M89Y?tag=rvgearlab-amz-20",
     "description": "The Camco Rubber Roof Cleaner and Conditioner comes as four bottles with a package weight of 9.6 pounds. The listing says it removes dirt and stains, conditions rubber roofs, and prepares surfaces for roof protectant application.\n\nAgainst the Walex 64 oz, it gives four bottles for stocking up. Against the Thetford 32 oz, it costs more per order but less per bottle.\n\nBest for owners who clean several times a year or maintain more than one RV. The pack also works as a camper wash.",
     "specs": [
       "Four bottles, 9.6 lb package",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/412rxJAKM2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B002EVWDNU?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B002EVWDNU?tag=rvgearlab-amz-20",
     "description": "The B.E.S.T. 55048 Rubber Roof Cleaner and Protectant is a 48 ounce product listed as a cleaner and protectant for rubber roofs. The listing gives package dimensions and weight and says it is made in the United States.\n\nAgainst the Bio-Kleen, it is smaller and gives less description. Against the Thetford 32 oz, it is a protectant product at a higher price.\n\nBest for owners who already trust the B.E.S.T. brand from roof coating kits. Check the product label for dilution and use.",
     "specs": [
       "48 oz cleaner and protectant",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/418xMuBQsvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B000NJAA9O?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B000NJAA9O?tag=rvgearlab-amz-20",
     "description": "The Thetford 32512 Premium RV Rubber Roof Cleaner and Conditioner is a 32 ounce non-petroleum formula with a UV blocker. The listing says petroleum-based formulas can cause swelling, cracking or degradation of rubber, and that this one is non-toxic, nonflammable and biodegradable.\n\nAgainst the Thetford 64 oz, it is half the volume. Against the Bio-Kleen, it lists a UV blocker at a much lower price.\n\nBest for small rigs or a first try. The non-petroleum statement is the key point.",
     "specs": [
       "32 oz non-petroleum formula",

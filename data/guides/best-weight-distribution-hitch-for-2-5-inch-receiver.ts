@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31K9sm6qHSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01N47V87C?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01N47V87C?tag=rvgearlab-amz-20",
     "description": "Andersen's 3394 states a 2.5 inch shank rated up to 16,000 lb GTWR with a 4 inch drop or rise and tension chains. Andersen's 3394 No-Sway weight distribution hitch uses a 2.5 inch shank with a 2-5/16 inch ball and is rated up to 16,000 lb GTWR. The listing offers 3, 4, 5 or 6 inch brackets and a tension chain system that it says is quicker than spring bars.\n\nIt states a receiver size and rating clearly, unlike Reese Strait-Line 66074 and ProPride, and it needs no grease. It costs more than most spring bar kits.\n\nBest for a heavy bumper-pull trailer on a 2.5 inch receiver. It is a heavy-duty chain-style choice for a 2.5 inch receiver.",
     "specs": [
       "2.5 inch shank, 16,000 lb GTWR",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31hEbseLzwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00EKJPZSE?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00EKJPZSE?tag=rvgearlab-amz-20",
     "description": "Blue Ox's BXW2003 SwayPro has a 2.5 inch receiver, a 9-hole shank, 2,000 lb tongue weight and 20,000 lb towing ratings. Blue Ox's BXW2003 SwayPro is a weight distributing hitch with a 2.5 inch receiver and 9-hole shank, rated 2,000 lb tongue weight and 20,000 lb gross towing weight. It is designed specifically for trailers whose coupler is welded under the frame.\n\nIt has the highest ratings here and is limited to underslung couplers. It costs a little more than Andersen 3394.\n\nBest for a very heavy trailer with an underslung coupler. Check your coupler style first, since this model is the underslung version.",
     "specs": [
       "20,000 lb, 2,000 lb tongue weight",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41B9fzDnUbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09X7JH3NZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09X7JH3NZ?tag=rvgearlab-amz-20",
     "description": "ProPride's 3P Jim Hensley hitch is listed for 2.5 inch receivers and 1,000 to 1,400 lb of weight distribution. ProPride's 3P Jim Hensley hitch is listed for sway elimination and 1,000 to 1,400 lb of weight distribution, in this version for a 2.5 inch receiver. The listing is brief and gives no other specs.\n\nIt costs far more than the other hitches and the listing gives little technical detail. It describes sway elimination.\n\nBest for a buyer who wants the ProPride design and will confirm every rating. Confirm the exact rating and shank details with the seller, since this listing gives only the 1,000 to 1,400 lb range.",
     "specs": [
       "2.5 inch receiver, 3P model",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31fp-zYyjLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B000BJ0H8U?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B000BJ0H8U?tag=rvgearlab-amz-20",
     "description": "Reese's Strait-Line 66074 is a trunnion kit for 600 to 1,200 lb tongue weight and 12,000 lb gross trailer weight. Reese's Strait-Line 66074 is a 1,200 lb trunnion style weight distribution kit for trailers with tongue weights of 600 to 1,200 lb and up to 12,000 lb gross trailer weight. The listing says it needs a hitch ball with a 1-1/4 inch shank, sold separately, and will not fit trailer frames wider than 2-1/2 inches.\n\nThe listing states no receiver size, so a 2.5 inch shank must be matched separately, and the ball is sold separately. It costs more than the spring bar kits.\n\nBest for a 12,000 lb trailer with a narrow frame and a shank you already have. Check frame width before buying, since the listing limits it to frames no wider than 2-1/2 inches.",
     "specs": [
       "600 to 1,200 lb TW, 12,000 lb",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Iv88WRiEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07RNPM3SV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07RNPM3SV?tag=rvgearlab-amz-20",
     "description": "Blue Ox's BXW4028 is a 9-hole, 9 inch shank for 2.5 inch receivers that works raised or dropped. Blue Ox's BXW4028 is a SwayPro replacement shank with 9 holes and a 9 inch stinger for 2.5 inch receivers. The listing says it works in the raised or dropped position.\n\nIt is a spare shank rather than a hitch and costs far less than any complete kit. No rating is stated.\n\nBest for adding a shank to a compatible SwayPro head. It is a shank only, so use it with a compatible SwayPro head and bars.",
     "specs": [
       "Replacement shank, 2.5 inch receiver",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41NomHrSlQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07DDQPW9Z?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07DDQPW9Z?tag=rvgearlab-amz-20",
     "description": "Camco's Eaz-Lift 48651 is a 12 inch forged shank for 2.5 by 2.5 inch receivers. Camco's Eaz-Lift 48651 is a forged weight distribution shank, 12 inches long, that fits a 2.5 by 2.5 inch receiver. The listing says the extra length helps clear bumper interference.\n\nIt adds length for bumper clearance and costs less than Blue Ox BXW4028 Shank. No rating is stated.\n\nBest for clearing a long bumper with an Eaz-Lift head. It is a shank only, so use it with a compatible Eaz-Lift head and bars.",
     "specs": [
       "Forged shank for 2.5 x 2.5 receiver",

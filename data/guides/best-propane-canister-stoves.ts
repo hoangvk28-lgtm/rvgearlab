@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41PHUHg9-WL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0009PUR5E?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0009PUR5E?tag=rvgearlab-amz-20",
     "description": "The Coleman Bottletop screws onto a 16.4 ounce propane cylinder, and the burner and base separate from the bottle for compact storage. It lists up to 10,000 total BTU, a pressure regulator and wind baffles, with a single adjustable burner for an 8 inch pan.\n\nRuntime is up to 2.5 hours on high from one cylinder, longer than a small butane cartridge allows. It is simpler and cheaper than the dual fuel cookers, and has less output than the GasOne 15K Dual Fuel.\n\nA good fit for cool-weather campers who want a stable, propane-only stove. A three-year limited warranty comes with it.",
     "specs": [
       "Up to 10,000 BTU propane",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Lp-nhy+YL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09RN22HDQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09RN22HDQ?tag=rvgearlab-amz-20",
     "description": "Rated at 15,000 BTU, the GasOne 15K feeds from a propane cylinder through the adapter that ships with it, or from a butane cartridge. Four corner windblockers surround the burner head.\n\nA cartridge ejection feature and gas cut-off protect against irregular pressure. It outputs more than the Coleman Bottletop and costs more.\n\nSuits campers who boil large pots on propane. A case comes with it.",
     "specs": [
       "15,000 BTU, dual fuel",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41JavTsgoZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01HQRD8EO?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01HQRD8EO?tag=rvgearlab-amz-20",
     "description": "Gas One's GS-3400P feeds from a propane cylinder through its converter regulator, or from butane. Its heat dial, piezo lighter and ejection feature keep operation simple.\n\nIt is the least expensive of the propane-capable cookers here, giving up the wind baffles and output of the others. A carrying case is included.\n\nA sensible entry for campers testing propane. Pack it with a lighter as backup.",
     "specs": [
       "Butane or propane dual fuel",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41oxFcZEApL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0829RKQXZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0829RKQXZ?tag=rvgearlab-amz-20",
     "description": "The Odoland 3500W collapses for carrying and keeps a windshield attached, plus piezo lighting and a flame knob. It accepts 7/16 thread propane or mixed canisters, with two connectors to match different gas tanks.\n\nIt is the smallest of the four and cheaper than the Coleman. The listing's boil quote is about 3 minutes for 1 liter.\n\nA decent match for hikers and picnickers who prefer screw-on canisters over a bottletop. A case is included.",
     "specs": [
       "Up to 3500W output",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31aBWfPdjvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FWRQGJNN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FWRQGJNN?tag=rvgearlab-amz-20",
     "description": "The Night Cat Tipi pairs a separate outer fly with an enclosed inner sleeping room for up to three people, plus a front room for boots, furniture and firewood. It has a built-in stove jack, a full-mesh inner tent, dual doors and side mesh windows.\n\nWhere the FireHiking and Naturehike share one open floor, this one splits sleeping from living space, which keeps wet gear and stove traffic away from beds. Setup is a staked outline, a raised center pole and tightened guylines, with no pole sleeves to fight.\n\nIt suits a small family that wants a bedroom and a gear room under one roof. The double-layer build adds a rain barrier over the sleeping area.",
     "specs": [
       "Sleeps three, plus front room",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31eAwwVm-SL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09XM8FXRF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09XM8FXRF?tag=rvgearlab-amz-20",
     "description": "The FireHiking tipi lists 4 to 5 people with its semi inner tent and 4 to 8 people without it, built from 70D polyester with a 3000mm rain rating. Two opposite doors and a vent set (two mesh-covered at the top, two larger ones at the bottom) handle airflow.\n\nIt is the largest tent in this comparison, which separates it from the 2-4 person Naturehike and the 2-person Longeek. The opposing doors give a cross path for fresh air along the floor.\n\nIt suits bushcraft groups and hunting parties that cook and heat in one big shared room. The tipi shape gives the most standing space in the middle.",
     "specs": [
       "Holds 4 to 8 people",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31s1MdOIU7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CDBYTG89?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CDBYTG89?tag=rvgearlab-amz-20",
     "description": "The Naturehike Ranch Fire is a double-walled tipi that comes with a mesh inner tent and a snow skirt. Its floor runs 10.8 ft each way under a 6.9 ft peak, and the 210T flame retardant polyester shell weighs about 10.6 lb with a fire-rated stove jack.\n\nNext to the FireHiking it trims the volume and gains a snow skirt plus a stated flame-retardant fabric. Compared with the Longeek, it brings a full inner tent and two doors for a similar spend.\n\nIt suits three or four people who want a cold-weather tipi that still packs to 23.6 by 7.5 by 35 inches. Two top vent windows add airflow for warm trips.",
     "specs": [
       "10.8 ft square floor",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21RbmDTw5gL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08PNRNF7Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08PNRNF7Q?tag=rvgearlab-amz-20",
     "description": "The Longeek is an octagonal tipi with a 3.2 m maximum floor diameter and 1.6 m height, built from ripstop fabric with PU3000mm waterproofing. One window doubles as a stove jack, with two screened vents and two opposite zipper doors.\n\nIt is the cheapest tipi here and the only floorless one, which gives air circulation and more room than a four- or six-sided shape. It also includes aviation aluminum poles and 16 pegs, where others focus on fabric ratings.\n\nIt suits a solo camper or pair who wants a stove tipi at the lowest cost. It can also be pitched under a tree without the pole for extra headroom.",
     "specs": [
       "3.2 m floor diameter",

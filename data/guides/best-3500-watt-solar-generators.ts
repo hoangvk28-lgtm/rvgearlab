@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51jCu3HF5wL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F47FKBQ4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F47FKBQ4?tag=rvgearlab-amz-20",
     "description": "The ABOK Ark3600 lists 3840Wh of EVE LiFePO4 cells expandable to 11520Wh, 3600W rated and 7200W peak output, and up to 3500W of combined AC and solar charging. It has a TT-30 RV port, four 20A AC outlets, a 100W USB-C port and a smart app for scheduled charging, and it comes bundled with three 200W panels.\n\nIt has the most capacity on the list and the largest bundled solar array, with a UL 2743 test and a 5-year warranty. Compared with the Jackery HomePower 3000, it adds 768Wh and a third panel at the same bundle price.\n\nIt suits RV owners who want a big LiFePO4 station with a built-in 30A port and panels to match. Off-peak charging schedules cut grid costs.",
     "specs": [
       "3600W rated, 3840Wh LiFePO4",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/413GZxMHAnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FFSDCNR4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FFSDCNR4?tag=rvgearlab-amz-20",
     "description": "The Jackery HomePower 3000 lists 3072Wh, 3600W output with 7200W surge, a UPS switchover within 20ms and a TT-30 RV port. LiFePO4 cells are rated for 4,000 cycles at 70 percent capacity, and it recharges in 1.7 hours through hybrid AC and DC. It ships with two 200W SolarSaga panels, which can arrive in separate packages.\n\nIts CTB build is listed as 43 percent lighter and 47 percent smaller than comparable models. Compared with the ABOK, it holds fewer watt-hours and fewer panels, with Jackery's service network.\n\nIt suits travel trailer owners who want plug-and-play power through a TT-30 port and a name brand. It keeps a fridge running for 1 to 2 days, according to the listing.",
     "specs": [
       "3600W, 3072Wh LiFePO4",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41MyGmNjEFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F6YCRKTJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F6YCRKTJ?tag=rvgearlab-amz-20",
     "description": "The PECRON F3000LFP lists 3072Wh of LiFePO4 and 3600W of pure sine wave output, with 13 ports including a 100W USB-C. AC charging reaches 1800W for a 2 hour recharge, solar input accepts up to 1600W at 25 to 120 volts, and UPS switchover is 8 to 20 milliseconds. It expands to 10752Wh with a separate battery.\n\nIt carries the same 3072Wh and 3600W as the Jackery HomePower 3000 at about half the price, with no panels in the box. Compared with the ABOK, it holds fewer watt-hours and has no RV port listed.\n\nIt suits buyers who already own panels or plan to expand with a second battery. The 1600W solar input accepts a large array.",
     "specs": [
       "3600W, 3072Wh LiFePO4",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41mUnXVbLbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GTPZ1YR8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GTPZ1YR8?tag=rvgearlab-amz-20",
     "description": "The ECOGREAT PowerMax 3600 PE lists 2016Wh of LiFePO4, 3600W rated and 7200W peak output, 1500W AC charging for a full charge in 1.5 hours and 1600W maximum solar input. A 200W panel comes with it, and 14 ports include four 120V AC outlets, with an app, an EPS switchover under 10ms and a 5-year core component warranty.\n\nIt weighs 52 pounds, the lightest listed weight here, and its price includes a panel. Compared with the PECRON, it holds a third less energy and adds a panel to the order.\n\nIt suits campers who want a 3600W inverter in a lighter body and a panel included. It runs high-wattage tools in short bursts.",
     "specs": [
       "3600W, 2016Wh LiFePO4",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/417PSNnMsLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FMXCPWBN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FMXCPWBN?tag=rvgearlab-amz-20",
     "description": "The Jackery HomePower 3600 Plus lists 3584Wh, 3600W output (7200W in parallel with dual 120V and 240V voltage) and ceramic membrane LFP cells with 6,000 cycles and a 10-year life. It recharges in 2 hours via hybrid AC and DC and expands to 21kWh per unit. The bundle includes two 200W panels, shipped separately.\n\nIt is the only unit with 240V in parallel and the highest price, and it states the lightest 3.6kWh LFP construction. Compared with the ABOK, it adds 240V and a 10-year life, with no RV port listed.\n\nIt suits homeowners who want a transfer-switch-ready station for pumps, heaters and dryers. The listing describes plug-and-play use with its MTS.",
     "specs": [
       "3600W, 3584Wh LFP",

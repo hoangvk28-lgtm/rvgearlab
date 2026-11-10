@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31BN5UBXRJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DCBB2YTR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DCBB2YTR?tag=rvgearlab-amz-20",
     "description": "The Anker 25,000mAh bank lists 165W total output with three 100W USB-C ports, two built-in USB-C cables and a USB-A port. One cable extends up to 2.3 feet and is rated for 20,000 retractions, and the bank can charge four devices at once.\n\nAgainst the INIU and Baseus, it is the only one with three 100W ports and built-in cables. That makes it the pick for charging two laptops and a phone together.\n\nIt suits campers who share a bank between a couple of laptops and a tablet. Built-in cables mean fewer things to forget.",
     "specs": [
       "25,000mAh, 165W total",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41pvsOQmE5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GJ8L7HVH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GJ8L7HVH?tag=rvgearlab-amz-20",
     "description": "The INIU delivers 100W from a 25000mAh pack that the listing calls airline approved and about 30 percent smaller than a soda can. A 30 minute charge takes a 14 inch MacBook Pro from 20 to 72 percent, and a 0.4 ft 100W USB-C cable is included.\n\nCompared with the Baseus, it holds more capacity at a lower price. The detachable cable avoids the breakage risk of a built-in one.\n\nIt suits travelers and campers who want one laptop charged fast from a bank that flies. The listing also names Steam Deck, ROG Ally and Legion Go.",
     "specs": [
       "25000mAh, 100W output",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4134h1XpaKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DK8V9LSV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DK8V9LSV?tag=rvgearlab-amz-20",
     "description": "The Baseus lists 100W PD fast charging from a 20000mAh cell with two USB-C and two USB-A outputs and a real-time power display. It charges a MacBook Pro to 50 percent in 30 minutes, ships with a 100W cable and carries a 24 month warranty.\n\nAgainst the INIU, it adds a power display and a long warranty. The slim blade shape slides into a briefcase.\n\nIt suits campers and commuters who want a thin bank and a live readout. UL and IEC protection are named.",
     "specs": [
       "100W PD, 20000mAh",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41cNgC9VMoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CQNYQ8X9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CQNYQ8X9?tag=rvgearlab-amz-20",
     "description": "The EnginStar is a 42000mAh, 155Wh bank with one 110V AC outlet rated 150W, two DC sockets and USB ports for up to 6 devices. The listing says it charges a laptop up to 2.5 times and recharges by wall, car or a 12 to 25V solar panel.\n\nCompared with the USB-C banks, it has a real AC outlet, so a laptop charger or a small appliance plugs straight in. A 1000 cycle rating is listed.\n\nIt suits campers who want AC for the laptop's own charger and have a car or solar to refill it. It is a step toward a small power station.",
     "specs": [
       "42000mAh, 155Wh, 150W AC",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41H27zmeiLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B8HMDRYZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B8HMDRYZ?tag=rvgearlab-amz-20",
     "description": "Inside the MARBERO M822 sits a 148Wh cell feeding a 110V inverter that is rated 200W with a 270W ceiling. Quick-charge QC3.0 sockets, extra USB-A outlets and a PD USB-C jack surround it, and a pair of LED flashlights double as a lantern.\n\nCompared with the EnginStar, it offers more AC headroom and built-in lights. It charges from a wall or car.\n\nIt suits campers who want light and laptop power in one box. Surge headroom of 270W helps with chargers.",
     "specs": [
       "148Wh, 200W AC (270W max)",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51RqhJSR3sL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CQT5G1ZR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CQT5G1ZR?tag=rvgearlab-amz-20",
     "description": "The DaranEner is a small LiFePO4 power station with 89.6Wh, a 100W AC output (200W peak), two AC sockets, 7 output ports and four charging methods. It weighs 2.54 lb and charges from 0 to 80 percent in about 1.5 hours.\n\nAgainst the MARBERO, it uses LiFePO4 for a 3500 plus cycle rating and fanless operation. Two AC sockets let a laptop and a phone charger plug in.\n\nIt suits campers who want a long-life mini station that behaves like a bank. At under 100Wh it is airline friendly.",
     "specs": [
       "89.6Wh LiFePO4, 100W AC",

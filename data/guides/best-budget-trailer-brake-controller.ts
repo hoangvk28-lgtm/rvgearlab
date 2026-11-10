@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41un0z5zUYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D3WGSRJB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D3WGSRJB?tag=rvgearlab-amz-20",
     "description": "The briidea is a proportional controller sold for 1 to 4 axle trailers (2 to 8 brakes) with a boost mode and a digital display. The listing adds overcurrent and short circuit protection with fault detection.\n\nIt ranks first because it combines proportional braking and a four-axle range at the lowest proportional price here, under $50. The Kolasina 90160 below costs more and stops at three axles, though it adds a manual slider and a quick-release bracket.\n\nBest for a heavier tandem or triple-axle trailer on a tight budget. The listing recommends mounting it under the dash, and you still need a vehicle harness.",
     "specs": [
       "Proportional, 1 to 4 axles",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41MKL7nQxwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FH1QY3TY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FH1QY3TY?tag=rvgearlab-amz-20",
     "description": "The Kolasina 90160 is a proportional controller listed as a direct replacement for the Tekonsha 90160 Primus IQ, for 1 to 3 axle trailers with 2, 4 or 6 electric brakes. It has an LED display with continuous self-diagnostics, and a manual slider for instant braking.\n\nCompared with the briidea above it drops one axle of range, but it adds a snap-on quick-release bracket plus a screw-in bracket that rotates 180 degrees. Next to the LAJBZ 90160 below it is a little cheaper and names its axle range outright.\n\nBest for a one or two axle camper that wants proportional braking and the manual slider close at hand. Confirm the harness for your truck separately.",
     "specs": [
       "Proportional, 1 to 3 axles",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41-BeTCdDML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HFCHVZNW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HFCHVZNW?tag=rvgearlab-amz-20",
     "description": "The LAJBZ is a proportional controller listed as compatible with the Tekonsha 90160 Primus IQ. It lists self-leveling, three boost settings and a backlit LED that shows voltage, connection status and diagnostics.\n\nIt costs slightly more than the Kolasina 90160 and does not state an axle range in its title, which is the main reason it ranks below it. In exchange you get self-leveling, so the mounting angle matters less than on the briidea.\n\nBest for an owner who wants a backlit readout and does not want to fuss over mounting angle. Vehicle harnesses are sold separately, and the axle rating should be confirmed with the seller.",
     "specs": [
       "Proportional, self-leveling",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/412wQshla2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GV3WBYYS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GV3WBYYS?tag=rvgearlab-amz-20",
     "description": "The Bydorunce 8507111 is a time-delay controller for 1 to 4 axles (2 to 8 brakes) with an LED display, adjustable output and a manual override lever. Time-delay braking gradually applies trailer brake power after the vehicle brakes.\n\nIt is the lowest price here by a wide margin, under $30, but it is not proportional, so the stop follows a timer instead of your deceleration. Against the briidea it costs about half, which is the whole tradeoff.\n\nBest for a light trailer pulled occasionally, where a predictable ramp is fine. The listing says the wiring harness is not included, so budget for one.",
     "specs": [
       "Time-delay, 1 to 4 axles",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41XhcDxNFWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B098QKV1MW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B098QKV1MW?tag=rvgearlab-amz-20",
     "description": "The RED WOLF is a 4 pin brake control wiring harness, not a controller. The listing says it fits 1994 to 2009 Dodge Ram models and works with a Tekonsha 3020-P or P3 90195 controller.\n\nIt plugs in under the dash without cutting a factory wire, and the cable runs 31 inches, long enough to reach the center dash. Compared with the Oyviny harness below it covers Dodge and Chrysler, not Ford.\n\nBest for a Dodge Ram owner pairing a controller with a plug-in adapter. It does nothing on its own, and you should match your exact truck year first.",
     "specs": [
       "4 pin brake control harness",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/416HxsfpQkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09HTSV4LF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09HTSV4LF?tag=rvgearlab-amz-20",
     "description": "The Oyviny 3035-P is a brake controller wiring adapter, not a controller. The listing says it fits 1994 to 2008 Ford F-150 models and various F-250 to F-550, Bronco and E-series years, plus some Land Rover and Lincoln models.\n\nIt plugs into the controller and the vehicle's connector with no cutting or splicing, using a standard 4 pin plug and 31 inch length. Where the RED WOLF Dodge Harness covers Dodge, this one covers Ford and a few other makes.\n\nBest for an older Ford owner who needs a plug-and-play adapter for a dash controller. Verify your truck's year and model against the long fit list before you order.",
     "specs": [
       "Standard 4 pin plug",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31RWclZgsRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CSVN13HM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CSVN13HM?tag=rvgearlab-amz-20",
     "description": "The Roodike is a 17-inch five-blade ceiling fan with a 13.2 ft UL-listed cord and an on/off button. It runs on 5W from a USB charger, laptop, power bank or car charger, with a 330 RPM rotation and a listed 36 dB.\n\nIts 13.2 ft cord is much longer than the Mengnessly's 69-inch cable, and it is the only corded fan with a stated noise figure. The RITPHI and Mengnessly are close in size and list no noise number.\n\nIt suits a car camper who wants a steady overhead breeze and can run the cord to the vehicle. A 1 kWh draw means it can run about 200 hours.",
     "specs": [
       "17-inch, five blades",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31-473dxHRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FGW5PQY6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FGW5PQY6?tag=rvgearlab-amz-20",
     "description": "The RITPHI is a 16.5-inch USB ceiling fan with six detachable blades and a cable with an inline switch. It offers wind speed and timing adjustment and runs from laptops, power banks, USB chargers and 2A wall adapters.\n\nIt adds a timer where the Roodike has only an on/off switch. Against the Mengnessly it brings the same size and six blades with a better set of controls.\n\nIt suits a camper who wants a timer so the fan stops after they fall asleep and the power bank survives to morning. The detachable blades make it easier to store.",
     "specs": [
       "16.5-inch, six blades",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/419lXN6DeuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GFWQB9CC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GFWQB9CC?tag=rvgearlab-amz-20",
     "description": "The FIALAME is a 9.25 by 3.53 inch ceiling fan weighing 390g with four speeds, three brightness levels and a remote with timers. A 7200mAh battery charges over USB in 4 to 6 hours.\n\nWhere the Roodike, RITPHI and Mengnessly stay on the cord, this one charges and then runs cord-free. It is the smallest by far, and the only one with a built-in light.\n\nIt suits a backpacker or a hammock camper who can top it up from a power bank in the day and hang it in the dark. Remote timers of 1, 2, 6 and 8 hours handle bedtime.",
     "specs": [
       "7200mAh, USB charging",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21TIj5iXquL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09TXPW168?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09TXPW168?tag=rvgearlab-amz-20",
     "description": "The Mengnessly is a 16.5-inch USB ceiling fan with six blades, copper motor and a stop-on-touch safety feature. A 69-inch USB cable runs it from any 2A USB source with no battery inside.\n\nIt is the lowest price of the four, and its copper motor and touch-stop safety stand out at that price. The RITPHI adds timing, and the Mengnessly gives that up for a simple build.\n\nIt suits a camper who wants a basic overhead breeze on the cheapest plug-in plan. The blades are 6.7 inches long, with a 6.1 inch fan height.",
     "specs": [
       "16.5-inch, six blades",

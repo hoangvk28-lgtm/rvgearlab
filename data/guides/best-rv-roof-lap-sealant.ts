@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410A5QMAQmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D1VK945H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D1VK945H?tag=rvgearlab-amz-20",
     "description": "The WELLUCK 4-piece self-leveling lap sealant is a white hybrid formula for RV roofs, with 10 minutes of working time and a 24 hour cure. It lists low odor, low VOC and bonding in conditions from 0 to 104 degrees F.\n\nAgainst the CUKWUYBY, it costs less per pack and states working time and cure. Against the Liquid Rubber pack, it lists hybrid chemistry.\n\nBest for small jobs on edges, vents and air vent bases. A budget-friendly four tubes.",
     "specs": [
       "4 pack self-leveling lap sealant",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zeKFpBzaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BY3BKX4X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BY3BKX4X?tag=rvgearlab-amz-20",
     "description": "The Liquid Rubber RV Lap Sealant 4-pack is a self-leveling sealant designed to flow and level around horizontal roof details such as vents, skylights, AC units, antenna mounts and seams. It forms a flexible waterproof barrier and is meant to be used with Liquid Rubber Seam Tape and RV Roof Coating.\n\nAgainst the WELLUCK, it fits into a named roof system. Against the generic 1021 tubes, it costs less per tube.\n\nBest for owners using a Liquid Rubber roof system. A clean horizontal detail sealant.",
     "specs": [
       "4 pack self-leveling lap sealant",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51BdFkg+O5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GM4VS7DW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GM4VS7DW?tag=rvgearlab-amz-20",
     "description": "The CUKWUYBY 8-pack is a self-leveling RV sealant that levels within 30 seconds after extrusion. It lists bonding to EPDM, TPO, aluminum, brass, steel, glass, mortar and wood, UV resistance and a low-odor non-toxic formula.\n\nAgainst the WELLUCK, it gives eight tubes and names more substrates. Against the Dicor, it levels by itself.\n\nBest for large roof jobs and owners who reseal annually. A big pack at a low unit cost.",
     "specs": [
       "8 pack self-leveling sealant",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51xocXWfoOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H2FVHWKP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H2FVHWKP?tag=rvgearlab-amz-20",
     "description": "The Lipert Components 1021 self-leveling lap sealant is for fifth wheels, travel trailers and motorhomes and is offered in beige, gray, almond and white. The listing says it suits flat horizontal surfaces on the roof and around roof structures and, once cured, withstands the vibrations of RV travel.\n\nAgainst the generic 1021, it is a few dollars cheaper and offers color options. Against the multi-packs, it has no pack count listed.\n\nBest for matching a non-white roof or trim. A good choice for color matching.",
     "specs": [
       "Self-leveling 1021 lap sealant",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51GLLorRjDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H3M49SKY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H3M49SKY?tag=rvgearlab-amz-20",
     "description": "The 1021 self-leveling RV roof sealant is a flexible waterproof lap sealant for roofs, vents, skylights, seams, trim and exterior joints. It is listed for rubber, metal and fiberglass roof surfaces in a low-VOC white formula.\n\nAgainst the Lipert 1021, it names rubber, metal and fiberglass roof types. Against the multi-packs, it has no pack count listed and a higher price.\n\nBest for owners who want a roof-material list on a single tube. A fine pick for mixed materials.",
     "specs": [
       "Self-leveling, low-VOC white",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31KPb724qVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B019QGSE4C?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B019QGSE4C?tag=rvgearlab-amz-20",
     "description": "The Dicor 551LSB is a 10.3 oz black non-leveling lap sealant that provides a secure secondary seal along roof edges and termination rails. It is HAPS-free, compatible with EPDM, TPO and PVC membranes and bonds to aluminum, mortar, wood, vinyl, galvanized metal, fiberglass and concrete.\n\nAgainst the self-leveling tubes, it holds its shape for edges and termination rails. Against the generic 1021, it lists EPDM, TPO and PVC compatibility.\n\nBest for edges and rails that need a black, shape-holding bead. A staple for professional repairs.",
     "specs": [
       "10.3 oz non-leveling, black",

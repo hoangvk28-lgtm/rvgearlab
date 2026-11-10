@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51CvKwIq+uL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H7LYYM7L?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H7LYYM7L?tag=rvgearlab-amz-20",
     "description": "This is the lowest-priced complete system here at $799. The box holds four 120W rigid monocrystalline panels (480W total), one 12.8V 100Ah LiFePO4 battery with a built-in BMS, a 1000W pure sine wave inverter rated 2000W peak, a 40A MPPT controller, a Y connector, battery cables, 2.5 meter PV extension cables and four Z mounting brackets. The listing quotes 1,280Wh of usable battery energy.\n\nAgainst the ECO 400W Kit at $1,094.99, it gives you 80 more watts of panels and a similar 100Ah battery for $295.99 less, though its inverter is 100W smaller and it lacks the Bluetooth module that kit lists. Against the ECO 480W Dual at $999, you pay $200 less and get half the battery, since that kit carries two 100Ah units and a 2000W inverter.\n\nPick this if you want lights, fans, phone and laptop charging and a small fridge on a trailer, and you will not run a microwave. The caveat is that the brand is not named in the listing, so confirm warranty terms with the seller before you order.",
     "specs": [
       "480W, 4 x 120W panels",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51QPWlP8ifL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FRYW7HXR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FRYW7HXR?tag=rvgearlab-amz-20",
     "description": "ECO-WORTHY packs four 120W rigid panels (480W), two 12.8V 100Ah LiFePO4 batteries, a 2000W pure sine wave inverter with 4000W surge, a 40A MPPT controller, a Y branch connector, extension and battery cables and four Z brackets into one $999 kit. The listing says the panels reach 22.7% cell efficiency and quotes about 1,920Wh of daily production in 4 hours of sun, which is simply 480W times 4.\n\nIt ranks second because it doubles the storage of the 480W Value Kit for $200 more and doubles the inverter to 2000W. The ECO 400W Kit costs $95.99 more than this one yet offers half the storage and a smaller 1100W inverter. The tradeoff is size: two batteries and a 2000W inverter need a ventilated bay, and the listing does not give battery or panel weights.\n\nChoose it if you want a coffee maker, a TV and a 12 volt fridge to run overnight without watching every watt. The caveat is that 2000W of AC on a 12 volt bank means roughly 170 amps of DC draw, so plan thick cable and a proper fuse, which the box does not fully cover.",
     "specs": [
       "480W, 2 x 100Ah LiFePO4",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41tEmwMLhWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H6B7TS28?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H6B7TS28?tag=rvgearlab-amz-20",
     "description": "This kit contains four 100W panels (400W), one 12V 100Ah lithium battery with BMS, a 40A MPPT controller, an 1100W pure sine wave inverter and a Bluetooth 5.0 module. The listing quotes about 1.6kWh per day in 4 hours of sun and says the inverter converts 12V to 110V at 95% efficiency with 1 percent no-load loss.\n\nCompared with the 480W Value Kit it costs $295.99 more for 80W less solar and a 100W larger inverter, and the clear gains are the Bluetooth module and a named brand with a support history. It also costs $95.99 more than the ECO 480W Dual while carrying half the battery and a smaller inverter, so the price is hard to justify on specs alone.\n\nChoose it if phone-based monitoring of panels, battery and load matters to you and you prefer a branded warranty path. Skip it if you are choosing on watts per dollar, because two cheaper kits here beat it on both panel and storage.",
     "specs": [
       "400W, 4 x 100W panels",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51BPH1fLbtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FH4TMXSY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FH4TMXSY?tag=rvgearlab-amz-20",
     "description": "The ECO 780W 7kWh kit includes four 195W bifacial panels (780W), a 12V 3000W inverter charger that also accepts shore power as a UPS, two 12.8V 280Ah lithium batteries (7,168Wh together), a 60A MPPT controller, a Bluetooth module and cables. It sells for $2,259.99 and the listing says it can power refrigerators, air conditioners and microwaves.\n\nIt carries about 5.6 times the battery of the 480W Value Kit and 2.8 times the ECO 480W Dual, and its inverter is rated 3000W against 2000W. Next to the SunGold 800W 24V at $2,502, it costs $242.01 less and stays on a 12 volt system, which keeps existing 12V appliances simple, but a 3000W load on 12V pulls over 250 amps.\n\nPick this if you boondock often and want a large 12V bank with generator-free recharging from shore power through the inverter charger. The caveat is that the 780W array is small against 7kWh of storage, so a full recharge by sun alone takes about three or four good days on a 4 sun hour estimate.",
     "specs": [
       "780W, 4 x 195W bifacial",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51bO+Fy+0zL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GVF4DZTT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GVF4DZTT?tag=rvgearlab-amz-20",
     "description": "SunGold supplies a 3000W 24V all-in-one solar inverter with a 120V output and an 80A charger, four 200W panels (800W), two 24V 100Ah LiFePO4 batteries (5.12kWh) with Bluetooth and self-heating, four Z brackets, a 50 foot PV extension set, a 160A DC breaker, a 25A PV breaker and 4 AWG cables. It costs $2,502, and the listing quotes about 3.2kWh per day in 4 hours of sun, which is 800W times 4.\n\nAt 24 volts the same 3000W load draws about 125 amps instead of more than 250, so cables stay manageable, and the breakers are included, which most other kits here leave to you. It stores 2,048Wh less than the ECO 780W 7kWh kit but costs $242.01 more, so you pay for the 24V architecture, heated batteries and protection hardware, not for capacity.\n\nChoose it if you plan to run a rooftop air conditioner and want cold-weather battery heating. The caveat is that the 24V bank cannot feed 12V RV loads directly, so you will need a converter or a 12V sub-system for lights and the fridge.",
     "specs": [
       "800W, 4 x 200W panels",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51EGDvut8aL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HF85676J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HF85676J?tag=rvgearlab-amz-20",
     "description": "This kit holds six 195W panels (1,170W), an 8kWh LiFePO4 battery with an LED state-of-charge display, a 3000W inverter charger with 6000W surge and up to 100A of battery charging, a 60A MPPT controller and cables. It costs $2,699.99 and is the only one here with more than 800W of panels, which the listing says yields up to 4.68kWh per day at 4 sun hours.\n\nThat array is about 46 percent larger than the SunGold 800W 24V and 50 percent larger than the ECO 780W 7kWh, so on a 4 sun hour estimate it can refill its own battery in two to three days instead of three or four, and the $197.99 premium over SunGold buys the extra panels and 2.88kWh more storage. The listing does not state battery voltage or whether it ships as one pack or several, so verify that with the seller.\n\nPick it if you stay parked for days and want solar to do most of the recharging. The caveat is roof space, since six 195W panels cover far more area than a trailer's vent-free stretch, and the listing gives no panel dimensions.",
     "specs": [
       "1170W, 6 x 195W panels",

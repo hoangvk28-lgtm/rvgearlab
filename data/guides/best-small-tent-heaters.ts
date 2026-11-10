@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Iytj3+yLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F9FFYZPS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F9FFYZPS?tag=rvgearlab-amz-20",
     "description": "The Intcoll heater works with 1 lb propane tanks and ISO-butane canisters, with an included connector. A one-click self-ignition button, a foldable anti-tip base and a hardshell carrying case come with it.\n\nNext to the Caynel and GasCalorix it adds a hard case and a 12-month warranty. Its listing alone names an anti-tip base.\n\nIt suits a backpacker or car camper with a small tent. The stable base and easy light make it simple to use.",
     "specs": [
       "1 lb propane or ISO-butane",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41KpkiJFv1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CH7V9JMJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CH7V9JMJ?tag=rvgearlab-amz-20",
     "description": "The Caynel is a 2-in-1 portable propane heater and stove with a maximum output of up to 9000 BTU. It lists a cooking temperature range of 935 to 1110 degrees F and an adjustable fire valve.\n\nIt carries the lowest price tag and is the only one that cooks as well as heats. The 9000 BTU headline figure is the highest stated here, as the other two listings give no BTU number.\n\nIt suits a minimalist who wants one small unit. It warms hands and heats a meal.",
     "specs": [
       "Up to 9000 BTU",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/413iaJZoriL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FF9W8WCW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FF9W8WCW?tag=rvgearlab-amz-20",
     "description": "The GasCalorix is a radiant propane heater that the listing says reaches up to 200 square feet with two heat settings on a control knob. It uses 1 lb propane tanks, which are not included, and has a protective front grill.\n\nCompared with the Intcoll it adds a front grill and a cylinder stand without listing butane. It costs more than the Intcoll or Caynel.\n\nIt suits a camper who wants a guarded radiant face. The listing says to use it in well-ventilated areas.",
     "specs": [
       "Radiant, up to 200 sq ft",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41gfD+ayBBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07N1C6LP3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07N1C6LP3?tag=rvgearlab-amz-20",
     "description": "The DREAM PAIRS Duck is a women's mid-calf winter boot with 3M Thinsulate insulation, a waterproof upper and a durable EVA rubber outsole with tread. A woven back panel with dual adjustable buckle straps and a 9 inch shaft complete it.\n\nIt costs about $45, the highest in this guide, and it is the only boot here that names a branded insulation. The 9 inch shaft rises well above the ankle styles, so snow stays outside, and the buckle straps let you adjust the calf fit.\n\nIt suits women who camp, walk the dog or shovel in winter and want named insulation and a waterproof upper. The sizing runs true, and wide feet should order a size up.",
     "specs": [
       "3M Thinsulate insulation",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41tuDVr+K6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07V3G66Y1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07V3G66Y1?tag=rvgearlab-amz-20",
     "description": "The Labo Pro Leather is a men's winter snow boot with a genuine leather upper, a rubber sole, a waterproof construction and an adjustable lace-up closure. It is built as an insulated work and safety style boot.\n\nIt costs about $36, about $9 under the DREAM PAIRS Duck, and the leather upper stands up to abrasion better than the synthetic uppers of the AIRHAS Sneaker or the DXINZHI Fur-Lined. Laces let you tighten it over thick socks.\n\nIt suits men who walk on rough ground, haul wood or work outdoors in winter. Condition the leather occasionally to keep it supple.",
     "specs": [
       "Genuine leather upper",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41cwBFIpUFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09JBHGNWG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09JBHGNWG?tag=rvgearlab-amz-20",
     "description": "The DXINZHI Fur-Lined is a men's lightweight winter snow boot with thick fur lining inside, a tinfoil plush insole and a non-slip rubber outsole with a distinct tread pattern. It is made for both indoor and outdoor wear.\n\nIt costs about $36, the same as the Labo Pro Leather, and it is much lighter and softer with no leather upper. The plush lining wraps the foot, which feels warmer at rest than the Labo Pro Leather.\n\nIt suits men who want a light, warm boot for short winter walks and driving. It also works as a camp bootie around the fire.",
     "specs": [
       "Thick fur lining",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Z7tNmnBQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CG9T2LBJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CG9T2LBJ?tag=rvgearlab-amz-20",
     "description": "The SHIBEVER Outdoor is a women's ankle boot with dense faux fur lining, a waterproof upper with reinforced stitching and a slip-resistant sole. The cut leaves room for thick winter socks.\n\nIt costs about $32, between the Labo Pro Leather and the AIRHAS Sneaker, and it adds reinforced stitching that the other SHIBEVER pairs lack. It is shorter than the DREAM PAIRS Duck, so it is for cleared paths.\n\nIt suits women who want a warm, snug ankle bootie for commuting and light trails. Wear thick wool socks for extra warmth.",
     "specs": [
       "Dense faux fur lining",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4171GQ35j2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FQPF7CTT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FQPF7CTT?tag=rvgearlab-amz-20",
     "description": "The AIRHAS Sneaker is a women's ankle boot with a removable molded foam insole under a velvet cover, a lace-up closure and a TPR outsole with enhanced traction. The synthetic suede and felt upper looks like a sneaker.\n\nIt costs about $21, around $24 less than the DREAM PAIRS Duck, and it is the only boot here with a removable insole you can replace with an orthotic. The felted section is not water resistant, so it suits dry cold.\n\nIt suits women who want a sneaker-style winter shoe for dry cold days and fall to spring use. Laces let you adjust the fit.",
     "specs": [
       "Removable molded foam insole",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31xOyV9TWIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FHHH1XVX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FHHH1XVX?tag=rvgearlab-amz-20",
     "description": "The SHIBEVER Side Zip is a women's slip-on ankle bootie with thick fur lining, a synthetic leather upper that sheds water and a side zipper. The sole has a tire-groove tread for traction.\n\nIt costs under $20, the lowest in this guide, and the side zipper makes it quicker on and off than the AIRHAS Sneaker. The fur-trimmed top blocks drafts at the ankle.\n\nIt suits budget buyers who want warm feet for short cold errands. Wear it for the drive to a trailhead or a campground walk.",
     "specs": [
       "Thick fur lining",

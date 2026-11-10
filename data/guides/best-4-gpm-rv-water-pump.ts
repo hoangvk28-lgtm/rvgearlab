@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51rL-c6OghL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GP5629MN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GP5629MN?tag=rvgearlab-amz-20",
     "description": "The LEGLO is a 12V DC pump rated 4.0 GPM at 45 PSI with a stated 98 foot lift. Its box holds two 1/2 inch barbed adaptors, two 90 degree pump fittings, two clamps and a 50 mesh inlet strainer.\n\nIt carries the most complete parts list of the 12V pumps here, and the 90 degree fittings help in tight bays. The Bootee and ZMW7 Gidrox match its flow, while this one adds a detailed mounting note on a flat rigid surface.\n\nThe right fit for owners who want a ready-to-install 12V pump with a full fittings set. The 45 PSI setting is friendly to standard RV plumbing.",
     "specs": [
       "4.0 GPM at 45 PSI",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41VNUk3lUcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GGGMZMW7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GGGMZMW7?tag=rvgearlab-amz-20",
     "description": "The Gidrox 12V pump lists 4.0 GPM at a factory 45 PSI, adjustable from 30 to 80 PSI, with a 10 foot self-prime and 100 foot head. It names 158 degree F overheating protection and a vortex noise reduction design on a rubber base.\n\nAgainst the LEGLO, it adds an adjustable pressure range and a stated 40 dB noise level, while the LEGLO leans on parts. It is also cheaper than the LEGLO.\n\nA good pick for owners who want to tune pressure and sleep near the pump. The damping base keeps vibration off thin panels.",
     "specs": [
       "4.0 GPM, 45 PSI preset",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ba8JEJhVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FLNDD946?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FLNDD946?tag=rvgearlab-amz-20",
     "description": "The Bootee is a 12V pump with a 4.0 GPM flow, 45 PSI automatic pressure switch, 101 foot lift and 9.8 foot suction height. A permanent magnet motor, thermal overload protection and a low-noise rubber base are listed.\n\nIt sits close to the Gidrox in price and gives a clean spec set with a higher stated lift. Its listing aims at camping, marine and cleaning uses.\n\nA sensible budget choice for owners who need 4 GPM on 12V. The thermal protection covers the motor during long fills.",
     "specs": [
       "4.0 GPM at 45 PSI",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41YK7K8cHXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C16HTQSD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C16HTQSD?tag=rvgearlab-amz-20",
     "description": "The TDR Venus 530F is a 12V pump that lists 4 GPM and 240 GPH, 170W power and a 45 PSI maximum pressure. A 50 mesh inlet strainer, a 180 day warranty and fresh-water-only guidance are included.\n\nIt states its warranty length where the Bootee and Gidrox are silent, and the strainer ships with it. It runs at a 50 PSI label on the title, slightly above the 45 PSI group.\n\nA reasonable choice for owners who want a stated warranty on a 12V pump. The 170W rating helps with sizing the wiring.",
     "specs": [
       "4 GPM, 240 GPH, 170W",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/417L9KVc0UL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GGH47Q3W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GGH47Q3W?tag=rvgearlab-amz-20",
     "description": "The Gidrox 115V pump delivers up to 4.0 GPM at a factory 45 PSI, with an adjustment span of 30 to 80 PSI. It plugs into a standard outlet and includes metal 1/2 inch to 3/4 inch garden hose adapters.\n\nIt is the choice for hookup-only use, since the 12V picks all run off the battery. The built-in smart pressure switch and quick garden hose connection set it apart from the DC pumps.\n\nA match for owners who stay at full-hookup sites or run the pump off shore power. It also works for transfer jobs around the camp.",
     "specs": [
       "4.0 GPM, 45 PSI preset",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41yoggrpTLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H635GBV4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H635GBV4?tag=rvgearlab-amz-20",
     "description": "The AUNMAS is a 24V pump rated 4 GPM at 45 PSI with a 130 foot head and G1/2 inlet and outlet. It works with a pressure switch for automatic operation and can run from a standard 24V battery bank.\n\nIt is the only 24V pump here, so it fits off-grid systems built around a 24V bank rather than the usual 12V RV bus. The G1/2 threads differ from the 1/2 inch NPT common on the rest.\n\nA niche pick for owners with a 24V power system. Everyone on a standard 12V coach should look at the other picks.",
     "specs": [
       "4 GPM, 45 PSI, 24V",

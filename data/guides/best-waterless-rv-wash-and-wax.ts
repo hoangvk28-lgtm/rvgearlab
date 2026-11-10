@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21I7b88fu5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GNTW84F1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GNTW84F1?tag=rvgearlab-amz-20",
     "description": "Liquishine Wash and Wax is a 2-in-1 RV wash that works wet or waterless. It breaks down road grime and film without aggressive scrubbing and leaves a slick, glossy, water-repellent finish with built-in wax.\n\nAgainst Aero Cosmetics, it is made for RVs and also works with water. Against the car sprays, it lists road film and bug removal.\n\nBest for RV owners who want one product for waterless touch-ups and full wet washes. A flexible choice.",
     "specs": [
       "2-in-1 RV wash and wax",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41qdOy8ebGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09CLKB7B3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09CLKB7B3?tag=rvgearlab-amz-20",
     "description": "Aero Cosmetics Wash Wax All is a water-based waterless spray that cleans and leaves a wax coating in one step. It uses a damp towel then dry towel method, contains no alcohol, ammonia or citrus and is listed as safe on paint, chrome, glass, trim, vinyl, ceramic coatings and decals.\n\nAgainst the Meguiar's and Chemical Guys sprays, it names RVs and boats and lists a wide safe-on list. Against the other Aero listing, it is the slightly higher-priced version.\n\nBest for owners who want a gentle all-surface waterless spray with a clear method. A reliable pick for decal-heavy rigs.",
     "specs": [
       "Waterless wash and wax spray",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31sv2LB-PbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B002N3RQYA?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B002N3RQYA?tag=rvgearlab-amz-20",
     "description": "The second Aero Cosmetics listing carries the same damp towel method, wax coating and safe-on list as the first. It is a water-based waterless spray for cars, RVs and boats.\n\nAgainst Aero Cosmetics Wash Wax A, it is the lower-priced listing of the same product line. Against Liquishine, it works only waterless.\n\nBest for buyers who want the Aero spray at the lowest price. A good everyday waterless option.",
     "specs": [
       "Waterless wash and wax spray",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41POm1aSX0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DQLQQT57?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DQLQQT57?tag=rvgearlab-amz-20",
     "description": "Meguiar's Hybrid Ceramic Waterless Wash and Wax is a 24 oz spray with ceramic chemistry for glossy paint and coated surfaces. It lists high lubricity, hydrophobic protection and use without a hose.\n\nAgainst Chemical Guys EcoSmart, it is a larger bottle with ceramic chemistry. Against Aero Cosmetics, it is aimed at glossy paint and clear coats.\n\nBest for glossy paint panels and quick touch-ups. A strong choice for coated finishes.",
     "specs": [
       "24 oz hybrid ceramic spray",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/415P5njpItL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00FSAV5LU?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00FSAV5LU?tag=rvgearlab-amz-20",
     "description": "Chemical Guys EcoSmart is a 16 fl oz ready-to-use waterless wash and wax with built-in wax that adds a slick layer of gloss with each pass. It needs no bucket, hose or foam cannon and is aimed at water-restricted places.\n\nAgainst Meguiar's, it is cheaper per bottle and lists a wax boost. Against Swift Wipe, it adds wax.\n\nBest for lightly soiled surfaces and spot cleaning in water-restricted areas. A convenient trigger spray.",
     "specs": [
       "16 oz ready-to-use spray",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41RN8L97h5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B079JY1HDJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B079JY1HDJ?tag=rvgearlab-amz-20",
     "description": "Chemical Guys Swift Wipe is a 16 oz waterless wash spray with a high-lubrication formula that encapsulates dirt to reduce friction. It is safe on paint, glass, wheels, chrome and plastic without streaking or residue.\n\nAgainst EcoSmart, it focuses on lubrication and has no wax claim. Against the Aero sprays, it lists no RV use.\n\nBest for quick cleanups on small areas. A budget add-on for a detailing kit.",
     "specs": [
       "16 oz waterless wash spray",

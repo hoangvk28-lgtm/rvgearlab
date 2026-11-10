@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51VoAse9iWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B003E1O9ZE?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B003E1O9ZE?tag=rvgearlab-amz-20",
     "description": "The Camco TastePURE 50 ft hose has a 5/8 inch inner diameter and is built from NSF/ANSI 61 certified hose, with CSA lead-free content certified to NSF/ANSI 372. It uses diamond-hatch reinforcement and UV stabilization, and is made in the USA.\n\nAgainst the Kohree 50ft, it names the standards outright and costs a little less, while the Kohree adds metal fittings and a storage bag. Against the Camco 25ft, it adds reach for sites with a distant spigot.\n\nBest for most RVers who want a long hose with named certifications. Plastic grip fittings are lighter than metal, so check the connection at each hookup.",
     "specs": [
       "50 ft, 5/8 inch ID",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51UWyJCgwnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CY4PCLKQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CY4PCLKQ?tag=rvgearlab-amz-20",
     "description": "The Kohree 50 ft hose has a 5/8 inch diameter, brass-plated aluminum fittings with strain relief ends and a storage bag. It is described as 20 percent thicker than standard hoses, with a 450 PSI bursting pressure and flexibility in cold weather.\n\nVersus the Camco TastePURE 50ft, it adds metal fittings and a bag but names CA65 compliance instead of NSF/ANSI 61. Versus the Kohree 25ft, it doubles the reach and adds strain relief.\n\nBest for owners who want durable fittings and a thicker wall on a long hose. Ask for a named certification if you drink from it.",
     "specs": [
       "50 ft, 5/8 inch ID",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51x1kHuAnYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B004ME11FS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B004ME11FS?tag=rvgearlab-amz-20",
     "description": "The Camco TastePURE 25 ft hose has the same 5/8 inch inner diameter and NSF/ANSI 61 certified hose with NSF/ANSI 372 lead-free certification. It shares the diamond-hatch reinforcement and the made-in-USA claim.\n\nCompared with the Camco TastePURE 50ft, it halves the length and weight. Compared with the Kohree 25ft, it names the standards but has plastic fittings.\n\nBest for campsites with a spigot within about 20 feet. Measure first, because a hose that is too short strains the fitting.",
     "specs": [
       "25 ft, 5/8 inch ID",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/417j3hoopfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08MVYY2ZZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08MVYY2ZZ?tag=rvgearlab-amz-20",
     "description": "The Kohree 25 ft hose has a 5/8 inch diameter, solid aluminum fittings with a large rubber grip and a stated 450 PSI bursting pressure. It lists CA65 compliance and lead-free, BPA-free and phthalate-free materials.\n\nVersus the Camco TastePURE 25ft, it adds metal fittings but cites CA65 instead of NSF/ANSI 61, and costs more. Versus the Nilight 15ft, it adds 10 feet of reach.\n\nBest for buyers who prefer metal fittings on a shorter hose. Confirm the certification you want on the product page.",
     "specs": [
       "25 ft, 5/8 inch ID",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41eXnGBBSVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GFTLF1V6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GFTLF1V6?tag=rvgearlab-amz-20",
     "description": "The Nilight 15 ft hose has 3/4 inch male and female aluminum fittings, three-layer construction and a storage bag. It is described as lead-free, BPA-free and phthalate-free, flexible between -4°F and 176°F.\n\nCompared with the Kohree 25ft, it is shorter and cheaper but gives less detail on diameter. Compared with the Camco TastePURE 10ft, it adds 5 feet and metal fittings.\n\nBest for short pedestal runs where a bag helps storage. Check the inner diameter on the product page, since it is not clearly stated.",
     "specs": [
       "15 ft hose with storage bag",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41QFPlNU6bL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0006JLSNI?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0006JLSNI?tag=rvgearlab-amz-20",
     "description": "The Camco TastePURE 10 ft hose has a 1/2 inch inner diameter, narrower than the 5/8 inch hoses, with NSF/ANSI 61 certified hose and CSA lead-free certification. It is useful as a short jumper, for example to a filter.\n\nVersus the Nilight 15ft, it is shorter and named-standard but slower flowing. Versus the Camco TastePURE 25ft, it has less flow capacity and reach.\n\nBest as a supplemental hose. Do not rely on a 1/2 inch hose as your only supply if you want strong flow.",
     "specs": [
       "10 ft, 1/2 inch ID",

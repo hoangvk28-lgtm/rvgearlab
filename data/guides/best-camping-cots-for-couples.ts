@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/419ZO2Qm-UL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GWMR1RWB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GWMR1RWB?tag=rvgearlab-amz-20",
     "description": "The REDCAMP 59 inch cot opens to 79 by 59 by 18 inches with an integrated mattress and pillow. It lists a 500 lb capacity, weighs 40.7 lb and zips to another cot for a bigger bed.\n\nAgainst the Coleman, it needs no pump and folds fast. Compared with the DoCred, it is a single shared surface.\n\nIt suits couples who want to sleep on one cot. Setup takes under 10 seconds.",
     "specs": [
       "79 x 59 x 18 inch queen cot",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31-c9K6N2mL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00AU6AVLW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00AU6AVLW?tag=rvgearlab-amz-20",
     "description": "The Coleman queen combo is a folding steel frame with an air mattress using coil construction. It includes a battery-powered pump and a side table with cup holders.\n\nCompared with the REDCAMP, it adds an air mattress and a side table. Against the DoCred, it is a single queen-size surface.\n\nIt suits couples who want a camp bed with a mattress feel. The side table holds a drink.",
     "specs": [
       "Queen airbed on steel frame",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51FOvonrw5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09FLRKXGC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09FLRKXGC?tag=rvgearlab-amz-20",
     "description": "The DoCred set comes with two folding cots with mattresses, each on a thick steel tube frame. They use 1200D Oxford fabric and come with a storage bag.\n\nCompared with the REDCAMP, it gives two separate beds rather than one wide one. Against the Suteck, it comes as a pair.\n\nIt suits couples who prefer their own space. Each cot folds separately.",
     "specs": [
       "Two cots with mattresses",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31o7WRZvU9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GJS79FQ1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GJS79FQ1?tag=rvgearlab-amz-20",
     "description": "The LEISURE IMPACT cot measures 41 by 83.5 by 20.8 inches and lists a 500 lb capacity. It uses a metal frame with triangular cross legs, a 10-second setup and a side pocket.\n\nAgainst the REDCAMP, it is a narrower single cot that is easier to handle. Compared with the Suteck, it is much wider.\n\nIt suits a larger sleeper or a couple who accept a snug fit. The wide surface gives room to shift.",
     "specs": [
       "41 x 83.5 x 20.8 inch size",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41GsiWWPITL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GFCG9FVT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GFCG9FVT?tag=rvgearlab-amz-20",
     "description": "The Suteck cot has a removable 3.5 lb pad, a slightly raised head and a 25mm square anti-rust steel frame. It uses double-layer 1200D Oxford and needs no assembly.\n\nCompared with the DoCred, it is a single cot you can buy twice. Against the LEISURE IMPACT, it is narrower and costs less.\n\nIt suits couples who want two cots with a thick cushion each. The raised head helps comfort.",
     "specs": [
       "Removable 3.5 lb pad",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ofzhYeViL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09GVSS1NF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09GVSS1NF?tag=rvgearlab-amz-20",
     "description": "AGEMORE pairs 550 GSM of 3D synthetic fiber fill with a 100% cotton flannel lining in a 90 x 61 inch body that fits people up to 6.5 feet. Zippers on both sides turn it into two pieces or one wide blanket, and buckle straps help it roll.\n\nIt carries 550 GSM of fill in the roomiest cut, ahead of the Guide Gear Canvas Hunter 0 on width and the WKFAMOUT 0 Degree Double on height. At about 14 lb, it is the bag that most clearly aims at true cold-season use.\n\nA strong fit for couples who camp from a vehicle through the cold months and want maximum loft. It belongs in a truck, an SUV or a cabin, not a pack.",
     "specs": [
       "550 GSM synthetic fill, 14 lb",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411QOlSvAdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B079H1LBN7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B079H1LBN7?tag=rvgearlab-amz-20",
     "description": "Guide Gear builds this double with an 8 oz cotton canvas shell, brushed cotton flannel lining and 7 lb of insulation. It measures 50 x 90 inches and adds an attached hood and a two-way full-length anti-snag zipper.\n\nCanvas stands up to campfire sparks and rough ground better than the polyester shells on the AGEMORE 0 Degree Double and the FORINBUY Flannel Double. The hood is a feature the MEREZA Flannel Double lacks.\n\nA natural choice for hunters, ranch hands and truck-bed campers who drag their gear over rough ground. The canvas shell is built for years of that treatment.",
     "specs": [
       "8 oz canvas shell",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41FW1nYRKfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DK52VMDX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DK52VMDX?tag=rvgearlab-amz-20",
     "description": "FORINBUY prints a comfort rating of 50F and a limit of 32F for this 90 x 59 inch double, with 450 gsm high-loft fill and a 210T waterproof ripstop shell. A 3-in-1 zipper layout includes an independent bottom zipper that opens up foot space.\n\nIt is the most transparent label of the five, showing both numbers where the AGEMORE 0 Degree Double and WKFAMOUT 0 Degree Double lean on a 0 degree name. It is also lighter on loft, so it trades depth of cold for flexibility.\n\nA good match for couples whose winter means mild lows and cold mornings, who value knowing the real figures. The collar strap and hood drawstring keep drafts out.",
     "specs": [
       "Comfort 50F, limit 32F",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41L1WXhPl8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FX3XQWFL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FX3XQWFL?tag=rvgearlab-amz-20",
     "description": "WKFAMOUT fills this hooded envelope double with 5.73 lb of high-loft faux silk cotton in a dual-layer top and single-layer bottom. It measures 86.7 x 59 inches for two adults up to 6 feet 2 inches, and the listing states all-night comfort at 30F.\n\nIt costs less than the AGEMORE 0 Degree Double and Guide Gear Canvas Hunter 0 on price while still giving a hood, draft tubes and a large compression sack. The MEREZA Flannel Double costs less and prints no temperature figure at all.\n\nBest for couples on a tighter budget who still want a hood and a stated 30F comfort figure. It zips apart into two singles when the trip changes.",
     "specs": [
       "0 degree label, 30F comfort",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41cAQdvba1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F1ZTPVC8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F1ZTPVC8?tag=rvgearlab-amz-20",
     "description": "MEREZA makes this XL queen double from 100% flannel with OEKO-TEX certified materials, and a pillow comes in the box. The listing describes it as large enough for two and suited to camping, road trips and sleepovers.\n\nPriced below every other bag in this list and the softest to the touch, it earns a spot next to the heavier AGEMORE 0 Degree Double and WKFAMOUT 0 Degree Double. It plays a different role, since it is a cozy shoulder-season layer rather than a cold-weather shell.\n\nA reasonable choice for families who want a flannel bag for cool nights and guest-bed duty. Layer it over an insulated pad for cold camps.",
     "specs": [
       "Queen XL double, 100% flannel",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31MeTRyt8cL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B004I70254?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B004I70254?tag=rvgearlab-amz-20",
     "description": "The Muck Arctic Pro Tall is a 17-inch rubber boot with 8 mm neoprene, a fleece lining and 2 mm of thermal foam under the footbed, and the listing gives a comfort rating from -60 degrees Fahrenheit. It is called Muck's warmest boot and is 100 percent waterproof.\n\nThe -60 degree rating is far below the other listed ratings here, which top out at -40 degrees on the Kamik Nation Plus and Kamik Alborg. The stretch-fit topline and 17-inch height seal in warmth more than the shorter NORTIV 8 Men's Insulated or the ALEADER Duck.\n\nIt suits a hunter, ice angler or anyone working outdoors for long hours in deep cold. Rear pull loops make it practical for gloved hands.",
     "specs": [
       "Comfort rated from -60 F",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ymvOvNKCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00AZODA80?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00AZODA80?tag=rvgearlab-amz-20",
     "description": "The Kamik Nation Plus has a waterproof nylon upper with an adjustable snow collar, an 8 mm Thermal Guard moisture-wicking liner and a lightweight rubber shell. The listing quotes warmth even at -40 degrees Fahrenheit, and a midfoot hook-and-loop strap holds the fit.\n\nThe adjustable snow collar keeps deep snow out better than the open top of the NORTIV 8 Men's Insulated. It costs less than the Muck Arctic Pro and gives more lightweight comfort than a tall rubber boot.\n\nIt suits a man who shovels, snowshoes or walks in deep snow and wants a lighter boot than a full rubber pack boot. The liner wicks sweat on active days.",
     "specs": [
       "Adjustable snow collar",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41NuW7fFV9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00284AH6I?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00284AH6I?tag=rvgearlab-amz-20",
     "description": "The Kamik Alborg is comfort rated to -40 degrees Celsius with a removable HEAT-MX 145 liner, a seam-sealed nubuck leather upper and a gusset tongue. A synthetic rubber shell and a moisture-wicking lining are listed.\n\nA removable liner dries overnight, which the Muck Arctic Pro and Kamik Nation Plus do not offer in the same way. The gusset tongue and seam sealing give it a more finished waterproof story than the NORTIV 8 Men's Insulated.\n\nIt suits someone who spends multi-day periods in the cold and needs to dry the liner between outings. The gusset tongue keeps slush out on long days.",
     "specs": [
       "Rated -40 C, HEAT-MX liner",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41wWfPY0mbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F6T9LDCC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F6T9LDCC?tag=rvgearlab-amz-20",
     "description": "The ALEADER Duck Boot is a women's snow boot with a woven collar and dual adjustable buckle straps, a lace-up closure, extra warming insulation and a microfleece lining. The listing states a rating of minus 26 degrees Celsius, which is minus 15 degrees Fahrenheit.\n\nIt is the only women's boot in the group with a stated cold rating, and its seam-sealed waterproof build gives it a clearer weather story than the HOBIBEAR Velvet Bootie. The textured EVA outsole is slip-resistant on ice.\n\nIt suits a woman who needs real winter cold protection with a style that also works in town. The buckle straps make the fit easy to tune.",
     "specs": [
       "-15 F rating, insulated",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41yHcW15a8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07FTM99W8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07FTM99W8?tag=rvgearlab-amz-20",
     "description": "The NORTIV 8 Men's Insulated Snow Boot has 200 grams of insulation, rated in the listing for warmth at -25 degrees Fahrenheit, with a waterproof build and a windproof synthetic toe cap. A removable washable insole and a rubber outsole made for slip and abrasion resistance are listed.\n\nIt costs about half the price of the Muck Arctic Pro and gives a stated rating and insulation weight that the HOBIBEAR Velvet Bootie lacks. The synthetic toe cap adds more protection than the Kamik Nation Plus lists.\n\nIt suits a man who wants a rated winter boot at a mid price for snow work and ice fishing. The removable insole can be washed between trips.",
     "specs": [
       "200 g insulation, -25 F",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41uDNRt-e5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B9FS85WY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B9FS85WY?tag=rvgearlab-amz-20",
     "description": "The HOBIBEAR Velvet Bootie is a women's mid-calf snow boot with a water-resistant upper, fine velvet down inside, an adjustable rope closure and a soft wear-resistant sole. It is called suitable for indoor and outdoor winter activities.\n\nIt carries the lowest price in the list and is the only pick with no stated temperature rating, so it sits in the cold-weather class rather than the extreme-cold class. The mid-calf height seals better than an ankle bootie.\n\nIt suits a woman who wants a warm boot for winter walks and short outings, not deep-freeze exposure. The rope closure makes it easy to adjust.",
     "specs": [
       "Mid-calf, fine velvet lining",

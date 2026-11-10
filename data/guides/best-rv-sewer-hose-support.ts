@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41XucbDIOvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B8JYPFNF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B8JYPFNF?tag=rvgearlab-amz-20",
     "description": "The Camco Rhino RV Sewer Hose Support Kit holds up to 15 feet of hose with five configurable sections, each about 24 inches long. The sections nest together for compact storage and fit all Camco sewer hose kits, including RhinoFLEX and RhinoEXTREME.\n\nAgainst the WELLUCK 20ft, it covers less distance but uses rigid, nesting sections that are easy to configure. It costs more than the plastic organ-style supports.\n\nBest for owners with a Camco hose who want a configurable rigid kit. Check the section height against your dump slope.",
     "specs": [
       "Five nesting sections, 15 ft",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51bgmu6EbvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DP8PQXJP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DP8PQXJP?tag=rvgearlab-amz-20",
     "description": "The WELLUCK 20ft sewer hose support in blaze orange is ready to use with no assembly and offers 9 slope settings. It includes four guy ropes and a storage strap for stability.\n\nCompared with the Camco Rhino, it reaches 20 feet and adjusts the slope, but is a lighter plastic build. Compared with the PAULINN, it adds guy ropes.\n\nBest for owners who want adjustable slope and wind stability. Confirm the setup on uneven ground.",
     "specs": [
       "20 ft, 9 slope settings",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51z5TWpsmML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DP97MD7J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DP97MD7J?tag=rvgearlab-amz-20",
     "description": "The PAULINN 20ft support uses a deep U-shaped cradle with a widened base to hold the hose. It adjusts in height, needs no assembly and carries a notice that a folded hose must be fully unfolded before placing it on the bracket.\n\nVersus the WELLUCK 20ft, it offers deeper cradles but no guy ropes. Versus the BEBOBLY, it keeps the hose in a firmer cradle.\n\nBest for owners who struggle with the hose slipping out. Follow the unfolding note to prevent back-flow.",
     "specs": [
       "20 ft, deep U cradles",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41HTDjgVNkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DP99SBWT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DP99SBWT?tag=rvgearlab-amz-20",
     "description": "The BEBOBLY 20ft support has a flexible organ-style design that curves around obstacles. It fits hoses up to 20 feet and up to 3.8 inches in diameter, and adjusts the direction quickly.\n\nCompared with the PAULINN, it bends around obstacles but holds the hose less firmly. Compared with the WELLUCK 20ft, it lacks listed guy ropes.\n\nBest for awkward sites with obstacles. Check that the hose seats into the organ folds.",
     "specs": [
       "20 ft organ-style support",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41gGQBztXLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B000EDQQJ2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B000EDQQJ2?tag=rvgearlab-amz-20",
     "description": "The Camco Sidewinder is a 10-foot telescoping plastic support with a carry handle and a curved design aimed at gravity flow. It holds a 10 foot hose and compresses for storage.\n\nAgainst the Camco Rhino 15ft, it covers less but is simpler and telescopes. It costs more than the WELLUCK 10ft.\n\nBest for owners with a short 10 foot hose. Check the hose length against the support.",
     "specs": [
       "10 ft telescoping support",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51d-17qPlhL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DP8Q7V6K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DP8Q7V6K?tag=rvgearlab-amz-20",
     "description": "The WELLUCK 10ft sewer hose support has the same adjustable slope, four guy ropes and strap as the 20 foot version. It is the lowest priced support here.\n\nVersus the Camco Sidewinder, it costs less and adds slope adjustment and guy ropes. Versus the WELLUCK 20ft, it shortens the reach.\n\nBest for short hoses on a budget. Check that 10 feet is enough for your dump distance.",
     "specs": [
       "10 ft, adjustable slope",

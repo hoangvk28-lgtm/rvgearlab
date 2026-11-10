@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51RHR-qbsCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GR8BCF62?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GR8BCF62?tag=rvgearlab-amz-20",
     "description": "The Sleepmax Extra Firm is a 3 inch queen topper with a reversible two layer design, so the top side is firm and the bottom side is extra firm. The foam blends copper, gel, bamboo charcoal and green tea for cooling.\n\nAgainst the PERLECARE Firm, it lets you flip to a second firmness without buying again. It suits sleepers who are unsure how firm they want to go.",
     "specs": [
       "3 inch reversible, two layer",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/511gsNmJ0UL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B5R1LRS2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B5R1LRS2?tag=rvgearlab-amz-20",
     "description": "The PERLECARE 3 inch topper is built for too soft mattresses, with one inch of gel infused contouring foam over a firmer base. It adds bamboo charcoal and a ventilated, aerated foam core.\n\nCompared with the Sleepmax Extra Firm, it is a firm rather than extra firm feel at a lower price. It suits owners whose bed feels saggy but who still want some cushioning.",
     "specs": [
       "3 inch two layer design",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51RorUWwLuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HCSPWHLG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HCSPWHLG?tag=rvgearlab-amz-20",
     "description": "The BedStory 3 inch topper uses two foam layers, with a standard firm top side and a flip side that is firmer. It is infused with bamboo charcoal, copper, gel and green tea extract.\n\nNext to the Sleepmax Extra Firm, it uses the same flip design for much less money. It suits buyers who want reversible firmness without paying premium.",
     "specs": [
       "3 inch, two layers",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51o4CkUGX+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GMWYWB8N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GMWYWB8N?tag=rvgearlab-amz-20",
     "description": "The WEUP queen topper is an extra firm 3 inch foam with an ergonomic five zone design. The base has non slip fabric and four adjustable straps to keep it in place.\n\nCompared with the BedStory Extra Firm, the zoned layout targets shoulders, hips and legs differently and adds straps. It suits side sleepers with chronic pain.",
     "specs": [
       "3 inch, 5-zone design",
@@ -133,7 +133,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51LdwDWSpcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GF1Q2GNY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GF1Q2GNY?tag=rvgearlab-amz-20",
     "description": "The WEUP Short Queen is a 3 inch extra firm topper cut for the 60 by 75 inch RV bed. It is made of high density bamboo charcoal infused foam with CertiPUR-US and Oeko-Tex Standard 100 certification.\n\nUnlike the queen size picks here, it fits an RV short queen without trimming. It suits owners of RV short queen mattresses.",
     "specs": [
       "3 inch short queen",

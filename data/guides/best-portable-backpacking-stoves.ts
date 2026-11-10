@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/312K0+YdclL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D14D7LS2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D14D7LS2?tag=rvgearlab-amz-20",
     "description": "The Fire-Maple Greenpeak 1 weighs 85 grams (3 ounces) and packs down to roughly two by three inches. It has built-in piezo ignition and uses stainless steel, ceramic, aluminum alloy and silicone in its build.\n\nThat makes it a lighter, smaller package than the MSR PocketRocket 2, with an igniter that the MSR lacks, and it is priced below it. The listing gives no boil time or output figure, so it is harder to compare on speed.\n\nA neat pick for hikers who want a tiny stove with a built-in igniter. It pairs with a Fire-Maple G3 pot, according to the listing.",
     "specs": [
       "85 g, piezo ignition",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/412+dzwvEQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01N5O7551?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01N5O7551?tag=rvgearlab-amz-20",
     "description": "The MSR PocketRocket 2 is a 2.6 ounce canister stove that folds to 2 by 2 by 3 inches and comes in a protective case. The maker's figure for boiling a liter is 3.5 minutes, and it needs no priming.\n\nIt is slightly heavier than the Fire-Maple Greenpeak 1 and costs more, in return for a documented boil time and flame control from a simmer to a rolling boil. Serrated pot supports suit a range of pots.\n\nA proven choice for hikers who want performance figures they can trust. It runs on isobutane-propane canisters.",
     "specs": [
       "2.6 oz, opens to 4.8 inches",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hybCmWPwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07NJYV3NP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07NJYV3NP?tag=rvgearlab-amz-20",
     "description": "The AOTU is a 3,000 W stove with a piezo igniter, a honeycomb windproof net and an aluminum alloy body. Its threaded port suits butane or butane-propane canisters, and everything stows in a small plastic box.\n\nWhere the MSR PocketRocket 2 costs several times as much, the AOTU delivers a similar basic function at the lowest price here. It will not fit propane-only canisters.\n\nA smart backup or starter stove for casual hikers. The small box protects it in a pack.",
     "specs": [
       "Suits 1 to 3 people",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41aPJtKsHJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08NLVKHPP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08NLVKHPP?tag=rvgearlab-amz-20",
     "description": "Kuvik's titanium wood stove weighs 6.8 ounces and flattens to 0.2 inch, then pops up into a 6.25 by 5 by 5 inch firebox. It burns twigs, sticks and other natural fuel, with a case that contains soot.\n\nIt trades the instant flame of the gas stoves for a stove that never needs a canister. A rack on top supports various pot and pan sizes.\n\nPick it for long trips in wooded country where fuel resupply is hard. Tabs assemble it without tools.",
     "specs": [
       "6.8 oz Grade-1 titanium",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ZUneNRI4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01MS07XPL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01MS07XPL?tag=rvgearlab-amz-20",
     "description": "The Odoland 11-piece set holds a mini stove, two non-stick aluminum pots of 1.2 and 0.6 liters, a spoon, fork, knife, 16 ounce cup and silicone sleeve, and a tank bracket. Two bags keep the kit organized.\n\nUnlike the single burners, it supplies the pots, cup and utensils, so one purchase starts a camp kitchen. The stove itself offers limited simmer control.\n\nA friendly pick for beginners who own no cookware yet. Foldable handles help it pack down.",
     "specs": [
       "11 pieces with mini stove",

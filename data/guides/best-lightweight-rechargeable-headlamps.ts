@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51URfm2B1TL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08D66HCXW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08D66HCXW?tag=rvgearlab-amz-20",
     "description": "The LHKNL headlamp weighs 1.87 ounces and gives 8 modes with a motion sensor and a long press that turns it off from any mode. The head rotates 60 degrees and locks, and the shell carries an IPX4 rating.\n\nIt is the only pick that states a weight in ounces. The KYEKIO and Blukar describe themselves as lightweight without a number.\n\nIt suits runners and campers who want a known weight and hands-free control. The grip stays put during running.",
     "specs": [
       "1.87 oz, 8 modes",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41nYb9zzgaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DK79F64J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DK79F64J?tag=rvgearlab-amz-20",
     "description": "The KYEKIO set includes three headlamps, three Type-C cables and a manual, with 7 modes, a COB wide beam, a motion sensor, a power display and a battery that charges in 2 to 4 hours. The listing calls it waterproof, adds a red light and describes a comfortable fit.\n\nIt gives three lamps for less than one SLONIK costs, with more modes than the LHKNL. No weight is stated.\n\nIt suits families or groups who want a lamp each. The power display shows remaining charge.",
     "specs": [
       "Three lamps, 7 modes",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51odzuo7HmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BLVT2Y9N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BLVT2Y9N?tag=rvgearlab-amz-20",
     "description": "The Blukar has 8 lighting modes, stepless dimming, a motion sensor, COB and XPG LEDs and a 1,200mAh battery that charges over USB-C. It has an IPX5 rating and a removable, washable, breathable headband.\n\nIts IPX5 beats the IPX4 of the LHKNL and Energizer, and the washable band suits sweaty use. No weight is listed.\n\nIt suits runners and hikers who sweat and want a clean band. The red modes help with night vision.",
     "specs": [
       "8 modes, stepless dimming",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Tu+CaZHSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08S47QMS1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08S47QMS1?tag=rvgearlab-amz-20",
     "description": "The Energizer PRO-400 is a rechargeable headlamp with 7 modes, Smart Dimming, green and red night-vision settings, a shatterproof lens with 1 meter impact resistance and an IPX4 water-resistant rating. It charges by cable and is sold as a single lamp.\n\nIt offers green and red modes that the LHKNL does not list, at the lowest price of the five. Its compact, lightweight body carries no stated weight. The brand's Smart Dimming also sets it apart from the plainer lamps.\n\nIt suits casual campers who want a trusted brand and night-vision colors. The shatterproof lens helps on rocky trails.",
     "specs": [
       "7 modes with red and green",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51xyQZ62LGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07D27L1NR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07D27L1NR?tag=rvgearlab-amz-20",
     "description": "The SLONIK is a 1,000 lumen headlamp with 6 brightness levels, 3 modes, a 60 foot beam and an aero-grade aluminum body rated dustproof and IPX4. The lamp detaches from the headband and works as a hand flashlight, and swivels up or down.\n\nIt has a 1,000 lumen rating backed by a stated 60 foot beam, and it is the only one with a detachable aluminum lamp that feels like a flashlight. The metal body is a step up in toughness from the plastic lamps.\n\nIt suits campers and tradespeople who want a rugged lamp for chores. The nylon band is adjustable.",
     "specs": [
       "1,000 lumens, 6 levels",

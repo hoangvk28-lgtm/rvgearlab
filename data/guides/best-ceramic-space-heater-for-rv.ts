@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ywxlKeySL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B3MXGBVT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B3MXGBVT?tag=rvgearlab-amz-20",
     "description": "The DREO Atom One is a 1500W PTC ceramic heater with a remote, a digital thermostat from 41 to 95°F in 1 degree steps, a 12 hour timer and 70 degree oscillation. The listing says it is ETL-listed with tip-over and overheat protection and an enhanced safety plug.\n\nAgainst Lasko CD08200, it adds a precise thermostat and oscillation but costs more and is larger. Against Amazon Basics Ceramic 1500W, it brings controls the basic model lacks.\n\nBest for a main cabin heater on shore power where steady temperature matters. The 1500W draw is a big load on a 30-amp supply.",
     "specs": [
       "1500W PTC ceramic",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411vomnNXeL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01NAQO4F1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01NAQO4F1?tag=rvgearlab-amz-20",
     "description": "The Lasko CD08200 is an 8 inch, 1500W ceramic heater with two heat settings, a one-hour timer and an ALCI safety plug approved for bathroom use. The listing says it is ETL certified with overheat protection and cool-touch housing.\n\nAgainst DREO Atom One 1500W, it has simple top controls and no thermostat, but the ALCI plug suits a bathroom. Against BLACK+DECKER Personal, it adds the safety plug and timer.\n\nBest for a small RV bathroom or bedroom nook. It is a plain heater without precise temperature control.",
     "specs": [
       "8 inch 1500W ceramic",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51PAvBMbz7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07K1HHS7V?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07K1HHS7V?tag=rvgearlab-amz-20",
     "description": "The BLACK+DECKER BHDC201 is a 1500W personal ceramic heater with Fan only, Low 750W and High 1500W settings and an adjustable thermostat with manual controls. It has a power-on indicator, tip-over shutoff and overheat shutoff, and weighs 2.8 pounds.\n\nAgainst Amazon Basics Ceramic 1500W, it adds a fan-only mode and a lighter carry. Against DREO Atom One 1500W, it lacks oscillation and a digital thermostat.\n\nBest for a desk or dinette corner with a 750W option. It is a personal heater, not a cabin heater.",
     "specs": [
       "1500W, 750W low, fan only",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41WZB-QvgQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07V6M3PDX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07V6M3PDX?tag=rvgearlab-amz-20",
     "description": "The Amazon Basics Ceramic Space Heater has High 1500W, Low 900W and Fan Only settings with a thermostat, overheat and tip-over protection and a 43 dB noise rating. It weighs 3 pounds and measures 7.5 by 6.3 by 9.5 inches.\n\nAgainst BLACK+DECKER Personal, it offers a 900W low step for a bit more heat on low and costs less. Against Lasko CD08200, it has a thermostat but no bathroom plug.\n\nBest for a budget small-cabin heater. It does not oscillate.",
     "specs": [
       "1500W high, 900W low",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51vedQRvSEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FG8DX1J1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FG8DX1J1?tag=rvgearlab-amz-20",
     "description": "The ASNUG is a 500W PTC ceramic heater measuring 6.1 by 5.75 by 2.87 inches with a silent mode and one-touch operation. The listing says it is made of flame-retardant materials with tip-over and overheat protection.\n\nAgainst Amazon Basics Mini 500W, it lists flame-retardant materials and a silent mode. Against the 1500W units, it heats a much smaller area.\n\nBest for a desk, bunk or bathroom floor on a limited supply. It will not heat a cabin.",
     "specs": [
       "500W PTC ceramic",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/418oXcrYeXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B074MR2C61?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B074MR2C61?tag=rvgearlab-amz-20",
     "description": "The Amazon Basics Mini Ceramic Heater is a 500W desk heater measuring 5.9 by 3.2 by 6.0 inches and weighing 1.4 pounds, with a 48 dB noise rating. The listing mentions tip-over protection and ceramic coils.\n\nAgainst ASNUG 500W, it is smaller and lighter but lists only tip-over protection. Against Amazon Basics Ceramic 1500W, it uses a third of the power.\n\nBest for a personal heater at the table or bunk. Overheat protection is not named.",
     "specs": [
       "500W ceramic mini",

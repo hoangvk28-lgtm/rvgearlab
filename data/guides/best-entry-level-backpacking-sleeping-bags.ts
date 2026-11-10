@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/319sFnqrvkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B082P5VGGT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B082P5VGGT?tag=rvgearlab-amz-20",
     "description": "Kelty prints a total weight of 2 lb 6 oz and a 24 oz fill weight for the Cosmic Synthetic 40, along with an uncompressed stuff size of 15 by 8 inches. Cirroloft synthetic insulation, an integrated compression sack with straps and a roomy footbox complete the package.\n\nPrinting both weight and stuff size is rare in this price range, which lets a first-timer pack around it. Against the iClimb it weighs about the same and is easier to plan, and it costs more than the iClimb or Trailhead.\n\nIt suits new hikers planning summer and shoulder-season trips. A stash pocket holds small items overnight.",
     "specs": [
       "2 lb 6 oz, 24 oz fill",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31HtpgF5i4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D47YFZGW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D47YFZGW?tag=rvgearlab-amz-20",
     "description": "The TETON Trailhead is sold as a 20 degree mummy with microfiber insulation, vaulted footbox and zipper draft tube. A hood closes gaps around the face, and a compression sack and hang loops are in the kit.\n\nIt reaches colder than every other synthetic here, so a new hiker who sleeps cold gets more margin. Against the Kelty Cosmic Synthetic 40 it prints no weight, and it is the trail-focused pick of the group.\n\nIt suits beginners who expect nights near freezing. The hang loops make loose storage easy.",
     "specs": [
       "20F mummy, microfiber",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41FuMIHeXuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09ZQQWLYM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09ZQQWLYM?tag=rvgearlab-amz-20",
     "description": "The iClimb is a 41F mummy filled with 3M Thinsulate that weighs 2.4 lb and packs to 10.6 by 7.9 inches. It has a 20D nylon shell, a double-layer build, a draft collar and a pillow sleeve.\n\nIt prints a packed size where the TETON Trailhead prints none, and it weighs about the same as the Kelty at the lowest price of the synthetics here. The draft collar and baffles limit cold spots better than flat rectangular bags.\n\nIt suits first-time hikers on a budget who want careful features. The pillow sleeve holds a stuff-sack pillow in place.",
     "specs": [
       "41F mummy, 2.4 lb",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/319X7igU8bL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GVY1TS8Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GVY1TS8Y?tag=rvgearlab-amz-20",
     "description": "The Naturehike CW-EXT uses RDS-certified goose down in a 10D PFAS-free nylon shell. The medium weighs 0.94 lb and the large weighs 1.09 lb, including the stuff sack.\n\nIt weighs less than half of the Kelty and iClimb, and it unfolds into a down blanket or layers inside a larger bag. A fine shell fabric makes the weight possible.\n\nIt suits new hikers who already own a warmer bag and want a light summer option. It also works as a layer in cold.",
     "specs": [
       "0.94 lb medium, 1.09 lb large",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31cIas4OpyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FHWMD68K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FHWMD68K?tag=rvgearlab-amz-20",
     "description": "The Naturehike Snowbird is a 650 fill power down mummy sold in SP400, SP700 and SP1000 models, using RDS and IDS certified down. A three-dimensional wind barrier runs along the YKK two-way zipper, and the quoted model carries an ISO comfort figure of 29F with an 18F limit.\n\nOf the five it is the only one with ISO comfort and limit figures and the only one built for a real cold night. It costs more than any synthetic here, which makes it a step up rather than a starter.\n\nIt suits beginners who know they will hike in the cold and want to buy once. Pick the model that matches your coldest night.",
     "specs": [
       "650FP RDS and IDS down",

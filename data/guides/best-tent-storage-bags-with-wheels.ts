@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31FL1-UJm2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DLWMF7WG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DLWMF7WG?tag=rvgearlab-amz-20",
     "description": "The Dansydaisy roller bag measures 10.2 by 18.5 by 63 inches and fits most 10x20 pop-up canopies. It uses 1680D Oxford cloth with side pockets and three large handles.\n\nIt is the only wheeled bag here sized for a double-wide 10x20 frame, where the Eurmax is limited to a 10x10 bundle. The Store-It nylon bag does not state its capacity in inches.\n\nIt suits vendors and event hosts with a larger canopy and a lot of accessories. The built-in wheels are described as smooth and not getting stuck.",
     "specs": [
       "10.2 x 18.5 x 63 in",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31pCG2cO2uL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0030SFSW4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0030SFSW4?tag=rvgearlab-amz-20",
     "description": "The ShelterLogic Store-It is a rolling storage bag made of heavy duty nylon with a reinforced bottom and sides. It has a full wrap-around double zipper and three heavy duty rolling wheels.\n\nCompared with the Eurmax it uses three wheels instead of two and opens more fully for easy packing. Against the Dansydaisy it is the lower-priced roller of the pair.\n\nIt suits owners of ShelterLogic or similar canopies who want an easy-to-load roller. The canopy is sold separately, so this is the bag only.",
     "specs": [
       "Heavy duty nylon",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41XogDku-eL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H8R2DQ34?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H8R2DQ34?tag=rvgearlab-amz-20",
     "description": "The Eurmax wheeled roller fits 10x10 canopy frames smaller than 7.87 by 7.87 by 61.8 inches when closed. It is made from high-strength polyester, with a front pocket for stakes and wheels mounted on a solid aluminum plate.\n\nIt lists a clear maximum folded size for a 10x10 frame. Compared with the Store-It it has two wheels in place of three, and the aluminum plate under them adds durability.\n\nIt suits owners of standard 10x10 canopies who measure first and want a firm answer on fit. The front pocket holds ropes and stakes separately.",
     "specs": [
       "Max 7.87 x 7.87 x 61.8 in",

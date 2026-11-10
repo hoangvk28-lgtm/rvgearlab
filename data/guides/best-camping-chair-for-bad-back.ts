@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51roe13OYfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DHRRX98R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DHRRX98R?tag=rvgearlab-amz-20",
     "description": "The SONGMICS Folding Camping Chair has a 39.2 inch high backrest with height-adjustable lumbar support, a 24.8 inch wide seat and a 0.5 inch soft cushion. Height-adjustable armrests, steel tubes 0.9 inch in diameter and a load rating of 451.9 pounds round out the build.\n\nCompared with the FAIR WIND, the lumbar pad here moves up and down to match your lower back. Against the ATORPOK, it adds adjustable armrests that help you push up when standing.\n\nIt suits campers who sit for hours and want the support to fit their own back. Cup holders, a cooler bag and a fabric organizer sit within reach.",
     "specs": [
       "39.2 inch high back",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41a-UqW+ukL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CSD5SJJD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CSD5SJJD?tag=rvgearlab-amz-20",
     "description": "The FAIR WIND has a 23.6 inch wide seat, 180 grams of diamond-quilted cotton padding and a fixed lumbar support tuned for the back and waist. 22mm thickened steel tubes with reinforced welds give a 350 pound rating, and 600D Oxford fabric has two-layer stitching at the corners.\n\nCompared with the SONGMICS, it focuses on soft padding rather than adjustability. Against the MARCHWAY, it gives a quilted cushion and a sturdier steel frame.\n\nIt suits campers who want a cushioned, supportive seat at the campsite. It fits average and larger builds without restriction.",
     "specs": [
       "23.6 inch seat, 180g padding",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41WVnqIQK2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GYVYVYK5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GYVYVYK5?tag=rvgearlab-amz-20",
     "description": "The ATORPOK is a high-back camping chair with a four-position adjustable backrest and a padded headrest. The reinforced steel frame supports up to 350 pounds, and a side pocket and carry bag come with it.\n\nCompared with the SONGMICS, the reclining backrest lets you shift from upright to a lean-back angle, which many people with back pain use to unload the spine. Against the MARCHWAY, it adds recline positions and a thicker headrest.\n\nIt suits campers who change position through the evening. It folds in seconds for transport.",
     "specs": [
       "4-position reclining back",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41JkK3DWtTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C8NBJ3QZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C8NBJ3QZ?tag=rvgearlab-amz-20",
     "description": "The MARCHWAY High Back weighs 3.7 pounds and offers a tall backrest with head support and an ergonomic recline angle. The aircraft-grade aluminum frame sits on a triangular base, and the chair folds to about a third the size of a traditional camp chair.\n\nCompared with the steel chairs, it is far lighter and easier to carry from the car to the camp site. Against the ATORPOK, it adds a lighter frame at the cost of fixed positions.\n\nIt suits campers who need a supportive seat they can also carry some distance. The wide seat is comfortable for hours.",
     "specs": [
       "3.7 lb aluminum frame",

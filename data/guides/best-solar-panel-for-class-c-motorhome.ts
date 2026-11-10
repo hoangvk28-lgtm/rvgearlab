@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hH3UbUtML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B015DEY2TM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B015DEY2TM?tag=rvgearlab-amz-20",
     "description": "The Renogy 200W kit costs $243.09 and includes N-type panels at 22 percent efficiency with an aluminum frame rated for 2,400Pa wind and a snow load listed in the bullet, plus an Adventurer-Li 30A PWM charge controller designed for flush mounting on an RV or camper wall. The listing says pre-drilled holes and plug-and-play cables speed installation, the controller supports lithium, lead-acid and gel batteries, and three pairs of Y-branch connectors are included. Warranty is five years and the listing claims 800Wh a day at four sun hours.\n\nIt ranks first because it is the only pick with an RV-style flush-mount controller that reads at a glance inside a cabinet. It costs $57 more than the ECO-WORTHY 200W Kit, which gives the same 200W and a 30A controller but a shorter one-year support period. Against two Renogy 100W N-Type panels it costs $101 more, which pays for the controller, connectors and warranty.\n\nChoose this for a Class C where you want a ready-to-wire 200W system with a controller you can see. The caveat is that PWM controllers, like this one, do not harvest extra from higher-voltage arrays, and the listing does not publish the panel weight.",
     "specs": [
       "200W, 22% efficiency",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41WWXphNKML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09RZZHHHM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09RZZHHHM?tag=rvgearlab-amz-20",
     "description": "This ECO-WORTHY kit costs $185.99, or about $0.93 per watt. It holds two 100W monocrystalline panels at up to 21.5 percent efficiency, each measuring 35.2 x 23.1 x 1.37 inches, with a corrosion-resistant aluminum frame rated for 2,400Pa wind and 5,400Pa snow, an IP65 junction box and a 30A PWM controller. The panels can be wired in series for 24V or parallel for 12V, and the listing claims 800Wh a day under four hours of sun.\n\nIt ranks second: it costs $57 less than the Renogy 200W Kit for the same 200W, but its efficiency is slightly lower and the support period is one year versus five. Each panel is about 5.65 square feet, so the pair takes roughly 11.3 square feet (our arithmetic), which is about 18 W per square foot, a bit less dense than the Callsun 100W pick.\n\nPick it for the lowest cost to 200W with a controller included. The caveat is the shorter support period and the kit's lower density; check that two 35.2 x 23.1 inch rectangles fit clear of your roof vents.",
     "specs": [
       "2 x 100W, 21.5% efficiency",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zl4REf4lL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D3DZWXT4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D3DZWXT4?tag=rvgearlab-amz-20",
     "description": "The Renogy 100W N-Type panel costs $71.05 and lists 25 percent cell efficiency, 16-busbar cells, a low temperature coefficient to limit power loss in heat, IP67 protection, and testing to 2,400Pa wind and 5,400Pa snow loads. The listing claims degradation of no more than 1 percent in the first year and 0.4 percent annually after, backed by a 10-year material and workmanship commitment and a 25-year performance guarantee.\n\nIt ranks third on dollars per watt at $0.71, the cheapest in this guide, and its warranty is the longest listed. It costs $3.94 less than the Callsun 100W with a similar 10-year term, but the Callsun publishes size and weight and this listing does not. Versus the ECO-WORTHY Slim 100W it costs $18.94 less but is a standard heavy glass panel.\n\nChoose it for the lowest cost of entry, or to add to an existing setup, and for the long guarantee. The caveat is that it is one panel only, with no controller, brackets or cables listed, and the listing does not state its dimensions or weight.",
     "specs": [
       "100W, 25% efficiency",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41LEB31GmBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GS2K44DH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GS2K44DH?tag=rvgearlab-amz-20",
     "description": "The ECO-WORTHY Slim 100W costs $89.99 and weighs 4.7 pounds, which the listing says is 60 percent lighter than conventional panels. It is only 0.2 inches thick, has 18-busbar N-type cells at 25 percent efficiency, an IP68 rating and a black anodized aluminum frame. The package includes a mounting hardware kit with six aluminum brackets, six foam pads, six adhesive mounting sheets and screws, so it needs no extra purchase to install.\n\nIt ranks fourth: at $18.94 above the Renogy 100W N-Type it is the lightest by far, since the Callsun 100W weighs 11.4 pounds, nearly 7 pounds more. That makes four of them about 19 pounds against 46 for four Callsun panels (our arithmetic). It costs $15 less than the Renogy Flex 100W and keeps a rigid, flat surface that does not bow.\n\nPick it if roof weight or one-person installation matters. The caveat is that the listing does not spell out a written warranty term, so ask the seller before ordering, and it has no controller.",
     "specs": [
       "100W, 4.7 lb, 0.2 in thick",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41slYmN9D7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DJP782Z3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DJP782Z3?tag=rvgearlab-amz-20",
     "description": "The Callsun 100W costs $74.99 and publishes the details roof planners need: it measures 31.1 x 22.7 x 1.1 inches and weighs 11.4 pounds, about 15 percent smaller than traditional panels according to the listing. It uses N-type cells at 25 percent efficiency with 16 busbars, a temperature coefficient of minus 0.3 percent per degree C, 3.2mm low-iron tempered glass, an aluminum frame, IP68 protection and reinforced corner guards.\n\nIt ranks fifth by price but is the best-documented rigid panel here. Each panel is about 4.9 square feet (our arithmetic), roughly 20 W per square foot, denser than the ECO-WORTHY 200W Kit's panels at about 18. It costs $3.94 more than the Renogy 100W N-Type for similar efficiency, with a published size and a 25-year guarantee to hold 84.5 percent output.\n\nPick it if you are sketching a layout and need exact dimensions and weight before buying. The caveat is weight: at 11.4 pounds it is heavier than the ECO-WORTHY Slim 100W, and it has no brackets or controller.",
     "specs": [
       "31.1 x 22.7 x 1.1 in",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zmkmE-4cL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07BMNGVV3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07BMNGVV3?tag=rvgearlab-amz-20",
     "description": "The Renogy Flexible 100W costs $104.49 and is described as bendable up to 240 degrees, about 70 percent lighter than conventional panels and only 0.1 inch thick when laid flat. The listing says it was tested for 2,400Pa wind and 5,400Pa snow loads, and it points to curved surfaces such as an Airstream-style roof, marine decks and other curvy mounts. Its uses include RVs and boats.\n\nIt ranks last for value at $1.04 per watt, $15 above the ECO-WORTHY Slim 100W and $33 above the Renogy 100W N-Type. Its advantage is shape: it can follow a curved cab-over or front cap where no rigid panel sits flat. The trade-off is that flexible panels are normally bonded flat, so heat and airflow limits matter, and the listing does not state efficiency or weight.\n\nChoose it for a curved area that rigid panels cannot cover. The caveat is value, since you pay more per watt and get fewer details, and it is also a single panel with no controller.",
     "specs": [
       "100W flexible, 0.1 in thick",

@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31jEphSX80L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CRB87MTK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CRB87MTK?tag=rvgearlab-amz-20",
     "description": "The EINDER strainer is a twist-on, 50 mesh stainless screen with a 1/2 inch NPSM inlet and outlet, and the listing names the pump series it fits: 33, 34, 42, 44, 51 and 54 diaphragm pumps. A transparent sight glass lets you check for debris without pulling the screen. It ships as a 2-pack.\n\nAgainst the WASSERMANN Strainer ranked below it, the EINDER uses NPSM threads that match common twist-on pump inlets, while the WASSERMANN uses a male NPT inlet and a female outlet. Against the CRESTWAVE 2-Pack, you gain the see-through housing but give up the listing's explicit part-number cross references.\n\nIt suits owners with a Shurflo-style pump who want to catch a clogged screen early. The listing does not say what the housing is made of, so confirm that before using it near hot water lines.",
     "specs": [
       "50 mesh stainless screen",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/413ozqjl0aL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F7QZ3R8K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F7QZ3R8K?tag=rvgearlab-amz-20",
     "description": "The WASSERMANN is a 1/2 inch NPT inline strainer with a 50 mesh stainless screen and a clear removable bowl, built from nylon that the listing calls heat and corrosion resistant. The inlet is male and the outlet is female, so it threads in line rather than twisting onto a pump port.\n\nCompared with the EINDER Strainer above it, it is a single unit rather than a pair and uses NPT threads, so it fits plumbing runs the EINDER's NPSM threads will not. It is also cheaper than most of the two-packs in this list, but you buy only one.\n\nIt is best for pumps with a 1/2 inch outlet, including the WASSERMANN 3, 4 and 5 WDP series the listing names. Measure your pump's thread type first, since NPT and NPSM are not interchangeable.",
     "specs": [
       "50 mesh stainless screen",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41uz2QiOicL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G3NZNSJQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G3NZNSJQ?tag=rvgearlab-amz-20",
     "description": "The CRESTWAVE 2-Pack gives you two 50 mesh stainless screens with a 1/2 inch NPSM threaded inlet. The listing names 4008-101-A65 and the 2088 series as direct replacements and describes an upgraded O-ring seal for a drip-free connection.\n\nNext to the EINDER Strainer, it lacks a sight glass, so you find out about clogging by watching flow. Next to the single CRESTWAVE Single, you pay more but keep a spare, which matters when a screen tears while you are parked far from a store.\n\nA good fit for owners whose pump matches the part numbers it names. It is a pump protector only and does nothing for taste or chlorine.",
     "specs": [
       "50 mesh stainless screen",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51XLTHIh3QL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CRV7T12H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CRV7T12H?tag=rvgearlab-amz-20",
     "description": "The LXJZCP strainer is a 2-piece set with a 50 mesh stainless screen, and the listing names WFCO and Shurflo pumps as compatible. It is designed to unscrew, rinse and reassemble without tools.\n\nIt ranks below the CRESTWAVE 2-Pack because its listing gives less fit detail: no thread size or part number is quoted in the highlights, so you carry more of the compatibility check yourself. In return the brand compatibility claim covers two of the most common RV pump makers.\n\nChoose it if you own a WFCO or Shurflo pump and are comfortable verifying the thread size against your existing strainer before ordering.",
     "specs": [
       "50 mesh stainless screen",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41KHWK9dBIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G3NWJVRZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G3NWJVRZ?tag=rvgearlab-amz-20",
     "description": "The CRESTWAVE Single is the same 50 mesh stainless, 1/2 inch NPSM strainer as the 2-Pack, sold as one unit. It lists 4008-101-A65 and 2088 series compatibility and an O-ring seal for a leak-free connection.\n\nIt is the second cheapest pick here, and the only difference from the CRESTWAVE 2-Pack is quantity. Compared with the WASSERMANN Strainer, it costs a little more but has no clear bowl.\n\nBest for a first-time replacement when the old screen is cracked and you only need one. If you want a spare for a long trip, the 2-Pack is the better use of the money.",
     "specs": [
       "50 mesh stainless screen",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41mwK-AtgSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C1GQL6F8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C1GQL6F8?tag=rvgearlab-amz-20",
     "description": "The TDRRICH is not a strainer. It is a 110V self-priming diaphragm booster pump with a 3-chamber design, 4 gallons per minute flow and an automatic pressure switch. The listing cites CE ISO 8846 overheat protection and says it includes a built-in filter, with a bracket and rubber feet to reduce noise.\n\nNext to the strainers above, it does a different job: it adds pressure instead of protecting a pump. The title says 45 PSI while one bullet cites a 70 PSI switch setting, so confirm which applies before you plumb it in.\n\nIt suits owners who connect to low-pressure campground spigots and have shore power. It needs a 110V outlet, so it is a poor choice for boondocking.",
     "specs": [
       "4 GPM self-priming diaphragm",

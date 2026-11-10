@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/313Q0joNrYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GNWSSSRC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GNWSSSRC?tag=rvgearlab-amz-20",
     "description": "The LIQUISHINE Roof Cleaner lists safe use on TPO, PVC, fiberglass and other common RV roof materials when used as directed. It adds built-in UV protection and a spray, 30 to 60 second dwell, light scrub and rinse routine.\n\nAgainst the Bio-Kleen, it costs far less and also names TPO. Against the 303 Rubber Roof Cleaner, it names TPO and gives a short dwell time.\n\nBest for TPO owners who want a TPO-named cleaner at a modest price. The short dwell time keeps cleaning quick.",
     "specs": [
       "TPO, PVC, fiberglass named",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51SsKhLjRlL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00T366WOK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00T366WOK?tag=rvgearlab-amz-20",
     "description": "The Bio-Kleen Roof Clean and Protect is a petroleum-free formula that cleans and protects in one application. The listing says it carries an SPF 70 UV blocker, maximizes the life of rubber RV roofs and is biodegradable and non-aerosol.\n\nAgainst the LIQUISHINE, it states an SPF 70 blocker. Against the 303 Rubber Roof Cleaner, it combines cleaning and protecting in one step.\n\nBest for owners who want a one-step clean and protect and a petroleum-free formula. The listing speaks of rubber roofs, so confirm TPO with the maker.",
     "specs": [
       "Petroleum-free formula",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31HrPf2rdpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0971PCCDK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0971PCCDK?tag=rvgearlab-amz-20",
     "description": "The 303 Rubber Roof Cleaner is a non-abrasive build-up remover for rubber roofs of RVs, campers, pop-ups and motorhomes. The listing gives a mix of 5 ounces per 5-gallon bucket of water, says it is biodegradable and notes a two-year shelf life.\n\nAgainst the LIQUISHINE, it is a rubber roof product with a clear dilution. Against the Dicor spray, it is a concentrate and pairs with 303 Aerospace Protectant.\n\nBest for owners who want a concentrate with a stated dilution and a protectant pairing. TPO is not named, so check with 303 Products.",
     "specs": [
       "Non-abrasive rubber roof cleaner",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41sUb88EeFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01N6807LL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01N6807LL?tag=rvgearlab-amz-20",
     "description": "The STAR BRITE Premium RV Rubber Roof Cleaner uses marine-grade technology and says it removes dirt and stains without corrosive acids. The listing says it will not dry out rubber or seals and works on rubber roofs, fiberglass and painted surfaces when used as directed.\n\nAgainst the Walex 32 oz, it adds a no-acid, marine-grade description. Against the LIQUISHINE, it lists rubber rather than TPO.\n\nBest for owners who also clean fiberglass and paint with one product. Spray, brush lightly and rinse.",
     "specs": [
       "Marine-grade rubber roof cleaner",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Tg5PRDrCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B001FCB0ZG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B001FCB0ZG?tag=rvgearlab-amz-20",
     "description": "The Dicor Deep Cleaning Rubber RV Roof Cleanser is a 1 gallon spray refill that says to spray on, brush with a medium bristle brush and rinse. The listing says it prepares the roof for coating and is safe for regular use on all RV roofing and exteriors.\n\nAgainst the Walex 32 oz, it gives more volume at a similar price. Against the STAR BRITE, it names coating prep and a following Dicor protectant.\n\nBest for owners preparing for a coating who want a gallon refill. The listing says it works on all RV roofing.",
     "specs": [
       "1 gallon spray refill",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/312+B2zdXSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CPG8QYQQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CPG8QYQQ?tag=rvgearlab-amz-20",
     "description": "The Walex RV Rubber Roof Cleaner and Conditioner is a 32 ounce bottle that removes dirt, road grime, tree sap and bird droppings. It claims to condition the roof and prevent cracking or damage.\n\nAgainst the Dicor Deep Cleaning, it conditions after cleaning. Against the STAR BRITE, it names sap and bird droppings.\n\nBest for budget owners with rubber roofs who want a basic cleaner and conditioner. Roof type is not specified.",
     "specs": [
       "32 oz cleaner and conditioner",

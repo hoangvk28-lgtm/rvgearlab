@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/315hnF8OAkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08KZXNVP8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08KZXNVP8?tag=rvgearlab-amz-20",
     "description": "The GEERTOP 4-person tent has a PU3000mm rainfly, a PU5000mm Oxford floor, fully taped seams and double wall construction. Its 6.9 by 7.8 foot interior, front vestibule and integrated snow skirt sit on a freestanding aluminum pole frame.\n\nIt is the only pick here sized for four, with two large doors and dual ventilation windows. Compared with the GEERTOP 2P it states a PU5000mm floor rating alongside the fly.\n\nIt suits families or two couples who want a double wall build in a 4 season shell. The mesh panels and two doors help move air through the sleeping space.",
     "specs": [
       "PU3000 fly, PU5000 floor",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31n2AyjI--L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B016QS5NEC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B016QS5NEC?tag=rvgearlab-amz-20",
     "description": "The GEERTOP 2P uses a 210T ripstop polyester rainfly with a PU3000mm coating, taped seams and an extended snow skirt. It weighs 6.9 lbs, packs to 17 by 7 by 7 inches and offers an 82.6 by 55 by 45 inch interior with dual vestibules.\n\nCompared with the OutdoorMaster it is the better-documented backpacking build, listing its weight and packed size. Against the GEERTOP 4-person tent it trades space for a pack that fits inside a bag.\n\nIt suits two hikers who want a double wall tent with a vestibule on each side. The two-pole clip-on design pitches quickly.",
     "specs": [
       "6.9 lb, 17 x 7 x 7 in pack",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41xCJQmEaAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F8VX6TT7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F8VX6TT7?tag=rvgearlab-amz-20",
     "description": "The OutdoorMaster 2 person has a PU5000mm rainfly with a 210D Oxford floor and sealed seams. Its fly uses four layers, with a blackout coating that blocks 95 percent of sunlight, plus roof vents, door convection openings and a snow skirt that rolls up.\n\nNo tent in this group costs less, and its PU5000mm fly rating is higher than the PU3000mm on both GEERTOP tents. Compared with the GEERTOP 2P it adds roof vents and pre-attached poles.\n\nIt suits couples who want a rain-ready tent at a low price. The rollable snow skirt lets you vent it in mild weather.",
     "specs": [
       "PU5000mm rainfly",

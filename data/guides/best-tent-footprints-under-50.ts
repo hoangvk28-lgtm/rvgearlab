@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41GhpWvIYrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BHNK4563?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BHNK4563?tag=rvgearlab-amz-20",
     "description": "The Clostnature footprint is 120 by 96 inches in ripstop 210T polyester, weighing 19 ounces. It folds into a drawstring bag and is sized for 4 to 6 person tents.\n\nIt sits in the middle of the group for size and costs less than the AYAMAYA and the Naturehike. Its weight is lower than either of them, which is why it comes first.\n\nIt suits families who pitch a four to six person tent and want a light sheet. Fold edges under so they stay inside the tent.",
     "specs": [
       "120x96 in, ripstop 210T",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31B0l1OthrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09TB3NLJ4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09TB3NLJ4?tag=rvgearlab-amz-20",
     "description": "The AYAMAYA footprint is 13 by 9 feet in 210T PU3000 waterproof polyester with double sewing and embedded grommets. It includes 6 aluminum stakes for windy days.\n\nIt is the largest sheet here, and it is the only one that ships with stakes. It costs about $1 more than the Clostnature.\n\nIt suits 6 to 8 person family tents and shared groundsheets. It also works as a rain tarp or sun canopy.",
     "specs": [
       "13x9 ft, 210T PU3000",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21q1u5C6nJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DZXPK3TG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DZXPK3TG?tag=rvgearlab-amz-20",
     "description": "The Naturehike Village footprint is 260 by 230 centimeters, about 102 by 90 inches, in rip-stop Oxford cloth with a PU3000+ coating. It fits the Naturehike Village 4 Person Plus Blackout and 4 Person with Screen Porch tents.\n\nIt weighs 0.84 kilograms (1.85 pounds) and packs to 37 by 22 centimeters. It costs about $8 more than the Clostnature and gives a matched fit.\n\nIt suits Naturehike Village owners who want an exact cut. It also works as a floor mat.",
     "specs": [
       "260x230cm, rip-stop Oxford",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41FFZTA9KVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CFT8DZT6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CFT8DZT6?tag=rvgearlab-amz-20",
     "description": "The Modern Grizzly Tyvek ground sheet is 5 by 8 feet and weighs 5 ounces. It is made of Tyvek and is meant for ultralight backpacking tents, bivies and bedrolls.\n\nIt is the lightest sheet by far, at about a quarter of the Clostnature. It costs more than the Clostnature and is smaller.\n\nIt suits backpackers who count ounces and own a one or two person tent. It resists tears and punctures.",
     "specs": [
       "Tyvek, 5x8 ft, 5 oz",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21cN00HsmPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B003HLI48Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B003HLI48Y?tag=rvgearlab-amz-20",
     "description": "The ALPS Mountaineering footprint is cut for the brand's 4 person tent, at 8 feet 2 inches by 7 feet 2 inches and 17 ounces. It is made of durable polyester with webbing loop corners.\n\nIt costs the least in this group at about $26 and weighs less than the Clostnature. It offers a moisture and dirt barrier and is easy to clean.\n\nIt suits ALPS Mountaineering 4-person tent owners. It does not fit other tents.",
     "specs": [
       "8'2\" x 7'2\", 17 oz",

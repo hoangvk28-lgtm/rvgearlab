@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41G0YFp2vwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DWVXTWQL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DWVXTWQL?tag=rvgearlab-amz-20",
     "description": "The PAMLIAPY Rope Bag is a 35L bucket-style backpack made from 1000 denier fabric, measuring 23 by 11 inches. It fits long ropes, such as 250 feet of 1/2 inch rope, and the listing says it is designed for arborists, tree care pros and rock climbers.\n\nCompared with the AOLEBA, it adds two rows of daisy chains and D-rings on the front for racking carabiners, plus a flap pocket and two side pockets. Against the hiking packs, it keeps a coiled rope contained.\n\nIt suits climbers who haul a rope and hardware to the base of a route. Colors include blue, black, green, red and yellow.",
     "specs": [
       "35L, 1000 denier fabric",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31420SgC4fL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CQ4NJ1V4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CQ4NJ1V4?tag=rvgearlab-amz-20",
     "description": "The AOLEBA Rope Bag is a backpack-style rope bucket measuring 10 by 10 by 23 inches that holds 200 feet of 10.5mm rope. It uses 1680D thickened nylon, a drawstring top, three built-in rope loops and three small velcro accessory bags at the bottom.\n\nCompared with the PAMLIAPY, it uses a thicker 1680D fabric and adds three accessory pockets. Against the hiking packs, it keeps a rope clear of dirt and snags.\n\nIt suits climbers who want a tough, simple rope bag. Adjustable shoulder straps and a handle make it easy to carry.",
     "specs": [
       "200 ft of 10.5mm rope",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41mlzeVmzRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DPCBMRZF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DPCBMRZF?tag=rvgearlab-amz-20",
     "description": "The ROYAL MOUNTAIN is a 40L to 50L internal frame pack in nylon with an upgraded X-PAC description, breathable mesh shoulder straps and a waistband connection that doubles as a small storage bag for keys. The listing calls it a climbing backpack for travelers and outdoor enthusiasts.\n\nCompared with the rope bags, it offers a frame and padded straps for the walk-in. Against the Maelstrom 40L, it adds the waistband pocket and frame.\n\nIt suits climbers who hike to the crag and carry shoes, harness and a jacket. Space is listed for 1 to 2 people's gear.",
     "specs": [
       "40L to 50L internal frame",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41n5qXXehKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DRNDJSZ6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DRNDJSZ6?tag=rvgearlab-amz-20",
     "description": "The Maelstrom 40L weighs 1.96 pounds and measures about 13.4 by 8.6 by 22 inches. It has a Velcro strap and a top hose hole for a hydration bladder, waterproof tear-resistant nylon, ergonomic shoulder straps and compression straps.\n\nCompared with the ROYAL MOUNTAIN, it is lighter and simpler. Against the rope bags, it carries clothing, food and shoes alongside a rope sack.\n\nIt suits climbers on a budget who need a general pack for shoes, harness and snacks. It carries a hydration bladder.",
     "specs": [
       "40L, 1.96 lb",

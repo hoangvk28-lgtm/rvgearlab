@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31lDp53w49L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07SMZB1ST?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07SMZB1ST?tag=rvgearlab-amz-20",
     "description": "The Liquid Rubber RV and Camper Rubber Roof Smart Cleaner and Conditioner is a 1 gallon citrus-based cleaner with no VOCs, acid, chlorine or bleach. The listing names EPDM rubber roofs, fiberglass, metal and wood and gives coverage of about 200 to 400 square feet per gallon.\n\nAgainst the BEEST concentrate, it is ready to apply rather than diluted. Against the Dicor Activator, it is a general cleaner and not a coating primer.\n\nBest for EPDM owners who want a single gallon that handles the roof and nearby surfaces. Apply with a brush, broom or a vented garden sprayer.",
     "specs": [
       "1 gallon citrus cleaner",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41+K95-GhHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C7CXLW2G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C7CXLW2G?tag=rvgearlab-amz-20",
     "description": "The BEEST RV Roof Cleaner is a 32 ounce super concentrate that the listing says makes 5 gallons. It is described as non-abrasive, biodegradable and a cleaner and degreaser that applies by sprayer or pressure washer.\n\nAgainst the Liquid Rubber Smart Cleaner, it stretches further through dilution. Against the Camco Pro-Strength, it is a concentrate with a stated mix yield.\n\nBest for owners who want many washes from one bottle. Mix with water per the label and agitate heavy spots with a brush.",
     "specs": [
       "32 oz makes 5 gallons",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Uyof9kdCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B000BRFS8Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B000BRFS8Q?tag=rvgearlab-amz-20",
     "description": "The Dicor EPDM Rubber Roof Coating Cleaner and Activator is a 1 quart bottle with a 125 square foot coverage rate. The listing says it dries quickly, prepares the surface for full coating and contains no petroleum distillates, harsh abrasives or citric ingredients.\n\nAgainst the Liquid Rubber Smart Cleaner, it avoids citrus and is made for coating prep. Against the Camco Pro-Strength, it covers less but is tied to a roof coating system.\n\nBest for EPDM owners planning to coat the roof. It is the most coating-focused pick.",
     "specs": [
       "1 quart, 125 sq ft coverage",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31akz7cfl8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F7SMBM4L?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F7SMBM4L?tag=rvgearlab-amz-20",
     "description": "The Ziollo RV Roof Cleaner is a citrus-based gallon cleaner for EPDM and TPO rubber, fiberglass and metal roofs. The listing says one gallon treats up to 400 square feet and the formula has no VOCs, acid, chlorine or bleach.\n\nAgainst the Liquid Rubber Smart Cleaner, it names both EPDM and TPO and costs less. Against the Camco Pro-Strength, it is a gallon-size multi-surface cleaner.\n\nBest for owners with an EPDM roof and other surfaces, including awnings and vents. It is a good prep step before coating.",
     "specs": [
       "1 gallon citrus cleaner",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ktLbYj8oL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0877QKTQ9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0877QKTQ9?tag=rvgearlab-amz-20",
     "description": "The Lippert Rubber Roof Cleaner is a spray cleaner described as safe for regular use on RVs, boats and personal watercraft. The listing says it works on rubber, metal, glass, plastic and painted areas.\n\nAgainst the Camco Pro-Strength, it states a wider list of surfaces. Against the Ziollo Citrus Cleaner, it gives less detail on dilution and coverage.\n\nBest for owners who want a spray they can use on the roof and the exterior. It comes from Alpha Systems, a maker of RV tapes, sealants and cleaners.",
     "specs": [
       "Spray cleaner, rubber roofs",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ANgn-IGDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00SL2NEO8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00SL2NEO8?tag=rvgearlab-amz-20",
     "description": "The Camco 41063 Pro-Strength Rubber Roof Cleaner is a 32 ounce professional-strength bottle that cleans away tree sap, oxidation and road grime. The listing calls it a rubber roof cleaner for universal fit.\n\nAgainst the Lippert cleaner, it names tree sap and oxidation. Against the Dicor Activator, it is a plain cleaner and costs less.\n\nBest for owners who want a basic cleaner at the lowest price. A good small bottle for spot cleaning.",
     "specs": [
       "32 oz rubber roof cleaner",

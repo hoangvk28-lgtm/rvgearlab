@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31mEqnH8RSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G2L92BQ3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G2L92BQ3?tag=rvgearlab-amz-20",
     "description": "The Naturehike Cloud Up 3 is a free-standing double-wall tent measuring 116.1 by 82.7 by 45.3 inches. A dual-Y aluminum pole set, a windproof outer and an included footprint round out the kit, and it packs to 16.9 by 6.7 inches.\n\nIt has the biggest listed interior of the six, and the inner and outer tents can be used together or separately. Against the Clostnature it adds a footprint and a larger floor, with a higher price.\n\nChoose it if you want a roomy backpacking-style tent that one person can pitch. The upgraded wing design widens the gap between inner and outer layers.",
     "specs": [
       "116.1 x 82.7 x 45.3 in",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41XP3ccIaiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B082GSSLH4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B082GSSLH4?tag=rvgearlab-amz-20",
     "description": "The Clostnature is a 3-person tent at 7 ft 3 in by 6 ft 3 in by 3 ft 11 in and weighs 6.17 lbs in total. The fly and groundsheet use PU 5000 coating with factory-sealed seams, and two aluminum poles make it free-standing.\n\nIt has the highest waterproof rating of the six and the lightest listed weight. Compared with the Naturehike it is smaller, and against the Forceatt it lists two vestibules.\n\nIt suits backpackers who want a three-person tent with a PU5000 rating. Two D-shaped doors and two side vestibules give storage.",
     "specs": [
       "7'3\" x 6'3\" x 3'11\"",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31LJHCY0T9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B083R68NSV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B083R68NSV?tag=rvgearlab-amz-20",
     "description": "The Forceatt measures 225 by 185 by 120 cm, roughly 88 by 73 by 47 inches, and fits three people. It uses 70D polyester with a 200T waterproof coating, a welded floor, a large mesh window and two ceiling openings.\n\nIt is the tallest of the lightweight three at about 47 inches, and the listing claims a 3 minute setup. Against the Clostnature it lists a welded floor and no millimeter rating.\n\nIt suits campers who want an ultralight three-person shelter at a mid price. Micro-mesh fabric improves breathability.",
     "specs": [
       "225 x 185 x 120 cm",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ZFVA5v-iL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FX3ZS1MZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FX3ZS1MZ?tag=rvgearlab-amz-20",
     "description": "The Purebox is sold as a 2 and 3 person size family, with a bathtub-style sealed floor, welded corners and a fully taped rainfly. It fits up to 3 adults in sleeping bags or 2 campers with plenty of gear, and a 3-year warranty is included.\n\nIt costs very little for a taped fly, and the warranty is the longest listed here. Against the CAMPROS it adds welded corners and a taped fly, and it uses flexible cross poles with clips.\n\nIt suits budget campers who want a documented seal and a long warranty. Dual zippers and mesh side panels handle airflow.",
     "specs": [
       "2/3 person size family",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31LDmRUj-IL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08CXVMZGN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08CXVMZGN?tag=rvgearlab-amz-20",
     "description": "The CAMPROS CP 3-Person is a 7 by 7 ft dome with a 47 inch center that the listing says comfortably fits 3 adults. A coating with sealed seams and a waterproof strip keeps rain out, and a gear loft with a lantern hook adds storage.\n\nThe floor is a full 7 by 7 ft square, wider than the backpacking tents above, and the listing gives no weight. Against the Purebox it adds a gear loft and mesh pockets.\n\nIt suits car campers who want a roomy dome at a low price. Two people pitch it in about 5 minutes.",
     "specs": [
       "7 x 7 ft, 47 in center",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Ro-lcHx3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GG4RV85F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GG4RV85F?tag=rvgearlab-amz-20",
     "description": "The oilpus is a 2 to 3 person dome with a 2.44 by 2.13 m floor and a 1.27 m center. It uses 190T silver-coated polyester rated at 1000 to 1500mm, a 210D Oxford floor and B3 mesh, and it weighs 3.78 kg.\n\nIt is the lowest priced of the six and packs to 42.5 by 20.2 by 17.1 cm. The listing says it fits 2 adults plus gear, so three is a squeeze.\n\nIt suits solo campers and couples who want a cheap, light dome. Two people can pitch it in 5 minutes.",
     "specs": [
       "2-3 person dome",

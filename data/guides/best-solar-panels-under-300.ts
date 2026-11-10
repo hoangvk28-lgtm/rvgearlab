@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51drxNtUqsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GJSQSYM1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GJSQSYM1?tag=rvgearlab-amz-20",
     "description": "DOKIO is a 300W foldable kit with monocrystalline cells that weighs 15.2 lb and folds to a slab barely over an inch thick. It includes a separate PWM controller with protection against reverse polarity, overcharge, overload and short circuit, a 9.85 foot cable and two USB ports.\n\nAt about $180 it is the only 300W pick that works with a 12V battery out of the box. The flexible panels cost $30 to $50 less and need a controller bought separately, and the LVYUAN costs $10 more and targets power stations.\n\nChoose it for an RV or van with a 12V battery that wants 300W that stores behind a seat. A 3 meter lead keeps the controller in the shade.",
     "specs": [
       "300W foldable, 15.2 lb",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41i7SbGskiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H6VTCYCW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H6VTCYCW?tag=rvgearlab-amz-20",
     "description": "LVYUAN offers 300W in a portable panel with 23.5 percent cells, IP65 protection and a 24-month warranty, and it folds to roughly 27 by 26 by 1.6 inches. It can be wired in parallel at 23.6V or in series at 47.2V to suit different station inputs.\n\nAt about $190 it costs $10 more than the DOKIO and is built for a power station with a high-voltage solar input. The DOKIO has a controller for a battery, and this one does not.\n\nChoose it for a station with a 300W solar input and a car camp where the panel travels. It folds inward to a slim size.",
     "specs": [
       "300W portable, 23.5% cells",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51amCAQRP7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FCC9L58Z?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FCC9L58Z?tag=rvgearlab-amz-20",
     "description": "This 200W foldable panel uses monocrystalline cells at 23.5 percent efficiency, weighs 17.6 lb and folds in four with a magnetic carry handle. It has an IP67 rating, kickstands and MC4 leads with adapters for Anderson, XT60, XT90, DC7909, DC5521 and a 3-in-1 DC connector.\n\nAt about $170 it gives 100W less than the DOKIO and ships with six connector adapters, the most of any pick here. The flexible panels give more watts for less money and do not fold.\n\nChoose it for a power station that needs an unusual connector. It suits car camping where 200W is enough.",
     "specs": [
       "200W foldable, 23.5% cells",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41lud9xa04L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HC7DGZ4S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HC7DGZ4S?tag=rvgearlab-amz-20",
     "description": "This 300W flexible panel uses monocrystalline cells under an IP68 rated polymer surface and works from -40 to 185 degrees Fahrenheit. It is 2mm thin, bends up to 240 degrees and comes with adhesive backing and six reinforced mounting holes.\n\nAt about $150 it costs $30 less than the DOKIO and gives the same watts, and it only fits where flexible panels fit. It is thinner and lighter, and it lacks a controller and a fold-away carry.\n\nChoose it for a curved camper roof, a boat or a trailer with limited weight allowance. It is not meant to be moved from site to site.",
     "specs": [
       "300W flexible, 2mm thin",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/418IhUyFXDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GHVB3HJR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GHVB3HJR?tag=rvgearlab-amz-20",
     "description": "This 300W ultra-light flexible panel is 0.11 inches thick with A+ monocrystalline cells rated up to 24 percent efficiency, a fiberglass back and an ETFE coating. It bends up to 270 degrees, handles -40 to 185 degrees Fahrenheit and has six pre-drilled holes or adhesive mounting.\n\nAt about $128 it is the cheapest 300W in the guide by $22, and it is the thinnest. The other flexible panel costs $22 more and bends 30 degrees less.\n\nChoose it for the lowest price per watt on a curved roof or a van. It suits owners who can mount it permanently.",
     "specs": [
       "300W flexible, 0.11 in thick",

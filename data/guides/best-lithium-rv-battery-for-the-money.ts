@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41m8RPc6GfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FVST8XFZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FVST8XFZ?tag=rvgearlab-amz-20",
     "description": "At around $214 for 200Ah, the POERUNI works out to roughly $1.07 per amp hour, the lowest in this comparison. It stores 2560Wh, weighs about 64 lbs, and the brand rates it for 15,000 cycles at 80% depth of discharge in a sealed case that can be mounted in any position except inverted.\n\nThe catch is shape and transparency. The case is 20.55 inches long, closer to a 4D or 8D footprint than a typical RV tray, and the listing does not publish a continuous BMS amp figure, which makes inverter sizing guesswork. The ECIENWELL 320Ah below it costs a few cents more per Ah but publishes a 200A BMS in a far smaller case.\n\nBest for owners with an open basement compartment or a DIY bank who want maximum capacity for minimum spend. Caveat: confirm the BMS current with the seller before pairing it with anything over about 1000W.",
     "specs": [
       "About $1.07 per Ah",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41lMeonNjFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FF38YJHG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FF38YJHG?tag=rvgearlab-amz-20",
     "description": "The ECIENWELL 320Ah delivers 4096Wh behind a 200A BMS for about $360, or roughly $1.12 per Ah. It is marketed as a mini case, meaning more capacity in a footprint closer to a standard 300Ah battery, and it carries an IP65 rating and supports up to 4P4S expansion.\n\nIt ranks second to the POERUNI only on raw price per Ah; in almost every other way it is the more capable battery, with a published 200A BMS and 60% more capacity in one unit. Compared with the EconomiPower 150Ah below it, this is a whole-bank battery rather than a drop-in, and it costs more than double up front.\n\nBest for dry campers who want one battery to run a fridge and inverter for days at a near-budget price. Caveat: there is no app, so plan on a shunt monitor, and the brand's cycle claims vary by depth of discharge (4000 at 100%, 15,000 at 60%).",
     "specs": [
       "About $1.12 per Ah",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41fcG+a2zhL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HH8VWCFY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HH8VWCFY?tag=rvgearlab-amz-20",
     "description": "The EconomiPower 150Ah is the sweet spot for owners who want more than 100Ah without a 60 lb battery. It stores 1920Wh for about $169, roughly $1.13 per Ah, and its 100A BMS cuts charging below 19.4°F and discharging below -4°F.\n\nAgainst the ECIENWELL 320Ah above it, the per-Ah cost is nearly identical but you get half the capacity in a much lighter, easier-to-place package. Against the dumfume 150Ah below it, the EconomiPower is about $17 cheaper and publishes its exact low-temperature thresholds, which is why it ranks higher.\n\nBest for travel trailer owners who want a single battery bigger than 100Ah that one person can install. Caveat: the brand describes a five-year service life, shorter than the 10-year marketing common elsewhere, and the listed weight is given as a range rather than an exact number.",
     "specs": [
       "About $1.13 per Ah",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Jx-+XkGEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G8HHKDMQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G8HHKDMQ?tag=rvgearlab-amz-20",
     "description": "The dumfume 150Ah packs 1920Wh into a short 10.04 x 7.68 x 9.84 inch case weighing 41.03 lbs, for roughly $1.24 per Ah. Its 100A BMS covers overcharge, over-discharge, short circuit, and overheating, and the case carries an IP65 rating.\n\nIt ranks below the EconomiPower because it costs a bit more for the same capacity and does not publish an exact low-temperature charge cutoff, but its shorter footprint fits boxes that a longer battery will not. Compared with the NewtiPower 200Ah below, it offers less capacity yet is much easier to place.\n\nBest for owners whose tray is short and tall rather than long. Caveat: confirm low-temperature behavior with the seller if you camp near freezing, and its cycle claim of 4000 is measured to 80% remaining capacity.",
     "specs": [
       "About $1.24 per Ah",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41LQnqxUD9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B9XS11RY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B9XS11RY?tag=rvgearlab-amz-20",
     "description": "The NewtiPower 200Ah costs about $270, roughly $1.35 per Ah, but it earns its spot with a 150A BMS that the brand rates for loads up to 1920W. The listing also claims over 210Ah of real capacity and supports up to 6S6P configurations.\n\nCompared with the POERUNI 200Ah at the top of the list, you pay about $56 more for the same nominal capacity, and the payoff is a published BMS rating and a more compact case. Against the LiTime 230Ah below it, it is far cheaper per Ah but lacks LiTime's documented low-temperature cutoff.\n\nBest for RVers who want to run a 1500W inverter for a microwave or hair dryer without paying for a 200A premium battery. Caveat: low-temperature charge behavior is not clearly stated on the listing, so verify before winter use.",
     "specs": [
       "About $1.35 per Ah",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31jO5EUwJVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BYH8J176?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BYH8J176?tag=rvgearlab-amz-20",
     "description": "The LiTime 230Ah is included as the premium-brand benchmark. At about $484 it works out to roughly $2.11 per Ah, nearly double the POERUNI, but it brings a 200A BMS with low-temperature charge pausing below 32°F, a standard Group 4D case of 19.02 x 6.69 x 9.45 inches, and a weight of only 45.98 lbs.\n\nIt ranks last on a for-the-money list because the cheaper picks above deliver the same capacity for less. What you are buying is predictability: a brand with five years of service support, clear charging rules, and expansion up to a 48V 920Ah system.\n\nBest for owners who would rather pay more for a known brand and a case that fits a 4D tray. Caveat: LiTime notes its Bluetooth must be activated by charging with a lithium-activation or MPPT charger before first use.",
     "specs": [
       "230Ah, Group 4D size",

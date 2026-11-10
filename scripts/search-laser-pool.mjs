@@ -18,7 +18,7 @@ function loadDotEnvLocal() {
 loadDotEnvLocal();
 const ACCESS_KEY = process.env.AMAZON_PAAPI_ACCESS_KEY;
 const SECRET_KEY = process.env.AMAZON_PAAPI_SECRET_KEY;
-const PARTNER_TAG = process.env.AMAZON_PAAPI_PARTNER_TAG ?? "theofficejournal-20";
+const PARTNER_TAG = process.env.AMAZON_PAAPI_PARTNER_TAG ?? "rvgearlab-amz-20";
 const MARKETPLACE = "www.amazon.com";
 async function getToken() {
   const res = await fetch("https://api.amazon.com/auth/o2/token", {

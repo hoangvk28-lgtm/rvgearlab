@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41RlDsdV6AL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08MHZ17B1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08MHZ17B1?tag=rvgearlab-amz-20",
     "description": "The Kelty Waypoint is a car-camping and tailgating shelter that gives over 120 sq ft of coverage and mounts to most vehicles at roof rack, tailgate and trunk points. It has a 65D polyester body with dual fabric layers in high-wear zones.\n\nIt is the only tarp here that includes a steel pole, steel stakes and a roof-rack strap in a shark-mouth duffle. Next to the AYAMAYA it covers less area and brings a more vehicle-specific, wide entryway.\n\nTailgaters and festival campers who value a purpose-built mount will like it. The duffle makes storage tidy.",
     "specs": [
       "120+ sq ft, vehicle mount",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31wIsNLEC9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CT2QRKYD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CT2QRKYD?tag=rvgearlab-amz-20",
     "description": "The AYAMAYA is a 14 x 16 ft tailgate awning that covers 6 to 8 people. Adjustable buckles attach it to tires and luggage racks, with eight perforations for varied setups and reinforced, glued seams.\n\nIt comes with 2 adjustable poles, 9 stakes, 7 guylines and a storage bag. Compared with the Kelty it covers much more ground, and it uses more flexible buckles than a fixed mount.\n\nGroups of six or more who want a big shade and rain roof off the car will get the most from it. The perforation points give several shapes.",
     "specs": [
       "14 x 16 ft, seats 6 to 8",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/319+M8Dp2JL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F4DG87NJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F4DG87NJ?tag=rvgearlab-amz-20",
     "description": "The GEERTOP covers 172 sq ft in 17 x 10 ft of 210T ripstop polyester with a PU3000mm coating. The listing names family camping and vehicle camping uses, with reinforced corners, webbing edges and reflective guylines.\n\nIt offers a stated waterproof rating that the Kelty and AYAMAYA do not name. Next to the AVOFOREST it is far larger, so it needs poles or trees where the AVOFOREST attaches by suction.\n\nCar campers who want one big, rain-ready sheet to rig from the car roof or trees get a tried layout. Aluminum stakes are in the kit.",
     "specs": [
       "17 x 10 ft, 172 sq ft",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41N4DQFQdYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GK6G7ZWQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GK6G7ZWQ?tag=rvgearlab-amz-20",
     "description": "The AVOFOREST is a 10x10 ft tarp with 19 reinforced tie-down points and 3 heavy-duty car suction cups. It is 210T ripstop polyester rated 3000mm PU, double-stitched, at about 24 oz.\n\nThe suction cups give an instant mount to a smooth car surface, which none of the other picks list. Compared with the GEERTOP, it is smaller and costs less, with a stated 24 oz weight.\n\nCampers who want a light tarp that also attaches to an SUV will like the suction add-on. The kit includes 6 aluminum stakes and 6 reflective ropes.",
     "specs": [
       "10x10 ft, 19 tie-downs",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/514Flk3VldL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C33D1YJR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C33D1YJR?tag=rvgearlab-amz-20",
     "description": "The Winpull is a 10 x 20 ft heavy-duty poly tarp, 16 mil thick with a 15 x 17 weave count at 8 oz per square yard. Brass grommets and reinforced edges let you rig it flexibly.\n\nIt is the lowest priced tarp here with the thickest listed material, and unlike the nylon picks it is a plain poly sheet. Against the GEERTOP it is longer at 20 ft and made of thicker poly.\n\nCar campers who want a cheap, tough ground cover or roof sheet can use it for many jobs. It suits a basecamp more than a pack.",
     "specs": [
       "10 x 20 ft, 16 mil poly",

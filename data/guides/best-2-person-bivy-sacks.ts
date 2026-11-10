@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41CA1m1hgHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0091DVNNK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0091DVNNK?tag=rvgearlab-amz-20",
     "description": "The S.O.L. 2-Person XL Emergency Bivvy is a 60 by 84 inch sack made of tear-resistant polyethylene that reflects 90% of body heat. It weighs 4.9 ounces and ships with a stuff sack, and its seams are sealed against rain, wind and snow.\n\nIt is easy to carry in a pack, and it gives a larger sleeping space than the Ortovox. The Ortovox is tougher, while this one is the sensible thing to carry in a first-aid kit.\n\nIt suits two hikers who want one pocket-sized shelter for an unplanned night. It is not a camping setup.",
     "specs": [
       "60x84 in, 4.9 oz",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/416kgQoy7uL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B076DG2JM8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B076DG2JM8?tag=rvgearlab-amz-20",
     "description": "The Ortovox Bivy Double is a windproof sack for two, built for alpine touring and mountaineering. It uses PU-coated water-repellent fabric in bright orange with alpine distress signals printed on the inside, and it packs to 8 by 22 cm at 420 g.\n\nIt costs far more than the S.O.L. and is built heavier for repeated use. The distress prints and orange color help rescuers, and the rolltop stow bag compresses it.\n\nIt suits ski tourers and mountaineers who need a proper emergency shelter. The PU coating repels water and dirt.",
     "specs": [
       "Two-person, windproof PU fabric",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/61Py6AlfDzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F6D4FPXS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F6D4FPXS?tag=rvgearlab-amz-20",
     "description": "The SiyphuNing is a two-person mylar emergency tent measuring about 8 by 5 feet. It uses thick HeatFlex mylar rated for 425 lb of strength and includes 20 feet of paracord and reinforced seams.\n\nIt sets up by running paracord between two trees, which gives more headroom than a sack. It carries the lowest price of the four, with the S.O.L. as the better pocket item.\n\nIt suits a car glove box or a day pack where cost matters. It is not for repeated camping.",
     "specs": [
       "8x5 ft mylar tent",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/3191wzQbyDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F9YFFRHW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F9YFFRHW?tag=rvgearlab-amz-20",
     "description": "The TOMOUNT is a canvas tent for two, measuring 141.73 by 78.74 inches, with expandable sidewalls and a removable inner tent. The TC cotton fabric blocks sun and heat and can be built several ways.\n\nIt is the only pick meant for repeated camping, and it costs far more than the emergency sacks. It is a shelter rather than a sack.\n\nIt suits two campers who want a spacious canvas tent for fair weather. The sidewalls roll up for view and airflow.",
     "specs": [
       "141.7x78.7 in, canvas",

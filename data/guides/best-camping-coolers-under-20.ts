@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41fjdBHTdWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GGGWF119?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GGGWF119?tag=rvgearlab-amz-20",
     "description": "TOURIT splits this bag into two side-by-side insulated zones, so you can keep drinks on ice in one and dry sandwiches in the other. A heat-welded liner handles leaks, and the bag comes in 30-can and 48-can sizes with a padded shoulder strap.\n\nAt about $20 it sits at the cap and costs a few dollars more than the single-compartment bags. The second zone is the extra, because a mixed load of ice and dry food normally needs two bags.\n\nPicnickers and day-trippers who carry both drinks and food will get the most from it. It is the most flexible layout in this price band.",
     "specs": [
       "Two independent insulated zones",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41PsldoOVzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08QB5Y722?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08QB5Y722?tag=rvgearlab-amz-20",
     "description": "The ecox is a 20L backpack cooler that holds about 30 cans, with a top pocket, two front pockets and side mesh pockets. One padded shoulder strap carries a bottle opener.\n\nIt costs about $20 and is the only backpack here with this many pockets, which keeps keys, phone and sunscreen out of the ice zone. The Vankor backpack costs a little less and keeps the layout simple.\n\nHikers and beach walkers who want both hands free will like the carry. The fit works best for short walks.",
     "specs": [
       "20L, about 30 cans",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/61d-LS7rKhL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BDZB4XJ4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BDZB4XJ4?tag=rvgearlab-amz-20",
     "description": "Vankor offers a leakproof backpack with a choice of 33 or 45 cans, PEVA insulation and an adjustable carry strap. Its title claims 20 hours of ice retention.\n\nPriced about $2 under the ecox, it adds a bigger 45-can option. The layout is simpler, with fewer pockets than the ecox.\n\nCampers who want a basic backpack at a very low price will be happy. Choose the 45-can size for a family day out.",
     "specs": [
       "33 or 45 can sizes",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41IwKh3VBBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CWNT3B3H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CWNT3B3H?tag=rvgearlab-amz-20",
     "description": "RealCool is a 35-can collapsible bag with a PEVA film lining, ultra-thick foam, a padded adjustable shoulder strap and a durable handle. An upper compartment keeps food from getting crushed under drinks.\n\nPriced near $18, it is the only pick that folds down when empty, which saves trunk space on the drive home. The Yuleee costs less and stays rigid.\n\nCar campers who want a spare cooler for the drive and a second bag for the campsite will use it most. It packs flat after the trip.",
     "specs": [
       "35 cans, PEVA and thick foam",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41rgLcvw1uL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DLKZ6FGX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DLKZ6FGX?tag=rvgearlab-amz-20",
     "description": "The Yuleee has a TPU outer shell with a PEVA lining, an IPX5 leak-proof zipper and a size of 13.78 by 8.66 by 9.84 inches. It weighs 1.85 lb, holds about 30 cans and carries a 20 hour cooling claim.\n\nAt about $15 the Yuleee undercuts every other pick here and drops the second compartment and shoulder-strap comfort of the TOURIT. The zipper is the standout, since an airtight closure matters when the bag sits in a trunk.\n\nLunch-and-drinks buyers and anyone building a cheap second cooler will like it. It suits small groups.",
     "specs": [
       "TPU shell, PEVA lining",

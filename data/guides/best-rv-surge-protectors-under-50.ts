@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/414nv8rI75L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GDDHJ8DM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GDDHJ8DM?tag=rvgearlab-amz-20",
     "description": "This 50 amp protector carries a 26,000 joule rating and a large LED screen that shows voltage, current and power. When a fault appears it cuts power and stays off until you press a manual reset, and an oversized waterproof cover with an anti-theft ring completes the unit.\n\nAt about $40 it costs $5 less than the CRTBETLIF and is the only 50A pick that adds a live display with a manual-reset shutoff. The DSPY 50A is about $18 cheaper, and this one adds the theft ring and the bigger cover.\n\nIt suits a 50A coach owner who wants to see the numbers and inspect a fault before power returns. The anti-theft ring helps at busy campgrounds.",
     "specs": [
       "50A, 26,000J",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41pw9Uelj2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DSPY6TH9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DSPY6TH9?tag=rvgearlab-amz-20",
     "description": "The DSPY is a 50 amp protector rated for up to 18,000 joules with larger capacitors. A smart LED display shows line energy, power, voltage and current, and three control chips cut power on unsafe conditions and reset automatically.\n\nAt about $23 it is the lowest-priced 50A pick and gives the same live readout as the 26,000J unit for about $18 less. It resets itself, which the manual-reset unit does not.\n\nIt suits a 50A coach on a tight budget that still wants a display. The auto-reset restores power when the pedestal recovers.",
     "specs": [
       "50A, up to 18,000J",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ZezpxlNtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GXZTVNLQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GXZTVNLQ?tag=rvgearlab-amz-20",
     "description": "CICZ is a 50 amp protector claiming 18,000 joules, with analyzer lights that report pedestal wiring. The wiring guide is printed directly on the case, and an ergonomic grip handle makes plugging in easy.\n\nAt about $50 it sits at the cap and costs $10 more than the 26,000J unit, and it drops the screen for simple indicator lights. It puts the diagnostic key right on the unit.\n\nIt suits a first-time RVer who wants the analyzer to explain itself. There are no menus to learn.",
     "specs": [
       "50A, 18,000J",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Bwb-sLoEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FG82TPHJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FG82TPHJ?tag=rvgearlab-amz-20",
     "description": "CRTBETLIF is a 50 amp surge protector rated 16,000 joules that continuously monitors the connection. It spots power failures and wiring faults, with a waterproof cover, a rugged housing and a right-angle plug.\n\nAt about $45 it costs $5 less than the CICZ and trades two thousand joules for a sturdier cover. The right-angle plug keeps the unit close to the pedestal.\n\nIt suits a campground where the unit sits outdoors in all weather. The grip handle helps with wet hands.",
     "specs": [
       "50A, 16,000J",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41M8cIk2-eL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GDDF2VVD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GDDF2VVD?tag=rvgearlab-amz-20",
     "description": "POWGRN is a 30 amp protector with a 26,000 joule rating and an LED screen showing volts, amps and watts. It cuts power on faults such as low voltage or overheating, stays off until a manual reset, and has an anti-theft ring.\n\nAt about $27 it is the only 30A pick here with a display and costs $14 less than the 50A GDDH. It protects 120V coaches rather than 50A rigs.\n\nIt suits a 30A travel trailer owner who wants a screen. The anti-theft ring and cover help at busy parks.",
     "specs": [
       "30A, 26,000J",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41q0Fbl8DGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C2TF2S48?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C2TF2S48?tag=rvgearlab-amz-20",
     "description": "GEARGO's 13,000 joule 50 amp unit has a circuit analyzer and a diagnostic chart. It is FCC tested, built from V-1 flame-retardant material, and has an IP68 waterproof design with ergonomic grips.\n\nAt about $45 it costs the same as the CRTBETLIF and has a lower joule number, with a named FCC test and flame rating. It is the most documented of the plain analyzer units.\n\nIt suits an owner who wants a flame-retardant housing and a printed chart. It lacks a screen.",
     "specs": [
       "50A, 13,000J",

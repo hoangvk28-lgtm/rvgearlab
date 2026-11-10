@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51ivjR0asiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GFDBW4VV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GFDBW4VV?tag=rvgearlab-amz-20",
     "description": "The YUNJAYI Solar Roll-Up has 33 ft of warm white and RGB light with 13 modes and a 2400mAh battery. It charges to 75% in about 8 hours of sun or by USB, remembers your last setting and offers 4, 6 or 8 hour timers.\n\nIt adds a solar panel and memory function that the Bylitodt and OGERY reels do not list. Compared with the other YUNJAYI, it gives up some battery for the solar option.\n\nIt suits campers who want a solar backup in a roll-up form. The memory function means no cycling through modes every night.",
     "specs": [
       "33 ft, 13 modes",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/514ZVTJ8ZlL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DR4NGZ1T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DR4NGZ1T?tag=rvgearlab-amz-20",
     "description": "The YUNJAYI 10 meter reel holds a 3000mAh USB-rechargeable battery that lists 8 to 50 hours. It offers 9 modes plus timing functions and combines camping light, string, work light and flashlight uses.\n\nThe 3000mAh pack is the biggest of the five, and the 10 meter string matches the 32.8 ft of the other reels. Compared with the Bylitodt, it trades party modes for sheer runtime.\n\nIt suits campers who run lights most of the night. The 8 to 50 hour range lets you stretch charge across a long weekend.",
     "specs": [
       "3000mAh, 8 to 50 hours",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41lsTVdIt-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FKMZ6HZ5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FKMZ6HZ5?tag=rvgearlab-amz-20",
     "description": "The Bylitodt offers 32.8 ft of fairy lights, a 2200mAh battery, a 2 hour Type-C charge and 3.5 to 10 hours of working time. It lists 19 modes, including 4 music-synced modes and 8 dynamic modes.\n\nIt has a larger battery than the Staaricc and far more effects than the OGERY. The quick-wind handle winds the cord in seconds.\n\nIt suits groups who like colour and music at the campfire. It also works as a bedroom night light at home.",
     "specs": [
       "2200mAh, Type-C in 2 hours",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51PJH0Y5kUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F243GVZB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F243GVZB?tag=rvgearlab-amz-20",
     "description": "The Staaricc pair has two reels, each with a non-detachable 2000mAh battery rated 6 to 12 hours, 8 modes and a hanging loop. Storage takes about 30 seconds, and each reel combines string, camping light, flashlight and work light.\n\nTwo reels outnumber every other pick, which suits two sleeping areas. Next to the Bylitodt, each reel carries a smaller battery.\n\nIt suits groups with two tents or a tent and an awning. The loop makes hanging quick.",
     "specs": [
       "Two 2000mAh reels",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51bSO-Ez3TL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D5HTW1NB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D5HTW1NB?tag=rvgearlab-amz-20",
     "description": "The OGERY reel packs 32.8 ft of lights, 8 modes split five and three, a 7.4 ounce body and a magnet. It combines camping light, string, work light and flashlight, in ABS and PC with a splash-proof design.\n\nIt undercuts the pairs on price and adds a magnet the Staaricc listing does not name. The listing states no battery capacity, so it trails the YUNJAYI reels for planning.\n\nIt suits backpackers and budget campers who want an all-in-one reel. The magnet holds it to a metal pole or vehicle.",
     "specs": [
       "32.8 ft, 8 modes",

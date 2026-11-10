@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/419J9EToPQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CCKYBVSS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CCKYBVSS?tag=rvgearlab-amz-20",
     "description": "The Purewell 2.25G Gravity Water Filter System is a stainless steel countertop unit with an 8-stage 0.01 micron composite filter and a transparent level window. Its listing claims 90 percent fluoride reduction using a dedicated fluoride element rather than alumina.\n\nIt is the only pick with a stated percentage, which sets it apart from the hose filters that only name fluoride. It runs on gravity with no electricity.\n\nThe pick for buyers who want drinking-water treatment at the counter in addition to a hose filter. It also suits boondockers with limited power.",
     "specs": [
       "90% fluoride reduction claim",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41OjXMYcTyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C4T2T1SS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C4T2T1SS?tag=rvgearlab-amz-20",
     "description": "The Bringpure RV Inline Water Filter uses KDF and advanced GAC and says it reduces chlorine, heavy metals, fluoride, sediments and rust. The listing adds NSF 42 certification for 97 percent chlorine reduction and NSF 372 for lead-free material.\n\nIt is the least expensive pick and is the cleanest to use, with a flexible hose protector. It names NSF numbers that the Hourleey filters skip.\n\nA good fit for weekenders who want a single hose filter with named certifications. It is also easy to spare.",
     "specs": [
       "KDF and GAC media",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41OOqjKcANL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CRNK5JCY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CRNK5JCY?tag=rvgearlab-amz-20",
     "description": "The Hourleey 4-Pack RV Inline Water Filter names fluoride, chlorine, rust and sediment in its title and includes two flexible hose protectors. It uses GAC filtration in food-grade plastic housings with up to three months per filter.\n\nCompared with the 2-pack, it covers a full year of seasonal camping for a lower unit price. Both tool-free installs take seconds.\n\nA smart buy for frequent campers who want spares. It also suits shared rigs.",
     "specs": [
       "Fluoride named in title",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41HLIcYCHtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CBJZ4238?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CBJZ4238?tag=rvgearlab-amz-20",
     "description": "The Hourleey 2-Pack has the same GAC media, hose protectors and fluoride mention as the 4-pack in a smaller bundle. It installs without tools and lasts up to three months per filter.\n\nIt costs less than the 4-pack and suits a single season or a trial. Compared with Bringpure, you get two filters and a second hose protector.\n\nBest for campers who want to test the filter first. It is also fine for short seasons.",
     "specs": [
       "Fluoride named in title",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41HCqXu9R7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DJR7YC9R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DJR7YC9R?tag=rvgearlab-amz-20",
     "description": "The Stokk RV Water Filter 2-Pack is NSF/ANSI 42 listed and uses lead-free, BPA-free GAC and KDF media in food-grade plastic. It includes a flexible hose protector and connects to any standard water line.\n\nIt carries a plainer certification line than Bringpure and is cheap. It serves as a solid base filter for chlorine and taste.\n\nRight for campers who want a certified, low-cost pair. It also works as a pre-filter ahead of a dedicated fluoride system.",
     "specs": [
       "NSF/ANSI 42 listed",

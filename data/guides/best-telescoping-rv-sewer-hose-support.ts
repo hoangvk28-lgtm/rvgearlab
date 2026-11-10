@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41e2XUHwZ8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09MWKQ6C6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09MWKQ6C6?tag=rvgearlab-amz-20",
     "description": "The Camco Sidewinder 20 foot is a telescoping, folding plastic support that fits a 20 foot, 3 inch RV sewer hose. The listing says its deep cradles prevent slipping and the design curves around obstacles for a downward slant.\n\nAgainst Camco Sidewinder 30ft, it is the 20 foot version. Against Nilight 20ft, it is a known brand with a curved layout.\n\nIt is the best match for owners with a standard 20 foot hose. Buyers focused on standard 20 ft hose will find it a sensible match.",
     "specs": [
       "20 ft telescoping plastic",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41g1AHEa2BL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00HRI5A5I?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00HRI5A5I?tag=rvgearlab-amz-20",
     "description": "The Camco Sidewinder 30 foot supports a 30 foot, 3 inch sewer hose with the same deep cradles and curved layout. It telescopes out for setup and compresses for storage.\n\nAgainst Camco Sidewinder 20ft, it adds ten feet of reach. Against OULEME 30ft, it has no stated height adjustment.\n\nIt suits owners with a far dump port or a long hose. It earns its slot for long hose runs.",
     "specs": [
       "30 ft telescoping plastic",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41UbygXiW7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CXCLQW4J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CXCLQW4J?tag=rvgearlab-amz-20",
     "description": "OULEME 30FT telescopic support fits hoses up to 3.7 inches in diameter and is available in 10, 15, 20 and 30 foot lengths. It adjusts in height from 4 to 8 inches and comes with six rubber cords.\n\nAgainst Camco Sidewinder 30ft, it adds height adjustment and rubber cords. Against Nilight 20ft, it is longer.\n\nIt suits long runs on uneven ground. It is a natural fit for long adjustable runs.",
     "specs": [
       "30 ft polypropylene",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41TtSvhH5ML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DSFX55KW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DSFX55KW?tag=rvgearlab-amz-20",
     "description": "Nilight 20 foot support fits up to a 20 foot hose, adjusts from 4.5 to 7.6 inches in height and comes with five rubber bands and a red buckle strap. The listing says the deep U shape stops the hose from moving.\n\nAgainst Camco Sidewinder 20ft, it adds height adjustment and bands. Against WELLUCK 15ft, it is longer.\n\nIt suits 20 foot runs where slope matters. Think of it as the pick for sloped 20 ft runs.",
     "specs": [
       "20 ft telescoping",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/418E-d7JpiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DSFVJ2NP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DSFVJ2NP?tag=rvgearlab-amz-20",
     "description": "Nilight 10 foot support fits up to a 10 foot hose with the same 4.5 to 7.6 inch height range, five rubber bands and a buckle strap. It is the small member of the Nilight family.\n\nAgainst Nilight 20ft, it is the shorter, cheaper version. Against WELLUCK 15ft, it is smaller.\n\nIt suits close dump ports and small rigs. It folds small enough to keep in a bay.",
     "specs": [
       "10 ft telescoping",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/518aJnHZzJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DP8R7CB5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DP8R7CB5?tag=rvgearlab-amz-20",
     "description": "WELLUCK 15 foot support is blaze orange plastic with nine height settings, four guy ropes and a storage strap. The listing says it needs no assembly and is weatherproof.\n\nAgainst Nilight 20ft, it is shorter with nine height settings. Against OULEME 30ft, it is cheaper.\n\nIt suits mid-length runs at a low price. Buyers focused on mid runs, tight budget will find it a sensible match.",
     "specs": [
       "15 ft plastic support",

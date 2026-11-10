@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/413kDoRD9nL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B06WWRX11Z?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B06WWRX11Z?tag=rvgearlab-amz-20",
     "description": "The Miuree set gives two collapsible lanterns rated 500 lumens, each with 30 LED bulbs and 360 degree light. They run on three AA batteries each, which are not included, and collapse flat for packing.\n\nNothing else in the group states 500 lumens, and the two-pack lights a tent and a table together. Against the Westinghouse and the Cullaby, it is far cheaper per lantern.\n\nIt suits campers who want an inexpensive pair of tent lights. The listing says it survives drops and works in all weather.",
     "specs": [
       "500 lumens, 30 LEDs",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41+EfiRa4IL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GTYWCJHX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GTYWCJHX?tag=rvgearlab-amz-20",
     "description": "The Westinghouse is a rechargeable lantern in 5000K daylight white that lists high, medium and low brightness plus an SOS flashing mode. It charges by solar panel or USB-C and has an IPX4 rating and an integrated handle.\n\nIt tops out at 1000 lumens, double the 500 target, and its lower settings let you step the light down. Against the Miuree set, it avoids disposable batteries entirely.\n\nIt suits campers who want a refillable lantern with a dimmer range. The listing names no 500 lumen setting.",
     "specs": [
       "1000 lumens, 5000K white",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31j733mVWHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D11BJHG8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D11BJHG8?tag=rvgearlab-amz-20",
     "description": "The Cullaby offers 3000 lumens at full output with a 7500mAh battery, a USB-C port and five modes in warm, cool, natural, red and red COB strobe. Stepless dimming lets you hold any level from soft to full.\n\nIt costs less than the Westinghouse and is far brighter at the top end. Against the Miuree, it has a built-in battery and color choices, with a diffuser cap and dual hanging.\n\nIt suits campers who want one lantern for tent, table and outage use, set to a mid level. The listing does not name a 500 lumen setting.",
     "specs": [
       "3000 lumens max, 7500mAh",

@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4105U3f+uhL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B9R7TC5F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B9R7TC5F?tag=rvgearlab-amz-20",
     "description": "The SUNNYFEEL XXL is rated for 800 pounds on a sturdy steel frame and measures 27 by 41 by 42 inches. It is padded, folds for storage and has two attached cup holders.\n\nAgainst the Timber Ridge XXL, it offers 200 pounds more rating and quad chair simplicity without a side table. It suits the heaviest campers who want the highest stated rating at a mid price.",
     "specs": [
       "800 lb steel frame",
@@ -55,7 +55,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41qTlRxhHlL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08F5859HY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08F5859HY?tag=rvgearlab-amz-20",
     "description": "The Timber Ridge XXL director chair supports 600 pounds on a heavy duty metal frame with 600D polyester. It unfolds to 32.7 by 24 by 36.6 inches and has foam padding, a full back and a padded headrest.\n\nIt adds a foldable side table and a detachable side pocket, which the Portal and SUNNYFEEL do not. It suits campers who want a headrest and a side table with a high rating.",
     "specs": [
       "600 lb metal frame",
@@ -84,7 +84,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41sj2SXtT1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D2XX67LZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D2XX67LZ?tag=rvgearlab-amz-20",
     "description": "The Colegence oversized directors chair set of 2 supports 600 pounds with a reinforced alloy steel frame and a 28 inch wide seat. Each chair has an adjustable side table with a cup holder and a detachable multi pocket organizer.\n\nCompared with the Colegence single, it doubles the seating for less than double the price and each chair has a carry handle. It suits two large sitters who want matching directors chairs.",
     "specs": [
       "600 lb alloy steel frame",
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zqmo9OdKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D6R4YG9S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D6R4YG9S?tag=rvgearlab-amz-20",
     "description": "The Colegence single oversized chair carries a 600 pound rating on a reinforced alloy steel frame with a 28 inch wide seat. It has an adjustable side table with a cup holder and a detachable storage pocket.\n\nIt matches the set of 2 on features and costs about half, giving one chair for solo use. It suits one big sitter who wants a directors chair with a table at a reasonable price.",
     "specs": [
       "600 lb alloy steel frame",
@@ -142,7 +142,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Dvy67pvBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08C3461RT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08C3461RT?tag=rvgearlab-amz-20",
     "description": "The Portal oversized XXL camping chair is rated for 600 pounds and has a breathable mesh back and adjustable armrests. Set up size is 24.8 by 28.7 by 40.2 inches, and it uses a lightweight steel frame.\n\nIt is the only pick with adjustable arm height, which helps different body sizes. It suits warm weather campers who want mesh airflow and adjustable armrests.",
     "specs": [
       "600 lb capacity",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31xYWOqmWWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B085T9SCLW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B085T9SCLW?tag=rvgearlab-amz-20",
     "description": "The Glamcamp is a 4 meter bell with a 2.5 meter top and 60 cm side walls, made from 200 g per square meter poly-cotton canvas with a 3000mm waterproof PU coating. A 500 g per square meter PVC groundsheet zips out, and the weight is about 30 kg.\n\nIt combines a stated fabric weight with a flame-retardant 5 inch top stove jack and a side-wall stove hole, which the Oxford bell does not offer. It sleeps two queen beds or a bed plus two singles, and costs more than the VEVOR 4 m Bell and VELUVIA.\n\nGlamping couples and families wanting the strongest fabric and a flexible floor will like it most. A tent bag, rain cap, stakes and hammer ship with it, and setup takes under 20 minutes.",
     "specs": [
       "4 m, 200 gsm poly-cotton",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41E-2hTT46L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CWNKXQSD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CWNKXQSD?tag=rvgearlab-amz-20",
     "description": "The VEVOR 4 m bell is 13.12 feet across and sleeps up to 6, made from TC technical cotton. It has a 3 inch stove hole under a 43 by 43 cm flame-resistant cover, 12 reflective ropes with tensioners, a rain cap, stakes and a bag.\n\nIt costs about $100 less than the Glamcamp and keeps the same 4 meter footprint. Against the Oxford 16.4 ft bell it has a cotton blend that breathes and a named flame-resistant stove cover.\n\nA match for groups of up to six wanting a bell tent with a stove hole at a moderate price. The fabric breathes better than a coated polyester shell.",
     "specs": [
       "4 m, 13.12 ft, TC cotton",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51+zttLFe4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H1L3614G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H1L3614G?tag=rvgearlab-amz-20",
     "description": "The VELUVIA is a 6 to 8 person cabin hot tent with a 6.5 foot center peak and 4.6 foot vertical walls. It has a 210g poly-cotton roof, a flame-retardant stove jack for 2.7 to 4.7 inch pipes, a PU3000 sidewall, steel poles and six mesh windows.\n\nIts vertical walls give cots and tables more usable floor than a bell tent of similar size, and it takes a wider range of stovepipes than the VEVOR 4 m Bell. It sets up in about 10 minutes with one person.\n\nIt suits families who camp past summer and want a boxy layout for cots and a stove. The poly-cotton roof helps limit dripping.",
     "specs": [
       "6 to 8 person cabin",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51oFLJKsBVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FVSVNSF6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FVSVNSF6?tag=rvgearlab-amz-20",
     "description": "This bell tent is 16.4 feet across and sleeps 4 to 8 with a high central pole, a reinforced stove jack and multiple mesh windows. The shell is lightweight Oxford fabric that sheds light rain and keeps the carry easier than canvas.\n\nIt is the largest tent in the group and the lowest priced, and it trades the poly-cotton breathability of the VEVOR 4 m Bell for a lighter pack. A rainfly is offered for wet weather.\n\nLarge groups and event campers who value size and portability over canvas feel get the most from it. Mosquito-proof doors keep bugs out during summer.",
     "specs": [
       "16.4 ft diameter, high center",

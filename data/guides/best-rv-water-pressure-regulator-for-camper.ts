@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41BclPCGeOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B083F6HBY8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B083F6HBY8?tag=rvgearlab-amz-20",
     "description": "The RecPro is an adjustable lead-free brass regulator with a 0 to 160 psi gauge marked every 2 psi, a built-in strainer and a solid brass hose gripper. It is adjusted with a flat screwdriver and operates in temperatures up to 140 degrees Fahrenheit.\n\nThe fine tick marks every 2 psi make it easier to hit a 45 or 50 psi target than the coarse dials of the OULEME Handle below. It requires a screwdriver, while the Hourleey Handwheel adjusts by hand.\n\nBest for campers who want to read pressure accurately and set it once. Keep a flat screwdriver handy.",
     "specs": [
       "0 to 160 psi, marked every 2 psi",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41eakphpG6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CRCZC9RY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CRCZC9RY?tag=rvgearlab-amz-20",
     "description": "The Hourleey Handwheel replaces the screw with an adjustable hand wheel, so no tool is needed. It adjusts up to 160 psi, includes a gauge and a screened filter, and is lead-free brass under 0.13 percent lead.\n\nCompared with the RecPro Gauge above, you give up the fine dial markings for tool-free adjusting. The listing notes a female inlet and male outlet, which matters for plumbing orientation.\n\nBest for campers who adjust at each site. The handwheel can be nudged, so recheck after setup.",
     "specs": [
       "Adjustable hand wheel",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51oz5qqJUPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CCV443D2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CCV443D2?tag=rvgearlab-amz-20",
     "description": "The OULEME has a tool-free handle, regulates up to 160 psi from a factory setting of about 45 psi, and uses a silicone oil gauge that the listing says is more accurate and wears slowly. It is lead-free brass under 0.13 percent lead.\n\nNext to the Hourleey Handwheel, the oil-filled gauge steadies the needle, which is useful in a bouncy camper. The brand focuses on automotive accessories, so the listing is lighter on RV-specific claims.\n\nBest for campers who travel rough roads. Confirm it threads onto your hose before relying on it.",
     "specs": [
       "Tool-free handle",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41JO1UDmVCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H6VWS6TQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H6VWS6TQ?tag=rvgearlab-amz-20",
     "description": "The HipEpic uses a fiber-reinforced PA6T polymer body instead of brass, with a silicone-oil dial reading 0 to 140 psi and a manual adjuster. It has a dual-layer stainless mesh filter that catches sand and small stones.\n\nCompared with the all-brass picks above, the polymer body is lighter and does not corrode. The listing notes it only reduces pressure and cannot raise it, an honest caveat shared by every regulator.\n\nBest for owners who prefer a lighter body. The polymer is not brass, so check that it suits your water source.",
     "specs": [
       "Fiber-reinforced PA6T body",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51jheiXVh7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07Z5CW8M9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07Z5CW8M9?tag=rvgearlab-amz-20",
     "description": "The Firebelly Outfitters kit includes a brass regulator preset to 50 to 55 psi with a filter screen, a KDF and GAC cartridge and a 5-stage inline filter that the listing says reduces chlorine, lead and odors down to 20 microns.\n\nWhere the other picks are regulators alone, this bundle adds a filter for a modest price. The fixed 50 to 55 psi means no adjustment, and it is a broader claim than the named standards on other picks.\n\nBest for first-time campers who want to plug in and drink. Check the filter's claims against a named standard.",
     "specs": [
       "50 to 55 psi brass regulator",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41M64ay-aTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08THYF81H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08THYF81H?tag=rvgearlab-amz-20",
     "description": "The Hourleey Basic is a brass regulator that holds 40 to 50 psi, with a stainless filter screen and CSA low lead certification. It fits all 3/4 inch hose threads.\n\nIt is the plainest pick, with no gauge or adjustment, but its 40 to 50 psi band is gentle on thin camper plumbing. It undercuts the Firebelly Kit but adds no filter.\n\nBest for a pop-up or tent trailer on a budget. Screen cleaning is the only upkeep.",
     "specs": [
       "40 to 50 psi output",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zQ10TNbdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D17CW6KK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D17CW6KK?tag=rvgearlab-amz-20",
     "description": "The BLUETTI AC200PL stores 2,304Wh in LiFePO4 cells rated for 3,000-plus cycles and puts out 2,400W through 4 AC outlets, with 11 ports in all, including a TT30 RV outlet and a 48V/8A DC port. It charges 0 to 80 percent in 60 minutes with 2,400W AC input and takes up to 1,200W of solar.\n\nIt expands to 8,448Wh with extra B300, B210P or B230 batteries, a path the ABOK Ark3600 shares at a higher ceiling. A 48V RV port charges an RV battery directly.\n\nFits RV owners wanting a TT-30 outlet plus space to grow into a whole-rig system. The fast AC charging also helps between campgrounds.",
     "specs": [
       "2,304Wh LiFePO4, 2,400W",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41AbN-SfMrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FNCM7X5L?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FNCM7X5L?tag=rvgearlab-amz-20",
     "description": "The ABOK Ark3600 provides 3,600W rated and 4,500W peak output from 3,840Wh of LiFePO4, expandable up to 11,520Wh. Its 15 output ports include one 30A AC outlet and four 20A AC outlets, and the listing bundle adds a 200W solar panel with a telescoping handle and wheels.\n\nIt stores about 1,500Wh more than the BLUETTI AC200PL and outputs 1,200W more, which is enough headroom for more RV loads. Its wheels make moving it easier.\n\nIt suits larger RVs and cabin owners who want more output and a path to over 11kWh. The 200W panel in the bundle starts a solar setup.",
     "specs": [
       "3,840Wh, 3,600W rated",

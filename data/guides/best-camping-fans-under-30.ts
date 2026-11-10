@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Uv29ArUqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GK1M26X2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GK1M26X2?tag=rvgearlab-amz-20",
     "description": "The XZK runs on four D cells for up to 200 hours or on USB power, with four speeds, three timers and two LED modes. Its 3950 r/min motor gives about 5.2 m/s of wind and stays below 30 dB, and the head tilts up or down.\n\nIt costs just under $30, the top of the budget, and it is the only pick that keeps running when the battery pack is flat because you can drop in fresh D cells. The FRIZCOL has a bigger battery, and the XZK trades that for an easy swap-and-go power source.\n\nIt suits campers on multi-day trips with no outlet, since a pack of D cells in the bag guarantees a fan for the whole stay. A tilting head lets you aim the air up at a tent ceiling or down at a cot.",
     "specs": [
       "Four D cells or USB power",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51NiObDHKzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BVTHPXLB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BVTHPXLB?tag=rvgearlab-amz-20",
     "description": "The FRIZCOL carries a 24000mAh battery rated for 11 to 60 hours, with a 3950 r/min motor, four speeds and noise under 30 dB. It adds three timers, two LED light levels and a remote, in an ABS body with non-slip pads.\n\nAt about $30 it matches the XZK on price and out-sizes every other battery in the group. It lacks the XZK's D-cell backup and adds a remote and a larger rechargeable pack.\n\nIt suits campers who run a fan all night and want to wake up to a battery that still has charge. The remote also means you never reach out of the sleeping bag to change speed.",
     "specs": [
       "24000mAh, 11 to 60 hours",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51bQXe7lyvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HBB5CLNB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HBB5CLNB?tag=rvgearlab-amz-20",
     "description": "The Hoklen has a built-in solar panel plus USB and Type-C charging, a digital power display and a 2, 4 or 8 hour timer. It runs below 30 dB, with a 90 degree adjustable head and a hidden hook.\n\nIt costs about $30 and is the only fan here that charges in sunlight. The XZK has D cells and the FRIZCOL has a bigger battery, while this one keeps going with a sunny day.\n\nIt suits off-grid campers who want a fan they can recharge by hanging it in the sun. The power display shows the battery level at a glance.",
     "specs": [
       "Solar panel plus Type-C",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41K18X8Z1eL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G3XFMHRG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G3XFMHRG?tag=rvgearlab-amz-20",
     "description": "The DRIFWIN is a slim 10000mAh fan measuring 8.9 by 6.5 by 1.5 inches, with a strong magnetic base, a hook and four speeds including a natural wind mode. It has a digital display, a dual-mode night light and USB reverse charging for phones.\n\nAt about $30 it is the thinnest fan in the group and packs flat in a bag. It has a smaller battery than the FRIZCOL, and the magnet only grips metal, which suits a camper van or a steel table.\n\nIt suits van campers and tent campers who want a night light and a fan that stows flat. The reverse charging port tops up a phone in a pinch.",
     "specs": [
       "10000mAh, 8.9 by 6.5 inches",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41GJK-GMfoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09WXZYT87?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09WXZYT87?tag=rvgearlab-amz-20",
     "description": "The DUKUSEEK is a three-function tent fan: it hangs from the ceiling as a fan, shines as a lantern and holds enough charge to act as a small power bank. A brushless motor, a timer-mode remote and an ABS shell round out the package, with CE and FCC marks.\n\nIt costs about $17, nearly half the price of the XZK, and it is the most compact of the group. It gives up the larger battery and wind speed of the FRIZCOL for a small tent-size fan.\n\nIt suits solo and two-person tents where a bigger fan would not fit. The built-in bank can give a phone a quick boost on a dead-battery morning.",
     "specs": [
       "Fan, lantern and power bank",

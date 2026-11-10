@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31EfYBvMkhL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07Z9D35DS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07Z9D35DS?tag=rvgearlab-amz-20",
     "description": "The WolfWise weighs 2.8 lb and folds to 18.2 by 18.2 by 1.6 inches, then opens in about ten seconds. Its 190T polyester has a silver coating that cuts up to 98 percent of UV, and a full windproof kit includes four metal and four plastic stakes, four guy lines and sandbags.\n\nIt carries the most complete anchor kit of the four and a waterproof material. Against the ISILER it weighs slightly more and costs more.\n\nIt suits solo beach-goers who want fast shade and a well-staked tent. The tent doubles as shade for parks and sports days.",
     "specs": [
       "2.8 lb, 18.2 x 18.2 x 1.6 in",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31mHzXFNZsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G3WX9J4T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G3WX9J4T?tag=rvgearlab-amz-20",
     "description": "The ISILER measures 78 by 47 by 35 inches and weighs 2.2 pounds, collapsing to about 25 inches in a carry bag. It has a self-pitching pop-up design, a fiberglass pole and strut frame, four sandbags and four stakes.\n\nIt lists the lightest weight here at 2.2 pounds, below the WolfWise at 2.8 pounds. Against the NARMAY it is far larger at 78 inches long.\n\nIt suits solo hikers and anglers who want the lightest shade. The pop-up opens without aligning poles.",
     "specs": [
       "2.2 lb, 78 x 47 x 35 in",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41HcjOnwG3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G6SKG1JD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G6SKG1JD?tag=rvgearlab-amz-20",
     "description": "The Chihee opens to 220 by 120 by 120 centimeters and weighs 1.42 kg, packing down to 60 by 10 by 12 centimeters. It uses 180T silver-coated polyester, 6.9mm fiberglass poles, four sewn-in sandbags and mesh windows on the sides and back.\n\nIt offers the tallest roof here at 120 centimeters, well above the ISILER's 35 inches. Compared with the NARMAY it has roughly double the width.\n\nIt suits solo campers who want stand-up room at low weight. The sandbags are sewn in, so none get left behind.",
     "specs": [
       "1.42 kg, 220 x 120 x 120 cm",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51myKe87tzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GWLVXQGY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GWLVXQGY?tag=rvgearlab-amz-20",
     "description": "The NARMAY is a 42 by 42 by 36 inch pop-up in silver-coated fabric, with a back mesh window and a double-sided zipper front door that extends as a floor. The listing says it blocks 99 percent of UV and folds into a handbag.\n\nIt carries the lowest price and the smallest footprint here. Against the WolfWise it is a head-and-torso shade rather than a lie-down tent.\n\nIt suits a solo beach-goer who wants a tiny shade for reading or napping. The front door works as a mat.",
     "specs": [
       "42 x 42 x 36 in",

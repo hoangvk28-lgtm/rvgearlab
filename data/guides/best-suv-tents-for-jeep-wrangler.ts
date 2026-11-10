@@ -30,7 +30,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41eP6NG28mL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HHWR9ZMK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HHWR9ZMK?tag=rvgearlab-amz-20",
     "description": "The OYZUOAU SUV Camping Tent is titled for the Jeep Wrangler 1997 to 2020 and is built as an arch-style rear tent with a removable rainfly and water-resistant fabric. It has two side doors and one front door, and it can attach to the vehicle or stand on its own, so one purchase covers both a drive-up camp and a basecamp you leave behind. It costs $358.99 and is the premium choice in this lineup.\n\nAgainst the VEVOR, the OYZUOAU is the only tent here that names the Wrangler and its model years in the title, which gives you a stated vehicle fit instead of a universal sleeve you have to size up yourself. The three-door layout adds cross-ventilation and a second exit that the VEVOR does not offer, and the arch frame folds down for travel. That fit and door count is what the extra money buys.\n\nThis is the pick for Wrangler owners from the 1997 to 2020 generations who want a rear annex with three entries and a vehicle-specific listing. It suits couples and small families who camp from the Jeep several weekends a year and want the tent to feel purpose-built rather than improvised.",
     "specs": [
       "Titled for Wrangler 1997 to 2020",
@@ -60,7 +60,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41VVVPqg99L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C5JGHMQY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C5JGHMQY?tag=rvgearlab-amz-20",
     "description": "The VEVOR SUV Camping Tent is an 8 by 8 foot shelter that attaches to a hatchback or SUV, or stands on its own, with a PU2000mm double layer and 9mm fiberglass poles. It adds a skylight, high-density mesh windows and a 120g sewn PE floor, and the listing says it holds 6 to 8 people. At $88.11 it is the budget pick of the pair.\n\nCompared with the OYZUOAU above it, the VEVOR gives you a stated waterproof rating of PU2000mm and a larger stated capacity for less than a quarter of the price. The skylight and mesh windows bring in light and air that the arch tent handles with its extra door instead. A carry bag is included, so the tent packs away without a separate purchase.\n\nThis is the choice for budget-minded campers who want a big attached shelter and are comfortable adjusting a universal sleeve around the Wrangler's tailgate. It suits families on a tight budget, first-time buyers testing whether car camping suits them, and anyone who wants room for a cot, a cooler and a table under cover.",
     "specs": [
       "8x8 ft, PU2000mm double layer",

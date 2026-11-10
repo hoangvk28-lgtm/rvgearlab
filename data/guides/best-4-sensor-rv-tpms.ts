@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41GMmECE5hL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CSXQPWB8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CSXQPWB8?tag=rvgearlab-amz-20",
     "description": "The RVenture kit includes 4 cap-style sensors with user-replaceable CR1632 batteries, a 5 inch widescreen color display and a repeater. The listing says the sensors have an anti-theft design, and the kit adds 2 installation wrenches and a magnetic suction cup mount for the dash or windshield.\n\nIt ranks first because it names the sensor type and battery and includes a repeater, which the Tymate sets do not. It costs more than double any Tymate set here, and its listing does not state a pressure range in the section shown.\n\nBest for a tandem trailer or motorhome where replaceable batteries and an included repeater matter. Confirm the psi range against your tires.",
     "specs": [
       "4 cap-style sensors",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Jnhi3P4AL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DBZMD698?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DBZMD698?tag=rvgearlab-amz-20",
     "description": "The Tymate TM3 4-Set includes 4 external sensors that read 0 to 144 psi, with six alarm modes and a color LCD with automatic backlight. The listing says the sensors are low power, and the display charges by solar or other options.\n\nCompared with the Tymate TM2 4-Set below, it reads up to 144 psi instead of 87 for a similar price. Against the RVenture 4-Sensor it lacks an included repeater but costs far less.\n\nBest for a tandem trailer with tires up to about 120 psi. The listing says extended signal transmission, so check the stated range against your trailer length.",
     "specs": [
       "4 external sensors, 0-144 psi",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/416JYC5EnqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CW9GXBCB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CW9GXBCB?tag=rvgearlab-amz-20",
     "description": "The Tymate TM2 4-Set includes 4 external sensors that read 0 to 87 psi, with six alarm modes and solar and USB charging. The listing says the sensors run for up to six months on low power, and the display has an adaptive backlight.\n\nIt costs about the same as the Tymate TM3 4-Set but reads 57 psi lower, which is a poor trade for most RV tires. It is better suited to a small trailer or a toad.\n\nBest for a four-tire rig with tires under 87 psi. For heavier RV tires, choose the Tymate TM3 4-Set instead.",
     "specs": [
       "4 external sensors, 0-87 psi",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41A0hx+PWPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CPPDR25B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CPPDR25B?tag=rvgearlab-amz-20",
     "description": "The Tymate TM7 4-Set includes 4 sensors that read 0 to 144 psi, with plus or minus 1.5 psi accuracy, a cigarette lighter power plug and dual USB charging. The listing says it sets up in about 5 minutes with a manual and video guides.\n\nIt is the cheapest set here and matches the Tymate TM3 4-Set on range. It lists fewer details on alarm modes than the TM3 or TM2, and no solar charging.\n\nBest for a tandem trailer on a tight budget where plug-in power is fine. Confirm the signal range for a long trailer.",
     "specs": [
       "4 sensors, 0-144 psi",

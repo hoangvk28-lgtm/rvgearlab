@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51f4hZumoNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01HPHR2M4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01HPHR2M4?tag=rvgearlab-amz-20",
     "description": "Camco packs this RhinoFLEX 15 ft box with a 15 foot hose already fitted with ends, a transparent elbow built around a 4-in-1 adapter, and a pair of caps. The 23 mil polyolefin wall is reinforced with steel wire, and the 4-in-1 adapter fits a 3 inch slip or 3, 3.5 and 4 inch NPT inlets.\n\nIt costs a little more than the DUMPMAN 15 Ft and offers a steel wire core that holds its shape. The kit also names a wide range of dump inlets, which the OUTPRIZE extensions leave to a separate elbow.\n\nBest for owners who want one box with the hose, elbow and caps from a recognized brand. A reliable all-rounder for travel trailers.",
     "specs": [
       "15 ft, 23 mil polyolefin",
@@ -53,7 +53,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Z8T8BhF3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HGL64M84?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HGL64M84?tag=rvgearlab-amz-20",
     "description": "This OUTPRIZE extension has a 24 mil TPE wall with an inner steel wire and swivel fittings on both ends. Two storage caps are included, and a 15 foot section compresses to 5.4 feet.\n\nCompared with the Camco RhinoFLEX 15 Ft, it drops the elbow and costs less per foot. It sits at the top of the three OUTPRIZE listings, which share the same stated specs at different prices.\n\nBest for owners who already own a clear elbow and just need more length. It pairs with OUTPRIZE and Camco 3 inch hoses.",
     "specs": [
       "15 ft, 24 mil TPE",
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51y+l3BX3HL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D46DTNF8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D46DTNF8?tag=rvgearlab-amz-20",
     "description": "The DUMPMAN 15 ft kit centers on a 15 foot hose with rotating ends, and the box adds a clear elbow that detaches, a 4-in-1 adapter and two end caps. It uses TPE with a 24 mil vinyl layer and 4-prong bayonets with rubber seals.\n\nIt matches the Camco RhinoFLEX 15 Ft on kit contents at a lower price and uses a thicker wall than the polyolefin hose. The DUMPMAN has no steel wire core, which keeps it light.\n\nBest for buyers who want a complete kit without paying Camco prices. A smart pick for seasonal campers.",
     "specs": [
       "15 ft TPE, 24 mil wall",
@@ -107,7 +107,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51dmc-TdHGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GC3HTP2F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GC3HTP2F?tag=rvgearlab-amz-20",
     "description": "The SheeChung 15 ft kit uses high-strength TPE with a 24 mil wall that springs back after being stepped on. Swivel ends with four-prong bayonets close the connections, and a see-through 90 degree adapter handles 3 inch slip and threaded outlets.\n\nIt lists crush recovery and UV resistance more directly than the DUMPMAN, and its price matches the DUMPMAN 15 Ft. The compact flexible build suits tight sites and portable tanks.\n\nBest for campers who park on hard or gravel pads where hoses get stepped on. A practical mid-range kit.",
     "specs": [
       "15 ft TPE, 24 mil wall",
@@ -134,7 +134,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41BglZctvxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FWB79CFK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FWB79CFK?tag=rvgearlab-amz-20",
     "description": "This second OUTPRIZE listing repeats the 24 mil TPE build with an inner wire, swivel fittings and two storage caps. A 15 foot section compresses to 5.4 feet and pairs with Camco and OUTPRIZE 3 inch hoses.\n\nIt costs less than the first OUTPRIZE listing while naming identical specs. Against the DUMPMAN kit it skips the elbow, which narrows its role to a hose add-on.\n\nBest for buyers who found the first OUTPRIZE too pricey and want the same hose. A balanced add-on choice.",
     "specs": [
       "15 ft, 24 mil TPE",
@@ -161,7 +161,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41VbKGO0wFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HGL3DGNZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HGL3DGNZ?tag=rvgearlab-amz-20",
     "description": "The third OUTPRIZE listing carries the same 24 mil TPE hose, steel wire reinforcement and swivel fittings at the lowest price of the three. It includes two storage caps and compresses to 5.4 feet.\n\nIt undercuts the other OUTPRIZE listings and the DUMPMAN 15 Ft Kit while needing a separate elbow. This is the cheapest way here to add 15 feet of hose to an existing setup.\n\nBest for budget buyers who already have an elbow and want a thick-walled extension. A clear value choice.",
     "specs": [
       "15 ft, 24 mil TPE",

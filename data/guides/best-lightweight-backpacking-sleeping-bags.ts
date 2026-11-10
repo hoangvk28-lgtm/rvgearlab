@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41fu3se401L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B011AZ3O9W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B011AZ3O9W?tag=rvgearlab-amz-20",
     "description": "The ECOOPRO Warm Weather bag is an 83 by 30 inch envelope with a nylon shell and a polyester lining. The listing prints 1.7 lb and a compressed height of 11 inches, which are the two numbers a pack-weight planner needs.\n\nNext to the VENTURE 4TH it is far narrower and lighter, so it takes less room in a pack and less of the weight budget. The compression sack and the smooth zipper make it quick to stuff and unpack at camp.\n\nIt suits solo hikers and bikepackers on summer routes who count ounces. The waterproof shell sheds dew and light spray at a low cost.",
     "specs": [
       "83 by 30 in envelope",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51PJsmQApJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0897D54RX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0897D54RX?tag=rvgearlab-amz-20",
     "description": "The VENTURE 4TH XXL measures 90 by 39 inches, rated 30F to 70F, with a polyester shell that resists wear and moisture. It ships with a compression sack and a lifetime replacement guarantee.\n\nCompared with the ECOOPRO, it gives you a full extra 9 inches of width and a colder low end of the range. It also folds into its sack for short carries, and the shell wipes clean.\n\nIt fits larger or restless sleepers who walk in a short way and want space more than low weight. The guarantee adds peace of mind at a modest price.",
     "specs": [
       "90 x 39 inch XXL size",

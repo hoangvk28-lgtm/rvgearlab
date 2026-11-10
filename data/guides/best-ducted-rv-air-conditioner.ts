@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31wLozU45ZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DM6X2LGY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DM6X2LGY?tag=rvgearlab-amz-20",
     "description": "The Furrion Chill Cube 18K ducted unit uses variable speed compressors, weighs 72.4 lbs and has a bolt-on installation with a step-by-step guide. The listing says the compressors run continuously instead of starting and stopping, which smooths amp draw and noise.\n\nAgainst the FOGATTI 18K, it offers an inverter-style compressor and a lighter body. Against the RecPro, it adds capacity and variable speed operation.\n\nBest for owners who want a high-capacity ducted unit with low amp draw for off-grid power. A premium upgrade for a big coach.",
     "specs": [
       "18K BTU variable speed ducted",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41qX4IwZh2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GSQKC7T7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GSQKC7T7?tag=rvgearlab-amz-20",
     "description": "The FOGATTI 18K is a ducted, cooling-only unit rated 18,000 BTU for rigs up to 2,836 feet. It lists 52 dB operation, performance in heat up to 114 degrees F and control by remote, mobile app, ADB panel or Alexa voice.\n\nAgainst the Furrion, it adds app and voice control and costs less. Against the 16K FOGATTI, it adds capacity and control options.\n\nBest for big rigs that want smart control on a ducted 18K unit. A good fit for hot-climate camping.",
     "specs": [
       "18K BTU cooling only, ducted",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41PpZvl+hkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08QSMT6RV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08QSMT6RV?tag=rvgearlab-amz-20",
     "description": "The RecPro 13.5K is a cooling-only rooftop unit with a low amp draw, UV-resistant plastic and a 59.7 dB noise level. Its listing says it works with both ducted and non-ducted setups and includes a wireless remote and LED touch display.\n\nAgainst the FOGATTI 16K, it comes with more control features at a similar price tier. Against the 18K units, it gives up capacity for lower cost.\n\nBest for medium trailers with ducts and a limited power supply. A good everyday pick.",
     "specs": [
       "13.5K BTU, 59.7 dB",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41T+Gxj909L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H711HXWG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H711HXWG?tag=rvgearlab-amz-20",
     "description": "The FOGATTI 16K is a ducted, cooling-only unit designed for medium-sized RV spaces. It runs at 59 dB and fits standard rooftop openings, with a quick rooftop installation.\n\nAgainst the 18K FOGATTI, it offers less capacity at a lower price. Against the RecPro, it adds 2,500 BTU.\n\nBest for mid-size trailers that want a bit more BTU than a 13.5K unit. A balanced pick.",
     "specs": [
       "16K BTU cooling, ducted",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21Iq1I43pfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H1L4BNN3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H1L4BNN3?tag=rvgearlab-amz-20",
     "description": "The hiberry is a 12V DC rooftop unit rated 12,000 BTU cooling with 1,000W heating, 850W power and a 1,600 to 3,800 CFM airflow range. It lists 52 dB noise, a brushless DC blower and a remote control.\n\nAgainst the ducted units, it is a battery-powered alternative at a much lower price. Against the 115V picks, it draws from a battery bank instead of shore power.\n\nBest for off-grid buyers who can use a non-ducted unit. A very different tool from the ducted 115V picks.",
     "specs": [
       "12,000 BTU cooling, 1,000W heat",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51sw8NGdtQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07JN2GNX2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07JN2GNX2?tag=rvgearlab-amz-20",
     "description": "The WEHOPE is an air outlet grille with a rinseable filter that replaces the Dometic 3104928.019 and fits Duo-Therm ducted units. It is meant to redirect air and keep large foreign objects out of the system.\n\nAgainst the full units, it is a maintenance part at a fraction of the cost. Against the other picks, it fixes a worn ducted grille without replacing the AC.\n\nBest for owners who already have a ducted unit and need a replacement grille. A cheap fix for worn ceiling parts.",
     "specs": [
       "Replaces Dometic 3104928.019",

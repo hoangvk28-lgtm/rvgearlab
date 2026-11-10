@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41foKFQWDlL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09MQ5Z8WG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09MQ5Z8WG?tag=rvgearlab-amz-20",
     "description": "OmniCore layers 650 fill power duck down with proprietary StratusLoft synthetic fill in a hooded double that the listing calls a mummy design. Independent labs validated a -23.3C to 0C range to the EN13537 standard, according to the listing, and the shell is 75-denier diamond ripstop with DWR.\n\nNo other listing here cites a third-party test standard, which separates it from the Kelty and SENSORY4U. The 3D box construction lets two people move without squashing the insulation.\n\nChoose it for couples who want real winter warmth. The pillow pocket and pad sleeve keep the setup tidy.",
     "specs": [
       "650FP duck down plus StratusLoft",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41UBS1hLyUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BRQPSK4Z?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BRQPSK4Z?tag=rvgearlab-amz-20",
     "description": "Kelty's Doublewide is a 20F synthetic double with Cloud Loft insulation, 64 inches of shared shoulder space and an 84 inch length. The listing names independent ventilation, a fully removable zip-off top layer, two built-in blankets, two-way foot vents and an oversized hood that fits two pillows.\n\nCompared with the OmniCore, it favors customized comfort over a warmer fill, letting each sleeper vent separately. The hood is large and shared, closer to a pair of pillows than to a mummy hood.\n\nA good fit for couples with different sleep temperatures who camp in three seasons. Unzip the top layer on warm nights.",
     "specs": [
       "20F synthetic double, Cloud Loft",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41kRh1PkTcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CVSJQNZ6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CVSJQNZ6?tag=rvgearlab-amz-20",
     "description": "SENSORY4U sells a double-wide top quilt that holds 850 fill power down, weighs 3.3 lb and carries a footbox. The listing gives a comfort rating of 40F and a survival rating of 30F, and straps attach it to a sleeping pad.\n\nIt is far lighter than the OmniCore and Kelty because it drops the bottom insulation, which makes it the pick for backpacking couples. A pad underneath does the work of the missing bottom layer.\n\nChoose it for pairs who plan to carry the bag and camp above freezing. Bring a warm pad to stand in for the missing bottom.",
     "specs": [
       "850FP down, 3.3 lb",

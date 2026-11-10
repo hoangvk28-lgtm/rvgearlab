@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41i49zsHhPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D6PM5XN1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D6PM5XN1?tag=rvgearlab-amz-20",
     "description": "The Champion 4000-Watt RV Ready weighs under 49 pounds and lists 4000 starting watts, 3000 running watts, and up to 10 hours of runtime. It has a TT-30R outlet, a 20 amp household duplex outlet with less than 3 percent total harmonic distortion, a 12V automotive-style outlet, parallel outlets, and a CO Shield auto shutoff. Noise is stated as 64 dBA from 23 feet.\n\nIt tops the list because it combines a TT-30R outlet with a low weight and a distance-qualified noise figure, three things that matter every trip. Against the WEN 4500 ranked second it gives up 600 rated watts but weighs less and adds a parallel option, and it costs about $80 more. Against the Westinghouse 5000 it is $209 cheaper and far lighter to move, though it lacks remote start.\n\nChoose it for a single-axle trailer or a smaller fifth wheel that runs one air conditioner. The caveat is that 3000 running watts has less headroom than the 3600-watt units, so run the microwave and the air conditioner at different times.",
     "specs": [
       "3000W running, 4000W starting",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41qn+udD3YL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FJYPMWPQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FJYPMWPQ?tag=rvgearlab-amz-20",
     "description": "The WEN 4500 has a 181cc engine that makes 4500 surge watts and 3600 rated watts, which is the most rated output you get under $600 with a proper TT-30R receptacle. It also has two 120V household outlets, a 12V DC outlet, an intelligent data meter, two 5V USB ports, a fuel shut-off that burns off carburetor fuel before shutdown, a CO Watchdog sensor, and a three-year warranty.\n\nCompared with the Champion above, it gives you 600 more rated watts and a data meter for $80 less, but the listing does not state a weight, a runtime, or a dBA figure, so you lose the documented comfort numbers. Compared with the A-iPower below, which lists the same 3600 running watts, the WEN adds the TT-30R receptacle and a three-year warranty.\n\nPick this if you want the extra rated watts to run a 13,500 BTU air conditioner plus lights and a fridge, and you care about a standard RV receptacle. The caveat is the missing noise and runtime numbers, so budget for hearing protection or distance at quiet campgrounds.",
     "specs": [
       "3600W rated, 4500W surge",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51-m5Zc9kjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B06XC47ZX4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B06XC47ZX4?tag=rvgearlab-amz-20",
     "description": "The Westinghouse 5000 lists 5000 peak and 3900 rated watts at less than 3 percent total harmonic distortion, a remote start key fob plus electric and recoil start, a TT-30R outlet, a 5-20R household outlet, and two USB ports. The 3.4 gallon tank is rated for up to 18 hours in Economy Mode, and noise is stated as low as 52 dBA.\n\nIt ranks third because it costs $849, which is $290 more than the WEN 4500, for 300 more rated watts. In return you get remote start, a live display of fuel level and remaining runtime, and the longest stated runtime here. Against the Champion 4000 you gain 900 rated watts and electric start, but it is the heaviest and most expensive of the six.\n\nThis fits full-timers and long boondocking stays where refueling every few hours is a chore. The caveat is the price and size: the 52 dBA and 18 hour figures are best-case Economy Mode numbers, so expect less at full load.",
     "specs": [
       "3900W rated, 5000W peak",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41nTA5Y02cL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DFGZ9QW7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DFGZ9QW7?tag=rvgearlab-amz-20",
     "description": "The A-iPower 4600 has a 149cc engine rated for 4600 starting and 3600 running watts, weighs 56 pounds, and carries a 2.6 gallon tank rated for up to 16 hours at 25 percent load. It lists five outlets in total with a TT-30R adapter for RV connection, 3 percent total harmonic distortion, and a CO sensor, in an open-frame design.\n\nIt sits fourth between the WEN and the cheaper Genkins. Versus the WEN 4500 it matches the 3600 running watts for $160 less but the listing calls the RV connection a TT-30R adapter rather than a built-in receptacle, which adds a loose part to keep with the unit, and the brand is less established. Versus the Genkins below, it has a bigger tank and more outlets for $109 more.\n\nChoose it if you want 3600 watts and 16 hours at light load without paying the WEN price. The caveat is the open-frame design runs louder than a fully enclosed unit, and the listing does not state a dBA number.",
     "specs": [
       "3600W running, 4600W starting",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51C3FuF1yqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CQ1YPFHB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CQ1YPFHB?tag=rvgearlab-amz-20",
     "description": "The maXpeedingrods MXR4000 lists 4000 peak and 3200 running watts, a NEMA L5-30R RV outlet with an adapter included, and a Bluetooth app that shows power output, fuel level, voltage, frequency, and running time. It weighs 48.5 pounds, measures 18.89 by 12 by 17.32 inches, has LED lights, and carries a two-year warranty.\n\nIt ranks fifth because the L5-30R twist-lock outlet needs the included adapter, the running watts are the second lowest here, and the warranty is two years against three on the WEN and Champion. What it does uniquely is Bluetooth monitoring, which lets you check fuel and output from inside the trailer without walking outside.\n\nThis suits owners who like app data and a light unit and run a modest load such as a small air conditioner with a soft start. The caveat is the 3200 running watts, which will not carry the biggest rooftop units with other loads.",
     "specs": [
       "3200W running, 4000W peak",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51t+cWrJRPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D2Z2XC1T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D2Z2XC1T?tag=rvgearlab-amz-20",
     "description": "The Genkins 4500 is the cheapest unit here at $289.99. It lists 4500 peak and 3700 rated watts from a 212cc 4-stroke engine, a 30 amp NEMA L5-30R outlet and a 5-20R household outlet, pure sine output below 3 percent distortion, a 2.11 gallon tank for up to about 8 hours at half load, and low-oil shutoff and overload protection.\n\nIt ranks last because it has an open-frame build, a pull-start with a manual choke, and no CO sensor listed in its safety features, which every other pick except the A-iPower documents. Against the maXpeedingrods it offers 500 more rated watts for about $190 less, but without app monitoring or an included adapter mentioned.\n\nChoose it only if cost is the deciding factor and you will run it well away from the trailer in open air. The caveat is the missing CO sensor and warranty details in the listing, so treat it as a basic tool, not a set-and-forget unit.",
     "specs": [
       "3700W rated, 4500W peak",

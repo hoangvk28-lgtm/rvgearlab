@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41+EfiRa4IL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GTYWCJHX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GTYWCJHX?tag=rvgearlab-amz-20",
     "description": "The Westinghouse is a rechargeable 1000 lumen lantern in 5000K daylight white with five lighting modes and an IPX4 rating. It charges by solar panel or USB-C and has high, medium, low and SOS flashing settings with an integrated handle.\n\nAgainst the three battery lanterns, it removes disposable cells and adds solar charging for long trips. Compared with the Energizer, it has a true 1000 lumen rating and a rechargeable pack.\n\nIt suits campers who want a refillable lantern that works on multi-day trips with sun. The handle lets it hang from a tent loop.",
     "specs": [
       "1000 lumens, 5000K white",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31VSHqy0EjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GYVBRZMN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GYVBRZMN?tag=rvgearlab-amz-20",
     "description": "The Energizer WeatherReady lists up to 1200 lumens of 360 degree light with six modes: high, low, press-and-hold dimming, night light, red and red flashing. It runs on three D or three AA batteries for up to 42 hours on low, and has a USB output to charge a device.\n\nAgainst the Amazon Basics, it adds a red mode, dimming and a USB output for a higher price. Compared with the Westinghouse, it takes batteries and costs less.\n\nIt suits campers and households who want a storm light that doubles as a phone charger. The base is IPX4 and survives a 1 meter drop.",
     "specs": [
       "Up to 1200 lumens, 360 degrees",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41uzjOEL4ML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08F3BXXNZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08F3BXXNZ?tag=rvgearlab-amz-20",
     "description": "The AYL StarLight lists 1000 lumens from LED bulbs rated for over 100,000 hours, with low, high and flashing strobe modes. The listing states that it runs up to six days and includes a hook at the bottom.\n\nIt sits between the Amazon Basics and the Energizer on price, with fewer modes than the Energizer. The hook makes it easy to hang from a tent loop or branch.\n\nIt suits campers who want a simple, shockproof lantern with a long runtime claim. It is water resistant and lightweight.",
     "specs": [
       "1000 lumens, 3 modes",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31o3CcqjavL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DYTN9H6W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DYTN9H6W?tag=rvgearlab-amz-20",
     "description": "The Amazon Basics lantern lists 1000 lumens with 360 degree output, four modes including dimming and strobe, and an IPX4 rating. It runs on three D cells, which are not included.\n\nOf the four it costs the least, and it lacks solar charging, a USB output and red modes. Against the AYL, it names its battery type and water rating.\n\nIt suits campers who want a plain bright lantern for the lowest cost. The compact black body suits packing.",
     "specs": [
       "1000 lumens, 360 degrees",

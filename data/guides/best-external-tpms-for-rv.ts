@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Fmzo85qfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FH1JZZ9X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FH1JZZ9X?tag=rvgearlab-amz-20",
     "description": "Tymate's TM12 six-sensor kit uses IP67 external sensors and a display that cycles up to 12 tires. Tymate's TM12 six-sensor kit uses IP67 waterproof external sensors with a 433Hz color display that shows six wheels at once and cycles through up to 12. The display charges by USB-C from a 12V source or by solar, and the sensors arrive pre-programmed with auto-calibration.\n\nIt covers more wheels than Tymate TM2 4-Sensor and charges by USB-C or solar, but it adds no repeater. It states no psi range in the headline.\n\nBest for a travel trailer or small motorhome with up to six tires. Check that six wheels cover your rig, since adding more means buying more sensors.",
     "specs": [
       "6 external sensors, 12-tire display",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41S5uj3r80L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GFSZDD9N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GFSZDD9N?tag=rvgearlab-amz-20",
     "description": "B-Qtech's Bluetooth kit uses four external sensors rated to 116 psi and sends readings to a phone app. B-Qtech's Bluetooth TPMS sends pressure and temperature from four external sensors to a phone app. The listing gives six alarm modes, IP67 sensors, a 0 to 116 psi range and a claim of compatibility with 2 to 40 wheels.\n\nIt has a higher stated range than Tymate TM2 4-Sensor but no dedicated display. It states compatibility with 2 to 40 wheels.\n\nBest for a single-axle or small tandem trailer where a phone display is acceptable. It is a phone-only system, so decide whether you want readings on a screen or in an app.",
     "specs": [
       "4 external sensors, Bluetooth app",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/416JYC5EnqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CW9GXBCB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CW9GXBCB?tag=rvgearlab-amz-20",
     "description": "Tymate's TM2 is a four-sensor external kit with a solar-charged color LCD. Tymate's TM2 is a four-sensor TPMS using external sensors with a color LCD that dims automatically and charges by solar. The listing mentions six alarm modes and a pressure range up to 87 psi.\n\nIt costs less than Tymate TM12 6-Sensor and covers only four wheels with an 87 psi ceiling. That ceiling is low for heavy RV tires.\n\nBest for a lighter trailer running lower pressures. An 87 psi ceiling suits car-style tires but sits below the pressures many heavy RV tires run, so check your maximum cold pressure first.",
     "specs": [
       "4 external sensors",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51O2tO3JGLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09STJXT9R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09STJXT9R?tag=rvgearlab-amz-20",
     "description": "GUTA's GT30 is a 10-sensor kit with a screen showing up to 10 tires per page. GUTA's GT30 is a 10-sensor RV and trailer TPMS with a large screen that shows up to 10 tires on one page and a rechargeable monitor battery rated 12 to 14 days after a 4-hour charge. The alert set covers high and low pressure, high temperature, fast leaks and missing sensors, and the sensors are programmed wirelessly.\n\nIt covers far more wheels than the Tymate kits but its listing does not state the sensor type. It is also the most expensive pick here.\n\nBest for a long rig with many tires once the sensor type is confirmed. The listing does not say whether the sensors are cap, flow-through or internal, so confirm that before ordering.",
     "specs": [
       "10 sensors, up to 10 tires per page",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51ltS+as1XL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FGJYSHRQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FGJYSHRQ?tag=rvgearlab-amz-20",
     "description": "LIIRVVSTT's four-sensor kit uses external sensors with solar and USB charging at a very low price. LIIRVVSTT's TPMS pairs four external sensors with an LCD that switches on and off automatically and charges by solar or USB. Six alarm modes include fast and slow leak, low and high pressure and high temperature.\n\nIt costs less than Tymate TM2 4-Sensor and states few other specs. Confirm warranty and psi range.\n\nBest for a trailer on a very tight budget. The listing is thin on pressure range and warranty, so confirm both with the seller.",
     "specs": [
       "4 external sensors",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41WgGA12YiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F36BX7JZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F36BX7JZ?tag=rvgearlab-amz-20",
     "description": "Avutrel's four-sensor kit adds five alarm modes and an auto-brightness color display for a very low price. Avutrel's four-sensor TPMS uses external sensors with five alarm modes, a color display that adjusts brightness automatically and solar plus USB charging.\n\nIt is the cheapest here and states no psi range in the headline. It has one fewer alarm mode than the Tymate kits.\n\nBest for a basic four-wheel trailer. It is a basic budget kit, so check pressure range and wheel count against your rig.",
     "specs": [
       "4 external sensors",

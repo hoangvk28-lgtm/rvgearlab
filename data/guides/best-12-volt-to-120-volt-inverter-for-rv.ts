@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41iv-ro4N0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07PQR8HVQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07PQR8HVQ?tag=rvgearlab-amz-20",
     "description": "The Renogy 2000W is an inverter and battery charger in one box. The listing gives 2000W continuous with 6000W surge, a conversion efficiency above 90 percent, a four-stage charger (bulk, boost, float, equalization) and compatibility with gel, AGM, sealed, flooded, calcium and lithium batteries. Protections include under-voltage, overvoltage, overload, overheating and short circuit.\n\nIt leads this guide because 2000W is near the practical top of a 12V system, and it is the only pick here that also charges the bank from shore power or a generator. It costs $485.44 more than the HONOURLIGHT 3000W and $490.43 more than the Ampinvt 1200W, but the HONOURLIGHT is inverter-only and asks for about 250 DC amps at full load, while the Renogy tops out near 185 amps (2000W divided by 12V, with 90 percent efficiency).\n\nPick this if you want one unit to invert, charge and live on a 12V bank, typically with lithium. The caveat is that the listing does not publish idle draw, transfer time or weight, so confirm those in the manual before you commit to a tight battery bay.",
     "specs": [
       "2000W, 6000W surge",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31URv2C9s5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0989XPZ48?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0989XPZ48?tag=rvgearlab-amz-20",
     "description": "The Ampinvt 1200W combines a pure sine inverter, a battery charger and an automatic AC transfer switch. The listing claims transfer efficiency above 90 percent, an adjustable charge current from 0 to 15 amps (0 turns charging off), five working modes including AC priority, battery priority, generator, ECO and unattended, and battery settings for sealed, gel, AGM, flooded and lithium. Output holds 110 to 120 percent load for 30 seconds.\n\nIt ranks second because 1200W sits comfortably inside a 12V system, drawing about 111 amps at full load after losses, and it adds charger and transfer features at $165. That is $490.43 less than the Renogy 2000W, but it has less than two thirds of the power. It costs $4.99 less than the HONOURLIGHT 3000W, which has more than twice the output but no charger and no transfer switch.\n\nChoose it for a small rig that needs a coffee maker, laptop and TV on battery, with shore power transfer and a gentle 15A charger. The caveat is that 15A of charging is slow for a large lithium bank, and a 1200W ceiling rules out microwaves above that draw or air conditioners.",
     "specs": [
       "1200W pure sine",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51SGT2AP82L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CSYS85FQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CSYS85FQ?tag=rvgearlab-amz-20",
     "description": "The HONOURLIGHT 3000W lists 3000W continuous and 6000W peak, efficiency above 90 percent, UL and CSA certification, an LCD showing input and output voltage and protection status, dual cooling fans, and a 14.8 foot wired remote. It ships with two 5 AWG battery cables of 2.6 feet each and works with 12V batteries and solar systems.\n\nIt is third because of the physics, not the build. At 3000W and 12V the DC side is 250 amps before conversion loss, nearly 280 amps at 90 percent efficiency, which is beyond a single 200A lithium battery management system and needs several batteries in parallel and cable much heavier than the supplied 5 AWG pair. Against the Renogy 2000W, it adds 1000W for $485.44 less but has no charger. It is $100 above the OLTEANP 1000W.\n\nPick this only if you already have a large 12V lithium bank with high-current battery management and heavy cable runs, or if the load is brief. The caveat is that the supplied cables are meant for short, low-load hookups, so budget for proper cable and a large fuse before running it near its rating.",
     "specs": [
       "3000W, 6000W peak",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ctUZeiwqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CQY798SV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CQY798SV?tag=rvgearlab-amz-20",
     "description": "The OLTEANP 1000W lists 1000W continuous and 2000W peak at $69.99, with two AC outlets, a 36W USB-C port, a 5V 3A USB port, six safety protections, temperature-controlled cooling and an LCD with protection codes. The listing is aimed at cars, trucks and camping, and it does not state a sine wave type.\n\nIt ranks fourth. It draws about 93 amps at full load after losses, easy for a 12V bank, and it costs $100 less than the HONOURLIGHT 3000W for one third of the power. It matches the OLTEANP 600W on price, so the extra 400W is free, but it lacks that unit's stated pure sine output, which matters for CPAP machines and some chargers.\n\nPick it for laptops, a blender, power tools or a small kettle that stays under 1000W, when you do not need clean sine power. The caveat is the unstated waveform, so verify it before connecting anything with a motor or sensitive electronics.",
     "specs": [
       "1000W, 2000W peak",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Ny1TN6E3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CN2SZ9TK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CN2SZ9TK?tag=rvgearlab-amz-20",
     "description": "The OLTEANP 600W lists true pure sine wave output at 600W continuous and 1200W peak, built for 12V car, truck or RV batteries. It has two AC outlets, two USB ports, an LCD with low voltage, high voltage, overheat and overload codes, and the listing states it has no battery and needs an external DC source.\n\nIt ranks last only on capacity. At $69.99 it costs the same as the OLTEANP 1000W and draws just over 55 amps at full load after losses, the gentlest on cables of any pick here. Against the Ampinvt 1200W it is $95.01 cheaper but half the power and has no charger or transfer switch.\n\nPick it for a CPAP machine, laptop, camera chargers and a TV, where pure sine output matters more than wattage. The caveat is the ceiling: a 600W limit will trip on a coffee maker or hair dryer, so list your loads before you buy.",
     "specs": [
       "600W pure sine",

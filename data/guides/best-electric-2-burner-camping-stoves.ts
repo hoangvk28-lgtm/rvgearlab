@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41yJjGLGj2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08GCDTTPD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08GCDTTPD?tag=rvgearlab-amz-20",
     "description": "The Techwood 1800W hot plate has two thermostatically controlled burners on a flat stainless steel body with non-slip feet and a cool-touch riveted handle. The 7.5 inch cooktop works with aluminum, copper, cast iron and non-magnetic stainless pans.\n\nAt 1800 W it stays right at the limit of a standard 15 amp circuit, below the 2,200 W Generic, so it is the one most likely to run on a campground outlet. It costs more than the Generic and less than the Karinear.\n\nA smart choice for RV owners and cabin cooks who want a simple plug-in cooktop. Its flat, light design stows in a cupboard.",
     "specs": [
       "1800 W, two burners",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41DKdeC-JIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FVX86NVV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FVX86NVV?tag=rvgearlab-amz-20",
     "description": "The Generic 2200 W unit has two coil burners with a 5-level temperature knob and an auto-shutoff button for overheating. The listing calls it a camper-friendly, compact and lightweight stove.\n\nIt is the cheapest and most powerful on paper at 2,200 W, which works out to about 18 amps at 120V, a draw above a standard 15 amp circuit. Against the Techwood it brings no brand name and a coil design.\n\nA pick for generator or high-amp setups where budget matters most. Coil burners are simple and easy to replace.",
     "specs": [
       "2200 W, two coil burners",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31GDfXwA2vL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7BSMKWH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7BSMKWH?tag=rvgearlab-amz-20",
     "description": "The Karinear is a 24 inch glass cooktop with side handles, non-slip feet and both knobs and touch sensors. Total power is 2,000 W, each burner reaches 1,600 W, and the listing gives a range of 400 F to 1200 F.\n\nIt is the largest and best featured, with a child safety lock, overheat protection and a residual heat indicator that flashes HOT. It costs the most of the three, and at 2,000 W it pulls about 16.7 amps.\n\nA good fit for larger RVs and park models with a dedicated 20 amp circuit. The glass surface wipes clean.",
     "specs": [
       "2,000 W total, 1,600 W per burner",

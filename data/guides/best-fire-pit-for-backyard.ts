@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/61pZEVS54oL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C64VCSKN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C64VCSKN?tag=rvgearlab-amz-20",
     "description": "The OutVue 36 inch pit comes with two height-adjustable, 360 degree swivel cooking grills, a lid and a tabletop, plus a waterproof round cover and a poker. It holds up to 20 lbs of wood and sets up in about 20 minutes with detailed instructions.\n\nIt offers more cooking flexibility than the Hykolity's single swivel grate and a more usable tabletop than the cutout models. The included waterproof cover is a practical extra for a backyard pit that lives outside.\n\nIt fits families that want one pit for roasting, cooking and warmth through the season. The lid turns it into a table when the fire is out.",
     "specs": [
       "36 inch pit, 2 swivel grills",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51fESmtewjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G35GL4WW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G35GL4WW?tag=rvgearlab-amz-20",
     "description": "The FansaFurn is a 43 inch pit table with two removable grill plates that rotate 360 degrees and adjust in height, a protective lid and a hollowed tabletop. A high-temperature coating guards against rust, and the box includes a poker and assembly parts.\n\nAt 43 inches it offers the most tabletop and seating room of the five, beyond the 36 inch OutVue. Its price sits below several smaller pits, which stretches the budget.\n\nIt suits hosts who entertain a crowd and want a big surface for drinks and plates. The lid and grills handle cooking duty.",
     "specs": [
       "43 inch table, 2 grill plates",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51ikfTTMuiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08H4XH1B2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08H4XH1B2?tag=rvgearlab-amz-20",
     "description": "The Hykolity is a 31 inch diameter, 24 inch high pit with a 21.06 inch swivel cooking grate that turns 360 degrees. Powder-coated heavy-duty steel handles heat, and the pit comes together in four pieces with no extra tools.\n\nIt is the most compact of the grill models, so it fits smaller yards where the OutVue and FansaFurn would crowd the space. A one-year warranty covers the build.\n\nChoose it for smaller backyards that still want a real cooking surface. Setup is quick, with only the bowl, grill, spark cover and poker to fit.",
     "specs": [
       "31 inch dia, 24 inch high",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51E6KQ8UqcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DFQ3NPVY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DFQ3NPVY?tag=rvgearlab-amz-20",
     "description": "This round pit has star and moon cutouts that throw patterned shadows as the fire burns, with heat-resistant metal construction. A mesh cover contains sparks, and a poker is included.\n\nWhere the OutVue and FansaFurn are about cooking, this pit is about ambiance and simplicity. It has no grill or tabletop, so it is lighter and easier to move.\n\nIt suits quiet evenings, holiday gatherings and anyone who wants a good-looking pit without extras. The mesh cover and poker are already in the box.",
     "specs": [
       "32 inch round, star and moon design",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/510fizcoqfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FM3JYC86?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FM3JYC86?tag=rvgearlab-amz-20",
     "description": "The Breezz is a 32 inch round pit of heavy-duty steel with a high-temperature heat-resistant coating and an American flag cutout pattern. It includes a mesh spark screen and a fire poker, and the legs are sturdy.\n\nIt is the same size as the Star and Moon pit and similar in function, and it adds a flag design that works for holidays. Compared with the OutVue it skips the grills in favor of a pure bonfire feel.\n\nChoose it for Fourth of July cookouts, Memorial Day and anyone who wants flag shadows in the yard. The sturdy legs keep it steady on a lawn or patio.",
     "specs": [
       "32 inch round, flag cutout",

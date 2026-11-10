@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41FeHhgBU1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FB3GFW4Z?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FB3GFW4Z?tag=rvgearlab-amz-20",
     "description": "The Maelstrom vest weighs 1.1 lb in total, with four storage pockets and an aluminum-lined sleeve that keeps a 2L PEVA bladder cool. External clips hold a cycling helmet, reflective strips add visibility and the chest straps adjust from 22.4 to 61 inches.\n\nAt about $22 it costs $6 more than the Hydration Backpack 2L and has the widest strap range in this guide. The helmet clips are the feature the others lack.\n\nIt suits people who both run and bike to work. It fits almost any body.",
     "specs": [
       "1.1 lb with 2L bladder",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ipirmndzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09TR9LPKN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09TR9LPKN?tag=rvgearlab-amz-20",
     "description": "This 12L pack weighs 8.5 oz in PU-coated nylon that bears 25 lb, with a 2L PEVA bladder and a hose clamp. Shoulder straps adjust from 19 to 34 inches and the chest strap from 2.4 to 7.9 inches, and a bidirectional main zipper opens the bladder pocket.\n\nAt about $25 it costs $3 more than the Maelstrom and weighs about 10 oz less than the Unigear with its bladder. Small front pockets and two mesh pouches hold a phone and a bottle.\n\nIt suits runners and fast hikers who count ounces. The waterproof, tear-resistant coating sheds rain.",
     "specs": [
       "12L, 8.5 oz pack",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411pl64xOyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FFGTPDXJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FFGTPDXJ?tag=rvgearlab-amz-20",
     "description": "The MIYCOO includes a 2L food-grade BPA-free bladder with a thickened leakproof design and a wide opening for filling and cleaning. An insulated bladder bag holds an ice pack to keep water cold for up to 4 hours, and mesh shoulder straps keep air moving.\n\nAt about $23 it costs $1 more than the Maelstrom and is the only pack here with a dedicated ice-pack sleeve. A front zipper pocket and a main pocket hold towels, snacks and sunglasses.\n\nIt suits hot-weather hikers and runners who want cold water. The wide opening makes cleaning easy.",
     "specs": [
       "2L BPA-free bladder, wide opening",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51vCrgNTENL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07C1TQ7DD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07C1TQ7DD?tag=rvgearlab-amz-20",
     "description": "The Unigear is a 16.5 by 8 by 6 inch pack fitting chests from 27 to 50 inches, which suits teens and adults. With the 2L bladder it weighs 1.1 lb, and the splash-resistant nylon keeps gear dry in light rain.\n\nAt about $19 it costs $3 less than the Maelstrom and gives similar weight with a small front pocket for keys and a bar. A screw cap lets you drop in ice cubes.\n\nIt suits racers and teens who want a snug fit. It is a solid value.",
     "specs": [
       "16.5 by 8 by 6 inches, 1.1 lb",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Qtdv-Xa7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B074GLQ9CW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B074GLQ9CW?tag=rvgearlab-amz-20",
     "description": "This pack weighs 0.79 lb with its 2L bladder and has adjustable shoulder, chest and waist straps in strong nylon. Exterior zip pockets hold small gear, and a replacement guarantee backs the purchase.\n\nAt about $16 it is the cheapest pick and has a waist strap that stops bounce on rough trails. The nylon main compartment is water resistant.\n\nIt suits runners, cyclists and hikers who want a steady fit for the least money. It is an ideal first pack.",
     "specs": [
       "0.79 lb with 2L bladder",

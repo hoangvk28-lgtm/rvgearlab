@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41vEJ37AM-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DQPZKMNS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DQPZKMNS?tag=rvgearlab-amz-20",
     "description": "The TOPOAK Nebula XL is an aluminum alloy hard shell with an X-frame and U-bar design that expands the sleeping area by 50 percent. It pairs 320G blackout fabric with a 420D oxford rainfly rated 10,000 mm waterproof and a 2 inch memory foam mattress.\n\nIts hydraulic system opens with a pull and uses Stabilus gas springs backed by a lifetime assurance, a stronger support promise than the other four list. The shell is slim enough for low-clearance garages, and a built-in roof rack, LED lighting and internal storage are included.\n\nIt suits overlanders who want the most weather protection and sleep comfort and are willing to spend for it. The 360 degree ventilation helps in warm nights.",
     "specs": [
       "10,000 mm waterproof rainfly",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51RakULc07L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DM5SNPPC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DM5SNPPC?tag=rvgearlab-amz-20",
     "description": "The JOYINRUTE uses aircraft-grade aluminum with four high-strength hydraulic support rods for smooth opening and closing. A disassemblable winter thermal liner adds insulation and wind protection, and a flocked lining floor limits condensation under the mattress.\n\nWhere the Nebula XL spends on a bigger X-frame, this one spends on four-season practicality: the 320G polyester has a blackout coating, 5000 mm water resistance, 99 percent sun protection and four windows. It undercuts the Nebula by roughly 800 dollars while keeping a removable winter layer.\n\nIt suits campers who want cold-weather capability without premium-brand pricing. The liner comes out in warm months for better airflow.",
     "specs": [
       "Removable winter thermal liner",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41HQFL6DYJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GVJ5NVWN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GVJ5NVWN?tag=rvgearlab-amz-20",
     "description": "The ARCTWONDER uses aluminum for the bottom plate, top cover and four corners, with air pressure rods that let it pop up within 10 seconds. A removable winter thermal layer and a 6 cm mattress (5 cm foam plus a 1 cm condensation pad) come with it.\n\nCompared with the JOYINRUTE it adds two luggage poles and a longer LED light, and its triangle structure with ripstop canvas is listed for winds up to level 7. Against the AvaaHazerl it brings the thermal layer for cold seasons.\n\nIt suits solo travelers who open and close the tent every morning, since one person can close it in two steps. The widened eaves add rain cover over the entrance.",
     "specs": [
       "Pop-up in 10 seconds",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/513QdPDvCjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HHD9DRQC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HHD9DRQC?tag=rvgearlab-amz-20",
     "description": "The AvaaHazerl is the lowest-priced here, built from high-strength aluminum alloy with stainless steel gas struts for pop-up operation. A recessed marine pad and an anti-condensation layer reduce moisture buildup, and the polyester exterior is described as waterproof and breathable.\n\nIt trades the removable thermal liners of the JOYINRUTE and ARCTWONDER for a lower price and a simple, light all-weather build. Against the Triangle it uses an aluminum shell rather than ABS.\n\nIt suits first-time rooftop tent buyers who want a metal shell at the entry price. The listing rates it for rain, sun and light snow.",
     "specs": [
       "Aluminum alloy hard shell",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41YWEI4dMhL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GHYQN18N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GHYQN18N?tag=rvgearlab-amz-20",
     "description": "The Triangle Loft pairs an ABS hard shell with an aluminum frame and a built-in air conditioner duct hole for an AC hose. It lists room for two adults and a child, a disassemblable winter thermal liner and a solar panel in the package.\n\nWhere the other four rely on aluminum shells, this one trades a plastic-composite lid for lighter weight and a duct port that none of the others mention. It is also the priciest hard shell here, covering warm and cold use with the liner and the AC hole.\n\nIt suits families who camp in summer heat or want to connect a portable AC. The solar panel in the bundle powers small devices at camp.",
     "specs": [
       "ABS shell, aluminum frame",

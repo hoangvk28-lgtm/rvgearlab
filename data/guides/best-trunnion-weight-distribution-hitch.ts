@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ZjOf+aK6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B001TNNJAA?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B001TNNJAA?tag=rvgearlab-amz-20",
     "description": "The Fastway e2 92-00-1000 is a trunnion hitch with built-in two-point sway control, rated 10,000 lb and 1,000 lb tongue weight. The Fastway e2 92-00-1000 is a trunnion-style weight distribution hitch with built-in two-point sway control, rated 10,000 lb trailer weight and 1,000 lb tongue weight. The listing says it needs no add-on sway bar and can stay attached when backing.\n\nIt states both ratings and includes a shank, unlike the 92-00-1033. It costs about the same as the 8,000 lb model.\n\nBest for a 10,000 lb trailer wanting a complete e2 kit. It is the complete-kit version of the 10K e2, and the listing numbers it separately from the 92-00-1033 that omits the shank.",
     "specs": [
       "10,000 lb trailer rating",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ZjOf+aK6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0071L4BAG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0071L4BAG?tag=rvgearlab-amz-20",
     "description": "The Fastway e2 92-00-0800 is rated 8,000 lb and 800 lb tongue weight with the same built-in sway control. The Fastway e2 92-00-0800 is a trunnion-style weight distribution hitch with built-in two-point sway control, rated 8,000 lb trailer weight and 800 lb tongue weight. It is the lighter-duty e2 in this family.\n\nIt has less rating than Fastway e2 92-00-1000 and costs about the same. It is a complete kit.\n\nBest for a trailer up to 8,000 lb. Match your loaded tongue weight to the 800 lb rating, and step up to the 10K model if it sits near the limit.",
     "specs": [
       "8,000 lb trailer rating",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Vfn1TfeUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DT1KPYRX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DT1KPYRX?tag=rvgearlab-amz-20",
     "description": "CURT's 17355 TruTrack 2P is a trunnion hitch listed for 8,000 to 12,000 lb with integrated sway control. CURT's 17355 TruTrack 2P is a trunnion bar weight distribution hitch with integrated sway control, listed for 8,000 to 12,000 lb with a 2-inch shank and 2-5/16 inch ball. The listing says fixed support brackets resist trailer sway and the head tilts for adjustment.\n\nIt has a wider range than the e2 kits and states no tongue weight. It costs about the same as Fastway e2 92-00-1000.\n\nBest for a trailer that may be upgraded within 8,000 to 12,000 lb. It spans a wide trailer range, so confirm the tongue weight rating that applies to your trailer.",
     "specs": [
       "TruTrack 2P trunnion, 8K to 12K",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21KS6ik9t7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00HESTEBM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00HESTEBM?tag=rvgearlab-amz-20",
     "description": "The Fastway e2 92-00-1033 has the same 10,000 lb and 1,000 lb ratings but the title says no shank is included. The Fastway e2 92-00-1033 is a trunnion-style weight distribution kit with built-in two-point sway control, rated 10,000 lb trailer weight and 1,000 lb tongue weight. The title states that it does not include a hitch shank.\n\nIt costs less than Fastway e2 92-00-1000 and needs a shank bought separately. That can erase the savings.\n\nBest for an owner who already has a compatible shank. Buy a compatible shank at the same time, since it will not work without one.",
     "specs": [
       "10,000 lb trailer rating",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31H5UcTu36L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B007Y12CVI?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B007Y12CVI?tag=rvgearlab-amz-20",
     "description": "Draw-Tite's 66542 is listed as a trunnion bar with only package dimensions and weight. Draw-Tite's 66542 is listed as a trunnion bar, and the listing gives only package dimensions (36 by 10 by 9 inches) and a package weight of 86.25 lb. It states no tongue weight, trailer weight, shank or sway control details.\n\nIt states no ratings, unlike every pick above. It costs more than the e2 kits.\n\nBest only after the seller supplies a spec sheet. Ask the seller for a full spec sheet before buying, since the listing gives no ratings.",
     "specs": [
       "Trunnion bar listing",
@@ -165,7 +165,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31OxCwTQB8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00JJVBPZK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00JJVBPZK?tag=rvgearlab-amz-20",
     "description": "CURT's 17303 is a replacement 30-5/8 inch long trunnion bar rated up to 10,000 lb for CURT 17302. CURT's 17303 is a replacement long trunnion spring bar, 30-5/8 inches long and rated up to 10,000 lb. It fits the CURT long trunnion bar hitch 17302 and comes pre-assembled with a spring bar chain.\n\nIt is a part, not a hitch, and costs far less than any kit. It fits only the listed hitch.\n\nBest for replacing a damaged bar on a CURT 17302. Buy it only to replace a damaged bar on the 17302.",
     "specs": [
       "Replacement long trunnion bar",

@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/412G2-jbB1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CN3WDM3X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CN3WDM3X?tag=rvgearlab-amz-20",
     "description": "The Progressive Dynamics PD9330V is a 30 amp converter that takes 105 to 130 volts AC at 500 watts and puts out 13.6 to 14.7 volts DC at up to 30 amps. Its listing describes four modes shown by colored lights: a flooded lead-acid mode that boosts to about 14.4 volts, a two-stage lithium mode that idles at 13.6 volts, an AGM mode that absorbs at 14.7 volts, and a constant 13.6 volt mode. It is priced at $213.\n\nIt ranks first because it is the only unit here from the original brand that publishes a dedicated lithium mode and a constant-voltage mode for running loads without a battery. The price is $103 above the UIGEFAV PD9330 and $93 above the Rugaest PD9230, which are lookalike boxes that list lead-acid chemistries only. Against the WFCO power center it gives less DC output, 30 amps versus 35, but swaps a single converter instead of a whole panel.\n\nPick this if you are replacing a failed 9300 series converter or want a lithium-aware 30 amp box without changing the rest of the panel. The caveat is that the listing does not state dimensions or a warranty term in its feature text, and it needs the matching 9300 series bay.",
     "specs": [
       "30A at 13.6 to 14.7V",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41DZCGfj0PL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09QH269H9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09QH269H9?tag=rvgearlab-amz-20",
     "description": "The genuine WFCO WF-8735-AD is a whole power center for 30 amp RVs: AC breakers, DC fuses and a converter in one unit with 35 amps of DC output. The listing states that it auto-detects lead-acid or LiFePO4 batteries, holds full output down to 100 volts AC input, and is UL/CSA listed and FCC compliant. It sells for $199.99.\n\nIt ranks second only because its job is bigger than the converter-only picks: it replaces the panel as well, so it only makes sense when your failed part is a WF-8700 series center. Against the PD9330V it costs $13 less and gives 5 more DC amps, plus detection instead of manual mode choice. Against the SIYOEN look-alike at $95.88, you pay about $104 more for the brand's listing, the low-voltage claim and the safety marks.\n\nChoose it when you need to replace an entire WF-8735 style center on a 30 amp rig and want the documented low-voltage behavior. The caveat is that it is not a converter-only drop-in, so check that your cutout and breaker layout match before ordering.",
     "specs": [
       "35A DC, 30A AC panel",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41W3qQLM9AL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GS7GHYJJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GS7GHYJJ?tag=rvgearlab-amz-20",
     "description": "The UIGEFAV PD9330 lists a straightforward spec sheet: 105 to 130 volts AC input, 30 amps of output, a three-stage charger, a no-load voltage of 13.6 volts with a tolerance of up to 3 volts, and 450 watts of output power. Protections named are over-voltage, under-voltage, short-circuit and reverse polarity, and the listing says it suits lead-acid, AGM and GEL batteries. Price is $110.\n\nIt ranks third because it covers the same 30 amp class as the PD9330V for $103 less, but with no lithium mode in the listing and an odd voltage statement, since a tolerance of up to 3 volts is hard to read as a real spec. It undercuts the Rugaest PD9230 by about $10 and publishes more electrical numbers than that listing does. Against the SIYOEN it has a clearer three-stage description but does not give bulk and float voltages.\n\nPick this if you run a lead-acid or AGM battery and want a cheap 30 amp box. The caveat is that lithium is not listed, so a LiFePO4 bank would be on the wrong profile, and the brand name gives you little warranty clarity.",
     "specs": [
       "30A, 450W output",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41MEOm8FbHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H4KKKLQ9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H4KKKLQ9?tag=rvgearlab-amz-20",
     "description": "The Rugaest PD9230 is sold as a plug-and-play replacement for the PD9230C, PD9230CV and other 9200 series Inteli-Power converters. Its listing names a three-stage cycle of 14.4 volts bulk, an absorption step and 13.6 volts float, adds six protections including under-voltage and over-temperature, and uses a temperature-controlled fan that runs only when needed. It is priced at $119.99.\n\nIt ranks fourth because it is the narrowest fit: it matters if your rig has a 9200 series bay, and otherwise it only matches the UIGEFAV box at a $10 higher price. It publishes clearer charge voltages than the UIGEFAV, but like it lists lead-acid, AGM and GEL only, which is why the PD9330V is the better choice for anyone with lithium. The listing also says the 30 amp design suits small to medium RVs and campers.\n\nChoose it for a like-for-like 9200 series swap on a lead-acid bank. The caveat is that this is a third-party part rather than the Progressive Dynamics original, so check the return terms.",
     "specs": [
       "30A, 14.4V bulk, 13.6V float",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41tvu+Cml8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H5PQVYMP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H5PQVYMP?tag=rvgearlab-amz-20",
     "description": "The SIYOEN WF-8735-AD copy is a lookalike of the WFCO power center and publishes unusually exact electrical numbers: a 120 volt, 30 amp panel input, a converter input of 7.5 amps at 600 watts, and an output of 14.6 volts at 32.5 amps in lithium mode or 13.35 amps in lead-acid mode. Its three stages are 14.6 volts bulk, 13.6 volts absorption and 13.2 volts float. It sells for $95.88.\n\nIt ranks fifth because those numbers expose a real tradeoff. In lead-acid mode the listing shows only 13.35 amps of output, well below the 30 to 35 amp label, so the headline rating applies to lithium. That is far less than the $199.99 genuine WFCO, which lists auto-detect and full output down to 100 volts. It does cost about $104 less than that unit and is the only lookalike here with a numbered lithium voltage.\n\nPick it as a stopgap to get a 30 amp rig powered again when the genuine part is out of budget. The caveat is the lead-acid output figure, which means a flooded battery will charge far slower than the label suggests.",
     "specs": [
       "14.6V at 32.5A lithium",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41uOFoepzjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FXRKRYLM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FXRKRYLM?tag=rvgearlab-amz-20",
     "description": "The PeiXWming WF-8735-AD lookalike lists 105 to 130 volts AC input, 35 amps DC output and a maximum of 595 watts. It has a 30 amp main circuit with six DC circuits and five AC circuits, three charging stages of 14.4 volts bulk, 13.6 volts absorption and 13.2 volts float, and protections including fuse protection and electronic current limiting. It is $96.48.\n\nIt ranks last because its listing states plainly that the product is only suitable for lead-acid batteries, so it loses the lithium option that the SIYOEN at $95.88 claims for nearly the same money. The $0.60 price gap is too small to matter, which makes the chemistry the deciding factor. It does name its circuit counts, which the SIYOEN does not, and it is about $103 below the genuine WFCO.\n\nChoose it if you have flooded or AGM batteries and a failed WF-8735 center. The caveat is that adding a lithium battery later would force you to buy another unit.",
     "specs": [
       "35A DC, 595W maximum",

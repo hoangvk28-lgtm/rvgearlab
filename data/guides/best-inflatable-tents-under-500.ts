@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41p8Z2xKFLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GLX33K5Z?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GLX33K5Z?tag=rvgearlab-amz-20",
     "description": "The FUNWAKE uses TPU air beams and dual valves that inflate in about five minutes, with 420D Oxford rated PU 3000mm and UPF50+. A large TPU skylight with a privacy cover, a stove jack and heavy beam covers complete the design.\n\nIt costs well below the large 8-12 person tents and uses TPU beams, which the BravArrk and generic 13 by 10 tent lack. The SHANQUAN electric pump is easier to run.\n\nCouples and small families who want a hot tent will like it. Use a tent-rated stove only.",
     "specs": [
       "TPU air beams, dual valves",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51H500CMuTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HL9R23Z5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HL9R23Z5?tag=rvgearlab-amz-20",
     "description": "The BravArrk 4-6 person tent covers about 9.8 ft by 6.9 ft with a 6.5 ft peak, giving roughly 68 sq ft. Its PU 3000mm Oxford shell hangs on an inflatable beam frame, and a heat-resistant stove jack and 360-degree mesh ventilation come built in.\n\nIt costs about half of the FUNWAKE and is the smallest tent in the list. It pitches in around five minutes with the included pump.\n\nBudget campers who want a stove-ready tent will like the price. Mesh on every side keeps summer nights breezy.",
     "specs": [
       "68 sq ft, 6.5 ft peak",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410pWAFRtvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FSD746R4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FSD746R4?tag=rvgearlab-amz-20",
     "description": "The SHANQUAN spans about 11.8 ft by 9.8 ft under a 7.5 ft ceiling with 49 inch sidewalls. A silicone-coated fiberglass stove jack is rated to 300 degrees C, and dual AC vents let cords pass through.\n\nAn electric cordless pump inflates it in five to eight minutes, which removes the hand-pump effort that the FUNWAKE and Ytaoeo require. It costs more than the FUNWAKE and gives much more height.\n\nFamilies who want an easy pitch will like it. Three layers of thick fabric add insulation for cold nights.",
     "specs": [
       "11.8 ft by 9.8 ft, 7.5 ft ceiling",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ODvR3FqsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HFJW2RX4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HFJW2RX4?tag=rvgearlab-amz-20",
     "description": "The Ytaoeo has a floor close to 13.8 ft by 10.5 ft and a 6.9 ft center height. PU 3000mm Oxford with UPF50+ covers the shell, and a hand pump fills the beams in roughly five minutes. Four large mesh windows and a dual door bring airflow.\n\nIt is priced near the cap and offers more floor than the SHANQUAN. The BravArrk 8-12 person has more floor still and a skylight, while the Ytaoeo costs the same.\n\nLarge families will like the footprint. A hand pump is included.",
     "specs": [
       "13.8 ft by 10.5 ft floor",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41kH12Gw8UL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GGZ8PKM8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GGZ8PKM8?tag=rvgearlab-amz-20",
     "description": "The generic 13 by 10 ft tent measures about 13 ft by 9.8 ft with a 6.9 ft peak, using an airtight layer and a mesh layer. It has two doors, six windows, a stove jack and an anti-moisture floor pad, and a free-replacement guarantee covers verified production flaws.\n\nThe guarantee is unusual in this group, and the two-layer design aids ventilation. It costs less than the BravArrk 8-12 person tent.\n\nLarge groups who value support will like it. It sleeps eight to ten.",
     "specs": [
       "13 ft by 9.8 ft, 6.9 ft peak",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/414uO65bbPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H4TBTFZW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H4TBTFZW?tag=rvgearlab-amz-20",
     "description": "The BravArrk 8-12 person tent offers about 129 sq ft of floor, roughly 13 ft by 9.8 ft with a 6.6 ft peak. A PU 3000mm Oxford shell with UPF30+ sits on PVC air beams that pitch in about seven minutes, and a panoramic skylight and stove jack come built in.\n\nIt has the largest interior in the list and anti-condensation ventilation. It costs near the cap and gives more floor than the Ytaoeo.\n\nBig groups who want a hot tent will like it. The skylight brings daylight to the whole floor.",
     "specs": [
       "129 sq ft, 6.6 ft peak",

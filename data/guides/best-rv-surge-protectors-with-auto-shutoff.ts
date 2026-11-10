@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41TpximWGNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GDDM1VCT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GDDM1VCT?tag=rvgearlab-amz-20",
     "description": "The PlugSaf lists 22,000 joules with intelligent auto shutoff and automatic reset, a real-time LED display for voltage, current, power and error codes, and a built-in circuit analyzer. It disconnects on over-voltage, under-voltage or over-temperature and is sold in 30A and 50A versions.\n\nIt matches the KIRFEIHT at the top of the joule range, with auto shutoff at a lower price. It lacks the app of the KIRFEIHT and the IP rating of the GEARGO.\n\nIt suits a camper who wants cutoff, auto reset and error codes at a low cost. Both 30A and 50A rigs are covered by the line.",
     "specs": [
       "22,000J, auto shutoff and reset",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41xdCwq7yOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GYF7RWN7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GYF7RWN7?tag=rvgearlab-amz-20",
     "description": "The KIRFEIHT is a 50 amp unit with 22,000 joules, auto shutoff and auto reset, plus Bluetooth that connects to an iOS and Android app. The LED screen and built-in circuit analyzer show input and output voltage, current and frequency, even in strong sun.\n\nIt adds an app to the cutoff features of the PlugSaf. It costs the most of the five.\n\nIt suits a 50A owner who wants cutoff and remote status. The app shows readings from your phone.",
     "specs": [
       "50A, 22,000J, Bluetooth",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41I7ffB3CnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H6SV7GY5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H6SV7GY5?tag=rvgearlab-amz-20",
     "description": "The PohuStues is a 30 amp Bluetooth unit with 18,000 joules. It cuts power when voltage drops below 104V or rises above 132V and reconnects when safe, with an HD display showing live voltage and fault codes E1 to E4.\n\nIt names its cutoff range, which most listings do not. It adds Bluetooth and remote cutoff, which the GEARGO 15,000J lacks.\n\nIt suits a 30A camper who wants to see or cut power from a phone. The circuit scan checks the pedestal before you plug in.",
     "specs": [
       "30A, 18,000J, Bluetooth",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41E2u5keMWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GVFBQLGY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GVFBQLGY?tag=rvgearlab-amz-20",
     "description": "The GEARGO lists 15,000 joules with auto shutoff, an IP68 design, thermal protection and a circuit analyzer that detects open ground, reverse polarity, high voltage, low voltage and overheating. The listing calls it an RV adapter plug with thermal protection.\n\nIt carries an IP68 rating at a modest price. Its joule figure sits below the 22,000J units.\n\nA 30A camper after a waterproof, low-cost unit with cutoff will like it. The analyzer checks the pedestal before connecting.",
     "specs": [
       "30A, 15,000J, IP68",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41T3bKiMGSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HFX178KN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HFX178KN?tag=rvgearlab-amz-20",
     "description": "The GEARGO lists 12,000 joules for a 30 amp RV system with an upgraded LED screen showing real-time numeric voltage, readable in sun or dim light. Its circuit analyzer monitors power and cuts off automatically on over-voltage, under-voltage and hazardous wiring.\n\nIt posts the lowest joule figure of the five and the clearest numeric readout of the 30A units. It costs more than the 15,000J GEARGO.\n\nIt suits a camper who prefers reading the actual voltage over trusting a light. The automatic cutoff protects against wiring faults.",
     "specs": [
       "30A, 12,000J",

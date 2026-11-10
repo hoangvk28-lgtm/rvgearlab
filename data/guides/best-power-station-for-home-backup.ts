@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31MKjmDYAXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FM8653F1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FM8653F1?tag=rvgearlab-amz-20",
     "description": "The Jackery HomePower 3600 Plus is a 3,584Wh station with 3,600W of AC output, 7,200W in parallel and dual 120V and 240V voltage. Its ceramic membrane LFP cells are listed as tested at 302F and it recharges in about 2 hours through hybrid AC plus DC input.\n\nIt is the only pick here sized for pumps, heaters and dryers, and the listing describes plug-and-play setup when paired with its MTS. It is 34% smaller and 29.3% lighter than comparable 3.6kWh stations according to the listing.\n\nIt suits homeowners with well pumps, sump pumps or an electric furnace blower to protect. The 240V output opens up appliances that smaller stations cannot run.",
     "specs": [
       "3,584Wh, 3,600W AC output",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41LPWKTY8CL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FN7MSY4L?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FN7MSY4L?tag=rvgearlab-amz-20",
     "description": "The Anker SOLIX C1000 Gen 2 holds 1,024Wh and delivers 2,000W with 3,000W peak across 10 ports. HyperFlash recharging reaches full in 49 minutes at 1,600W, and 600W of solar input recharges it in about 1.8 hours.\n\nIt recharges far faster than the EBL or STARYLINE, which matters when outages come in waves. The battery is rated to hold at least 80% capacity after 4,000 cycles.\n\nIt fits households that want to refill between outages and run a fridge, a space heater at low setting or a sump pump. It also works for RV and camping.",
     "specs": [
       "1,024Wh, 2,000W (3,000W peak)",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Rscin7aaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DQZT4SP8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DQZT4SP8?tag=rvgearlab-amz-20",
     "description": "The EBL 2400W station holds 1,843.2Wh with 2,400W output and four AC ports, plus a full set of other ports for 12 devices at once. It switches to backup in 0.1 seconds during a blackout and uses LiFePO4 cells rated for over 3,500 cycles.\n\nIt has nearly twice the capacity of the Anker and the STARYLINE at a similar price to the Anker. At 55 lbs it is the heaviest of the mid-size picks, with a clear display for remaining power.\n\nIt fits families that want a fridge, router and lights to run for many hours. The 0.1 second switchover protects computers during a blackout.",
     "specs": [
       "1,843.2Wh, 2,400W, 4 AC ports",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41gOB71FB5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GVJ6DVL9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GVJ6DVL9?tag=rvgearlab-amz-20",
     "description": "The STARYLINE has 1,000W continuous output and 1,024Wh of LiFePO4 capacity, with two AC outlets, a 60W PD USB-C port and two USB-A ports. The listing says it powers lights, routers and mini fridges for two to three days, and it supports up to 300W of solar input.\n\nIt weighs 27.73 lbs and has an integrated non-slip handle. Compared with the Anker, it gives up the 49 minute recharge and 2,000W output.\n\nIt suits campers and home backup buyers who want an affordable 1kWh station. It is listed as compatible with Starlink.",
     "specs": [
       "1,000W, 1,024Wh LiFePO4",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41-Ey75o-WL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B082TMBYR6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B082TMBYR6?tag=rvgearlab-amz-20",
     "description": "The Jackery Explorer 300 holds 292Wh in LiFePO4 cells rated for over 4,000 cycles, weighs 7.5 lbs and has two AC outlets, a 100W USB-C PD port, two USB-A ports and a 120W car port. Output is 300W with a 600W peak.\n\nIt is the smallest and lightest here, with a handle and an easy carry between rooms. It reaches 80% capacity in about 2.8 hours with a 100W Jackery panel.\n\nIt suits renters, apartment dwellers and anyone who just needs phones, a router and a lamp running. The 120W car port also helps on road trips.",
     "specs": [
       "292Wh, 300W (600W peak)",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41jWQQs7geL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GKMLNP3L?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GKMLNP3L?tag=rvgearlab-amz-20",
     "description": "The G4Free 20L packable pack weighs only 0.64 pounds and measures 11.4 by 5.1 by 18.5 inches. It folds to 6.3 by 7.1 inches and uses water-repellent Taslan nylon, with a zippered main compartment, inner pockets and a phone pocket on the shoulder strap.\n\nIt is the lightest pick with a listed weight, and the phone pocket on the strap saves reaching into the bag. Against the MIYCOO, it carries less and weighs almost nothing.\n\nIt suits travelers who want a day bag that does not add weight to a carry-on. The elastic strap pocket holds snacks within reach.",
     "specs": [
       "20L, 0.64 lb",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41bf-PBjn0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H8742Y7Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H8742Y7Q?tag=rvgearlab-amz-20",
     "description": "The BAGSMART 18L travel pack has a padded 14 inch laptop compartment, two exterior zip pockets and side pockets for a bottle. It fits under airline seats or inside overhead bins and works for flights, trail walks and city days.\n\nIt holds its shape better than the G4Free and carries a laptop or tablet. Compared with the Taygeer, it is smaller and simpler.\n\nIt suits travelers who want a firm, organized day bag. The exterior zip pockets mean fewer trips into the main compartment.",
     "specs": [
       "18L, padded 14 in laptop sleeve",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41WrR5YeyeL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FPX2T3R9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FPX2T3R9?tag=rvgearlab-amz-20",
     "description": "The Taygeer Personal Item bag is built around budget-airline size limits, with four big compartments and a spread of nine smaller pockets. A TSA friendly laptop section, a shoe pouch and a convertible carry system between a backpack and a handbag round it out.\n\nIt offers the most compartments in the list and converts to a hand carry for stretches. Next to the BAGSMART, it has a bigger layout and a shoe pouch.\n\nIt suits travelers who fly on strict airlines and sometimes prefer carrying by handle. The suitcase-style opening makes packing easy.",
     "specs": [
       "Personal item sized",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/511kWM75UGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7W2669L?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7W2669L?tag=rvgearlab-amz-20",
     "description": "The MIYCOO is a 35L ultralight packable pack the listing compares to half the weight of a mobile phone. It uses IPX4 water-resistant fabric, three compartments, a wet compartment, anti-theft zipper clips and a survival whistle.\n\nIt carries almost twice the G4Free 20L and still folds into its inner pocket. It is the safer pick for the road, with zipper clips to deter pickpockets.\n\nIt suits travelers who want a big spare bag and extra security on crowded streets. The wet compartment separates a damp towel.",
     "specs": [
       "35L, IPX4 water-resistant",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/416HMUJO3fL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B015CNYBKE?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B015CNYBKE?tag=rvgearlab-amz-20",
     "description": "The G4Free 20L small packable pack folds into a built-in pouch about the size of a sandwich. It unfolds to 16.5 by 11.8 by 6.3 inches, with three zippered compartments, water-resistant coated polyamide and a wide S-shape mesh shoulder strap.\n\nIt costs less than the other G4Free and features three compartments. It carries a bit wider than the 0.64 pound version.\n\nIt suits budget travelers who want a spare bag. The mesh straps are breathable.",
     "specs": [
       "20L, folds to sandwich size",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41EzV9ujNWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D1YB84JX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D1YB84JX?tag=rvgearlab-amz-20",
     "description": "The WINDARS is a 28L bag measuring 12.6 by 8.4 by 17.7 inches and weighing 1.74 pounds (0.79 kg). It lists four compartments, two side pockets, 20 organized pockets, S-shape padded straps and a waterproof polyester shell with a USB charging port.\n\nIt is the heaviest and most organized of the six. Compared with the BAGSMART, it adds a USB port and many more pockets.\n\nIt suits travelers who like a place for everything and carry a power bank. The padded S-shape straps help with comfort.",
     "specs": [
       "28L, 1.74 lb",

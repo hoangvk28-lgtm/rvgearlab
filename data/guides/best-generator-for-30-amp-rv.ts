@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51ohtKVfe5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B099KNP2SD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B099KNP2SD?tag=rvgearlab-amz-20",
     "description": "The Westinghouse lists 3,600 running and 4,650 peak watts from a 212cc four-stroke OHV engine with a cast iron sleeve. It is the only pick whose listing names both a TT-30R RV receptacle and an L5-30R twist-lock, along with a 5-20R household duplex, all under rubber covers. A 4-gallon tank is said to run up to 14 hours, and it includes automatic low-oil and CO shutdown, a wheel and handle kit, and a three-year limited warranty.\n\nIt ranks first because naming both receptacles removes the adapter question, which none of the other four do. It costs $109.01 more than the Genkins, which offers 100 more rated watts as an inverter, and $50.99 less than the AIVOLT. The trade is that it is a conventional recoil-start generator, not an inverter, and the listing does not publish a THD figure.\n\nPick it if you want the safest plug fit and long runtime for a travel trailer and your electronics are not especially sensitive. The caveat is size and noise: the listing gives no decibel or weight figure, and an open-frame conventional unit is typically louder than the inverter models.",
     "specs": [
       "3,600 running, 4,650 peak watts",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51t+cWrJRPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D2Z2XC1T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D2Z2XC1T?tag=rvgearlab-amz-20",
     "description": "The Genkins lists 4,500 peak and 3,700 rated watts, pure sine wave output under 3 percent THD, a 212cc commercial-grade four-stroke engine with pull start, and a 2.11-gallon tank said to run up to 8 hours at half load. Its panel has one NEMA L5-30R twist-lock and one 5-20R household outlet, in an open-frame body.\n\nIt ranks second because it provides the highest rated output of the five, 3,700 watts, for $289.99, which is $109.01 less than the Westinghouse. Unlike the Westinghouse it is an inverter with a stated THD. The cost is the plug: it has only the round L5-30R, so a TT-30 cord needs an adapter, which the other leader avoids.\n\nThis fits budget buyers who will pair it with an L5-30 to TT-30 adapter and want clean power for electronics. The caveat is that the listing gives no noise or weight figures and the open frame is likely louder than enclosed inverters, so confirm both before camping near neighbors.",
     "specs": [
       "4,500 peak, 3,700 rated watts",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41YcCuxXWvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GXZXX3KK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GXZXX3KK?tag=rvgearlab-amz-20",
     "description": "The EFURDEN lists 4,300 starting and 3,300 running watts, THD under 2 percent, and five outputs: one 120V 30A port, two 120V 20A ports, a USB port and a QC 3.0 USB-C. It weighs 45 pounds, measures 18.5 by 11.5 by 20 inches, and runs at 60 dBA at 23 feet. The 1.1-gallon tank is said to give up to 5 hours at 50 percent load.\n\nIt ranks third: the 3,300 running watts are 400 below the Genkins, and it costs $100 more at $389.99, but it adds a published 60 dBA figure, a lower THD claim, and a weight under 46 pounds. The listing says 30A but does not name TT-30R or L5-30R.\n\nPick it if you want a lighter inverter with a published noise reading and plan to use mostly 30A loads. The caveat is the small 1.1-gallon tank, which means refueling after about 5 hours at half load, and the unnamed receptacle type, which you should confirm in the product photos.",
     "specs": [
       "4,300 start, 3,300 running watts",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51M51jsvq3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B6PDZZRD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B6PDZZRD?tag=rvgearlab-amz-20",
     "description": "The AIVOLT lists 4,300 starting watts from a 149cc four-stroke OHV engine with copper windings, THD under 3 percent, and 60 dBA at 23 feet with no load. It weighs 51 pounds and the panel includes a 120V 20A outlet, a 120V 30A locking outlet, 12V DC, and 5V USB-A and USB-C, with an LCD showing five readouts. An RV adapter and a 12V battery charging cable come in the box, and it is parallel ready.\n\nIt ranks fourth because it costs $449.99, the most of the five, which is $50.99 above the Westinghouse and $160 above the Genkins, and the listing text does not publish a running-watt figure. The locking 30A outlet implies an L5-30R, which is why the included adapter helps.\n\nPick it if you want the adapter and battery charging cable in the box and an LCD for load and runtime. The caveat is the unpublished running watts, so confirm that number with the seller before relying on it for an air conditioner.",
     "specs": [
       "4,300 starting watts",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51KrlC-jVkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FXLTM47G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FXLTM47G?tag=rvgearlab-amz-20",
     "description": "The Oxseryn lists 4,400 peak and 3,400 running watts, two 120V AC ports, one 30A RV port and a 12V DC port, a 2-gallon tank said to run 14 hours at 25 percent load, ECO mode and cold-start technology. It weighs 56 pounds and is EPA compliant with low-oil and overload protection.\n\nIt is the cheapest at $269.97, $20.02 below the Genkins, but it is 11 pounds heavier than the EFURDEN, and the 3,400 running watts sit 300 below the Genkins. The listing does not name which 30A receptacle it uses or give a noise figure.\n\nPick it if the lowest price is the priority and you can verify the receptacle type. The caveat is that nothing in the listing separates a TT-30R from an L5-30R, a gap that decides whether you need an adapter.",
     "specs": [
       "4,400 peak, 3,400 running watts",

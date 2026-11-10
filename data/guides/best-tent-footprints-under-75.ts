@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41-n59A5sPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B094F3T83J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B094F3T83J?tag=rvgearlab-amz-20",
     "description": "The REDCAMP footprint is a 165 by 118 inch sheet with 10 rust-proof grommets, double-layer corners and heavy-duty stitching. It weighs 2.9 pounds, packs to about 11.8 by 6.3 by 3.9 inches and carries a 365-day limited warranty.\n\nIt is the only pick here that suits any tent from a 4-person up to a 10-person model, since you can fold it to size. The MSR and Teton cuts are made for particular tents, while this one works under almost anything and costs about $17 less than the MSR.\n\nIt suits car campers with a large or unusual tent who want a sturdy sheet with warranty cover. Fold the extra width under the tent edges.",
     "specs": [
       "165x118 in, 10 rust-proof grommets",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41jGB1jHJTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CS4N63HZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CS4N63HZ?tag=rvgearlab-amz-20",
     "description": "The MSR Universal 2P footprint measures 82 by 48 inches and weighs 0.44 pounds. It fits the MSR Hubba Hubba 2, Free Lite 2, Carbon Reflex 2, Access 2 and Thru Hiker Mesh House 2 tents, or any similarly sized tent.\n\nIt is lighter than every other pick by a wide margin and packs to 10 by 10 by 1 inches. It costs about $17 more than the REDCAMP and covers a fraction of the area, because it is built for backpacking tents.\n\nIt suits backpackers with a two-person tent who want a light, durable sheet. The same maker offers a Large size for wider floors.",
     "specs": [
       "82x48 in, 0.44 lb",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21q1u5C6nJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DZXPK3TG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DZXPK3TG?tag=rvgearlab-amz-20",
     "description": "The Naturehike Village footprint is 260 by 230 centimeters (about 102 by 90 inches) in rip-stop Oxford with a PU3000+ coating. It matches the Naturehike Village 4 Person Plus Blackout and 4 Person with Screen Porch tents.\n\nIt weighs 1.85 pounds and packs to 37 by 22 centimeters, and it costs about $10 less than the MSR while covering far more ground. It is smaller than the REDCAMP and made for a defined tent.\n\nIt suits owners of those Naturehike tents who want an exact fit. It also works as a floor mat at camp.",
     "specs": [
       "260x230cm, rip-stop Oxford",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31r3K+kx+ZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09HY9WL2Z?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09HY9WL2Z?tag=rvgearlab-amz-20",
     "description": "The CORE footprint is 16 feet 6 inches by 11 feet 6 inches and fits the CORE 11 Person Straight Wall Cabin Tent with Screen Room (model 40035). Elastic loops on all four corners let you stake it quickly, and it packs to 15 by 12 by 4 inches.\n\nIt is the biggest footprint in the group, with enough room to cover a cabin tent and some of the screen room. It costs about $17 more than the REDCAMP, which is smaller overall and not cut for a cabin shape.\n\nIt suits owners of the CORE 11 person cabin tent. It also works as a picnic or tailgate ground sheet.",
     "specs": [
       "16'6\" x 11'6\" footprint",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31mmk0I3gGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0864ZCTL3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0864ZCTL3?tag=rvgearlab-amz-20",
     "description": "The Teton Sierra footprint is a strong woven tarp sized to fit under the TETON Sports Sierra 20 Canvas Tent. It protects the floor from wear, adds a layer of water protection and comes with a drawstring Oxford storage bag.\n\nPriciest of the five, it gives a snug fit for a canvas tent that no universal sheet can match. It repels dirt and cleans and dries quickly, so the tent floor stays tidy.\n\nIt suits owners of the Teton Sierra 20 canvas tent who want a cut made for it. It also serves as a picnic or beach tarp.",
     "specs": [
       "Fits TETON Sierra 20 canvas tent",

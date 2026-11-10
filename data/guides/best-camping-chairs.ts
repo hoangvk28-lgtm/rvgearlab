@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41e0uinyBAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CJ4W36XZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CJ4W36XZ?tag=rvgearlab-amz-20",
     "description": "The Overmont oversized 2 pack gives each chair a 450 pound capacity, a powder coated alloy steel frame and non slip feet. Each chair measures 23.2 by 22.8 by 39.4 inches with a padded high back, a sponge cushioned seat and cushioned armrests.\n\nCompared with the ALPHA CAMP set, it offers nearly double the stated capacity and a roomier frame, and each chair comes with its own insulated cooler bag, mesh cup holder and rear pocket. It suits couples who want comfortable seating for the campsite and who care about capacity and padding more than the lowest pack weight.",
     "specs": [
       "450 lb per chair",
@@ -55,7 +55,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41JJY2mAd2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DPHM121C?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DPHM121C?tag=rvgearlab-amz-20",
     "description": "The ALPHA CAMP 2 pack includes two chairs with lumbar support, a built in 4 can cooler on the armrest and a cup holder. The 600D Oxford fabric and reinforced steel frame carry up to 250 pounds, and each chair weighs about 5 pounds.\n\nNext to the Overmont set, it is lighter and costs less, while keeping a cooler and lumbar support. It works well for families who want two lightweight chairs for tailgating, beaches and campsites.",
     "specs": [
       "4 can armrest cooler",
@@ -84,7 +84,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41J7BHqB+tL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0033990ZQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0033990ZQ?tag=rvgearlab-amz-20",
     "description": "The Coleman portable chair is a single chair with a built in 4 can cooler, a mesh cup holder and side pockets. It has a fully cushioned seat and back and a strong steel frame, and it ships with a carry bag.\n\nIt is a proven format from a well known camping name and sits between the ALPHA CAMP set and the Amazon Basics on price. It suits solo campers and firepit sitters who want a familiar chair with a cooler and cushions.",
     "specs": [
       "Built in 4 can cooler",
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/414PPzOqu+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C4NK8HD2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C4NK8HD2?tag=rvgearlab-amz-20",
     "description": "The WEIDIORME 2 pack pairs compact chairs that weigh only 3.6 pounds each with individual carry bags. The high strength steel frame and 600D Oxford fabric are rated for 250 pounds, and the seat has a contoured back support.\n\nIt is the lightest pick here, noticeably below the 5 pound ALPHA CAMP chairs, and the lowest price per chair in this roundup. It is ideal for hikers, festival goers and anyone who walks to the campsite from the car.",
     "specs": [
       "3.6 lbs per chair",
@@ -142,7 +142,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51xe+LRBCaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B074YRN643?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B074YRN643?tag=rvgearlab-amz-20",
     "description": "The Amazon Basics folding chair is a large camp chair with a mesh back, a cooler pouch, a built in cup holder and a side pocket. It uses a heavy duty steel frame and includes a carry bag with a shoulder strap.\n\nIt is the lowest priced single chair in the group, with the same cooler and cup holder layout as the Coleman. It fits budget campers who need an extra chair for guests and want a cooler pouch included.",
     "specs": [
       "Mesh back with cooler pouch",

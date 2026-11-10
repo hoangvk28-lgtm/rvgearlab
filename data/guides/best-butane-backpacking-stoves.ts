@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51mLu5ekUgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01HUOEGM6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01HUOEGM6?tag=rvgearlab-amz-20",
     "description": "The Chef Master 15K lists 15,000 BTU from a butane burner with a built-in double wind guard around the head. An in-line regulator and a pressure-sensing shut-off stop gas flow if pressure climbs too high.\n\nIt out-muscles the 3,000 W minis on stated heat, and its hard-shell case can be set beside the burner as an extra windbreak. The price is the highest in this guide, and the case adds bulk to a pack.\n\nFits basecamp backpackers and car-supported hikers who cook real meals in big pots. The wind guard works well on exposed ridges.",
     "specs": [
       "15,000 BTU butane",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/416UlsILBhL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08B1QTW1J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08B1QTW1J?tag=rvgearlab-amz-20",
     "description": "The QUALIALL is a foldable stainless steel mini stove that the listing says boils 34 ounces of water in 3 to 5 minutes. A butane adapter tip and two emergency blankets come with it, plus a carrying pouch.\n\nIt stands out because the listing spells out the drawback: below 32 degrees Fahrenheit butane stays liquid, so warm the canister or use a mix. It also gives a safety reminder to close the knob before screwing on the canister.\n\nA practical choice for weekend backpackers and kayakers who read the fine print and want a stainless build. The foldable supports save pack space.",
     "specs": [
       "Stainless steel, foldable",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41SDjzWzfTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F1M9BZC1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F1M9BZC1?tag=rvgearlab-amz-20",
     "description": "The THTYBROS is a 3,000 W stove on an aircraft-grade aluminum base with a honeycomb windproof mesh. Its 9.5 cm burner head suits pots near 20 cm for one to three people, and it works with 7/16 threaded EN417 butane or butane-propane canisters.\n\nCompared with the AOTU it carries almost the same specs at the same low price, and the listing mentions a twin-pack option for sharing. It is not compatible with propane-only canisters.\n\nGood for budget hikers and kids' trips who might want two stoves. It folds to 4 by 5 by 8 cm.",
     "specs": [
       "3,000 W, 9.5 cm head",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hybCmWPwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07NJYV3NP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07NJYV3NP?tag=rvgearlab-amz-20",
     "description": "The AOTU is a 3,000 W stove with an aluminum alloy body, a honeycomb windproof net and a piezo ignition. The adjustable valve runs from full boil to a simmer, and the 9.5 cm head suits a 20 cm pot.\n\nNext to the THTYBROS it is nearly identical on paper, and both carry the same EN417 thread note. Against the Chef Master 15K it gives up output and a hard case for a far lower cost and a smaller pack footprint.\n\nA reliable low-cost choice for first-time backpackers who need one stove and little else. It packs into a small box.",
     "specs": [
       "Suits 1 to 3 people",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41NyE2N5X9S._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B092QS9DX7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B092QS9DX7?tag=rvgearlab-amz-20",
     "description": "The Caudblor is a small backpacking stove with fold-out pot supports and a control valve that is said to give smooth flame adjustment. It comes with an adapter so it can run on butane cylinders and 1 lb propane bottles.\n\nUnlike the other butane picks it can step up to a bigger propane bottle when the weather turns cold. A wider base is meant to give more room for a skillet than the minis.\n\nA good option for backpackers and bike-packers who want a butane stove now and a bigger fuel option later. It stows in a zipper case.",
     "specs": [
       "Butane adapter included",

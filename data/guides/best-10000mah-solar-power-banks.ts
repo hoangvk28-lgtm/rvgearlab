@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41mrxV+Zt8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DSBGDT4K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DSBGDT4K?tag=rvgearlab-amz-20",
     "description": "The SOLUPUP pairs a 10000mAh battery with three foldable panels rated at 30W, QC 4.0 and PD 3.0 fast charging, and three ports (2 USB-A and 1 Type-C). It has an IPX5 water and dust rating, a 3-level LED flashlight with SOS and strobe, and folds to 10.6 by 7.75 by 1.4 inches at 2.3 lb.\n\nIt carries the biggest solar panel of the three, and it adds named QC 4.0 and PD 3.0 support. It costs more than the other two and weighs more.\n\nIt suits campers who want a panel that can feed the bank in good sun. The three-panel layout charges faster than single panels.",
     "specs": [
       "10000mAh, 30W three-panel solar",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41IqTcrqVhL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GT53DZHN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GT53DZHN?tag=rvgearlab-amz-20",
     "description": "The YELOMIN lists 10000mAh, four foldable solar panels, 15W wireless charging and 3 built-in cables (USB-C and Lightning on the panel, a USB-C cable and a Lightning adapter on the bank). The bank snaps on magnetically and detaches, and it has a 3-mode SOS flashlight.\n\nIt combines wireless charging and built-in cables, which the BLAVOR lacks in this size, and it costs less than the SOLUPUP. The magnetic snap-on lets you pocket the bank while the panels stay out.\n\nIt suits campers who want a leave-it-in-the-sun panel and a pocket-able bank. The housing is described as military-grade with sealed ports.",
     "specs": [
       "10000mAh, four panels",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51ojDGHzXCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07T2NRK8G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07T2NRK8G?tag=rvgearlab-amz-20",
     "description": "The BLAVOR is a 10,000mAh solar bank with a 20W USB-C output, Qi wireless charging and an IPX5 rating. It uses a lithium-cobalt battery that the listing says has 50 percent more cycles than a normal Li-polymer pack, in a flame-retardant ABS and PC case with silicone protection.\n\nIt is the smallest of the three, with a price close to the YELOMIN. Compared with the SOLUPUP, it lacks a large panel and QC 4.0 ports.\n\nIt suits hikers who want a compact bank with a token solar panel and wireless charging. A USB-C port charges an iPhone 15 to 65 percent in about 30 minutes.",
     "specs": [
       "10,000mAh, 20W USB-C",

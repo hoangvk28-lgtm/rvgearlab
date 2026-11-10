@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31fGQbRl+FL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F9W9BPF5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F9W9BPF5?tag=rvgearlab-amz-20",
     "description": "The OrthoComfoot Leather Ankle boot is a women's orthopedic winter ankle boot with insulated leather, a thermal lining and a high-density cushioned insole. The listing names plantar fasciitis, flat feet and heel pain, and adds a wide toe box and deep-tread rubber outsole for icy and wet surfaces.\n\nIt carries the same arch-support promise as the pricier OrthoComfoot Winter Wide at roughly a third of the cost. Compared with the Hike Footwear boots, it gives a structured footbed instead of a flat zero-drop platform.\n\nIt suits a woman who needs arch support and a roomy toe box for snowy walks and short trail days. The leather upper also cleans easily.",
     "specs": [
       "Orthopedic arch support",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31UXx3NQrOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FCS4RNBT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FCS4RNBT?tag=rvgearlab-amz-20",
     "description": "The OrthoComfoot Winter Wide boot is a women's orthopedic hiking boot with a wide-width fit, thermal insulation and a waterproof exterior with a plush lining. The listing cites advanced orthotic support for plantar fasciitis and diabetic foot care, plus an ergonomic insole and a rugged non-slip rubber outsole.\n\nIt is the only pick here that combines a waterproof exterior, thermal insulation and orthotic support in one boot. Next to the OrthoComfoot Leather Ankle, it adds the waterproof shell and a mid-height shaft that steadies the ankle.\n\nIt suits a woman with plantar fasciitis who wants one boot for snowy trails, travel and town. The wide fit also accommodates swelling and bunions.",
     "specs": [
       "Waterproof, thermal insulation",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41DrtnSGNnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CYL9KX4S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CYL9KX4S?tag=rvgearlab-amz-20",
     "description": "The Hike Footwear Caspar Waterproof boot is a winter barefoot boot with a wide toe box, a flexible lightweight sole and a structured heel cup. According to the maker, the natural gait it encourages benefits plantar fasciitis sufferers by strengthening the feet and legs.\n\nIt adds a waterproof build to the same Caspar Pro platform as the non-waterproof model, which makes it the better choice for slush. It takes a very different approach from the OrthoComfoot pair, using a flat flexible sole instead of an orthotic arch.\n\nIt suits hikers who want to strengthen their feet and prefer a natural stride. The listing recommends ordering one size up.",
     "specs": [
       "Waterproof winter barefoot boot",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41DrtnSGNnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CYL8Z2JQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CYL8Z2JQ?tag=rvgearlab-amz-20",
     "description": "The Hike Footwear Caspar Pro is the same winter barefoot design in a model listed as non-slip rather than waterproof. It has a wide toe box, a structured heel cup and a flexible, lightweight and breathable build for daily wear.\n\nIt matches the Hike Footwear Caspar Waterproof on fit and plantar fasciitis language, and it does not list a waterproof build. That keeps it better for dry cold and city snow than for wet trails.\n\nIt suits a walker who wants a cold-weather barefoot boot for streets, parks and dry trails. The listing recommends ordering one size up.",
     "specs": [
       "Winter barefoot boot, non-slip",

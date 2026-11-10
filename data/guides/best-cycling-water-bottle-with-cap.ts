@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41H428dtDIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B085DM2QPD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B085DM2QPD?tag=rvgearlab-amz-20",
     "description": "The SPURCYCLE Catch Up holds 22 oz and uses the MoFlo cap, which the listing calls 100% leakproof when closed. The Purist coating resists stains and bad tastes.\n\nIt adds the MoFlo cap and the stain-resistant coating, where the QuiFit and ROCKBROS rely on a dust cover. It also holds more than the 21 oz CamelBak Podium.\n\nIt is for riders who want a bottle that does not hold a flavor from last week's drink. The flexible body squeezes easily.",
     "specs": [
       "22 oz flexible body",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/414ldnetvnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F8NM4LKZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F8NM4LKZ?tag=rvgearlab-amz-20",
     "description": "The QuiFit comes as a pair of plastic squeeze bottles with a high-flow, self-sealing cap and a removable soft nozzle cover. The listing says they are 360 degree leak-proof and dishwasher safe.\n\nThe nozzle cover keeps trail dust off the spout, a feature the listing highlights. It is also the only pack of two, so a couple gets two bottles for one price.\n\nIt is best for mountain bikers and couples who each want a bottle. The soft cover is removable if you do not want it.",
     "specs": [
       "Pack of 2 PP5 plastic bottles",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ArowiHm-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07HGTKSXC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07HGTKSXC?tag=rvgearlab-amz-20",
     "description": "The CamelBak Podium 21 oz is a squeeze bottle with a high-flow, self-sealing cap and a shape made to stay in most bike cages. The cap and bottle come apart and go in the dishwasher.\n\nThe cap delivers more water per sip than the TooLe and its shape holds in a cage on rough ground. It holds 3 oz less than the 24 oz Podium and the QuiFit's cover does not come with it.\n\nIt suits riders who want a known brand and a smaller, lighter bottle. It is a good second bottle for a jersey pocket.",
     "specs": [
       "21 oz easy-squeeze body",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31AUUvUj4UL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FQTCPSCD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FQTCPSCD?tag=rvgearlab-amz-20",
     "description": "The ROCKBROS bottle is PP5 plastic with a soft TPE spout, a self-sealing silicone valve and a dust cover attached to the cap. It comes in 20 oz and 24 oz, with a wide mouth for ice cubes.\n\nIt has an attached dust cover and costs less than most bottles here. The wide mouth also makes it easier to clean than the TooLe.\n\nIt is a strong pick for riders who want a covered spout on a budget. Textured sides keep a grip when hands are sweaty.",
     "specs": [
       "20 oz or 24 oz PP5 plastic",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21PoAxBUhpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DLGQDQWS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DLGQDQWS?tag=rvgearlab-amz-20",
     "description": "The TooLe holds 24 oz in food-grade PP5 plastic and weighs under 100g. It has a squeeze body with a textured grip and a wide mouth for quick refills.\n\nIt holds more than the Podium 21 oz and the ROCKBROS 20 oz, and it is the cheapest bottle on the list. The cap design is not described in detail, so it is the simple option.\n\nIt is for riders who want a large, light spare bottle without paying for extras. It also works for running, gym and hiking.",
     "specs": [
       "24 oz PP5 plastic, under 100g",

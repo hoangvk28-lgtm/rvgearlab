@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31BN5UBXRJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DCBB2YTR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DCBB2YTR?tag=rvgearlab-amz-20",
     "description": "The Anker 25,000mAh bank lists 165W total output with three 100W USB-C ports, two built-in USB-C cables and a USB-A port. One cable extends up to 2.3 feet and is rated for 20,000 retractions, and it can charge four devices at once.\n\nIt is the only bank here with three 100W ports and the largest capacity, which sets it apart from the INIU and the 20000mAh models. It costs nearly double the INIU 25000mAh.\n\nIt suits campers who run a laptop, a phone and a camera together. The listing names it for week-long trips.",
     "specs": [
       "25,000mAh, 165W total",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41r8xmj2o-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DBHC9F8B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DBHC9F8B?tag=rvgearlab-amz-20",
     "description": "The INIU Laptop Power Bank has 25,000mAh and 100W output, and is listed as airline safe and 30 percent smaller than a soda can. A 30 minute charge takes a MacBook Pro 14 inch from 20 to 72 percent in the listing.\n\nIt matches the Anker's capacity at about half the price, and it gives up the extra ports and built-in cables. It is the one to pick for a single laptop plus a phone.\n\nIt suits remote workers and gamers who want a Steam Deck or laptop top-up. The listing states more than 4 hours of extra play.",
     "specs": [
       "25000mAh, 100W output",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31CXgItzozL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C3GTMX5M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C3GTMX5M?tag=rvgearlab-amz-20",
     "description": "The UGREEN Nexode lists 100W with two USB-C ports and a 22.5W USB-A port and 20,000mAh capacity. The OUT1 port also takes in 65W so the bank itself recharges quickly.\n\nIt costs a little more than the Baseus and brings a 65W recharge input. Compared with the Anker, it is smaller and cheaper, and it has no built-in cables.\n\nIt suits campers who plug in each night and want the bank full by morning. Two USB-C ports and a USB-A port cover a phone, a laptop and a small accessory.",
     "specs": [
       "20,000mAh, 100W USB-C",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31WYstsSnPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GGH5YC94?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GGH5YC94?tag=rvgearlab-amz-20",
     "description": "The Baseus 20000mAh bank offers 100W PD charging, two built-in USB-C cables, high-capacity multi-port charging and pass-through charging. A 30 minute charge can lift an iPhone to a significant level and it can run a laptop while charging.\n\nIt adds built-in cables that the UGREEN lacks, and it costs slightly less. Compared with the REWONDER, it trades the retractable cable for dual fixed cables.\n\nIt suits travelers who want to avoid carrying cords. Pass-through charging lets you plug the bank into a wall at night and charge a phone from it.",
     "specs": [
       "20,000mAh, 100W PD",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41a7eMEbV3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FN2MTWN4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FN2MTWN4?tag=rvgearlab-amz-20",
     "description": "The REWONDER offers 100W through a 27.6 inch built-in retractable USB-C cable with magnetic storage, plus a second 100W USB-C port and dual 22.5W USB-A ports. It has a live LED percentage display and UL and FCC certification.\n\nIt is the least expensive 100W pick, with a retractable cable that tucks away magnetically. Compared with the Baseus, it names a live percentage display and UL and FCC certification.\n\nIt suits budget shoppers who want a laptop-capable bank with a visible gauge. The listing notes that full 100W from the port needs a 100W cable.",
     "specs": [
       "20,000mAh, 100W retractable cable",

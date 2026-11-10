@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51hQkgwKClL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09Z6VPFWD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09Z6VPFWD?tag=rvgearlab-amz-20",
     "description": "The Camco EvoFlex2 50-ft is an expandable-style polyester fabric hose that stores in 70 percent less space than traditional PVC. A 5/8 inch inner diameter and CSA lead-free certification to NSF/ANSI 372 keep flow and water quality in check.\n\nIt gives 50 feet in the smallest pack and is the lowest priced fabric pick. It is lighter than the rubber hoses.\n\nIt suits owners who want long reach and tiny storage. The fabric build is flexible.",
     "specs": [
       "5/8 inch, 50 ft fabric hose",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51aRSH7ve8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CY4PR6Z1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CY4PR6Z1?tag=rvgearlab-amz-20",
     "description": "A storage bag ships with the Kohree 25FT, along with a 20 percent thicker wall and brass-plated aluminum fittings with strain relief ends. CA65 compliance is listed too.\n\nIt is the lowest priced of the bagged hoses. It also gives more fitting detail than the Nilight.\n\nThe roll-up bag keeps it tidy. Owners who want the whole hose stowed in one place get a clean answer.",
     "specs": [
       "5/8 inch, 25 ft",
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/417j3hoopfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08MVYY2ZZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08MVYY2ZZ?tag=rvgearlab-amz-20",
     "description": "The Kohree 25FT is a 5/8 inch hose with a sturdy, lightweight, flexible build that holds no memory. Threading it on is easy thanks to a large rubber grip and solid aluminum fittings.\n\nIt is priced slightly above the bagged Kohree and does not list a bag. It is easy to roll up.\n\nIt suits owners who want a lightweight hose and will bring their own bag. The large grip makes connections easy.",
     "specs": [
       "5/8 inch, 25 ft",
@@ -108,7 +108,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41eXnGBBSVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GFTLF1V6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GFTLF1V6?tag=rvgearlab-amz-20",
     "description": "Three layers, solid aluminum fittings and a storage bag come together in the Nilight 15FT. The usable temperature span is -4°F to 176°F.\n\nIt is the shortest of the bagged hoses and rolls up easily. It costs a bit more than the Kohree 25 with bag.\n\nShort hookups are its strength. The bag keeps it clean inside a small storage bin.",
     "specs": [
       "5/8 inch, 15 ft",
@@ -135,7 +135,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41dOMM2x2-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07W4RYRMV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07W4RYRMV?tag=rvgearlab-amz-20",
     "description": "Four feet of extra flexible 5/8 inch hose ends in stainless steel strain relief, which makes the Camco EvoFlex 4-Ft a tidy compact connector. It is CSA lead-free certified and has zero memory.\n\nIt is the lowest priced fresh water pick and the smallest in storage. It works as a jumper.\n\nIt suits owners who want a compact jumper between a spigot and a long hose. The strain relief protects the spigot.",
     "specs": [
       "5/8 inch, 4 ft",
@@ -162,7 +162,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51cJuZkHQzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F91SGJTB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F91SGJTB?tag=rvgearlab-amz-20",
     "description": "The IRSTBL is a 33 ft gray water drain hose with a 1.12 inch inner diameter and a flexible convoluted design. It is intended for compatible gray water outlets and is not a 3 inch sewer connection.\n\nIt is the highest priced pick and is for waste water. It adds long reach with compact storage.\n\nIt suits owners with a small-diameter gray water outlet. Measure the connection first.",
     "specs": [
       "1.12 inch ID, 33 ft",

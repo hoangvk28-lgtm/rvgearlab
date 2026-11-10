@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41sWiYRXbzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00KARB6SS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00KARB6SS?tag=rvgearlab-amz-20",
     "description": "Thetford Premium RV Rubber Roof Cleaner is a 64 oz non-toxic, non-abrasive detergent formulated for EPDM rubber roofs. The listing says its active components dissolve heavy grime and chalk and help prevent black streaking.\n\nAgainst Protect All, it is a larger bottle but needs rinsing. Against Thetford 32512, it has no conditioner or UV claim but is a bigger volume.\n\nBest for a roof that is visibly chalky. Rinse thoroughly and follow dilution.",
     "specs": [
       "64 oz EPDM roof cleaner",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/418xMuBQsvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B000NJAA9O?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B000NJAA9O?tag=rvgearlab-amz-20",
     "description": "Thetford 32512 Premium RV Rubber Roof Cleaner and Conditioner is a 32 oz non-petroleum formula that deep cleans and conditions the roof. The listing says petroleum-based formulas can cause swelling, cracking or degradation of rubber and that this one has a UV blocker.\n\nCompared with Thetford 64oz Roof, it adds conditioner and UV blocker in a smaller bottle. Compared with STAR BRITE, it is a cleaner-conditioner for rubber roofs only.\n\nBest for owners who want cleaning and conditioning in one step. Confirm the roof membrane first.",
     "specs": [
       "32 oz cleaner and conditioner",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41grCMvwGdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0002UHVSW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0002UHVSW?tag=rvgearlab-amz-20",
     "description": "Protect All RV Rubber Roof Cleaner is a 32 oz non-toxic, non-abrasive detergent for EPDM roofs that dissolves grime and chalk. The listing says no rinsing is necessary and you spray, mop and air dry, so it works where water use is restricted.\n\nAgainst Thetford 64oz Roof, it skips rinsing but is a smaller bottle at a much lower price. Against STAR BRITE, it names EPDM only.\n\nBest for storage lots and dry camps with limited water. Wipe off excess to avoid streaks.",
     "specs": [
       "32 oz EPDM roof detergent",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41sUb88EeFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01N6807LL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01N6807LL?tag=rvgearlab-amz-20",
     "description": "STAR BRITE Premium RV Rubber Roof Cleaner uses marine-grade technology to remove dirt and stains without corrosive acids and is designed not to dry out rubber or seals. The listing says it can be used on rubber roofs, fiberglass and painted surfaces when used as directed.\n\nAgainst Thetford 32512, it lists fiberglass and paint but no UV blocker. Against Protect All, it needs a rinse.\n\nBest for rigs with a rubber roof plus fiberglass or painted trim. Follow directions for each surface.",
     "specs": [
       "Rubber roof cleaner",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41+i0CO7DAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HFTJKSXN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HFTJKSXN?tag=rvgearlab-amz-20",
     "description": "MiracleMist RV Roof and Awning Cleaner is a 32 oz spray, sold as a 2-pack, for compatible RV roofs, awnings and exterior panels. The listing says it loosens dirt, grime, stains and road residue, and the surface list is described only as compatible.\n\nCompared with the Thetford cleaners, it names no roof material, so compatibility is unclear. Compared with Protect All, it covers awnings and panels as well.\n\nBest for owners who want one spray for the roof and awning. Confirm roof compatibility with the seller first.",
     "specs": [
       "Roof and awning spray",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Uyof9kdCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B000BRFS8Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B000BRFS8Q?tag=rvgearlab-amz-20",
     "description": "Dicor RP-CRP-Q is a 1 quart cleaner and activator that prepares an EPDM rubber roof for a full coating. The listing says it covers 125 square feet, dries quickly and saves more than 25 percent in labor.\n\nIt is a coating-system prep, not an everyday wash like the Thetford cleaners. Compared with Thetford 64oz Roof, it is meant to be coated over.\n\nBest only if you plan to apply a Dicor EPDM coating. For simple washing, use another pick.",
     "specs": [
       "1 quart EPDM prep",

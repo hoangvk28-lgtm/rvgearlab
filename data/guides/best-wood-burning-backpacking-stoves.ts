@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41aPJtKsHJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08NLVKHPP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08NLVKHPP?tag=rvgearlab-amz-20",
     "description": "The Kuvik packs down to a 0.2 inch slab of Grade-1 titanium. Opened up, it stands about 6.25 by 5 by 5 inches with a feed opening on one side.\n\nCompared with the stainless Ohuhu and REDCAMP, it packs far flatter and uses titanium for its low carry burden. It also costs the most here, which is the price of a slim, tool-free build.\n\nIt suits backpackers who count pack space and want a stove that assembles from interlocking tabs. A hot boil is its strength.",
     "specs": [
       "Grade-1 titanium",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41SJxd7lJJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0125U36Q2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0125U36Q2?tag=rvgearlab-amz-20",
     "description": "The Ohuhu is a stainless steel mini stove listed at 0.98 lb that assembles in seconds without tools. The listing describes a sizeable cooking surface that holds a wide range of pots and pans.\n\nAt 0.98 lb it weighs about half what the 1.9 lb REDCAMP does, and it costs less than the Kuvik. The listing also mentions solid fuel tablets as an alternative to wood.\n\nIt suits budget hikers who want a light stainless stove with room for a real pot. It boils water and cooks simple meals over a twig fire.",
     "specs": [
       "0.98 lb stainless steel",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41IgcFX64hL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09WYNYRSS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09WYNYRSS?tag=rvgearlab-amz-20",
     "description": "The Hovico is a folding wood-burning stove made of hardened stainless steel. It burns wood, twigs and leaves and assembles in a few minutes.\n\nIt is the lowest priced stove in this guide, below the Ohuhu and the REDCAMP, and it needs no purchased fuel. The listing gives fewer numbers than those two, so plan on checking pot fit at home.\n\nIt suits first-time wood stove users who want a cheap trial. The steel build holds up to repeated folding.",
     "specs": [
       "Hardened stainless steel",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51kUZkyzcnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07VHMZTJ1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07VHMZTJ1?tag=rvgearlab-amz-20",
     "description": "The REDCAMP is a stainless steel rocket-style stove with a stainless grid backing plate. The listing gives an unfolded size of 8.3 by 5.9 by 5.5 inches, a folded size of 8.3 by 5.9 by 1.5 inches and a net weight of 1.9 lb.\n\nIts cuboid shape and grid plate give a more stable pot platform than the thin Kuvik, and it comes with its own carry bag. It is also the heaviest pick here, about twice the Ohuhu.\n\nIt suits campers who want steady footing for a pot and will accept extra weight for it. It fits a car-to-camp trip as well as a short hike.",
     "specs": [
       "1.9 lb stainless steel",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41XWjLiu8WL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G23JWD4M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G23JWD4M?tag=rvgearlab-amz-20",
     "description": "The GVUHR is a folding twig stove whose listing describes cast iron construction for even heat. The listing sells it as a backpack stove that cooks meals, boils water and warms hands.\n\nCompared with the stainless picks, it leans on a heavier-metal material, so expect more mass than the Kuvik. The listing gives no weight or folded size, which sets it apart from the Ohuhu and REDCAMP.\n\nIt suits campers who like the idea of cast iron heat retention and carry the stove a short way. Plan to check dimensions before buying.",
     "specs": [
       "Cast iron construction",

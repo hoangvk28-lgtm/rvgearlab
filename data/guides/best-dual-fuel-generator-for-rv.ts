@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41G43h8vW5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DN69P3Z9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DN69P3Z9?tag=rvgearlab-amz-20",
     "description": "The BILT HARD runs a 141cc OHV air-cooled engine on gasoline at 4,500 peak and 3,500 rated watts, or on propane at 4,150 peak and 3,200 rated. It has a TT-30R, a 5-20R duplex, USB ports, a CO sensor and a 58 dBA rating at 23 feet.\n\nAt $469.99 it costs $70.99 more than the Westinghouse 4650 Dual and $210.00 less than the Westinghouse 4000 Dual, while its inverter output is under 3% THD. Pick this if you want the most watts per dollar in a quiet enclosure; the caveat is that the parallel kit is not included.",
     "specs": [
       "3,500 rated gas, 3,200 rated propane",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41WzM-FtzFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CQMZ9JVB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CQMZ9JVB?tag=rvgearlab-amz-20",
     "description": "The Westinghouse 4000 Dual is a gas and propane inverter rated 4,000 peak and 3,300 running watts at under 3% THD. It lists a TT-30R, two USB ports, 52 dBA at the low end, and up to 7 hours on a 1.69-gallon tank.\n\nAt $679.99 it costs $210.00 more than the BILT HARD 4500W for 200 fewer rated watts on gas, but it is quieter and carries a 3-year limited warranty. Pick this if low noise and a rotating LED display matter; the caveat is the short 7 hour tank and recoil start only.",
     "specs": [
       "4,000 peak, 3,300 rated watts",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51prSXmo6VL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B099KR6PTG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B099KR6PTG?tag=rvgearlab-amz-20",
     "description": "The Westinghouse 4650 Dual lists 4,650 peak and 3,600 rated watts on gasoline, 3,240 rated on propane, with a 4-gallon tank good for up to 14 hours. It has a TT-30R, an L5-30R and a 5-20R, all with rubber covers, and a 212cc engine with low oil and CO shutdown.\n\nAt $399 it is $70.99 below the BILT HARD 4500W and $280.99 below the Westinghouse 4000 Dual, and it has the biggest tank. Pick this if you want the lowest price with real runtime; the caveat is that it is not described as an inverter and lists no THD or noise figure.",
     "specs": [
       "3,600 gas, 3,240 propane rated",

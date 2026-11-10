@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41I1aG07jHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DS3Y9TBQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DS3Y9TBQ?tag=rvgearlab-amz-20",
     "description": "The ECO-WORTHY 12V 314Ah LiFePO4 stores 4,019Wh according to the title, roughly three times the energy of a 100Ah battery. It has a 200A BMS, SOC LED indicators on the case, Bluetooth monitoring through the ECO-WORTHY app and low temperature protection that automatically cuts off charging when the cells get too cold.\n\nAt $499.99 it works out to about $124 per kWh, cheaper per watt-hour than the Power Queen at $264.99 or the Dyness at $199.98, though the upfront cost is $235 more than Power Queen. Expansion up to 4P2S or 2P4S is listed, and the case is much bigger than the Group 24 and Group 27 batteries below.\n\nPick this if you want a single large battery to anchor a boondocking bank, or you run an inverter and need the 200A BMS ceiling. The honest caveat is that the listing text here gives no dimensions or weight, so measure your battery bay and lid clearance carefully before you order.",
     "specs": [
       "12V 314Ah, 4019Wh",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Oi4nZc5hL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F4WS1BGY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F4WS1BGY?tag=rvgearlab-amz-20",
     "description": "The Power Queen 12V 125Ah is built to the BCI Group 27 size, listed at 12.13 by 6.69 by 8.31 inches, and offers 25Ah more than a 100Ah battery in the same footprint. Bluetooth 5.0 monitoring starts by scanning a QR code on the top, and the self developed BMS lists more than 20 protections.\n\nIt costs $264.99, which is $65.01 more than the Dyness at $199.98 for 25Ah extra, and it works out slightly pricier per kWh at about $166 against $156. That means the premium buys the Group 27 fit and the extra capacity rather than any savings, and it sits below ECO-WORTHY on value.\n\nPick this if your battery tray is a Group 27 slot and you want extra Ah without changing the size. The caveat is that the cold charge cutoff temperature and BMS amp rating are not in the listing text, so ask before using it below freezing or with a big inverter.",
     "specs": [
       "12V 125Ah, Group 27",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41kYZSHeT-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FPL1QNFY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FPL1QNFY?tag=rvgearlab-amz-20",
     "description": "The Dyness 12V 100Ah RV battery lists a 100A BMS, A+ grade cells and Bluetooth 5.0 monitoring of voltage, current and capacity. Its low temperature protection is spelled out: it disconnects charging when the battery temperature falls below 32°F (0°C) and resumes after it warms, a threshold many listings never state.\n\nAt $199.98 it is $65.01 cheaper than the Power Queen and $8.99 above the HumsiENK at $190.99, which sits in the same 100A and 1,280Wh class. It can also expand to 4S4P, so 16 units form a 51.2V 400Ah system, which matters if you plan a higher voltage upgrade later.\n\nPick this if you winter camp and want to know exactly when charging stops. The caveat: the listing gives no case dimensions, weight or IP rating, so confirm the case size matches your tray, and note that a 100A BMS limits an inverter to roughly 1,200W.",
     "specs": [
       "12V 100Ah LiFePO4",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41FFSUjiszL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G2LY5XDX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G2LY5XDX?tag=rvgearlab-amz-20",
     "description": "The HumsiENK 12V 100Ah is a Group 24 battery rated 1,280Wh in the title, measuring 8.2 by 6.6 by 10.2 inches. It has a 100A smart BMS with app monitoring, an IP65 waterproof rating and a low temperature cutoff, with an operating range of minus 4°F to 158°F written in the listing.\n\nAt $190.99 it is the second cheapest pick, $48.00 more than BUKNUWO at $142.99 but $8.99 less than Dyness. The extra over BUKNUWO buys the IP65 rating and the written temperature range, while against Dyness you give up the written 32°F charge cutoff and the 4S4P expansion detail.\n\nPick this if the battery sits in a wet bay, a front tongue box or a boat style compartment. The caveat is that the listing leans on marine wording, so confirm the app and BMS settings suit an RV charger, and check that the 8.2 inch height fits under your lid.",
     "specs": [
       "12V 100Ah, 1280Wh",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41yLVdD9T3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GHJJN1K5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GHJJN1K5?tag=rvgearlab-amz-20",
     "description": "The BUKNUWO 12.8V 100Ah weighs 22 pounds, which the listing calls two thirds lighter than a comparable lead acid battery. It has Bluetooth 5.0 monitoring for iOS and Android, a 100A BMS, an ABS casing and support for series and parallel expansion, all for the lowest price in this comparison.\n\nAt $142.99 it is the cheapest pick and about $112 per kWh, $48.00 below HumsiENK and $56.99 below Dyness. The ABS case is described as dustproof and weather resistant but is not given an IP rating, which is the real concession against HumsiENK for a wet bay.\n\nPick this if you want the lowest cost and a light battery for a weekend trailer with simple loads. The caveat is that the listing does not state low temperature charging behavior, so a winter camper should look at Dyness or HumsiENK first, where the cutoff is written down.",
     "specs": [
       "12V 100Ah, 22 lb",

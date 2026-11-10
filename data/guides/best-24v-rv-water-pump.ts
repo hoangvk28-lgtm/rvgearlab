@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41IcBb9NVWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GJR88DJR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GJR88DJR?tag=rvgearlab-amz-20",
     "description": "LUCKDANO is a 24 volt DC diaphragm pump rated at 3.5 GPM and 45 PSI with an automatic pressure switch and a copper core motor. The listing says it has thermal overload protection and a 4-point threaded interface.\n\nAgainst SEAFLO 24V 21-Series, it has over three times the flow. Against Ewbxoez, it is a pressure-switch demand pump rather than a washdown kit.\n\nIt is the best match for 24 volt systems that need household-style fixture flow. Think of it as the pick for 24 volt fixture supply.",
     "specs": [
       "24V DC, 3.5 GPM, 45 PSI",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31hieIArXHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01GYJX32M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01GYJX32M?tag=rvgearlab-amz-20",
     "description": "SEAFLO 24V 21-Series is a 24 volt DC diaphragm pump with 1.1 GPM flow and a built-in 70 PSI pressure switch. The listing says it self-primes, can run dry and uses 3/8 inch hose barb ports for small boats, campers and vans.\n\nAgainst LUCKDANO 24V, it has far less flow and costs less. Against Ewbxoez, it is an on-demand supply pump.\n\nIt suits vans and small campers with one or two fixtures. Buyers focused on small 24v rigs will find it a sensible match.",
     "specs": [
       "24V DC, 1.1 GPM, 70 PSI",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/315x2XLVc7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HK43R4L6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HK43R4L6?tag=rvgearlab-amz-20",
     "description": "Ewbxoez is a 24 volt washdown pump kit with a self-priming diaphragm pump, a spiral hose and a spray gun with jet and spray modes. The listing gives a working pressure of up to 70 PSI and flow up to 3.06 GPM, and one feature line describes the motor as 12 volt.\n\nAgainst LUCKDANO 24V, it is a cleaning pump and not a demand supply for fixtures. Against SEAFLO 24V 21-Series, it adds a hose and a gun.\n\nIt is included because it appears in this search, and it suits washing boats, rigs and gear. It earns its slot for washing and cleaning.",
     "specs": [
       "24V washdown pump kit",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/314SraSf3yL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00QB13KPO?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00QB13KPO?tag=rvgearlab-amz-20",
     "description": "PENTAIR SHURFLO SLV10-AA40 is a 12 volt DC low-volume demand diaphragm pump that turns on at 25 PSI and off at 40 PSI. The listing says it self-primes to 2.5 vertical feet, has a ball bearing motor and a splash-proof housing, and has no metals in the fluid path.\n\nAgainst LUCKDANO 24V, it is a 12 volt pump with a lower shut-off pressure. Against SEAFLO 22-Series, it stops at 40 PSI.\n\nIt is included because it appears in this search, and it suits 12 volt low-flow uses. It is a natural fit for 12v low-flow uses.",
     "specs": [
       "12V DC, 25 on / 40 off PSI",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411r1wA2ikL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0166UBJX4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0166UBJX4?tag=rvgearlab-amz-20",
     "description": "SEAFLO 22-Series is a 12 volt diaphragm pump with 1.3 GPM open flow and a 100 PSI shut-off, with 6 foot priming. The listing says it includes 3/8 inch hose barbs, a pressure switch and quick-connect wiring.\n\nAgainst SEAFLO 24V 21-Series, it is 12 volt with a higher shut-off pressure. Against SHURFLO SLV10, it has more flow.\n\nIt is included because it appears in this search, and it suits 12 volt systems that need high pressure in a small plumbing run. Think of it as the pick for high-pressure small runs.",
     "specs": [
       "12V, 1.3 GPM, 100 PSI",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41LijfgAljL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FR8RMTW8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FR8RMTW8?tag=rvgearlab-amz-20",
     "description": "WASSERMANN Pressure Switch Kit is a replacement diaphragm pressure switch for most pumps, rated for 12, 24, 110 and 115 volts and adjustable from 40 to 80 PSI. The listing says you reconnect two wires and turn a central screw to set pressure.\n\nAgainst the pumps, it is a repair part and not a pump. Against LUCKDANO 24V, it fixes a failed switch on an existing unit.\n\nIt suits owners with a pump that cycles or fails to shut off. Buyers focused on failed switch repairs will find it a sensible match.",
     "specs": [
       "Pressure switch kit",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/319sFnqrvkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B082P5VGGT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B082P5VGGT?tag=rvgearlab-amz-20",
     "description": "Kelty gives the Cosmic Synthetic 40 a printed total weight of 2 lb 6 oz and a 24 oz fill of Cirroloft synthetic insulation. It stuffs to 15 by 8 inches uncompressed and includes a compression sack with straps, a spacious footbox and a stash pocket.\n\nIt is the only mummy here, and it is rated to 40F, which beats the ECOOPRO's 55 to 60F range and the MalloMe's 50F floor. Against both envelopes it holds heat better and weighs more than the ECOOPRO.\n\nIt suits hikers who want a real mummy cut with printed numbers. Add a liner for cooler mornings.",
     "specs": [
       "2 lb 6 oz, 24 oz fill",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41fu3se401L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B011AZ3O9W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B011AZ3O9W?tag=rvgearlab-amz-20",
     "description": "The ECOOPRO envelope measures 83 by 30 inches and weighs 1.7 lb, compressing to 11 inches in height. It uses a waterproof nylon shell and a polyester lining, and the maker states a 55 to 60F range.\n\nIt sets the lowest weight in the group, around 0.7 lb under the Kelty. An envelope shape opens flat and zips easily, and it leaks more heat on cool nights than the Kelty mummy.\n\nIt suits summer hikers and scouts after the lightest synthetic on the list. The carrying sack comes included.",
     "specs": [
       "83 by 30 in, 1.7 lb",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51qQDjjjrwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B077XNG72Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B077XNG72Y?tag=rvgearlab-amz-20",
     "description": "The MalloMe is rated for 50 to 77F, weighs about 3 lb and suits a 6 ft adult. Its waterproof shell wipes clean, the whole bag is machine washable and the zippers are double-sided and snag-free.\n\nIt is the heaviest of the three and the warmest-weather one, yet it is the simplest to keep clean after a muddy weekend. The same listing works for teens and adults.\n\nIt suits casual hikers and families who value easy care over weight. It costs a little more than the ECOOPRO and well under the Kelty.",
     "specs": [
       "50 to 77F rated",

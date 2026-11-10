@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51poV+pwHBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08NDWW4DH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08NDWW4DH?tag=rvgearlab-amz-20",
     "description": "ICEPURE is an under-sink filter rated for 3 years or 22,000 gallons on municipal water, tested to NSF/ANSI 42 and certified to NSF/ANSI 372 for lead-free materials. It installs on a cold line in about 3 minutes and fits 1/2 or 3/8 inch connections.\n\nAt about $50 it carries one of the longest lifespans in this range, and the replacement cost per gallon is low. The Waterdrop 10UA lasts a year and costs about $6 less, while this one lasts three times longer.\n\nCabin owners, van builders and tiny-home residents who want a long-life filter without maintenance will like it. It also suits a camper's home base.",
     "specs": [
       "3 years or 22,000 gallons",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4144zYdmYTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09GLH58F2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09GLH58F2?tag=rvgearlab-amz-20",
     "description": "FS-TFC is a hose-end RV filter system with a composite activated carbon block at 0.2 micron accuracy, a transparent housing and a twist-in cartridge. The maker cites NSF/ANSI 58 certification and says it lasts three to five times longer than regular hose filters.\n\nNear $36, the FS-TFC is the lowest priced here and the only hose-end unit, so it travels with your RV. The under-sink systems filter a home or cabin tap, and this one filters the fill hose.\n\nRVers who fill their tank from campground spigots and want a sturdier filter will like it. The clear housing shows when it is dirty.",
     "specs": [
       "0.2 micron carbon block",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ei5RLPynL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B083NPW1DN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B083NPW1DN?tag=rvgearlab-amz-20",
     "description": "The Waterdrop 10UA is an under-sink filter certified to NSF/ANSI 42, with a twist-and-lock install that takes about three minutes and push-to-connect fittings. The filter has a 20 times larger dirt-holding area and lasts about a year.\n\nAt about $44 it costs less than the ICEPURE and the PUREPLUS, and the replacement filter is under $26. The shorter lifespan is the trade for the lower price.\n\nRenters and van dwellers who want the lowest cost under-sink filter will like it. It uses only cold water.",
     "specs": [
       "NSF/ANSI 42, 1 year",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410j8qTKJpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DLGPZN8Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DLGPZN8Y?tag=rvgearlab-amz-20",
     "description": "The Waterdrop UL12A is a freestanding no-drill under-sink filter that reduces PFAS, PFOA and PFOS, lead, chlorine and heavy metals, and it is IAPMO certified. It includes a 3/8 inch line, a twist-and-lock setup and a time reminder.\n\nIt costs about $50, $6 more than the 10UA, and adds PFAS reduction, a reminder and a freestanding design. The ICEPURE lasts longer, while this one is easier to place.\n\nRenters, vans and campers who cannot drill into a cabinet will like it. The reminder helps avoid late changes.",
     "specs": [
       "IAPMO certified, reduces PFAS",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Il86xGL1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08ZSNVF1W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08ZSNVF1W?tag=rvgearlab-amz-20",
     "description": "PUREPLUS carries a 22,000 gallon, 5-year capacity certified by IAPMO, NSF/ANSI 42 certification and NSF/ANSI 372 lead-free materials. It uses a 6-in-1 composite filter and a quick-connect design for cold water only.\n\nAt about $59 this is the top price in the guide, and the maker claims 99.99 percent chlorine reduction. The ICEPURE costs $9 less with a 3-year rating.\n\nHouseholds and cabins with high water use will like the long rated life. It also suits a tiny home with a family.",
     "specs": [
       "22,000 gallons, 5 years",

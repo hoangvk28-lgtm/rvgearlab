@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51fZziu+6jL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HHJ536GG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HHJ536GG?tag=rvgearlab-amz-20",
     "description": "The MRSXWPY 9 inch offline GPS is preloaded with 2026 North America maps with 2D and 3D display. It lists free lifetime map updates by Windows PC or TF card and custom routes by vehicle weight and length.\n\nIt has the largest screen of the group. It lists over 40 voice languages and US-based support.\n\nIt suits owners who want a large offline screen. Customized routing covers motorhome and RV profiles.",
     "specs": [
       "9 inch offline GPS",
@@ -53,7 +53,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41VEQDuS39L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GK7B8M86?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GK7B8M86?tag=rvgearlab-amz-20",
     "description": "The URFRU 9-inch navigator communicates directly with GPS satellites and needs no mobile network. It is preloaded with North American offline maps and lists free updates.\n\nIt is priced just below the MRSXWPY and lists multiple route modes including trucks and buses. It lists speed camera alerts and lane guidance.\n\nIt suits owners who travel in no-signal areas. Free map updates are listed.",
     "specs": [
       "9 inch navigator",
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51K19e400lL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07W84QD37?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07W84QD37?tag=rvgearlab-amz-20",
     "description": "The OHREX N700 is a 7 inch GPS that works completely offline without cell service and is preloaded with 2026 North America maps. It lists customized routes by vehicle weight and length.\n\nIt is priced below the 9 inch picks and lists driver alerts that work offline. Updates arrive by Windows PC or TF card.\n\nIt suits owners who want an offline unit in a smaller size. The alerts include speed cameras.",
     "specs": [
       "7 inch offline GPS",
@@ -107,7 +107,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41LV-wf8+nL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H3P3J479?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H3P3J479?tag=rvgearlab-amz-20",
     "description": "The MRSXWPY 7 inch lists an 800 by 480 pixel screen, 8 GB memory and 256 MB RAM. It lists offline navigation using the built-in GPS chip and free map updates.\n\nIt is priced above the OHREX and below the 9 inch picks. It lists voice steering and speed limit reminders.\n\nIt suits owners who want a basic offline navigator. The voice steering keeps eyes on the road.",
     "specs": [
       "7 inch, 800 x 480",
@@ -134,7 +134,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410i0ZyKBeL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F9NQWLWF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F9NQWLWF?tag=rvgearlab-amz-20",
     "description": "The URFRU 7-inch navigator lists a hood, direct GPS satellite connection and no network requirement. It is preloaded with North American offline maps.\n\nIt is the lowest priced navigator here and lists the same route modes as its 9 inch sibling. The hood helps in sun.\n\nIt suits owners who want the cheapest offline unit with sun shading. It shares the 9 inch model's route modes.",
     "specs": [
       "7 inch navigator",
@@ -161,7 +161,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51bu-cUXMxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FWCQ9BK1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FWCQ9BK1?tag=rvgearlab-amz-20",
     "description": "The UBITracer is a cabin temperature monitor with GPS tracking and motion alerts. It uses cellular communication and lists custom high and low temperature thresholds.\n\nIt is not a navigator, which sets it apart from the other picks. It adds location history and tilt detection.\n\nIt suits owners who want to monitor the rig while parked. It sits alongside a navigator as a companion.",
     "specs": [
       "Temperature monitor",

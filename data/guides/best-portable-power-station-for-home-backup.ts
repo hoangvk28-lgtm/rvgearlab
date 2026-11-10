@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31nIt8F0o1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FFSLG3WZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FFSLG3WZ?tag=rvgearlab-amz-20",
     "description": "The Jackery HomePower 3000 is our top home backup pick for its balance of capacity, output, and size. It stores 3072Wh, delivers 3600W continuous with a 7200W surge, includes a UL-certified UPS that switches within 20ms, and recharges in 1.7 hours using AC and DC together. The LiFePO4 pack is rated for 4,000 cycles, and a TT-30 port covers RV use.\n\nCompared with the EcoFlow DELTA Pro ranked next, it matches 3600W output with slightly less capacity but is much lighter and smaller, and costs about $550 less. Against the PECRON E3600LFP, it is more compact and has a stronger documented UPS, while PECRON offers bigger expansion for less money.\n\nThis suits households wanting a fridge, lights, WiFi, and fans through an overnight outage. The caveat is limited expandability compared with modular systems.",
     "specs": [
       "3072Wh, 3600W / 7200W surge",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41pVhqDjojL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C1Z4GLKS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C1Z4GLKS?tag=rvgearlab-amz-20",
     "description": "The EcoFlow DELTA Pro is the expandable heavyweight. It stores 3600Wh of LFP capacity, outputs 3600W (up to 4500W with X-Boost), and can pair with a second unit for 7200W. It recharges in 1.8 hours from a 240V outlet, 2.7 hours from 1800W wall power, or 2.8 hours with four 400W panels, and charges from EV stations too.\n\nIt ranks behind Jackery mainly on price and weight. Its advantage is growth: add extra batteries or a smart generator to build a larger system, which the Jackery cannot match. Against the EcoFlow DELTA 3 Max Plus, it has more base capacity and output but older UPS behavior.\n\nThis suits homeowners planning a larger backup system over time. The caveat is a cost near $1,900 and a heavy unit to move.",
     "specs": [
       "3600Wh, 3600W / 4500W X-Boost",
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31yJK0Fb-xL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FQV9Q9J2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FQV9Q9J2?tag=rvgearlab-amz-20",
     "description": "The DELTA 3 Max Plus is the pick for sensitive electronics. It switches to battery in under 10ms, outputs 3000W with up to 3800W in X-Boost, uses a LiFePO4 battery rated for a decade of daily use, reaches 80 percent in 43 minutes, and expands from 2kWh to 10kWh with extra batteries.\n\nIt has less base capacity than the Jackery and DELTA Pro above but switches twice as fast, which matters for desktop PCs and medical equipment. Compared with the DJI Power 2000 at similar capacity, it offers more output and app scheduling for time-of-use savings.\n\nPick it if you work from home and cannot afford a reboot during an outage. The caveat is 2048Wh base capacity, which runs a fridge for a shorter time without expansion.",
     "specs": [
       "2048Wh, 3000W / 3800W X-Boost",
@@ -108,7 +108,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41b1QdWQKaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D83QYRDS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D83QYRDS?tag=rvgearlab-amz-20",
     "description": "PECRON's E3600LFP delivers 3072Wh and 3600W for under $1,000. It has 16 outputs including four AC outlets and a TT-30R, charges in 1.3 hours at 3200W AC or 1.5 hours with eight 300W panels, and expands to 18.43kWh with four EP3800 batteries. It ships with both 15A and 30A AC cables and solar cables.\n\nIt matches the Jackery on capacity and output for about $350 less and expands much further. It ranks fourth because UPS behavior is not documented in this listing, so it is better for planned backup than for seamless switching. Against the Anker S2000, it doubles output.\n\nThis suits budget-minded homeowners wanting maximum watt-hours. The caveat is undocumented UPS switch time.",
     "specs": [
       "3072Wh, 3600W",
@@ -136,7 +136,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31xyTUiOmSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FBRD1B8C?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FBRD1B8C?tag=rvgearlab-amz-20",
     "description": "The DJI Power 2000 is the quiet option for bedrooms and living rooms. It runs as low as 30 dB, switches to UPS in 10ms, reaches 80 percent in 55 minutes, has 15 ports including dual SDC ports, and expands up to 22.5kWh with extra batteries. A five-year warranty backs it.\n\nAgainst the DELTA 3 Max Plus at similar capacity, it matches the 10ms switch and is quieter, but DJI notes MPPT and car charging modules are not built in, so solar needs extra hardware. That makes it more of a wall-charged home unit than a solar generator.\n\nPick it if the station lives in a bedroom near a CPAP. The caveat is the extra cost of solar charging modules.",
     "specs": [
       "2048Wh LFP",
@@ -163,7 +163,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41oUWN32k+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GY4TQ2P8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GY4TQ2P8?tag=rvgearlab-amz-20",
     "description": "Anker's SOLIX S2000 focuses on efficiency and lifespan. Its 314Ah LFP cells are rated for 10,000 cycles and a 15-year life, it draws just 6W at idle and claims up to 35 hours of fridge backup, it weighs 35.7 pounds, and it switches within 10ms.\n\nIts 1500W output is the lowest among the 2kWh picks, so it will not run a microwave alongside a fridge. It wins on cycle life and low idle drain, which stretch runtime during long outages. Unlike most picks here, it has no 12V DC port.\n\nThis suits owners who want years of reliable fridge and router backup. The caveat is limited output for big appliances.",
     "specs": [
       "2010Wh, 1500W / 3000W peak",
@@ -191,7 +191,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Bklv+8yZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C1SMJTDT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C1SMJTDT?tag=rvgearlab-amz-20",
     "description": "The BLUETTI AC180 is the budget entry for short outages. It stores 1152Wh, outputs 1800W with a 2700W boost via the app, charges fully in about one hour at 1440W, accepts 500W solar input, and provides UPS backup within 20ms. A five-year warranty is included.\n\nWith about half the capacity of the 2kWh picks, it handles a fridge for several hours or a router and lights overnight rather than a full day. It costs about $230 less than the Anker S2000.\n\nPick it for short outages and apartment backup. The caveat is limited runtime for whole-day outages.",
     "specs": [
       "1152Wh, 1800W / 2700W boost",

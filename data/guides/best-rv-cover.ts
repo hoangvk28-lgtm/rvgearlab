@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41-3c3+bxkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GYW68D6G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GYW68D6G?tag=rvgearlab-amz-20",
     "description": "The VINPATIO Class A fits 34 to 37 foot Class A motorhomes and uses a 7-layer top of non-woven fabric. A 100% waterproof PU coating rated 2000mm and an extra UV-resistant coating protect against rain and sun.\n\nWindproof straps and a complete accessory kit come with it. Compared with the KING BIRD Class A, it fits a longer 34 to 37 foot range. It suits owners of large Class A motorhomes who need a long cover with a thick top.",
     "specs": [
       "Fits 34 to 37 ft Class A",
@@ -53,7 +53,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31XuF1MHXzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F8HXKLJK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F8HXKLJK?tag=rvgearlab-amz-20",
     "description": "The KING BIRD Class A fits 30 to 33 foot Class A motorhomes. The double-stitched top, edges and corners have 400 lb tear strength, and relocated side tension panels with 2 extra straps add wind resistance.\n\nIts lighter fabric cuts weight by 20% and volume by 25% for easier setup and storage. That separates it from the heavier VINPATIO. It suits Class A owners with 30 to 33 foot rigs who want easier setup.",
     "specs": [
       "Fits 30 to 33 ft Class A",
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41MHGsT6NzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F993QRR4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F993QRR4?tag=rvgearlab-amz-20",
     "description": "The Fonzier Class C fits 29 to 32 foot Class C RVs. It uses a 9-ply top and 3-ply side fabric, with 4 redesigned straps and buckles sewn at the bottom and 4 air vents.\n\nTwo toss sticks help tie the bottom straps. The 9-ply top is thicker than the VINPATIO's 7 layers. It suits Class C owners who want a thick top and an easy install.",
     "specs": [
       "Fits 29 to 32 ft Class C",
@@ -109,7 +109,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41gOZchxR0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G13MV11L?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G13MV11L?tag=rvgearlab-amz-20",
     "description": "The CAMMOO 30-33ft is a travel trailer cover with a 9-layer thickened fabric, three windproof top straps and four bottom straps. It adds 3 zippered roll-up access panels, tire covers, gutter covers, a ladder cover and a repair patch.\n\nAccess panels let you inspect without removing the cover, which the motorhome covers lack. A large vent supports mold prevention. It suits owners of 30 to 33 foot trailers who open the cover often.",
     "specs": [
       "Fits 30 to 33 ft trailer",
@@ -137,7 +137,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41HPhgBraUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D1VH5SHF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D1VH5SHF?tag=rvgearlab-amz-20",
     "description": "The RVMasking 26-28ft is a 9-layer heavy-duty waterproof trailer cover with 4% anti-UV composite. It has two over-roof straps, an extra-long horizontal strap, reinforced corners, four tire covers and a propane tank cover.\n\nIt costs less than the longer-range covers while keeping the full accessory kit. The strap layout is the same as the larger RVMasking models. It suits owners of 26 to 28 foot trailers who want a full kit at a lower price.",
     "specs": [
       "Fits 26 to 28 ft trailer",

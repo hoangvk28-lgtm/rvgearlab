@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/416rUgG0n2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GQB34KDQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GQB34KDQ?tag=rvgearlab-amz-20",
     "description": "Output reaches 22.5W over USB-C on this model, with four cables stored inside the body. A second port pair, two flashlights with SOS and strobe, and IP65 protection come with it.\n\nIt has the most complete spec list of the four and the only built-in cable set. Against the Nuynix it skips the IP67 rating and brings more cables.\n\nIt suits a car camper who wants fast charging with no cable bag. Solar and wall recharge routes are both named.",
     "specs": [
       "38800mAh, 22.5W USB-C",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41VVcoL6ATL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GX3BCNF2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GX3BCNF2?tag=rvgearlab-amz-20",
     "description": "The Nuynix lists 22.5W fast charging with a built-in cable, three ports (two USB outputs and a Type-C in/out) and two LED flashlights with steady, SOS and strobe modes. It carries an IP67 rating that is waterproof, drop-proof and dustproof.\n\nIt is the only 38800mAh pick with IP67, a notch above the IP65 of the YELOMIN and TRASHBINEAN. It costs far less than the YELOMIN 22.5W.\n\nIt suits a camper who expects rain or splashes and wants a low-cost bank. A smart protection chip monitors charging.",
     "specs": [
       "38800mAh, 22.5W",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41cvMwG24uL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HCNQ19HH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HCNQ19HH?tag=rvgearlab-amz-20",
     "description": "The TRASHBINEAN lists 5V/2.4A fast charging, an IP65 case in ABS and PC that is heat-resistant, shockproof and dustproof, and a flashlight with steady, SOS and strobe modes. Smart protection covers overcharge, over-current and over-voltage.\n\nIt is a step up from the YELOMIN basic in rating and a step below the YELOMIN 22.5W in wattage. The listing notes solar speed depends on light intensity.\n\nIt suits a camper who wants an IP65 bank and a flashlight without paying for built-in cables. Protection circuits guard against overcharge and overload.",
     "specs": [
       "38800mAh, 5V/2.4A",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41+8AsqJISL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GQTBYRMG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GQTBYRMG?tag=rvgearlab-amz-20",
     "description": "This basic YELOMIN lists 38800mAh with three output ports, two LED flashlights with SOS and strobe, and recharge by solar or wall. Paperwork names FCC, CE and RoHS marks, and the box holds a micro USB lead and a carabiner.\n\nIt sits among the lowest priced of the four and holds the same cell. It skips the IP rating and fast charging of the others.\n\nIt suits a camper who needs a big bank for a tent and wants a certified low-cost option. The carabiner clips it to a pack or tent loop.",
     "specs": [
       "38800mAh, 3 outputs",

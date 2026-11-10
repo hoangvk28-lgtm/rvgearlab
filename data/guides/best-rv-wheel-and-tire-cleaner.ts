@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31QWJrpjrjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08X1JR119?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08X1JR119?tag=rvgearlab-amz-20",
     "description": "The Meguiar's Non Acid Wheel and Tire Cleaner is a 32 oz formula sold in a 6 bottle case. It removes brake dust, road grime, light grease and dirt and lists use on factory clear coated, painted and chrome wheels.\n\nUnlike the foaming picks, it is a non-acid liquid built around finish safety. It also lists safe use on tires.\n\nIt suits owners with factory finishes who want a pick without acid. The case size is good for shops and frequent washers.",
     "specs": [
       "32 oz non-acid cleaner",
@@ -53,7 +53,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41DmycsR+yL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09F18LFYN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09F18LFYN?tag=rvgearlab-amz-20",
     "description": "The Turtle Wax HyperFoam is a 23 oz foaming cleaner that dissolves brake dust and iron deposits and lifts tire browning. It is described as pH balanced for coated, painted, polished, chrome or aluminum alloy wheels.\n\nIt leaves a corrosion-repellent polymer film that makes the next cleaning faster, which Mothers and Black Magic do not list. Foam dwell time is 30 to 60 seconds.\n\nIt is the pick for faded tires and wheels. The foam stays on vertical surfaces.",
     "specs": [
       "23 oz HyperFoam",
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41R92YtXWkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0007RDVH0?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0007RDVH0?tag=rvgearlab-amz-20",
     "description": "The Mothers Foaming Wheel and Tire Cleaner is 24 oz and safe for clearcoated, painted, chrome and PVD wheels and original hubcaps. It cleans wheels, blackwalls and whitewalls in one step.\n\nIt rinses clean without residue or water spots, which cuts hand drying. Against the Black Magic, it is a more established wheel line.\n\nIt suits owners who want a no-scrub, spot-free routine. It also lists whitewalls.",
     "specs": [
       "24 oz foaming cleaner",
@@ -108,7 +108,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41p1WkV7awL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DL6GM6FZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DL6GM6FZ?tag=rvgearlab-amz-20",
     "description": "The Black Magic Intense Foam is a high-foaming cleaner that turns from white to brown as it dissolves contaminants. It is listed safe on all wheel types, tires and wheel wells.\n\nThe color change shows when the product is working, which none of the others offer. It also costs less than Mothers and Meguiar's.\n\nIt works for owners who like visual confirmation. A cherry scent makes washing more pleasant.",
     "specs": [
       "High-foam deep cleaner",
@@ -135,7 +135,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41clXKQsQ5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0009PCPHW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0009PCPHW?tag=rvgearlab-amz-20",
     "description": "The Armor All Extreme Wheel and Tire Cleaner is a 24 oz spray for alloy, steel, chrome and plastic wheel covers and hubcaps. It removes dirt, grease, tar and brake dust.\n\nIt is the lowest priced pick here, and it lists more wheel types than the Black Magic. It penetrates hard-to-reach areas.\n\nIt suits budget washers with mixed wheel types. Use it on a cool wheel.",
     "specs": [
       "24 oz spray",
@@ -162,7 +162,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Ri38qssVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08YP8XTR4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08YP8XTR4?tag=rvgearlab-amz-20",
     "description": "The Dicor Powerful RV Awning Cleaner is a 1 gallon cleaner for stains from leaves, bird droppings and tree sap. It is listed for fabric, vinyl and acrylic awnings.\n\nIt is a different job than wheel cleaning, but it fits the same washing routine. The gallon size beats the other bottles on volume.\n\nIt is for owners who want a wash-day add-on for the awning. It is not meant for wheels.",
     "specs": [
       "1 gallon awning cleaner",

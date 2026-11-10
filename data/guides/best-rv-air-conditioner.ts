@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/316nmm3cvtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BGYXRMFM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BGYXRMFM?tag=rvgearlab-amz-20",
     "description": "The Dometic FreshJet 3 Series is a 15,000 BTU rooftop unit described as lighter than before and backwards compatible with an existing ADB, which makes it a drop-in upgrade for non-ducted units. Its evaporator coils are e-coated for corrosion resistance.\n\nAgainst the 18,000 BTU units below it, the FreshJet offers less rated capacity but comes from an established RV supplier with a clear replacement path. It costs more than the Arsenda and Treeligo, and it does not list a heat pump.\n\nBest for owners replacing a worn rooftop unit on shore power who want a familiar fit. Check the roof opening and your electrical service before ordering.",
     "specs": [
       "15K BTU rooftop unit",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31vpWrlkFIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H7177LTS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H7177LTS?tag=rvgearlab-amz-20",
     "description": "The Treeligo is an 18,000 BTU non-ducted rooftop unit for 115V power, advertised with heating and a 50 dB sound level. The listing says it works in a wide outdoor temperature range, though you should read the exact limits.\n\nCompared with the Dometic FreshJet, it adds heating and more rated BTU but at a lower price. Compared with the LAOFINA and Arsenda, it lists no separate 12V requirement on its listing, so verify wiring needs.\n\nBest for travel trailer owners who want one unit for summer and shoulder seasons. Confirm the 12V requirement and roof fit first.",
     "specs": [
       "18,000 BTU with heat",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41VcQhyu6-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H6WQ4RMR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H6WQ4RMR?tag=rvgearlab-amz-20",
     "description": "The Arsenda is an 18,000 BTU heat-pump rooftop unit using R32 refrigerant and 110 to 120V power. Its listing notes it needs both 115V AC and 12V DC connections to operate.\n\nAgainst the LAOFINA, the specs read almost the same, but the Arsenda lists R32 and costs less. Against the Treeligo, it states the 12V requirement openly.\n\nBest for buyers who want a heat pump and are comfortable with a dual 115V and 12V hookup. Skip it if you want a single-wire swap.",
     "specs": [
       "18,000 BTU heat pump",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410JkA+0CyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H6VWJPXX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H6VWJPXX?tag=rvgearlab-amz-20",
     "description": "The LAOFINA is an 18,000 BTU heat-pump rooftop unit running on 110 to 120V and rated at 50 dB. Its listing states it needs both 115V AC and 12V DC power.\n\nVersus the Arsenda, it matches the size and power type but costs more and does not highlight R32. Versus the Dometic FreshJet, it adds heating and more BTU but loses the established-brand fit.\n\nBest for buyers who place quiet operation first. Verify the roof opening and mounting hardware, since a non-ducted unit still must match your cutout.",
     "specs": [
       "18,000 BTU heat pump",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41sgRlbxr-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GTSMRT42?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GTSMRT42?tag=rvgearlab-amz-20",
     "description": "The ICECOSMOS is a 12V DC low-profile air conditioner rated at 10,000 BTU with PTC heating. It is listed at 39 dB in Eco Mode and an ultra-slim 5.5 inch body.\n\nVersus the Sunster, it is a single rooftop-style unit rather than a split system, so it fits a roof cutout more directly. Against the 120V units, it trades cooling capacity for battery-powered operation.\n\nBest for boondockers with a large battery bank and a smaller rig. Check the amp draw and battery capacity before you rely on it, because a 12V AC pulls heavily from your batteries.",
     "specs": [
       "12V DC, 10,000 BTU",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41jAmyBxhAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FDG8XSK2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FDG8XSK2?tag=rvgearlab-amz-20",
     "description": "The Sunster is a 12V split-system air conditioner rated at 12,000 BTU with a variable-frequency compressor and low-voltage protection. Its ABS interior and steel exterior housing are meant for tough environments.\n\nVersus the ICECOSMOS, it uses a variable-frequency compressor and four operating modes but needs a split install with separate indoor and outdoor parts. It is not a drop-in roof unit like the Dometic FreshJet.\n\nBest for van, truck or small RV conversions where a rooftop cutout is not available. Plan for the extra install work and refrigerant lines.",
     "specs": [
       "12V split, 12,000 BTU",

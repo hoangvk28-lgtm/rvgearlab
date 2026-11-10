@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31yj8g2S8xL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B097MKVZ3G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B097MKVZ3G?tag=rvgearlab-amz-20",
     "description": "The SUNCREAT Stand set pairs a quilted two-layer polyester bed with a 12 ft powder-coated steel stand. The bed measures 78.7 by 55.1 inches, the weight rating is 475 lb, and a 55 inch hardwood spreader bar keeps the sides open.\n\nAgainst the Amazon Basics Stand, it gives a longer stand and a padded bed instead of a thin woven one, which makes it the better pick for lounging for long stretches. Compared with the Everyfun Stand, it trades some rated capacity for the quilted comfort and a built-in pillow.\n\nIt is the right choice for a couple or a solo napper with a lawn or deck that has room for a 12 ft footprint. The stand removes any need for trees.",
     "specs": [
       "475 lb, 12 ft steel stand",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zzMAZ5o8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08YQ9YKK3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08YQ9YKK3?tag=rvgearlab-amz-20",
     "description": "The Amazon Basics Stand is a double hammock on a 9 foot steel stand with a carrying case, rated for 450 lb. The product measures 110 by 47 by 43 inches and weighs 29.3 pounds, with a cotton and polyester bed.\n\nWhere the SUNCREAT Stand uses a 12 ft frame, this one shortens to 9 ft, so it fits patios and decks the longer set cannot. It also adds hooks that move to a lower hole to tighten rope tension, a feature the Everyfun Stand does not list.\n\nIt suits renters and small-yard owners who need a compact set and a brand name behind it. The stand folds into the carry case for storage.",
     "specs": [
       "9 ft steel stand",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41+cKuSOqZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7VSHSN5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7VSHSN5?tag=rvgearlab-amz-20",
     "description": "The Everyfun Stand is rated for 600 lb on a wide-base powder-coated steel frame. Its woven cotton bed measures 78 by 59 inches, balanced spreader bars keep the surface flat, and the set assembles in about 10 minutes without tools.\n\nCompared with the SUNCREAT Stand, it lifts the rated capacity by 125 lb and widens the bed slightly, with a plain woven bed in place of quilted padding. Against the Amazon Basics Stand, the bed is wider and the capacity is 150 lb higher.\n\nIt suits two adults who want a roomy, tipping-resistant hammock and who care about a bigger safety margin. The bed detaches and stores in the included bag.",
     "specs": [
       "600 lb steel stand",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51cHsp9dlmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08Q3FYY6G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08Q3FYY6G?tag=rvgearlab-amz-20",
     "description": "The SUNCREAT Curved Bar is a double hammock with a 30.7 inch marine-varnished spreader bar and 20 hand-woven ropes. The bed is 78.7 by 63 inches and the loop-to-loop length is 11.2 ft, with countersunk bar holes that reduce rope friction.\n\nUnlike the SUNCREAT Stand, it has no frame, so it hangs from trees or posts and costs far less space to store. It has a wider bed than most here at 63 inches, and a bar that knocks down for the included drawstring bag.\n\nIt is aimed at yards with two sturdy trees about the right distance apart. A spreader bar gives a flatter lie than a bar-free hammock.",
     "specs": [
       "30.7 inch varnished spreader bar",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41uD11uebcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09Y1BZQKH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09Y1BZQKH?tag=rvgearlab-amz-20",
     "description": "The Bellzacasa Canvas is a heavy duty double hammock with a 500 lb rating, made from 320 g per square meter canvas with a fishtail-knit bottom. The fabric length is 200 by 145 cm, and the box includes two 2 meter straps with climbing buckles, two nylon tie ropes and a carry bag.\n\nCompared with the ANYOO Strap, it uses thicker canvas and adds tassel decoration, at a lower rated capacity of 500 lb. It brings more in the box than the SUNCREAT Curved Bar, which ships without mounting straps.\n\nIt fits couples who want a sturdy canvas bed with the straps included and a boho look in the yard. The fishtail bottom adds reinforcement.",
     "specs": [
       "500 lb, 320 g canvas",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/512az+BDBDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B077147NV7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B077147NV7?tag=rvgearlab-amz-20",
     "description": "The ANYOO Strap is a poly-cotton hammock rated for 660 lb that comes with wide webbing tree straps and carabiners. A longer bottom and shorter top give an anti-rollover shape, and the straps need no knots.\n\nVersus the Bellzacasa Canvas, it lifts the rating by 160 lb and swaps tied-on ropes for a clip-on setup. Compared with the stand models, it hangs from two trees in minutes and packs away small.\n\nIt suits anyone who wants the quickest possible hang with no tools or knots. The wide straps protect tree bark.",
     "specs": [
       "660 lb poly-cotton bed",

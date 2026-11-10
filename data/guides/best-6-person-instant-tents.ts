@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41efesDP0PL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DJCR1LLW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DJCR1LLW?tag=rvgearlab-amz-20",
     "description": "The Fanttik Zeta C6 Pro measures 120 by 108 inches and the listing says it fits a queen air mattress. Pre-installed poles let it go up in under 60 seconds, and the door zipper has a drainage channel with a bathtub-style floor.\n\nIt has the largest floor of the four and the most mesh, with screened walls, floor vents and a netted roof. The EVER ADVANCED Tent gives darkness instead, and the ADSMART Tent costs less and has a lower peak.\n\nIt suits families who want the most room and airflow for the price. A queen mattress fits comfortably.",
     "specs": [
       "120 x 108 in footprint",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410w6Eos1zL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CH81KHF8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CH81KHF8?tag=rvgearlab-amz-20",
     "description": "The EVER ADVANCED 6 Person tent is 9 by 9 ft with a 73 inch center height, and a blackout fabric darkens the interior. Packed, it measures 7.9 x 7.9 x 47.6 in.\n\nCompared with the Fanttik Zeta Tent it gives you a dark sleeping space and a skylight, while the HINSTANT Tent has no blackout feature at all. It has three zippered roll-up windows and an overhead net window.\n\nIt suits sleep-in campers and families with light sleepers. One person can pitch it in about 60 seconds.",
     "specs": [
       "9 x 9 ft, 73 in peak",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ffjVNpybL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DTTR3XMK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DTTR3XMK?tag=rvgearlab-amz-20",
     "description": "The HINSTANT 6 person tent is 10 by 9 ft with a 73 inch center height, galvanized metal poles and 190T polyester with a PU 2000mm coating. The rainfly has waterproof tape on its seams and the tent has four large mesh windows.\n\nIt names a waterproof rating where the ADSMART Tent only says waterproof, and it matches the EVER ADVANCED Tent's 73 inch peak. It is cheaper than the EVER ADVANCED Tent.\n\nIt suits families who want a stated rain rating and tall walls without a blackout premium. The listing covers 4, 6, 8 and 10 person sizes.",
     "specs": [
       "10 x 9 ft, 73 in peak",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31HbmFQTjSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GJSG9FBB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GJSG9FBB?tag=rvgearlab-amz-20",
     "description": "The ADSMART 6 person tent is 10 by 9 ft with a 66 inch height and packs at 8 x 8 x 42 in and weighs 16 pounds. Four steel leg poles hold the frame, and three large mesh windows ventilate it.\n\nThe ADSMART is the cheapest of the four and the only one that lists a weight, with the lowest peak of the group. Its 42 inch fold is shorter than the EVER ADVANCED fold of 47.6 inches.\n\nIt suits budget buyers who want a compact pack and do not need standing room. Move up to the HINSTANT Tent for rain details.",
     "specs": [
       "10 x 9 ft, 66 in peak",

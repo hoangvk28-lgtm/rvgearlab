@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41guV+M7-tL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G1GHFWKF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G1GHFWKF?tag=rvgearlab-amz-20",
     "description": "The EYONGPV 600W has HPBC monocrystalline cells rated up to 26 percent in a book-style folding structure with a built-in handle. A 30A Anderson output and a 4.5 m extension cable carry power to stations and 12V systems, under an IP65 ETFE and EVA dual-layer lamination.\n\nIt is the only pick here that is one folding unit at a true 600W. The DOKIO needs wiring and mounting, while the ZOUPW 480W is lighter yet smaller.\n\nIt suits campers with a large station who want 600W without building an array. The long cable keeps the station in shade.",
     "specs": [
       "600W HPBC, up to 26%",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51ZCfJCDDdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GFD65723?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GFD65723?tag=rvgearlab-amz-20",
     "description": "The DOKIO set is six 100W, 18V ETFE panels totaling 600W for 12V systems. The modules wire in series or parallel, bend through a 30 degree arc and are lighter than glass panels.\n\nCompared with the EYONGPV, it costs about half as much and spreads the load over six small pieces that fit curved roofs. Against the ZOUPW 480W, it needs a controller and wiring where the ZOUPW plugs in directly.\n\nIt suits van, boat and trailer owners building a roof array on a budget. The listing asks for ventilation space behind the panels.",
     "specs": [
       "Six 100W 18V ETFE panels",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41JiOFXoSdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G3PJF9W8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G3PJF9W8?tag=rvgearlab-amz-20",
     "description": "The ZOUPW 480W is a double-sided panel that adds up to 30 percent from reflected light, with a 42.5V design and IP68 rating. A composite build brings the weight to 22.5 lbs.\n\nIt trails the EYONGPV by 120 watts and costs a little more. Against the DOKIO, it unfolds in minutes where the DOKIO needs a build.\n\nIt suits station owners who value IP68 protection and a lighter carry. The high voltage matches large power stations.",
     "specs": [
       "480W bifacial N-type",

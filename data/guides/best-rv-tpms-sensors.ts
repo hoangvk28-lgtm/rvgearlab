@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41R0u12Mf0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DPM1N92R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DPM1N92R?tag=rvgearlab-amz-20",
     "description": "The GUTA GT80 set includes 10 flow-through sensors that the listing says let you add air without removing them and suit metal valve stems. It reads 0 to 188 psi and sends data to a vertical touchscreen that shows up to 22 tires.\n\nIt ranks first because it combines the widest stated pressure range here with flow-through sensors. It costs about three times the price of the GUTA GT90 below, which has 4 sensors.\n\nBest for an owner with metal valve stems who adds air often. Rubber stems are not suited to the heavier flow-through bodies.",
     "specs": [
       "10 flow-through sensors",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/419XU0AAVdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HJQFCXZ4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HJQFCXZ4?tag=rvgearlab-amz-20",
     "description": "The GUTA GT90 set includes 4 sensors with a 0 to 188 psi range, a color LCD with 3 brightness levels and an alert system for up to 10 tires with larger sets. The sensors and monitor are pre-paired for quick installation.\n\nCompared with the GUTA GT80 Flow-Thru it has the same range but only four sensors and no flow-through listing. Against the Tymate TM12 4-Set below it reads to 188 psi, where the Tymate listing does not state a range.\n\nBest for a tandem trailer or a four-tire vehicle with high-pressure tires. It lists alerts for high and low pressure, temperature, fast leaks, sensor loss and low sensor battery.",
     "specs": [
       "4 sensors, 0-188 psi",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41J7kHAmpcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FH1L3LM1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FH1L3LM1?tag=rvgearlab-amz-20",
     "description": "The Tymate TM12 4-Set includes 4 IP67 waterproof external sensors and a display that supports up to 12 tires across four zones. The listing says it has a 50 ft range extendable past 100 ft with the Tymate Repeater, and charges by USB-C or solar.\n\nCompared with the GUTA GT90 above it costs about half and lists a larger display, but states no pressure range. It does not state flow-through.\n\nBest for a four-tire trailer you may expand later, since the display handles up to 12 tires. Confirm the psi range before buying.",
     "specs": [
       "4 external IP67 sensors",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41d8GfFpChL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CRB4TGX5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CRB4TGX5?tag=rvgearlab-amz-20",
     "description": "The Masoll RV set includes 4 pressure sensors with solar and USB charging, six alarm modes and automatic alarm value setup. The listing says the sensors are factory-programmed to the monitor and the set suits most four-wheel vehicles including RVs.\n\nIt costs less than the Tymate TM12 4-Set and lists six alarm modes, but states no pressure range. Compared with the Tymate TM8 below it adds auto-setup of alarm values.\n\nBest for a simple four-tire setup that you do not want to configure by hand. Confirm the pressure range and sensor type first.",
     "specs": [
       "4 sensors, factory-paired",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/413EHRxnc5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DF2LJ4R2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DF2LJ4R2?tag=rvgearlab-amz-20",
     "description": "The Tymate TM8 set includes 4 sensors that read 0 to 87 psi with plus or minus 1.5 psi accuracy. The listing says it charges by solar, USB or cigarette lighter, and has a windshield-mount color LCD.\n\nIt costs slightly more than the Marcala 4-Set below and reads to 87 psi, where the Marcala reads 98. It has stated accuracy and three charging methods.\n\nBest for a low-pressure trailer or toad on a budget. Skip it for tires that run above 87 psi.",
     "specs": [
       "4 sensors, 0-87 psi",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51QmoAvMMQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FJ8ZGMGP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FJ8ZGMGP?tag=rvgearlab-amz-20",
     "description": "The Marcala set includes 4 sensors with a 0 to 98 psi range, a color LCD with auto-dimming and dual solar and USB charging. The listing says the hub reaches up to 26 ft, and a range extender can boost it to 80 ft.\n\nIt is the cheapest set here and reads higher than the Tymate TM8, but its 26 ft range is short for a long trailer. The extender is sold separately.\n\nBest for a small trailer or toad on a tight budget. It can be configured for one to four wheels.",
     "specs": [
       "4 sensors, 0-98 psi",

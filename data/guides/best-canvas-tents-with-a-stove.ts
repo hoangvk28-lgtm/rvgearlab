@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31zzdl0UArL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G56Q8MCN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G56Q8MCN?tag=rvgearlab-amz-20",
     "description": "The Kodiak Cabin Lodge SR is a 12 ft by 16 ft tent with a 7.5 ft peak and 4 ft vertical sides, listed for up to 10 people (8 when using a stove). Hydra-Shield cotton duck, a 13.5 oz vinyl floor with welded seams, 9 windows with no-see-um mesh, 2 vents, 2 D-shaped doors and a 5 inch stove jack are listed.\n\nAs the largest and priciest tent in the list, it also states stove capacity. Compared with the bell tents it offers straight walls and a welded floor.\n\nIt suits families and hunters who want a stove-ready lodge for cold seasons. Heavy-duty 12 inch steel stakes are included.",
     "specs": [
       "12x16 ft, 7.5 ft peak",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/419NO7X79SL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B96CQV6R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B96CQV6R?tag=rvgearlab-amz-20",
     "description": "The MC TOMOUNT bell tent is 16.4 ft across with a 9.18 ft top and 55 inch side walls supported by 8 poles. The roof is TC cotton (65 percent polyester, 35 percent cotton) for breathability, and it has eight doors, all with mesh windows.\n\nIt costs about a third as much as the Kodiak and shares its footprint with the cheaper MC TOMOUNT. Against the VANFOND it offers a much larger floor.\n\nIt suits groups who want a big stove-ready bell tent. The listing notes small plastic circles inside, left from an earlier inner-tent design.",
     "specs": [
       "16.4 ft, 9.18 ft top",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31UtQYNgM+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GQ3MRTFY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GQ3MRTFY?tag=rvgearlab-amz-20",
     "description": "This MC TOMOUNT bell tent has a TC cotton top and 210D Oxford walls with a detachable floor, a 16.4 ft diameter and a 9.18 ft peak. Eight windows double as doors, and the walls roll up to use the tent as a canopy in summer.\n\nIt costs slightly less than the other MC TOMOUNT and adds a floor that detaches and a 12 month warranty. Against the Kodiak it is much cheaper.\n\nIt suits campers who want a tent for several seasons. The side walls are 4.6 ft tall.",
     "specs": [
       "16.4 ft, 9.18 ft peak",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Tm2t--HKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DT9TVL9B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DT9TVL9B?tag=rvgearlab-amz-20",
     "description": "The ShinHye bell tent is 100 percent cotton canvas with a PU 5,000mm waterproof rating and a PE bottom. The 3 m size is 9.85 ft across with a 7.22 ft top and 1.9 ft side wall, and a stove jack hole sits about 3.3 ft up.\n\nNo other tent on this list states a waterproof rating. Against the VANFOND it costs a little more and has a taller top.\n\nIt suits couples and small families who want cotton canvas and a rated shell. Poles, a tool kit and a bag come in the box, along with the groundsheet and vents.",
     "specs": [
       "100% cotton, PU 5000mm",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31024JUkfJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F937C77P?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F937C77P?tag=rvgearlab-amz-20",
     "description": "The VANFOND bell tent is 10 ft across with a 6.6 ft top, a 4.8 ft door and 23.6 inch side walls. It has a sewn-in PVC groundsheet, a 5 inch stove jack opening, a standard mesh door, 4 windows and roof vents, and sets up in about 25 minutes.\n\nIt is the cheapest tent here, and it has a detachable groundsheet option. Against the ShinHye it is slightly cheaper and has a lower peak.\n\nIt suits couples who want a low-cost stove-ready bell tent. Roll-up walls give 360 degree airflow.",
     "specs": [
       "10 ft, 6.6 ft top",

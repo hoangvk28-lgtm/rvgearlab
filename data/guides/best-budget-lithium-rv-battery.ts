@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41uF1pLqN5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FVWPVB33?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FVWPVB33?tag=rvgearlab-amz-20",
     "description": "The POERUNI 100Ah is the best overall budget pick because it delivers a full 100Ah and 1280Wh for about $128, which is roughly $1.28 per Ah and well below the 50Ah options on this list. It weighs about 24 lbs, measures 10.24 x 8.23 x 6.65 inches, and the sealed case can be mounted in any position except upside down.\n\nThe CHITOLI ranked second costs about $25 more but publishes a 100A BMS rating and a true Group 24 size. The POERUNI wins because the price difference is meaningful at this budget, and most small rigs never pull more than a few dozen amps.\n\nBest for teardrop, pop-up, and small travel trailer owners who want to replace one lead-acid battery as cheaply as possible. Caveat: the listing does not state a BMS amp limit or an exact charge cutoff temperature, so do not pair it with a large inverter or charge it below freezing.",
     "specs": [
       "100Ah for about $128",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41bRdVjy7kL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DY72MKZ2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DY72MKZ2?tag=rvgearlab-amz-20",
     "description": "The CHITOLI 100Ah is the choice if your tray is built for a Group 24 battery and you want a published spec sheet. It weighs 22.57 lbs, uses a 100A BMS, and CHITOLI recommends charging at 14.6V and 20A for a full charge in about five hours. It comes with a five-year warranty.\n\nCompared with the POERUNI above it, you pay about $25 more for a clear Group 24 size and a named BMS rating, which matter if you plan to run a small inverter. Against the 50Ah picks below, it offers twice the capacity for a similar or lower price than the Power Queen and ECO-WORTHY 50Ah.\n\nBest for owners of small trailers and pop-ups who want a no-surprises 100Ah swap. Caveat: there is no app, so a basic battery monitor helps you avoid running it flat.",
     "specs": [
       "Group 24 size, 22.57 lbs",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/417sY6HW6OL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FBK6J924?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FBK6J924?tag=rvgearlab-amz-20",
     "description": "The NERMAK 50Ah is the least expensive way into lithium on this list at about $118. It weighs just 10.6 lbs, uses a 100A BMS with 50A continuous output, accepts a 25A quick charge, and can be wired with up to four identical batteries.\n\nIt ranks below both 100Ah picks because it costs nearly as much for half the capacity, so its per-Ah price is close to double the POERUNI. It ranks above the Power Queen 50Ah because it is about $44 cheaper with a similar weight and capacity.\n\nBest for teardrops that run LED lights, a vent fan, and phone charging, or as a portable battery for a small camper. Caveat: the warranty is only 12 months, and NERMAK notes a fully automatic lead-acid charger may not fully charge it.",
     "specs": [
       "50Ah, 10.6 lbs",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/417vT+sZK8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CLG378WV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CLG378WV?tag=rvgearlab-amz-20",
     "description": "The Power Queen 50Ah weighs only 11.57 lbs, roughly a sixth of a 100Ah lead-acid, and holds its voltage above 12.8V through its usable capacity. It is rated for 4000 cycles at full depth and supports up to 4P4S expansion if you want to add batteries later.\n\nCompared with the NERMAK above, it costs about $44 more for similar capacity, and what you get is Power Queen's established support and documentation. Against the ECO-WORTHY 50Ah below, it is cheaper but lacks Bluetooth and the XT60 accessory port.\n\nBest for owners who want a small battery from a recognized brand, for a teardrop or as a dedicated battery for a specific load. Caveat: at around $3.24 per Ah, it is poor value if you actually need 100Ah, so buy the POERUNI or CHITOLI instead.",
     "specs": [
       "50Ah, 11.57 lbs",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41feljzftkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F5WPJ2DQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F5WPJ2DQ?tag=rvgearlab-amz-20",
     "description": "The ECO-WORTHY 50Ah is the only budget pick here with Bluetooth. The app shows voltage, current, capacity, and estimated remaining time, and the battery includes an XT60 port with an adapter for 12V accessories. Its BMS cuts charging below 19.4°F and discharging below 4°F, resuming above 32°F.\n\nIt ranks fifth because it is the most expensive 50Ah battery in the lineup at about $180, more than the 100Ah POERUNI and CHITOLI. The extra money is for monitoring and portability, which the Power Queen and NERMAK lack.\n\nBest for campers who move the battery between a small trailer, a tent site, and a vehicle, and want to see charge on their phone. Caveat: charging through the XT60 port must stay under 30A, and the battery may need a pulse-activation charger if it arrives deeply discharged.",
     "specs": [
       "50Ah, 640Wh",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41xT33k2BrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09N9BBS68?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09N9BBS68?tag=rvgearlab-amz-20",
     "description": "The ECO-WORTHY 30Ah is the smallest and cheapest battery here at about $80 and 7.2 lbs. It is rated for more than 3000 cycles, includes a BMS with cell balancing, and supports up to four in series or unlimited batteries in parallel.\n\nIt ranks last because 30Ah covers only light loads, roughly LED lights and a vent fan for a night, and its per-Ah cost is the highest on the list. Compared with the 50Ah picks above, it gives up capacity for a lower total price and smaller size.\n\nBest for teardrops with minimal electrical needs, a dedicated battery for a specific device, or a low-risk first step into lithium. Caveat: ECO-WORTHY notes it is not a motorcycle starter battery, and most RVers will outgrow it quickly.",
     "specs": [
       "30Ah, 7.2 lbs",

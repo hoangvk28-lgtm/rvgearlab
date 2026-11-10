@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41CKkf7tY8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DHL3C9C7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DHL3C9C7?tag=rvgearlab-amz-20",
     "description": "This Happy Travel cabin gives you a ten by nine foot floor with a 79 inch center, the tallest peak in the list. Its 190T taffeta shell is coated to a 2000mm rating, a removable rainfly goes over a mesh-heavy body, and an electrical port lets a cord pass through.\n\nIt stands taller than the BravArrk-class cabins and costs less than the Portal two-room tent. The 4-person Happy Travel cabin below it is cheaper and smaller, so this is the step up for families of five.\n\nFamilies with older kids who want to stand up while dressing will get the most from the height. Airflow comes from the mesh roof and windows.",
     "specs": [
       "10 ft by 9 ft, 79 in peak",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41MUwytM0FL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FHQBQZ2R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FHQBQZ2R?tag=rvgearlab-amz-20",
     "description": "The 4-person Happy Travel cabin measures eight feet by seven with a 75 inch center, built from double-layer 190T taffeta coated to 3000mm. Mesh doors and windows, a removable fly and an electrical port finish the shell.\n\nIts 3000mm rating is the highest stated in this list, which gives it better storm odds than the 6-person Happy Travel. The floor is smaller, so it works as a cozy family-of-three tent.\n\nCouples with a child who camp in showery climates will like the weather rating. It is also the cheapest cabin here.",
     "specs": [
       "8 ft by 7 ft, 75 in peak",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41eR11q7+hL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DSJ5JVJX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DSJ5JVJX?tag=rvgearlab-amz-20",
     "description": "The Chihee is a hexagonal pop-up cabin with a footprint near nine feet across and a 5 ft stand-up height. The flysheet is 210D Oxford with a 3000mm black polyurethane coat and UV50+ protection, and aluminum pegs and thick guy ropes come in the box.\n\nIt sets up faster than any pole cabin in the list, and it has an awning porch that the Happy Travel tents lack. The floor suits 2 to 3 people, which is smaller than the bigger cabins.\n\nSun-and-rain campers who want an easy pitch will like it. The black coating blocks UV.",
     "specs": [
       "Hexagon, 5 ft stand-up height",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41xt3l8rdbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H5BCGXVM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H5BCGXVM?tag=rvgearlab-amz-20",
     "description": "The VEVOR cabin inflates by itself with an automatic valve in about three minutes, and a full charge supports up to ten inflations. It fits an 86 inch square mattress, uses 0.3mm TPU air tubes and has a PU2000 Oxford shell with a canopy over the door.\n\nIt is the only poleless tent in the list and the priciest at the cap. Compared with the Chihee pop-up, it adds a mattress-sized floor and TPU tubing rather than rods.\n\nFirst-timers and campers with bad backs will appreciate the effortless setup. A canopy gives shade at the entrance.",
     "specs": [
       "Auto-inflating TPU air tubes",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31j+pwSvDuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DFCFR5VG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DFCFR5VG?tag=rvgearlab-amz-20",
     "description": "The Portal cabin runs about 14 ft long and 8 ft wide under an 80 inch ceiling, with two rooms, separate doors and a deep screened porch. Ground vents, six windows, a mesh ceiling and fully taped seams sit under a PU-coated fly.\n\nNo other cabin here separates sleeping areas, and the porch is the largest by a distance. The UNP 8-Person Cabin has a simpler single room for less.\n\nLarge families and two couples will like the layout. Fiberglass and steel poles hold the frame.",
     "specs": [
       "14 ft long, 80 in peak",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41dtsSzOPmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C4H1LJ9H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C4H1LJ9H?tag=rvgearlab-amz-20",
     "description": "The UNP cabin covers a twelve by nine foot floor under an 80 inch peak, with space for two air mattresses or eight sleeping bags. Its shell uses a 1000mm PU coating on four steel leg poles, with a pair of mesh doors, six windows and a screened roof.\n\nIt costs less than the Portal and covers more floor than the Happy Travel tents. The single open room and lower rating are the trade-offs.\n\nGroups that care about space and airflow will be happy. It weighs 26.8 lb in a carry bag.",
     "specs": [
       "12 ft by 9 ft, 80 in peak",

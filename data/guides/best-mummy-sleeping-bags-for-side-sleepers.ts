@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41aUXJ5DPUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CLCRL946?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CLCRL946?tag=rvgearlab-amz-20",
     "description": "AZITREK shapes this bag like a peanut, narrow at the head and feet and wide through the middle, and the listing says it was designed for side sleepers. It measures 90.2 x 37.5 inches with a roomy square footbox, a printed 0 to 30F range and double-layer insulation.\n\nThat belly-wide cut gives bent knees and hips room that no tapered bag offers, which is the clearest side-sleeper design in this group. The BISINNA Mummy and Amazon Basics 20F Mummy are slimmer.\n\nThe right choice for side sleepers who also run cold, or big and tall campers who dislike a tight mummy. A compression sack is included.",
     "specs": [
       "90.2 x 37.5 inch peanut shape",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411ihNiFP0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F5Q92K35?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F5Q92K35?tag=rvgearlab-amz-20",
     "description": "BISINNA runs this mummy a full 7 feet long, and the listing mentions extra shoulder space and a stretchable footbox that suits several sleeping positions. It uses 400 g/m2 synthetic fill, a 40D nylon shell with a water-repellent coating and a YKK two-way zipper.\n\nThe listing fits sleepers to 6 ft 1 in and gives 1.8 kg, packing to 15.7 x 11 inches in its compression sack. Next to the AZITREK Peanut Mummy XXL it is trimmer and lighter, while it still gives side sleepers more footbox flex than a classic taper.\n\nGood for side sleepers of average height who want a three- to four-season bag. The insulated draft tube and hood help keep the warmth in.",
     "specs": [
       "400 g/m2 synthetic, 40D shell",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/3177pWrjfXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G62HZL33?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G62HZL33?tag=rvgearlab-amz-20",
     "description": "Amazon Basics sells this 20F mummy at 90 x 34 inches, with synthetic fill, an integrated hood and a washable recycled polyester shell. It unzips fully into a blanket and ships with a compression sack.\n\nAt 34 inches it is the roomiest of the three standard-cut bags here after the AZITREK Peanut Mummy XXL, and it costs less than the TETON Trailhead 20F or the Coleman North Rim. It gives a bent-knee sleeper moderate space at an easy price.\n\nA solid pick for side sleepers who need a warm, washable bag on a budget. Loops make it simple to bundle.",
     "specs": [
       "20F rated, synthetic fill",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/316CFmR-OuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DWVF4RXP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DWVF4RXP?tag=rvgearlab-amz-20",
     "description": "TETON's Trailhead is a 20F mummy with microfiber insulation, zipper draft tubes and added insulation in a vaulted footbox. The hood is shaped to close the gaps around the face, and hang loops preserve loft in storage.\n\nThe vaulted footbox gives a side sleeper's feet more headroom than the BISINNA Mummy or Coleman North Rim, and the draft tubes help where side sleeping shifts the bag. It costs a bit more than the Amazon Basics 20F Mummy.\n\nA fit for side sleepers who camp in cool weather and want a known brand. The compression sack makes packing simple.",
     "specs": [
       "20F mummy",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41OdlULxekL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D643KDKN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D643KDKN?tag=rvgearlab-amz-20",
     "description": "Coleman's North Rim is a 0F mummy using hollow Coletherm polyester, with a Thermolock tube and a hood that adjusts. The stated fit height stops at 6 ft 2 in.\n\nIts 0F label is the lowest of the five, with a snug cut that leaves side sleepers the least room. Pick it when deep cold matters more than movement, and pair it with a warm pad.\n\nA reasonable choice for side sleepers who camp in near-freezing weather and tolerate a tighter fit. The hood vents for milder nights.",
     "specs": [
       "0°F rated mummy",

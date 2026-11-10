@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410UkkuXJML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G1XKM4TJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G1XKM4TJ?tag=rvgearlab-amz-20",
     "description": "The E-POWO Bifacial is a 110W panel that collects light on both sides, with A+ monocrystalline cells at 23.5 percent and an IP68 rating. It weighs 7.7 lbs, folds to 24 by 23.6 by 1.3 inches, and includes a 7-in-1 solar cable for DC8020, DC7909, DC35135 and XT60.\n\nIt is the lightest 110W here, and the double-sided design adds output over reflective ground. Against the ZOUPW, it costs a little less and carries a better waterproof rating, while the USB hub is absent.\n\nIt suits campers who want the lightest 110W with the strongest weather rating. An accessory pouch and two kickstands come with it.",
     "specs": [
       "110W bifacial, 23.5%",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411dvylkqFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DT6YVC46?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DT6YVC46?tag=rvgearlab-amz-20",
     "description": "The ZOUPW stands out for its 25.6 percent stated efficiency in a 8.02 lb frame, with a USB-C PD plus two USB-A hub built in. Its solar cable carries five connectors, and it folds to 24.45 by 22.99 by 1.57 inches.\n\nCompared with the bifacial E-POWO, it has higher stated efficiency and direct USB charging at a slightly higher price. Against the VTOMAN, it fits many more stations.\n\nIt suits campers who charge a station and a phone from the same panel. The magnetic handle and kickstand legs set up in seconds.",
     "specs": [
       "25.6% N-type, 8.02 lbs",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51kYGrVTBpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F2TCX2CB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F2TCX2CB?tag=rvgearlab-amz-20",
     "description": "This E-POWO panel is the thinnest fold in the group at 0.8 inches, packing to 24.09 by 23.23 inches at 9.74 lbs. Three USB ports, a seven-way adapter set and two kickstands with 40, 50 and 60 degree positions come with it.\n\nIt is heavier than the bifacial E-POWO and ZOUPW, yet it adds three set tilt angles. Compared with the VTOMAN, it fits more stations and costs less.\n\nIt suits campers who like to angle a panel toward the sun and charge a phone at the same time. The built-in pouch stores adapters.",
     "specs": [
       "110W, 9.74 lbs, 0.8 in fold",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41yq3I3zBjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HJWG6MV1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HJWG6MV1?tag=rvgearlab-amz-20",
     "description": "The VTOMAN VS110 works at 19V with MC4, Anderson, XT60 and DC5521 interfaces, and the listing names Jump 600X, Jump 1500X and Jump 1800 stations. It uses monocrystalline cells at up to 23 percent efficiency, with two kickstands and four hanging holes.\n\nIt is the highest-priced 110W here and the only one built around a single brand's stations. Compared with the ZOUPW, it has fewer connector options and no USB hub.\n\nIt suits owners of the named VTOMAN stations who want a matched panel. The IP67 rating protects against splashes.",
     "specs": [
       "110W, 19V working voltage",

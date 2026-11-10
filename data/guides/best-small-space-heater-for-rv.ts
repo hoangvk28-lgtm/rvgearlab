@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41WZB-QvgQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07V6M3PDX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07V6M3PDX?tag=rvgearlab-amz-20",
     "description": "The Amazon Basics Ceramic heater has High 1,500W, Low 900W and Fan Only settings, a thermostat and overheat and tip-over protection. It weighs 3 lbs, measures 7.5 by 6.3 by 9.5 inches and lists 43 dB operation.\n\nAgainst the DREO units, it adds a 900W low setting for lower circuit draw. Against BZGG, it offers a larger heat output.\n\nBest for small RVs on shore power that need a light, quiet unit. A basic, balanced pick.",
     "specs": [
       "1500W high, 900W low, fan only",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41OQ-d0qJoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FBRW761D?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FBRW761D?tag=rvgearlab-amz-20",
     "description": "The DREO 1500W tilt heater angles manually at 0, 20, 40 and 60 degrees and delivers heat in 2 seconds with Hyperamics technology. It lists a thermostat from 41 to 95 degrees F in 1-degree steps and safety features certified by ETL.\n\nAgainst the other DREO units, it adds tilt for aiming heat at your body. Against the Amazon Basics, it gives finer temperature control.\n\nBest for aiming heat at a desk or bed from a short distance. A good fit for tight dinettes.",
     "specs": [
       "1500W, 60-degree tilt",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/513cwOYPmUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C6FFK1GV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C6FFK1GV?tag=rvgearlab-amz-20",
     "description": "The DREO 1500W heater has a Hyperamics PTC system with a heat funnel design, a tilt-detection sensor and a remote control. It lists a brushless DC motor with a winglet fan for quiet running and an NTC thermostat.\n\nAgainst the DREO Tilt, it adds a remote and costs less. Against JIBUFI, it lists quiet operation and tilt detection.\n\nBest for a bedroom where quiet matters. A strong thermostat heater.",
     "specs": [
       "1500W PTC, heat funnel",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51xr+Ln-YiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D9KBQ3PG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D9KBQ3PG?tag=rvgearlab-amz-20",
     "description": "The second DREO remote listing carries the same 1,500W Hyperamics PTC system, tilt-detection sensor, NTC thermostat and brushless DC fan. It lists the same quiet operation and remote control.\n\nAgainst the first DREO remote listing, it reads the same and shares the price. Against the Tilt model, it skips manual tilt.\n\nBest for buyers who want the DREO remote model from whichever listing is in stock. A solid pick.",
     "specs": [
       "1500W PTC, heat funnel",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41P7raTXyrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CFBD1MDM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CFBD1MDM?tag=rvgearlab-amz-20",
     "description": "The JIBUFI is a 1,500W heater with 70-degree oscillation, a remote and High, Medium, Low, ECO and Fan Only modes. The listing states ETL certification, tip-over protection and an enhanced safety plug.\n\nAgainst the DREO units, it is cheaper and oscillates. Against the Amazon Basics, it offers more modes.\n\nBest for budget buyers who want oscillation and remote control. A feature-rich heater at a low price.",
     "specs": [
       "1500W, 70-degree oscillation",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41jovZNUeAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DBDG9GRV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DBDG9GRV?tag=rvgearlab-amz-20",
     "description": "The BZGG is a PTC ceramic heater that warms personal spaces up to 200 sq ft, with 40 dB operation, a UL certification statement and auto shut-off at a 45-degree tilt. It measures 5.28 by 4.45 by 8.5 inches with a carry handle and 2 temperature settings.\n\nAgainst the 1,500W heaters, it is far smaller and quieter. Against the Amazon Basics, it fits under a desk or on a bunk shelf.\n\nBest for tiny nooks, bunks and bathrooms. A good pick for a small personal spot.",
     "specs": [
       "PTC ceramic, up to 200 sq ft",

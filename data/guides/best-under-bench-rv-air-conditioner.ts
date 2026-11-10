@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41aFPLgygpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DWCD1ZBJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DWCD1ZBJ?tag=rvgearlab-amz-20",
     "description": "The Pioneer 10,000 BTU unit is titled as an under-bench RV inverter heat pump on 110 to 120V. It lists 10.1 EER cooling, 9,500 BTU/H heating at 3.5 C.O.P. and R32 refrigerant, pre-charged and ready to install.\n\nIt is the only pick named under-bench and the only one to list both cooling and heating efficiency figures. It is also the highest priced, with the inverter and heat pump in a hidden-unit format.\n\nIt suits owners with a bay or bench space who want the unit out of sight. It is listed for RVs, skoolies and camper vans.",
     "specs": [
       "10,000 BTU, 115V",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ORI7-vNgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F4NTYLBC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F4NTYLBC?tag=rvgearlab-amz-20",
     "description": "The AClengda concealed unit has an outdoor unit that can be installed under the vehicle, flat on the roof or erected at the back, according to its listing. The evaporator measures 26.7 by 11 by 6.3 inches and is ceiling mounted.\n\nIt is the only 12V pick that lists a hidden outdoor unit, and it lists a 900 watt compressor and 10,000 BTU. It costs far less than the Pioneer.\n\nIt suits owners who want the outdoor unit out of sight on a 12V system. The listed starting current is 70A.",
     "specs": [
       "12V DC, 10,000 BTU",
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ozm2ysTnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F8M41X7M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F8M41X7M?tag=rvgearlab-amz-20",
     "description": "The TURBRO 13.5K inverter is a rooftop unit with cooling and heat pump, fan and dry modes. It lists a 10 inch thickness, up to 35 percent thinner than most competitors, and a ceiling light with remote or app control.\n\nIt lists a 13,500 BTU capacity above the Pioneer and fits a 14.25 by 14.25 inch roof opening. It is priced below the Pioneer.\n\nIt suits owners who accept a rooftop unit and want a slim profile. The app control adds convenience.",
     "specs": [
       "13.5K BTU heat pump",
@@ -108,7 +108,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41gLBxV9B3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GNSMLFSM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GNSMLFSM?tag=rvgearlab-amz-20",
     "description": "The Jrswin 12V DC unit lists 15,000 BTU of cooling and heating, a 3-speed fan and a digital control panel. It lists a roof opening of at least 12.2 by 9.3 inches.\n\nIt lists a smaller cutout than standard 14.25 inch units and a 7 to 9 hour battery runtime that depends on the vehicle's battery system. It is priced well below the TURBRO.\n\nIt suits owners who run 12V and want a large capacity label. It is a rooftop style unit.",
     "specs": [
       "12V DC, 15,000 BTU",
@@ -135,7 +135,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31RLLF6EpTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DW466PP7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DW466PP7?tag=rvgearlab-amz-20",
     "description": "The AClengda 9,000 BTU 12V unit lists a 40 decibel indoor noise level, a 850 watt power rating and a 60 to 70 amp current requirement. It lists five wind speeds and a remote.\n\nIt is the lower priced AClengda and lists the lowest noise figure. It uses R134a refrigerant.\n\nIt suits owners with a split layout who want low listed noise. It runs from the vehicle battery without starting the engine.",
     "specs": [
       "12V DC, 9,000 BTU",
@@ -162,7 +162,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41useishziL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FY6FGVF2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FY6FGVF2?tag=rvgearlab-amz-20",
     "description": "The GETUHAND portable tent air conditioner is 5,200 BTU, 400 watts, 33 lbs and 22.4 by 11.2 by 13.8 inches. It lists cooling up to 108 square feet and a 24-hour timer.\n\nIt is the lowest priced pick and needs no install, unlike the Pioneer. It lists cool, dry, sleep and fan modes.\n\nIt suits owners who want a movable unit for a small space. No drainage is needed below 70 percent humidity.",
     "specs": [
       "5,200 BTU, 400 watts",

@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51PZ0z3p0DL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GTKH8TZW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GTKH8TZW?tag=rvgearlab-amz-20",
     "description": "The AVERONR 50 ft hose is a true 50 foot single run of commercial-grade TPE with swivel bayonet fittings. It is listed as resistant to crushing, abrasion, punctures, chemicals and sun, and freeze-resistant in cold.\n\nIt is the only pick that reaches 50 feet and the most expensive item. Next to the DUMPMAN 20 Ft Kit, it adds thirty feet of reach.\n\nBest for very distant risers where one long hose beats several joints. The right choice for 50 foot routes.",
     "specs": [
       "50 ft commercial-grade TPE",
@@ -53,7 +53,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31I7H97O0SL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B004804NWE?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B004804NWE?tag=rvgearlab-amz-20",
     "description": "The Camco RhinoEXTREME 15 ft kit has TPE technology for abrasion resistance and crush protection. It includes pre-attached Rhino swivel fittings with a bayonet and clear elbow with 4-in-1 adapter, plus snap-glue fittings and storage caps.\n\nIt is the strongest brand kit here and costs more than the DUMPMAN 20 Ft Kit. The 4-in-1 adapter allows storage in 4 inch square bumpers, which the AVERONR cannot promise.\n\nBest for owners who want a trusted kit as the base of a longer run. A tough choice that will not dent or rust.",
     "specs": [
       "15 ft TPE, abrasion resistant",
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51qVA-86IbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D46F7ZKD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D46F7ZKD?tag=rvgearlab-amz-20",
     "description": "Built as one 24 mil TPE piece, the DUMPMAN 20 ft hose ships with a clear 90 degree adapter for four inlet sizes. It is described as seamless and leak-free.\n\nIt costs about two fifths of the AVERONR 50 Ft and carries an elbow. Against the Camco kits, it is longer and cheaper.\n\nBest for owners who want a long base hose for part of the route. A good value starter.",
     "specs": [
       "20 ft one piece, 24 mil TPE",
@@ -107,7 +107,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51f4hZumoNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01HPHR2M4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01HPHR2M4?tag=rvgearlab-amz-20",
     "description": "Camco's RhinoFLEX 15 ft set holds a 15 foot hose, a clear elbow that carries the 4-in-1 adapter and two caps. The wall is 23 mil polyolefin wrapped around steel wire.\n\nIt costs less than the RhinoEXTREME 15 Ft and adds a wire core instead of TPE. Compared with the Amazon Basics 15 Ft Kit, it names more material detail.\n\nBest for owners who want a wire-reinforced base. A solid mid-price choice.",
     "specs": [
       "15 ft, 23 mil polyolefin",
@@ -134,7 +134,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41qer6DDsML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F655PWKY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F655PWKY?tag=rvgearlab-amz-20",
     "description": "One hose, two covers and a 90 degree four-in-one ground converter make up the Amazon Basics 15 ft kit. It is a plain and simple package.\n\nIt is the lowest priced hose in the group and gives a converter. Material detail is thinner than the Camco listings.\n\nBest for buyers who want a low-cost base. A cheap addition to a longer setup.",
     "specs": [
       "15 ft hose, two covers",
@@ -161,7 +161,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31vr2pku-aL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B006OQ35GU?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B006OQ35GU?tag=rvgearlab-amz-20",
     "description": "The Camco RhinoFLEX clear 45 degree fitting adds a swivel lug and bayonet fitting in UV stabilized resin. The clear body shows when the tank is empty.\n\nIt costs less than every hose and works as a connector rather than a hose. It is the one part in this group that helps bend a hose around an obstacle.\n\nBest for adding a clear angle to an existing hose. A useful extra for long runs.",
     "specs": [
       "Swivel lug and bayonet fitting",

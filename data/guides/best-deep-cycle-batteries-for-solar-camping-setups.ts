@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410zMRKjDPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GKFKXSKL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GKFKXSKL?tag=rvgearlab-amz-20",
     "description": "The DUMFUME set includes two 12V 150Ah LiFePO4 batteries, each with a 100A BMS and each measuring 10.04 by 7.68 by 9.84 inches at 43 lb. The pair can be wired in parallel for 300Ah or in series for higher voltage, and it expands to a 4S4P bank.\n\nAgainst the Renogy 200Ah AGM it offers more usable capacity from lithium chemistry and lower weight per amp hour. Compared with the VEVOR 24V, it stays on 12V so it fits ordinary camper gear.\n\nIt suits solar campers building a house bank in stages, since the second battery is already in the box. The independent low-temperature cut-off protects charging in winter.",
     "specs": [
       "Two 12V 150Ah LiFePO4",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41iT88YEnfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FL7H6FCT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FL7H6FCT?tag=rvgearlab-amz-20",
     "description": "The VEVOR 24V is a 100Ah LiFePO4 battery with a 29.2V to 20V range and a 50A BMS. Its listing says it can expand to 20.48kWh and fully charge in about 5 hours.\n\nCompared with the DUMFUME pair, it runs at 24V, which halves current for the same wattage and suits bigger solar arrays. Against the AGM picks it adds more cycles at 4000 or more and is far lighter.\n\nIt suits 24V solar or RV systems already built around a 24V inverter. A solar array and a 24V charge controller pair naturally with it.",
     "specs": [
       "24V 100Ah LiFePO4",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31hWBJ9YLXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B075RGX1WR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B075RGX1WR?tag=rvgearlab-amz-20",
     "description": "The Renogy 200Ah AGM is a sealed lead acid battery with quinary alloy plates and a discharge current up to ten times the rated capacity. Its listing quotes self-discharge below 3% per month and stable discharge below 32F.\n\nIt doubles the capacity of the Renogy 100Ah in one case and costs less per amp hour than the lithium picks. Against the ExpertPower gel it offers twice the capacity at a similar price level.\n\nIt suits solar campers on a budget who accept lead acid weight and half-depth discharge. A long shelf life suits seasonal use.",
     "specs": [
       "12V 200Ah AGM",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31soCn59teL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B075RFXHYK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B075RFXHYK?tag=rvgearlab-amz-20",
     "description": "The Renogy 100Ah AGM supports series wiring and up to four in parallel, with a 1100A five second maximum discharge and an operating range from -4F to 140F. The listing says it can power fridges, microwaves and CPAP machines.\n\nIt is the lowest priced battery in this comparison and the smaller sibling of the Renogy 200Ah. Next to the ExpertPower gel it offers a wider listed temperature range and a clear parallel limit.\n\nIt suits a small solar camper that just needs a starter bank, perhaps one panel and a charge controller. Expanding in parallel later is straightforward.",
     "specs": [
       "12V 100Ah AGM",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4117VhMEyOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B8TTYX1K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B8TTYX1K?tag=rvgearlab-amz-20",
     "description": "The ExpertPower EXP-100 is a 12V 100Ah sealed gel battery sized 13.11 by 6.81 inches in footprint and sold for solar, RV, marine and trolling motor use. It is spill-proof, maintenance free and rechargeable.\n\nGel chemistry differs from the AGM Renogy and VEVOR batteries because gel needs a lower charge voltage, which matters when programming a solar controller. Next to the lithium picks it is cheaper and heavier.\n\nIt suits solar campers who want a spill-proof sealed battery and will set the controller to a gel profile. A tent camper who stores the battery in a car trunk benefits from the sealed case.",
     "specs": [
       "12V 100Ah gel",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31PS-imPR7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CVX5SQC5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CVX5SQC5?tag=rvgearlab-amz-20",
     "description": "The VEVOR 12V 100Ah AGM measures 13.0 by 6.7 by 8.4 inches and lists a maximum discharge current of 800A within 5 seconds. It is a maintenance-free sealed AGM sold for RV, solar, marine and UPS backup use.\n\nIt sits alongside the Renogy 100Ah as a plain AGM option, with the listed high surge current as its differentiator. Next to the lithium picks it is much cheaper per battery and heavier for the capacity.\n\nIt suits budget solar builds and backup power where occasional surge current matters. A trailer owner replacing a tired AGM will find a familiar footprint.",
     "specs": [
       "12V 100Ah AGM",

@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41P9tjektaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DDRCSSF8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DDRCSSF8?tag=rvgearlab-amz-20",
     "description": "PROSOL WORKS RV Interior Cleaner is a 16 oz water-based spray for RV furniture, carpets, seats, vinyl, toilet, countertops, flooring and upholstery. The listing calls it gentle on surfaces, free of harsh chemicals and family friendly.\n\nAgainst Griot's Interior, it is made for an RV and its bathroom and counters, while Griot's is built around car seats and carpets. It costs less than most of the car sprays here.\n\nBest for an all-around spray in a travel trailer or motorhome. Test fabric in a hidden spot before cleaning cushions.",
     "specs": [
       "RV interior all-purpose spray",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31bjMmh15ML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00F4PB8IY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00F4PB8IY?tag=rvgearlab-amz-20",
     "description": "Griot's Garage Interior Cleaner Spray is an all-purpose car interior cleaner that lists carpets, floor mats, seats, fabrics, vinyl, headliners, door panels and dashboards. It says it leaves no sticky residue that attracts dirt and is made in the USA.\n\nCompared with PROSOL RV Interior, it has a longer fabric list but no bathroom or counter use. Compared with Chemical Guys Total Interior, it cleans without adding a protectant layer.\n\nBest for cushions and carpets in the cabin where residue matters. It is a car product, so it is not RV-tested.",
     "specs": [
       "Car interior cleaner spray",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Q0669N8YL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B071ZTPRJL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B071ZTPRJL?tag=rvgearlab-amz-20",
     "description": "Chemical Guys Total Interior Cleaner and Protectant is a 16 oz spray for leather and vinyl, dashboards, door panels, seats and screens that cleans and leaves a protective layer. The listing says no rinsing or buffing is needed.\n\nAgainst Griot's Interior, it adds protection but is aimed at leather and vinyl more than carpet. Against Rain-X All-Interior, it is more expensive but covers leather.\n\nBest for vinyl dinette seats and dash-area surfaces. It is a car product, so spot test first.",
     "specs": [
       "Cleaner and protectant",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Itr3XIF3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00ANA3UTK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00ANA3UTK?tag=rvgearlab-amz-20",
     "description": "Chemical Guys Nonsense is an odorless all-purpose spray with foam action for vinyl, rubber, plastic, carpets and engine-bay parts. The listing lists interior and exterior use and says it lifts dirt from textured surfaces and cup holders.\n\nCompared with PROSOL RV Interior, it is odorless and works on rubber and textured trim, but is aimed at cars. Compared with Griot's Interior, it is a foaming cleaner with exterior use too.\n\nBest for smell-sensitive owners in a small cabin. Check the dilution notes before use.",
     "specs": [
       "Odorless all-purpose cleaner",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41YsjGmrx-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DY8W2V5L?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DY8W2V5L?tag=rvgearlab-amz-20",
     "description": "Rain-X All-Interior Cleaner Protectant is a 3-in-1 product that cleans, protects and repels liquid spills and dust, with UV inhibitors and a streak-free, non-greasy finish on non-fabric surfaces including display screens. It is a low-cost product sold in a small bottle.\n\nAgainst Chemical Guys Total Interior, it costs less and adds spill repellency but excludes fabric. Against PROSOL RV Interior, it is a protectant rather than a general cleaner.\n\nBest for dashboard, trim and screen surfaces where UV protection matters. It is not for cushions.",
     "specs": [
       "Cleaner, protectant, repellent",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41fbChRixqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00SL2NF10?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00SL2NF10?tag=rvgearlab-amz-20",
     "description": "Camco Pro-Strength Awning Cleaner is a 32 fl oz cleaner for vinyl, acrylic, nylon and fabric awnings that lifts stains, dirt, tree sap and road grime. It is an exterior awning product, not an interior cleaner.\n\nIt ranks last here because awning chemistry is meant for outdoor fabric, not cabin upholstery or counters. Compared with PROSOL RV Interior, it has no interior use listed.\n\nBest used on awnings only. Do not use it inside an RV.",
     "specs": [
       "Awning cleaner, 32 fl oz",

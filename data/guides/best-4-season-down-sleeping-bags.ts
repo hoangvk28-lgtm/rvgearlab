@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/416t8tsTuNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F9WD1815?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F9WD1815?tag=rvgearlab-amz-20",
     "description": "The BUERTS is an XXL 4 season mummy filled with 3.3 lb of RDS-certified traceable down, rated 8 to -18 degrees F on the listing. It weighs 4.6 lb, uses 400T 20D nylon and adds an inner pocket and a foot mesh pocket.\n\nIts printed range reaches colder than any other bag here, and the cut is wider through the shoulders and feet than the QEZER or Clostnature. It costs more than any other pick, which pays for the large down load.\n\nIt suits winter hikers and cold campers who need real sub-zero capability and room for layers. It is a heavy-duty cold bag, not an ultralight one.",
     "specs": [
       "3.3 lb RDS-certified down",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41lkFt8t6GL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DD76XJQF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DD76XJQF?tag=rvgearlab-amz-20",
     "description": "The OMVMO is a rectangular down bag labeled 0 degrees F, built with over 80 independent 3D insulation lofts, a 400T 20D nylon shell with DWR coating and draft tubes at the shoulders and zipper. Left and right zip versions splice into a double.\n\nIt is the only rectangular down bag in the list, giving more room than the mummies. It costs less than the BUERTS and more than the QEZER.\n\nIt suits campers who want down warmth without a mummy's squeeze. The shoulder-wear option and detachable hood add flexibility.",
     "specs": [
       "Rectangular down, 0F label",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41UakmUTcmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DBVM6NVP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DBVM6NVP?tag=rvgearlab-amz-20",
     "description": "The QEZER is filled with 600 FP duck down, with a printed comfort range of 32 to 17.6 degrees F and a limit of 10.4 degrees F. It weighs 3.62 lb, packs to 14.96 by 7.48 inches and measures 88.58 by 31.5 inches in a semi-rectangular shape.\n\nIt is the best-documented bag in the list, with weight, size and ratings all printed. It is lighter than the BUERTS and has a foot zipper for venting.\n\nIt suits campers who want honest temperature numbers and a packable down bag. The limit of 10.4F shows it is a cold-weather bag, not a deep-winter one.",
     "specs": [
       "600 FP duck down",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31d97oh-wkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FJ2VZZ3K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FJ2VZZ3K?tag=rvgearlab-amz-20",
     "description": "The SYWSKW is a large down bag with 680 fill power RDS duck down, a 33.5 inch shoulder width and a detachable 80 g pillow. It is marketed for cold weather trips.\n\nIt lists the widest shoulders of the group at 33.5 inches. It costs slightly less than the QEZER and more than the Naturehike.\n\nIt suits broad-shouldered campers who find narrow mummies pinching. The included pillow saves packing one.",
     "specs": [
       "680 fill RDS duck down",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31B5xuTZfEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DG5CMQXX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DG5CMQXX?tag=rvgearlab-amz-20",
     "description": "The Naturehike is a 650 fill power duck down bag labeled 3-4 season, weighing 1.67 lb in medium and 1.95 lb in large, in 400T 20D ripstop with YKK zippers. A storage bag and compression sack are included.\n\nIt is the lightest bag in the list, by far, and costs less than the QEZER and SYWSKW. It trades warmth for weight, with no temperature figure printed.\n\nIt suits backpackers who want a light down bag for cool nights. Pair it with a warm pad.",
     "specs": [
       "1.67 lb medium, 1.95 lb large",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31v31Uuw2iL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FDQ8B7LT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FDQ8B7LT?tag=rvgearlab-amz-20",
     "description": "The Clostnature has 840 g of 550-fill white duck down in an independent-channel design, with 20D nylon shell and lining and DWR coating. It weighs 3.08 lb, measures 82.6 by 31.5 inches and packs to 15 by 7.8 inches.\n\nIt is by far the cheapest down bag here, at a fraction of the QEZER. It has the lowest fill power and less down than the BUERTS.\n\nIt suits budget buyers who want real down and a stated weight. It is a cool-weather bag.",
     "specs": [
       "840 g of 550-fill down",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31JONK-H3LL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01IO53AXQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01IO53AXQ?tag=rvgearlab-amz-20",
     "description": "The Marmot Men's Trestles 15 is a men's-specific synthetic bag built with SpiraFil high-loft insulation that the listing says keeps warmth in wet weather. It has an anatomical 3D footbox, a wave-construction top with a blanket-style bottom and a locking YKK two-way zipper.\n\nIt is the only bag in this guide with a stated 15F rating and a clear men's cut, and it ships with a compression stuff sack. The wave-and-blanket build is designed to limit cold spots along the body.\n\nIt suits male backpackers who sleep cold or camp into shoulder seasons. It comes in a Long size for taller sleepers.",
     "specs": [
       "15F men's synthetic bag",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/413kcBSc+9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D2Q1PFBT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D2Q1PFBT?tag=rvgearlab-amz-20",
     "description": "The Kanyak is a single-person bag sold for adults, boys, girls and men, and its title promises a lightweight, waterproof cold-weather build with a compression sack. The listing offers several colors and describes itself as easy to store and carry.\n\nIt costs about a third of the Marmot, which makes it a simple way to start. Against the Marmot it is not men's-specific, and it trades a documented rating for a low price.\n\nIt suits budget backpackers who want a generic adult-size bag. A compression sack is included.",
     "specs": [
       "Single-person adult bag",

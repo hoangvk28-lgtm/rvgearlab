@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41NG+3aohEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B6HY2S9C?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B6HY2S9C?tag=rvgearlab-amz-20",
     "description": "The CULMKARI listing is a trailer brake control switch for the 84108373 part number, with 23145874 and 601226 also listed. It names fitment including 2014-2018 GMC Sierra 1500, 2015-2019 Chevy Silverado 1500, 2500 and 3500, and Suburban, Tahoe and Yukon years.\n\nIt is a replacement for an existing factory control, so it only helps if your Silverado already has one. Compared with the GM Genuine Parts switch it states fitment years and symptoms to replace for, at a lower price, but the brand is not GM.\n\nBest for a Silverado owner with an integrated controller showing inconsistent braking or a warning light. Check your exact year and part number before ordering.",
     "specs": [
       "Part 84108373 switch",
@@ -55,7 +55,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21Ig+ZypIwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B06XH6PD2X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B06XH6PD2X?tag=rvgearlab-amz-20",
     "description": "The GM Genuine Parts 84108373 is a black trailer brake control switch assembly sold as a GM-recommended replacement for the original factory component. The listing says it is made to GM original equipment specification for fit, form and function.\n\nIt is the only genuine GM part here, and the listing does not list model years, so you need to confirm fit from the part number. Compared with the CULMKARI 84108373 it costs more and says less, but it comes with GM branding.\n\nBest for owners who want an original-brand replacement and have confirmed the part number on their old switch.",
     "specs": [
       "Genuine GM part",
@@ -84,7 +84,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41xAgU0sy5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B001GN6S1A?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B001GN6S1A?tag=rvgearlab-amz-20",
     "description": "The CURT 51342 is a vehicle-specific quick-plug harness listed for select Chevrolet Silverado, Suburban, Tahoe, GMC Sierra, Yukon and Escalade years. It uses 12-gauge wire, is plug-and-play with no cutting or splicing, and comes with a slit-loom sleeve.\n\nIt connects a CURT controller with a quick-plug connector to the under-dash port, covering proportional, inertia and time-delay types. Compared with the CURT 51353 it targets a different set of years, so the model-year list decides between them.\n\nBest for a Silverado that lacks a factory controller and has the under-dash port. Check the exact years on the listing first.",
     "specs": [
       "Vehicle-specific harness",
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ttbUgxmTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B001GN1KAE?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B001GN1KAE?tag=rvgearlab-amz-20",
     "description": "The CURT 51353 is a vehicle-specific harness for Chevy, GMC, Cadillac and Hummer. It also lists Silverado and Sierra 1500 years, uses 12-gauge wire and has a slit-loom sleeve.\n\nIt follows the same design as the CURT 51342 but targets a different part of the model range, including the Escalade ESV, EXT and Hummer H2. It is slightly cheaper.\n\nBest when the 51342 list does not include your year. Compare both lists before you buy.",
     "specs": [
       "Vehicle-specific harness",
@@ -142,7 +142,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ftsgewbcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B27P91YL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B27P91YL?tag=rvgearlab-amz-20",
     "description": "The MECMO 3025-P is a brake control wiring adapter for 1999-2002 GM models, including Silverado 1500 and 2500, Suburban, Tahoe, Sierra and Yukon. It has a factory connector on one end and a brake control plug on the other.\n\nIt works with time-delayed controllers such as the Draw-Tite Activator and Tekonsha models listed. Unlike the CURT harnesses, it targets older trucks and uses a nylon mesh tube.\n\nBest for a 1999-2002 Silverado owner adding an aftermarket controller. It does not fit newer trucks.",
     "specs": [
       "1999-2002 GM models",
@@ -171,7 +171,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41NqZ2yoNEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GGQJ2QJP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GGQJ2QJP?tag=rvgearlab-amz-20",
     "description": "The Nilight adapter lists GMC Sierra 1999-2006, Chevy Silverado 1999-2006, Avalanche, Suburban, Tahoe and Cadillac Escalade. It has a 4-pin plug that the listing says fits Hopkins controllers.\n\nCompared with the MECMO 3025-P it covers a longer span of years, though the listing is oriented toward Hopkins models. Both are plug-and-play with mesh tubing.\n\nBest for a 1999-2006 Silverado owner using a Hopkins controller. Confirm that your controller's plug matches.",
     "specs": [
       "Silverado 1999-2006",

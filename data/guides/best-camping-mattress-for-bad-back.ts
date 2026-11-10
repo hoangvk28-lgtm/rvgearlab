@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51stjm3D5sL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D41H9B9C?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D41H9B9C?tag=rvgearlab-amz-20",
     "description": "The Gaialoop is a 4 inch pad that combines 30D support foam with 40D memory foam. The materials are OEKO-TEX certified, and the plush velvet cover is removable and washable with a waterproof inner layer.\n\nCompared with the CYMULA 4 inch, it lists the foam densities. Against the Selectico, it is half an inch thicker.\n\nIt suits campers who want a firm base with a soft top. It also fits cots and SUV beds.",
     "specs": [
       "4 inch two-layer foam",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/5198PzOw-ZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GTLR5MY1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GTLR5MY1?tag=rvgearlab-amz-20",
     "description": "The CYMULA 4 inch mattress has a dual-layer design with 2 inches of plush memory foam on a supportive base. It uses OEKO-TEX tested foam, a waterproof removable cover and a non-slip bottom, with a travel bag.\n\nCompared with the Gaialoop, it costs less. Against the CYMULA Full, it is a smaller single size.\n\nIt suits campers who want 4 inches at a lower price. The travel bag keeps it tidy.",
     "specs": [
       "4 inch dual-layer foam",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51hZPPWBJoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CYCBXNQ5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CYCBXNQ5?tag=rvgearlab-amz-20",
     "description": "The CYMULA Full is a memory foam camping mattress in full size with OEKO-TEX certified materials and a fleece cover with buckles. It comes with a storage bag, packing straps and a waterproof non-slip bottom.\n\nNext to the 4 inch single, it is a wider surface for two or for tossers. Against the Selectico, it is a full width.\n\nIt suits campers who want a full-width foam mattress. It doubles as a guest floor bed.",
     "specs": [
       "Full size memory foam",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41kqk5eth4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F4D4T7W8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F4D4T7W8?tag=rvgearlab-amz-20",
     "description": "The Selectico mattress is 3.5 inches thick with a high-resilience foam top layer over a supportive base. It has a skin-friendly polyester cover, an anti-slip bottom and a carry case.\n\nCompared with the Gaialoop, it is half an inch thinner and costs less. Against the Lxotvae, it has a stated storage design.\n\nIt suits campers who want a supportive dual-layer mattress at a moderate price. The strap storage design is convenient.",
     "specs": [
       "3.5 inch dual-layer foam",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41FXfPwlnGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D4DYFGT6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D4DYFGT6?tag=rvgearlab-amz-20",
     "description": "The Lxotvae mattress has a double-layer design with gel memory foam over 30D high-density foam. The velvet cover is detachable and washable, with TPU waterproof membranes on the top and bottom.\n\nCompared with the Selectico, it has a waterproof membrane on both sides. Against the Gaialoop, it costs far less.\n\nIt suits budget campers who want a layered foam mattress. The listing advises a 48 hour wait for full expansion.",
     "specs": [
       "Gel memory foam, 30D base",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41OQ-rWaiyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HDY6WZ8C?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HDY6WZ8C?tag=rvgearlab-amz-20",
     "description": "ECOBOSS ships five 100W 12V N-type panels with 16BB cells at up to 25.8 percent efficiency and TÜV certification. The low-profile frames have pre-drilled mounting points, and a low temperature coefficient keeps output up in heat.\n\nAt about $237 it gives 500W for $8 more than the ECO-WORTHY 400W set. Five small panels also fit a roof more flexibly than two big ones, and they cost more to wire.\n\nChoose it for a van or shed roof where you need to work around vents. TÜV certification is a mark of independent testing for safety and reliability.",
     "specs": [
       "Five 100W N-type panels, 500W",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51MfdHGrerL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CYH13JJK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CYH13JJK?tag=rvgearlab-amz-20",
     "description": "ECO-WORTHY ships four 100W bifacial N-type panels built on 16BB cells with efficiency up to 25 percent. Each has 35 inch cables, bypass diodes in an IP68 junction box and a 1.18 inch thick body for heat dissipation, and the set suits 12V or 24V systems.\n\nAt about $230 it is the cheapest set in the guide and the only one with bifacial panels. The ECOBOSS gives 100W more for $8 more.\n\nChoose it for a ground mount or a flat roof where reflected light helps. It suits cabins and sheds.",
     "specs": [
       "Four 100W bifacial N-type, 400W",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Td7E73d8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FCC747WN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FCC747WN?tag=rvgearlab-amz-20",
     "description": "VLAIAN is a foldable 400W panel with 23.5 percent monocrystalline cells, an ETFE surface and IP68 waterproofing. It has a support bracket for angling, comes with a 5.25 foot cable with MC4 to Anderson, XT60, XT90, DC7909 and DC5521 adapters and a 3-in-1 DC connector.\n\nAt about $300 it costs about $70 more than the rigid 400W set and folds to travel. The DOKIO 800W gives twice the watts for $190 more.\n\nChoose it for a big power station that accepts 400W of solar and a camp where the panel moves. It suits overlanding.",
     "specs": [
       "400W foldable, 23.5% cells",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41fB7Q6bcHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GXYT9C87?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GXYT9C87?tag=rvgearlab-amz-20",
     "description": "LVYUAN is a 500W foldable blanket panel with a 48V Vmp and 56.64V Voc rating, IP64 protection and four adapters. It packs down to roughly 19 by 22 inches.\n\nAt about $440 it costs $140 more than the VLAIAN and is made for a station whose high-voltage input accepts 48V. The 48V rating limits which stations work.\n\nChoose it for a high-voltage power station and a compact fold. The voltage ratings are stated clearly.",
     "specs": [
       "500W, 48V Vmp, 56.64V Voc",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51IW3hgoNdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DMSKP7JD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DMSKP7JD?tag=rvgearlab-amz-20",
     "description": "DOKIO ships two 400W 31V monocrystalline panels with glass and aluminum frames and 3 meter MC4 leads on each panel. The set suits 12V or 24V systems and totals 800W.\n\nAt about $490 it is the most expensive pick and gives the most watts, about $0.61 per watt against $0.47 for the ECOBOSS. The panels are large rigid panels that need a roof or ground frame.\n\nChoose it for an off-grid cabin or an RV roof that needs 800W of solar. It needs a controller and brackets.",
     "specs": [
       "Two 400W 31V panels, 800W",

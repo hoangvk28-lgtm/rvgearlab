@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21FF6-gTMcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FF4V2GRC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FF4V2GRC?tag=rvgearlab-amz-20",
     "description": "Hillhub is a 3000 watt, 120 volt electric tankless point-of-use heater with a cast aluminum heating element and a 3 second hot water claim. The listing gives 2.2 to 3 liters per minute, an adjustable 86 to 131 degree F range and a compact 7.87 by 2.44 by 6.38 inch body.\n\nAgainst xwdzswgs, it has a stated temperature range and a touch panel. Against CAMPLUX 4.5kW, it draws less power.\n\nIt is the best match for a small RV sink where a 3000 watt draw is acceptable. It earns its slot for single sink hot water.",
     "specs": [
       "3000W, 120V point-of-use",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/419e1zH1PtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FTCMVRY3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FTCMVRY3?tag=rvgearlab-amz-20",
     "description": "xwdzswgs is a 110 volt, 3000 watt electric tankless heater with an LED display, IPX4 waterproofing and leakage and dry-burn protection. It uses 1/2 inch NPT connections and has pre-drilled mounting holes.\n\nAgainst Hillhub, it costs less and has fewer stated flow numbers. Against CAMPLUX 4.5kW, it draws less power.\n\nIt suits budget buyers who want electric tankless at a sink. It is a natural fit for budget sink heater.",
     "specs": [
       "3000W, 110V electric tankless",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21JC6kmnmvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GXCTCHKQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GXCTCHKQ?tag=rvgearlab-amz-20",
     "description": "CAMPLUX 4.5kW is a 120 volt under-sink electric tankless heater with a self-modulating design and a 50 degree F temperature rise at 1.0 GPM stated. The listing says it must be hard wired and needs a 40 amp breaker, 10 gauge wire and a 1/2 inch NPT connection.\n\nAgainst Hillhub, it gives a temperature-rise figure at a flow. Against the propane units, it needs a heavy electrical circuit.\n\nIt suits owners with a dedicated 40 amp circuit and a short plumbing run. Think of it as the pick for dedicated-circuit installs.",
     "specs": [
       "4.5kW @ 120V",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Vwida+QtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BML288XM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BML288XM?tag=rvgearlab-amz-20",
     "description": "FOGATTI InstaShower 7 is a propane tankless heater at 48,000 BTU, with a listing stating 2.5 gallons per minute and a CSA-certified, forced-exhaust design. It lists a high-altitude mode to 9,800 feet, anti-scald protection and a 150 PSI pressure relief valve.\n\nAgainst the electric units, it runs on propane and does not need a big electrical circuit. Against MapleGrace, it has a stated flow.\n\nIt suits full RV showers when an electric unit would overload your power. Buyers focused on whole-rv showers will find it a sensible match.",
     "specs": [
       "Propane tankless, 48,000 BTU",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51FhXyxFjxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HBQCYSHQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HBQCYSHQ?tag=rvgearlab-amz-20",
     "description": "MapleGrace is a 55,000 BTU propane tankless heater, listed as CSA Certified, with a forced exhaust fan and a digital control from 95 to 123 degrees F. It has an exterior front outlet for outdoor use.\n\nAgainst FOGATTI InstaShower 7, it has more BTU at a lower price. Against Hillhub, it is propane.\n\nIt suits owners wanting low-cost propane tankless with an outside outlet. It earns its slot for budget propane tankless.",
     "specs": [
       "55,000 BTU propane tankless",

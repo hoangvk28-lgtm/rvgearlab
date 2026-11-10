@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41MP+LromxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00NNMF70U?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00NNMF70U?tag=rvgearlab-amz-20",
     "description": "Rated at 2700W, the BRS-3000T is a titanium burner of just 25 g that screws straight onto a threaded canister. It lists a boil time of about 2 minutes 58 seconds for 1 liter and uses around 140 g of gas per hour.\n\nIt is the lightest stove here by a wide margin and the cheapest, at under $17. The CAMPINGMOON adds a regulator and a folding stand for $13 more, and the heavier stoves trade weight for stability.\n\nIt suits thru-hikers and weekend backpackers who want the lowest possible base weight for a stove. It nests inside a small pot with a 110 g canister.",
     "specs": [
       "25 g titanium, 2700W",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41OYN9BDKML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BBTW4PTZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BBTW4PTZ?tag=rvgearlab-amz-20",
     "description": "CAMPINGMOON builds the XD-2-NE from 430 stainless steel, with a pot support that folds and removes from the body and a regulator inside to keep flow steady as the canister empties. It has no igniter and comes with a canvas storage bag.\n\nIt costs about $13 more than the BRS and gives a sturdier stand and regulated flow in the cold. The stainless body weighs more than the titanium stoves, which makes it a fit for shorter trips.\n\nIt suits backpackers who want a regulated, durable stove for car-to-trail trips. Keep a lighter handy.",
     "specs": [
       "430 stainless steel body",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41JQStwqWyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09QCRXGKK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09QCRXGKK?tag=rvgearlab-amz-20",
     "description": "Boundless Voyage sells this titanium alcohol stove set at 3.7 oz or 107 g with a fire cover and storage bag. A double-layer burner with 24 micropores, a folding flame regulator and brackets with 12 holes that turn it into a wood stove come in the kit.\n\nIt costs about $13 more than the BRS and needs no pressurized canister, which means you carry fuel in a bottle. The flame regulator and wood option give a flexibility the gas burners lack, and boils take longer.\n\nIt suits minimalist backpackers who like alcohol or twigs for fuel. It is silent and has no moving parts.",
     "specs": [
       "3.7 oz titanium set with cover",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51MzUmOLIuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CW6KRZD7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CW6KRZD7?tag=rvgearlab-amz-20",
     "description": "The Facitsolvit lists 6,800W from three brass burners and a boil time of under 2 minutes for 1 liter. Fuel choices cover isobutane, butane and 1 lb propane, and a 50 cm hose keeps the canister back from a pot support rated for 10 kg.\n\nIt costs about $8 more than the BRS and takes three canister fuels. The quoted boil time is a best-case figure, and the hose and burner make it bulkier than a screw-on stove.\n\nIt suits campers who want a remote-canister stove for short hikes and base camps. It handles large pots.",
     "specs": [
       "6,800W, three brass burners",

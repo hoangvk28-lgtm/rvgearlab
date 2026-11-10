@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Ch1R+vk-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FBQZHL81?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FBQZHL81?tag=rvgearlab-amz-20",
     "description": "The Gexdes Mini weighs 3.51 ounces (about 100 grams) and comes with a stand, a heat-resistant rubber ring, a pouring bottle and a carry bag. The one-piece aluminum-magnesium frame has a copper tube, and the listing says it boils 550 ml in 8 minutes.\n\nIt is the lightest complete kit here, and its brass screw seal keeps fuel in the tank. Compared with the Keweis Mini it comes with more accessories, and it costs more.\n\nA solid choice for solo backpackers who want a light, spill-resistant kit. No parts to lose.",
     "specs": [
       "3.51 oz one-piece body",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41TVlUYezUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07NXY47BH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07NXY47BH?tag=rvgearlab-amz-20",
     "description": "The Keweis Mini has a brass burner and an aluminum stand that doubles as a windscreen, and it weighs 145 grams (5 ounces). A rubber o-ring seals the cover against leaks, and the listing gives a burn time of about 50 minutes on 100 ml of fuel.\n\nIt costs less than the Gexdes Mini, with a flame regulator that has a foldable handle for controlling and snuffing the flame. The base is under four inches across.\n\nA practical first alcohol stove for weekend hikers on a tight budget. The built-in stand keeps pots steady.",
     "specs": [
       "145 g, brass burner",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41GIUcoZzrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GWN1WG81?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GWN1WG81?tag=rvgearlab-amz-20",
     "description": "The anodized kit combines an alcohol burner with a stainless windproof hearth shelf. The body is anodized aluminum and stainless steel, and the listing says it burns liquid or solid alcohol.\n\nIt is wind-shielded where the Gexdes and Keweis are bare, and it costs more than either. The listing gives no weight or boil time, so judge it on its stove design alone.\n\nRight for fishers and picnic cooks who want a tidy hearth with a wind shield. The hearth shelf stands pots steady.",
     "specs": [
       "Anodized aluminum and stainless",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41wwCVrSZ1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GS8ZMLTT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GS8ZMLTT?tag=rvgearlab-amz-20",
     "description": "The ALOCS system lists 2,250 W with a 200 ml tank and about 4 minutes to boil, using a double-wall 304 stainless body and a foldable aluminum windscreen. It weighs 500 grams (17.6 ounces) as a whole and fits cookware from 3.1 to 10.2 inches.\n\nThe tank burns 35 minutes on high or 150 minutes on low, so it is the heaviest of the group and also the fastest. A 22 pound load capacity supports heavy pots.\n\nA strong option for cooks who care about boil speed and wind. Tool-free assembly takes seconds.",
     "specs": [
       "2,250 W, about 4-minute boil",

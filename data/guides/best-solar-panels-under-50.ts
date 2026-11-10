@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41XfEtRGmNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H4152J7K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H4152J7K?tag=rvgearlab-amz-20",
     "description": "HQST is a 100W 12V monocrystalline panel with Grade A+ 166mm cells at up to 23 percent efficiency, measuring 31.8 by 27.5 by 1.18 inches. It resists 2400Pa wind and 5400Pa snow loads, has IP65 connectors and a junction box, and comes with pre-drilled mounting holes.\n\nAt about $50 it gives double the watts of every 50W panel here for $1 to $13 more. The 50W panels are smaller and a few have newer cells, and this one wins on raw output per dollar.\n\nChoose it for a van roof, a shed or a 12V battery bank that needs real charge. HQST backs it with a 5-year product assurance and 80 percent power retention after 25 years.",
     "specs": [
       "100W 12V, up to 23% efficiency",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41pgRw+njcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DNJK223C?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DNJK223C?tag=rvgearlab-amz-20",
     "description": "Callsun's 50W panel is built from N-type 16BB cells rated 25 percent efficient, under low-iron tempered glass in a corrosion-resistant aluminum frame with an IP67 rated junction box. Most PWM and MPPT controllers work with it, as do 12V AGM, gel and lithium batteries.\n\nIt costs about $44, $6 less than the HQST, for half the output. The ZOUPW undercuts it by $7 and offers a higher efficiency rating, and this one is lighter and carries the IP67 rating.\n\nChoose it for a small 12V system such as a trailer battery tender or a pump. Pre-drilled holes make it suit roof, rail and bracket mounting.",
     "specs": [
       "50W N-type, 25% efficiency",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51E5uHJiriL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DNM3LLYH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DNM3LLYH?tag=rvgearlab-amz-20",
     "description": "ZOUPW is a 50W N-type panel with 16BB cells at 25.6 percent efficiency, an IP68 waterproof rating and a corrosion-resistant aluminum frame. It measures 30.07 by 18.42 by 1.18 inches, weighs 9.01 lb and has a temperature coefficient of -0.3 percent per kelvin.\n\nAt about $37 it is the lowest priced panel in the guide and has the best listed efficiency. The Renogy costs $11 more for a well-known name.\n\nChoose it for the lowest cost of entry into 12V solar. It suits a small battery, a camper fan or a garden pump.",
     "specs": [
       "50W N-type, 25.6% efficiency",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41t2OP6kIZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07GTH79JP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07GTH79JP?tag=rvgearlab-amz-20",
     "description": "Renogy's 50W panel is built on N-type cells rated 25 percent efficient, under tempered glass, with bypass diodes, an IP65 junction box and a frame rated for 2400Pa wind and 5400Pa snow. It has pre-drilled mounting holes and suits 12V battery systems.\n\nAt about $48 it costs $11 more than the ZOUPW and delivers the same 50W, with a better-known name behind it. The Callsun is $5 cheaper.\n\nChoose it if you want an established brand for a trailer or off-grid cabin. Bypass diodes reduce losses when a branch shades part of the panel.",
     "specs": [
       "50W N-type, 25% efficiency",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41AsXb6R0CL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CRB339XB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CRB339XB?tag=rvgearlab-amz-20",
     "description": "SOKIOVOLA is a foldable 50W panel that packs down to 14.69 by 7.88 by 1.19 inches and weighs 2.095 lb. It has a USB-A port with QC3.0 at 18W, a USB-C port with PD at 30W and a DC output at 18V, plus ETFE surface material and mountaineering buckles.\n\nIt is the only pick here that folds and charges a phone directly, at the price of about $50, the highest of the five. The HQST and Renogy panels deliver more watts and are made for fixed mounting.\n\nChoose it for backpacking, a car trunk or a tent where you want to charge phones and small stations. It includes connectors for XT60, Anderson and DC7909.",
     "specs": [
       "50W foldable, 2.095 lb",

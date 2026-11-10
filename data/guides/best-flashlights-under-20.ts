@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51IuXUETdML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BBF161CY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BBF161CY?tag=rvgearlab-amz-20",
     "description": "RECHOO is a four-pack of zoomable aluminum flashlights that claim 1500 lumens, five modes and an IP65 water rating. The telescoping head moves the beam from a wide flood to a tight spot.\n\nAt about $17 it costs $4 more than the Victoper 2-Pack in the rechargeable line and delivers four lights, so each costs about $4. The metal body is sturdier than the plastic IFTHFOUR.\n\nIt suits a family or a group site where every tent needs a light. Keep one in the car, one in the tent and one by the bed.",
     "specs": [
       "Four-pack, 1500 lumens claimed",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41aiTtA0MML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GZ3D5CMD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GZ3D5CMD?tag=rvgearlab-amz-20",
     "description": "DARKBEAM is a USB-C rechargeable flashlight that claims up to 2800 lumens and a 600 ft beam. It has adjustable focus, a digital power display, three modes and a mini 5.3 inch body weighing 4.02 oz.\n\nAt about $12 it costs $5 less than the RECHOO 4-Pack and gives one light with a battery gauge, which the four-pack lacks. It shows how much charge remains.\n\nIt suits a solo camper who wants one dependable light. The power display prevents surprises.",
     "specs": [
       "2800 lumens claimed, 600 ft",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41B8z7KFg-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FQ9WSCSD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FQ9WSCSD?tag=rvgearlab-amz-20",
     "description": "Victoper's Rechargeable 2-Pack gives two USB-rechargeable zoomable flashlights with a stated reach of 656 ft. They offer high, medium and strobe modes in a hard-anodized alloy body.\n\nAt about $13 it costs $3 more than the other Victoper 2-Pack and adds USB charging, so you buy no cells. It has fewer modes than the five-mode pack.\n\nIt suits a couple who want matching rechargeable lights. Charge both before a trip.",
     "specs": [
       "Two USB-rechargeable lights",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51-WqcraUbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09PMKBHF1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09PMKBHF1?tag=rvgearlab-amz-20",
     "description": "Victoper's 2-Pack lists five modes, a zoomable beam and a reach of up to 656 ft in a hard-anodized alloy. Both lights ship in one pack.\n\nAt about $10 it costs $3 less than the rechargeable Victoper and adds two modes. It is the budget pair for people who already own spare cells.\n\nIt suits a camper who wants a spare. Zoom suits both reading and spotting.",
     "specs": [
       "656 ft reach, five modes",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51sNziwDmPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DWZR12GM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DWZR12GM?tag=rvgearlab-amz-20",
     "description": "IFTHFOUR is a solar flashlight with four lighting modes, including a spotlight, a red searchlight and a work light. It charges by solar or USB in 2 to 3 hours, doubles as a power bank and has an IPX5 water rating.\n\nAt about $10 it costs $2 less than the DARKBEAM and can charge itself in the sun, which no other pick can. Its ABS and PC body is lighter than the metal lights.\n\nIt suits an emergency kit or a car glovebox. Solar charging helps when power is out.",
     "specs": [
       "Solar and USB charging",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51TDva7fH0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CMGQZLPW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CMGQZLPW?tag=rvgearlab-amz-20",
     "description": "VTech Tactical is a two-pack of zoomable rechargeable flashlights with five settings (low, medium, high, strobe and SOS). They claim 100 to 1000 lumens and resist splashes from any angle.\n\nAt about $8 it is the cheapest pick and costs $2 less than the Victoper 2-Pack. It also adds SOS.\n\nIt suits a spare pair for a glovebox and a tent. The SOS mode is handy in an emergency.",
     "specs": [
       "Two rechargeable lights",

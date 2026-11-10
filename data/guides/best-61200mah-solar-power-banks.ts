@@ -31,7 +31,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41cG+9ojiOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CYPK39VS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CYPK39VS?tag=rvgearlab-amz-20",
     "description": "The ReeZar Solar Charger Power Bank states 61200mAh outright, which makes it the one listing that matches the keyword exactly. It offers PD 15W and QC 3.0 output, an IPX7 rating and four built-in cables, and it refills by hand crank, solar panel or cable for $29.99.\n\nCompared with the 66800mAh bank below it, the ReeZar is the lower-priced way into a giant reserve and adds four built-in cables plus an IPX7 water rating. Compared with the compact Luvknit at the bottom of the list, it stores roughly three times the charge for a $13 step up in price.\n\nIt is the pick for RV and camping owners who want a large emergency reserve that can be refilled in three different ways, kept in a cabinet for outages and long off-grid weekends.",
     "specs": [
       "61200mAh, PD 15W and QC 3.0",
@@ -61,7 +61,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Y5C78PcFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DPHBYWS2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DPHBYWS2?tag=rvgearlab-amz-20",
     "description": "The Solar Power Bank Portable Charger 66800mAh is the largest cell in this roundup at $49.99. It pairs a hand crank with a 22.5W USB-A port and a 5V/3A Type-C port, and it doubles as a lamp with a compass carabiner attached.\n\nCompared with the ReeZar above it, this unit adds roughly 5,600mAh of stated capacity, a faster USB-A port and lamp features for night walks around camp. Compared with the Luvknit below it, it brings a far larger store of energy for longer stays away from outlets.\n\nIt suits campers and boondockers who want the most stored charge available, plus a lamp and compass for evenings, and who keep the bank in the vehicle or the coach.",
     "specs": [
       "66800mAh, hand crank",
@@ -91,7 +91,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/513DmxvOuXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GXHTW5N4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GXHTW5N4?tag=rvgearlab-amz-20",
     "description": "The Luvknit Solar Charger Power Bank is a 20000mAh unit at $16.99 with a built-in Qi wireless pad and three built-in cables. A small solar panel and a 3-mode LED light round out the kit, and the body is described as shockproof and waterproof.\n\nCompared with the ReeZar above it, the Luvknit brings a wireless charging surface and a lighter overall package at the lowest price in the group. It still holds enough for several phone charges, which is plenty for a typical weekend.\n\nIt is the best match for day trippers, weekend campers and anyone who wants a light, low-cost bank with wireless charging and a lamp for the picnic table or tent.",
     "specs": [
       "20000mAh, Qi wireless",

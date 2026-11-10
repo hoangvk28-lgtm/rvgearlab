@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41gF-O89ppL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CHS2P3W4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CHS2P3W4?tag=rvgearlab-amz-20",
     "description": "The Renogy comes as a pair of 12V 200Ah deep-cycle AGM batteries, with 2000A max discharge current and a 2-year warranty. The listing states performance from -4F to 140F and monthly self-discharge below 3 percent at 77F.\n\nThat is 400Ah of nominal capacity, far more stored energy than the Interstate or the GRECELL. Sealed, valve-regulated cells mean no water refilling.\n\nIt suits full-time and long-stay RVers who want to wire a house bank into the coach. The cold-weather range is useful in shoulder seasons.",
     "specs": [
       "Two 12V 200Ah deep-cycle",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31zt+XjvDCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BHX3FBCQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BHX3FBCQ?tag=rvgearlab-amz-20",
     "description": "The Interstate Group 31 is a 12V 100Ah AGM rated 925CCA, built as both a cranking and deep-cycle battery. Its pure lead plates are stated to last 2 to 3 times longer than flooded types.\n\nIt is one battery rather than a pair, so it replaces a single RV house or chassis battery in a Group 31 tray. It carries a recognised brand name.\n\nIt suits small trailers and campers whose box already takes a Group 31. The dual-purpose design adds starting duty.",
     "specs": [
       "12V 100Ah Group 31 AGM",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/415aZI0g+0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DKWXX136?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DKWXX136?tag=rvgearlab-amz-20",
     "description": "The GROWATT HELIOS 3600 combo is two 3600Wh LFP power stations that can run in parallel for 240V and 7200W. Each unit takes 2000W of solar and fills in about 1.5 hours with AC and DC hybrid charging, with app control and sub-15ms switchover.\n\nIt is the highest-output option here by a wide margin, and capacity expands to 36kWh. That dwarfs the 230Wh GRECELL.\n\nIt suits large rigs with big solar arrays and sedentary base camps that want home-scale power. The combo is sold as a home backup system.",
     "specs": [
       "2 x 3600Wh LFP, 7200W",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/413+XfLom5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CQNNCVCX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CQNNCVCX?tag=rvgearlab-amz-20",
     "description": "The GRECELL is a 330W (600W surge) power station with 230.88Wh and one pure sine AC outlet. Its ports include a 60W USB-C PD, three USB-A, a car port, two DC5521 and a 5W wireless pad.\n\nIt is the smallest and most portable unit in the guide, and it can recharge from a wall, car or solar. A built-in LED flashlight and BMS protections come standard.\n\nIt suits RVers who want a grab-and-go power source for phones, laptops and a fan. The pure sine wave suits sensitive gear.",
     "specs": [
       "230.88Wh, 330W pure sine",

@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/417L6lQRMoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GS94YT4W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GS94YT4W?tag=rvgearlab-amz-20",
     "description": "The Arsenda 18,000 BTU unit adds a heat pump with 10,236 BTU of heating, 50 dB operation and a 23°F to 115°F working range. The Arsenda 18,000 BTU unit adds a heat pump with 10,236 BTU of heating, 50 dB operation and a 23°F to 115°F working range.\n\nIt is listed for interiors up to 680 square feet and costs about 310 dollars less than the Furrion. It needs both 115V AC and 12V DC power.\n\nIt is listed for interiors up to 680 square feet and needs both 115V AC and 12V DC power. It suits owners of large rigs who want cooling and mild heat.",
     "specs": [
       "18,000 BTU, 10,236 BTU heat",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31WqI6q+x3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DM6XX7BJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DM6XX7BJ?tag=rvgearlab-amz-20",
     "description": "The Furrion Chill Cube 18K is non-ducted with variable speed compressors and a bolt-on installation. The Furrion Chill Cube 18K is a non-ducted rooftop unit with variable speed compressors and a bolt-on installation.\n\nIt lists higher capacity and efficiency than typical RV ACs for better battery runtime. It is the highest priced of the six.\n\nIt lists higher cooling capacity and efficiency than typical RV ACs for better battery runtime. It suits owners who want an efficient, established brand.",
     "specs": [
       "18K non-ducted rooftop",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41T22ygL5wL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GLFR3DGJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GLFR3DGJ?tag=rvgearlab-amz-20",
     "description": "The Tusoma 18,000 BTU is a non-ducted heat pump with 10,236 BTU heating and 50 dB operation. The Tusoma 18,000 BTU unit is a non-ducted heat pump with 10,236 BTU of heating and 50 dB operation.\n\nIt costs about 85 dollars less than the YT4W Arsenda and has the same heating figure. It also needs both 115V AC and 12V DC power.\n\nIt requires connection to both a 115V AC and a 12V DC supply. It suits owners who want a lower-priced heat pump.",
     "specs": [
       "18,000 BTU non-ducted",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41VcQhyu6-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H6WQ4RMR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H6WQ4RMR?tag=rvgearlab-amz-20",
     "description": "The second Arsenda uses R32 refrigerant, UV-resistant materials and a 14.25 inch non-ducted roof opening with 10,236 BTU of heating. The second Arsenda 18,000 BTU heat pump uses R32 refrigerant, UV-resistant materials and a non-ducted 14.25 inch roof opening.\n\nIt costs the same as the Tusoma and is a sibling of the YT4W Arsenda. It works in a 23°F to 115°F range.\n\nIt works in a 23°F to 115°F range and carries a 10,236 BTU heating rating. It suits owners who want R32 efficiency at a low price.",
     "specs": [
       "18,000 BTU heat pump",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Sf5J9onSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H2M59R2L?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H2M59R2L?tag=rvgearlab-amz-20",
     "description": "The KINGRVER white unit is 18,000 BTU cooling only, ducted, with 52dB operation. The KINGRVER 18,000 BTU unit is a cooling-only, ducted rooftop air conditioner in white with 52dB operation.\n\nIt costs about 125 dollars more than the Tusoma and adds no heat. It suits medium to large RVs.\n\nIt needs both 115V AC and 12V DC connections and is aimed at medium to large RVs. It suits owners with a ducted rig who do not need heat.",
     "specs": [
       "18,000 BTU ducted",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41qPHzD-XmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H38NM29M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H38NM29M?tag=rvgearlab-amz-20",
     "description": "Cooling-only 18,000 BTU ducted performance comes in a gray shell on the KINGRVER, with operation listed at 52dB. It is the same rooftop unit as the white model.\n\nThe gray version matches the white model on price. The choice is purely about finish.\n\nBoth 115V AC and 12V DC feeds are part of the install. Pick it if gray blends better with the roofline of your rig.",
     "specs": [
       "18,000 BTU ducted",

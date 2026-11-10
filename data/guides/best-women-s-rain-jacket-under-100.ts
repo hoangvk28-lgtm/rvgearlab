@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41o-BAvLysL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08QD2MV7T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08QD2MV7T?tag=rvgearlab-amz-20",
     "description": "The baleaf Packable is a women's shell with fully seam-sealed, water-repellent fabric that lists over 5000mm pressure head and a 3000g/m2 breathability rating. It weighs about 285g, packs into its back pocket and has back vents, five pockets for a 6.5 inch phone and an elastic hood cord.\n\nCompared with the SaphiRose Waterproof Long, it is far lighter at 285g versus about 1.3 to 1.5 lb. Against the Hount Pouch Jacket, it adds sealed seams and vents.\n\nIt suits hikers, runners and travelers who want a technical, light shell. The hood protects your face in wind.",
     "specs": [
       "5000mm, 3000g/m2 ratings",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41G0f4sRRrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07XDR6J3Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07XDR6J3Y?tag=rvgearlab-amz-20",
     "description": "The SaphiRose Waterproof Long is a women's long raincoat with a 100% polyester 2L shell and a waterproof membrane. It weighs about 1.3 to 1.5 lb, has an adjustable drawstring waist and hood and two snap pockets.\n\nAgainst the SaphiRose Lined Hooded, it uses a membrane for waterproofing rather than a water-resistant shell. Compared with the baleaf Packable, it is longer and heavier.\n\nIt suits errands, dog walks and travel in steady rain. The listing says it is breathable and light for spring to fall.",
     "specs": [
       "100% polyester 2L shell, membrane",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4199Hhf7WeL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07XDNKCL6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07XDNKCL6?tag=rvgearlab-amz-20",
     "description": "The SaphiRose Lined Hooded is a hip-length women's coat with a 100% polyester water-resistant shell and a soft lining. It has bound seams inside, adjustable waist and hood drawstrings, and lined sleeves.\n\nCompared with the SaphiRose Waterproof Long, it is softer and lined and weighs about 2 lb. Against the TCOT Striped Lined, it adds bound inside seams.\n\nIt suits light rain and cool days. The listing says it runs large.",
     "specs": [
       "Water-resistant polyester, lined",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411HCLQ+LlL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FRFR4MZ5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FRFR4MZ5?tag=rvgearlab-amz-20",
     "description": "The TCOT Striped Lined is a long women's trench-style raincoat with a full striped lining and waterproof material. It has a 2-way full zip, a hidden adjustable waist drawstring, a hood and side pockets.\n\nCompared with the SaphiRose Lined Hooded, it uses a trench cut and a 2-way zip. Against the UIQUR Cycling, it is longer and lined.\n\nIt suits commuters and travelers who want a smart look. The listing says it fits in a day pack.",
     "specs": [
       "Full striped lining",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31QkSXWLg5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09CV3NL74?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09CV3NL74?tag=rvgearlab-amz-20",
     "description": "The Hount Pouch Jacket is a 100% polyester women's jacket that the listing calls lightweight, waterproof and packable with a pouch. It has a drawstring hood and hem, no lining, two front pockets, elastic cuffs and a waterproof zipper.\n\nAgainst the UIQUR Cycling, it comes with a carry pouch and a waterproof zipper. Compared with the baleaf Packable, it drops vents and sealed seams for a lower price.\n\nIt suits travelers and casual hikers on a budget. The hood protects the neck and head.",
     "specs": [
       "100% polyester, unlined",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41NfahcTR-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GJS5T1DD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GJS5T1DD?tag=rvgearlab-amz-20",
     "description": "The UIQUR Cycling is a women's polyester jacket described as waterproof, windproof and scratch-resistant. Even a 3XL weighs about 0.61 lb, and it has an adjustable hood, elastic cuffs and two big side pockets.\n\nCompared with the Hount Pouch Jacket, it states a weight and adds abrasion resistance. Against the baleaf Packable, it is simpler and lower priced.\n\nIt suits cyclists and walkers who want a very light cover. The listing mentions cycling, running and golf.",
     "specs": [
       "0.61 lb even in 3XL",

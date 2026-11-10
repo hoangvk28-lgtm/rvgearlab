@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41+zi-7LuRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B075V98PQY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B075V98PQY?tag=rvgearlab-amz-20",
     "description": "The 50 foot white 2 inch RoofSeal from EternaBond is built around MicroSealant at 35 mil total thickness with aluminum backing with UV stability. The listing states that no extra sealer is needed.\n\nIt is the full-length brand roll in this list. The shorter 3 inch and 4 inch rolls cost less in total but give less length.\n\nIt fits owners who need long seams on a rubber roof. On eternabond tape for epdm rv roof, long narrow seams is where it fits.",
     "specs": [
       "2 in x 50 ft white",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41THZ9bbacL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07F9G63N8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07F9G63N8?tag=rvgearlab-amz-20",
     "description": "The UBREW USA listing sells a 3 inch by 50 foot EternaBond white roll, described as an authentic RV and mobile home roof seal and leak repair tape. It sits between the 2 inch and 4 inch widths.\n\nIt gives more overlap than the 2 inch roll for a moderate price. It offers less detail than the manufacturer's own listing.\n\nIt fits owners who want extra overlap without a wide roll. Among eternabond tape for epdm rv roof, think moderate seams.",
     "specs": [
       "3 in x 50 ft white",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/515cTWvK0gL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B079K6F4QF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B079K6F4QF?tag=rvgearlab-amz-20",
     "description": "The EternaBond white 3 inch by 10 foot roll is cut from new master rolls and sold as a rubber roof repair tape. It lists sealing any rip, tear or open seam and re-seaming roofs of any material.\n\nIt is a low-cost way to try the system. It is much shorter than the 50 foot rolls.\n\nIt fits owners with one small repair. For eternabond tape for epdm rv roof, it suits single small repair.",
     "specs": [
       "3 in x 10 ft white",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31kYqRtA89L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00CEL0TCW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00CEL0TCW?tag=rvgearlab-amz-20",
     "description": "The EternaBond tan 4 inch by 10 foot roll is cut from new master rolls for rubber roof repair. It lists sealing rips, tears and open seams.\n\nThe tan color suits tan or beige roofs and trim. It is shorter than the 50 foot rolls.\n\nIt fits owners with tan roofs and a single patch. Among eternabond tape for epdm rv roof, think tan trim patches.",
     "specs": [
       "4 in x 10 ft tan",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41cW42oZTzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D4DT4ZDL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D4DT4ZDL?tag=rvgearlab-amz-20",
     "description": "The PAULINN black 6 inch by 50 foot butyl tape is described as self-priming, super sticky and thick. It has a protective silicone coating and lists UV and weather resistance.\n\nIt suits dark or metal edges more than white rubber roofs. It costs far less than EternaBond.\n\nIt fits owners with dark trim or wide seams. Under eternabond tape for epdm rv roof, expect dark wide seams to suit it.",
     "specs": [
       "Black butyl, 6 in x 50 ft",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41NM8vYM3dL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BPB5V73Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BPB5V73Q?tag=rvgearlab-amz-20",
     "description": "The FastSeal 12 inch by 50 foot white tape is industrial-grade RV roof repair tape with a flexible rubber surface. It lists a high coefficient of expansion for temperature swings.\n\nIt is by far the widest roll here. It is also the most expensive.\n\nIt fits owners with large tears. Among eternabond tape for epdm rv roof, think large tears.",
     "specs": [
       "12 in x 50 ft white",

@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410jTuyTbvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DNV2BT3Z?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DNV2BT3Z?tag=rvgearlab-amz-20",
     "description": "The WEN 56250iX has an 80cc engine that produces 2500 surge watts and 1900 rated watts, with two three-prong 120V receptacles, two 5V USB ports, an hour meter and a 37.5-pound body. The Watchdog carbon monoxide sensor shuts it down if dangerous levels are detected, fuel shutoff burns off carburetor fuel before shutdown, and the warranty is three years.\n\nIt ranks first for the combination of CO shutoff, three-year warranty and the only stated weight in this guide. It costs $1.79 more than the plain WEN 56250i, which lacks the CO sensor, $21.39 more than the PowerSmart with the longer runtime, and $71.39 more than the BILT HARD, which lists a CO sensor and a two-outlet panel but a shorter runtime.\n\nPick it if the generator will run near your sleeping area or you want the safest stated protection and the longest warranty. The caveat is the listing gives no decibel figure, no runtime, no tank size and no RV-specific outlet, so you will need an adapter for a 30A inlet.",
     "specs": [
       "1900W rated, 2500W surge",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41U7avjMVcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B089FDFDH5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B089FDFDH5?tag=rvgearlab-amz-20",
     "description": "This PowerSmart lists 2500 peak watts and 1900 rated watts with total harmonic distortion under 3 percent, a 1.06-gallon tank for up to 8 hours at 25 percent load, and 52 dBA from 23 feet at 25 percent load. The panel has a 120V 20A duplex outlet, a 12V 8A DC port and two 5V 2.1A USB ports, and the warranty is two years with lifetime technical support.\n\nIt ranks second because it states both noise and runtime at a defined load, which makes its claims checkable. It costs $40.00 more than the other PowerSmart, which lists 59 dBA and 7.5 hours, and $21.39 less than the WEN 56250iX. The 52 dBA figure is at a quarter load, so it will be louder when you run a large appliance.\n\nPick it for quiet campsites where overnight runtime on one tank matters. The caveat is a shorter two-year warranty than WEN, no stated CO sensor, and only one 20A outlet.",
     "specs": [
       "1900W rated, THD under 3%",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41kpKUj59XL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GS94JHJ3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GS94JHJ3?tag=rvgearlab-amz-20",
     "description": "The Aceup Energy generator lists 2500 peak and 1900 rated watts, a 120V 20A outlet, a dedicated RV receptacle and a USB port, plus a parallel-ready design (the kit is sold separately). It reports about 62 decibels in Eco mode at 23 feet and 25 percent load, total harmonic distortion below 3 percent, an EPA-compliant engine, a digital gauge showing voltage, runtime, fuel level, frequency and output, and a 3-in-1 control knob.\n\nIt ranks third because the listing names a dedicated RV receptacle, which is rare at this size, though it does not state the amp rating. It costs $0.20 less than the BILT HARD but lists no CO sensor or tank size. It is $50.20 less than the PowerSmart 52 dBA and 10 decibels louder at the same stated load.\n\nPick it if you want to plug an RV cord straight in and may add a second unit later. The caveat is that 62 decibels is the loudest stated figure here, so it suits RV parks more than quiet campsites.",
     "specs": [
       "1900W rated, RV receptacle",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41foXvygQkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F4KRS57W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F4KRS57W?tag=rvgearlab-amz-20",
     "description": "The BILT HARD 2500W lists 2500 starting watts and 2000 running watts, which is 100W more running than the other picks. It has an 80cc four-stroke OHV engine, a 1.11-gallon tank with up to 5.5 hours at 50 percent load, two 120V 15A outlets (NEMA 5-20), a 12V 8A DC output, total harmonic distortion under 3 percent, parallel capability and a carbon monoxide sensor. It runs on 87 octane gasoline and 10W-30 oil.\n\nIt ranks fourth. It is $0.20 more than the Aceup and $10.00 less than the PowerSmart 59 dBA, but its stated runtime is at 50 percent load, which makes it appear shorter than the 25 percent load figures on the PowerSmarts. At equal loads they would be much closer, so the numbers should not be compared directly.\n\nPick it for two outlets, a CO sensor and 2000W running power at a low price. The caveat is no stated noise level and no stated warranty length in the listing, so ask before you buy.",
     "specs": [
       "2000W running, 2500W start",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41U7avjMVcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D9615XGJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D9615XGJ?tag=rvgearlab-amz-20",
     "description": "This PowerSmart lists 2500 starting watts and 1900 running watts, clean power for electronics, a 1.06-gallon tank for 7.5 hours at 25 percent load, 59 dBA at 23 feet, a 120V 20A duplex outlet, a 12V 8A DC port, two 5V 2.1A USB ports and an Eco mode. It has a two-year warranty with lifetime technical support.\n\nIt ranks fifth because it is nearly the same generator as the PowerSmart 52dBA, but louder by 7 decibels and 30 minutes shorter on runtime, for $40.00 less. Next to the BILT HARD it costs $10.00 more but lists a lower running figure of 1900W, no CO sensor and a quieter stated noise level.\n\nPick it if you want a known-warranty PowerSmart at $309.99 and do not mind a bit more noise. The caveat is the missing CO sensor and the fact that the load behind the 59 dBA figure is not stated.",
     "specs": [
       "1900W rated, Eco mode",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41wFmLbeWAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DNV2TFPT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DNV2TFPT?tag=rvgearlab-amz-20",
     "description": "The WEN 56250i has the same 80cc engine as the iX, with 2500 surge and 1900 rated watts, fuel shutoff, two three-prong 120V receptacles, two 5V USB ports, an hour meter, a 37.5-pound body and a three-year warranty. The difference is that the listing does not mention the Watchdog carbon monoxide sensor.\n\nIt ranks last because it costs $369.59, only $1.79 less than the WEN 56250iX, and it gives up the CO sensor. Against the PowerSmart 52dBA it costs $19.60 more and offers a longer warranty and lower weight, but no stated decibel or runtime figures.\n\nPick it only if you find it cheaper than the iX when you check, and you will always run it outdoors with a separate CO alarm nearby. The caveat is the missing sensor, which is the main reason to prefer the iX.",
     "specs": [
       "1900W rated, 2500W surge",

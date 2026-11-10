@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Ljz4JbY3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DQWBPTTP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DQWBPTTP?tag=rvgearlab-amz-20",
     "description": "The Warmco D4 pairs a 20,000mAh battery with a stated 48 hours on low and 15 hours on high. It weighs 1.72 lbs, measures 1.77 inches thick and lists a 6 inch blade.\n\nNext to the FRIZCOL it trades a little battery size for a slimmer body and a quieter low setting under 45dB. Compared with the Ausic ceiling fan, it packs into a backpack instead of needing a gazebo or canopy frame.\n\nIt suits campers who want one dependable fan for a two-night trip. The LED display shows battery level and speed, and the 5V/2.4A output can top up a phone.",
     "specs": [
       "20,000mAh, 48H low",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51fuC7He8AL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HCBFW1ZK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HCBFW1ZK?tag=rvgearlab-amz-20",
     "description": "The FRIZCOL carries a 24,000mAh pack that the listing rates at 11 to 60 hours. It has four speeds, three timers and a two-level LED light, with noise listed under 30dB.\n\nIt out-sizes the Warmco's pack and adds timers, which suits sleeping through the night without the fan running at dawn. Against the ROSHOPI it offers a bigger pack at a similar everyday role.\n\nIt fits families who want the largest rechargeable pack on this list at a modest price. Sturdy ABS housing and an anti-drop design suit a fan that gets tossed in a gear bin.",
     "specs": [
       "24,000mAh, 11 to 60 hours",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/519O-B290hL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F21P79MM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F21P79MM?tag=rvgearlab-amz-20",
     "description": "The ROSHOPI folds a fan, a lantern and a power bank into one body with 2A Type-C fast charging. The listing states 8 to 30 hours of airflow, 16 ft/s air speed, noise under 30dB and a 270 degree adjustable head.\n\nIt carries a smaller pack than the Warmco or FRIZCOL, which shows in the runtime range. In return it is the cheapest rechargeable pick and still adds Type-C charging that the D-cell Gazeled cannot match.\n\nIt works for day trips, car camps and tent nights that run one or two evenings. Dual buttons control speed and light without a remote.",
     "specs": [
       "8 to 30 hours airflow",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41YIf3scW4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GFW1X5BZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GFW1X5BZ?tag=rvgearlab-amz-20",
     "description": "The Ausic is a 21 inch ceiling-style fan with a 20,400mAh battery, a brushless motor and a light bar. A remote works from about 40 ft, and the fan detaches to work as a lantern.\n\nIt moves more air across a large space than the compact fans and hangs from a canopy or gazebo frame. The tent-sized Warmco and ROSHOPI cannot cover a picnic shelter the same way.\n\nIt fits campers with a screen house, canopy or pavilion at a group site. The detachable design lets the light travel while the fan stays put.",
     "specs": [
       "21 inch ceiling-style fan",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51WS5nnoO0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07QKMZ4NR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07QKMZ4NR?tag=rvgearlab-amz-20",
     "description": "The Gazeled is a 5 inch desk fan that runs on four D-cell batteries, which are not included. It also accepts USB power, has a timer and a 180 degree rotation head, and lists 50dB operation.\n\nIt is the only pick here that keeps working on fresh cells with no charging at all, while the rechargeable fans depend on a pack you must top up. The tradeoff against the Warmco is a smaller blade and louder low setting.\n\nIt suits emergency kits and trips where recharging is unlikely. A USB cable also lets it run from a power bank or car charger.",
     "specs": [
       "Four D-cell batteries",

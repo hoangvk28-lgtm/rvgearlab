@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41UXnVGWiRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B48C7RRF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B48C7RRF?tag=rvgearlab-amz-20",
     "description": "The WFCO WF-9855-AD-CB leads this roundup because it is the same deck-mount format that most travel trailers leave the factory with, so it drops into the existing bay without guesswork. Its patented Auto-Detect circuit reads whether you have lead-acid or LiFePO4 batteries and picks the right multi-stage profile on its own, and WFCO rates it for full output down to 100 volts of shore input.\n\nThat low-voltage rating is the real gap between it and the PowerMax PM4-55A ranked second. At a crowded park where the pedestal sags on a hot afternoon, a converter that throttles back leaves you charging slower than you expect, and WFCO specifically calls this out. It is also UL/CSA listed and FCC compliant, which none of the budget clones below document. You pay roughly $100 more than the PowerMax for that peace of mind.\n\nPick this if you want an OEM-grade replacement that handles a future lithium upgrade with no switch to remember. The caveat is that auto-detection can be confused by a battery that is deeply discharged or sitting behind a solar controller, so check its status light after install.",
     "specs": [
       "55A, auto lead-acid/LiFePO4",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51aUI8N62RL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01ER3LH1G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01ER3LH1G?tag=rvgearlab-amz-20",
     "description": "The PowerMax PM4-55A is a standalone deck-mount converter that delivers up to 55 amps of regulated 12V power and uses an adjustable output so it can be set up for lithium charging. It also carries current limiting, reverse-polarity, and thermal protection.\n\nCompared with the WFCO above, it skips auto-detection and the documented 100V low-input rating, which is why it sits second. In exchange it costs about $106 less and gives you hands-on control of the output, which some owners prefer once they have a battery with a specific charge voltage. It edges out the RecPro ranked just below on brand track record in the RV replacement market, though the two are close on price.\n\nThis suits a DIY owner comfortable reading a battery spec sheet and setting the converter to match. The caveat is that standalone mounting means you may need to adapt wiring if your old unit was part of an integrated power center.",
     "specs": [
       "55A regulated DC output",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/519mDYPWYNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B092W92S1D?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B092W92S1D?tag=rvgearlab-amz-20",
     "description": "The RecPro 55 amp converter turns 120VAC shore power into 12VDC while charging the house battery, and it uses a 4-stage charging routine rather than the 3-stage logic most clones here use. RecPro lists it as working with both lead and lithium batteries.\n\nIt lands third because its listing is the thinnest of the top picks: there is no published low-voltage rating, protection list, or mode detail like the PowerMax above provides. What it offers over the WAVLINK below is a known RV parts brand with the same model sold in 35, 45, 55, 60, 75, and 100 amp sizes, so you can step up later without changing brands.\n\nThis fits owners who like buying from a dedicated RV parts seller and want a 4-stage charger at a mid price. Confirm how it switches between lead and lithium before you rely on it with a LiFePO4 bank, since the listing does not spell that out.",
     "specs": [
       "55A, 4-stage charging",
@@ -109,7 +109,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Ha+s3pKEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FBRB6YJL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FBRB6YJL?tag=rvgearlab-amz-20",
     "description": "The WAVLINK GS800RV-55 is the most flexible charger in the lineup for under $100. Besides a lead-acid mode and a lithium mode, it has a fixed voltage setting adjustable from 13.0V to 16.5V, plus a temperature-controlled fan inside a metal case.\n\nNext to the RecPro above it gives up the RV-brand familiarity but adds more documented protections, including software over-voltage, current limiting, and reverse polarity. Against the SUPLIFE below, the WAVLINK's lithium mode is the key difference, because the SUPLIFE is built only for lead-acid.\n\nChoose it if you want a cheap unit you can keep after moving to lithium. The caveat is that the 16.5V fixed setting is far above what a 12V LiFePO4 battery wants, so leave it in the dedicated lithium mode unless you know exactly why you need a fixed voltage.",
     "specs": [
       "Lead-acid, lithium, fixed modes",
@@ -137,7 +137,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Nl7lWjebL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CTG4VMNQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CTG4VMNQ?tag=rvgearlab-amz-20",
     "description": "This SUPLIFE WF-9855 replacement is aimed squarely at owners who are staying with flooded or AGM lead-acid batteries. It is rated at 950 watts and 55 amps with three-stage charging, and it fits WF-9855, WF-9855-AD, WF-9855-LIS, and other WF-9800 series bays.\n\nCompared with the WAVLINK above, it has no lithium mode at all, which is why it ranks lower for most readers. What it adds is a 5-year warranty and an upgraded copper silent fan the seller rates about 30 percent quieter. It costs around $18 more than the KSGNY below, mainly for that longer published warranty and clearer WF-9800 fit list.\n\nBuy it if your rig runs lead-acid and you have no plan to change. Do not pair it with a lithium bank: its lead-acid profile will not reliably fill LiFePO4 cells and may hold them at the wrong voltage.",
     "specs": [
       "950W, 55A output",
@@ -164,7 +164,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Q-ExmdV5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FC5WDQ2V?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FC5WDQ2V?tag=rvgearlab-amz-20",
     "description": "The KSGNY WF-9855 is the cheapest working 55 amp unit in this comparison at about $62. It is rated for 950 watts, a 13.6VDC output, and a wide 105 to 130VAC input, and it ships with mounting brackets and terminals for an installation the seller estimates at about 15 minutes.\n\nIt ranks last because its fixed 13.6V output is a power-supply voltage, not a charging profile. That is fine for running lights and the pump, but it charges a lead-acid battery slowly and is not suitable as the main charger for lithium. The SUPLIFE above offers three-stage charging for a little more money.\n\nPick it as an emergency replacement to get a dead rig's 12V system running again this weekend. Pair it with a separate smart charger or plan to upgrade if you rely on shore power to keep the battery topped up.",
     "specs": [
       "950W, 13.6V output",

@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31+4rScA1wL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B000GAO0A0?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B000GAO0A0?tag=rvgearlab-amz-20",
     "description": "Blue Ox's BXW1000 SwayPro states 10,000 lb gross towing and 1,000 lb tongue weight with a 2-inch receiver. Blue Ox's BXW1000 SwayPro is a weight distributing hitch rated 1,000 lb tongue weight and 10,000 lb gross towing with a 7-hole shank for a 2-inch receiver. The listing says it suits couplers welded on top of the frame.\n\nIt is the lowest-rated complete kit here, closest to a 9,000 lb trailer, and costs more than Andersen 10K 2in. The 1,000 lb tongue weight ceiling is tight for a 9,000 lb trailer loaded forward.\n\nBest for a 9,000 lb trailer with a top-mounted coupler and a tongue weight under 1,000 lb. Check your coupler style before choosing it.",
     "specs": [
       "10,000 lb, 1,000 lb tongue weight",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31H44nTokeL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B009V70ZP8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B009V70ZP8?tag=rvgearlab-amz-20",
     "description": "Andersen's 10K 2 inch hitch states 10,000 lb GTWR and 1,400 lb tongue weight with a grease-free friction cone and tension chains. Andersen's weight distribution hitch uses a friction cone and tension chain design in place of spring bars and is listed at 10,000 lb GTWR and 1,400 lb tongue weight with a 4-inch drop and 2-inch ball.\n\nIt has more tongue weight headroom than Blue Ox BXW1000, and costs the same as Andersen 14K 4-3/8 but less than Blue Ox BXW1000.\n\nBest for a 9,000 lb trailer with a high tongue weight. It suits owners who want a lighter chain-style system and can accept the premium price.",
     "specs": [
       "10K GTWR, 1,400 lb TW",
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31YBxeeV-yL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B009V73Q9K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B009V73Q9K?tag=rvgearlab-amz-20",
     "description": "Andersen's 14K model has fixed 4-3/8 inch brackets and a 14,000 lb GTWR. Andersen's 2 inch shank hitch has a 4 inch drop, a 2-5/16 inch ball and 4-3/8 inch brackets and is rated 14,000 lb GTWR. It uses tension chains instead of spring bars.\n\nIt has more rating than a 9,000 lb trailer needs and costs the same as Andersen 10K 2in. Its brackets are a fixed size.\n\nBest for a 9,000 lb trailer owner planning a bigger one. It is the fixed-bracket 14K version.",
     "specs": [
       "2 inch shank, 4 inch drop",
@@ -109,7 +109,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31+4rScA1wL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B000HDI42Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B000HDI42Q?tag=rvgearlab-amz-20",
     "description": "Blue Ox's BXW1500 SwayPro states 15,000 lb and 1,500 lb tongue weight. Blue Ox's BXW1500 SwayPro is a weight distributing hitch rated 15,000 lb gross towing and 1,500 lb tongue weight with a 2-inch receiver and a 7-hole shank.\n\nIt is far above a 9,000 lb load and costs about the same as Blue Ox BXW1000. It needs a top-welded coupler.\n\nBest for a buyer who may upgrade to a 15,000 lb trailer. Check your coupler style and tongue clearance first, since the listing limits this model to top-welded couplers.",
     "specs": [
       "15,000 lb, 1,500 lb tongue weight",
@@ -137,7 +137,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31n383VKNvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0008G5EO8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0008G5EO8?tag=rvgearlab-amz-20",
     "description": "Reese's 6K Kit is titled 6,000 lb while the body text cites 15,000 lb GTW and 1,500 lb tongue weight. Reese's kit is titled as 6,000 lb capacity without a shank, while the body text cites up to 15,000 lb gross trailer weight and 1,500 lb tongue weight.\n\nThe conflict makes it unclear whether it covers 9,000 lb. Confirm the rating and buy a shank.\n\nBest only after the rating is confirmed. The two listed ratings disagree, so use the lower figure until the seller confirms which applies, and buy a shank separately.",
     "specs": [
       "Titled 6,000 lb, no shank",
@@ -165,7 +165,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31LAFIGIxAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H5PZG5CH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H5PZG5CH?tag=rvgearlab-amz-20",
     "description": "Mizoneparts sells a lift tool kit matching Husky 32334 for Center Line TS hitches. Mizoneparts sells a lift tool kit that matches Husky 32334 for installing and removing the sway bar on Center Line TS weight distribution hitches. It is made of hardened steel with an anti-rust powder coat.\n\nIt is an accessory, not a hitch, and fits only Husky and Reese Center Line TS models. It adds no rating.\n\nBest for a Center Line TS owner who needs the tool. It is an accessory, not a hitch.",
     "specs": [
       "Husky 32334 lift tool kit",

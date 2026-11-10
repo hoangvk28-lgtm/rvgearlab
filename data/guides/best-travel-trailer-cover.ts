@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41HPhgBraUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D1VJ4FJ1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D1VJ4FJ1?tag=rvgearlab-amz-20",
     "description": "The RVMasking 28-31ft is a 9-layer non-woven cover with 4% anti-UV composite, two over-roof straps and an extra-long horizontal strap that wraps around the bottom for wind protection. It reinforces all 8 corners and ships with 4 tire covers and a propane tank cover.\n\nAgainst the Mofeez 24-27, it covers a longer trailer and adds a full accessory kit that saves buying tire covers separately. The reinforced corners are a clear upgrade over the old design that only patched the 4 bottom corners. It suits owners of mid-length trailers who want one complete package for year-round outdoor storage.",
     "specs": [
       "28 to 31 ft fit",
@@ -53,7 +53,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41HPhgBraUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D1VH59BJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D1VH59BJ?tag=rvgearlab-amz-20",
     "description": "The RVMasking 31-34ft uses the same 9-layer non-woven build as the 28-31ft, fitted to larger trailers. It includes two over-roof straps, the extra-long horizontal strap, reinforced corners and four tire covers with a propane tank cover.\n\nCompared with the 28-31ft version, this one fits trailers 3 feet longer without changing the wind system or the accessory kit. That makes it the easy answer for a long fifth-wheel-sized trailer where the shorter cover will not reach. It suits owners of the longest travel trailers who still want 9-layer protection.",
     "specs": [
       "31 to 34 ft fit",
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41gOZchxR0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G13JQ63Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G13JQ63Y?tag=rvgearlab-amz-20",
     "description": "The CAMMOO 27-30ft has 9-layer thickened fabric, three windproof top straps and four bottom straps, plus 3 zippered roll-up access panels on the right side. The kit adds tire covers, gutter covers, a ladder cover and a repair patch.\n\nCompared with the RVMasking 28-31ft, the CAMMOO adds the access panels so you can reach storage and run inspections without removing the whole cover. A large rear vent provides airflow to help prevent mold during storage. It suits owners who open the trailer between trips and want to check inside without pulling the cover off.",
     "specs": [
       "27 to 30 ft fit",
@@ -109,7 +109,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41P4Fq-zCGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C7TH259N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C7TH259N?tag=rvgearlab-amz-20",
     "description": "The Mofeez 24-27ft has a 9-layer panel fabric with 110 g non-woven material mixed with UV-resistant treatment. Its dimensions are 330 inches long by 102 wide by 104 high, with 2 extra-long wind straps and 6 ventilation ports.\n\nWith six vents, it moves more air than the CAMMOO and RVMasking covers' fewer openings, which helps reduce trapped humidity. The tear-resistant panels and extra-long straps resist flapping in strong gusts. It suits owners of shorter travel trailers, from 24 to 27 feet, who store outdoors in wind or damp.",
     "specs": [
       "24 to 27 ft fit",
@@ -137,7 +137,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51u7ajCAFRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GTTZ297M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GTTZ297M?tag=rvgearlab-amz-20",
     "description": "The Yelmzir 24-27ft uses 420D heavy-duty oxford fabric on top and 300D oxford on the sides, a different build from the non-woven covers. It adds 5 bottom windproof straps, 3 body fixing straps and 6 air vents.\n\nWhere the Mofeez 24-27 relies on layered non-woven panels, the Yelmzir uses woven oxford that resists snow and sun. The eight straps in total are more than the others, which gives it strong anchoring in high wind. It suits owners in snow or high-wind climates who prefer a woven oxford cover for shorter trailers.",
     "specs": [
       "24 to 27 ft fit",

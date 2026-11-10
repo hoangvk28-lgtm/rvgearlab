@@ -30,7 +30,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41-3c3+bxkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GTLHRRSV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GTLHRRSV?tag=rvgearlab-amz-20",
     "description": "The VINPATIO 37 to 40 foot cover earns the top spot with an upgraded 9 layer top, a 100 percent waterproof PU coating rated at 2000 mm and an extra UV-resistant coating over that. It ships with extra long straps, gutter covers and windproof accessories, so the box holds most of what you need to keep a coach covered through a season. At $304.99 it sits in the middle of the price range for this length.\n\nAgainst the SELIMON, the VINPATIO puts its money into roof construction, since the layered top faces the sun and rain every day. Compared with the Umbrauto, it adds the stated 2000 mm waterproof rating and the dedicated UV coating, which gives a clearer picture of the weather protection you are buying than a layer count alone.\n\nIt is the pick for owners of a 37 to 40 foot Class A who park outdoors for long stretches and want the strongest stated roof protection without paying for extra doors.",
     "specs": [
       "9 layer top",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41qiRogb9mL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FHPQH1P5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FHPQH1P5?tag=rvgearlab-amz-20",
     "description": "The SELIMON takes a different approach, using 300D Oxford fabric on the roof and 150D on the sides with a waterproof PU coating. It adds 14 adjustable straps, 8 top vents and three roll-up zippered doors, and ships with tire covers, which makes it the most fully equipped cover in the group at $329.99.\n\nThe zippered doors are the feature that separates it from the VINPATIO, MOFEEZ and Umbrauto covers, which have to be lifted or removed to reach the coach. With 14 straps and 8 vents it also gives wind a lot of anchor points and a way to equalize pressure under the fabric, so it stays calmer in gusty weather than a cover with only a handful of tie-downs.\n\nIt suits owners who open the coach during the off season to check batteries, run the generator or pull items from storage, and who want to do that without unstrapping the whole cover.",
     "specs": [
       "300D roof, 150D sides",
@@ -86,7 +86,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/514GPeG3CsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GCJ6S2N5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GCJ6S2N5?tag=rvgearlab-amz-20",
     "description": "The Umbrauto 37 to 40 foot cover uses a 9 layer sun-resistant composite top and bundles 7 wind ropes with 4 adjustable bottom straps, plus 6 air vents to let moisture escape. At $299.95 it brings a layer count similar to the VINPATIO for a lower price.\n\nSet beside the MOFEEZ 37 to 40, the Umbrauto leans on ropes and bottom straps for wind security, where the MOFEEZ relies on elastic straps with buckles. The rope system lets you pull the cover tight over the roof line and cinch it down, which gives a more custom feel on a long coach.\n\nIt is a good fit for buyers who want nine layers of roof fabric and a wind-rope system at a price below the top picks, and who are comfortable adjusting several ties when they install it.",
     "specs": [
       "9 layer top",
@@ -114,7 +114,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41OziduuRxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DP4MHHF8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DP4MHHF8?tag=rvgearlab-amz-20",
     "description": "The MOFEEZ 37 to 40 foot cover upgrades its top from 7 layers to 9 and includes 6 adjustable elastic straps with buckles, 8 vents, reinforced straps and side buckle straps. At $296.99 it is the lowest priced of the four covers in this length range.\n\nAgainst the Umbrauto it offers more vents, eight to six, which helps moisture and pressure escape from under the fabric during humid weather and wind. Compared with the VINPATIO, it keeps the 9 layer top while trimming the price by about eight dollars, with elastic straps taking the place of the extra long strap package.\n\nIt is the pick for cost-conscious owners of a 37 to 40 foot coach who still want a modern 9 layer roof and a good number of vents.",
     "specs": [
       "9 layer top",
@@ -142,7 +142,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41OziduuRxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FKMDGYXC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FKMDGYXC?tag=rvgearlab-amz-20",
     "description": "The MOFEEZ 40 to 43 foot cover is the longer-fit option in this lineup, with the same 9 layer top and 8 vents as its shorter sibling. It adds 2 reinforced straps, 6 side buckle straps and 6 front and end buckle straps, giving a lot of points to pull the cover snug across a bigger body. At $279.99 it is the lowest priced cover on the list.\n\nCompared with the MOFEEZ 37 to 40, the difference is length rather than materials, so the comparison is really about your measurement. Against the VINPATIO and Umbrauto covers, which stop at 40 feet, it gives room for a coach that measures right at 40 feet or beyond once you count ladders and racks.\n\nIt is the right choice for owners of 40 to 43 foot motorhomes, or anyone whose coach measures at the top of the shorter range and wants a cover that closes without strain.",
     "specs": [
       "Fits 40 to 43 ft",

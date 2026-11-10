@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41np9Eiu-SL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09KNVRDNQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09KNVRDNQ?tag=rvgearlab-amz-20",
     "description": "The Camp Chef Everest 2X is a two-burner propane stove rated at 40,000 BTU, with two 20,000 BTU burners. Its folding lid doubles as a windscreen, and the listing gives a 215 square inch cooking surface that fits two pans plus accessories.\n\nAgainst the Coleman Triton+ and nowcamp, it states the highest output in the group and adds a drip tray and carry handle. The matchless ignition and large surface make it feel more like a camp kitchen than a stove.\n\nIt suits family car campers and anyone who cooks full dinners outdoors. A stove this size earns its trunk space on trips with four or more people.",
     "specs": [
       "40,000 BTU, dual 20K burners",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31LMK9kWIUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09HN1YW6V?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09HN1YW6V?tag=rvgearlab-amz-20",
     "description": "The Coleman Triton+ is a two-burner propane stove with push-button InstaStart ignition and independent PerfectFlow and PerfectHeat burners rated at 22,000 total BTU. Dual wind guards, a removable chrome-plated grate and a rust-resistant aluminized steel cooktop are listed, and the top accommodates 12-inch and 10-inch pans.\n\nCompared with the plain Coleman Triton, the added ignition means no lighter in the cold or wind. Next to the Camp Chef Everest 2X it is more compact and carries a built-in handle with a heavy-duty latch.\n\nIt is the right choice for campers who want familiar Coleman build and a one-push start. The pan sizes it lists cover most skillets and stockpots.",
     "specs": [
       "Push-button InstaStart ignition",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31BW7+A0xXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09HN1C1YJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09HN1C1YJ?tag=rvgearlab-amz-20",
     "description": "The Coleman Triton is a two-burner propane stove rated at 22,000 total BTU. It has two independently adjustable burners, two wind guards, a heavy-duty latch and a removable chrome-plated grate.\n\nIt keeps the Triton+ build and drops the push-button ignition, which is why it costs less. Against the nowcamp it states a lower output, yet it comes from a brand with a long history in camp stoves.\n\nCouples and small families after a name-brand stove will not mind the lighter. Improved knob rotation helps with low simmers.",
     "specs": [
       "22,000 total BTU",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41PuJZiouFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GFCT9JNV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GFCT9JNV?tag=rvgearlab-amz-20",
     "description": "The nowcamp is a folding two-burner stove rated at 30,000 BTU, with two independently adjustable brass burners. A magnetic closure holds it shut, and the listing describes cold-rolled steel with a high-temperature coating and a 304 stainless steel coffee stand.\n\nIt states more output than the Triton and Flame King while folding flat into a storage bag. The built-in windshield works like the Coleman guards and also protects hands from hot oil.\n\nIt is a strong pick for campers who want high output in a stove that tucks away flat. The coffee stand makes it handy for morning brewing.",
     "specs": [
       "30,000 BTU, brass burners",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41rbKhLjh4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0844HH4TL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0844HH4TL?tag=rvgearlab-amz-20",
     "description": "The Flame King VT-101 is a two-burner stove rated at 20,000 BTU that runs on a 1 pound propane cylinder. A Flame King adapter hose lets it connect to a larger tank, and the cooking surface measures 15 by 9 inches.\n\nIts three-sided wind panels include a lid that converts into a windshield, which the Coleman Triton does not describe. It is also CSA approved and the lowest priced stove in this group.\n\nIt suits budget-minded campers and backpackers who already carry 1 pound cylinders. Add the adapter hose for longer trips on a bulk tank.",
     "specs": [
       "20,000 BTU, 15x9 surface",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Vfyc7J-tL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FJFJMMFV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FJFJMMFV?tag=rvgearlab-amz-20",
     "description": "The TENGIZUOHZ folding stove lists 10,000 BTU total across two burners and a folded size of 10.2 by 9 by 3.5 inches. It uses 304 stainless steel and has igniters built into both sides.\n\nIt is the smallest stove here and the lowest in listed output, trading the cooking power of the nowcamp for pack size. The push-button ignition on each side is a convenience the plain Triton lacks.\n\nIt suits solo campers and couples on short trips and emergency kits. Small pots only, because the output is modest.",
     "specs": [
       "10,000 BTU total, two burners",

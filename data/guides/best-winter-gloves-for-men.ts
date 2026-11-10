@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51aYhD5tmBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07JDLJBNN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07JDLJBNN?tag=rvgearlab-amz-20",
     "description": "The MOREOK Thinsulate glove has 200 grams of 3M Thinsulate insulation, an outer windproof fabric laminated with a TPU membrane that is waterproof and breathable, and an adjustable buckle wrist strap with an elastic cuff. Touchscreen compatible thumb and finger tips are listed, and the title quotes protection at -30 degrees Fahrenheit.\n\nNamed 200 g insulation and a waterproof breathable membrane give it more cold and wet protection than the TRENDOUX Thinsulate, the FanVince Thermal and the thin SIMARI Flannel. The buckle strap seals the wrist better than any elastic-only pair here.\n\nIt suits a man who skis, shovels snow or works outside in deep cold. The snug fit follows the glove size chart.",
     "specs": [
       "200 g 3M Thinsulate",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/414l3hqldyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08FT41CDZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08FT41CDZ?tag=rvgearlab-amz-20",
     "description": "The TRENDOUX Thinsulate glove uses 3M Thinsulate filling, a fast-dry moisture-wicking lining, a durable coating on the back of the hands and reinforced PU leather palms. An anti-loss buckle closure, touchscreen fingertips and reinforced digits are listed.\n\nPU leather palms are more durable than the silicone dots on the SIMARI Flannel and TRENDOUX Driving. It costs less than the MOREOK Thinsulate and keeps a named insulation.\n\nIt suits a man who skis, snowboards, cycles or works in cold weather and wants a durable palm. The buckle keeps the pair together.",
     "specs": [
       "3M Thinsulate filler",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41F72vR0PHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07VFPY722?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07VFPY722?tag=rvgearlab-amz-20",
     "description": "The FanVince Thermal glove has a windproof thin polyester shell, TR insulation and a waterproof membrane between the shell and the warm fleece. A silica gel palm and touchscreen thumb and forefinger are listed, and five sizes are offered.\n\nA waterproof membrane gives it more wet protection than the SIMARI Flannel or TRENDOUX Driving at a lower price than the MOREOK Thinsulate. Five sizes fit better than the one-size set.\n\nIt suits a man who wants a thin, windproof, waterproof-layer glove for cycling, driving and cold walks. The listing offers a free replacement.",
     "specs": [
       "Windproof shell, TR insulation",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51XO5IMAMlL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DHWX74JM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DHWX74JM?tag=rvgearlab-amz-20",
     "description": "The floconssy Set is a three-piece winter kit with a beanie hat, a long scarf and touchscreen gloves in soft acrylic with a thick knit texture. The hat fits 22.0 to 22.8 inch heads, the scarf is 74.8 by 11.8 inches and the gloves are 9 by 4.7 inches.\n\nIt is the only pick that covers head, neck and hands, which makes it a better gift than the MOREOK Thinsulate or TRENDOUX Thinsulate. The three-fingertip touch zone is wider than the two-finger pairs.\n\nIt suits a man who wants a full cold-weather kit for walks, travel and sledding, or a buyer who needs a gift. The gloves are one size for men and women.",
     "specs": [
       "Hat, scarf and glove set",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31SGLTIWRQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07WSBWXLK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07WSBWXLK?tag=rvgearlab-amz-20",
     "description": "The SIMARI Flannel glove blends polyester with a little spandex, over a warm flannel lining with an elastic cuff. Touchscreen fingers and silicone particles on the palm and fingers add grip and abrasion resistance.\n\nThe silicone palm grips a steering wheel or handlebar better than the knit floconssy Set, and it costs less than the TRENDOUX Thinsulate. It is thinner than the FanVince Thermal and has no membrane.\n\nIt suits a man who drives, runs or cycles in cool weather and wants a close-fitting glove with grip. The elastic cuff keeps cold air from creeping up the wrist.",
     "specs": [
       "95/5 polyester-spandex, flannel",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41cNAkBeexL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07JYMHWPP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07JYMHWPP?tag=rvgearlab-amz-20",
     "description": "The TRENDOUX Driving glove is a unisex knit with conductive material on the thumbs, forefingers and middle fingers, a triangle silicone pattern across the palm, a soft napped lining and a thickened elastic cuff. It comes in two sizes.\n\nIt carries the lowest price tag in the group and the fullest silicone grip pattern, which beats the SIMARI Flannel for steering wheel hold. It lacks the weather layers of the FanVince Thermal.\n\nReach for it when you want a cheap pair for driving and short winter walks, or a spare for the car. The full silicone palm keeps a phone and wheel steady.",
     "specs": [
       "Three-finger conductive touch",

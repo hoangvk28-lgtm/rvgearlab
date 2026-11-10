@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41mIFvkyqlL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FBM2PGPW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FBM2PGPW?tag=rvgearlab-amz-20",
     "description": "The Dyness 12V 100Ah is a standard Group 31 battery, 13.00 by 6.77 by 8.43 inches and 21.8 pounds according to its listing. It has a 100A battery management system, an IP65 case that is also described as salt-spray resistant, and low-temperature charging protection that stops charging below 32°F and resumes at 41°F. Discharge cuts off at minus 4°F. It can be wired up to 4P4S for a stated 20.48kWh.\n\nIt ranks first because it combines published cold limits, a weatherproof case and a common tray size at $176.98, which is $43.01 less than the Wattcycle Mini and $23.01 less than CYCLENBATT. It costs $34 more than BUKNUWO, and for that you get the IP65 rating and exact thresholds, but not Bluetooth, which both of those cheaper-than-Wattcycle picks include.\n\nPick it if you are swapping a Group 31 lead-acid battery and want numbers you can verify in the listing. The caveat is no built-in app, so budget about $30 to $80 for a shunt or monitor if you want a precise state of charge.",
     "specs": [
       "Group 31, 21.8 lb",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/417hewEDlxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FHTLQ16S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FHTLQ16S?tag=rvgearlab-amz-20",
     "description": "The Wattcycle 12V 100Ah Mini is built to the smaller BCI Group 24 envelope and is described as 39 percent smaller than the first-generation Wattcycle, with an energy density of 63 watt-hours per pound. The listing gives a 100A BMS, Bluetooth monitoring through the Wattcycle app, operation from minus 4°F to 158°F with automatic shutoff at low temperature, A+ cells rated for 15,000 cycles and a five-year warranty.\n\nIt is second because it costs the most here at $219.99. That is $43.01 more than the Dyness Group 31 and $20 more than CYCLENBATT, which is also a Bluetooth mini. In exchange you get the longest cycle rating on this list and 4S4P expansion to 20.48kWh, but the listing does not state the exact charge cutoff temperature the way Dyness does.\n\nPick it for a tight compartment where Group 24 is the limit and you want an app. The caveat is that the 15,000-cycle figure is a maximum, and the low-temperature trip point is not spelled out, so ask the seller before using it in a winter bay.",
     "specs": [
       "Group 24 mini, Bluetooth",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41c2PJIIVDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FDQL2J9R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FDQL2J9R?tag=rvgearlab-amz-20",
     "description": "The CYCLENBATT 12V 100Ah Mini is sold as the smallest 100Ah in this comparison, listed as 46 percent smaller than a Group 31 lithium battery. It has Bluetooth 5.0 with an app that shows state of charge, voltage, current, power and temperature and can switch charging or discharging on and off. The BMS allows up to 330A instantaneous discharge, cuts charging below 32°F and cuts discharge below minus 4°F, and the maker offers a five-year warranty.\n\nIt ranks third because it is $20 cheaper than the Wattcycle Mini while stating exact cutoffs, but it costs $23.01 more than the Dyness. Against Jovialpoa it adds the smaller case and the remote on/off switch, though Jovialpoa costs $49.99 less and has an IP65 rating this one does not list.\n\nChoose it when space is the deciding factor, for example a bench-seat compartment or a van. The caveat is that the listing does not publish dimensions or an IP rating, so measure your bay against the product page drawing before buying.",
     "specs": [
       "46 percent smaller than Group 31",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41gOwWXBgML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CR5L3LGS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CR5L3LGS?tag=rvgearlab-amz-20",
     "description": "The HQST 12V 100Ah is a Group 22NF mini that weighs 21 pounds and has an LED meter on the case, so you can check charge without a phone. Its protection circuit passes up to 100A continuous, suspends charging below 23°F or above 140°F, and stops discharging below 5°F or above 158°F. It is rated for 4000 plus cycles from A-grade cells and carries a ten-year commitment in its listing.\n\nIt ranks fourth because it is $16.99 cheaper than the Dyness and offers a built-in readout, but it lacks Bluetooth and the IP65 rating. Compared with BUKNUWO it costs $17 more, which buys the LED meter and published two-sided temperature limits instead of an app. The charge cutoff of 23°F is lower than the 32°F used by most others here, and that is a battery setting to read carefully rather than a free pass for freezing weather.\n\nPick it for a seasonal rig stored indoors where a glance at the LED meter is enough. The caveat is the shorter cycle rating, 4000 compared with 15,000 claimed for some others, and that the listing says it is not suitable for golf carts.",
     "specs": [
       "Group 22NF, 21 lb",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41wDK8-EBOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GTQ36SQK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GTQ36SQK?tag=rvgearlab-amz-20",
     "description": "The Jovialpoa 12V 100Ah costs $150 and combines Bluetooth monitoring, a 100A BMS and an IP65 flame-retardant ABS case with M8 terminals and a removable carry handle. The listing gives a discharge range of minus 20 to 60°C, about a five-hour recharge from a 14.6V 20A charger, up to 4S4P for 20.48kWh, and 20,000 cycles at 60 percent depth of discharge. Warranty is three years plus a stated five-year replacement guarantee.\n\nIt ranks fifth because the warranty is shorter than the five years from Wattcycle, CYCLENBATT and BUKNUWO, and the listing does not state the low-temperature charge cutoff. It undercuts the Dyness by $26.98 and the Wattcycle by $69.99 while still giving an app and an IP65 case, which the cheaper BUKNUWO does not.\n\nPick it if you want Bluetooth and a waterproof-rated case at the lowest practical price. The caveat is the thinner cold-weather documentation and the shorter standard warranty, so confirm the claim terms before relying on the replacement guarantee.",
     "specs": [
       "Bluetooth with 100A BMS",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41yLVdD9T3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GHJJN1K5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GHJJN1K5?tag=rvgearlab-amz-20",
     "description": "The BUKNUWO 12.8V 100Ah is the cheapest battery here at $142.99, or about $112 per nominal kilowatt-hour, and it weighs 22 pounds. The listing gives Bluetooth 5.0 monitoring of charge, voltage, current and temperature, a 100A BMS with automatic high and low temperature cutoff, a discharge range of minus 20 to 60°C, a self-discharge rate under 5 percent a month, and a five-year warranty. The ABS case is described as dustproof and lightly waterproof rather than carrying an IP rating.\n\nIt ranks last only because documentation is thinner than the others: it does not give the charge-cutoff temperature, and the case is not rated. Compared with Jovialpoa it is $7.01 cheaper and carries a longer five-year warranty, but loses the IP65 case. It is $33.99 below the Dyness, which gives a stated cutoff and a sealed case.\n\nPick it for the lowest cost per kilowatt-hour in a dry, mild location with an app included. The caveat is that cold-weather charging behavior is not spelled out, so keep the battery above freezing or ask the seller for the exact limit.",
     "specs": [
       "Bluetooth 5.0, 100A BMS",

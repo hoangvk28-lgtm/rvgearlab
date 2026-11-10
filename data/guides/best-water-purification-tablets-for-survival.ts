@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hmcr5QMmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09B2TVKGB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09B2TVKGB?tag=rvgearlab-amz-20",
     "description": "The Aquatabs 49mg 100-Pack is sealed in individual foil strips so each tablet stays dry in a disaster kit. The page claims both bacteria and virus removal, at 99.9999 and 99.99 percent, and says it leaves no iodine-style flavor.\n\nPer tablet it treats a small volume, which suits drinking bottles. Next to the 397mg bottle, it is lighter for a go-bag and easier to ration, and it carries a lower price.\n\nIt suits families building a bug-out or flood kit who want a documented tablet. A hundred strips cover many bottles.",
     "specs": [
       "49mg tablets, 100 foil strips",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41PR4yq3z3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09FFQN924?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09FFQN924?tag=rvgearlab-amz-20",
     "description": "The Aquatabs 397mg tablet comes in a 100-pack and is stated to purify 4 gallons in 30 minutes. The page calls it a trusted emergency tablet that avoids the taste of iodine products.\n\nA single tablet handles a whole four-gallon container, so it suits storage tanks and large emergency stocks. Compared with the 49mg strips, it is built for volume rather than bottles.\n\nIt suits households stocking water barrels and RV tanks for emergencies. A hundred tablets treat hundreds of gallons.",
     "specs": [
       "397mg tablet, 100 count",

@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41lrd8Zjy5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HBSYDGMD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HBSYDGMD?tag=rvgearlab-amz-20",
     "description": "The VEVOR 50FT lists a heating cable rated 25W/m, about 7.6 watts per foot, with an intelligent thermostat that adjusts to ambient temperature. VEVOR's 50FT hose has a 1/2 inch inner diameter, a heating cable rated 25W/m and an intelligent thermostat.\n\nOf the group it is the only one that states a cable output you can multiply by length, and it is also the lowest priced. The Ficstar and RVSNAIL give less numeric detail.\n\nPVC layers with nylon mesh reinforcement and a wider heating cable support a -45°F rating. It suits buyers who want a stated wattage and a thermostat that adjusts heat to the weather.",
     "specs": [
       "50 ft, 1/2 inch ID",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51-XzfjA2DL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H3FC68NQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H3FC68NQ?tag=rvgearlab-amz-20",
     "description": "The Kohree 25FT uses a thermostat-controlled heating cable that activates only when temperatures drop, with an insulated outer jacket. Kohree's 25 FT hose is rated to -40°F, with an NSF 372 certified lead-free build and a high-density insulated outer jacket.\n\nA shorter 25 foot hose has less cable to power than the 50 foot picks, and its high-density insulated jacket helps hold heat. It carries NSF 372 lead-free certification.\n\nA thermostat-controlled heating cable activates only when temperatures drop. It suits owners with a short run who want minimal power use and a certified lead-free build.",
     "specs": [
       "25 ft, -40°F protection",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/519WD0K-PQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H6PLL7TW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H6PLL7TW?tag=rvgearlab-amz-20",
     "description": "The RVSNAIL 50FT uses a high-efficiency silicone heating wire that provides consistent heating while staying flexible. RVSNAIL builds this 50FT hose around a high-efficiency silicone heating wire that keeps heating steady and flexible.\n\nNext to the VEVOR it adds the silicone wire and a multi-layer build at a higher price. It is rated to -45°F.\n\nIt is rated to -45°F and aimed at winter travel and cabins, with a protective multi-layer build. It suits owners who want consistent heating and a flexible hose.",
     "specs": [
       "50 ft, -45°F protection",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41478YaOFgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GBV1JKJM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GBV1JKJM?tag=rvgearlab-amz-20",
     "description": "The Ficstar 50FT has a self-regulating thermostat that adjusts heating output to conditions, rated to -45°F. Ficstar's 50FT hose has a self-regulating thermostat that adjusts heating output to conditions, rated to -45°F.\n\nIt costs about 15 dollars less than the RVSNAIL 50FT and more than the VEVOR. The food-grade hose suits drinking water.\n\nThe food-grade drinking water hose is built for winter RV camping and cold weather travel. It suits buyers who want automatic adjustment on a 50 ft run.",
     "specs": [
       "50 ft, -45°F protection",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51i0sS02gPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D78K842H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D78K842H?tag=rvgearlab-amz-20",
     "description": "The Yurnomy 30FT is rated to -45°F with a smart thermostat and built-in temperature control. A smart thermostat and drinking water safe, lead-free, BPA-free materials come with the -45°F rating on Yurnomy's 30FT hose.\n\nIt costs less than the Ficstar and RVSNAIL 50 ft hoses and gives 30 feet of reach. Compression-sleeve connections help limit leaks.\n\nReinforced compression-sleeve connections help keep the fittings leak resistant. It suits owners who need 30 ft and automatic control.",
     "specs": [
       "30 ft, -45°F protection",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Y18YJ3R1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CH8RS7VW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CH8RS7VW?tag=rvgearlab-amz-20",
     "description": "The SZFY 25FT has an internal heating coil that changes output with temperature. SZFY's 25FT hose has food-grade inner tubing with a five-layer shell and an internal heating coil that changes output with temperature.\n\nIt is the second shortest pick and sits at a higher price. A five-layer shell keeps the heat in.\n\nIts text cites -40°F protection, and it comes with a male thread adapter. It suits owners who want output that follows the weather on a short run.",
     "specs": [
       "25 ft, five-layer shell",

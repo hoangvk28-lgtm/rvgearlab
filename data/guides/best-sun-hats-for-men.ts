@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41nU43DIleL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07CS2NGNQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07CS2NGNQ?tag=rvgearlab-amz-20",
     "description": "The Home Prefer Mesh Hat is a wide-brim UPF 50+ hat that lists blocking 98 percent of UVA and UVB. Mesh vents in the crown move air through, and a long neck flap protects the neck, which can be stowed to make a bucket hat.\n\nCompared with the KIRAAT 3-Pack Flap Hat, it adds vented mesh and a moisture-wicking sweatband. Against the FURTALK Bucket Hat, it brings a stowable neck flap and fits large heads.\n\nIt suits men who want one hat for fishing, hiking, gardening and boating. An adjustable chin strap keeps it in place.",
     "specs": [
       "UPF 50+, blocks 98% UVA/UVB",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410L1+3PHqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09SL6JVLY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09SL6JVLY?tag=rvgearlab-amz-20",
     "description": "The KIRAAT 3-Pack Flap Hat gives three UPF 50+ nylon hats with a wide brim and a removable face and neck flap. Each hat weighs about 3.6 ounces, adjusts from roughly 22.5 to 24 inches and comes with a chin strap and water-repellent fabric.\n\nCompared with the Home Prefer Mesh Hat, it adds a removable face flap and three hats per order. Against the Sireck Boonie Hat, it offers more coverage and a longer flap.\n\nIt suits men who want spares for the truck, boat and tent. The listing names beach, fishing, hiking, camping and gardening.",
     "specs": [
       "UPF 50+ nylon, removable flap",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41q-zoZ2UtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DSHKL8RZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DSHKL8RZ?tag=rvgearlab-amz-20",
     "description": "The FURTALK Fishing Hat has a 9.5 cm brim to shade the face, neck and ears and large ventilation holes in the crown. Buttons on the side fold the brim up for work or casual wear, and an adjustable buckle and windproof cord hold it on.\n\nCompared with the FURTALK Bucket Hat, it is the one with side buttons and two wearing styles. Against the Home Prefer Mesh Hat, it drops the neck flap for a clean bucket shape.\n\nIt suits men who switch between sun-heavy and casual use. The listing names fishing, climbing, camping and beach.",
     "specs": [
       "9.5 cm wide brim",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41nFIThy+NL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DSHMQQSC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DSHMQQSC?tag=rvgearlab-amz-20",
     "description": "The FURTALK Bucket Hat is made of 100 percent nylon with a wide brim and UPF protection that the listing says blocks over 99 percent of harmful sunlight. Breathable mesh sits on both sides and an adjustable chin cord keeps it secure.\n\nCompared with the FURTALK Fishing Hat, it names a UPF blocking figure and mesh sides. Against the EINSKEY Safari Hat, it is lighter and offers a flexible brim you can fold up or down.\n\nIt suits men who hike and want a lightweight bucket hat with named UV protection. Folding the brim up gives a casual look by the water.",
     "specs": [
       "100% nylon bucket hat",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41qEuJgnb9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01J1GQ1HY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01J1GQ1HY?tag=rvgearlab-amz-20",
     "description": "The EINSKEY Safari Hat has a 3.9 inch brim, water-repellent fabric and mesh panels for airflow. An elastic rear drawstring and an adjustable chin strap fit head circumferences of 22 to 24 inches, and a sweatband absorbs moisture.\n\nCompared with the Sireck Boonie Hat, it has a wider brim and a rain-repellent fabric. Against the FURTALK Bucket Hat, it uses a heavier-duty build for rugged use.\n\nIt suits men who face both sun and a passing shower. The listing says it is lightweight, foldable and easy to hand wash.",
     "specs": [
       "3.9 inch brim",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41XzqK40zhL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D66VGHJG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D66VGHJG?tag=rvgearlab-amz-20",
     "description": "The Sireck Boonie Hat is a UPF 50+ wide-brim hat with water-resistant quick-dry fabric and a 3 inch brim. Breathable mesh sits in the head, and an elastic drawstring fits head girths of about 22.4 to 23.6 inches.\n\nCompared with the EINSKEY Safari Hat, it costs less and lists UPF 50+. Against the KIRAAT 3-Pack Flap Hat, it is simpler with no neck flap.\n\nIt suits men and women who want a cheap, packable boonie for fishing, hiking, hunting and boating. The listing names canoeing and outdoor work too.",
     "specs": [
       "UPF 50+, water-resistant fabric",

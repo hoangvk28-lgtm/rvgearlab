@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41PHHA9AoRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BF9VYCK8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BF9VYCK8?tag=rvgearlab-amz-20",
     "description": "WASSERMANN is a 12 volt RV water pump with 5.0 GPM flow at 55 PSI, sold as a replacement for the 4008-101-A65 pump. The listing says the kit includes 1/2 inch barbed adapters, a male thread adapter and a strainer.\n\nAgainst Kohree 7.5GPM, it stops at a lower pressure and flow. Against SEAFLO 33, it gives more flow.\n\nIt is the best match for owners replacing a 4008 series pump. It earns its slot for 4008 series replacement.",
     "specs": [
       "12V, 5.0 GPM, 55 PSI",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51gyA5E9fIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DTHQHHYG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DTHQHHYG?tag=rvgearlab-amz-20",
     "description": "Kohree 12V is a five-chamber self-priming diaphragm pump rated 7.5 GPM at 70 PSI. The listing says the 2026 model has an updated structure, self-primes to 10 feet, runs dry briefly and has thermal overload protection.\n\nAgainst WASSERMANN 5GPM, it has far more flow and a higher shut-off. Against Gidrox 4GPM, it is much stronger.\n\nIt suits large rigs with several fixtures that have verified plumbing can take 70 PSI. It is a natural fit for large rigs.",
     "specs": [
       "12V, 7.5 GPM, 70 PSI",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41VNUk3lUcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GGGMZMW7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GGGMZMW7?tag=rvgearlab-amz-20",
     "description": "Gidrox 12 volt pump gives 4.0 GPM at a 45 PSI preset, adjustable from 30 to 80 PSI. The listing says it runs at about 40 dB with vortex noise reduction and a rubber damping base, and has overheating and run-dry protections.\n\nAgainst SEAFLO 33, it has more flow and an adjustable range. Against Kohree 7.5GPM, it is quieter and gentler.\n\nIt suits owners who want a quiet, adjustable pump. Think of it as the pick for quiet cabins.",
     "specs": [
       "12V, 4.0 GPM, 45 PSI preset",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41G5xtxIIDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CWGXTW2F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CWGXTW2F?tag=rvgearlab-amz-20",
     "description": "DC HOUSE 12V is a diaphragm pump with 3.5 GPM flow and a 45 PSI cut-off, described as a quiet replacement for Class A and C, fifth wheel and large trailer pumps. The listing says it self-primes to 9.8 feet and has thermal overload protection.\n\nAgainst SEAFLO 33, it has a bit more flow at a lower price. Against chddorn, it states fixed 45 PSI.\n\nIt suits budget replacements with 45 PSI plumbing. Buyers focused on budget replacements will find it a sensible match.",
     "specs": [
       "12V, 3.5 GPM, 45 PSI",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41-b0wvH0yL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07DQT1FVZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07DQT1FVZ?tag=rvgearlab-amz-20",
     "description": "SEAFLO 33 series (SFDP1-030-045-33) is a 12 volt three-chamber diaphragm pump with 3.0 GPM open flow and a 45 PSI shut-off. The listing says it primes to 6 feet and supplies up to four fixtures.\n\nAgainst DC HOUSE 3.5GPM, it states a model number and filter included. Against chddorn, it is a three-chamber design.\n\nIt suits owners who want a model-number-clear pump. It earns its slot for model-matched swaps.",
     "specs": [
       "12V, 3.0 GPM, 45 PSI",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51DT5fUfSZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F6C5GMKB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F6C5GMKB?tag=rvgearlab-amz-20",
     "description": "chddorn is a 12 volt pump listed as a 4008-101-A65 and E65 replacement with 3.0 GPM at 55 PSI. The listing says it has a one-piece diaphragm design that is 40 percent quieter than standard pumps, internal bypass technology and thermal protection.\n\nAgainst SEAFLO 33, it states a higher 55 PSI and a quiet claim. Against WASSERMANN 5GPM, it has lower flow.\n\nIt suits owners who want a quiet 4008 replacement. It is a natural fit for quiet replacement.",
     "specs": [
       "12V, 3.0 GPM, 55 PSI",

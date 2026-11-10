@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/514nxUkvpLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FGPZHFPV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FGPZHFPV?tag=rvgearlab-amz-20",
     "description": "The Hansleep Foam is an RV short queen topper with a gel-infused memory foam layer and a 3D surface of viscose derived from bamboo that wicks away night sweat. A deep pocket stretches up to 21 inches deep, and the fitted-sheet design makes it easy to install.\n\nCompared with the Bedsure fibre topper, the Hansleep adds a real memory foam layer for pressure relief. It also beats the generic Best Price Mattress foam on RV sizing. It suits RV sleepers with thin factory mattresses who want pressure relief and cooling.",
     "specs": [
       "RV short queen size",
@@ -53,7 +53,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51qlvFesocL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FVYB4L3J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FVYB4L3J?tag=rvgearlab-amz-20",
     "description": "The Niagara RV Topper is a queen RV topper made from rayon derived from bamboo fibre, fitting mattresses 8 to 20 inches deep. The breathable pad has a deep pocket with extra-length stretchy sides.\n\nIt is machine-washable and free of latex and formaldehyde, which suits sensitive sleepers. It trades the memory foam of the Hansleep for a lighter, puffy fibre feel. It suits RV sleepers who want a soft, washable cover with a lighter feel.",
     "specs": [
       "Queen RV size",
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41fpqI5WsAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B081SRS7YL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B081SRS7YL?tag=rvgearlab-amz-20",
     "description": "The Bedsure Pad is an RV short queen mattress pad measuring 60 by 75 inches with an ergonomic three-zone design. Its brushed microfiber cover is soft and quiet, and the deep pocket fits mattresses 8 to 21 inches deep.\n\nCompared with the Hansleep, the Bedsure uses microfiber filling rather than memory foam, which keeps the price much lower. The three zones add targeted softness at top and bottom. It suits campers who want a short queen fit at the lowest price.",
     "specs": [
       "60 x 75 inch short queen",
@@ -109,7 +109,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51zUucO1OmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B079953HLH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B079953HLH?tag=rvgearlab-amz-20",
     "description": "The Best Price Foam is a 4 inch ventilated memory foam topper with cooling gel infusion and CertiPUR-US certification. The ventilated design improves airflow and reduces trapped body heat.\n\nAt 4 inches it is thicker than the other picks, giving the most cushion. It also carries CertiPUR-US certification for performance, emissions and environmental stewardship. It suits sleepers who need thick cushion and cooling, and who can pick the right size for their RV bed.",
     "specs": [
       "4 inch memory foam",

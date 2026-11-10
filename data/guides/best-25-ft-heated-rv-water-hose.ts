@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51wFhObXKKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H6PGL3ZK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H6PGL3ZK?tag=rvgearlab-amz-20",
     "description": "The RVSNAIL 25FT has a silicone heating wire, five protective layers and -45°F protection. RVSNAIL builds this 25FT hose around a silicone heating wire for flexibility in freezing weather and -45°F protection.\n\nIt stays softer in cold than the braided OEBLD and Cupohus, while costing about 10 to 15 dollars less. The RVSNAIL 25FT budget version uses a simpler build.\n\nIt uses five protective layers and is aimed at winter RV travel, cabins and homes. It suits regular winter campers who handle the hose often.",
     "specs": [
       "25 ft, -45°F protection",
@@ -53,7 +53,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41VJIXnM42L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BRSQ7TPQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BRSQ7TPQ?tag=rvgearlab-amz-20",
     "description": "The OEBLD 25FT has a 5/8-inch inner diameter and a braided PVC-coated polyester jacket with -45°F protection. OEBLD lists this 25FT hose with a 5/8-inch ID, -45°F protection and a 3/4-inch GHT fitting with thick gaskets.\n\nIt beats the Cupohus on bore size while costing five dollars more. Its triple-seal fitting adds leak resistance.\n\nThe braided PVC-coated polyester jacket is described as resisting abrasion, UV and low-temperature cracking. It fits buyers who need strong flow and a rugged jacket.",
     "specs": [
       "25 ft, 5/8 inch ID",
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41pFPiqOo4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BN5SQ68T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BN5SQ68T?tag=rvgearlab-amz-20",
     "description": "The Cupohus 25FT uses a 3/4-inch GHT fitting with thick gaskets and sealing tape, rated to -45°F. Cupohus lists this 25FT hose at -45°F with a 3/4-inch GHT fitting, rubber gaskets and sealing tape.\n\nCompared with the OEBLD it offers a similar braided jacket for less money. It undercuts the RVSNAIL Silicone by about 10 dollars.\n\nIt uses a PVC-coated polyester braided jacket and food-grade, odorless, BPA and lead free materials. It suits owners who want a sealed fitting and a wear-resistant jacket.",
     "specs": [
       "25 ft, -45°F protection",
@@ -107,7 +107,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51pvzfBSlvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FL21SWM9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FL21SWM9?tag=rvgearlab-amz-20",
     "description": "This RVSNAIL 25 ft hose offers -45°F protection with an energy-saving design. This RVSNAIL 25 ft hose gives -45°F protection, with an energy-saving design and smart temperature control.\n\nIt costs 10 dollars less than the Silicone version and avoids the silicone wire. The RVGUARD costs more for a lower rating.\n\nIts inner hose is food-grade drinking water safe and free of lead and BPA. It suits budget buyers who still want a deep-cold rating.",
     "specs": [
       "25 ft, -45°F protection",
@@ -134,7 +134,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41aGZ5NdxQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D6YRF348?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D6YRF348?tag=rvgearlab-amz-20",
     "description": "The RVGUARD 25FT has stainless steel connectors, a five-layer hose and a thermostat that turns on near 47°F. RVGUARD's 25FT hose has a -20°F rating and an energy-saving thermostat that turns on near 47°F.\n\nIt trades the -45°F rating of the RVSNAIL for metal hardware. The RVMATE undercuts it for a similar -20°F rating.\n\nIt includes a five-layer hose, stainless steel connectors and lead and BPA free water. It suits sites that stay above about -10°F.",
     "specs": [
       "25 ft, -20°F protection",
@@ -161,7 +161,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51jtzVB3iNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B76HVMR3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B76HVMR3?tag=rvgearlab-amz-20",
     "description": "The RVMATE 25FT uses compression technology so the hose heads seal more tightly, rated to -20°F. RVMATE's 25FT hose is rated to -20°F and uses compression technology so the hose heads seal more tightly.\n\nIt costs 10 dollars less than the RVSNAIL and comes in at the lowest price here. Copper nickel plated connectors replace aluminum.\n\nThe connectors are lead-free copper nickel plated, and the hose is lead and phthalate free with no rubber taste. It suits cost-conscious owners in milder regions.",
     "specs": [
       "25 ft, -20°F protection",

@@ -21,7 +21,7 @@ export const products = withAmazonUrls([
     badge: "Best overall",
     name: "EF ECOFLOW Solar Generator RIVER 2 Pro & 160W Portable Solar Panel, 768Wh",
     amazonQuery: "EF ECOFLOW Solar Generator RIVER 2 Pro & 160W Portable Solar Panel, 768Wh",
-    amazonUrl: "https://www.amazon.com/dp/B0BYS84V1P?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0BYS84V1P?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41DBVitvrJL._SL500_.jpg",
     specs: ["Capacity: 768Wh","Continuous output: 68W","Listed weight: 17.2 lb","Included panel: 160W"],
     specList: [{"label":"Capacity","value":"768Wh"},{"label":"Continuous output","value":"68W"},{"label":"Listed weight","value":"17.2 lb"},{"label":"Included panel","value":"160W"}],
@@ -36,7 +36,7 @@ export const products = withAmazonUrls([
     badge: "Best heavy-duty option",
     name: "EF ECOFLOW Solar Generator RIVER 2 Pro & 220W Portable Solar Panel, 768Wh",
     amazonQuery: "EF ECOFLOW Solar Generator RIVER 2 Pro & 220W Portable Solar Panel, 768Wh",
-    amazonUrl: "https://www.amazon.com/dp/B0BYP4D1HQ?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0BYP4D1HQ?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/318smrcMShL._SL500_.jpg",
     specs: ["Capacity: 768Wh","Listed weight: 17.2 lb","Runtime claim: Up to 4.3 hours","Battery chemistry: LiFePO4"],
     specList: [{"label":"Capacity","value":"768Wh"},{"label":"Listed weight","value":"17.2 lb"},{"label":"Runtime claim","value":"Up to 4.3 hours"},{"label":"Battery chemistry","value":"LiFePO4"}],
@@ -51,7 +51,7 @@ export const products = withAmazonUrls([
     badge: "Best compact option",
     name: "EF ECOFLOW Portable Power Station River 2 Max 500 2 & 160W Solar Panel",
     amazonQuery: "EF ECOFLOW Portable Power Station River 2 Max 500 2 & 160W Solar Panel",
-    amazonUrl: "https://www.amazon.com/dp/B0BR5NM8L4?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0BR5NM8L4?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41FimZBaZNL._SL500_.jpg",
     specs: ["Included panel: 160W","Runtime claim: Up to 4 hours","Battery chemistry: LiFePO4","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Included panel","value":"160W"},{"label":"Runtime claim","value":"Up to 4 hours"},{"label":"Battery chemistry","value":"LiFePO4"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -66,7 +66,7 @@ export const products = withAmazonUrls([
     badge: "Best value pick",
     name: "EF ECOFLOW Portable Power Station RIVER 2, 256Wh 300W",
     amazonQuery: "EF ECOFLOW Portable Power Station RIVER 2, 256Wh 300W",
-    amazonUrl: "https://www.amazon.com/dp/B0B8MXPRDB?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0B8MXPRDB?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/31oJJr5KzCL._SL500_.jpg",
     specs: ["Capacity: 256Wh","Continuous output: 300W","Listed weight: 7.7 lb","Runtime claim: Up to 1 hours"],
     specList: [{"label":"Capacity","value":"256Wh"},{"label":"Continuous output","value":"300W"},{"label":"Listed weight","value":"7.7 lb"},{"label":"Runtime claim","value":"Up to 1 hours"}],
@@ -81,7 +81,7 @@ export const products = withAmazonUrls([
     badge: "Best backup pick",
     name: "EF ECOFLOW Portable Power Station RIVER 2 240 & 45W Solar Panel,256Wh 300W",
     amazonQuery: "EF ECOFLOW Portable Power Station RIVER 2 240 & 45W Solar Panel,256Wh 300W",
-    amazonUrl: "https://www.amazon.com/dp/B0D12QYWPB?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0D12QYWPB?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/212ICox6-iL._SL500_.jpg",
     specs: ["Capacity: 256Wh","Continuous output: 300W","Listed weight: 10.8 lb","Included panel: 45W"],
     specList: [{"label":"Capacity","value":"256Wh"},{"label":"Continuous output","value":"300W"},{"label":"Listed weight","value":"10.8 lb"},{"label":"Included panel","value":"45W"}],
@@ -183,7 +183,7 @@ export const relatedGuides = [
 export const sources = [
   {
     "title": "EF ECOFLOW Solar Generator RIVER 2 Pro & 160W Portable Solar Panel, 768Wh product page",
-    "href": "https://www.amazon.com/dp/B0BYS84V1P?tag=rvgearlab-20&linkCode=osi&th=1&psc=1"
+    "href": "https://www.amazon.com/dp/B0BYS84V1P?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1"
   },
   {
     "title": "CPSC carbon monoxide safety center",

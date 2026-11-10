@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41YDVqPAaqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CDWR5RP9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CDWR5RP9?tag=rvgearlab-amz-20",
     "description": "The TOSOT is a 16,000 BTU unit with a 12,500 BTU heat pump, 43 dB operation and a 23°F to 115°F working range. The TOSOT white unit is 16,000 BTU cooling with a 12,500 BTU heat pump, working in ambient temperatures from 23°F to 115°F.\n\nIt is aimed at RVs 16 to 24 feet. It costs about 450 dollars less than the Gidrox and adds a heat pump the FOGATTI units lack.\n\nIt runs at 43 dB, about 32 percent quieter than standard RV ACs, and is aimed at RVs 16 to 24 feet. It suits owners who want quiet cooling and mild heating.",
     "specs": [
       "16,000 BTU, 12,500 BTU heat pump",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41j77g6xV+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FGQ3CZS8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FGQ3CZS8?tag=rvgearlab-amz-20",
     "description": "The black TOSOT has the same 16,000 BTU, 12,500 BTU heat pump and 43 dB rating as the white model. The black TOSOT unit has the same 16,000 BTU cooling, 12,500 BTU heat pump and 43 dB rating as the white model.\n\nIt costs about 175 dollars less than the white TOSOT. It is the same unit in a different finish.\n\nIt works in ambient temperatures from 23°F to 115°F. It suits owners who want a black rooftop finish.",
     "specs": [
       "16,000 BTU, 12,500 BTU heat pump",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/413rRTq2iKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G64CCR55?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G64CCR55?tag=rvgearlab-amz-20",
     "description": "The FOGATTI non-ducted unit is 16,000 BTU cooling only, with dual compressors and a high-strength HIPS shell. The FOGATTI non-ducted unit is a 16,000 BTU cooling-only air conditioner with dual compressors and a high-strength HIPS shell.\n\nIt costs about 25 dollars less than the black TOSOT but adds no heat. Dual compressors give redundancy.\n\nIt uses R32 refrigerant and the shell resists impact and UV. It suits owners who want cooling only.",
     "specs": [
       "16,000 BTU non-ducted",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41VazWzh0UL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GXY2LJ92?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GXY2LJ92?tag=rvgearlab-amz-20",
     "description": "Dual high-efficiency compressors and R32 refrigerant power the FOGATTI ducted unit, a 16,000 BTU cooling-only rooftop air conditioner. It runs at 59 dB.\n\nIt is the ducted sibling of the non-ducted FOGATTI and costs about 50 dollars more. The ducted layout feeds the cooled air through the ceiling distribution.\n\nOwners with a ducted rig get a matching unit. Plan for both 115V AC and 12V DC connections.",
     "specs": [
       "16,000 BTU ducted",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41C7dSXIn-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GYPH98NT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GYPH98NT?tag=rvgearlab-amz-20",
     "description": "The Gidrox is a 115V heat pump unit titled 16,000 BTU, with 330 CFM airflow and 12,000 BTU of heating. The Gidrox is a 115V heat pump unit titled 16,000 BTU, with 330 CFM airflow and a 100 degree wide automatic air swing.\n\nIt offers the highest heating figure here, and a 100 degree air swing. It costs the most of the six.\n\nIt lists 12,000 BTU of heating and a dual-sided outlet for full-coverage air distribution. It suits owners of large rigs who want strong heating.",
     "specs": [
       "Heat pump, 330 CFM",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31nP7haViaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FX9KH5W9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FX9KH5W9?tag=rvgearlab-amz-20",
     "description": "The DOMANKI is a portable inverter air conditioner rated 16,000 BTU ASHRAE (12,000 BTU SACC) with a dual hose design. The DOMANKI is a 16,000 BTU ASHRAE (12,000 BTU SACC) portable air conditioner with inverter technology and a dual hose design.\n\nIt undercuts every other pick on price and needs no rooftop cut-out. It is a portable unit, not a rooftop.\n\nIt auto-evaporates condensate in most conditions and offers cool, dry, fan and auto modes. It suits owners who want a temporary cooler.",
     "specs": [
       "16,000 BTU ASHRAE portable",

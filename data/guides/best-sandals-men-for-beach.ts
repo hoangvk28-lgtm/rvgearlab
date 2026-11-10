@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41EWy2qAvgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B071RPG66Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B071RPG66Q?tag=rvgearlab-amz-20",
     "description": "The Dockers Newpage is a strapped sport sandal with a dual-layer comfort system: a Dockers Fusion footbed topped with a memory foam insole. Hook-and-loop closures let you adjust the fit, and the distressed synthetic upper is described as durable and water-friendly for beach days and campgrounds.\n\nNext to the Reef One Slide, it adds adjustable straps that hold the foot on uneven sand or a walk back to camp. Against the FITORY Cork Slides, it swaps the cork footbed for memory foam and a rubber outsole.\n\nIt suits men who want one sandal for the beach, the campground and a few miles of walking. The flexible build moves with the foot instead of fighting it.",
     "specs": [
       "Memory foam over Fusion footbed",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31kxEifjhzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07CZGKS5Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07CZGKS5Q?tag=rvgearlab-amz-20",
     "description": "The Reef One Slide uses a water-friendly synthetic strap lined with soft padded jersey and an injection-molded waterproof EVA footbed. The outsole is non-marking EVA, and Reef covers manufacturer defects for up to one year.\n\nCompared with the Dockers Newpage, it drops the straps for a quick slip-on shape that sheds water fast. Against the SMIUPIN EVA Slides, it brings a named beach brand and a padded jersey strap lining.\n\nIt fits men who live in slides from the parking lot to the water. The slimmer profile suits narrow to medium feet.",
     "specs": [
       "Waterproof molded EVA footbed",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41VT1u9LgbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08R3GHLNH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08R3GHLNH?tag=rvgearlab-amz-20",
     "description": "The FITORY Cork Slides pair a contoured natural cork footbed with a deep heel cup and a roomy toe box. Two adjustable buckled straps tune the fit, and a lightweight patterned EVA outsole adds grip and shock absorption.\n\nAgainst the Reef One Slide, it offers two adjustable straps and a molded footbed instead of a flat slim slide. Next to the Quickshark Flip-Flops, it keeps the whole forefoot covered rather than relying on a toe post.\n\nIt suits men who want an arch-friendly slide for shoreline walks and evenings out. FITORY lists a no-risk money-back guarantee on the purchase.",
     "specs": [
       "Contoured cork footbed",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41lcJ5HP7qL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B088TB86DZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B088TB86DZ?tag=rvgearlab-amz-20",
     "description": "The Quickshark Flip-Flops use vegan leather for the upper and footbed with a synthetic lining for comfort and toe protection. An EVA midsole cushions the step, and the listing names ergonomic arch support plus a rubber outsole with a directional tread.\n\nCompared with FITORY Canvas Flip-Flops, it moves up to a leather-look strap and a more cushioned EVA midsole. Against the SMIUPIN EVA Slides, it keeps the foot in place with a toe post.\n\nIt suits men who prefer a flip-flop that looks a notch smarter on the boardwalk. The listing calls it ready for the beach, lake and pool.",
     "specs": [
       "Vegan leather upper and footbed",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4111YqL8HZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DL8R79VK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DL8R79VK?tag=rvgearlab-amz-20",
     "description": "The SMIUPIN EVA Slides have a soft TPR sole and a textured footbed with a raised, non-slip tread. A broad slip-on upper has no laces or straps, and the listing names shower, bathroom, pool, gym and beach settings.\n\nCompared with the Reef One Slide, it is a plain molded slide without the jersey-lined strap or brand support. Next to the FITORY Canvas Flip-Flops, it covers more of the top of the foot.\n\nIt suits men who want a cheap, quick pair for poolside, hotel rooms and sand. A size chart is provided, and measuring first is the listing's own advice.",
     "specs": [
       "Soft TPR sole",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41xA20aJC+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07G2BBGRL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07G2BBGRL?tag=rvgearlab-amz-20",
     "description": "The FITORY Canvas Flip-Flops use reinforced canvas straps and a thick rubber sole, with a contoured footbed and targeted arch support. The listing calls the sizing true to size and the design roomy enough for wider feet, with a fixed strap that stays in place.\n\nCompared with the Quickshark Flip-Flops, it gives up the leather-look finish for plain canvas and a lower price. Against the SMIUPIN EVA Slides, it adds arch support and a non-slip rubber sole.\n\nIt is the one for men who want a dependable flip-flop at the lowest price here. FITORY lists a simple care step: rinse with fresh water after the beach and air dry.",
     "specs": [
       "Reinforced canvas straps",

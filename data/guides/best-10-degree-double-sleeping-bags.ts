@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/317e1-QW1hL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B000F38YHI?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B000F38YHI?tag=rvgearlab-amz-20",
     "description": "TETON's Mammoth is a 0 degree double that measures 94 x 62 inches, which the listing says is longer and wider than a queen mattress. It has a poly-flannel lining, shoulder and zipper draft tubes, and unzips on both sides and across the bottom.\n\nNext to the Guide Gear Canvas Hunter, it swaps a heavy canvas shell for a lighter fiber-fill build with a stuff sack, so it is far easier to move from car to campsite. The extra length also suits a taller partner better than the WKFAMOUT's 86.7 inch cut.\n\nA solid choice for couples who camp when nights fall below freezing and want one roomy bag. Fluff it and add a pad underneath for the warmth the label promises.",
     "specs": [
       "94 x 62 inch double",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411QOlSvAdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B079H1LBN7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B079H1LBN7?tag=rvgearlab-amz-20",
     "description": "Guide Gear builds this 0 degree double with an 8 oz cotton canvas shell, brushed cotton flannel lining and 7 lb of insulation. The listing gives a 50 x 90 inch footprint, an attached hood and a two-way full-length anti-snag zipper.\n\nCompared with the TETON Mammoth, it is narrower and denser, and the canvas shell resists snags and campfire sparks better than polyester. The WKFAMOUT beats it on packability, while this bag is the one built for hunting camps and truck beds.\n\nPick it for hunters, ranch campers and anyone who wants a tough shell for rough ground. Plan on dedicated vehicle storage.",
     "specs": [
       "8 oz canvas shell",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41KSXpfhJ7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FX3VCTY1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FX3VCTY1?tag=rvgearlab-amz-20",
     "description": "WKFAMOUT markets this as a 0 degree double that sleeps two adults up to 6 ft 2 in in an 86.7 x 59 inch envelope. Insulation is 5.73 lb of faux silk cotton, double-layered on top, and the bag splits into two single bags.\n\nIt weighs far less than the 13.6 lb Guide Gear and brings an oversized 210D Oxford compression sack, which makes it easier to pack. The listing also states a comfort level of 30F, which is the most honest number among the three.\n\nA good fit for couples who want to split the bag into two singles on milder trips. Choose it when moving the bag matters.",
     "specs": [
       "86.7 x 59 inch double",

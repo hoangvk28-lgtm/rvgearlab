@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51FYJgFT32L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HDRQ6XGL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HDRQ6XGL?tag=rvgearlab-amz-20",
     "description": "This 10 by 10 foot canopy has a center-lock frame that one person can open in about a minute, a white silver-coated 210D Oxford top rated UPF 50+ and a powder-coated steel frame. The kit holds eight steel stakes, four guy ropes and four sandbags.\n\nOf the three it is the only one that includes sandbags as well as stakes and ropes, which is the gear that actually keeps a canopy down on a gusty day. It costs about the same as the flag-print slant-leg model and a little more than the Zeny, and the extra goes into ballast and one-person setup.\n\nIt suits solo campers and couples who set up alone at a campsite or a tailgate. At 35 pounds folding to a 4 foot bundle, it rides in a compact car trunk.",
     "specs": [
       "10x10 ft, UPF 50+ white top",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31zGVyDiTxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B5TYQFLT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B5TYQFLT?tag=rvgearlab-amz-20",
     "description": "The Zeny is a 10 by 10 foot straight-leg canopy with about 96 square feet of coverage, a 210D Oxford top and a powder-coated steel frame. It has three height settings on push buttons and comes with stakes, ropes and a 600D carry bag with wheels.\n\nIt is the cheapest of the group and the only one with wheels on the carry bag, which matters if you walk from a parking lot to your site. Straight legs give a slightly smaller covered area than the slant-leg style, and the frame sits squarely on the ground with a tidy corner footprint.\n\nIt suits a camper on a tight budget who wants dependable shade without frills. Add your own weights if the forecast looks breezy.",
     "specs": [
       "96 sq ft straight-leg design",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41+vrRmdKIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GTLN7LJ1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GTLN7LJ1?tag=rvgearlab-amz-20",
     "description": "This canopy is a 10 by 10 foot slant-leg model with a steel frame, a 210D Oxford top with a silver-coated underside and push-button height adjustment on all four legs. The version here has an American flag print and comes with a carrying bag, ground stakes and ropes.\n\nSlant legs spread the footing wider than the Zeny's straight legs, which adds some stability. The frame and fabric are close to the white HDRQ model, so the choice between them is mostly the print and whether you want sandbags in the box.\n\nIt suits tailgates, holiday gatherings and fairs where a print is part of the look. The same listing also sells in other colors, so choose the finish you want.",
     "specs": [
       "Slant legs, steel frame",

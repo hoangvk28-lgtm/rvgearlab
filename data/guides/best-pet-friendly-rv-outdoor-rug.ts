@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51qrghvmI6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FJFFGS3V?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FJFFGS3V?tag=rvgearlab-amz-20",
     "description": "The CircleRoad is a 9x18 ft reversible rug made from 100% virgin polypropylene that is breathable and soft. The listing calls it pet friendly and safe for children and grass, and four stakes come in the box.\n\nBeside the Alfolo 9x18, it is the only large pick that names pet friendliness and includes stakes for securing it against a dog pulling at a corner. It suits owners who want one rug that covers the awning and holds up to pets.",
     "specs": [
       "9x18 ft polypropylene",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/61H6gf++byL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DXL46JQF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DXL46JQF?tag=rvgearlab-amz-20",
     "description": "The Alfolo is a 9x18 ft reversible rug in tightly woven polypropylene plastic straw with a black and white brick pattern. The weave is built to withstand all weather and the surface is UV and fade resistant.\n\nCompared with the CircleRoad, it leans on pattern and weave density rather than stakes or soft-touch wording, and it costs a little more. It suits buyers who like the black and white look and want a large rug.",
     "specs": [
       "9x18 ft plastic straw",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51tJ17d65PL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CJ2M8SZ4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CJ2M8SZ4?tag=rvgearlab-amz-20",
     "description": "The FACOYANS is a 9x12 ft reversible camper rug with a UV-resistant coating and a woven structure that is soft enough for bare feet. A carry bag comes in the box for easy transport.\n\nNext to the 9x18 rugs, it covers a smaller patio pad and packs smaller, which makes it easier to shake out after pets. It suits owners of travel trailers who want a pet area without a full awning rug.",
     "specs": [
       "9x12 ft plastic straw",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/61QlJH1ZfmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09NLM3M6B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09NLM3M6B?tag=rvgearlab-amz-20",
     "description": "The MontVoo 6x9 ft rug is woven from tubular, allergy-free plastic straws that feel soft under toes and knees. Dirt, hair and spills come off with a water spray or a shake, and the thermoplastic edge resists wear.\n\nAgainst the HEBE 6x9, it costs more and puts the focus on hair removal and the soft tubular weave. It suits owners with a cat or small dog who want an easy hair-free surface.",
     "specs": [
       "6x9 ft tubular straw",
@@ -133,7 +133,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/61OoSHaS-SL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FSD6HTFC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FSD6HTFC?tag=rvgearlab-amz-20",
     "description": "The HEBE 6x9 ft rug has a checkered pattern on both sides and is certified OEKO-TEX Standard 100. It is made from recycled plastic straws and wipes or hoses off, with a carrying case included.\n\nIt is the least expensive pick in this list and the only one with an OEKO-TEX certification for its material. It suits pet owners on a tight budget who want a small, safe landing zone.",
     "specs": [
       "6x9 ft recycled straw",

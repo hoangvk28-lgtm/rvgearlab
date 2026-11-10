@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41DsSNXBnUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CNJ1FCQQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CNJ1FCQQ?tag=rvgearlab-amz-20",
     "description": "The KEEN Targhee 4 is a low waterproof hiking shoe built on KEEN's Original Fit, which gives toes generous room to spread. It carries a KEEN.DRY membrane, a removable Luftcell footbed with arch support and 4mm multi-direction lugs on all-terrain rubber.\n\nAgainst the Merrell Moab 3 Wide, it adds a waterproof membrane and a bruise plate under the forefoot. Compared with the Saucony Excursion TR15, it has a sturdier build and a more protective toe guard.\n\nIt suits wide-footed hikers who want one dependable shoe for wet, rocky and muddy routes. The wide size is available in the size menu.",
     "specs": [
       "KEEN.DRY waterproof membrane",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41IiJmc7YyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B098KHS9BB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B098KHS9BB?tag=rvgearlab-amz-20",
     "description": "The Merrell Moab 3 Wide is a pigskin leather and mesh hiking shoe with a bellows tongue, protective toe cap and recycled mesh lining. The listing shows a wide size option, and the laces and webbing are made from recycled material.\n\nCompared with the KEEN Targhee 4, it skips the waterproof membrane and breathes more on warm days. Against the Saucony Excursion TR15, it carries more leather and a firmer, more traditional structure.\n\nIt suits hikers who like a broken-in feel and a long track record in a wide width. The bellows tongue keeps trail debris out.",
     "specs": [
       "Pigskin leather and mesh upper",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41xzcBhuNML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09H25LJRS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09H25LJRS?tag=rvgearlab-amz-20",
     "description": "The Saucony Excursion TR15 is a trail-style hiking shoe with carbon rubber lugs, moderate-stack VERSARUN cushioning and a trail mesh upper with supportive overlays. The listing shows a wide size choice.\n\nIt is lighter and more athletic than the KEEN Targhee 4 and the Merrell Moab 3 Wide. Compared with the Columbia Crestwood, it gives more cushioning under the foot and a more locked-down upper.\n\nIt suits wide-footed hikers who move fast and prefer a running shoe feel. The overlays protect against debris without bulk.",
     "specs": [
       "Carbon rubber trail lugs",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Rg5C3l8wL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F9SL6V4B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F9SL6V4B?tag=rvgearlab-amz-20",
     "description": "The HF Stride Barefoot is a slip-on shoe with a wide toe box, zero-drop sole and a structured heel cup. The listing describes a lightweight breathable build with hands-free entry.\n\nUnlike the KEEN and Merrell picks, it has no laces and a flat zero-drop platform that lets toes splay naturally. It is far lighter than the Saucony Excursion TR15.\n\nIt suits hikers who already like barefoot-style shoes and want maximum toe freedom on easy trails. The listing recommends sizing up one size.",
     "specs": [
       "Wide toe box, zero-drop sole",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31hhBrJJeBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07JH35W6K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07JH35W6K?tag=rvgearlab-amz-20",
     "description": "The Columbia Crestwood is a lightweight hiking shoe in breathable suede mesh with a high-traction tread and no break-in period. The listing calls it ready for both trail and everyday wear.\n\nCompared with the Merrell Moab 3 Wide, it is simpler and lighter on the wallet. Next to the HF Stride Barefoot, it offers a conventional lace-up fit with real tread.\n\nIt suits dry-weather hikers who want a plain, inexpensive shoe and can find a comfortable size in the menu. The suede mesh breathes in dry heat.",
     "specs": [
       "Breathable suede mesh upper",

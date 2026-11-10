@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41vOzYvZgcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HG186B4P?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HG186B4P?tag=rvgearlab-amz-20",
     "description": "The Xximuim 200 watt car heater plugs into a cigarette lighter and is listed with a 5 second heat-up, defrost and defog function and a heating and cooling dual mode. It carries built-in safety protection.\n\nIt costs slightly more than the other Xximuim model and lists the dual mode. Compared with the Bestol and Moofey parts, it is a ready-to-use device rather than a bare element.\n\nBest for defrosting the windshield of a tow vehicle or van. A handy winter tool.",
     "specs": [
       "12V 200W, lighter plug",
@@ -53,7 +53,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51jePxTxS7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GGRDYJQT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GGRDYJQT?tag=rvgearlab-amz-20",
     "description": "The Xximuim 200 watt car heater has a suction cup mount, a cigarette lighter plug, a built-in fuse and automatic power-off protection. A pure copper cable and ABS body are listed.\n\nIt costs less than the other Xximuim and adds a suction mount. It is the lower-cost way to get a plug-in 12 volt heater.\n\nBest for a dash-mounted defrosting heater in a tow vehicle. A cheap, simple device.",
     "specs": [
       "12V 200W, lighter plug",
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Btf3zKLDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HHRWK3YZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HHRWK3YZ?tag=rvgearlab-amz-20",
     "description": "The BildeeMait is a 30 watt solar fan heater with a crystalline silicon panel and a standard 12 volt adapter. It is a slim 145 by 330 by 3 mm unit with one-button operation.\n\nIt costs more than the plug-in heaters and adds a solar panel. Its 30 watt rating is the lowest in the group.\n\nBest for a vehicle where you want sun-assisted warmth. A novelty tool for small spaces.",
     "specs": [
       "30W solar fan heater",
@@ -107,7 +107,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41mCL3wCMjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FHWFKBP4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FHWFKBP4?tag=rvgearlab-amz-20",
     "description": "The Moofey is a 200 watt DC 12 volt PTC ceramic air heater with an insulated surface and thermostatic control. It is sold for air conditioning units, air curtains, dryers and automotive systems.\n\nIt costs less than the plug-in heaters and is a bare element for building into equipment. Compared with the Bestol, it carries a higher watt rating.\n\nBest for builders who want a heater element for a custom project. A component rather than a finished heater.",
     "specs": [
       "12V 200W PTC element",
@@ -134,7 +134,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31G59Xdc0lL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B081NQH1BD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B081NQH1BD?tag=rvgearlab-amz-20",
     "description": "The Bestol is a PTC fan air heater element sold in 12 or 24 volt versions from 70 to 300 watts, and the 12 volt 120 watt version is listed. It has an insulated surface, mounting holes and high temperature wire leads.\n\nIt costs slightly more than the Moofey and offers mounting holes and a range of wattages. It also regulates its own power within a range.\n\nBest for custom installs that need a small heating element. A bare part for builders.",
     "specs": [
       "12V 120W PTC element",
@@ -161,7 +161,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41n-y0wWVLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07V4FNHCD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07V4FNHCD?tag=rvgearlab-amz-20",
     "description": "The Amazon Basics oscillating ceramic heater is a 120 volt unit with 1500 watt high, 900 watt low and fan-only settings. It oscillates 45 degrees, weighs 3 pounds and has tip-over and overheat protection.\n\nIt is not a 12 volt heater and is the only pick here that can warm a cabin when you have shore power or a generator. It costs about the same as the plug-in 12 volt heaters.\n\nBest for owners who want real cabin warmth from 120 volt power. The practical answer to a cabin heating need.",
     "specs": [
       "120V, 1500W high, 900W low",

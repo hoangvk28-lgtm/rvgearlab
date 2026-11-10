@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41UpLGHbTOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HHXF5B19?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HHXF5B19?tag=rvgearlab-amz-20",
     "description": "The MWKHZIL is titled for the Subaru Forester 2025 to present and wraps around the open rear hatch. It uses waterproof-coated Oxford fabric, large openings for ventilation and a foldable build.\n\nIt is the only pick whose title narrows to the newest generation. The optrcn and OYZUOAU cover long ranges.\n\nIt suits owners of a 2025 or later Forester who want a fitted annex. The tent folds small for the cargo area.",
     "specs": [
       "Titled for Forester 2025 to present",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51GkST4IZXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H69CS2QC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H69CS2QC?tag=rvgearlab-amz-20",
     "description": "The optrcn lists the Subaru Forester from 1998 to 2026 and is an arch tent with three doors, water-resistant fabric and a lightweight foldable frame. It attaches to the rear hatch or stands alone.\n\nIt covers a much wider year range than the MWKHZIL and costs less. Compared with the OYZUOAU it lists a flexible multi-use setup.\n\nIt suits owners of any Forester from the late 1990s on who want a sheltered rear area. Three doors allow entry from different directions.",
     "specs": [
       "Forester 1998 to 2026",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41eP6NG28mL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HHWRRSDR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HHWRRSDR?tag=rvgearlab-amz-20",
     "description": "The OYZUOAU Forester Arch Tent lists the Forester from 1997 to 2022 and also 2023, 2024 and 2026. It has a removable rainfly, a sturdy frame, two side doors and one front door.\n\nIt adds a removable rainfly that the listing stresses and costs a little more than the optrcn. The Trekway is much larger.\n\nIt suits owners who want weather cover that comes off in summer. The rear connection lets you walk from the cargo area.",
     "specs": [
       "Forester 1997 to 2024, 2026",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51gcTcji70L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B078LHVXFX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B078LHVXFX?tag=rvgearlab-amz-20",
     "description": "The Trekway is a 9 by 9 foot dome that names the Forester and Outback among its compatible vehicles and sleeps up to 5 adults plus 2 in the SUV. It has nearly 7 feet of stand-up height, a 6 by 4 foot awning and a free rainfly.\n\nIt is the biggest and the cheapest of the four and is the only dome. It also works without a vehicle.\n\nIt suits Forester families who want a roomy tent tied to the car. The awning gives a landing area at the door.",
     "specs": [
       "9x9 ft, sleeps up to 5",

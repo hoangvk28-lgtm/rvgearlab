@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51KrrFrL8ML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DMSRNYK7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DMSRNYK7?tag=rvgearlab-amz-20",
     "description": "The Genkins lists 8000 peak and 6500 rated watts from a 327cc OHV engine with pure sine wave under 2% THD. It runs at 62 dBA from 23 feet, has a 4 gallon tank listed for 8 hours, and an electric start, at $839.\n\nIt is $100.01 less than the Greenmagic Dual Fuel and gives 1200 more rated watts, though it runs on gasoline only. Pick this if you want true 6500 rated watts at a sensible price. The caveat is 112 lb, so lifting it into a truck bed takes two people or a ramp.",
     "specs": [
       "8000W peak, 6500W rated",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41pDZo6xjnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BN2HS341?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BN2HS341?tag=rvgearlab-amz-20",
     "description": "The Champion is a conventional open frame generator, not an inverter, with 8125 starting and 6500 running watts on gasoline, 6000 on propane, and 5500 on natural gas. A 389cc engine, electric start, CO Shield, and a 3-year warranty are listed, at $999.\n\nIt is the priciest pick, $160.00 over the Genkins 8000W, and it buys fuel choice and hoses rather than quieter or lighter operation. Pick this if your rig or home already has propane or natural gas. The caveat is that no inverter means less clean power for sensitive electronics, and noise is not listed.",
     "specs": [
       "8125W starting, 6500W running",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41H3-WQcryL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GY8M55CH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GY8M55CH?tag=rvgearlab-amz-20",
     "description": "The Greenmagic is a dual fuel inverter listed at 6500W max on gasoline and 5900W on propane, with 5300W rated on either. Its panel has an L5-30R, L14-30R, and 5-20R outlets, and it weighs about 93 lb, at $939.\n\nIt costs $100.01 more than the Genkins 8000W but loses 1200 rated watts, and the propane option is its reason to exist. Pick this if you want propane runtime without a tri-fuel price. The caveat is that 5300 rated watts is below the 6500 figure in the title.",
     "specs": [
       "5300W rated, 6500W max gas",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51M70AWQHYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H6ZJMRZF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H6ZJMRZF?tag=rvgearlab-amz-20",
     "description": "The Aceup lists 6500W peak and 5200W rated from a 223cc engine, with a CO shutoff, GFCI protection, a digital display, and a 120/240V 30A twist lock outlet. The tank holds 2.6 gallons, and it costs $789.99.\n\nIt is the cheapest pick, $49.01 less than the Genkins 8000W, but you give up 1300 rated watts and tank capacity. Pick this if your loads stay below about 5000W. The caveat is that weight and noise are not listed, so confirm both before relying on it for a campground.",
     "specs": [
       "6500W peak, 5200W rated",

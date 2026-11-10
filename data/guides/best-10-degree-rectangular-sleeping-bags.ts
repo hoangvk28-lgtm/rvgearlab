@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31HxfehxbAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DJQDMT5Z?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DJQDMT5Z?tag=rvgearlab-amz-20",
     "description": "PO PO BEAR calls this a 0 degree bag in a wide rectangular shape that measures 84 x 40 inches. The listing mentions a soft flannel lining, a compression bag, machine washing, and use in RVs and truck sleeper cabs.\n\nIt is the only pick here whose listing spells out the rectangular design, with more legroom than the narrow mummy bags. Against the RIOYALO, it is wider and longer, and neither prints a fill weight.\n\nA good match for big and tall campers, truck drivers and RV travelers who want space more than low packed weight. Throw it in the wash after a muddy trip.",
     "specs": [
       "84 x 40 inch rectangle",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41JkMSqFwtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B075HGJ54K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B075HGJ54K?tag=rvgearlab-amz-20",
     "description": "RIOYALO fills this 0 degree bag with 450GSM microfiber and wraps it in a 210T ripstop shell with a 190T pongee lining. It measures about 74.8 x 30.7 inches, fits people up to 6 ft 10 in, and packs to 15.6 inches tall.\n\nIt costs the least here and adds a wind buffer along the zipper and a grosgrain ribbon to stop snags. Against the PO PO BEAR it is narrower, so the rectangular label is an inference from its straight dimensions rather than a printed claim.\n\nPick it for campers who want a cold-weather label on a tight budget. Treat it as a short-trip bag.",
     "specs": [
       "450GSM microfiber fill",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31yoKovYwuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00E9SUXXI?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00E9SUXXI?tag=rvgearlab-amz-20",
     "description": "TETON builds the Deer Hunter with a Teton Tough canvas shell, double-layer construction and innovative fiber fill, and the title gives a -35F label. The lining is soft poly-flannel, and the hood is a half-circle design.\n\nIt is the only canvas bag here and the only one labeled far below 0, which puts it in a different class from the PO PO BEAR and RIOYALO. The listing does not name the shape, while the roomy canvas build is closer to a rectangle than a tapered mummy.\n\nA fit for hunters and winter campers who need a rated margin and a tough shell. It is the priciest of the three.",
     "specs": [
       "-35F label, canvas shell",

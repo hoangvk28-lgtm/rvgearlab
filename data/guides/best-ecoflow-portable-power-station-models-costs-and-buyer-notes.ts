@@ -21,7 +21,7 @@ export const products = withAmazonUrls([
     badge: "Best overall",
     name: "EF ECOFLOW Portable Power Station Delta 3 Classic, 1024Wh 1800W AC",
     amazonQuery: "EF ECOFLOW Portable Power Station Delta 3 Classic, 1024Wh 1800W AC",
-    amazonUrl: "https://www.amazon.com/dp/B0FQVC4RF5?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0FQVC4RF5?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/31F8BqUk3HL._SL500_.jpg",
     specs: ["Capacity: 1,024Wh","Continuous output: 1,800W","Surge output: 3,600W","Included panel: 500W"],
     specList: [{"label":"Capacity","value":"1,024Wh"},{"label":"Continuous output","value":"1,800W"},{"label":"Surge output","value":"3,600W"},{"label":"Included panel","value":"500W"}],
@@ -36,7 +36,7 @@ export const products = withAmazonUrls([
     badge: "Best heavy-duty option",
     name: "EF ECOFLOW Delta 3 Portable Power Station, 1024Wh 1800W",
     amazonQuery: "EF ECOFLOW Delta 3 Portable Power Station, 1024Wh 1800W",
-    amazonUrl: "https://www.amazon.com/dp/B0DCBYMC9D?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0DCBYMC9D?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/31QO9wVU+QL._SL500_.jpg",
     specs: ["Capacity: 1,024Wh","Battery cycle claim: 4,000 cycles","Battery chemistry: LiFePO4","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Capacity","value":"1,024Wh"},{"label":"Battery cycle claim","value":"4,000 cycles"},{"label":"Battery chemistry","value":"LiFePO4"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -51,7 +51,7 @@ export const products = withAmazonUrls([
     badge: "Best compact option",
     name: "EF ECOFLOW DELTA 3 Max Portable Power Station, 2048Wh LFP Battery, 2400W",
     amazonQuery: "EF ECOFLOW DELTA 3 Max Portable Power Station, 2048Wh LFP Battery, 2400W",
-    amazonUrl: "https://www.amazon.com/dp/B0FQV6LMVX?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0FQV6LMVX?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/31hRboIX8pL._SL500_.jpg",
     specs: ["Capacity: 2,048Wh","Continuous output: 3,400W","Runtime claim: Up to 1.13 hours","Battery chemistry: LiFePO4"],
     specList: [{"label":"Capacity","value":"2,048Wh"},{"label":"Continuous output","value":"3,400W"},{"label":"Runtime claim","value":"Up to 1.13 hours"},{"label":"Battery chemistry","value":"LiFePO4"}],
@@ -66,7 +66,7 @@ export const products = withAmazonUrls([
     badge: "Best value pick",
     name: "EF ECOFLOW Portable Power Station RIVER 2, 256Wh 300W",
     amazonQuery: "EF ECOFLOW Portable Power Station RIVER 2, 256Wh 300W",
-    amazonUrl: "https://www.amazon.com/dp/B0B8MXPRDB?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0B8MXPRDB?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/31oJJr5KzCL._SL500_.jpg",
     specs: ["Capacity: 256Wh","Continuous output: 300W","Listed weight: 7.7 lb","Runtime claim: Up to 1 hours"],
     specList: [{"label":"Capacity","value":"256Wh"},{"label":"Continuous output","value":"300W"},{"label":"Listed weight","value":"7.7 lb"},{"label":"Runtime claim","value":"Up to 1 hours"}],
@@ -81,7 +81,7 @@ export const products = withAmazonUrls([
     badge: "Best backup pick",
     name: "EF ECOFLOW Portable Power Bank Station TRAIL 300 DC, 288Wh 300W DC",
     amazonQuery: "EF ECOFLOW Portable Power Bank Station TRAIL 300 DC, 288Wh 300W DC",
-    amazonUrl: "https://www.amazon.com/dp/B0FDQGHXP8?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0FDQGHXP8?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/31efEtOHtPL._SL500_.jpg",
     specs: ["Capacity: 288Wh","Battery chemistry: LiFePO4","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Capacity","value":"288Wh"},{"label":"Battery chemistry","value":"LiFePO4"},{"label":"Buyer check","value":"Verify current model compatibility"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -183,7 +183,7 @@ export const relatedGuides = [
 export const sources = [
   {
     "title": "EF ECOFLOW Portable Power Station Delta 3 Classic, 1024Wh 1800W AC product page",
-    "href": "https://www.amazon.com/dp/B0FQVC4RF5?tag=rvgearlab-20&linkCode=osi&th=1&psc=1"
+    "href": "https://www.amazon.com/dp/B0FQVC4RF5?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1"
   },
   {
     "title": "CPSC carbon monoxide safety center",

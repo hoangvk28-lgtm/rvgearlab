@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41apd4h1KZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FXDTDL6C?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FXDTDL6C?tag=rvgearlab-amz-20",
     "description": "The Suteck XXL is 79 by 32 by 19 inches with a removable 4 inch mattress and a built-in pillow headrest. It lists a 900 lb capacity and uses a 25mm square anti-rust steel frame.\n\nAgainst the COLMERD, it adds a pillow headrest and a thicker mattress. Compared with the ATORPOK, it is much wider.\n\nIt suits adults who want a roomy, comfortable cot. The 32 inch width gives room to turn.",
     "specs": [
       "79 x 32 x 19 inch, 900 lb",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41bY3ky0tiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F61RXLL9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F61RXLL9?tag=rvgearlab-amz-20",
     "description": "The COLMERD XXL is a 32 inch wide cot on a steel frame listed for more than 900 lb. It uses double-layer Oxford cloth and a removable mattress, with no installation needed.\n\nCompared with the Suteck, it is similar in size and slightly lower in cost. Against the ABORON, it is wider and stronger.\n\nIt suits larger adults who want a strong frame. Set up is just opening and pressing the frame down.",
     "specs": [
       "32 inch wide steel frame",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31WTxRmaXcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08215YSYD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08215YSYD?tag=rvgearlab-amz-20",
     "description": "The MARCHWAY cot weighs 4.9 lb and packs into a 15.7 by 6.9 inch stuff sack. It uses an aircraft-grade aluminum tent-pole frame with ripstop nylon and shock-cord assembly, and holds 275 lb.\n\nCompared with the Suteck, it is a fraction of the weight. Against the ARAER, it packs much smaller.\n\nIt suits backpackers and canoe campers who want a cot. The five cross rods support the sleeper.",
     "specs": [
       "4.9 lb, 275 lb capacity",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51EIq2Lo+XL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09MH9NT2K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09MH9NT2K?tag=rvgearlab-amz-20",
     "description": "The ATORPOK cot has a removable soft cushion and double-layer 600D polyester. Its X-shaped steel frame supports 450 lb and folds into a carry bag.\n\nAgainst the ABORON, it lists a higher capacity. Compared with the Suteck, it is narrower.\n\nIt suits adults who sleep hot, since removing the cushion adds airflow. It is easy to carry.",
     "specs": [
       "450 lb capacity",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41U7fXDsxyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09NR1F63Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09NR1F63Q?tag=rvgearlab-amz-20",
     "description": "The ABORON cot is 75 by 28 by 14 inches with 1200D double-layer Oxford fabric and a removable pad. It opens in under 10 seconds and folds to about 41 by 8 inches.\n\nCompared with the ARAER, it uses stronger fabric. Against the ATORPOK, it is more compact.\n\nIt suits campers who want a fast, low cot. The crossbar sits lower than the fabric.",
     "specs": [
       "75 x 28 x 14 inch",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41pXSa7FhjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CPCFMV9G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CPCFMV9G?tag=rvgearlab-amz-20",
     "description": "The ARAER cot weighs 15.8 lb and uses 25mm steel tubes in a triangle structure. It has a detachable mattress, a storage bag and a side pocket.\n\nCompared with the ABORON, it adds a side pocket and a lighter frame weight. Against the MARCHWAY, it is the stronger steel build.\n\nIt suits adults who want a basic cot at a low price. It fits inside most trunks.",
     "specs": [
       "15.8 lb, 28 inch wide",

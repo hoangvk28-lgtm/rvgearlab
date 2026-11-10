@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41afWDUcfCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FCFFPSVW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FCFFPSVW?tag=rvgearlab-amz-20",
     "description": "The Clemas lantern lists a motion sensor that works within about 15 ft, 350 lumens with four brightness levels and an SOS mode, and a 21 hour runtime on its lowest setting. It has IPX5 water resistance, a foldable stainless steel hook and a strong neodymium magnet base.\n\nAgainst the SMASOON, it is far brighter and rechargeable. Compared with the iodoo, it costs about the same and fits a tent better, with a brightness range sized for sleeping.\n\nIt suits campers who want a tent light that wakes for night trips and mounts on a pole or vehicle. The magnet base sticks to metal surfaces.",
     "specs": [
       "350 lumens, motion within 15 ft",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31MKXs6zQNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F4W3N4LM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F4W3N4LM?tag=rvgearlab-amz-20",
     "description": "The BougeRV AL01 has a 3200mAh battery rated up to six nights at 8 hours a night on the lowest brightness, and about two hours to charge. It offers five brightness levels, three color temperatures plus an SOS mode, and a sensing mode that turns it on with motion.\n\nIt measures 4.06 by 1.54 by 1.96 inches, which is very compact for a lantern. Against the Clemas, it has more color options and a longer stated runtime.\n\nIt suits campers who want the light to last a trip. The color choices let you pick cold light for repairs or warm for sleeping.",
     "specs": [
       "3200mAh, six nights per listing",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31bpDpzlvHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FKSSV8JH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FKSSV8JH?tag=rvgearlab-amz-20",
     "description": "The iodoo lists 4000 lumens, a radar mode with a sensing range over 5 meters, three brightness gears and a 10000mAh battery that doubles as a charger. It has IPX5 water resistance, a magnet and a stated 72 hour standby time.\n\nIt is the brightest and has the longest sensing range here, and it charges phones twice over. Against the Clemas, it adds power-bank use for roughly the same price.\n\nIt suits groups or outage kits that need a big light with a wide trigger zone. The radar mode holds the current brightness when someone moves nearby.",
     "specs": [
       "4000 lumens, 5 m radar range",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51dwdks5r5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CYQ98JTK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CYQ98JTK?tag=rvgearlab-amz-20",
     "description": "The Jearytop lists 1200 lumens, a motion mode that lights when people pass and turns off after 20 seconds, and four lighting modes. It charges from a solar panel or USB-C, carries an IP65 rating and an integrated hook, and includes expansion bolts for wall mounting.\n\nIt is the only solar lantern here and the cheapest, and it doubles as a porch or shed light. Against the Clemas, it lacks a magnet base and a runtime figure.\n\nIt suits campers who also want a motion light for a porch, patio or RV. IP65 covers rain.",
     "specs": [
       "1200 lumens, solar and USB-C",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31BwP5lpNXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D4LXZR71?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D4LXZR71?tag=rvgearlab-amz-20",
     "description": "The SMASOON uses a PIR sensor that turns the light on within 10 feet and off after 100 seconds with no motion. It gives up to 80 lumens from 8 LEDs with four brightness levels and runs on batteries.\n\nIt is the dimmest and simplest here, and the auto-off preserves battery. Compared with the Clemas, it has a lower output with no rechargeable pack.\n\nIt suits tent users who only want a gentle path light. It is cordless and carries easily.",
     "specs": [
       "Up to 80 lumens, 8 LEDs",

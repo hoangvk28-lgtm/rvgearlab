@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31YdfpQ0DHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BZH2WF1Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BZH2WF1Y?tag=rvgearlab-amz-20",
     "description": "The Dometic FreshJet 3 Series R32 uses R32 refrigerant for lower environmental impact and improved energy efficiency. The listing says it is 14 percent lighter than Brisk II units, backward-compatible with existing Dometic and competitor air returns and controls, and has a hidden-screw shroud with no ventilation holes.\n\nAgainst the Arsenda 18K units, it states compatibility with existing controls and a lighter weight but gives no BTU. Against the Tusoma 18K, it offers a trusted RV brand and an easy swap path.\n\nBest for travel trailers replacing an existing Dometic or a competitor unit with the same controls. A good choice when you want to keep the existing ceiling assembly.",
     "specs": [
       "R32 refrigerant, rooftop unit",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41O5QmiO78L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GSD636MK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GSD636MK?tag=rvgearlab-amz-20",
     "description": "The TUSOMA 18000 BTU RV Air Conditioner combines 18,000 BTU cooling with 10,236 BTU heating and is described for spaces up to 680 square feet. It runs on 110-120V in a non-ducted layout and must connect to both 115V AC and 12V DC.\n\nAgainst the Arsenda units, it states a coverage figure of 680 square feet that they do not. Against the Dometic FreshJet 3 R32, it adds a stated heat pump and BTU at a lower price.\n\nBest for travel trailers where you want a stated coverage area. The listing names RVs, campers, travel trailers and fifth wheels.",
     "specs": [
       "18,000 BTU, 10,236 BTU heat",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41s2ur8hKgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GS7LLPG6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GS7LLPG6?tag=rvgearlab-amz-20",
     "description": "The Arsenda 18000 BTU RV Air Conditioner with Heat Pump uses R32 refrigerant for faster cooling and lower energy use. It is non-ducted, runs on 110-120V and needs 115V AC and 12V DC.\n\nAgainst the other Arsenda listings, it names the R32 refrigerant and the rugged road-vibration design. Against the Tusoma 18K, it matches the price tier with refrigerant detail instead of a coverage figure.\n\nBest for travel trailers that want R32 in an 18K heat pump. The listing says it handles sun, wind and road vibration.",
     "specs": [
       "18,000 BTU heat pump, R32",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41yRc-WMSxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GS8SDYYX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GS8SDYYX?tag=rvgearlab-amz-20",
     "description": "The Arsenda 18k BTU RV Air Conditioner with Heat Pump is a 110-120V non-ducted unit with 18,000 BTU cooling and 10,236 BTU heating. The listing says it runs at 50 dB and uses UV-resistant materials built for road conditions.\n\nAgainst the Arsenda 18K R32, it states a 50 dB noise level. Against the Tusoma 18K, it gives a quiet-sleep focus at a higher price.\n\nBest for travel trailer owners who place sleep first. It requires both 115V AC and 12V DC.",
     "specs": [
       "18,000 BTU, 10,236 BTU heat",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31txWl+4XmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GS92J6XW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GS92J6XW?tag=rvgearlab-amz-20",
     "description": "The Arsenda 18000 BTU Rooftop RV Air Conditioner delivers 18,000 BTU cooling and 10,236 BTU heating on 110-120V in a non-ducted design. It runs at 50 dB and uses UV-resistant materials for long-lasting rooftop use.\n\nAgainst the Arsenda 18K Quiet, it carries similar specs at the same price. Against the Arsenda 18K Wide Range, it shows no operating temperature range.\n\nBest for travel trailers that want a plain 18K heat pump. A straightforward unit with 50 dB noise.",
     "specs": [
       "18,000 BTU, 10,236 BTU heat",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31txWl+4XmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GS8Y1L7F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GS8Y1L7F?tag=rvgearlab-amz-20",
     "description": "The Arsenda RV Air Conditioner 18000 BTU lists 18,000 BTU cooling and 10,236 BTU heating on 110-120V and says it works from 23 to 115 degrees F. It uses rugged UV-resistant rooftop construction.\n\nAgainst the Arsenda 18K Non-Ducted, it adds a stated operating range. Against the Tusoma 18K, it costs the same and gives a temperature range in place of a coverage figure.\n\nBest for trailers used in shoulder-season weather. It also requires both 115V AC and 12V DC.",
     "specs": [
       "18,000 BTU, 10,236 BTU heat",

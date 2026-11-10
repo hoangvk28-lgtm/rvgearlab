@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41-LIR9FL4S._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07SX5RPG6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07SX5RPG6?tag=rvgearlab-amz-20",
     "description": "The Clearsource Ultra is a three-stage canister system with a 5 micron sediment filter and a 0.5 micron coconut shell carbon stage, plus a VirusGuard stage the listing says is designed to remove or reduce viruses, bacteria and cysts. It has a powder-coated metal chassis and stainless steel fittings.\n\nIt costs several times what the next pick does, which is the main tradeoff. Against the VEVOR Dual-Stage, you pay for the VirusGuard stage and heavier build, not for more gallons. The listing sets VirusGuard apart from a 0.2 micron filter and says replacement filters are sold separately on Amazon.\n\nBest for full-timers who fill from varied campground sources and want microbial claims on the label. It is a big spend for anyone parked on a trusted city supply.",
     "specs": [
       "VirusGuard stage listed",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51sOnZtY0cL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GZNLK7TY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GZNLK7TY?tag=rvgearlab-amz-20",
     "description": "The VEVOR Dual-Stage uses 5 micron cartridges in a two-canister setup with 3/4 inch fittings. The listing claims up to 4,500 gallons of capacity, a 3 GPM flow rate and stable pressure from 20 to 125 PSI, and says it reduces sediment, chlorine and heavy metals.\n\nCompared with the Clearsource Ultra above, it has no microbial stage and a lighter build, but costs a fraction. Against the WLSINJL 5-Stage, it has a stated flow rate and pressure range, which the WLSINJL listing lacks.\n\nA good middle path for full-timers who want a canister system with a stated 4,500 gallon capacity. The listing mentions microbes, but gives no standard to back it, so do not treat it as a purifier.",
     "specs": [
       "4,500 gallon capacity",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51cEM+M8mIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0024E6V30?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0024E6V30?tag=rvgearlab-amz-20",
     "description": "The Camco Tastepure 2-pack lists NSF/ANSI 42 and 53 testing and CSA lead-free certification to NSF/ANSI 372, using a six-step Hex-Flow design with GAC and KDF media. It is made in the USA and screws onto any garden hose.\n\nNext to the Kohree, it carries more certifications, including NSF 53, and costs about twice as much. Against the VEVOR Dual-Stage, it is easier to swap but filters fewer gallons per cartridge.\n\nBest for full-timers who prefer simple hose-end filters and want named certification. Plan on regular replacement, since hose filters are rated for months, not years.",
     "specs": [
       "NSF/ANSI 42 and 53 listed",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/414KPraZYcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F52QGQD1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F52QGQD1?tag=rvgearlab-amz-20",
     "description": "The WLSINJL is a five-stage system listed as 0.01 micron, with a 1 inch to 3/4 inch adapter and a built-in carry handle. The box includes the housing, three cartridges, a wrench, a spare O-ring, tape and two brass threads. The listing says it can process up to 3,000 gallons without clogging.\n\nIt costs well above the VEVOR Dual-Stage but quotes lower capacity, 3,000 gallons against 4,500. Against the Clearsource Ultra, it is cheaper but lacks named virus technology.\n\nA fit for full-timers who want a complete kit with spares in one box. Confirm the 0.01 micron claim, since the title is the only place it appears.",
     "specs": [
       "5-stage, 3,000 gallons",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41bm+sZcDnS._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0995X7Y3W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0995X7Y3W?tag=rvgearlab-amz-20",
     "description": "The RANSOTO is a three-stage external filter with a powder-coated steel stand that can be mounted or staked. The listing says it traps sediment and reduces odor, but gives no micron ratings, capacity or certifications.\n\nCompared with the VEVOR Dual-Stage, it is cheaper but has less data, so you cannot calculate cost per gallon. Next to the WLSINJL 5-Stage, it uses a simpler three-stage design.\n\nBest for buyers who want a bracket-mounted system on a modest budget. Without published capacity, schedule replacements conservatively.",
     "specs": [
       "3-stage external system",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51lDcSuwW2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0892YBMW4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0892YBMW4?tag=rvgearlab-amz-20",
     "description": "The Kohree 2-pack has a 20 micron sediment stage with five-layer GAC and KDF filtration, a 0.5 gpm flow rate and a 1,057 gallon capacity. The listing says it is NSF certified and has thicker housing that passed burst tests.\n\nIt is the cheapest option here and is aimed at an occasional camper, not a full-timer. At 1,057 gallons per filter, you replace more often than with the VEVOR Dual-Stage's 4,500 gallons.\n\nBest for a full-timer who parks on a trusted city supply and wants the lowest-cost carbon filtering. It is the weakest on flow, at 0.5 gpm.",
     "specs": [
       "20 micron, 0.5 gpm",

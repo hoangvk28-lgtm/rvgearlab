@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/317l4wTH3xL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B016N7DFMI?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B016N7DFMI?tag=rvgearlab-amz-20",
     "description": "The CORE 9 Person Dome sleeps nine and fits three queen air mattresses under a 72 inch center height. It uses traditional fiberglass poles with CORE H20 Block fabric and an adjustable ground vent.\n\nCompared with the Coleman Skydome it adds an overhead gear loft, a lantern hook and an electrical cord port, so lights and fans can run without leaving a door open. Against the UNP it is a full family-size tent where the UNP is a two-person shelter.\n\nIt suits a family of five to eight that wants one big room instead of dividers. The package includes poles, rain fly, stakes and a carry bag.",
     "specs": [
       "Sleeps 9, three queen beds",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31w3dnjC5pL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7QL1LHC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7QL1LHC?tag=rvgearlab-amz-20",
     "description": "The Coleman Skydome comes in 2, 4, 6 and 8 person sizes with pre-attached poles that let it set up in under 5 minutes. Nearly vertical walls give 20% more headroom than traditional Coleman domes.\n\nIt beats the CORE on setup speed and adds WeatherTec welded corners and inverted seams, while its frame has been tested to withstand up to 35 mph winds. A wider door than the UNP makes it easier to carry in air beds and sleeping bags.\n\nIt is the sensible default for most family weekends, especially for first-time buyers who want to be pitched and relaxing quickly. Pick the size that matches your actual bed count rather than the largest one.",
     "specs": [
       "Pre-attached poles, 5 minutes",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41VWaXUc+lL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BDRBV97P?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BDRBV97P?tag=rvgearlab-amz-20",
     "description": "The UNP 2 Person Dome measures 7 ft by 5 ft with a 45 inch roof and weighs 4.8 lb. It fits one full air mattress and goes up in about 3 minutes with one person.\n\nAgainst the Coleman Skydome it is far lighter and smaller, with netting overhead, big side mesh and a small interior pocket. It has a removable rain fly, where the CORE offers a bigger floor and a gear loft.\n\nIt works for a parent and one child, or as a quick-pitch shelter for a day trip. A family of three or more should step up to the Coleman.",
     "specs": [
       "7 x 5 ft floor, 45 in high",

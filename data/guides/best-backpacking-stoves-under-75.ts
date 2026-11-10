@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41yBMwbxvPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00WFFSFZ0?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00WFFSFZ0?tag=rvgearlab-amz-20",
     "description": "The Optimus Crux Lite weighs 2.5 oz, or 72 g, with a 3000W burner for 3 minute boils and precise simmering. It works with EN 417 butane, isobutane or propane cartridges.\n\nIt costs about $53 and offers precise simmering, and it weighs only about 24 g more than the Fire-Maple. The GSI Pinnacle adds a folding design at a higher price.\n\nIt suits thru-hikers and weekenders who want an established ultralight stove with precise flame control. It does not fold.",
     "specs": [
       "2.5 oz (72 g), 3000W",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/319pJv2V5qL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0166Z8YIC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0166Z8YIC?tag=rvgearlab-amz-20",
     "description": "The GSI Pinnacle Canister Stove has a canister mount, a micro control valve and serrated 138 mm pot support arms. It folds to nest inside nFORM cookware and has a 9,629 BTU burner designed to balance fast boils with fuel savings.\n\nIt costs about $70, the most of the four, and folds in a way the Optimus does not. The Optimus is lighter, and the GSI has wider supports for pots.\n\nIt suits backpackers with a GSI pot system who want a fold-flat stove with solid supports. It suits two-person trips.",
     "specs": [
       "9,629 BTU burner",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41efRlqaVNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GJYRZ591?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GJYRZ591?tag=rvgearlab-amz-20",
     "description": "CAMPINGMOON lists the XT-2F body at 68 g, or 2.4 oz, with a pressure regulator inside. A piezo igniter, four supports and a low bowl burner under a raised rim round out the stove.\n\nIt costs about $40, roughly $12 less than the Optimus, and gives a regulator and igniter that the Optimus lacks. It is also 4 g lighter than the Optimus.\n\nIt suits backpackers who want a regulator and an igniter at a mid price. It works in cold weather.",
     "specs": [
       "68 g titanium body",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31vel2ULO0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B078ZD89KZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B078ZD89KZ?tag=rvgearlab-amz-20",
     "description": "The Fire-Maple FMS-116T is a titanium canister stove weighing 1.7 oz, or 48 g. It has a big burner top and a round valve that keeps the whole stove compact.\n\nIt is the lightest stove here and the cheapest, at about $40. It has no igniter or regulator, which separates it from the CAMPINGMOON XT-2F.\n\nIt suits ultralight hikers who value weight over features. It handles wide pots.",
     "specs": [
       "Titanium, 1.7 oz (48 g)",

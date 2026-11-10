@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41yHcW15a8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07FTDS3S9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07FTDS3S9?tag=rvgearlab-amz-20",
     "description": "The NORTIV 8 Hiking Winter boot lists waterproof construction with a windproof synthetic toe cap and 200g insulation rated for temperatures as low as -25F. A removable pile-fabric insole can be washed, and the rubber outsole is described as slip and abrasion resistant.\n\nCompared with the NORTIV 8 Faux Fur, it adds a hiking boot profile with a protective toe cap. Against the OUTJET Insulated, it stresses a removable washable insole and a toe cap.\n\nIt suits hikers and shovelers who want real cold-weather performance at a modest price. It also works for skiing, mountaineering and daily winter wear.",
     "specs": [
       "200g insulation, rated to -25F",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41uAqtPGDKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07T1XMKJB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07T1XMKJB?tag=rvgearlab-amz-20",
     "description": "The NORTIV 8 Faux Fur boot has waterproof construction with a synthetic toe cap and a three-part warming system. That includes a removable warm faux fur insole and 200g 3M Thinsulate insulation.\n\nAgainst the NORTIV 8 Hiking Winter, it leans on the faux fur insole for all-day comfort. Compared with the OUTJET Insulated, it carries a named Thinsulate insulation.\n\nIt suits commuters and snow shovelers who spend long hours outdoors. The listing calls it suitable for skiing, cycling and hiking too.",
     "specs": [
       "200g 3M Thinsulate insulation",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41DMwnLtx4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FNR3LMLQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FNR3LMLQ?tag=rvgearlab-amz-20",
     "description": "The OUTJET Insulated boot lists 200g 3M Thinsulate insulation for temperatures as low as -25F and a fully waterproof membrane with wind-resistant construction. The rugged rubber outsole is described as grippy on icy or uneven ground.\n\nCompared with the NORTIV 8 Hiking Winter, it highlights a waterproof membrane rather than a toe cap. Against the Mishansha Hiking Snow, it brings a fully waterproof claim instead of water-resistant faux leather.\n\nIt suits anyone dealing with slush, snow and ice. The listing names skiing, hiking and snow shoveling uses.",
     "specs": [
       "200g 3M Thinsulate, -25F claim",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41XxRLPTYPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07VWK1DN7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07VWK1DN7?tag=rvgearlab-amz-20",
     "description": "The Mishansha Hiking Snow boot pairs a water-resistant faux leather upper with a faux fur insole and a removable fleece insole. Its high-top lace-up cut brings ankle coverage, reinforced eyelets and a deep-tread rubber outsole.\n\nCompared with the NORTIV 8 Faux Fur, it uses water-resistant rather than waterproof construction at a lower price. Against the Hanani Zip Ankle, it adds a lace-up high top for support.\n\nIt suits budget buyers who want a warm, supportive boot for light snow. It handles driveway shoveling and dog walks.",
     "specs": [
       "Water-resistant faux leather upper",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hrMb1ExBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FKYC6BZB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FKYC6BZB?tag=rvgearlab-amz-20",
     "description": "The Hanani Zip Ankle boot has a plush faux-fur lining, dual zippers for easy on and off and a textured slip-resistant outsole. The listing includes classic color options that work from weekend casual to office wear.\n\nCompared with the Mishansha Hiking Snow, it swaps laces for zippers. Against the Mishansha Suede Slip-On, it adds a waterproof claim and a textured sole.\n\nIt suits commuters and errand runners who want cozy, fast winter boots. The listing recommends avoiding deep puddles and heavy snow drifts.",
     "specs": [
       "Plush faux-fur lining",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/418G8V4UARL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FMRQQDD9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FMRQQDD9?tag=rvgearlab-amz-20",
     "description": "The Mishansha Suede Slip-On has a wear-resistant suede upper, a soft fur lining and a softly cushioned insole. The outsole is lightweight EVA with texture for grip, and the shaft is 2.75 inches for easy entry.\n\nAgainst the Hanani Zip Ankle, it is lower, lighter and slip-on only. Compared with the Mishansha Hiking Snow, it is more of a house boot than a hiking boot.\n\nIt suits quick walks, dog outings and loungewear on cold days. The listing names shopping and coffee runs.",
     "specs": [
       "Suede upper, fur lining",

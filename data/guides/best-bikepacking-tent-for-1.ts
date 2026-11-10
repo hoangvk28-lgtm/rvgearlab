@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31udxqywP4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FY3X5FVK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FY3X5FVK?tag=rvgearlab-amz-20",
     "description": "The NEMO Dragonfly OSMO 1P uses OSMO poly-nylon ripstop that the listing says has 4 times longer-lasting water repellency and 3 times less stretch when wet. It has hubbed, pre-bent DIAPOLE aluminum poles with a Precurve cross pole that adds 34% volume at the head.\n\nCompared with the Big Agnes Copper Spur UL1, it uses a pre-bent pole for extra headroom. Against the Naturehike, it is a premium design with tall doorways and vestibules on both sides.\n\nIt suits riders who want a refined solo shelter with stealth colors. Non-reflective materials suit low-key camping.",
     "specs": [
       "OSMO poly-nylon ripstop fabric",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41YIt93MFRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08MX2B1MJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08MX2B1MJ?tag=rvgearlab-amz-20",
     "description": "The Big Agnes Copper Spur HV UL1 Bikepack has two doors and two vestibules, a 4-way hub that adds 25% strength and 20% usable volume, and a stuff sack with daisy-chain webbing. Helmet storage webbing and an oversized ceiling pocket are built in.\n\nCompared with the NEMO Dragonfly OSMO, it has straps for bike attachment and a lower cost. Against the Naturehike, it brings a premium hub and two vestibules.\n\nIt suits solo riders who want to strap the tent to the frame. The company guarantees against defects.",
     "specs": [
       "Two doors, two vestibules",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/417BLgxxzdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01BK464R2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01BK464R2?tag=rvgearlab-amz-20",
     "description": "The Naturehike bikepacking one-person tent weighs 3.63 pounds and packs to 15.7 by 5.9 by 5.9 inches. It uses PU4000mm 20D silicone-coated nylon with taped seams, a freestanding frame with two Y aluminum poles and a 43.3 inch peak.\n\nCompared with the premium tents, it lists the clearest numbers and costs far less. Against the Montiro, it is a true solo tent with a double layer and B3 mesh.\n\nIt suits budget solo riders who want a freestanding tent with a high waterproof number. It sets up in under 5 minutes.",
     "specs": [
       "3.63 lb, packs 15.7 x 5.9 x 5.9",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41qcXixdQIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F2TG3W7X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F2TG3W7X?tag=rvgearlab-amz-20",
     "description": "The Montiro Wander Hawk is a 1 to 2 person tent in 20D ripstop silicone nylon with 7001 aluminum poles and a trail weight of 3 lb 14 oz. It includes a handlebar bag and has two side vents and one top vent.\n\nCompared with the Naturehike Bike Solo, it adds a handlebar bag and is sized for two. Against the premium tents, it costs a fraction.\n\nIt suits solo riders who want extra room and a ready-made handlebar mount. Adjustable vents handle condensation.",
     "specs": [
       "3 lb 14 oz trail weight",

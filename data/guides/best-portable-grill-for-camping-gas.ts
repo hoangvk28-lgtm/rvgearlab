@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41b0qLD0vjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07BLHHP7V?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07BLHHP7V?tag=rvgearlab-amz-20",
     "description": "The Coleman RoadTrip 225 is a tabletop grill with two adjustable burners delivering up to 11,000 BTUs over 225 square inches of cooking area. A removable water pan catches grease for easy cleanup.\n\nTwo independently adjustable burners let you sear on one side and keep food warm on the other, which the single-burner Megamaster and Charbroil cannot offer. It costs the most here and also gives the finest temperature control.\n\nChoose it for regular campers who grill often and want predictable heat. It rewards frequent use.",
     "specs": [
       "11,000 BTU, 2 burners",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31RCu5vf0xL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DQ1ZF4TP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DQ1ZF4TP?tag=rvgearlab-amz-20",
     "description": "The Charbroil Grill2Go X200 uses an Amplifire cooking system, which the listing says gives 50 percent juicier results. It has 200 square inches of cooking space for up to 8 burgers, plus a cast aluminum firebox and lid.\n\nStainless steel latches secure the lid for transport, and push-button ignition starts it. It costs less than the Coleman and offers a similar cooking area.\n\nChoose it for burgers and chicken at camp. It carries like a suitcase.",
     "specs": [
       "200 sq in, 8 burgers",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Uf5wwU63L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08X42ZBN6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08X42ZBN6?tag=rvgearlab-amz-20",
     "description": "The Royal Gourmet GT1001 has a U-shape stainless steel burner producing 10,000 BTU. Its total 285 square inches includes a 214 square inch chrome-coated cooking grate and a 71 square inch warming rack.\n\nIt offers more total grilling area than the Coleman RoadTrip 225 at a lower price. Folding legs and latching hoods help carrying.\n\nChoose it for family camping on a budget. The warming rack is useful for buns and side dishes.",
     "specs": [
       "10,000 BTU U-shape burner",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31SAGcroFpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07P7M1NH8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07P7M1NH8?tag=rvgearlab-amz-20",
     "description": "Megamaster is a tabletop 1-burner grill with 11,000 BTUs and a stated 360 square inches of cooking space. It has foldable legs, a warming rack and a locking lid on a steel frame with a porcelain firebox.\n\nIt is the largest cooking surface here, bigger than the Coleman. Its locking lid and legs make it easy to carry.\n\nChoose it for big groups who cook many burgers at once. It suits tailgates and campsites.",
     "specs": [
       "11,000 BTU, 360 sq in",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31tA6QBVsTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00004TBJ4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00004TBJ4?tag=rvgearlab-amz-20",
     "description": "Charbroil's Portable Convective 1-Burner grill has 190 square inches of cooking space with porcelain-coated grates. It measures 15 x 24.1 x 12.3 inches and runs on liquid propane.\n\nIt is the cheapest name-brand grill here and the grates are rust-resistant and easy to clean. It is also near the Grill2Go in size.\n\nChoose it for a simple first camping grill. It handles weekend barbecues.",
     "specs": [
       "190 sq in cooking space",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41SMvpyNioL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GC4YWR7J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GC4YWR7J?tag=rvgearlab-amz-20",
     "description": "BESTFIRE has a 2-in-1 valve that works with both standard 20 lb propane tanks and small cylinders. It has foldable legs, an adjustable regulator and 165.36 square inches of cooking area on porcelain-coated grates.\n\nThe dual valve is what sets it apart from every other grill here, which only fit one fuel size. It is the smallest cooking area in the list.\n\nChoose it if you want to grill at camp on a small cylinder and at home on a big tank. It is cheap.",
     "specs": [
       "2-in-1 valve for two tank sizes",

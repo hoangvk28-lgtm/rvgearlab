@@ -30,7 +30,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/319xnGt-yxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BGYWF8XS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BGYWF8XS?tag=rvgearlab-amz-20",
     "description": "The Dometic FreshJet 3 Series 13,500 BTU is a cool-focused rooftop unit weighing 64 pounds, the lightest Dometic in its line, with 4 dB of noise reduction and a higher airflow claim. It sells for $889.56 from a trusted RV brand.\n\nCompared with the 15,000 BTU FreshJet below it, this model sits lighter on the roof and runs at a gentler capacity that suits most Class C coaches. Compared with the Renogy, it brings a long-established RV name.\n\nIt is the best match for Class C owners who want a proven, light, quiet replacement for a worn rooftop unit.",
     "specs": [
       "13,500 BTU cool only",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/316nmm3cvtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BGYXRMFM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BGYXRMFM?tag=rvgearlab-amz-20",
     "description": "The Dometic FreshJet 3 Series 15,000 BTU is a rooftop unit with E-coated evaporator coils and backward compatibility with an existing ADB. It sells for $1008.44 and shares the lightweight construction of the line.\n\nCompared with the 13,500 BTU model above it, this one provides the top capacity in the lineup and keeps your existing ADB in place, which cuts the installation work. The coated coils protect against corrosion.\n\nIt suits owners in hot regions, or with large Class C coaches, who want maximum cooling from a respected maker and a simple swap.",
     "specs": [
       "15,000 BTU rooftop unit",
@@ -86,7 +86,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/318W06BfE3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H2YJDSSS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H2YJDSSS?tag=rvgearlab-amz-20",
     "description": "The Renogy 3-in-1 RV Air Conditioner with Heat Pump 15000 BTU offers cooling and heating, 350 CFM airflow from a dual-fan system and a 43 dB noise rating. A pull-out filter makes upkeep easy, at $799.98.\n\nCompared with the TURBRO below it, the Renogy runs at a lower stated noise level and gives strong airflow. Compared with the Dometics above it, it adds a heat pump for cool mornings at a lower price.\n\nIt is a great fit for owners who camp in spring and fall, want heating from the same unit and have a strong generator or shore power.",
     "specs": [
       "15,000 BTU heat pump",
@@ -114,7 +114,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41NUyHPn7HL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D73GJ6ZW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D73GJ6ZW?tag=rvgearlab-amz-20",
     "description": "The TURBRO RV Air Conditioner 15,000 BTU provides 1,500W electric heating, fan and dry modes, a remote and a smart app at $799.99. An atmosphere lamp adds a touch of style.\n\nCompared with the Renogy above it, the TURBRO adds app control and a dry mode for humid campgrounds. Compared with the Gidrox below it, it supplies far more cooling capacity for the same price.\n\nIt suits owners who like phone control, want electric heat and plan to run the unit from a generator or shore power.",
     "specs": [
       "15,000 BTU, 1,500W heat",
@@ -142,7 +142,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hObg9Wm3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GWGPP643?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GWGPP643?tag=rvgearlab-amz-20",
     "description": "The Gidrox 10000 BTU 12V DC RV Air Conditioner runs on 12V DC with about 350W of nighttime draw and a 40 dB sleep mode. It weighs 54 pounds, with the cable and mounting hardware included, at $799.99.\n\nCompared with the TURBRO above it, the Gidrox runs from battery power and sits lightest on the roof. Its sleep mode gives the quietest night in the roundup.\n\nIt is the best match for solar and lithium battery owners who want to cool a Class C without a generator and sleep in quiet comfort.",
     "specs": [
       "12V DC, 10,000 BTU",

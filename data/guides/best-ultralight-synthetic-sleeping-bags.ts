@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/318QujwlAIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GQT35Q5V?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GQT35Q5V?tag=rvgearlab-amz-20",
     "description": "The Naturehike 41F is a mummy filled with SUNDOUCE Gold Label polyester fibers that the listing compares with 550 fill power down. The page claims it is about 30 percent lighter than other mummy bags with the same rating, and the blue MG120 model lists an ISO comfort of 41F.\n\nAgainst the Sea to Summit Boab it is built for carrying, with zippers on both sides and a wearable layout. It also uses PFAS-free fabrics that are machine washable.\n\nIt suits backpackers who want a cheap synthetic mummy for spring through fall. The side zippers let you reach gear without leaving the bag.",
     "specs": [
       "SUNDOUCE polyester fibers",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21ExpHUSEgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DSVH2GND?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DSVH2GND?tag=rvgearlab-amz-20",
     "description": "The Sea to Summit Boab is a tapered rectangular synthetic bag rated 30 degrees F that measures 85 by 29.9 inches. The Regular size weighs 3.07 lb and a Short size weighs 2.71 lb.\n\nCompared with the Naturehike, it is heavier by a good margin and roomier at the shoulders. A full zipper runs through the footbox to turn it into a blanket, and double sliders adjust venting.\n\nIt suits side sleepers who dislike tapered mummies and want room to shift. The shoulder snap keeps it closed when you roll.",
     "specs": [
       "30 degrees F, 3.07 lb Regular",

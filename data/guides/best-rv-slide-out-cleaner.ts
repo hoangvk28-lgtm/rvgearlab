@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41R+AfxFnvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00030MAL4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00030MAL4?tag=rvgearlab-amz-20",
     "description": "The 303 Marine Multi-Surface Cleaner is a 32 oz alcohol-free spray recommended by Sunbrella for outdoor fabrics. It lists safe use on vinyl, canvas, rubber, plastic, aluminum, stainless steel and paint.\n\nIt covers more surface types than the awning cleaners from Thetford and Star Brite, and it rinses residue free. Compared with the Dicor roof cleaners, it is aimed at fabric and trim instead of a membrane roof.\n\nIt suits owners who want one spray for the topper, vinyl trim and seals' surrounding surfaces. Spray on, agitate with a soft brush and rinse.",
     "specs": [
       "32 oz alcohol-free spray",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/419Jm7hKNuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00KARB7V4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00KARB7V4?tag=rvgearlab-amz-20",
     "description": "The Thetford Premium RV Awning Cleaner is a 64 oz cleaner made for RV or home awnings. It comes in a half gallon size that goes a long way on fabric toppers.\n\nIt is a dedicated awning cleaner, so it is a closer match for topper fabric than the Dicor roof products. The Star Brite adds UV protection, while this pick focuses on cleaning.\n\nIt is a good fit for owners who clean a fabric topper a few times a season. The bigger bottle lowers cost per use.",
     "specs": [
       "64 oz awning cleaner",
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41-k46XyYVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B005XAGHZY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B005XAGHZY?tag=rvgearlab-amz-20",
     "description": "The Star Brite RV Awning Cleaner and Protectant targets leaf stains, bird droppings and bug deposits on fabric and vinyl. It contains polymers that add a UV barrier.\n\nWhere the Thetford only cleans, the Star Brite cleans and protects in one spray, and the 303 Multi-Surface does not list UV polymers. It is described as formulated not to discolor or stain fabrics.\n\nIt suits owners who want a fast spray, wait and wipe routine. The UV protection helps extend topper color.",
     "specs": [
       "Cleaner and protectant spray",
@@ -109,7 +109,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Tg5PRDrCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B001FCB0ZG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B001FCB0ZG?tag=rvgearlab-amz-20",
     "description": "The Dicor Deep Cleaning Rubber RV Roof Cleanser is a 1 gallon spray refill meant for roofing and exteriors. It is applied with a medium bristle brush and rinsed off.\n\nIt handles the roof above a slide, which the awning cleaners do not list. It also preps surfaces for Dicor Roof Guard protectant, and it costs less than the Unique.\n\nIt fits owners cleaning the rubber roof and the area above the slide. Brush on, rinse well and follow with a protectant.",
     "specs": [
       "1 gallon spray refill",
@@ -136,7 +136,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31k+mXnc02L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B003VASHGU?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B003VASHGU?tag=rvgearlab-amz-20",
     "description": "The Dicor Rubber Roof Concentrate is a 16 oz biodegradable concentrate mixed with water. It lists hard water spot control and use on RV roofing and exteriors.\n\nIt is the lowest priced pick here, and compared with the 1 gallon Dicor spray it stores in a smaller bottle. The hard water spot formula is unique among the exterior cleaners.\n\nIt works for owners who mix their own solution and want flexible strength. It also lists use on boats and vehicles.",
     "specs": [
       "16 oz concentrate",
@@ -163,7 +163,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31XzWgpOxCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BP8698N4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BP8698N4?tag=rvgearlab-amz-20",
     "description": "The Unique Clean-It is a 32 oz enzyme and probiotic black and holding tank cleaner. It works in 48 to 72 hours without driving and is septic safe.\n\nIt belongs to the tank, not the exterior, so it complements the other picks. It lists compatibility with all RV and marine holding tanks.\n\nIt is for owners who want a periodic tank reset alongside exterior care. The brand includes access to a certified RV tech team.",
     "specs": [
       "32 oz tank cleaner",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41rgcB6j64L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09HXDQZJM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09HXDQZJM?tag=rvgearlab-amz-20",
     "description": "The WateLves Webbing is a women's sport hiking sandal with tear-resistant polyester webbing straps that dry in minutes, hook-and-loop buckles, arch support, an EVA yoga-mat midsole and a non-slip outsole. It is made for hiking, camping and fishing and is amphibious.\n\nIt costs about $24, around $7 more than the SUITSER Budget, and the webbing straps are what the extra money buys, since they resist tearing and dry faster than the molded straps of the cheaper pairs. It offers a more structured hold than the YOCCI Walking.\n\nIt suits campers and anglers who cross creeks and want straps that dry quickly. The arch support also suits long beach walks.",
     "specs": [
       "Polyester webbing straps",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41qP5kkrUPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GLFW56NR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GLFW56NR?tag=rvgearlab-amz-20",
     "description": "The ziitop Closed-Toe is a women's hiking sandal with a closed toe, a soft breathable upper over an EVA midsole and a wear-resistant rubber outsole with anti-skid tread. The brushed EVA insole absorbs shock and the build is light.\n\nIt costs about $25, the top of the range, and no other pair here protects the toes. The closed toe guards against stubs and trail debris, which the open-toe WateLves Webbing cannot do.\n\nIt suits hikers who kick rocks and roots and want a cooler alternative to a shoe. Pair it with thin socks.",
     "specs": [
       "Closed-toe design",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31xQDm+-5xL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09PYKNTMT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09PYKNTMT?tag=rvgearlab-amz-20",
     "description": "The YOCCI Walking is a women's sport sandal with a skid-resistant rubber outsole, padded heel straps, built-in arch support and a soft EVA yoga-mat insole. Hook-and-loop closures let you adjust the fit for beach, pool, garden and hiking use.\n\nIt costs about $20, around $5 less than the WateLves Webbing, and the padded heel straps cushion where the ziitop Closed-Toe is stiffer. The arch support is a solid mid-range feature at this price.\n\nIt suits hikers who want a dependable everyday sandal at a modest price. It handles beach, garden and camp use.",
     "specs": [
       "Padded heel straps",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41CArUskt0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GVN2QWLR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GVN2QWLR?tag=rvgearlab-amz-20",
     "description": "The SUITSER Budget is a women's sport hiking water sandal with a padded heel cuff, a soft EVA yoga-mat insole, arch support and a textured non-slip outsole. Hook-and-loop back straps adjust the tightness.\n\nIt costs about $17, the lowest in this guide, and a padded heel cuff is what separates it from the plain-strap pairs. It leaves out the webbing straps of the WateLves Webbing.\n\nIt suits hikers on a tight budget who still want heel padding. It is a good pick for short trails and water camps.",
     "specs": [
       "Padded heel cuff",

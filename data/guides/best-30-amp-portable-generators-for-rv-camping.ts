@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51a-T0yBYdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B099KPJZ2P?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B099KPJZ2P?tag=rvgearlab-amz-20",
     "description": "The Westinghouse lists 3600 running and 4650 peak watts from a 212cc OHV engine, a fuel tank of 4 gallons with a gauge, good for up to 14 hours. It carries a TT-30R RV outlet, an L5-30R 30 amp outlet and two 5-20R household outlets, all with rubber covers, along with automatic low oil and carbon monoxide shutdown.\n\nIt is the only unit here that gives both a TT-30R and an L5-30R, so it works with an RV cord or a twist-lock cable. Against the Oxseryn and Mutaomay 4400s, it adds 200 running watts, CO shutdown and a 3 year warranty at a modest price step.\n\nIt suits travel trailer owners who want a straightforward 30 amp generator with a safety shutdown. It comes with oil, a funnel and a tool kit.",
     "specs": [
       "3600 running, 4650 peak watts",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51d+T4ySOxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F8NKFM3H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F8NKFM3H?tag=rvgearlab-amz-20",
     "description": "The Mutaomay lists 4400 starting and 3400 running watts from a 208cc OHV engine, with a TT-30R RV outlet, two household 120V outlets and a 12V DC outlet. ECO mode adjusts engine speed to the load for up to 14 hours at 25 percent load, and low oil shutdown and overload protection are included.\n\nIt lists the same watts as the Oxseryn 4400 at a lower price and names the TT-30R outlet plainly. Compared with the Westinghouse 4650W, it is an inverter-style unit with ECO mode and a 12V DC outlet.\n\nIt suits campers who want an inverter-style, 30 amp generator under a mid price. The 56 pound weight is manageable for one person.",
     "specs": [
       "3400 running, 4400 starting watts",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51t+cWrJRPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D2Z2XC1T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D2Z2XC1T?tag=rvgearlab-amz-20",
     "description": "The Genkins lists 3700 rated and 4500 peak watts, a 212cc OHV engine with pull start, a 2.11 gallon tank and about 8 hours at half load. It has one L5-30R 120V outlet and one 5-20R household outlet, pure sine wave output below 3 percent THD, and low oil and overload protection.\n\nIt is the cheapest unit on the list and the second-highest rated watts, with a 30 amp L5-30R twist-lock rather than a TT-30R RV plug. Compared with the Mutaomay, it has fewer outlets.\n\nIt suits campers who already own an L5-30 to RV adapter and want the lowest price. The pure sine wave suits sensitive electronics.",
     "specs": [
       "3700 rated, 4500 peak watts",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51KrlC-jVkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FXLTM47G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FXLTM47G?tag=rvgearlab-amz-20",
     "description": "The Oxseryn 4400W lists 3400 running and 4400 peak watts, a 30A RV port, a pair of 120V sockets and a 12V DC port. Its 2 gallon tank is rated for 14 hours at 25 percent load, inside a 56 pound open frame, and ECO mode, overload protection and low oil shutdown are listed.\n\nIt matches the Mutaomay on watts and weight and lands slightly higher on price. Against the Genkins, it adds a 12V DC port and ECO mode.\n\nIt suits campers who want the familiar Oxseryn feature set for a 30 amp trailer. Cold start technology is listed.",
     "specs": [
       "3400 running, 4400 peak watts",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51ZjngYQA2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GCCRR7DM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GCCRR7DM?tag=rvgearlab-amz-20",
     "description": "The Oxseryn 5000W lists 4000 rated and 5000 peak watts, a 30A outlet, THD under 5 percent and ECO mode. A 2 gallon tank runs about 6 hours at 50 percent load, noise is 70 dB at 23 feet and the open-frame body weighs 60 pounds.\n\nIt has the most rated watts on the list, which gives the most headroom for a 30 amp trailer. Compared with the Oxseryn 4400W, it adds 600 rated watts for about 4 more pounds and a higher price.\n\nIt suits campers who run an air conditioner and other loads together and want extra margin. The fuel gauge is built in.",
     "specs": [
       "4000 rated, 5000 peak watts",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51PppwcFpOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C1PPYTLW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C1PPYTLW?tag=rvgearlab-amz-20",
     "description": "The iGen2550c lists 2550 peak and 1900 running watts, a TT-30R 30 amp outlet, a 5-20R outlet and two USB ports. It runs up to 11 hours at 25 percent load, is as quiet as 52 dBA, has a CO sensor and reaches THD of 3 percent or less.\n\nIt is the quietest and cleanest-power unit here, and the only one that lists parallel capability. Against the 4000-watt class, it gives fewer running watts for much lower noise.\n\nIt suits campers who value quiet and run lighter loads. The listing says an air conditioner needs paralleling with a second compatible unit.",
     "specs": [
       "2550 peak, 1900 running watts",

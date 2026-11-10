@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31MBnHUaB6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GVY2Q33Z?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GVY2Q33Z?tag=rvgearlab-amz-20",
     "description": "Naturehike's CW-EXT relies on traceable, RDS-certified goose down (90% goose, 750 fill power) inside ultralight 10D nylon without PFAS treatment. Size M weighs 0.94 lb, size L 1.09 lb, and the large packs to roughly 5.9 by 11 inches.\n\nIt is the lightest bag in this guide and the most flexible, because it can be spread flat as a blanket or tucked inside a bigger bag as an extra layer. The Naturehike CW295 and Naturehike 40 Degree are heavier and use duck down.\n\nA great fit for ultralight hikers who want a minimal summer layer. It also works as a travel blanket on a plane or a hostel bed.",
     "specs": [
       "750FP RDS goose down",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51+ABMsV1EL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F8BDT2V1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F8BDT2V1?tag=rvgearlab-amz-20",
     "description": "The Naturehike CW295 holds 295 g of duck down in individual channels and weighs 1.3 lb. It unfolds to 74.8 x 28.3 inches in the short size, and a medium CWM400 version is listed at 78.74 x 31.5 inches.\n\nPriced under the other three and close to the CW-EXT in weight, it uses a water-repellent nylon shell and packs down to a 4.7 by 10.2 inch bundle. The Naturehike 40 Degree adds a hybrid shape and a comfort rating, while this one keeps things simple.\n\nA smart choice for summer backpackers under average height who watch their budget. It brings real down into a price range that usually means synthetic.",
     "specs": [
       "295 g duck down fill",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41iGf3a81UL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FG2DZ1YJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FG2DZ1YJ?tag=rvgearlab-amz-20",
     "description": "Naturehike's 40 Degree bag is stuffed with 650 fill power down with an RDS label, wrapped in 20D ripstop (400T) with YKK zippers. The weight is 2 lb, a compression sack is included, and the listing gives a 40.4F comfort figure.\n\nIt is the only light down pick here with a printed comfort number, which the CW-EXT and CW295 lack. A mummy upper half and rectangular lower half give leg room that the narrower ultralights do not.\n\nBest for summer campers who want a number to plan around, from high-country trips to late-season weekends. It leaves room for the knees.",
     "specs": [
       "2 lb, 650 fill RDS down",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Ypf-hGnNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CSPKCJZK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CSPKCJZK?tag=rvgearlab-amz-20",
     "description": "The Kelty Cosmic 20 pairs RDS-traceable down (550 fill power) with recycled fabrics and a PFAS-free water-repellent finish. The listing prints a 21F ISO limit and an extreme of -11F, and sells it in short, regular and long cuts.\n\nIt is warmer than the three Naturehike bags and the one with printed ISO figures, making it the choice when a summer trip climbs above treeline. Dual-direction zippers let you vent it on warm nights.\n\nGreat for hikers who camp high in summer and want one bag that also stretches into fall. It is the nearest fit here for cold alpine nights.",
     "specs": [
       "550FP RDS down",

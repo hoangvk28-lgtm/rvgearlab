@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41GajgK4B8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01NCVAEJG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01NCVAEJG?tag=rvgearlab-amz-20",
     "description": "Suburban SW12DE is a 12 gallon RV water heater with direct spark ignition and an electric element, built with a porcelain-lined steel tank and a replaceable anode rod. The listing says the optional electric element lets you use campsite or generator power.\n\nAgainst FOGATTI HybridShower 10 Ultra, it is a 12 gallon Suburban tank. Against KINGRVER 10, it has a replaceable anode rod and a known RV brand.\n\nIt is the best match for owners who want a large Suburban tank with gas and electric. Think of it as the pick for large tank rigs.",
     "specs": [
       "12 gallon Suburban DSI",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41gOT72MHUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DY38HNZQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DY38HNZQ?tag=rvgearlab-amz-20",
     "description": "FOGATTI HybridShower 10 Ultra is a 10 gallon gas and electric hybrid with a 12,000 BTU propane burner and three power choices of propane, electric or hybrid. The listing says it replaces many Suburban and Dometic 10 gallon heaters and has dry-fire, over-temperature and over-pressure protection.\n\nAgainst KINGRVER 10, it is the premium 10 gallon with a stated burner. Against Suburban SW12DE, it is smaller with a hybrid mode.\n\nIt suits owners replacing a 10 gallon tank who want a hybrid mode. Buyers focused on 10 gallon replacements will find it a sensible match.",
     "specs": [
       "10 gallon hybrid, 12,000 BTU",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41C1ftoHPeL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FHW5KHTN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FHW5KHTN?tag=rvgearlab-amz-20",
     "description": "FOGATTI HybridShower 6 Ultra is a 6 gallon gas and electric hybrid, a drop-in for Suburban and Dometic cutouts with a 12,000 BTU burner. The listing says it includes a powered anode rod for corrosion defense and temperature control that prevents scalding.\n\nAgainst CAMPLUX Black, it adds a powered anode rod. Against KINGRVER 6, it lists a 12,000 BTU burner and anode defense.\n\nIt suits owners who want long tank life in a 6 gallon cutout. It earns its slot for tank life.",
     "specs": [
       "6 gallon hybrid, 12,000 BTU",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41TY+9kBdlL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GS5LK95T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GS5LK95T?tag=rvgearlab-amz-20",
     "description": "KINGRVER 10 Gallon is a propane and electric hybrid with a 12,000 BTU burner for many 10 gallon RV openings. The listing says you can adjust temperature and switch modes from inside the RV and describes a porcelain-lined tank.\n\nAgainst FOGATTI HybridShower 10, it costs much less. Against Suburban SW12DE, it adds interior control.\n\nIt suits owners who want a 10 gallon hybrid at a lower price. It is a natural fit for budget 10 gallon.",
     "specs": [
       "10 gallon hybrid, 12,000 BTU",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hx4ZhVW8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FZTSVTYX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FZTSVTYX?tag=rvgearlab-amz-20",
     "description": "CAMPLUX 6 Gallon Black is a propane and electric hybrid and a direct replacement for most Suburban and Dometic 4 to 6 gallon models. The listing says three heating modes and one-click temperature are set from an interior panel.\n\nAgainst KINGRVER 6, it has an interior panel instead of a remote. Against FOGATTI HybridShower 6, it is cheaper.\n\nIt suits owners who want interior mode switching. Think of it as the pick for interior mode switching.",
     "specs": [
       "6 gallon hybrid, black",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zLGxCIHoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GBWPZ46Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GBWPZ46Q?tag=rvgearlab-amz-20",
     "description": "KINGRVER 6 Gallon is a gas, electric or hybrid heater with a remote controller for 104 to 140 degrees F. The listing says gas mode uses 12 volt DC ignition powered by the RV system.\n\nAgainst CAMPLUX Black, it uses a remote. Against FOGATTI HybridShower 6, it is lower in price.\n\nIt suits owners who want a remote at a modest price. Buyers focused on remote control will find it a sensible match.",
     "specs": [
       "6 gallon hybrid",

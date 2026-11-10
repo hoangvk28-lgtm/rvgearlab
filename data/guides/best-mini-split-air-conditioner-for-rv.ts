@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51rnXSX+T9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H348DF49?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H348DF49?tag=rvgearlab-amz-20",
     "description": "The Treeligo 24V Mini Split RV Air Conditioner is a 12,000 BTU unit with a scroll compressor, 3,000 RPM motor and 350 CFM airflow. The listing says it runs 45 dB and installs as a split without a large roof cutout.\n\nAgainst the hiberry 12V, it matches the 12,000 BTU rating on 24V power with an LCD remote. Against the Rellytech 11.5K, it is built for a vehicle battery rather than a house outlet.\n\nBest for campers and vans with a 24V system who want a vehicle-focused split. The scroll compressor and LCD controller make it the most complete vehicle split here.",
     "specs": [
       "12,000 BTU, 24V split",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/311gjV9hieL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H1KVR2DK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H1KVR2DK?tag=rvgearlab-amz-20",
     "description": "The hiberry 12V Mini Electric Split Air Conditioner lists 12,000 BTU, up to 2,000W of cooling and 960W power consumption. It specifies 12V DC with a rated current of 60 to 80A and 45 dB noise from a brushless DC blower.\n\nAgainst the Treeligo 24V Split, it runs on a 12V bank at a lower price and states its current draw. Against the Wmpusll 12V, it offers far more cooling at 12,000 BTU.\n\nBest for 12V trucks, vans and motorhomes that want a full 12,000 BTU split. A dedicated remote and low-voltage protection come with it.",
     "specs": [
       "12,000 BTU, 12V DC",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41uAL3Ee-OL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HCT9VPVL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HCT9VPVL?tag=rvgearlab-amz-20",
     "description": "The Rellytech 11,500 BTU Mini Split is a ductless inverter system rated 17 SEER2 for up to 550 square feet. The listing says it heats down to minus 4 degrees F with auto-defrost, runs as low as 29 dB and offers one-touch self-clean and 4D swing.\n\nAgainst the Rellytech 9K, it adds 2,500 BTU and a lower-temperature heating claim at a higher price. Against the 12V vehicle splits, it is a house-style unit with a heat pump.\n\nBest for stationary RV and tiny-house setups with a steady 115V supply. It can replace a window unit and a space heater.",
     "specs": [
       "11,500 BTU, 17 SEER2",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41pdF5z-t+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FSC4BBR1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FSC4BBR1?tag=rvgearlab-amz-20",
     "description": "The Rellytech 9,000 BTU Mini Split delivers 9,000 BTU each of cooling and heating for up to 550 square feet. The 115V unit lists a 19 SEER2 rating, HSPF2 8.5, ECO mode and four fan speeds.\n\nAgainst the Rellytech 11.5K, it saves money with a higher SEER2 rating at lower capacity. Against the Wmpusll 12V, it is a house-style unit with more output.\n\nBest for small stationary RVs or tiny homes. Its temperature setting runs from 61 to 88 degrees F.",
     "specs": [
       "9,000 BTU, 19 SEER2",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31j8O+ZbWKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GY4NWPN4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GY4NWPN4?tag=rvgearlab-amz-20",
     "description": "The Wmpusll 12V Truck Cab Air Conditioner is a split with a 600W power input and a cooling range of 500 to 2,200W, about 1,700 to 7,500 BTU. The listing gives 600 cubic meters per hour of evaporator airflow and a remote with a 9.8 foot range.\n\nAgainst the BJTDLLX 12V, it adds a digital display and a stated cooling range. Against the hiberry 12V, it uses less power at far lower cooling.\n\nBest for semi trucks, cab-over trucks and construction vehicles. Its iron housing is spray-painted for rust resistance.",
     "specs": [
       "12V DC, 600W input",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41TSAkIw3WL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HGRDPTB4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HGRDPTB4?tag=rvgearlab-amz-20",
     "description": "The BJTDLLX 12V Mini Split is an under-dash unit with indoor and outdoor parts and a 600W motor. The listing gives a cooling range of 500 to 2,200W and 600 cubic meters of air per hour.\n\nAgainst the Wmpusll 12V, it is cheaper and has a similar spec sheet. Against the hiberry 12V, it targets cab cooling rather than a full living space.\n\nBest for campers, trailers and commercial vehicles that need basic cooling on a tight budget. It is built from painted iron.",
     "specs": [
       "12V DC, 600W motor",

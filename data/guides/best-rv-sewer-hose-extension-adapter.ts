@@ -31,7 +31,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ZrqCHgxGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DZ74NG6L?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DZ74NG6L?tag=rvgearlab-amz-20",
     "description": "The Camco Rhino RV Sewer Adapter PRO is an elbow style fitting with a drain lock and an easy connect handle, designed to fit 3.5 and 4 inch NPT outlets for $29.97. It is the most fully featured piece in the lineup and the one built to make hookups fast.\n\nThe handle and lock mean you can connect and release the adapter without wrestling with lugs, and the flexible NPT fit covers both common outlet sizes. Next to the plain 5 inch clear extenders at $13.55 and $22.99, the Rhino adds a lock, an elbow bend and a purpose built connection, which turns a simple spacer into a complete hookup component.\n\nFrequent travelers who hook up at a new site every few nights and want a clean, quick connection will get the most from it.",
     "specs": [
       "Elbow with drain lock",
@@ -59,7 +59,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21iiOHc7kOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FRYXL4Y7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FRYXL4Y7?tag=rvgearlab-amz-20",
     "description": "The 12 inch clear extension adds about 10 inches of reach between the RV outlet and the hose, with a seal included and an odor proof design, priced at $16.99. It is the longest extender in this guide.\n\nCompared with the 5 inch GLOBIZ at $13.55 and the 5 inch Lanties pair at $22.99, it moves the hose connection far enough to reach outlets that sit well back from a hose run. The clear body shows rinse water and tank flow, and it costs only about $3 more than the 5 inch single.\n\nOwners with distant outlets, awkwardly placed bay openings or a hose that always ends up short will find the extra reach valuable.",
     "specs": [
       "12 in clear extension",
@@ -87,7 +87,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zFYV4Y1CL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H6Q6HXZY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H6Q6HXZY?tag=rvgearlab-amz-20",
     "description": "The Lanties pack includes two 5 inch clear sewer hose adapters with a bayonet fitting and a transparent body, priced at $22.99 for the pair. The 5 inch length adds a modest extension.\n\nBecause there are two pieces, one can stay attached to the RV while the other travels with the hose, or one can serve as a spare. Against buying two GLOBIZ singles at $13.55 each, the pair saves about $4, and the clear bodies let you check flow at both ends of a hookup.\n\nAnyone who wants a spare in the bay, owners with two RVs or sewer systems and campers who like redundancy will find the pair the better value.",
     "specs": [
       "2 pack of 5 in clear adapters",
@@ -115,7 +115,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31V51o+Ov0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D29HYB6P?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D29HYB6P?tag=rvgearlab-amz-20",
     "description": "The GLOBIZ is a single 5 inch clear sewer hose adapter with a direct outlet connection and a seal included, at $13.55. It is a straightforward extender with a transparent body that lets you watch the tanks empty.\n\nCompared with the 12 inch extension at $16.99, it adds a shorter, more compact stretch of reach, so it fits where a long extender would stick out too far. Against the 4 inch piece at $10.99, it adds a full inch of length for about $2.50 more and keeps the same seal and clear body features.\n\nIt works for campers who need a modest extension on one outlet and want a reliable seal at a low price.",
     "specs": [
       "5 in clear adapter",
@@ -143,7 +143,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/317qp5l54gL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FRZ1WBFJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FRZ1WBFJ?tag=rvgearlab-amz-20",
     "description": "The 4 inch clear extension is a short transparent adapter with a seal included and an odor proof design, priced at $10.99, the lowest cost clear piece in the guide. The clear body shows when rinse water runs clean.\n\nCompared with the GLOBIZ at $13.55, it saves about $2.50 and shortens the reach by an inch, which is enough for many outlets that sit just a little too far from the hose connection. Against the 12 inch extension at $16.99, it trims size and cost and suits tight bays where a long extender would not fit.\n\nIt is a good match for budget campers who need a short extension and want a see through body for monitoring tank flow.",
     "specs": [
       "4 in clear extension",
@@ -171,7 +171,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41h0fUC55CL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01CNPCDEA?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01CNPCDEA?tag=rvgearlab-amz-20",
     "description": "The Camco 39735 is a 3 inch extension built for recessed dump station inlets, designed to fit between a Camco 4-in-1 adapter and the elbow, at $8.99. It raises the connection so the hose can seat properly in an inlet sunk below the pad.\n\nIt solves a specific problem that none of the other picks address: the recessed dump hole where a normal fitting sits too low to connect. Compared with the longer clear extenders, it is the cheapest piece in the lineup and a simple add on to a Camco 4-in-1 setup already in your bay.\n\nOwners who regularly use dump stations with sunken inlets and already own a Camco 4-in-1 will find it an inexpensive, effective fix.",
     "specs": [
       "Adds 3 in attachment height",

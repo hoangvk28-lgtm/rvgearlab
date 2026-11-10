@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41pvsOQmE5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GJ8L7HVH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GJ8L7HVH?tag=rvgearlab-amz-20",
     "description": "INIU delivers 100W through USB-C from a 25,000mAh pack, enough to take a 14 inch laptop from 20 to 72 percent in half an hour. It is described as airline approved, comes with a 0.4 foot 100W cable and is 30 percent smaller than a soda can.\n\nAt about $67 it costs the most of the four and is the one that fast-charges a laptop and a phone at once. The 70,000mAh banks hold nearly three times the energy and are limited to 25W to 30W.\n\nChoose it for a laptop, tablet and phone on a flight or a trip. It also runs a gaming handheld for several hours.",
     "specs": [
       "25,000mAh, 100W USB-C",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31XUKBs66CL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FZBTMM28?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FZBTMM28?tag=rvgearlab-amz-20",
     "description": "LanLuk is a 70,800mAh bank with three built-in cables for iOS, USB-C and Micro, three ports including two USB-A QC ports and a 25W PD USB-C output. It charges six devices at once, refills through two options and weighs about 642g at 6.02 by 2.75 by 1.69 inches.\n\nAt about $54 it holds about 2.8 times the INIU's energy for $13 less, and it is limited to 25W so it will not run a laptop quickly. It also exceeds airline limits.\n\nChoose it for a family camp where phones, tablets and a headlamp all need charging for five days. The built-in cables avoid a tangle.",
     "specs": [
       "70,800mAh, 25W PD USB-C",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31xmP4jX3KL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FHCTS7DT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FHCTS7DT?tag=rvgearlab-amz-20",
     "description": "Liahomco is a 70,000mAh bank with five outputs, including two 30W USB ports, an LCD readout and a lanyard. It targets groups that need many charges in one pack.\n\nAt about $46 it costs $8 less than the LanLuk and has a slightly lower capacity with two 30W ports that charge faster. It is heavier than the INIU and recharges slowly from empty.\n\nChoose it for a group camp with several phones and tablets. The LCD tells you what is left at a glance.",
     "specs": [
       "70,000mAh, five outputs",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41vZtm9ylGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DR89VFT8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DR89VFT8?tag=rvgearlab-amz-20",
     "description": "SinKeu pairs a UL-certified 122.8Wh LiFePO4 pack, good for 3500 or more cycles, with 150W of continuous AC for laptops, cameras and mini-fridges under 100W. It weighs 4 lb, has pass-through charging and measures about 7.5 by 4.5 inches.\n\nAt about $59 it is the only pick with an AC outlet, which runs a laptop brick, a camera charger or a CPAP-class load. It is heavier than any USB bank and holds less than the 70,000mAh packs.\n\nChoose it if you need real wall power on a trip. It suits car camping and cabins.",
     "specs": [
       "122.8Wh LiFePO4, 3500 cycles",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31XC6vQGRqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CSC7BB38?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CSC7BB38?tag=rvgearlab-amz-20",
     "description": "The JELUCAMP Dome is a 1 to 2 person tent that measures 86.6 by 59.1 by 43.3 inches, with a stated weight of 4.3 pounds. The fabric is PU3000 coated polyester over 7.9 mm fiberglass poles, with a double-layer door that pairs a mesh inner with a solid layer.\n\nThe 86.6 inch interior length is the longest here, about 2.6 inches longer than the GEERTOP Solo, and the 59.1 inch width leaves space to roll over. It also pairs that room with a stated weight, which the roomier Forceatt 3P does not give.\n\nIt suits tall solo campers or a tall couple who want length and width on a short budget. The 43.3 inch height lets you sit up without touching the roof.",
     "specs": [
       "86.6 x 59.1 x 43.3 inches",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41UlVH6x7HL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D6Y2CJXP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D6Y2CJXP?tag=rvgearlab-amz-20",
     "description": "The GEERTOP Solo is a one person double-layer bivy tent that measures 84 by 39 by 36 inches and weighs just under 4 lb. The flysheet is 210T ripstop polyester with a PU2500 mm rating, and aluminum poles hold the frame, with two ventilation windows and two vestibules.\n\nAt 84 inches long, it leaves room for sleepers around 6 ft 5 in, and it uses aluminum poles instead of the fiberglass on the JELUCAMP Dome. It is narrower than the JELUCAMP Dome at 39 inches, and it is lighter and packs smaller.\n\nIt suits solo hikers over six feet who want a proper double-wall tent. The double vestibules store a pack on each side.",
     "specs": [
       "84 x 39 x 36 inches",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31LJHCY0T9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B083R68NSV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B083R68NSV?tag=rvgearlab-amz-20",
     "description": "The Forceatt 3P is a three person backpacking tent with internal dimensions of 225 by 185 by 120 cm, or about 88.4 by 72.7 by 47.2 inches. The fabric is 70D polyester with a 200T waterproof coating, a welded floor, a large mesh window and two ceiling openings.\n\nAt 88.4 inches, the interior is even longer than the JELUCAMP Dome, and the 47.2 inch height is the tallest in this guide. It is a three person floor, so it gives a lone tall camper far more room than any solo model.\n\nIt suits a tall camper who values standing-height headroom and spacious gear storage, or a group of friends. The listing says setup takes three minutes.",
     "specs": [
       "225 x 185 x 120 cm interior",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31j1UGcPPGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DR8TS7X6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DR8TS7X6?tag=rvgearlab-amz-20",
     "description": "The ShinHye 2P is a freestanding two person dome tent with two lightweight aluminum poles. The fabric is 210T polyester with 210D Oxford and B3 no-see-um mesh, with SBS zippers on two large doors and a one-year warranty.\n\nIts two large doors make it easier to get out for a tall camper than a one-door solo tent like the GEERTOP Solo. Compared with the Night Cat 2P, it adds a no-see-um mesh and a one-year warranty, and the same design is sold in 3 and 4 person sizes.\n\nIt suits tall campers sharing with a partner who want a freestanding frame and large mesh ventilation. The aluminum poles keep the weight modest.",
     "specs": [
       "Freestanding aluminum poles",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41QhQdeJlfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FVLLTDPG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FVLLTDPG?tag=rvgearlab-amz-20",
     "description": "The Night Cat 2P is a two person tent with an inner floor 6.8 feet long and 4.6 feet wide, two aluminum poles and two D-shaped doors. It adds dual vestibules, a welded floor, a full-coverage rainfly and full mesh inner walls with ceiling vents.\n\nAt 6.8 ft long, it is the shortest interior here, so it suits the shortest of the tall campers. Against the ShinHye 2P, its listing states real interior dimensions, and it adds a dual-vestibule layout.\n\nIt suits tall campers under about 6 ft 1 in who want a low-cost two person tent for warm weather. It also doubles as a roomy solo.",
     "specs": [
       "6.8 ft long inner floor",

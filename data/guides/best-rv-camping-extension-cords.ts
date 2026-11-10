@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41v5W5UKpiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BZNRBXZ2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BZNRBXZ2?tag=rvgearlab-amz-20",
     "description": "The PlugSaf cord is a 25 ft TT-30P to TT-30R extension in 10 AWG STW wire, rated 30 amps and 125 volts, or 3750 watts. It has an IP65 weather rating, a grip handle and an ergonomic design for plugging and unplugging.\n\nIt is longer than the STRIGHT and shorter than the POWGRN, so it covers a typical pedestal gap at a mid price. The listing says plainly it is 30 amp, not 50 amp.\n\nIt suits travel trailer owners who park a bit away from the pedestal. A 25 ft cord keeps voltage drop modest.",
     "specs": [
       "25 ft, 10 AWG STW, 30A",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ZudmfK07L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CBT6HLFS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CBT6HLFS?tag=rvgearlab-amz-20",
     "description": "The STRIGHT is a 10 ft, 10 gauge, TT-30P to TT-30R extension for RVs, trailers and campers. It has an insulated handle and a night-visible cord, and the jacket is flexible for storage.\n\nIt is the shortest pick, and costs less than the PlugSaf. It suits quick extensions between a pedestal and an RV inlet.\n\nIt suits campers who park close and want a compact cord. Short cords also lose very little voltage.",
     "specs": [
       "10 ft, 10 gauge, TT-30",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41eMQFRv9DL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CP37KPBV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CP37KPBV?tag=rvgearlab-amz-20",
     "description": "The POWGRN is a 75 ft, 10/3 AWG STW cord rated 30 amps and 125 volts, with TT-30P and TT-30R ends. It has an IP65 jacket, an insulated handle and stays flexible at -40 degrees F, and a grip strap helps with storage.\n\nIt reaches three times as far as the PlugSaf and costs more than twice as much. Longer runs mean more voltage drop, so it is for rigs that cannot move closer.\n\nIt suits campers parked at the far end of a site. The cold-weather flexibility helps in winter camping.",
     "specs": [
       "75 ft, 10/3 AWG STW, 30A",

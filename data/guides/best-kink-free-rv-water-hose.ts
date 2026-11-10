@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/510UhufmTFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C34ZNMTW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C34ZNMTW?tag=rvgearlab-amz-20",
     "description": "The Clean Camper 35 ft hose lists a space-saving kink-free design that coils tightly for compact storage. It has 304 stainless steel food-grade fittings and is lead, BPA and phthalate free.\n\nIt is the only full-length hose with stainless fittings. It is priced between the Camco and the Kohree 100.\n\nIt suits owners who want easy coiling and rust-resistant ends. The compact coil saves space.",
     "specs": [
       "35 ft, kink-free design",
@@ -53,7 +53,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/514Ri5DVjcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DPZM6BBH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DPZM6BBH?tag=rvgearlab-amz-20",
     "description": "The 100 FT Kohree runs 3 layers of premium hybrid polymer around a 5/8 inch bore, with solid aluminum fittings at both ends. It lists a large rubber grip and 3/4 inch male and female ends.\n\nIt is the longest pick and the highest priced. It lists a no kinks, no tangle build.\n\nIt suits owners who need a very long hose that coils easily. The large grip helps with tight connections.",
     "specs": [
       "5/8 inch, 100 ft",
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/518RwzPj8bL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B004VHXS20?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B004VHXS20?tag=rvgearlab-amz-20",
     "description": "The Camco TastePURE 35-Foot uses diamond-hatch reinforcement for kink resistance and is 20 percent thicker than premium hoses. It lists zero memory retention and NSF/ANSI 61 certification.\n\nIt is priced above the Kohree 35 and focuses on reinforcement. It lists UV-stabilized PVC.\n\nIt suits owners who want a thick, reinforced hose. The certification wording is clear.",
     "specs": [
       "5/8 inch, 35 ft",
@@ -107,7 +107,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51sBYhKuZeL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CY433RKJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CY433RKJ?tag=rvgearlab-amz-20",
     "description": "Kohree makes the 35FT with a 5/8 inch bore and a 20 percent thicker wall, plus brass-plated aluminum fittings and strain relief ends that help it resist kinking. It includes a storage bag and lists CA65 compliance.\n\nIt is the lowest priced of the 35 ft picks and includes a bag. It lists a thicker build.\n\nIt suits owners who want a good all-round hose for less. The bag keeps it clean between trips.",
     "specs": [
       "5/8 inch, 35 ft",
@@ -134,7 +134,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/5106p9DRC+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G4VPNSND?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G4VPNSND?tag=rvgearlab-amz-20",
     "description": "The BobbleT 1 FT is a 3/8 inch inner diameter connector in 304 stainless steel. It lists a range of -22°F to 212°F, compression fittings, rubber washers and PTFE tape.\n\nIt is both the shortest and the lowest priced pick. It reduces strain on fittings by adding flex.\n\nIt suits owners who want to relieve stress between a filter and regulator. The stainless wrap resists crushing.",
     "specs": [
       "1 ft, 3/8 inch ID",

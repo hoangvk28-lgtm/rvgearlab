@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41D88ZE7fxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B4PY2MDQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B4PY2MDQ?tag=rvgearlab-amz-20",
     "description": "The Gas One is a 14 inch portable kettle offering 150 square inches of grilling space. A 3-point locking lid traps heat and clamps the whole grill shut for transport, and two vents plus an ash catcher handle airflow and cleanup.\n\nAt about $27 the Gas One alone has a lid, which means it grills, roasts and smokes where the open grills only sear. The 17 inch Minxchen has more surface, and this one holds heat much better.\n\nCampers who want a proper small kettle for car camping, tailgating or a backyard patio get the most use from it. It carries as a closed box.",
     "specs": [
       "14 inch, 150 sq in surface",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/61SY5hTA7DL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GKNQCBW7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GKNQCBW7?tag=rvgearlab-amz-20",
     "description": "Minxchen is a foldable stainless steel charcoal grill with a 17.3 by 11.4 inch cooking space, five side vents and unfolding legs that need no assembly. A split design and stainless grid make cleanup easy.\n\nIt costs about $22 and gives the largest open grilling surface here, wider than the Gas One 14 Inch. There is no lid, which limits it to quick grilling over direct heat.\n\nSmall groups who grill burgers, skewers and vegetables on a campsite table will appreciate the room. It folds flat for the trunk.",
     "specs": [
       "17.3 x 11.4 inch grill area",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41lp1xJHheL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F8LCV9R6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F8LCV9R6?tag=rvgearlab-amz-20",
     "description": "The GasOne 15 inch charcoal grill is a foldable BBQ made with heavy-duty construction that folds flat for travel. It suits camping, bonfires and patio use.\n\nIt costs the same as the 14 inch kettle and trades the lid for a flat-folding design that slides into a bag. The Minxchen offers more cooking area for about $5 less.\n\nCampers who want a grill that disappears after the meal, and backpackers with a car, will like how it stores. It works on a picnic table or a stand.",
     "specs": [
       "15 inch foldable charcoal grill",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41yujUjksqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H9M8V7PL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H9M8V7PL?tag=rvgearlab-amz-20",
     "description": "This tabletop charcoal grill folds compactly for trunks, backpacks and RVs and sets up with no tools or screws. It has a detachable grill grate and an ash catcher, and the maker says it serves four to six people.\n\nIt costs about $30, the top of this budget, and its main advantage is simple cleanup, since the grate lifts off and the ash catcher empties easily. The Minxchen costs $8 less and has the larger surface.\n\nCampers who want a quick setup and a quick cleanup will like the design. It suits picnics and short camping trips.",
     "specs": [
       "Folds compact, no tools",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41aykNL4W5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DB5C3GXF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DB5C3GXF?tag=rvgearlab-amz-20",
     "description": "This round tabletop grill is 11 inches across and 4 inches high, weighs only 0.9 kg and comes with a charcoal bowl, a grill net and an anti-scald lifter. It is made of food-grade stainless steel with anti-scald handles.\n\nIt costs about $19, between the WINB and the Minxchen, and it is the smallest grill with its own charcoal bowl. It cooks for one or two people at a time.\n\nSolo campers, picnickers and balcony cooks who want something that fits in a day pack will like it. It is a small table grill.",
     "specs": [
       "11 inch round, 0.9 kg",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41cN9nGV3KL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F2HL4F81?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F2HL4F81?tag=rvgearlab-amz-20",
     "description": "WINB folds to book size at 8.2 by 5.5 inches and weighs 1.15 lb, with a stainless steel body that takes charcoal or wood. Five snap-together pieces set up in about 20 seconds without tools.\n\nAt about $10 it undercuts every other pick and packs smaller than any of them. It serves one or two people and the parts can be washed in a dishwasher.\n\nBackpackers, kayakers and anyone who wants a grill for a single dinner will find it a bargain. It also works as a small campfire stove.",
     "specs": [
       "Folds to 8.2 x 5.5 inches, 1.15 lb",

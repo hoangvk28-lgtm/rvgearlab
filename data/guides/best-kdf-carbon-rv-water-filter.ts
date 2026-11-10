@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51cEM+M8mIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0024E6V30?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0024E6V30?tag=rvgearlab-amz-20",
     "description": "Camco Tastepure RV Water Filter 2-pack uses GAC and KDF in a six-step Hex-Flow design, made in the USA. The listing says it is independently tested and listed to NSF/ANSI 42 and 53 and is CSA lead-free content certified to NSF/ANSI 372.\n\nAgainst Beckacher 4-Pack, it states named standards for the filter. Against Camco Tastepure Single, it is the two-pack at a lower cost per filter.\n\nIt is the best match for owners who want a KDF filter with named standards. Think of it as the pick for standards-minded buyers.",
     "specs": [
       "GAC and KDF, 6-step",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51snwG3Z8zL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0006IX87S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0006IX87S?tag=rvgearlab-amz-20",
     "description": "Camco Tastepure RV Water Filter is the single-unit version with GAC and KDF filtration and a six-step design. It carries the same NSF/ANSI 42 and 53 and CSA lead-free wording.\n\nAgainst the 2-pack, it costs less upfront. Against Filterelated, it lists named standards but no scale inhibitor.\n\nIt suits owners who want one standards-listed filter to try. Buyers focused on single filter trials will find it a sensible match.",
     "specs": [
       "GAC and KDF, 6-step",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41DamPh01VL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G4F3KXT6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G4F3KXT6?tag=rvgearlab-amz-20",
     "description": "Envig Puretaste is a catalytic carbon and KDF inline filter with a three-layer system. The listing states an 8,500 gallon capacity at 4.5 GPM with universal 3/4 inch threads and a hose protector, and names chloramine and hydrogen sulfide as targets.\n\nAgainst Camco Tastepure 2-Pack, it states capacity and flow figures. Against Beckacher 4-Pack, it has a much higher stated capacity.\n\nIt suits full-timers on city water who want a stated flow and capacity. It earns its slot for full-time city water.",
     "specs": [
       "Catalytic carbon and KDF",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51F9iQH80IL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GSZGTSV8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GSZGTSV8?tag=rvgearlab-amz-20",
     "description": "Beckacher 4-Pack uses GAC and KDF in each inline filter, and the listing says each lasts about 3 months and 1,350 gallons. It is described as lead-free and BPA-free.\n\nAgainst Camco Tastepure 2-Pack, it gives four filters with a stated capacity. Against Envig Puretaste, it lists a smaller capacity per filter.\n\nIt suits owners who swap filters seasonally. It is a natural fit for seasonal swaps.",
     "specs": [
       "GAC and KDF, 4 filters",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41AQvt7Lr8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GQSF4715?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GQSF4715?tag=rvgearlab-amz-20",
     "description": "Filterelated RV Inline Filter is a six-stage KDF carbon filter with dual PP sediment layers and a four-material core. The listing says a Crystphos scale inhibitor protects water heaters and fixtures, and a 360 degree hose protector prevents kinks.\n\nAgainst Camco Tastepure 2-Pack, it adds a scale shield and a hose protector. Against Beckacher 4-Pack, it is a single unit.\n\nIt suits hard-water campgrounds. Think of it as the pick for hard-water campgrounds.",
     "specs": [
       "6-stage KDF carbon PP",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41kV7jWxzLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FLY5GXRC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FLY5GXRC?tag=rvgearlab-amz-20",
     "description": "PUREPLUS Combo Pack includes a 5 micron PP sediment filter and a 1 micron CTO carbon block with KDF, in the standard 10 by 2.5 inch format. The listing says the sediment filter is certified to NSF/ANSI 42 for material safety.\n\nAgainst the inline filters, it is a housing cartridge pair. Against Camco Tastepure 2-Pack, it needs a compatible housing.\n\nIt suits owners who run a dual-stage housing. Buyers focused on dual-stage housings will find it a sensible match.",
     "specs": [
       "5-micron PP plus 1-micron CTO KDF",

@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zl4REf4lL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07GF5JY35?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07GF5JY35?tag=rvgearlab-amz-20",
     "description": "The Renogy 100W is a bare rigid panel built from N-type cells in a 16-busbar layout, with a listed 25 percent conversion efficiency and a temperature coefficient of minus 0.29 percent per degree Celsius. Renogy says it is 11 percent smaller and 8 percent lighter than its earlier 100W model, with an IP65 rating and low-iron tempered glass. At $71.05 it works out to about 71 cents per watt.\n\nIt ranks first because it is the only pick here that publishes a temperature coefficient, the number that decides how much power you lose on a hot roof. At minus 0.29 percent, a cell running 40°C above the lab condition gives up about 11.6 percent (simple arithmetic from the listed figure). It costs $21.06 more than the HQST 100W and $11.06 more than the JJN, in exchange for that disclosure and the newer cell type. It does not include a controller, unlike the Voltset kit that costs $68.90 more.\n\nPick this if you are building a small system around a controller you already have and the roof is hot most of the summer. The caveat is that the listing gives no weight or exact dimensions, so check the product page against your roof space before ordering.",
     "specs": [
       "25% N-type 16BB cells",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41XfEtRGmNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H4152J7K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H4152J7K?tag=rvgearlab-amz-20",
     "description": "The HQST 100W measures 31.8 by 27.5 by 1.18 inches, which the listing calls 11 percent smaller than traditional 100W panels, and it sells for $49.99, or 50 cents per watt. It uses 166mm Grade A+ cells with 100 percent electroluminescence testing and a listed conversion of up to 23 percent. It is rated for 2,400 Pa wind load and 5,400 Pa snow load, and the maker backs it with a 5-year product assurance and 80 percent output retention after 25 years.\n\nIt is second because it is the cheapest single panel here, $21.06 below the Renogy 100W and $10 below the JJN, and it gives the exact footprint the others leave out. A square panel of this size is easier to fit beside a vent or a roof fan than a long narrow one. The tradeoff against the Renogy is older 9-busbar cells at 23 percent, and no temperature coefficient is stated.\n\nPick this if roof space is tight or you are adding a second small panel and want the lowest price with a clearly stated size. The caveat is the missing heat figure, so assume a bit more loss on a dark roof than the Renogy would show.",
     "specs": [
       "31.8 x 27.5 x 1.18 inches",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51T-OwvCBaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DNPTJY5T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DNPTJY5T?tag=rvgearlab-amz-20",
     "description": "The Voltset kit bundles a 100W monocrystalline panel with a 20A smart controller that has an LCD, LED indicators, a USB port and a Type-C port. The listing also includes an alligator clip cable and four Z mounting brackets, an IP67 rating, and compatibility with LiFePO4, AGM, gel, flooded and lithium-ion 12V batteries. It costs $139.95.\n\nIt ranks third because you pay $68.90 more than the bare Renogy panel to get the controller, and the Hoysicy kit below costs $30 less for a similar bundle. What you gain is the LCD readout and the plug-and-play wiring for a first system. Its claim of more than 500 watt-hours per day equals 100W for five full hours with zero losses, so treat 375 watt-hours as the realistic five-sun-hour figure.\n\nChoose it if this is your first solar setup and you want panel, controller and brackets from one box. The caveat is the controller is a 20A unit with alligator clips, so it suits a small battery on a trailer tongue, not a roof-mounted system that needs permanent wiring.",
     "specs": [
       "20A controller with LCD",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51XqY445ZSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GHN3XMSR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GHN3XMSR?tag=rvgearlab-amz-20",
     "description": "The Hoysicy 100W kit costs $109.99 and includes the panel, a smart controller with overcharge, over-discharge, over-voltage and short-circuit protection, solar-to-controller cables, O-ring terminal power cables, Z-brackets and screws. The panel uses monocrystalline cells with a waterproof junction box, edge-seal waterproofing and a corrosion-resistant aluminum frame.\n\nIt is fourth because it sits between the bare panels and the Voltset kit: $30.04 cheaper than the Voltset, but $38.94 more than the Renogy panel alone. The O-ring cables make it better for a permanent battery connection than alligator clips, while the Voltset adds the LCD and USB ports. Its claim of 30 percent higher efficiency than ordinary silicon is a comparison to an unnamed baseline, so ignore it when sizing.\n\nPick this if you want a bundled kit for a fixed battery installation at a lower price than the Voltset. The caveat is the listing does not state the controller amp rating, so confirm it before pairing with a battery that accepts more than 100W.",
     "specs": [
       "100W mono panel with controller",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/414F4vaJwSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09V4ZDJTJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09V4ZDJTJ?tag=rvgearlab-amz-20",
     "description": "The JJN 100W costs $59.99 and uses 10-busbar Grade A+ monocrystalline cells at a listed 23 percent. The black aluminum frame is rated for 2,100 Pa wind and 5,100 Pa snow, the junction box is IP65 and the connectors IP67. The maker lists a transferable power-output warranty of 30 years, though the full terms are not listed.\n\nIt ranks fifth because the HQST costs $10 less, carries higher wind and snow ratings (2,400 and 5,400 Pa), and publishes its size. The JJN is $11.06 cheaper than the Renogy but gives up the newer N-type cells and the temperature figure. Its one distinct edge is the transferable long warranty, which matters if you may sell the RV.\n\nPick this if a transferable output warranty matters more than the lowest price. The caveat is that you should read the actual warranty terms on the product page, since the listing bullet is truncated and 30-year panel promises usually describe a declining output floor.",
     "specs": [
       "10BB mono cells, 23%",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41XE6ylIRuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DSHPWMH2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DSHPWMH2?tag=rvgearlab-amz-20",
     "description": "The Rvpozwer listing sells two 100W N-type panels with 18-busbar cells and a listed 25 percent efficiency for $89.99, or about $45 per panel and 45 cents per watt across the 200W pair. The panels carry a 2,400 Pa wind and 5,400 Pa snow rating, an electroplated aluminum frame and pre-drilled mounting holes. The listing notes at most three panels in parallel or three in series.\n\nIt ranks last only because it does not fit a strict 100W boundary: you receive 200W and need the roof area for two panels. Per watt it is the cheapest option, $0.05 below the HQST, and it adds N-type cells that the HQST lacks. Its daily claim has a typo, quoting a monthly figure of 10001000 watt-hours, so ignore it and use 1,000 watt-hours at 5 sun hours as the nominal number for two panels.\n\nPick this if a 100W panel is your starting point and you plan to double soon. The caveat is the three-panel series or parallel limit, so a 400W array would need a larger controller and a different wiring plan.",
     "specs": [
       "Two 100W N-type panels",

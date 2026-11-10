@@ -21,7 +21,7 @@ export const products = withAmazonUrls([
     badge: "Best overall",
     name: "EF ECOFLOW Portable Power Station DELTA 2 Max 2048Wh, 2400W LiFePO4 Battery",
     amazonQuery: "EF ECOFLOW Portable Power Station DELTA 2 Max 2048Wh, 2400W LiFePO4 Battery",
-    amazonUrl: "https://www.amazon.com/dp/B0C4DW17PD?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0C4DW17PD?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/31FHPLyvAEL._SL500_.jpg",
     specs: ["Capacity: 2,048Wh","Runtime claim: Up to 1.1 hours","Battery cycle claim: 3,000 cycles","Battery chemistry: LiFePO4"],
     specList: [{"label":"Capacity","value":"2,048Wh"},{"label":"Runtime claim","value":"Up to 1.1 hours"},{"label":"Battery cycle claim","value":"3,000 cycles"},{"label":"Battery chemistry","value":"LiFePO4"}],
@@ -36,7 +36,7 @@ export const products = withAmazonUrls([
     badge: "Best heavy-duty option",
     name: "EF ECOFLOW Portable Power Station River 2 Max 500, 499Wh 500W",
     amazonQuery: "EF ECOFLOW Portable Power Station River 2 Max 500, 499Wh 500W",
-    amazonUrl: "https://www.amazon.com/dp/B0CVZQ5RN1?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0CVZQ5RN1?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/31xXsyUVFbL._SL500_.jpg",
     specs: ["Capacity: 499Wh","Continuous output: 300W","Listed weight: 13.3 lb","Runtime claim: Up to 1 hours"],
     specList: [{"label":"Capacity","value":"499Wh"},{"label":"Continuous output","value":"300W"},{"label":"Listed weight","value":"13.3 lb"},{"label":"Runtime claim","value":"Up to 1 hours"}],
@@ -51,7 +51,7 @@ export const products = withAmazonUrls([
     badge: "Best compact option",
     name: "EF ECOFLOW Portable Power Station Delta 3 Classic, 1024Wh 1800W AC",
     amazonQuery: "EF ECOFLOW Portable Power Station Delta 3 Classic, 1024Wh 1800W AC",
-    amazonUrl: "https://www.amazon.com/dp/B0FQVC4RF5?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0FQVC4RF5?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/31F8BqUk3HL._SL500_.jpg",
     specs: ["Capacity: 1,024Wh","Continuous output: 1,800W","Surge output: 3,600W","Included panel: 500W"],
     specList: [{"label":"Capacity","value":"1,024Wh"},{"label":"Continuous output","value":"1,800W"},{"label":"Surge output","value":"3,600W"},{"label":"Included panel","value":"500W"}],
@@ -66,7 +66,7 @@ export const products = withAmazonUrls([
     badge: "Best value pick",
     name: "EF ECOFLOW Portable Power Station RIVER 2 Pro, 768Wh 800W",
     amazonQuery: "EF ECOFLOW Portable Power Station RIVER 2 Pro, 768Wh 800W",
-    amazonUrl: "https://www.amazon.com/dp/B0BVLPGS79?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0BVLPGS79?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/31fGKfidOAL._SL500_.jpg",
     specs: ["Capacity: 768Wh","Continuous output: 800W","Listed weight: 17.2 lb","Runtime claim: Up to 3.5 hours"],
     specList: [{"label":"Capacity","value":"768Wh"},{"label":"Continuous output","value":"800W"},{"label":"Listed weight","value":"17.2 lb"},{"label":"Runtime claim","value":"Up to 3.5 hours"}],
@@ -81,7 +81,7 @@ export const products = withAmazonUrls([
     badge: "Best backup pick",
     name: "EF ECOFLOW DELTA 3 Max Portable Power Station, 2048Wh LFP Battery, 2400W",
     amazonQuery: "EF ECOFLOW DELTA 3 Max Portable Power Station, 2048Wh LFP Battery, 2400W",
-    amazonUrl: "https://www.amazon.com/dp/B0FQV6LMVX?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0FQV6LMVX?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/31hRboIX8pL._SL500_.jpg",
     specs: ["Capacity: 2,048Wh","Continuous output: 3,400W","Runtime claim: Up to 1.13 hours","Battery chemistry: LiFePO4"],
     specList: [{"label":"Capacity","value":"2,048Wh"},{"label":"Continuous output","value":"3,400W"},{"label":"Runtime claim","value":"Up to 1.13 hours"},{"label":"Battery chemistry","value":"LiFePO4"}],
@@ -183,7 +183,7 @@ export const relatedGuides = [
 export const sources = [
   {
     "title": "EF ECOFLOW Portable Power Station DELTA 2 Max 2048Wh, 2400W LiFePO4 Battery product page",
-    "href": "https://www.amazon.com/dp/B0C4DW17PD?tag=rvgearlab-20&linkCode=osi&th=1&psc=1"
+    "href": "https://www.amazon.com/dp/B0C4DW17PD?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1"
   },
   {
     "title": "CPSC carbon monoxide safety center",

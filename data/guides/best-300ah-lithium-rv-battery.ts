@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41I1aG07jHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DS3Y9TBQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DS3Y9TBQ?tag=rvgearlab-amz-20",
     "description": "The ECO-WORTHY 314Ah tops this list because it gives you the most information with the least effort. A built-in LED screen shows state of charge right on the case, a buzzer sounds on faults, and the app adds remote detail, all on top of 4,019Wh of storage from a 200A BMS.\n\nThe SUPER EMPOWER 314Ah below matches its capacity in a slightly smaller, lighter body and cuts charging at a safer 32F, but lacks the onboard display. ECO-WORTHY's low-temperature cutoff sits at 19.4F, which is below the 32F point usually recommended for LiFePO4, so it ranks first on usability rather than cold-weather caution.\n\nIt suits fifth wheels and Class A coaches with a roomy battery bay. In freezing climates, keep the battery inside heated space or pick a heated model.",
     "specs": [
       "314Ah, 4019Wh",
@@ -55,7 +55,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41n4K1RTsXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G9SLSTN8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G9SLSTN8?tag=rvgearlab-amz-20",
     "description": "The SUPER EMPOWER 314Ah is the most cautious design here. Charging pauses below 32F and only resumes above 41F, a well-chosen window for LiFePO4, and the listing spells out a 14.4 to 14.6V CC/CV charge profile plus a 5-year warranty.\n\nIt matches the ECO-WORTHY above on capacity while being smaller (15.11 x 7.62 x 9.82 inches) and slightly lighter, but you only see charge through the app. Against its 300Ah sibling below, you pay about $30 more for 14 extra amp-hours.\n\nThis is the pick if you camp in shoulder seasons and want the BMS to protect you. Just note the app connects within about 5 meters, so plan to check it nearby.",
     "specs": [
       "314Ah, 4.01kWh, 58.78 lbs",
@@ -83,7 +83,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41lene1Uy0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C6XK8GBG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C6XK8GBG?tag=rvgearlab-amz-20",
     "description": "The TEMGO 300Ah stands out for weight. At 54.67 lbs it is the lightest 300Ah battery in this roundup, and it can be expanded up to 10 in parallel, which is more flexible than the 4P limit common elsewhere.\n\nIt costs less than the two 314Ah picks above but gives up capacity and, more importantly, a clear warranty, since the listing only mentions a one-year service promise. The SUPER EMPOWER 300Ah below costs about the same and offers five years.\n\nChoose it for camper vans and truck campers where payload is tight. Ask the seller for warranty terms in writing before you buy.",
     "specs": [
       "300Ah, 3840Wh",
@@ -111,7 +111,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41kprSGbCKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FNQFF9XV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FNQFF9XV?tag=rvgearlab-amz-20",
     "description": "This SUPER EMPOWER 300Ah is the sibling of the runner-up, with the same 32F charge pause and 5-year warranty in a 300Ah format. It measures 15.35 x 7.59 x 9.84 inches and weighs 58.4 lbs.\n\nIt ranks below the TEMGO only because the TEMGO is lighter. In return you get a much longer stated warranty and better-documented cold protection. Compared with the MEYULMOL below, it costs about $60 more for the warranty and clearer specs.\n\nPick it if you want peace of mind over a five-year horizon. It is no lighter than its 314Ah sibling, so check that the extra capacity is not worth the small price difference.",
     "specs": [
       "300Ah, 3840Wh, 58.4 lbs",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41bPcpeB1mL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FHQDD67T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FHQDD67T?tag=rvgearlab-amz-20",
     "description": "The MEYULMOL 300Ah gives you a 200A BMS and a clearly stated 32F charging cutoff for well under $400. That combination covers the two things that matter most in a big house battery: enough current for an inverter and protection from cold charging.\n\nIt lacks the Bluetooth app found on every pick above it, so you rely on a separate battery monitor or your solar controller to see state of charge. The NebuQuic below is cheaper still, but its cold cutoff is less conservative.\n\nIt suits owners who already run a shunt-based monitor like a Victron or Renogy unit. Its cycle-life claims are inconsistent across bullets, so plan around the lower figure.",
     "specs": [
       "300Ah, 3840Wh",
@@ -165,7 +165,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41AsY1Y5-5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G5JW1KXQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G5JW1KXQ?tag=rvgearlab-amz-20",
     "description": "The NebuQuic 300Ah is the lowest cost per amp-hour here. It supports 200A for both charging and discharging, which helps with large solar arrays or a big alternator charger, and it lists cycle life honestly at several depths (4,000 at 100 percent, 6,000 at 80 percent).\n\nIt trails the MEYULMOL because its low-temperature protection is described at -4F, a discharge figure, with no clear charging cutoff at 32F. It also has no app or display.\n\nIt is a reasonable buy for Southwest snowbirds who rarely see freezing temperatures. In cold climates, a model with a stated 32F charge cutoff is the safer choice.",
     "specs": [
       "300Ah, 3840Wh",

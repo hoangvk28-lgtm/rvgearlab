@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ZezpxlNtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GXZTVNLQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GXZTVNLQ?tag=rvgearlab-amz-20",
     "description": "CICZ is a 50A unit with an 18,000 joule rating, wiring-analyzer lights and an ergonomic grip handle. A chart printed on the case translates the lights, so no manual is needed.\n\nAt about $50 it costs $4 less than the GEARGO 15,000J and offers 3,000 more joules. The Progressive SSP-30XL costs a little more and absorbs far fewer joules on a 30A line.\n\nIt suits a 50A coach where simple lights suffice. Pair it with a voltage-monitoring habit.",
     "specs": [
       "50A, 18,000J",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41T7u17wX+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B015Y9MX38?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B015Y9MX38?tag=rvgearlab-amz-20",
     "description": "Progressive Industries SSP-30XL is a portable smart surge protector for 30 amp, 120V, 3600W service. It absorbs 825 joules and warns of voltage swings, ground and neutral faults, reversed polarity, surge failure and frequency issues.\n\nAt about $52 it costs more than the EPLCSE 30A and rates far fewer joules. It brings a long-running Progressive design and a longer fault list than the cheaper 30A units.\n\nIt suits a 30A trailer owner who prefers an established brand over a high joule number. Fault warnings help you spot problems.",
     "specs": [
       "30A, 3,600W, 825J",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zzRx4oo+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D53RLC1Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D53RLC1Q?tag=rvgearlab-amz-20",
     "description": "GEARGO's 15,000 joule 50 amp unit has a circuit analyzer, IP68 waterproofing, flame-retardant material and a rugged enclosure. A right-angle male plug pushes in and pulls out easily.\n\nAt about $54 it costs $4 more than the CICZ and trades 3,000 joules for an IP68 rating. It costs about $2 more than the Progressive SSP-30XL.\n\nIt suits campers who park at older parks with questionable wiring. The lights flag a bad pedestal.",
     "specs": [
       "50A, 15,000J",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41NU4tSRcLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B38DJ5Z9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B38DJ5Z9?tag=rvgearlab-amz-20",
     "description": "GEARGO's 30 amp Gen2 is rated 12,000 joules with a circuit analyzer, V-1 flame-retardant material, an IP68 design and a waterproof cover. It comes in orange with a three-year warranty.\n\nAt about $33 it costs about $18 less than the Progressive SSP-30XL and absorbs far more joules. It lacks the long fault list of the Progressive.\n\nIt suits a 30A trailer owner who wants a warranty and an easy-to-spot color. The orange body is hard to miss.",
     "specs": [
       "30A, 12,000J",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41pC3tQ7EEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DCBJB8L1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DCBJB8L1?tag=rvgearlab-amz-20",
     "description": "EPLCSE is a 30 amp surge protector rated 10,000 joules that doubles as a circuit analyzer. It has V-1 flame-retardant material, a waterproof cover and LED lights.\n\nAt about $27 it is the cheapest pick and costs $6 less than the GEARGO Gen2. It carries the lowest joule rating of the six.\n\nIt suits a 30A trailer on a tight budget. It tests the pedestal before you commit.",
     "specs": [
       "30A, 10,000J",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Bwb-sLoEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FG82TPHJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FG82TPHJ?tag=rvgearlab-amz-20",
     "description": "CRTBETLIF is a 50 amp unit rated 16,000 joules that monitors the connection and flags power failures and wiring faults. It has a waterproof cover, a rugged housing, a grip handle and a right-angle plug.\n\nAt about $45 it costs $5 less than the CICZ and gives up two thousand joules. It pairs the all-weather cover with a plug you can hold with wet hands.\n\nIt suits outdoor 50A hookups in all weather. The grip handle suits wet hands.",
     "specs": [
       "50A, 16,000J",

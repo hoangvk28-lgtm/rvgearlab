@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ZJHuEurkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01BMB4C86?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01BMB4C86?tag=rvgearlab-amz-20",
     "description": "The Karcher Multi-Purpose Pressure Washer Detergent lists RVs among its surfaces and makes up to 40 gallons from one gallon. The label says it suits pressure washer, foam cannon or manual use.\n\nIt stretches farther than the Krud Kutter, which makes up to 20 gallons from one gallon. It is compatible with most consumer gas and electric pressure washers.\n\nIt suits owners who want one concentrate for RV, deck and driveway. It is made in the USA.",
     "specs": [
       "Highly concentrated, 40 gallons",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/419zLq3zJmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01BMB4CUY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01BMB4CUY?tag=rvgearlab-amz-20",
     "description": "The Karcher Vehicle Wash and Wax is a pressure washer detergent that rinses away dirt without leaving residue. It makes up to 40 gallons from one gallon of concentrate.\n\nIt is the vehicle-specific Karcher, so it fits the wash step better than the multi-purpose version. It adds a wax element to the wash.\n\nIt suits owners washing the RV body with a pressure washer. Pressure washer or foam cannon application is listed.",
     "specs": [
       "Vehicle wash and wax",
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41G3Fwb55kL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0000AXVCB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0000AXVCB?tag=rvgearlab-amz-20",
     "description": "The Meguiar's M43 Marine and RV Boat Wash is a 64 oz pH balanced soap with lasting suds. It cleans fiberglass and gel coat without stripping wax.\n\nIt is the pick that explicitly names RVs and wax protection, and it is a soap for a bucket wash. It is also the lowest priced pick.\n\nIt suits owners who hand wash after pressure rinsing. The pleasant scent is a bonus.",
     "specs": [
       "64 oz marine and RV wash",
@@ -109,7 +109,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41b4mmnLjmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D33WCM1L?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D33WCM1L?tag=rvgearlab-amz-20",
     "description": "The Krud Kutter Multi-Purpose Pressure Washer Concentrate is a bleach-free commercial strength formula. It lists dirt, oil, grease, bird droppings and tree sap, and surfaces like vinyl, aluminum siding and masonry.\n\nOne gallon makes up to 20 gallons and covers up to 5,800 square feet. Apply, wait 3 to 5 minutes and rinse.\n\nIt suits owners cleaning the base, wheel wells and awning frame. Heavy grease is where it earns its place.",
     "specs": [
       "Commercial strength concentrate",
@@ -136,7 +136,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41VOOS-WlXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B001BYIB1Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B001BYIB1Y?tag=rvgearlab-amz-20",
     "description": "The Zep All-in-1 Premium Pressure Washing Concentrate holds 172 fl oz. It cleans siding, driveways, brick, wood and stucco and removes algae stains.\n\nIt is the biggest container of the group, and it is priced below the Simple Green. It is an all-in-one cleaner.\n\nIt suits owners with many outdoor surfaces to clean. The big bottle suits a full season of washing.",
     "specs": [
       "172 fl oz concentrate",
@@ -163,7 +163,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41WfJEPJBSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07DV21X32?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07DV21X32?tag=rvgearlab-amz-20",
     "description": "The Simple Green Oxy Solve Total Outdoor Cleaner is a peroxide concentrate that is EPA Safer Choice Certified. It covers up to 6,400 square feet per bottle.\n\nIt is the most eco-oriented pick, and it lists wood, vinyl, concrete, brick and composite. It is the highest priced pick.\n\nIt suits owners who also clean decks and patios at the campsite. The peroxide formula avoids harsh chemicals.",
     "specs": [
       "Peroxide outdoor cleaner",

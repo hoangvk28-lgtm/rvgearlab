@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41plz+c40AL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F6MS3VGK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F6MS3VGK?tag=rvgearlab-amz-20",
     "description": "The Anipaw is a 14 oz stainless steel dog water bottle that is lead-free and BPA-free. A silica gel seal ring stops leaks, even when the bottle is shaken hard.\n\nIt holds more than the DR.ROSER stainless bottle and the Anipaw lists a seal ring that is shake-tested. It has no food compartment.\n\nIt suits owners who want a tough bottle that rides in a car door pocket. Steel resists chewing and odors.",
     "specs": [
       "14 oz stainless steel",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41wMy5C3YlL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B3DKHGRX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B3DKHGRX?tag=rvgearlab-amz-20",
     "description": "The TIOVERY has two layers that hold 12 oz of water and 4 oz of food, for small and medium dogs. One-hand operation, a leaf bowl and a button that drains excess water back make it easy.\n\nIt has a food layer that the Anipaw and Kalimdor lack and double silica gel seal rings plus a locking button. It carries less water than the 19 oz bottles.\n\nIt suits owners of small and medium dogs who want water and a snack in one. The leaf bowl pulls up for serving.",
     "specs": [
       "12 oz water, 4 oz food",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41FC5lBTPuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09F5ZVV3D?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09F5ZVV3D?tag=rvgearlab-amz-20",
     "description": "The Cibaabo bottle comes in 10 oz or 19 oz with a built-in carbon filter and a 100g food container attached to the bowl. A silicone loop and lock prevent leaks, and the ABS and PC body is rated to 250F.\n\nIt is the only bottle with a carbon filter, which helps with tap water in unfamiliar places. It needs a lock turn after each use.\n\nIt suits owners who travel to places with unknown water. The two size options fit different dogs.",
     "specs": [
       "10 oz or 19 oz sizes",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Ghl+eQn0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B089W25KG3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B089W25KG3?tag=rvgearlab-amz-20",
     "description": "The Kalimdor holds 19 oz and has a 2.8 inch big trough that recovers unused water. One-key open and lock and one-hand operation make it simple.\n\nIt holds more than the TIOVERY and the DR.ROSER and has a wider trough than most. It lacks a food layer.\n\nIt suits owners of medium and large dogs on road trips. The trough fits a larger muzzle.",
     "specs": [
       "19 oz with a 2.8 inch trough",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41JZUl8LxzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B098KBJNMH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B098KBJNMH?tag=rvgearlab-amz-20",
     "description": "The SOICTA comes in 19 oz or 12 oz and has a foldable design with a larger drinking trough. Silicone sealing rings and waterproof keys give double leak protection, and a one-touch release controls the water.\n\nIt folds flat, which the Kalimdor does not, and offers two sizes. It is cheaper than most picks here.\n\nIt suits owners who want a flat-packing bottle for a day pack or glove box. The one-touch release controls flow.",
     "specs": [
       "19 oz or 12 oz sizes",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/418hyWrnJgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H3HGWC84?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H3HGWC84?tag=rvgearlab-amz-20",
     "description": "The DR.ROSER is a 10 oz bottle with a 304 stainless steel liner, a foldable silicone bowl and a multi-layer sealing system. The listing calls it a 2-in-1 that can hold water or dog food.\n\nIt has the smallest capacity and uses a steel liner that keeps water fresh, with a bowl that folds. It costs about the same as the SOICTA.\n\nIt suits owners of small dogs who want a steel liner and a bowl. It fits a cupholder.",
     "specs": [
       "10 oz, 304 stainless liner",

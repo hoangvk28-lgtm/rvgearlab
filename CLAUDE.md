@@ -27,9 +27,12 @@
 - **Site name:** `SITE_NAME = "RV Gear Lab"` (note the spaces) in `lib/seo.ts`
 - **Live domain:** `https://www.rvgearlab.com` (www canonical; non-www 301 in `next.config.ts`)
 - **Twitter handle:** `@rvgearlab` (`TWITTER_HANDLE` in `lib/seo.ts`)
-- **Business model:** Amazon affiliate. Site link tag is **`rvgearlab-20`**, defined once as
+- **Business model:** Amazon affiliate. Site link tag is **`rvgearlab-amz-20`**, defined once as
   `AMAZON_TAG` in `lib/affiliate.ts`. Build links with `buildAmazonUrl(asin)`; render stored links
   through `withAmazonTag(url)` so a stale tag in stored data can never reach a live href.
+- **Tracking tag note (2026-11-10):** the only Amazon tag for this site is `rvgearlab-amz-20`. The old
+  tags `rvgearlab-20` and `theofficejournal-20` were replaced everywhere (data, scripts, docs, legal
+  pages). Never reintroduce them or any other site's tag.
 - **Niche / audience:** US RV owners **and** campers — travel trailers, fifth wheels, motorhomes,
   plus tents, sleep systems, camp kitchens and trail gear.
 - **Google Analytics:** `process.env.NEXT_PUBLIC_GA_ID` (`app/layout.tsx`). Analytics stay off until
@@ -206,7 +209,7 @@ has no page.
   `DISCLOSURE_SHORT` = _"RV Gear Lab earns a small commission on qualifying Amazon purchases at no
   extra cost to you."_
 - `/affiliate-disclosure` must stay accessible and linked from the footer.
-- **Every `amazonUrl` written to the site must be `https://www.amazon.com/dp/<ASIN>?tag=rvgearlab-20`.**
+- **Every `amazonUrl` written to the site must be `https://www.amazon.com/dp/<ASIN>?tag=rvgearlab-amz-20`.**
   The Creators/PA API credentials in `.env.local` are tied to a *different* partner tag used only for
   querying — that tag must never appear in shipped data. Grep for it before committing a batch.
 - Do not claim brand partnership, sponsorship or paid "best" designation.
@@ -572,7 +575,7 @@ in that order (guides reference product IDs).
 2. `npm run lint` — zero errors.
 3. Verify the changed page's `<title>` has no double `| RV Gear Lab`.
 4. Verify the canonical has no trailing slash.
-5. Grep the diff for `smartspace`/any non-`rvgearlab-20` Amazon tag, em/en dashes, "we tested",
+5. Grep the diff for `smartspace`/any non-`rvgearlab-amz-20` Amazon tag, em/en dashes, "we tested",
    and the drafting-process leak phrases.
 
 ---
@@ -632,7 +635,7 @@ Build status: [tsc clean? lint clean? page rendered?]
 - Remove the non-www redirect or any existing 301.
 - Add `AggregateRating` schema built from editorial scores.
 - Write "we tested" / "we tried", or expose the drafting process.
-- Ship an Amazon URL with any tag other than `rvgearlab-20`.
+- Ship an Amazon URL with any tag other than `rvgearlab-amz-20`.
 - Remove `revalidate` from article routes without explicit instruction.
 - Commit `.env.local` or any real secret.
 - Rename a published slug without a 301.
@@ -663,7 +666,7 @@ Build status: [tsc clean? lint clean? page rendered?]
    related) → `node scripts/gen-p2-batch.mjs <pool> scripts/p2-content [--register]` (validation +
    write) → `node scripts/generate-guides-index.mjs` → `npx tsc --noEmit`.
 7. **Verify:** cross-article ASIN overlap check (no pair > 2 shared ASINs, distinct #1), then curl
-   every new URL for 200 + `rvgearlab-20` present + no other tag + no "we tested".
+   every new URL for 200 + `rvgearlab-amz-20` present + no other tag + no "we tested".
 8. Commit locally; push only when the user asks.
 
 `scripts/generate-guides-index.mjs` regenerates the slug → dynamic-import map used by the article
@@ -717,7 +720,7 @@ Do this by writing a per-slug prose module and merging it mechanically — never
 - [ ] Author schema matches `isPerson` in `data/authors.ts`
 
 **Affiliate & content**
-- [ ] Every `amazonUrl` carries `tag=rvgearlab-20` and nothing else
+- [ ] Every `amazonUrl` carries `tag=rvgearlab-amz-20` and nothing else
 - [ ] `rel="noopener noreferrer sponsored"` on outbound links
 - [ ] `<AffiliateDisclosureBar>` present
 - [ ] No "we tested" / "we tried"; no drafting-process leak phrases

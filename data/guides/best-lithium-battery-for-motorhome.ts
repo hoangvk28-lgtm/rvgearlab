@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41vWl-uBVhL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FH587YQG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FH587YQG?tag=rvgearlab-amz-20",
     "description": "The LiTime 12V 320Ah Mini measures 14.49 x 7.44 x 10.63 in and claims to be 35% smaller than a 300Ah lithium. It adds Bluetooth 5.0 monitoring and an IP65 rating, which suits an open basement bay where road spray reaches the case. At $746.99 it is the most expensive pick here and the one that packs the most energy into one footprint.\n\nAgainst the PUPVWMHB 330Ah at $429, you pay $317.99 more for a tighter case and a more established app experience. Pick this if one bay must hold the whole house bank and every inch counts. The honest caveat is price, since the cheaper 330Ah delivers similar capacity on paper.",
     "specs": [
       "12V 320Ah, mini case",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41togyL44aL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DWL5V5JL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DWL5V5JL?tag=rvgearlab-amz-20",
     "description": "The PUPVWMHB 12V 330Ah is a mini-format lithium with a 200A BMS, Bluetooth monitoring and a rated life of up to 15000 cycles. It can be wired in series and parallel for larger systems, which matters if your coach is wired for expansion. At $429 it delivers the most amp hours per dollar in this roundup.\n\nCompared with the LiTime at $746.99, you save $317.99 and gain 10Ah, but you take on a lesser known brand. Compared with the Power Queen 100Ah at $260.99, you pay $168.01 more for more than triple the capacity. Pick this if you want a large single battery on a budget; the caveat is that support depth is thinner than the bigger names.",
     "specs": [
       "12V 330Ah mini",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41q3etHzSnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BY8WVM2X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BY8WVM2X?tag=rvgearlab-amz-20",
     "description": "The Power Queen 12V 100Ah fits BCI Group 24, 27 and 31 compartments and weighs 21.9 lb with 1280Wh of usable energy. Charging stops below 32F and discharging stops below -4F, which protects the cells when a coach sits in a cold storage lot. Bluetooth and IP65 round out the package at $260.99.\n\nNext to the Super Empower 2-Pack at $349.99, one unit costs $89.00 less but gives half the energy of the pair. Pick this if you are swapping a single lead-acid battery in a standard tray and want known cutoff temperatures. The caveat is capacity: one 100Ah unit will not carry a residential fridge overnight.",
     "specs": [
       "12V 100Ah, 1280Wh",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41oSLEXj5hL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FN4CD3JS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FN4CD3JS?tag=rvgearlab-amz-20",
     "description": "The Super Empower set gives you two 12.8V 100Ah Group 31 batteries, each 13 x 8.4 x 6.8 in and 20.94 lb. The listing recommends a 14.4 to 14.6V CC/CV lithium charger, a useful spec to match against your converter. At $349.99 the pair works out to 2560Wh in total.\n\nVersus the Dumfume 100Ah at $169.96, the pair costs $180.03 more yet adds a second battery, so the price per battery is almost identical. Pick this if your coach has two Group 31 trays or you want to split the load. The caveat is that two batteries mean more cables, fuses and balancing considerations.",
     "specs": [
       "2 x 12.8V 100Ah Group 31",
@@ -133,7 +133,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41voBCJdYmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F4MJKYXC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F4MJKYXC?tag=rvgearlab-amz-20",
     "description": "The Dumfume 12.8V 100Ah is a Group 31 lithium weighing 21.6 lb, with a built-in 100A BMS and Grade A cells. It claims a 25% size reduction and 1.28kWh of energy. At $169.96 it is the cheapest way into lithium on this list.\n\nIt sits $91.03 below the Power Queen 100Ah and gives up the clearly published temperature cutoffs. Pick this if you need a low risk first lithium battery for a small coach with modest loads. The caveat is the 100A BMS, which limits you to about 1200W of inverter load before the pack shuts off.",
     "specs": [
       "12.8V 100Ah Group 31",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51RIb2aTj8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GL88FCYB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GL88FCYB?tag=rvgearlab-amz-20",
     "description": "HQST is a 200W bifacial N-type panel with 16BB Grade A+ cells at up to 25.4 percent efficiency, an IP68 rating, 2400Pa wind and 5400Pa snow load capacity and a 30-year service life claim. It is 13 percent smaller and 13.3 percent lighter than standard PERC panels, and the dual-side design adds up to 30 percent more output over a reflective surface.\n\nAt about $130 it is the cheapest 200W panel here by $20, and it has the only bifacial design. The ECOBOSS and Renogy match it on watts and cost more.\n\nChoose it for a camper van, a ground mount or a shed where reflected light helps. It is sized for Class B vans.",
     "specs": [
       "200W bifacial N-type, 25.4%",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41nbpicmQQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GFMKY3QV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GFMKY3QV?tag=rvgearlab-amz-20",
     "description": "ECOBOSS is a 200W N-type panel with 182mm Grade A+ 16BB cells at up to 25.6 percent efficiency and bypass diodes that cut losses from partial shading. The panel is rated IP68 and 2400Pa wind and 5400Pa snow loads, and several can be wired for a 12V system.\n\nAt about $150 it costs $20 more than the HQST and has the highest efficiency of the four rigid panels. It is a standard rigid panel with no bifacial design.\n\nChoose it for an RV or cabin roof where vents or antennas cast shade. It is easy to expand with more panels.",
     "specs": [
       "200W N-type, up to 25.6%",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/414ARZAI9kL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08CRJYJ22?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08CRJYJ22?tag=rvgearlab-amz-20",
     "description": "Renogy's 200W N-type panel uses 16BB cells at 25 percent efficiency and operates at 24V to cut current loss, with a low temperature coefficient for hot climates. It is 7.5 percent smaller and 11.7 percent lighter than previous models, and degradation is rated at 1 percent in year one and 0.4 percent a year after.\n\nAt about $152 it costs about the same as the ECOBOSS and offers a well-known brand with a stated degradation rate. It is a 24V panel, so it needs an MPPT controller for a 12V battery.\n\nChoose it for an RV or van where brand support matters. It suits a larger system you may expand.",
     "specs": [
       "200W N-type, 25% efficiency",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4199NAF0H8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CYSC1KY8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CYSC1KY8?tag=rvgearlab-amz-20",
     "description": "ZOUPW is a 200W foldable panel with 23.5 percent monocrystalline cells, IP67 ETFE lamination and a 5-in-1 cable that fits most power stations. It has a USB-C PD 60W port and QC3.0 USB-A and weighs 18.96 lb.\n\nAt about $161 it is the heaviest pick and the one with the strongest USB-C port, which charges a laptop directly. The Renogy portable is lighter and costs more.\n\nChoose it for car camping with a power station and for the ability to charge a laptop from the panel. It is bulky when folded.",
     "specs": [
       "200W foldable, 23.5% cells",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41CvFaQf-fL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CNPHD4VY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CNPHD4VY?tag=rvgearlab-amz-20",
     "description": "Renogy's 200W portable panel uses 25 percent N-type cells, folds with magnets and weighs 13.89 lb. It has a USB-C PD 45W port plus USB-A and carries UL 61730 certification.\n\nAt about $185 it is the most expensive pick and about 5 lb lighter than the ZOUPW. The ZOUPW has a stronger USB-C port.\n\nChoose it for car camping and a power station if weight and brand matter. The magnetic fold makes it easy to carry.",
     "specs": [
       "200W portable, 25% N-type",

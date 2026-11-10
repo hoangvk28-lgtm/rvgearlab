@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31A+GGjNYyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H3TNY354?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H3TNY354?tag=rvgearlab-amz-20",
     "description": "The AJBAY Ultra-Light weighs 22g and uses a flexible TR90 frame with a sleek semi-rimless wraparound design. TAC polarized lenses list 99.9% UV400 protection and shatterproof impact resistance, and adjustable nose pads contour to your bridge.\n\nCompared with the QALLY Flex Frame, it uses a semi-rimless design for a wider view. Against the IKTOD 3-Pack, it concentrates on one well-specified pair.\n\nIt suits runners who want a barely-there feel. The listing names running, cycling, baseball, hiking and fishing.",
     "specs": [
       "22g TR90 frame",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41LjOa-wbXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G4BVTCPY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G4BVTCPY?tag=rvgearlab-amz-20",
     "description": "The QALLY Flex Frame lists TAC HD polarized lenses with 99% UV400 protection and a featherlight, heat-resistant frame with non-slip nose pads. A hydrophobic coating is described as waterproof and smudge-resistant, and the lenses are rated CAT.3, which the listing says lets 8 to 18 percent of visible light through.\n\nCompared with the AJBAY Ultra-Light, it adds a hydrophobic coating and a stated CAT.3 category. Against the IKTOD 3-Pack, it is a single pair with a more detailed lens description.\n\nIt suits runners who sweat and run in bright light. The listing names cycling, golf, fishing and hiking.",
     "specs": [
       "TAC HD polarized, CAT.3",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41j3ddKWTaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FR4KTVJY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FR4KTVJY?tag=rvgearlab-amz-20",
     "description": "The IKTOD 3-Pack includes three pairs of polarized wraparound sunglasses with UV400 coating, three microfiber bags, three cleaning cloths, three lanyards and a polarizing test card. The listing describes an ultra-light frame made for extended wear and movement.\n\nCompared with the AJBAY Ultra-Light, it gives more pairs with fewer stated specs. Against the QALLY Flex Frame, it adds lanyards and spares.\n\nIt suits families, clubs and runners who lose or scratch pairs. The listing mentions baseball, fishing and driving.",
     "specs": [
       "Three pairs with UV400 coating",

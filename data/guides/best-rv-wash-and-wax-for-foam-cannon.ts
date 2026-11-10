@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4118x1Z8NUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01CJEBEKO?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01CJEBEKO?tag=rvgearlab-amz-20",
     "description": "Chemical Guys Maxi Suds II is a 64 oz pH-balanced, high-foaming soap made for foam cannons, foam guns or bucket washes. The listing says it clings to paint, lubricates the surface to reduce swirls and is safe on waxes, sealants and ceramic coatings.\n\nAgainst Turtle Wax Pure Wash, it is cherry scented and priced slightly lower. Against the wash and wax picks, it cleans and leaves existing wax in place instead of adding any.\n\nBest for foam cannon owners who want a thick foam on a tall RV. A reliable base soap before a separate wax.",
     "specs": [
       "64 oz high-foaming cannon soap",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51RJsGSHIJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09KHMFWMC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09KHMFWMC?tag=rvgearlab-amz-20",
     "description": "Turtle Wax Pure Wash is a 64 oz pH-neutral foaming soap that the listing says works by hand with a mitt or in a foam cannon. It lists extreme foam that encapsulates dirt without stripping wax, sealants or ceramic coatings and doubles as a clay bar lubricant.\n\nAgainst Maxi Suds, it adds clay lubricant use and a pH-neutral label. Against 3D Wash N Wax, it leaves your existing wax alone and adds none.\n\nBest for owners who want a flexible soap for cannon, bucket and clay work. A good all-rounder.",
     "specs": [
       "64 oz pH-neutral foaming soap",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41iQQgCMCzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CWVN7VRV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CWVN7VRV?tag=rvgearlab-amz-20",
     "description": "The Spray & Forget RV and Camper Wash and Wax combo includes a 1 quart wash and a 1 quart wax with hose end adapters. The wash uses foaming action for a streak-free finish and the wax lists water-beading technology and protection from acid rain and tree sap.\n\nAgainst the cannon soaps, it washes and waxes with a hose end bottle instead of a cannon. Against the Camco liquids, it is a two-step system made for RVs.\n\nBest for owners who want RV-specific wash and wax without extra gear. A quick pick for a full rig.",
     "specs": [
       "1 quart wash, 1 quart wax",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41e2L8KmppL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0007RVLCW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0007RVLCW?tag=rvgearlab-amz-20",
     "description": "3D Wash N Wax is a 1 gallon pH-balanced soap infused with protective wax polymers and a slick, high-gloss finish. The listing says it is gentle on wax, sealant and ceramic coatings, foams thickly and rinses without residue or water spots.\n\nAgainst Maxi Suds, it adds wax polymers and a larger bottle. Against Camco liquids, it is a gallon pH-balanced soap with a foaming action.\n\nBest for weekly washing where the soap adds some gloss. A strong value in a gallon.",
     "specs": [
       "1 gallon pH-balanced soap with wax",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41toeFxGwtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00SL2NG5K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00SL2NG5K?tag=rvgearlab-amz-20",
     "description": "Camco Wash and Wax Cleaner for RVs, Trailers and Vehicles contains 100 percent carnauba wax and gives a clean, shiny finish without buffing. It lists waterproof beading and safety for all finishes.\n\nAgainst the Camco Pro-Strength, it is the larger and pricier version. Against 3D Wash N Wax, it is made for RVs.\n\nBest for owners who want a classic carnauba wash and wax. A simple RV-ready bucket wash.",
     "specs": [
       "100 percent carnauba wax",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41759L9CsXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00SL2NG0K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00SL2NG0K?tag=rvgearlab-amz-20",
     "description": "Camco Pro-Strength Wash and Wax is a 32 fl oz liquid with 100 percent carnauba wax that gives a clean, shiny finish without buffing and creates waterproof beading. It is the lowest-priced pick on this page.\n\nAgainst the larger Camco Wash and Wax, it is a smaller, cheaper bottle. Against the cannon soaps, it washes and waxes in a single bottle.\n\nBest for small RVs and budget buyers. An easy carnauba wash.",
     "specs": [
       "32 fl oz carnauba wash and wax",

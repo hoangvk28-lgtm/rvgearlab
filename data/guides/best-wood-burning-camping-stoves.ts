@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41LQwQHeCHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H35YLPBS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H35YLPBS?tag=rvgearlab-amz-20",
     "description": "The Vrygle is a portable wood-burning hot tent stove with a cooking surface on top. Its kit includes the stove body, six detachable chimney pipes that reach 73.23 inches, a spark arrestor, a fire grate net, an ash scraper, an ash hook, gloves, tent stakes and ropes.\n\nWhere the AVOFOREST and unho list seven pipes, the Vrygle states a total reach and bundles the tools for ash and clearance. It costs less than the unho and Guide Gear while keeping the iron and stainless build.\n\nIt suits cold-season campers with a stove-ready tent who want one box that heats and cooks. The chimney carries smoke out of the tent.",
     "specs": [
       "Wood stove with chimney",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31FtooMsn-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0155324VO?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0155324VO?tag=rvgearlab-amz-20",
     "description": "The Guide Gear stove has a galvanized steel fire box with a heat-resistant finish and a cast iron front door with air vent holes. The top platform keeps pots and saucepans hot, boils water or cooks bacon and eggs.\n\nIt ships with five interlocking stove pipes and detachable legs, and the whole stove fits inside itself for transport. It is the most expensive pick here and is described for outdoor use, not specifically for tent stove jacks.\n\nIt suits car campers who want warmth and a cooking top at a campsite or in the backyard. The nesting design keeps the trunk tidy.",
     "specs": [
       "Galvanized steel fire box",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41p-E+QTi0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CHV6TN2X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CHV6TN2X?tag=rvgearlab-amz-20",
     "description": "The AVOFOREST is a small iron-bodied wood stove split into seven 12 inch chimney sections of stainless steel. A glass window made of flame-retardant silicone fiber lets you watch the burn, and a damper under the window opens and closes to change the draw.\n\nIt is cheaper than the unho and carries a damper on the chimney, a control the Guide Gear listing does not mention. Fire tongs, a brush, gloves and an ash screen fit inside the stove.\n\nIt suits ice anglers and hunters who want a visible fire and a compact setup for the car. A first burn outdoors is recommended by the listing.",
     "specs": [
       "Seven 12 inch pipe sections",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/414YdAJx6GL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DRVGBXBV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DRVGBXBV?tag=rvgearlab-amz-20",
     "description": "The unho is a stainless steel hot tent stove with ceramic glass and seven chimney pipes. The listing says the pipes send combustion gases outside and that the stable legs keep the body off the ground.\n\nIt is stainless throughout, which separates it from the iron-bodied Vrygle and AVOFOREST, and it costs more than both. The listing itself notes it is heavier than some other stoves.\n\nIt suits campers who prefer stainless for easier cleanup and who use a stove-ready tent. Safety guidance in the listing advises a fire extinguisher or bucket of sand close by.",
     "specs": [
       "Stainless steel body",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41XWjLiu8WL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G23JWD4M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G23JWD4M?tag=rvgearlab-amz-20",
     "description": "The GVUHR is a folding twig stove whose listing describes cast iron construction. It is sold for camp cooking, boiling water and warming up in the wilderness.\n\nIt is the small, packable option in a list of chimney stoves, and it sits well below them on price. The listing prints no weight or folded size, which keeps it from beating the Kuvik for packability.\n\nIt suits campers who want a simple, low-cost stove for boiling and basic meals. It works best as a secondary stove rather than a tent heater.",
     "specs": [
       "Cast iron construction",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41aPJtKsHJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08NLVKHPP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08NLVKHPP?tag=rvgearlab-amz-20",
     "description": "The Kuvik is the lightest stove here, a Grade-1 titanium design that collapses to 0.2 inch. Interlocking tabs form a small firebox with a stoking opening.\n\nNext to the chimney stoves it is for cooking, not tent heating, and it carries in a pack or a glovebox with no space penalty. It costs a fraction of the unho and Guide Gear.\n\nIt suits campers who want a small wood stove to boil water for coffee or noodles. A hot boil is its strength.",
     "specs": [
       "Grade-1 titanium",

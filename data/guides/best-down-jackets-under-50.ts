@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/317+ameCb9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DHZFVKG4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DHZFVKG4?tag=rvgearlab-amz-20",
     "description": "The TBMPOY Duck Down is a men's packable puffer filled with 90% duck down, with a hood, shrink cuffs and hem, two zip pockets and two inside pockets. It comes with a storage bag for packing.\n\nIt costs about $30, the lowest price in this group, and it is the only jacket here that states a real down fill. The synthetic jackets above it in price, such as the Bubble Puffer 3000mm, add water resistance while this one adds natural loft and better warmth for the weight.\n\nIt suits campers and hikers who want true down insulation for cold mornings at camp at a very low price. Keep it dry, since down loses loft when wet.",
     "specs": [
       "90% duck down fill",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Jr2IRxTQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FGXMFZB5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FGXMFZB5?tag=rvgearlab-amz-20",
     "description": "The Bubble Puffer 3000mm is a men's hooded jacket with eco-friendly alternative fill, a DWR coating rated at 3000mm and breathable fabric. A drawstring waterproof stuff sack, a drawstring hood and six pockets, two outside and four inside, come with it.\n\nIt costs about $40, around $10 more than the TBMPOY Duck Down, and the extra buys a rated water-repellent shell and a stuff sack that closes tight. The synthetic fill keeps insulating when damp, which down cannot do.\n\nIt suits hikers and travelers who face drizzle and cold in one trip and want a packable layer. The six pockets keep a phone and a power bank organized.",
     "specs": [
       "Alternative fill, DWR 3000mm",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41BqHWfiR1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FF9M3S4V?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FF9M3S4V?tag=rvgearlab-amz-20",
     "description": "The BGOWATU Chin Guard is a men's packable puffer with a breathable water-resistant nylon shell and a soft cotton down alternative filling. It has a standing collar with chin guard, a full zipper, elastic cuffs and four pockets, two outside zip and two inside.\n\nIt costs about $38, close to the detachable-hood TBMPOY Detachable. The chin guard and stand collar block more wind at the neck than the hooded jackets, which makes it feel warmer on cold walks.\n\nIt suits commuters and campers who prefer a collar to a hood and want a light mid layer. It packs into its included pouch for a suitcase.",
     "specs": [
       "Stand collar with chin guard",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41klZ5+gZGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FKB525H8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FKB525H8?tag=rvgearlab-amz-20",
     "description": "The TBMPOY Detachable Hood is a men's puffer filled with down alternative insulation, with a water-resistant shell, a detachable hood and elasticized cuffs and hem. The hood has a hook-and-loop and buckle adjuster and fits over a winter hat.\n\nIt costs about $38, which is $8 more than the TBMPOY Duck Down and the same as the BGOWATU Chin Guard. It is the only jacket here whose hood comes off, so it works as a collar jacket on mild days and as a hooded jacket in the cold.\n\nIt suits buyers who want one jacket for camp and town and a mid layer under a shell. The two huge inner pockets carry gloves and a hat.",
     "specs": [
       "Down alternative insulation",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/413veUkrgYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CL8VY1F3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CL8VY1F3?tag=rvgearlab-amz-20",
     "description": "The Omoone Cropped is a women's quilted puffer with a stand collar, full zip, snap button cuffs, side pockets and a loose boxy fit. The split hem and cropped length give it a casual lounge look.\n\nIt costs about $43, the highest price here, and it is the only cropped jacket in the group, which pairs with high-waisted pants and layers over a sweater. The women's cut stays short, so it covers less than the Comfitude Collarless.\n\nIt suits women who want a trendy, lightweight puffer for travel, walks and mild camp evenings. Check the fill label before buying if warmth is the main goal.",
     "specs": [
       "Quilted cropped puffer",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31EmIEMY8cL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FNRMC38F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FNRMC38F?tag=rvgearlab-amz-20",
     "description": "The Comfitude Collarless is a women's lightweight puffer with an open crew neckline, quilted channels, a button front and two side pockets. It folds into its included storage bag for a tote or carry-on.\n\nIt costs about $33, about $10 less than the Omoone Cropped, and it is the one jacket here that fits under a blazer or wool coat without a bulky collar. It is thinner than the hooded jackets, so it works best as a layer.\n\nIt suits women who want a packable mid layer for commutes, trips and light hikes. Wear it under a shell on cold days at camp.",
     "specs": [
       "Collarless quilted puffer",

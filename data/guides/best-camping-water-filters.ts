@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zASVVW96L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07Y4XX65M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07Y4XX65M?tag=rvgearlab-amz-20",
     "description": "The SimPure is a gravity-fed set with a 3 liter TPU bag and a filter that stacks a 0.1 micron hollow fiber ultrafiltration membrane, a 5 micron coconut shell GAC filter and a 0.2 micron PP fiber filter. The listing gives a 5,000 liter (1,320 gallon) lifespan and a flow of 27 liters per hour, and the filter weighs 2.8 ounces.\n\nIt filters hands-free once you hang it from a tree strap, which suits group camp chores more than the straws. The filter can also be used as a personal filter, or with a 29.5 inch extension tube for more distance.\n\nIt suits campers who want filtered water for cooking and bottle filling without pumping or squeezing. The tree strap keeps the bag hanging while you work.",
     "specs": [
       "3 L bag, 2.8 oz filter",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51knEkQEf9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09LDFR8HX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09LDFR8HX?tag=rvgearlab-amz-20",
     "description": "The Practical Survival pack includes five reusable straw filters, each 8 inches long and weighing 2 ounces. The listing says each removes over 99.99 percent of waterborne bacteria such as E. coli and Legionella and over 99.99 percent of parasites such as Giardia and Cryptosporidium.\n\nEach filter is rated up to 1,800 gallons, which the listing frames as up to 10 years of drinking water for the average person. Compared with the LifeStraw Personal 5-Pack, the listing gives a longer gallon rating.\n\nIt suits families, scout troops and emergency kits that want one personal filter per person. The straws are small enough to ride in a pocket.",
     "specs": [
       "Five 2 oz straw filters",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41TVoduLorL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B087D7K48X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B087D7K48X?tag=rvgearlab-amz-20",
     "description": "The LifeStraw Personal 5-Pack lists 99.999999 percent removal of waterborne bacteria and 99.999 percent of waterborne parasites, plus microplastics down to 1 micron. The listing says claims are verified with labs using EPA, NSF and ASTM protocols, and gives a 4,000 liter (1,000 gallon) life.\n\nIt states a higher bacteria percentage than the Practical Survival Straws and cites test protocols by name. The Practical Survival listing gives a longer gallon rating.\n\nIt suits campers who prefer a recognized brand and want a standards-cited straw for every person. The five-pack lets everyone carry their own.",
     "specs": [
       "99.999999% bacteria claim",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51cEM+M8mIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0024E6V30?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0024E6V30?tag=rvgearlab-amz-20",
     "description": "The Camco Tastepure is a two-pack of RV inline hose filters with a 6-step Hex-Flow process using GAC and KDF media. The listing says it is tested to NSF/ANSI 42 and 53, CSA lead-free to NSF/ANSI 372, and made in the USA.\n\nThis is the taste-and-chlorine job, not microbial treatment: it reduces bad taste, odor, chlorine and sediment from a campground spigot. It carries independent standards that the Beckacher listing does not name.\n\nIt suits RV and trailer campers who connect to a campground tap and want better-tasting water. It attaches to any standard garden or drinking water hose.",
     "specs": [
       "Two inline hose filters",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51CY82OVmiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BX8M7G8N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BX8M7G8N?tag=rvgearlab-amz-20",
     "description": "The Beckacher is a two-pack of RV inline filters using GAC granular activated carbon and KDF, with a flexible hose protector. The listing rates the capacity at 1,350 gallons over about 3 months and says it installs by hand in 5 minutes.\n\nAt the lowest price of the five, it fits any standard hose, as the Camco does. It reduces taste, odor, chlorine, sand, rust and debris, per the listing.\n\nIt suits budget-minded RVers and campers who just want cleaner-tasting water from the tap. The flexible hose protector helps prevent kinks.",
     "specs": [
       "1,350 gallons over about 3 months",

@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41MgTam6EWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DKQFTHGX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DKQFTHGX?tag=rvgearlab-amz-20",
     "description": "Rooftop units up to 18,000 BTU on a single 2200W inverter generator are what the Micro-Air EasyStart Breeze 399 is listed for. That makes it a fit for most RV rooftop air conditioners in a soft-start pairing.\n\nIt installs in under 30 minutes with a 40-inch harness and cuts locked-rotor amperage by up to 75 percent. It costs about 276 dollars less than the SoftStartUp.\n\nIt installs in under 30 minutes with a 40-inch harness and color-coded wiring, cutting locked-rotor amperage by up to 75 percent. It suits owners who can wire a kit.",
     "specs": [
       "Rooftop units up to 18,000 BTU",
@@ -53,7 +53,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/313lSEpASnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CYJDQ4X1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CYJDQ4X1?tag=rvgearlab-amz-20",
     "description": "The SoftStartUp is a plug-and-play soft start that needs no installation, rooftop access or wiring. The SoftStartUp is a plug-and-play RV A/C soft start that needs no installation, rooftop access or wiring.\n\nIt works with 30 and 50 amp power and generators as low as 2200 watts. It sits at the top of the six on price.\n\nIt is designed for travel trailers, Class B and Class C RVs and works with 30 amp and 50 amp power and generators as low as 2200 watts. It suits owners who do not want to wire.",
     "specs": [
       "No installation required",
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41xIvpFTyqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F98TNVHS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F98TNVHS?tag=rvgearlab-amz-20",
     "description": "A five-wire harness and wiring diagram ship with the Aoteda kit, which reduces starting current by 65 to 70 percent. It also lets an air conditioner run from a 20A household connection.\n\nA dust-proof shell is what about 20 dollars more than the NAYAMOL adds. The manual helps with a first install.\n\nA wiring diagram, manual and color-coded five-wire harness help with the hardwired install. It suits first-time installers.",
     "specs": [
       "Cuts start current 65 to 70%",
@@ -107,7 +107,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41xQFj86vBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FM3BRBNK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FM3BRBNK?tag=rvgearlab-amz-20",
     "description": "The NAYAMOL aims at 15,000 BTU air conditioners on a 2200W generator. Its listing credits a 65 to 70 percent cut in startup current for that result.\n\nIt costs about 9 dollars more than the Matirron and runs an AC on a 20A connector. It also lists an insulated, dustproof housing.\n\nIt runs an AC on a 20A household connector, or two ACs on a 30A connection with two kits. It suits budget buyers who want a known 2200W result.",
     "specs": [
       "65 to 70% startup cut",
@@ -134,7 +134,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41+sFkYNMpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HDHXLGLS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HDHXLGLS?tag=rvgearlab-amz-20",
     "description": "The Matirron is a soft starter for 13.5K to 15K BTU 120V units and names Dometic, Furrion, Coleman-Mach and GE. The Matirron is a soft starter for 13.5K to 15K BTU 120V rooftop units and names Dometic, Furrion, Coleman-Mach and GE.\n\nThe kit includes a pre-crimped pigtail, connectors, terminals and an illustrated guide. It costs about 10 dollars more than the Cosdam.\n\nThe kit includes a pre-crimped pigtail wire, matched connectors, wiring terminals and an illustrated guide. It suits owners who want everything in the box.",
     "specs": [
       "13.5K to 15K BTU, 120V",
@@ -161,7 +161,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41LIdNJhHBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H8JC9HNN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H8JC9HNN?tag=rvgearlab-amz-20",
     "description": "The Cosdam is a 110V, 60Hz soft start module that manages compressor inrush more gradually. The Cosdam is a 110V, 60Hz soft start module for compatible rooftop units in motorhomes, travel trailers and fifth wheels.\n\nIt is the lowest priced pick and reduces voltage dips and light flicker. The listing says one module is needed per AC.\n\nIt manages compressor inrush more gradually, reducing voltage dips and light flicker. It suits budget buyers.",
     "specs": [
       "110V, 60Hz soft start",

@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41fDDnrwPNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FHW3VFT8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FHW3VFT8?tag=rvgearlab-amz-20",
     "description": "FOGATTI HybridShower 6 Ultra is a 6 gallon tank heater with a 12,000 BTU propane burner and a 1440 watt electric element. The listing says it has a built-in powered titanium anode in place of a magnesium rod and offers propane, electric or hybrid modes.\n\nAgainst CAMPLUX White, it lists a powered anode and a stated burner. Against Suburban SW12DE, it is a smaller tank with a hybrid mode.\n\nIt is the best match for boondockers who want a propane tank heater with a stated burner. Think of it as the pick for off-grid tank replacement.",
     "specs": [
       "6 gallon hybrid, 12,000 BTU",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41GajgK4B8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01NCVAEJG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01NCVAEJG?tag=rvgearlab-amz-20",
     "description": "Suburban SW12DE is a 12 gallon RV water heater with direct spark ignition and an electric element. The listing says it has a porcelain-lined steel tank, a replaceable anode rod and an optional electric element for campsite or generator power.\n\nAgainst FOGATTI HybridShower 6, it holds twice the water. Against the tankless units, it needs no big 12 volt draw beyond ignition.\n\nIt suits families who want a large reserve to avoid cold showers. Buyers focused on large families will find it a sensible match.",
     "specs": [
       "12 gallon Suburban DSI",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41cAvDrWrHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H8N5LH93?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H8N5LH93?tag=rvgearlab-amz-20",
     "description": "CAMPLUX 6 Gallon is a propane and electric hybrid that drops into most Suburban and Dometic 4 to 6 gallon cutouts. The listing says you can switch modes from inside the RV and describes a porcelain-lined tank with an anode rod.\n\nAgainst FOGATTI HybridShower 6, it costs less. Against Suburban SW12DE, it has an interior control panel.\n\nIt suits boondockers who want interior mode switching at a moderate price. It earns its slot for mid-size tanks.",
     "specs": [
       "6 gallon propane and electric",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41MpXtOSwEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GZP76W9W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GZP76W9W?tag=rvgearlab-amz-20",
     "description": "APUS RV Tankless is an 80,000 BTU propane heater with 12 volt DC power that fits a standard 13 by 13 inch cutout. The listing says it keeps water between 95 and 124 degrees F with intelligent temperature control and is built to hold performance at altitude.\n\nAgainst Hillhub 65K, it has the highest burner here. Against the tank heaters, it heats on demand but needs 12 volts for the fan and controls.\n\nIt suits families who want long showers and have a good battery bank. It is a natural fit for long showers.",
     "specs": [
       "80,000 BTU propane, 12V DC",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41dJM34ViCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FKR44VPW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FKR44VPW?tag=rvgearlab-amz-20",
     "description": "Hillhub RV Tankless is a 65,000 BTU propane heater with staged combustion that holds a set temperature from 95 to 124 degrees F. The listing says it delivers up to 3.9 GPM, fits a 12.8 inch opening and is CSA certified.\n\nAgainst APUS 80K, it has less burner at a lower price. Against Suburban SW12DE, it heats on demand.\n\nIt suits owners who want a CSA-listed tankless at a mid price. Think of it as the pick for mid-price tankless.",
     "specs": [
       "65,000 BTU propane tankless",

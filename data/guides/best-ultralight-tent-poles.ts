@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41iIotCmrQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B079QBQQH3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B079QBQQH3?tag=rvgearlab-amz-20",
     "description": "The Six Moon Designs pole is a 49 in, 3-section aluminum pole listed at 3.2 oz (90 g). It is a collapsible design that the maker says suits tarps as well as its own tents.\n\nIt has the lowest weight in this guide by a wide margin. Against the OneTigris set, which lists 560 g for two poles, it is a single minimal pole built for specific shelters, and against the imgokaha carbon poles it is far cheaper.\n\nIt is the pick for a solo shelter or tarp that needs one tall support. The listing names the Lunar Solo, Deschutes and Gatewood Cape tents as its fit.",
     "specs": [
       "49 in, 3 sections",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41YfgdOISyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C8T5TJHJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C8T5TJHJ?tag=rvgearlab-amz-20",
     "description": "The imgokaha 5.6 ft is a telescoping carbon fiber pole that adjusts from 23 to 67 in and collapses to 23 in. A single pole weighs 240 g, with a maximum diameter of 27 mm and four segments, and the pack includes two poles, two thimbles and two storage bags.\n\nCompared with the 9.8 ft model it is less than half the weight per pole and better matched to a tarp or small shelter. Against the OneTigris aluminum set, carbon is described as less dense than aluminum.\n\nIt suits backpackers pitching a tarp or a trekking-pole shelter at modest height. It is easy to carry thanks to the 23 in packed length.",
     "specs": [
       "23 to 67 in telescoping",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41L-jfRCmLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BJTYKLH5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BJTYKLH5?tag=rvgearlab-amz-20",
     "description": "The imgokaha 9.8 ft is a telescoping carbon fiber pole that extends from 26 to 120 in over 8 segments. A single pole weighs 542 g, with a 36 mm maximum diameter, and the set includes two poles, two thimbles and two storage bags.\n\nIt gives the tallest reach in this guide, 120 in against the 67 in of the 5.6 ft model. Compared with the OneTigris aluminum, carbon is described as lighter with high hardness.\n\nIt suits large tarps, canopies and wall shelters needing a tall support. It still collapses to 26 in for transport.",
     "specs": [
       "26 to 120 in telescoping",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41LzUrMIWiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08SBRF5JT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08SBRF5JT?tag=rvgearlab-amz-20",
     "description": "The OneTigris set is two poles of 7075 aluminum alloy, 4.1 ft each and 3 sections each, weighing 19.75 oz (560 g) for the pair. They click together and can be joined to extend the length, and a 420D Oxford stuff sack is included.\n\nIt is a replacement or porch pole set for named OneTigris tents, including HILLRIDGE, TENTSFORMER and ROC SHIELD. Against the imgokaha poles it is a two-pole aluminum set priced below the 5.6 ft carbon pair.\n\nIt suits owners of those tents who need a lost or broken pole. The 2-in-1 joining option helps reach a longer height.",
     "specs": [
       "7075 aluminum, 4.1 ft each",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41z7BSn7tCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F9R2KTP8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F9R2KTP8?tag=rvgearlab-amz-20",
     "description": "The Wind Tour pole is a steel-tube pole with a spring hook that adjusts from 32 to 95 in. Rubber caps protect fabric and a non-slip bottom grips the ground.\n\nIt has the lowest price in this guide and a 32 to 95 in height range, close to the reach of the 9.8 ft carbon set. It uses steel tube instead of carbon or aluminum, which is how it keeps the cost down.\n\nIt suits car campers and beach shade setups that want a cheap adjustable support. The listing names tarps, tents and awnings.",
     "specs": [
       "32 to 95 in adjustable",

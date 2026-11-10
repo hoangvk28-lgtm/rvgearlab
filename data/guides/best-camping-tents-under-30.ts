@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41tyug8U+OL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CSCWN2R7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CSCWN2R7?tag=rvgearlab-amz-20",
     "description": "The JELUCAMP dome stretches 86.6 inches long and 59.1 wide, weighs 4.3 lb, and so is a generous floor for a tent at the very top of a $30 budget. It uses PU3000 coated polyester over 7.9mm fiberglass poles and adds a double-layer door with a mesh inner panel.\n\nNext to the Wakeman 2P it gives up about 1.5 lb of carry weight and gains several inches of length and width. Against the Sutekus Solo it sleeps two instead of one and carries a stated waterproof coating rather than only a fabric denier.\n\nIt suits car campers on a tight budget who want two adults to stretch out without bumping the walls. The mesh door layer keeps bugs out on warm nights while the solid layer handles wind and privacy.",
     "specs": [
       "4.3 lb, 86.6 in long floor",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41RBHHcBtSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0050P22VK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0050P22VK?tag=rvgearlab-amz-20",
     "description": "The Wakeman two-person tent measures 77 by 57 by 40 inches and weighs just 2.75 lb, built from 190T polyester on fiberglass poles. It includes a detachable rain fly, a vent window and a dual-layer door with an inner screen and an outer zipped panel.\n\nIt is the lightest two-person shelter in this group, trimming roughly 1.5 lb from the JELUCAMP Dome. The tradeoff is a smaller footprint, so it sits below the JELUCAMP on room and above the Sutekus Solo on capacity.\n\nIt suits festival weekends, fishing trips and short walk-ins where you carry the tent yourself. Pair it with a compact pad and leave the bulky gear in the car.",
     "specs": [
       "77 x 57 x 40 in, 2.75 lb",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41VHXwNqr-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07LBGFNL6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07LBGFNL6?tag=rvgearlab-amz-20",
     "description": "The Sutekus single tent is a 3 lb shelter with a camouflage print and 180D Oxford fabric. It ships with a pole pair, a set of four pegs and a stuff bag, and it has one entrance.\n\nCompared with the Wakeman Lightweight 2P it adds only a quarter pound and sleeps one rather than two. Its 180D Oxford is a heavier fabric spec than the polyester in some neighbors, which helps the tent feel less flimsy on rocky ground.\n\nIt fits solo hunters, anglers and scouts who want a low, discreet shelter. The camouflage blends into brush and woods, and the small footprint pitches in tight spots.",
     "specs": [
       "3 lb solo, 33.5 in peak",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41V6XlN6HWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G8D8TJQ8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G8D8TJQ8?tag=rvgearlab-amz-20",
     "description": "The Wind Tour is an automatic pop-up with a double-layer build, mesh windows and ventilation holes. Thickened metal brackets are meant to keep the frame stable in light to moderate wind.\n\nIt is the only pick here that skips pole threading, so it beats the JELUCAMP Dome and Wakeman models on setup speed. In exchange it gives less structural support than a pole-sleeve design in gusts.\n\nIt works for first-time campers, kids and quick lake days where the goal is shade and a place to nap. Stake it down well and keep it for settled weather.",
     "specs": [
       "Automatic pop-up frame",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41V04YYaPYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07YP7JWRN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07YP7JWRN?tag=rvgearlab-amz-20",
     "description": "The Wakeman D-door tent uses two fiberglass poles, a removable rain fly and an interior storage pocket. A dual-layer door pairs an inner screen with an outer zipped panel for airflow and privacy.\n\nIt shares its basic layout with the Wakeman Lightweight 2P, and the D-shaped door makes entry easier than a straight zipper. Against the JELUCAMP Dome it stays simpler and cheaper, with a smaller stated floor.\n\nIt suits campers who like to keep headlamps, keys and phones off the floor. It is a straightforward two-person starter tent for the lowest spend in the group.",
     "specs": [
       "D-style door, two poles",

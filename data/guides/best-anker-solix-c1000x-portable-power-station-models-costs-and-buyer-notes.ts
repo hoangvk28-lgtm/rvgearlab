@@ -21,7 +21,7 @@ export const products = withAmazonUrls([
     badge: "Best overall",
     name: "Anker SOLIX C1000 Gen 2 Portable Power Station",
     amazonQuery: "Anker SOLIX C1000 Gen 2 Portable Power Station",
-    amazonUrl: "https://www.amazon.com/dp/B0FN7MSY4L?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0FN7MSY4L?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41LPWKTY8CL._SL500_.jpg",
     specs: ["Capacity: 1,024Wh","Continuous output: 2,000W","Surge output: 3,000W","Runtime claim: Up to 1.8 hours"],
     specList: [{"label":"Capacity","value":"1,024Wh"},{"label":"Continuous output","value":"2,000W"},{"label":"Surge output","value":"3,000W"},{"label":"Runtime claim","value":"Up to 1.8 hours"}],
@@ -36,7 +36,7 @@ export const products = withAmazonUrls([
     badge: "Best heavy-duty option",
     name: "Anker SOLIX C1000 Portable Power Station",
     amazonQuery: "Anker SOLIX C1000 Portable Power Station",
-    amazonUrl: "https://www.amazon.com/dp/B0C5C89QKZ?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0C5C89QKZ?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41DXVul+maL._SL500_.jpg",
     specs: ["Continuous output: 2,400W","Runtime claim: Up to 1.8 hours","Battery chemistry: LiFePO4","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Continuous output","value":"2,400W"},{"label":"Runtime claim","value":"Up to 1.8 hours"},{"label":"Battery chemistry","value":"LiFePO4"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -51,7 +51,7 @@ export const products = withAmazonUrls([
     badge: "Best compact option",
     name: "Anker SOLIX C1000 Portable Power Station (Black), 1,056Wh, 1,800W, Camping",
     amazonQuery: "Anker SOLIX C1000 Portable Power Station (Black), 1,056Wh, 1,800W, Camping",
-    amazonUrl: "https://www.amazon.com/dp/B0GR9H79KS?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0GR9H79KS?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/31ueK7+dePL._SL500_.jpg",
     specs: ["Capacity: 1,056Wh","Continuous output: 2,400W","Runtime claim: Up to 1.8 hours","Battery chemistry: LiFePO4"],
     specList: [{"label":"Capacity","value":"1,056Wh"},{"label":"Continuous output","value":"2,400W"},{"label":"Runtime claim","value":"Up to 1.8 hours"},{"label":"Battery chemistry","value":"LiFePO4"}],
@@ -66,7 +66,7 @@ export const products = withAmazonUrls([
     badge: "Best value pick",
     name: "Anker SOLIX S2000 Portable Power Station, 2,010Wh, 1,500W",
     amazonQuery: "Anker SOLIX S2000 Portable Power Station, 2,010Wh, 1,500W",
-    amazonUrl: "https://www.amazon.com/dp/B0GY4TQ2P8?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0GY4TQ2P8?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41oUWN32k+L._SL500_.jpg",
     specs: ["Capacity: 2,010Wh","Continuous output: 1,500W","Surge output: 3,000W","Listed weight: 35.7 lb"],
     specList: [{"label":"Capacity","value":"2,010Wh"},{"label":"Continuous output","value":"1,500W"},{"label":"Surge output","value":"3,000W"},{"label":"Listed weight","value":"35.7 lb"}],
@@ -81,7 +81,7 @@ export const products = withAmazonUrls([
     badge: "Best backup pick",
     name: "Anker SOLIX C2000 Gen 2 Portable Power Station, 2,048Wh, 2,400W, Camping",
     amazonQuery: "Anker SOLIX C2000 Gen 2 Portable Power Station, 2,048Wh, 2,400W, Camping",
-    amazonUrl: "https://www.amazon.com/dp/B0FVFGL38H?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0FVFGL38H?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41iJKYxROtL._SL500_.jpg",
     specs: ["Capacity: 2,048Wh","Continuous output: 2,400W","Surge output: 4,000W","Listed weight: 41.7 lb"],
     specList: [{"label":"Capacity","value":"2,048Wh"},{"label":"Continuous output","value":"2,400W"},{"label":"Surge output","value":"4,000W"},{"label":"Listed weight","value":"41.7 lb"}],
@@ -183,7 +183,7 @@ export const relatedGuides = [
 export const sources = [
   {
     "title": "Anker SOLIX C1000 Gen 2 Portable Power Station product page",
-    "href": "https://www.amazon.com/dp/B0FN7MSY4L?tag=rvgearlab-20&linkCode=osi&th=1&psc=1"
+    "href": "https://www.amazon.com/dp/B0FN7MSY4L?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1"
   },
   {
     "title": "CPSC carbon monoxide safety center",

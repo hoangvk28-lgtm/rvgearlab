@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51TjjIrkVIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HGNQ1KJR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HGNQ1KJR?tag=rvgearlab-amz-20",
     "description": "This BravArrk model sleeps 4 to 6 people and measures 16.4 x 7 x 7 ft, with a floorless living room in front and two bedrooms behind. It adds 3 doors and 4 mesh windows, an integrated stove jack and PU3000 waterproof Oxford fabric.\n\nThe separated rooms are the main step up from the Wixeeua, DanCoom and Xinmviec, which offer a single open space. Heavy-duty PVC air beams in the bedroom area are described as anti-burst.\n\nIt is for a family of five that wants private bedrooms and a shared living area. The stove jack extends the season for cold camping.",
     "specs": [
       "16.4 x 7 x 7 ft, 2 rooms",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Fnst9QfcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H9KHCHDS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H9KHCHDS?tag=rvgearlab-amz-20",
     "description": "The Wixeeua is a 4 to 6 person air tent with 67.8 sq ft of floor, a 6.5 ft center height and a built-in stove jack. It uses 420D Oxford fabric and a large PVC skylight that zips closed for privacy.\n\nAgainst the BravArrk it is a single open space at a lower price, and against the DanCoom and Xinmviec it adds 420D fabric and a stove jack. A five-minute setup is quoted on the listing.\n\nIt suits a family of five who wants a strong set of weather features at a moderate price. The skylight and stove jack give it year-round appeal.",
     "specs": [
       "67.8 sq ft, 6.5 ft peak",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51OC8mQ-fML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C6SW6CXT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C6SW6CXT?tag=rvgearlab-amz-20",
     "description": "The DanCoom is a 4 to 6 person air tent that measures 118 x 87 x 75 inches and includes a 13 x 7 ft awning for extra shade or covered storage. It uses 210D Oxford with an upgraded zipper door, two mesh screen doors and six mesh windows.\n\nThe awning is its real advantage, since the Wixeeua and Xinmviec do not list one. It gives up the Wixeeua's heavier 420D fabric and its stove jack, and it costs less.\n\nIt suits fair-weather family trips where a shaded front area is more useful than a heating option. Dry weather and a quick pack-up suit it best.",
     "specs": [
       "118 x 87 x 75 in interior",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51A3xgy2RjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FDG3FGWP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FDG3FGWP?tag=rvgearlab-amz-20",
     "description": "The Xinmviec is a 4 to 6 person air tent that unfolds to 118 x 78.7 x 78.7 inches and packs into a 28 x 15 x 20 inch bag. It uses 410D Oxford cloth with SBS zippers and 12 two-layer mesh windows.\n\nIt carries heavier 410D fabric than the DanCoom's 210D and costs the least of the four. Compared with the Wixeeua it skips the stove jack and skylight, and it has a one-piece TPU tube with two inlets for quick inflation.\n\nIt fits budget campers who want the largest window count and a five-minute inflation. Summer weekends suit it best.",
     "specs": [
       "118 x 78.7 x 78.7 in interior",

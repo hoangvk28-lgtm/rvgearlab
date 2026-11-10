@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31bYbEH+6FL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DLB1ZVDK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DLB1ZVDK?tag=rvgearlab-amz-20",
     "description": "The LiTime 12V 230Ah is sized at 19.02 x 6.69 x 9.45 in to fit Group 4D boxes, which many trailers use. It has Bluetooth 5.0, a 200A BMS with low temperature protection and a 10 year life claim. At $572.39 it is the pick that most often slides into an existing box.\n\nVersus the KEEPKNOW 320Ah at $349.99 you pay $222.40 more for 90Ah less capacity, so you buy fit, not energy. Pick this if your trailer already has a 4D battery box. The caveat is value per amp hour, where the KEEPKNOW is clearly stronger.",
     "specs": [
       "12V 230Ah, Group 4D size",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/415SkY3kJTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H2LDY3P6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H2LDY3P6?tag=rvgearlab-amz-20",
     "description": "The KEEPKNOW Mini 12V 320Ah stores 4096Wh with a 200A smart BMS, Bluetooth, IP65 and low temperature protection. It claims a footprint 32% smaller than standard 320Ah batteries. At $349.99 it delivers the cheapest large capacity in this group.\n\nCompared with the ECO-WORTHY 280Ah at $529.99, it is $180.00 cheaper and has 40Ah more capacity, but lacks a metal case. Pick this if you want maximum energy per dollar. The caveat is that box fit varies, so measure first.",
     "specs": [
       "12V 320Ah, 4096Wh",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4152WgrC3+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G79296WJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G79296WJ?tag=rvgearlab-amz-20",
     "description": "The ECO-WORTHY EnergyRock 12V 280Ah uses a heavy-duty metal case and a one touch safety switch to cut output. The listing says no battery box is required, and the reinforced shell resists vibration from towing. At $529.99 it asks a premium for durability.\n\nAgainst the Vatrer 300Ah at $539.99, it is $10.00 cheaper with 20Ah less capacity but a sturdier enclosure. Pick this if your battery rides in an open bay or under a seat. The caveat is that metal cases add weight over plastic ones.",
     "specs": [
       "12V 280Ah metal case",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41XkgRchGbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B62MF92F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B62MF92F?tag=rvgearlab-amz-20",
     "description": "The Vatrer 12V 300Ah has a built-in 200A BMS and a low temp cutoff, rated for 5000+ cycles. It is aimed at trailers running an inverter, microwave or air conditioner soft start. At $539.99 it is mid range in price.\n\nVersus the dumfume 150Ah at $185.96, it costs $354.03 more but doubles the capacity. Pick this if you boondock with real loads. The caveat is that 300Ah batteries are large and heavy, so verify box size.",
     "specs": [
       "12V 300Ah",
@@ -133,7 +133,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Jx-+XkGEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G8HHKDMQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G8HHKDMQ?tag=rvgearlab-amz-20",
     "description": "The dumfume 12V 150Ah Max offers 1920Wh, IP65 and a 100A BMS in a 41.03 lb package. It has temperature protection and a 4000+ cycle claim. At $185.96 it is the lowest priced option here.\n\nIt costs $354.03 less than the Vatrer 300Ah, and delivers half of the energy. Pick this if your trailer only runs lights, a pump and a fan. The caveat is the 100A BMS, which limits heavy inverter use.",
     "specs": [
       "12V 150Ah, 1920Wh",

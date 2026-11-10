@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41iVbuANHHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FD2RJPYY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FD2RJPYY?tag=rvgearlab-amz-20",
     "description": "The Pretyw pad is 4 inches thick with a built-in foot pump that fills in 30 to 60 seconds and deflates in about a second. It folds to a 10 by 4 inch carry bag in 40D nylon with a multi-layer TPU design.\n\nCompared with the NHOWIN, it is thicker and has a pillow in the design. Next to the foam pads, it cushions much more.\n\nIt fits car campers who want a real mattress feel without a bulky air bed. The foot pump means no extra pump.",
     "specs": [
       "4 inch thick pad",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41LUNx4OIWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G12V5XYK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G12V5XYK?tag=rvgearlab-amz-20",
     "description": "The NHOWIN pad folds to 11 by 3.9 inches and weighs 1.98 lb. It has a built-in foot pump, 40D ripstop nylon with TPU coating and snaps along the sides to join two pads.\n\nAgainst the Pretyw, it is lighter and made for pairing. Compared with the foam pads, it packs far smaller and cushions more.\n\nIt suits couples who want two pads that link into a double. Each pad is light enough to carry.",
     "specs": [
       "1.98 lb, 11 x 3.9 inch fold",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31hXcEzyacL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07XZSMVLB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07XZSMVLB?tag=rvgearlab-amz-20",
     "description": "The Wakeman Outdoors foam mat is 72 by 24 by 0.75 inches in NBR foam with a non-slip texture and a waterproof surface. It weighs about 3 lb and rolls to 9 inches tall.\n\nCompared with the THINTON, it is thicker and heavier. Against the Pretyw, it needs no pump and cannot puncture.\n\nIt suits campers who want a basic mat under a cot or an air pad. It also works as a mattress topper in an RV.",
     "specs": [
       "72 x 24 x 0.75 inch foam",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/518MbYtN3ML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C84Z17CV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C84Z17CV?tag=rvgearlab-amz-20",
     "description": "The THINTON pad is foldable IXPE foam at 72.8 by 23.6 by 0.7 inches with a heat reflective aluminum film on the back. It folds to 23.6 by 5.5 by 5.5 inches.\n\nNext to the Wakeman, it adds the foil layer and folds. Compared with the Stansport, it is thicker and has a reflective layer.\n\nIt suits campers who want insulation from ground chill on a budget. The fold makes it easy to carry.",
     "specs": [
       "IXPE foam, 0.7 inch thick",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/314Lp+WcESL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00069PFKK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00069PFKK?tag=rvgearlab-amz-20",
     "description": "The Stansport Pack Lite is a closed-cell foam mat measuring 72 by 19 by 3/8 inches. It is waterproof, puncture proof and has straps to keep it rolled.\n\nCompared with the THINTON, it is narrower and thinner. Against the Wakeman, it is lighter and cheaper.\n\nIt fits campers who want a basic ground mat for a tent. The straps make it easy to carry.",
     "specs": [
       "72 x 19 x 3/8 inch foam",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41quX3w7VYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FYZSKC1C?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FYZSKC1C?tag=rvgearlab-amz-20",
     "description": "The OJAYERR sheet is a double-sided aluminum foil and EPE foam mat about 78 inches long, weighing about 0.44 lb. It is about 0.2 cm thick and doubles as a thermal blanket.\n\nCompared with the other foam pads, it is far thinner and lighter. Next to the Stansport, it adds a reflective layer.\n\nIt fits campers who want a tent floor layer or an emergency sheet. It cuts ground chill under a bag.",
     "specs": [
       "Foil and EPE foam",

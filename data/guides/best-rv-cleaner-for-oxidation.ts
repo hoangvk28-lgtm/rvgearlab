@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31bf52irCbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GMT98LJT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GMT98LJT?tag=rvgearlab-amz-20",
     "description": "The Poli Glow Poli Ox Oxidation Cleaner is a 16 ounce product that removes moderate to heavy oxidation, water stains, chalking and surface grime. The listing says it is safe on fiberglass, gelcoat and vinyl decals and prepares surfaces for polishing and waxing.\n\nAgainst the Meguiar's M4916, it adds a detailed description and decal safety. Against the cleaner waxes, it removes heavier oxidation but needs a wax afterward.\n\nBest for moderately to heavily oxidized fiberglass that needs a dedicated cleaner. Apply with a soft cloth, foam pad or buffer and rinse.",
     "specs": [
       "16 oz oxidation cleaner",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41VWt1pvobL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B004AQVKMW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B004AQVKMW?tag=rvgearlab-amz-20",
     "description": "The Meguiar's M4916 Marine/RV Heavy Duty Oxidation Remover is a 16 ounce product made in the US. The listing says little beyond the name and size.\n\nAgainst the Poli Glow Poli Ox, it carries a major brand name and a heavy-duty label. Against the cleaner waxes, it targets oxidation specifically.\n\nBest for owners who trust the Meguiar's name for severe oxidation. Follow the bottle directions.",
     "specs": [
       "16 oz heavy-duty remover",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41psMG4i7GL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0000AY50X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0000AY50X?tag=rvgearlab-amz-20",
     "description": "The Meguiar's M50 Marine and RV One-Step Cleaner Wax removes light oxidation, haze, minor scratches and swirls with non-abrasive cleaners and polishing oils. The listing says it restores color and gloss, protects against the elements and works by hand or with a DA polisher or rotary buffer.\n\nAgainst the STAR BRITE One Step Cleaner Wax, it names haze and swirls and power tool use. Against the Poli Glow Poli Ox, it cleans and protects in one step but handles lighter oxidation.\n\nBest for owners with light oxidation who want one step. It is also usable on marine surfaces.",
     "specs": [
       "32 oz one-step cleaner wax",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4129gkF+B1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01MYQXXBZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01MYQXXBZ?tag=rvgearlab-amz-20",
     "description": "The STAR BRITE Premium RV One Step Cleaner Wax restores color and shine on fiberglass and painted surfaces and removes scuff marks and oxidation. The listing says it has UV inhibitors, applies by hand or with a buffer and gives long-lasting protection.\n\nAgainst the Meguiar's M50, it names scuff marks and UV inhibitors. Against the Poli Glow Poli Ox, it is a cleaner wax rather than a dedicated remover.\n\nBest for owners who want UV protection and scuff removal with oxidation. A one-step option for fiberglass and paint.",
     "specs": [
       "32 oz RV cleaner wax",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Td-obDv4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08WR3G99Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08WR3G99Q?tag=rvgearlab-amz-20",
     "description": "The Biokleen M00509 Black Streak Remover is a 1 gallon concentrated, biodegradable RV and marine cleaner and degreaser. The listing says it removes black streaks, oil stains and grease with a spray-on, wipe-clean method.\n\nAgainst the cleaner waxes, it cleans streaks and grease rather than removing oxidation. Against the PROSOL WORKS Bug Splat, it is a concentrate in a gallon.\n\nBest for removing black streaks before an oxidation treatment. It is a degreaser and preparatory cleaner.",
     "specs": [
       "1 gallon streak remover",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41W4FBh02aL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D47YN245?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D47YN245?tag=rvgearlab-amz-20",
     "description": "The PROSOL WORKS Bug Splat N' All RV Cleaner is a 32 ounce ready-to-use spray for bug splatter, bird droppings, tree sap, black streaks and grime. The listing says it works on fiberglass, vinyl, metal and painted surfaces and mentions oxidation among stains it tackles.\n\nAgainst the Biokleen Black Streak, it is ready to use and cheaper. Against the cleaner waxes, it is a spot cleaner.\n\nBest for everyday cleanup between waxings. The 10 to 60 second soak and wipe routine is fast.",
     "specs": [
       "32 oz ready-to-use spray",

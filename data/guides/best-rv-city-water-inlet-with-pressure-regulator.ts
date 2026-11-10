@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41YaYfsUk2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CKT8JHCP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CKT8JHCP?tag=rvgearlab-amz-20",
     "description": "The RVGUARD City Water Inlet has a built-in pressure reducing valve, a built-in check valve that prevents backflow, and a screen that filters impurities. It uses a 3/4 inch garden hose thread and combines premium plastic with lead-free brass for UV and wear resistance.\n\nAgainst the Gedlex Chrome below, it states the pressure protection outright, where the Gedlex listing focuses on the check valve and strainer. Both make installation tidy, and the RVGUARD asks for no special tools according to its listing.\n\nBest for owners who want a regulated permanent inlet. The listing does not give an output psi, so confirm the preset before relying on it.",
     "specs": [
       "Built-in pressure reducing valve",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Aa86OSBmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DHGS6DM9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DHGS6DM9?tag=rvgearlab-amz-20",
     "description": "The Gedlex is a chrome wall-mount inlet with a 3/4 inch garden hose female swivel inlet and a 1/2 inch NPT male outlet. It has an internal strainer, a non-return check valve and a rubber dust cap, and it uses plastic and lead-free brass.\n\nCompared with the RVGUARD Inlet, it adds a chrome look and a dust cap but the listing does not spell out the regulator behavior beyond the title. It costs less.\n\nBest for owners who want a clean chrome finish. Confirm the outlet thread matches your plumbing before buying.",
     "specs": [
       "3/4 inch GHT swivel inlet",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51F1vrfbDNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H69GWPSR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H69GWPSR?tag=rvgearlab-amz-20",
     "description": "The PILISPARK is a three-piece kit with a regulator, a 90 degree swivel brass elbow and PTFE tape. The regulator is preset to 40 to 50 psi and made of brass with a 3/4 inch garden hose thread.\n\nUnlike the wall inlets above, there is no plumbing work: you screw it onto the spigot and the elbow relieves hose strain at the inlet. It keeps the existing inlet.\n\nBest for owners who want inlet-end strain relief without opening the wall. It protects the hose, but it is not a permanent fixture.",
     "specs": [
       "Preset 40 to 50 psi",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41THEbJviQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BVDNHG1M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BVDNHG1M?tag=rvgearlab-amz-20",
     "description": "The RVGUARD Knob is a hand-adjustable inline regulator with a gauge and an inlet screen, named to NSF/ANSI 61 and 372 for its lead-free brass. Turn the knob clockwise to raise pressure.\n\nNext to the RVGUARD Inlet, it is adjustable and has a gauge but needs to be attached each time. The PILISPARK Kit relieves strain but cannot be tuned.\n\nBest if you want a visible gauge and a tool-free dial rather than a fixed inlet. It adds height at the spigot.",
     "specs": [
       "Hand adjustment knob",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/311XPvbZwWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CW2LXJDD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CW2LXJDD?tag=rvgearlab-amz-20",
     "description": "The banapoy White is a wall-mount inlet with an easy-grip knob, made from high grade ABS, intended to replace the entry and guard against contaminants entering the freshwater system. It is also described as having a compact design.\n\nCompared with the Gedlex Chrome, the listing is vaguer about the regulator and check valve. It is the cheaper wall-mount option, and the color matches many trailer sidewalls.\n\nBest for budget replacements where the existing inlet is cracked. Check the packaging for pressure and thread details before ordering.",
     "specs": [
       "Wall-mount ABS body",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Kk7xjC2zL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CW2KC9DN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CW2KC9DN?tag=rvgearlab-amz-20",
     "description": "The banapoy Black is the same wall-mount ABS inlet as the white version, with an easy-grip knob and a stated aim of protecting the freshwater system. The listing claims suitability for RVs, trailers, campers and boats.\n\nIt differs from the banapoy White only in color, and it costs slightly less. Against the PILISPARK Kit it offers a permanent inlet but far less detail.\n\nBest for dark-trimmed coaches where black blends in. The same caveats apply: confirm pressure and thread details before installing.",
     "specs": [
       "Wall-mount ABS body",

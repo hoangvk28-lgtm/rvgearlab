@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Ypf-hGnNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CSPJR61T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CSPJR61T?tag=rvgearlab-amz-20",
     "description": "The Kelty Cosmic 20 Down is a 550 fill power down mummy with recycled nylon and polyester taffeta shell and liner finished with PFAS-free water repellent. Each size up adds 6 inches of length, with the Long fitting sleepers up to 6 feet 6 inches, and the ISO limit rating is 21F with an ISO extreme rating of -11F.\n\nCompared with the VENTURE 4TH XXL, it is the more compressible option and the one with stated ISO ratings. Dual-direction zippers and traceable RDS down add to the design.\n\nA strong match for tall backpackers who want a true trail bag with documented ratings. It is a Kelty classic with a long record.",
     "specs": [
       "550 fill power RDS down",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51geP2yX+pL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B097YXGTHQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B097YXGTHQ?tag=rvgearlab-amz-20",
     "description": "VENTURE 4TH's XXL bag measures 90 x 39 inches and states a 30 to 70F range for 3-season use. The shell is water-resistant polyester, it is machine washable, and it packs into an included compression sack.\n\nAgainst the Kelty Cosmic 20 Down Long, it is much cheaper and roomier through the body. Anti-snag zippers and a lifetime replacement guarantee add value.\n\nA good pick for tall campers who want space and a low price for three-season trips. The extra room lets you roll over.",
     "specs": [
       "90 x 39 in XXL",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41v5W5UKpiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BZNRBXZ2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BZNRBXZ2?tag=rvgearlab-amz-20",
     "description": "The PlugSaf RV cord is 25 feet of 10 AWG STW wire with TT-30P and TT-30R ends, rated 30 amps, 125 volts and 3750 watts. It is IP65 rated and has a grip handle for plugging and unplugging, and a flexible jacket.\n\nIt is the only cord here that fits a 30 amp RV pedestal, and its 10 gauge wire handles more than twice the watts of the 16 gauge cords. The listing says plainly it is 30 amp only, not 50 amp.\n\nIt suits travel trailer and motorhome owners who park a short way from the pedestal. The grip handle keeps fingers clear of the plug.",
     "specs": [
       "25 ft, 10 AWG STW, 30A",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41qVQ091STL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D6R8B42W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D6R8B42W?tag=rvgearlab-amz-20",
     "description": "The PlugSaf 3-outlet cord is 25 feet of 16/3 SJTW wire with three outlets, with a 1625 watt (13 amp) limit and ETL/cETL listed. It lists IP65 waterproofing, a temperature range from minus 40 to 140 degrees Fahrenheit, a lighted end and a special hook design for storage.\n\nAmong the multi-outlet cords, it is the only one with a lit end. Compared with the Deeklify, it adds a hook design at a slightly higher price.\n\nIt fits campers who plug a lamp, a fan and a charger into one cord. The LED shows when the cord is live.",
     "specs": [
       "25 ft, 16/3 SJTW, 3 outlets",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Y7T8kTZVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FP8XKGMM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FP8XKGMM?tag=rvgearlab-amz-20",
     "description": "The Deeklify is a 25 foot 16 gauge SJTW cord with three outlets, with a 1625 watt (13 amp) limit and ETL-listed. It lists IP65 water and dust resistance, a power indicator and a hook design, and the listing mentions over 5000 bends and 1500 volt high voltage testing.\n\nIt prints more testing detail than the other multi-outlet cord and costs a little less. Against the PlugSaf 3-Outlet, it swaps the lit end for an indicator on the socket.\n\nIt suits campers who want a three-outlet cord with stated testing for holiday lights or a camp kitchen. The hook design gets the socket off the ground.",
     "specs": [
       "25 ft, 16 gauge, 3 outlets",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41kXyzKI4OL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B7JN3FYC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B7JN3FYC?tag=rvgearlab-amz-20",
     "description": "The PLUGTUL is a 25 foot 16/3 SJTW cord in bright orange, with a 1625 watt (13 amp) limit and ETL listed, with pure copper conductors and a weather-resistant PVC jacket. A hook-and-loop strap comes in the box for repacking.\n\nThe orange jacket stands out in grass and on dark ground, which none of the black cords can match. Compared with the Tiffcofio, it adds the strap and a bright jacket for a modest price step.\n\nIt suits campers who worry about tripping over the cord at night. It handles lawn gear, string lights and a bug zapper.",
     "specs": [
       "25 ft, 16/3 SJTW, 13A",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41rZtKHYLXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G69DJ82M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G69DJ82M?tag=rvgearlab-amz-20",
     "description": "The TiFFCOFiO is a 25 foot 16 AWG cord rated 13 amps and 1625 watts, ETL listed, with a V0 grade fire-resistant PVC shell. The listing describes it for patio lights and short-distance outdoor power.\n\nIt is the lowest priced cord on the list. Compared with the PLUGTUL, it drops the bright jacket and strap for a lower price.\n\nIt suits campers who want a basic grounded outdoor cord at the lowest cost. The V0 PVC is sun resistant.",
     "specs": [
       "25 ft, 16 AWG, 13A, 1625W",

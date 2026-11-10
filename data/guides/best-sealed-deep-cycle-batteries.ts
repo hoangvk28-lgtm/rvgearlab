@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31soCn59teL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B075RFXHYK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B075RFXHYK?tag=rvgearlab-amz-20",
     "description": "The Renogy is a 12V 100Ah sealed AGM deep cycle battery that supports series connections without limit and parallel connections up to 4P. It lists a 1100A (5 second) max discharge current and a discharge temperature range of -4 to 140F.\n\nAgainst the Weize 100Ah, it lists a wider discharge temperature range and clear parallel limits. Compared with the Crown 98Ah, it costs far less for similar capacity.\n\nIt suits a camper building a small bank who wants to add a second battery later. The wide temperature spec suits shoulder-season trips.",
     "specs": [
       "12V 100Ah sealed AGM",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41bqV6Wt2oL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07SW353M8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07SW353M8?tag=rvgearlab-amz-20",
     "description": "The Weize is a 12V 100Ah AGM battery in a compact case, with lower self-discharge of 1 to 3 percent per month. It lists charging from 14F to 122F, discharging from 5F to 122F and a 1100A 5-second max discharge.\n\nCompared with the Renogy 100Ah, it lists both charging and discharging temperature ranges and a monthly self-discharge figure. Next to the Mighty Max 150Ah, it has a smaller, easier footprint.\n\nIt suits an occasional camper whose battery sits between trips. The low self-discharge helps it hold charge during storage.",
     "specs": [
       "12V 100Ah AGM",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/61PiGq+kEiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GL59Y5CH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GL59Y5CH?tag=rvgearlab-amz-20",
     "description": "The Crown 12CRV100 is a BCI Group 27 sealed AGM battery rated 98Ah at the 20-hour rate with a 170 minute reserve capacity. It is described as maintenance free, spill-proof and gas-free with vibration-tolerant construction.\n\nCompared with the Renogy 100Ah, it targets commercial duty with a stated reserve capacity. Against the Weize 100Ah, it uses a standard Group 27 case.\n\nIt suits a camper with a vibrating install, such as a trailer tongue or truck, who wants a Group 27 fit. The listed reserve capacity helps compare runtime.",
     "specs": [
       "Group 27, 98Ah at 20-hour",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/418jsocrWJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08YF4SDRX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08YF4SDRX?tag=rvgearlab-amz-20",
     "description": "The Mighty Max ML150-12 is a UL certified 12V 150Ah sealed lead acid battery measuring 19.09 x 6.69 x 9.49 inches. The listing describes it as spill-proof and mountable in any position, with shock and vibration resistance.\n\nCompared with the 100Ah picks, it adds 50 percent more capacity in a single long case. Against the Crown 98Ah, it is a different shape and has a one-year warranty.\n\nIt suits a camper who needs a long-running single battery for lights, a fridge and chargers. The any-position mounting helps in odd spaces.",
     "specs": [
       "12V 150Ah SLA",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41YaHT2RrYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07S96DYRK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07S96DYRK?tag=rvgearlab-amz-20",
     "description": "The Casil is a 2-pack of 12V 55Ah sealed AGM batteries in Group 22NF, each measuring 9.06 x 5.51 x 8.15 inches. They use T3 terminals and ABS casing for shock resistance.\n\nCompared with the single 100Ah batteries, the pair is easier to lift and can sit in two small spaces. Against the Mighty Max 150Ah, it gives two separate batteries for a split system.\n\nIt suits a camper building a small dual-battery setup, such as a tent camp with two compact boxes. Each battery is small enough to carry.",
     "specs": [
       "Two 12V 55Ah AGM",

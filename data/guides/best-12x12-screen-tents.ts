@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51+mzxDvAuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DFY9V3NM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DFY9V3NM?tag=rvgearlab-amz-20",
     "description": "The Werph 12x12 Screen Tent opens in about one second and uses six-panel B3 fine mesh with two large zippered mesh doors. Double-stitched zippers, a water-resistant roof and thicker support poles are named on the listing.\n\nIt is the only pick with a built-in lantern hook and a door frame that supports LED strip lights, which makes evening use easy. Compared with the Aoxun 12x12 Screen Tent it adds the lighting details at nearly the same price.\n\nIt suits families who want a quick pitch for evening dinners and a room for 8 to 10. Doors on both sides make moving around easy.",
     "specs": [
       "12 x 12 ft, six-panel B3 mesh",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51S+dIhMlLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G5N9K9PF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G5N9K9PF?tag=rvgearlab-amz-20",
     "description": "The Aoxun 12x12 Screen Tent combines thickened 300D Oxford with fine polyester mesh that blocks over 99 percent of UV rays. Six detachable wind cloths, two with windows, come with sturdy fiberglass poles, windproof ropes and luminous ground stakes.\n\nIt matches the Werph Screen Tent on price and adds the full wind cloth set the Werph does not list. It costs far less than the VEVOR Screen Tent.\n\nIt suits groups that camp in breezy places and want panels they can close. The luminous stakes make guy lines easy to spot at dusk.",
     "specs": [
       "12 x 12 ft, 300D Oxford",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Dt3OAD50L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G13WJZ3R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G13WJZ3R?tag=rvgearlab-amz-20",
     "description": "The VEVOR 12x12 Screen Tent is a six-sided pop-up with a 7.2 ft canopy that seats 6 with furniture and holds 8 to 10 people. Convertible door panels double as sunshade canopies, and six reinforced roll-up wind panels with loop closures keep the sides from flapping.\n\nIt is the most flexible tent here, with a pop-up hub and a removable top, and it folds into a 4.4 ft bag. Compared with the Aoxun Screen Tent it adds the convertible door canopies and roll-up panels.\n\nIt suits families who want a screen room that turns into a shaded shelter. The removable top adds yet another configuration.",
     "specs": [
       "12 x 12 ft, 7.2 ft high",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31mgJACVmaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DPH31D5V?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DPH31D5V?tag=rvgearlab-amz-20",
     "description": "The Amazon Basics Screened Canopy Tent measures 12 ft square and stands 92 inches at the center, with a four-sided zippered screen enclosure. It has a UPF50+ roof, a single movable shade panel, a fiberglass and metal frame, ground stakes and a carry bag.\n\nIt costs far less than the other three and gives the same footprint, and the listing says no floor is included. It also offers one shade panel rather than a full set.\n\nIt suits budget buyers who want the 12 by 12 floor and are happy with a single shade panel. The no-tool setup keeps pitching simple.",
     "specs": [
       "12 ft square, 92 in peak",

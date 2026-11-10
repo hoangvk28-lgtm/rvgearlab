@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411AYmb+V3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GYLR5FV9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GYLR5FV9?tag=rvgearlab-amz-20",
     "description": "The Darella 8955-AD is a 50 amp RV power converter charger for lithium and lead-acid banks, priced at $139.69. It accepts 105 to 130 VAC at 60Hz, which matters at crowded campgrounds where shore voltage sags. A thermostatic fan only spins up when internal load and temperature rise, and it uses three-stage charging with chemistry auto-detect.\n\nIt is the only genuine 50 amp RV converter in this category, so there is no sibling to compare it against on price here. Pick this if you are replacing a failed deck-mount or power-center converter and want lithium support without paying for a name-brand unit. The caveat is that no circuit breaker is pre-installed, so you must add your own breakers, and the listing gives no weight or warranty term.",
     "specs": [
       "50A, 105-130 VAC input",

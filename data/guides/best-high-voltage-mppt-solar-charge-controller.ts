@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21HJPpIqwPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G114KJK5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G114KJK5?tag=rvgearlab-amz-20",
     "description": "EPEVER's TEP 60A accepts 250V PV with an MPPT range up to 180V and is built for long wire runs and larger arrays. EPEVER's TEP6425 is a 60A MPPT controller with a 250V maximum PV input and an MPPT range up to 180V, designed for long wire runs and larger arrays. It covers 12V, 24V and 48V battery systems and is listed as compatible with LiFePO4 batteries.\n\nIt has the highest PV cap here, above GUIGOOD 120A's 230V and LiTime 60A's 200V. It costs about the same as LiTime 60A and far less than Renogy Rover Lite 60A.\n\nBest for long series strings and long wire runs. It is the most headroom you get at 60A in this list.",
     "specs": [
       "60A MPPT, 12V/24V/48V",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411hA5FHNcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H956SRM7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H956SRM7?tag=rvgearlab-amz-20",
     "description": "GUIGOOD's 120A MPPT accepts 230V PV Voc and 12V to 96V batteries, with up to 11,520W at 96V. GUIGOOD's 120A MPPT controller supports 12V to 96V batteries with a 230V PV Voc limit and up to 1440W at 12V and 11,520W at 96V. A user mode lets you set charging voltage, float voltage and current, and an RS485 port is included.\n\nIt has twice the amps of EPEVER TEP 60A and a slightly lower PV cap. It is oversized for RVs.\n\nBest for a large off-grid build. It is a very large, high-voltage unit for off-grid builds, not for a typical RV.",
     "specs": [
       "120A MPPT, 12V to 96V",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41y3eDRS2QL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CP2GTG29?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CP2GTG29?tag=rvgearlab-amz-20",
     "description": "LiTime's 60A accepts 200V PV and covers 12V to 48V with a LiFePO4 mode. LiTime's 60A MPPT controller covers 12V, 24V and 48V batteries and accepts up to 200V of PV input. It adds a LiFePO4 charging mode, an LCD with LEDs and a sheet metal shell with dual forced cooling.\n\nIt costs less than Renogy Rover Lite 60A and about the same as EPEVER TEP 60A. Dual forced cooling adds a moving part.\n\nBest for a 48V LiFePO4 bank with long strings. It is the balanced 48V pick: a real 60A rating, 200V headroom and a LiFePO4 mode.",
     "specs": [
       "60A MPPT, 12V to 48V",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Thc89WoPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DJY4K25P?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DJY4K25P?tag=rvgearlab-amz-20",
     "description": "Renogy's Rover Lite 60A accepts 150V and states it can connect up to six 200W panels. Renogy's Rover Lite 60A is an MPPT controller with 150V maximum solar input that the listing says can connect up to six Renogy 200W monocrystalline panels. It runs at full load from -31F to 113F and auto-detects 12V to 48V systems.\n\nIt costs more than LiTime 60A and has a lower PV cap. Bluetooth needs a BT2 module sold separately.\n\nBest for a Renogy ecosystem build. Budget for the BT2 module if you want phone monitoring.",
     "specs": [
       "60A MPPT, 12V to 48V",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41FFLf711+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FMRH41R3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FMRH41R3?tag=rvgearlab-amz-20",
     "description": "EARNMee's 60A accepts 145V PV with manual 12V, 24V or 48V selection. EARNMee's 60A MPPT controller takes PV input of 18 to 145V on a 12V battery and lets you select 12V, 24V or 48V output manually. Temperature-controlled air cooling and an LCD with real-time system data round it out, and the listing names lead-acid, colloidal and lithium batteries.\n\nIt costs far less than Renogy Rover Lite 60A and is the lowest-priced here. Voltage must be set by hand.\n\nBest for a budget long-string build. Set the battery voltage yourself before connecting panels, since this unit does not auto-detect it.",
     "specs": [
       "60A MPPT, manual voltage",

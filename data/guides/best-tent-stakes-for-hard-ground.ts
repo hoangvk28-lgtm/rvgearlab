@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51lwWKrI3aL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CWLRQKX9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CWLRQKX9?tag=rvgearlab-amz-20",
     "description": "The Besitu Rebar set is 16 galvanized steel J-hook stakes, each 12 inches long and 5/16 inch (8 mm) thick, with a chiseled end for penetrating tough ground. The hook is 3 inches wide, and the ribbed rebar texture gives the soil more to hold.\n\nAt 8 mm thick, it is the stiffest stake in this guide, which is why it keeps its shape when hammered into compacted dirt where the AVOFOREST Metal would bend. Against the drill-in sets, it needs only a hammer and no extra tools.\n\nIt suits campers who pitch on hard-packed pads and want a bomber stake for tarps, canopies and large tents. A two year warranty is listed.",
     "specs": [
       "12 inch galvanized rebar",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51ZG+3t0wML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07RXMVM8M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07RXMVM8M?tag=rvgearlab-amz-20",
     "description": "The Adventure Seeka Drill-In set is 15 eight inch steel stakes with a threaded end, a hex head driver and a storage bag. The tops glow brightly for night visibility, and the stakes are listed for grass, dirt, harder soils and sand.\n\nWhere the Besitu Rebar relies on a hammer, this kit uses a cordless drill or impact driver to thread the stake into firm ground, which saves effort on packed soil. It also includes the driver and a bag, and three more stakes than the 12 Pack Screw Stakes.\n\nIt suits car campers with a cordless drill who pitch regularly on firm ground. The glowing tops help at night.",
     "specs": [
       "8 inch threaded steel",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41M-sHmBnsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DBVM8695?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DBVM8695?tag=rvgearlab-amz-20",
     "description": "The 12 Pack Screw Stakes set is eight inch carbon steel anchors with a galvanized coating, 0.31 inches thick, and a hex head driver. The listing says the thread grips grass, hard soil and other surfaces, and the stakes install with a cordless drill or impact driver.\n\nIt gives you nearly the same stake as the Adventure Seeka Drill-In with three fewer pieces and no storage bag listed. Compared with the Besitu Rebar, the threaded design pushes into baked soil without the force of a hammer.\n\nIt suits campers who want a lower-cost way to anchor tents, awnings and gazebos on hard ground. The driver makes setup tool-ready.",
     "specs": [
       "8 inch galvanized carbon steel",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41eDPkAMQyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07PQB74J4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07PQB74J4?tag=rvgearlab-amz-20",
     "description": "The Eurmax Commercial set is a 10 piece pack of galvanized steel stakes aimed at canopies and heavy duty use. Four 10 foot ropes and an orange stopper come in the box, and the listing calls the stakes rust-proof anchors for high winds.\n\nBeside the Besitu Rebar, this set ships with pre-cut ropes, so a pop-up canopy is ready to guy out. Against the drill-in kits, it uses a straight stake driven with a hammer, which is simpler and takes more effort on packed soil.\n\nIt suits canopy owners at tailgates and markets who need stakes and ropes in one purchase. The stopper makes the lines easy to see.",
     "specs": [
       "10 pack galvanized steel",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41wI-0QAsLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CLV6H7YN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CLV6H7YN?tag=rvgearlab-amz-20",
     "description": "The AVOFOREST Metal set is 12 anti-rust metal stakes at 7.1 inches long, coated in safety orange, with a storage bag. At 0.07 pounds each, they are much lighter than comparable iron stakes, and the design is meant for deeper penetration.\n\nIt is the lightest and shortest stake here, so it sits behind the thicker rebar and screw-in sets for truly hard ground. It earns a spot as a backup that fills a bag without weighing it down.\n\nIt suits campers who face only occasional hard patches and want a flexible stake for softer pitches as well. The orange coating helps with visibility.",
     "specs": [
       "7.1 inch anti-rust metal",

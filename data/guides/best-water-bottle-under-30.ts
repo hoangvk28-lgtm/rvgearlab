@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31lcRl7rRUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FJTRRR7R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FJTRRR7R?tag=rvgearlab-amz-20",
     "description": "The Simple Modern 30 oz bottle has double-wall vacuum insulation, a covered chug spout and a locking lid. A silicone base softens noise, and both the 24 oz and 30 oz sizes fit most car cupholders.\n\nIt is the only bottle with a covered chug spout that keeps the mouthpiece clean. It costs the most of the six.\n\nIt suits hikers and campers who like to chug and want a clean spout. The silicone base prevents clanking on a table.",
     "specs": [
       "30 oz double-wall vacuum insulated",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/310YoJG-3uL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B081BM2VKQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B081BM2VKQ?tag=rvgearlab-amz-20",
     "description": "The Amazon Basics large bottle has double-wall vacuum insulation and a leak-proof spout lid for one-handed drinking. The listing says it keeps drinks hot for up to 6 hours, and it is hand wash only.\n\nIt is simple and costs less than the Simple Modern. It does not offer a straw or chug option.\n\nIt suits campers who want a plain steel bottle. The spout lid works with one hand.",
     "specs": [
       "Large double-wall vacuum insulated steel",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41y-+5stoFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GH7M2MPW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GH7M2MPW?tag=rvgearlab-amz-20",
     "description": "The CIVAGO 32 oz bottle includes an ergonomic straw lid and a wide spout lid, with double-wall vacuum insulation rated for 24 hours cold. All parts are dishwasher safe and the straw is removable.\n\nIt is the only steel bottle here with all parts dishwasher safe. It costs less than the Amazon Basics.\n\nIt suits families who put everything in the dishwasher. The two lids give a sip and a swig.",
     "specs": [
       "32 oz double-wall, 24 hours cold",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21omZsI5CvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DTP745KH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DTP745KH?tag=rvgearlab-amz-20",
     "description": "The Meoky 24 oz bottle has a lid with a flip straw and a push-button spout, double-wall vacuum insulation rated for 24 hours cold and a locking carry loop. The listing says it is 100 percent leak proof.\n\nIt holds less than the CIVAGO and costs less. It gives both sip and swig in one lid.\n\nIt suits commuters and day hikers who want one lid that does both. The locking loop keeps it shut.",
     "specs": [
       "24 oz double-wall, 24 hours cold",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/314Ftb4waCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BY2P2F9J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BY2P2F9J?tag=rvgearlab-amz-20",
     "description": "The Konokyo 25 oz bottle is 18/8 stainless steel with double-wall vacuum insulation that holds ice-cold drinks for up to 24 hours and hot ones for up to 12. The listing says the lid is leak proof and dust proof.\n\nIt is the cheapest steel bottle on the list and states both hot and cold times. It lacks a straw option.\n\nIt suits budget campers who want steel at a low price. The listing mentions camping trips and commutes.",
     "specs": [
       "25 oz 18/8 stainless steel",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31PEtG+iWLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08Z7GRWGJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08Z7GRWGJ?tag=rvgearlab-amz-20",
     "description": "The Teentumn 30 oz bottle is BPA-free Tritan plastic with a time marker, a secure lid lock and a seal ring for triple watertight protection. A sponge brush comes included for cleaning.\n\nIt costs the least here apart from the Konokyo and weighs less than the steel bottles. It is not insulated.\n\nIt suits campers who want a light bottle and a drink schedule. The time marker encourages drinking.",
     "specs": [
       "30 oz BPA-free Tritan",

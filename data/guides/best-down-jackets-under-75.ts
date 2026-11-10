@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41HmisryMmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08YF4Y216?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08YF4Y216?tag=rvgearlab-amz-20",
     "description": "The 33,000ft Packable is a men's puffer with a windproof soft nylon shell, a DWR finish rated at 3000mm and 100% polyester synthetic insulation. It packs into its own left zipper pocket and has three zip pockets plus elastic-bound cuffs and hem.\n\nIt costs about $55, around $1 more than the Outdoor Ventures Hooded and the cheapest jacket here with a rated water-resistance number. The fold-into-pocket design means you never lose a pouch, which the Outdoor Ventures Hooded can only match with its inner-pocket version.\n\nIt suits backpackers and campers who want a light synthetic jacket that handles drizzle. Wear it as a camp layer or under a shell on cold mornings.",
     "specs": [
       "Windproof nylon, DWR 3000mm",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/317+ameCb9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DHZFVKG4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DHZFVKG4?tag=rvgearlab-amz-20",
     "description": "The TBMPOY Duck Down is a men's packable puffer with 90% duck down fill, a hood, shrink cuffs and hem, four pockets and a storage bag. It is the only jacket in this group that states a real down fill.\n\nIt costs about $30, less than every other jacket here, and the natural fill gives more warmth for the weight than the synthetic jackets above it. The natural fill rewards dry days and a rain shell over the top.\n\nIt suits budget campers who want natural down for dry, cold nights. Pair it with a shell and it works as a mid layer.",
     "specs": [
       "90% duck down fill",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41IW7QDEkBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09DPN1GNN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09DPN1GNN?tag=rvgearlab-amz-20",
     "description": "The Outdoor Ventures Hooded is a men's packable puffer with a hood, two outside zip pockets and two zippered inner pockets. It folds into its own inner pocket, and a separate drawstring pouch comes with the fold-in version.\n\nIt costs about $54, close to the 33,000ft Packable, and it adds a hood and zipped inner pockets that the 33,000ft Packable lacks. The water-resistant fabric sheds light rain, and elastic cuffs and hem trap heat.\n\nIt suits travelers and hikers who want to carry passport, phone and wallet in secure zip pockets. The hood handles wind on cold walks.",
     "specs": [
       "Hood, four zip pockets",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41K7oE87l8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B082F2K4W7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B082F2K4W7?tag=rvgearlab-amz-20",
     "description": "The Outdoor Ventures Chest Pocket is a men's lightweight puffer with down alternative insulation, two outside zipper pockets and a zipper chest pocket. The storage bag has a drawstring and a clip so it hangs on a backpack.\n\nIt costs about $56, the highest in this group, and the chest pocket and clip-on bag set it apart from the Outdoor Ventures Hooded. It has no hood, so it is closer to a vest with sleeves than a winter coat.\n\nIt suits hikers who want a jacket they can clip to the pack and pull out fast. Use it as a mid layer in spring and fall.",
     "specs": [
       "Down alternative fill",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/311WPnoi3EL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DKT2NKW1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DKT2NKW1?tag=rvgearlab-amz-20",
     "description": "The SPOSULEI Insulated is a men's puffer with a windproof nylon outer, a polyester synthetic insulation layer and a DWR coating. It weighs under 0.5 kg, has a stand-up collar and four pockets.\n\nIt costs about $45, about $10 less than the 33,000ft Packable, and it is just as light. The stand-up collar and full zipper block wind well, while its DWR repels light rain.\n\nIt suits travelers who want a light synthetic jacket for cold-weather outings. The four pockets hold a phone and keys.",
     "specs": [
       "Windproof nylon, polyester fill",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41dAr67auZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HGQMRMN9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HGQMRMN9?tag=rvgearlab-amz-20",
     "description": "The Long Hooded Women's is a packable women's puffer with an attached hood, a full-length zipper and a slim mid-long cut to the thigh. Adjustable wrist cuffs seal in heat and it packs into its included pouch.\n\nIt costs about $36, less than every jacket except the TBMPOY Duck Down, and it is the only women's jacket here. The long cut covers more than a cropped puffer, which helps when you are sitting still at camp.\n\nIt suits women who want a thigh-length packable coat for travel and city days. It also works as a camp coat in cool weather.",
     "specs": [
       "Hooded, thigh-length cut",

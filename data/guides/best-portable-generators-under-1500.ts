@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/413AI-l4XIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DVF1RPCJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DVF1RPCJ?tag=rvgearlab-amz-20",
     "description": "The WEN 6800 is a 224cc dual-fuel inverter generator rated 5,100 running and 6,800 surge watts on gasoline, and 4,500 running and 6,000 surge watts on propane. It has an RV-ready outlet, a bonded-neutral 240V mode for Level 2 EV charging and a WEN Watchdog CO shutdown sensor.\n\nIt costs about $798, roughly $100 less than the DuroStar DS13000MX, and it is the only inverter in the group, so its power is cleaner and its engine quieter. It gives up the 9,500-watt output of the heavier generators.\n\nIt suits RVers who want to run a roof air conditioner on propane or gasoline with a CO shutdown. A fuel shutoff protects the carburetor in storage.",
     "specs": [
       "5,100 rated, 6,800 surge watts",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41UPXLno8VL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CX7CVDTB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CX7CVDTB?tag=rvgearlab-amz-20",
     "description": "The DuroStar DS13000MX is a 13,000-watt, 500cc dual-fuel generator that runs on gasoline or propane. It has push-button electric start, a front-panel fuel selector and a CO Alert that shuts it down when it senses dangerous carbon monoxide.\n\nIt costs about $899, roughly $30 under the Pulsar G12KBN, and it is rated at 13,000 watts against the WEN 6800 Dual Fuel's 6,800 surge. It is an open-frame unit, so it is far louder than the WEN.\n\nIt suits job sites and home backup where raw watts matter more than quiet. Choose propane for longer shelf life.",
     "specs": [
       "13,000 watts, 500cc engine",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51YnmBCtoML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07HCYW5GF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07HCYW5GF?tag=rvgearlab-amz-20",
     "description": "The Pulsar G12KBN is rated 9,500 running and 12,000 peak watts on gasoline and 8,550 running and 10,800 peak on LPG. A 457cc engine with electric start and an 8 gallon tank gives up to 12 hours at half load on gasoline.\n\nIt costs about $930, around $240 less than the Generac 12,500 Tri-Fuel, and it has the same 9,500 gas running watts. It does not run on natural gas, which the Generac and Westinghouse do.\n\nIt suits home backup and large RV rigs where gasoline and LPG are available. The big tank means fewer refuels.",
     "specs": [
       "9,500 running, 12,000 peak watts",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51NFkbMy58L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GP2QCSZQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GP2QCSZQ?tag=rvgearlab-amz-20",
     "description": "The Generac 12,500 Tri-Fuel runs on gasoline, propane or natural gas and delivers 9,500 running and 12,500 starting watts on gas. A 500cc OHV engine, automatic voltage regulation and COsense carbon monoxide shutdown come with push-button electric start.\n\nIt costs about $1,169, about $230 more than the Pulsar G12KBN, and it adds natural gas and a stabilizing AVR. It undercuts the Westinghouse 12500 EFI Tri-Fuel by about $280.\n\nIt suits households that want to plug into a natural gas line for unlimited runtime. The CO shutdown protects the family.",
     "specs": [
       "9,500 running, 12,500 starting watts",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51F4pNLvoBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B086Z452V9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B086Z452V9?tag=rvgearlab-amz-20",
     "description": "The DuroMax XP13000HX is a 13,000-watt dual-fuel generator with a 500cc OHV engine and all copper windings. It has a transfer-switch-ready 50 amp outlet, push-button start, a CO Alert and a front-panel fuel selector.\n\nIt costs about $1,399, around $500 more than the DuroStar DS13000MX, and it carries similar output with copper windings and extra outlets. It is the heavy-duty choice if you plan to wire it to a house.\n\nIt suits homeowners who want to hook up a transfer switch for outage backup. It also fits large RV pads.",
     "specs": [
       "13,000 watts, 500cc OHV",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51g2p6vbYlL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F5YZRMF3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F5YZRMF3?tag=rvgearlab-amz-20",
     "description": "The Westinghouse 12500 EFI Tri-Fuel gives 12,500 peak and 9,500 running watts on gasoline, 11,200 and 8,500 on propane and 9,500 and 7,500 on natural gas. A 457cc engine uses electronic fuel injection, a CO sensor, low-oil shutdown and a digital hour meter.\n\nIt costs about $1,449, the top of the budget and about $280 above the Generac 12,500 Tri-Fuel, and it adds EFI starting like a car with no choke. It also has a 14-50R 50A outlet and an L14-30R 30A twist lock, both transfer switch ready.\n\nIt suits households and large RVs that want reliable starting and simple fuel switching. The hour meter helps schedule service.",
     "specs": [
       "12,500 peak, 9,500 running watts",

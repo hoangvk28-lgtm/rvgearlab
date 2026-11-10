@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51J-KtOqqzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C8HSTD6N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C8HSTD6N?tag=rvgearlab-amz-20",
     "description": "The TOPBULL 3000W converts 12V DC to 120V AC at 3,000W continuous and up to 6,000W peak. It has two 20A AC outlets, a 3.4A USB port, a 30W Type-C port, a 200 ft wireless remote and ten built-in protections, with thickened pure copper battery cables.\n\nAt about $150 it uses the full budget, $10 above the Cantonape 3000W, and it is the only 3,000W unit here with a Type-C fast-charge port and pure copper cables. It is the strongest unit in the group by a wide margin over the BELTTT 1000W.\n\nIt suits RV and van owners with a 12V battery bank who want to run a coffee maker or microwave. A remote shuts it down from the camp chair.",
     "specs": [
       "3,000W continuous, 6,000W peak",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411FqrNufmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DLKP7BNY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DLKP7BNY?tag=rvgearlab-amz-20",
     "description": "The Cantonape is a 3,000W continuous, 6,000W surge inverter with four AC outlets, four USB ports, an LCD screen and a remote controller. It has six protections and an aluminum body.\n\nIt costs about $140, $10 under the TOPBULL 3000W, and it has more outlets than any other pick. Its output is modified sine wave, which is a step behind the pure sine of the BELTTT 1000W for sensitive electronics.\n\nIt suits campers who run tools, lights and chargers at once from a big battery. The remote lets you put the unit near the battery.",
     "specs": [
       "3,000W continuous, 6,000W surge",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41vWnqM2vNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DCJHY3TH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DCJHY3TH?tag=rvgearlab-amz-20",
     "description": "The BELTTT is a 1,000W continuous, 2,000W peak pure sine wave inverter with a conversion efficiency above 90 percent. It has dual AC outlets, a 2.1A USB port, a smart LCD display and 3 foot thicker cables with an installation tool.\n\nIt costs about $120, around $30 under the TOPBULL 3000W, and it is the only pure sine wave inverter above 500W in this group. Pure sine runs inductive loads such as fans and refrigerators with less wear than the Cantonape.\n\nIt suits campers with a CPAP, laptop, fridge or power tools that need clean power. The LCD shows input and output voltage.",
     "specs": [
       "1,000W continuous, 2,000W peak",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51iaQy6oWBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B082MDRC64?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B082MDRC64?tag=rvgearlab-amz-20",
     "description": "The BESTEK 500W is a pure sine inverter offering two outlets plus dual USB charging. It connects through the cigarette lighter plug or direct battery clips and has two 40 amp external fuses, thermal protection and a cooling fan.\n\nIt costs about $65, around $55 less than the BELTTT 1000W, and it is the only pure sine option at this size with a cigarette plug. It stops at 500W and handles light loads only.\n\nIt suits car campers who want clean power for laptops and camera chargers. It can also clip onto a battery.",
     "specs": [
       "500W pure sine wave",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41kndFhr88L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B082V5TC11?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B082V5TC11?tag=rvgearlab-amz-20",
     "description": "The TWING is a modified sine wave inverter with two AC outlets, a QC 3.0 USB port and a 30W PD USB port. It carries a digital display, a cooling fan and a slip fuse, and its page notes 750W continuous output.\n\nIt costs about $69, around $50 under the BELTTT 1000W, and it is modified sine. The 1000W in the title is a peak figure and the continuous rating is 750W.\n\nIt suits truckers and campers who want a mid-power plug-in inverter for tools and chargers. It suits non-sensitive loads.",
     "specs": [
       "750W continuous, 1000W peak",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41vS3gPO8KL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09ZJQ8CTJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09ZJQ8CTJ?tag=rvgearlab-amz-20",
     "description": "The PowerDrive PWD150S is a 150W power strip inverter with three 3-prong AC outlets, a 2.4A USB port, a 3.0A USB-C port and a 12V DC socket. It protects against short circuit, overheating and overload.\n\nIt costs about $44, the lowest in the group, and it plugs into a car's 12V socket for phones and tablets. It handles small loads that the BESTEK 500W Pure Sine would exceed in size and price.\n\nIt suits commuters and campers who charge phones, tablets and cameras in the car. Three outlets let a family plug in at once.",
     "specs": [
       "150W continuous",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41luY6fs4GL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FPQGHFW5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FPQGHFW5?tag=rvgearlab-amz-20",
     "description": "The MYLLIUIM set gives four IP65 lanterns that each charge by solar and USB-C, with about 6 to 8 hours of solar charging and 3 to 4 hours by USB-C. A steady or flickering flame mode, a light-sensing auto-on and a rope handle complete the build, with 8 to 10 hours of runtime listed.\n\nIt is the only pick with a USB-C route in the box, which fixes the cloudy-week problem the solar-only KOOPER and Wondrastical lanterns have. A USB-C cable ships with the four-pack.\n\nIt suits campers and RV owners who want a coordinated set of flame lanterns for an awning or patio. Each lantern hangs or stands on a table.",
     "specs": [
       "IP65, solar and USB-C charging",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/414DS7yDmmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GFDT4BL8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GFDT4BL8?tag=rvgearlab-amz-20",
     "description": "The KOOPER Flame four-pack pairs a 1000mAh battery with a 40 percent solar conversion rate and a stated 12 hours of light. The 5.9 inch matte-black body has a transparent shade and 1.5 times thickened ABS casing, with automatic on and off.\n\nIt lists the longest runtime of the five, 2 to 4 hours more than the MYLLIUIM 4-Pack. The thicker shell and compact height also suit windy porches.\n\nIt suits campers who leave lanterns out all night around a camp circle. The dancing flame effect adds mood without a real fire.",
     "specs": [
       "1000mAh, up to 12 hours",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/61bzrbSCwzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CSDD4D36?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CSDD4D36?tag=rvgearlab-amz-20",
     "description": "The KOOPER Metal four-pack uses an iron body with a filament LED and a 3.7V 800mAh rechargeable battery. It carries IP65 protection, an upgraded solar panel and auto on and off.\n\nIt is the only all-metal build here, which resists rust and cracking better than the plastic ABS of the TuyLuxe Filament and Wondrastical lanterns. Its battery is smaller than the KOOPER Flame 4PCS.\n\nIt suits campers and RV owners who want a classic metal look on a pole, hook or table. The vintage design adds charm to a longer stay.",
     "specs": [
       "Iron body, filament LED",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51eIpdRR-gL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DQTTSZN7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DQTTSZN7?tag=rvgearlab-amz-20",
     "description": "The Wondrastical pair has a bronze finish, a flickering flame design and a 5.5V 110mA solar panel with auto charge. IP65 protection, a handle and hang-or-lay placement are listed.\n\nIt offers a vintage look the black-body lanterns do not, and the IP65 rating handles rain, heat, frost and snow. It is a pair rather than a four-pack, which keeps the cost down.\n\nIt suits campers who want a warm accent for a table or a tent door. The handle makes it easy to move around.",
     "specs": [
       "5.5V 110mA solar panel",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/519UNFECz0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GVYVSX1T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GVYVSX1T?tag=rvgearlab-amz-20",
     "description": "The TuyLuxe lantern uses a tungsten filament bulb behind a transparent shade, with a monocrystalline panel rated up to 35 percent efficiency. It lists IP65 protection and a tool-free install: switch it on, then hang it under sun.\n\nIt is the lowest-priced pick and lists a panel efficiency of up to 35 percent. The filament bulb gives a warmer, more traditional glow than the flame effects.\n\nIt suits budget campers and anyone who wants a bright-looking filament lantern without a big spend. Install takes seconds.",
     "specs": [
       "Tungsten filament bulb",

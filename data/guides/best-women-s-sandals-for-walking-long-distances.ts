@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31uOuEbb8lL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F1YDQ2DH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F1YDQ2DH?tag=rvgearlab-amz-20",
     "description": "The KuaiLu Mesh Walkers use a breathable mesh upper over an orthopedic arch footbed with a bionic design, and the listing says the arch helps with long distance walking. A front rolling balance design and widened sole follow the foot's motion, and three hook-and-loop straps adjust the fit freely.\n\nCompared with the YESWIN Orthotic Walkers, it adds a third strap and a rolling-balance sole. Against the Littleplum Flat Sandals, it is more sport-oriented, with a thick cushioned heel cup.\n\nIt is the best match for women who plan hours on their feet and want the most structured sandal here. The listing also names non-slip, wear-resistant outsoles.",
     "specs": [
       "Orthopedic arch, heel cup",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41OKvLWpbIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DLFWRRGB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DLFWRRGB?tag=rvgearlab-amz-20",
     "description": "The YESWIN Orthotic Walkers use a specialized arch support system and a breathable mesh upper on an open-toe design. A durable rubber outsole is named for stability and grip on long walks, and a hook-and-loop ankle strap lets you customize the fit.\n\nNext to the KuaiLu Mesh Walkers, it uses one ankle strap instead of three and costs less. Against the Mishansha Water Sandals, it adds a stronger arch focus and a plantar fasciitis mention on the listing.\n\nIt suits women who want arch-focused support in a lightweight mesh sandal. The neutral colors go with most outfits.",
     "specs": [
       "Specialized arch support system",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41cP4830uFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F7G6BJTW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F7G6BJTW?tag=rvgearlab-amz-20",
     "description": "The Littleplum Flat Sandals have an anatomically molded arch support sole and double hook-and-loop straps that suit wide or slim feet. A PU leather upper and TPR outsole add traction, and a sponge-bulge insole is described as soft and breathable.\n\nCompared with the YESWIN Orthotic Walkers, it is a flatter, more casual style at a lower price. Against the YOCCI Sport Sandals, it looks neater for city outings.\n\nIt suits women who want a flat sandal for sightseeing and shopping days. The listing says the arch support keeps feet from tiring after standing or walking a long time.",
     "specs": [
       "Molded arch support sole",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41balT6WhfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GKNH4K18?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GKNH4K18?tag=rvgearlab-amz-20",
     "description": "The Mishansha Water Sandals have a supportive footbed structure, adjustable hook-and-loop straps with durable webbing and a supportive back strap. A lightweight cushioned MD footbed and an MD plus TPR outsole are listed for all-day comfort.\n\nCompared with the YESWIN Orthotic Walkers, it adds a back strap and quick-drying materials. Against the YOCCI Sport Sandals, it works the same way and lists a firmer MD footbed.\n\nIt suits women who walk through beach towns, boardwalks and travel days with splashes. The listing names city walks, errands and vacations.",
     "specs": [
       "Supportive footbed structure",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31xQDm+-5xL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09PYFJW53?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09PYFJW53?tag=rvgearlab-amz-20",
     "description": "The YOCCI Sport Sandals have a cushiony EVA yoga-mat insole, built-in arch support and a skid-resistant rubber outsole. Padded heel straps are specifically said to reduce chafing and protect the heel from blisters during long walks.\n\nNext to the Mishansha Water Sandals, it puts the focus on a padded heel strap. Against the Littleplum Flat Sandals, it is a more athletic style with a firmer grip outsole.\n\nIt suits women who have had blisters from other sandals. The listing names beach, pool, garden and hiking as uses.",
     "specs": [
       "Padded heel straps",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Q4kzVD+1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GL92TTFB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GL92TTFB?tag=rvgearlab-amz-20",
     "description": "The Aomigoct Slide Sandals have a 5 mm EVA cushioned midsole that the listing says absorbs 30 percent of impact per step. An adjustable buckle and hook-and-loop closure keep the slide from slipping off, and the build is lightweight.\n\nCompared with the YOCCI Sport Sandals, it is a slide without a heel strap, so it is lighter and quicker to slip on. Against the Littleplum Flat Sandals, it costs less and has a thicker midsole.\n\nIt suits women on their feet for long shifts or short walks who want a low price. The listing is aimed at working women on the move.",
     "specs": [
       "5 mm EVA cushioned midsole",

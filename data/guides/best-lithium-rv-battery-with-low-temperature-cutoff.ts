@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31PJObcnOkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DTK98N3P?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DTK98N3P?tag=rvgearlab-amz-20",
     "description": "The Renogy 12V 100Ah Self-Heating battery uses two heating pads that provide 110 watts of heat and warm the battery about 40 percent faster than a single-pad design, according to the listing. It is rated to operate from minus 22°F to 131°F, uses a 100A BMS with more than 25 safety features, offers over 5,000 cycles at 80 percent depth of discharge, and comes in a Group 22NF size that is 45 percent smaller than similar batteries, in an IP65 case.\n\nIt tops the list because it is the only one here that publishes both a wide operating range and a heater power figure, and it is the smallest. Against the LiTime Group 24 it costs $16 less and runs the heater faster with two pads, but the LiTime has Bluetooth and selectable heating modes that this one lacks. Against the Redodo it costs $93 more for a documented temperature range and a smaller case.\n\nChoose it for an unheated bay or a winter-use trailer where space is tight. The caveat is the 100Ah capacity, which is about 1,280Wh nominal, so it is a single-battery solution for light loads, not a whole-RV bank by itself.",
     "specs": [
       "Dual 110W heating pads",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41suGiXe1sL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DWK1CHG7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DWK1CHG7?tag=rvgearlab-amz-20",
     "description": "The LiTime 12V 100Ah Group 24 Self-Heating battery has two heating modes: Regular, which starts heating below 41°F when charged and stops at 50°F so charging can begin, and an Energy-Efficient option. It adds Bluetooth 5.0 monitoring, weighs 22.71 pounds, and is a Group 24 size meant to replace an old lead-acid battery, with 4,000 plus cycles at 100 percent depth of discharge.\n\nIt ranks second because the heater only runs when the battery is charged, per the listing wording, which means the heating relies on a charger, converter or solar source being connected and may not warm a battery sitting idle on a cold night. It beats the Redodo on app control and mode choice for $109 more, and it costs $16 more than the Renogy for Bluetooth and standard Group 24 fit.\n\nPick it if you are swapping out a Group 24 lead-acid battery and want to watch heating status from the app. The caveat is that the heater needs a charge source, so a trailer sitting unplugged in storage will not warm the battery.",
     "specs": [
       "Two heating modes, Bluetooth 5.0",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41iddCf4TAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GPW7B7M8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GPW7B7M8?tag=rvgearlab-amz-20",
     "description": "The VATRER 12V 300Ah Self-Heating battery stores about 3,840Wh nominal in a case measuring 15.12 by 7.64 by 9.76 inches, with app monitoring, a rated 5,000 plus cycles at 100 percent depth of discharge, and an upgraded BMS. Its listing says the heater activates when the cell temperature is below 32°F and the charging current exceeds 10 amps.\n\nIt ranks third because the 10 amp charging threshold is a real constraint: a small solar array on a short winter day may not deliver enough current to start the heater, whereas a converter or a generator will. It has three times the capacity of the 100Ah units at $600, which is about $156 per kilowatt-hour against $276 for the Renogy 100Ah, but it is heavier and larger.\n\nChoose it for a full-time winter rig with a converter or a generator that can supply more than 10 amps. The caveat is the heating threshold, and the listing notes it is not designed as a golf cart battery.",
     "specs": [
       "300Ah, about 3,840Wh",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ABGrp5+wL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CNR87Q1P?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CNR87Q1P?tag=rvgearlab-amz-20",
     "description": "The Redodo 12V 100Ah Self-Heating Group 31 costs $259.99 and weighs 23.32 pounds. Its listing describes two heating pads totaling 100 watts, a low-temperature cut-off that stops charging below 32°F and resumes when the cells warm, a 100A BMS with a temperature sensor, and a cited heating time of about 30 minutes, though the full test conditions are not shown.\n\nIt ranks fourth. It is the cheapest self-heating battery here, $93 below the Renogy, which makes it the choice when budget decides. Against the GREENOE below, it adds an active heater for $40 less. It does not publish an operating temperature range or a Bluetooth app, and a Group 31 case is bulkier than the Renogy's.\n\nPick it if you want a heater on a tight budget in a Group 31 space. The caveat is thinner documentation, so ask the seller for the exact heater trigger and charging conditions.",
     "specs": [
       "Dual heating pads, 100W total",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41wVo06Ex5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DXF84N85?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DXF84N85?tag=rvgearlab-amz-20",
     "description": "The GREENOE 12V 100Ah Group 31 has no heater but spells out its protection: the BMS cuts off discharging below minus 4°F and stops charging in the cold near freezing. It measures 12.9 by 6.7 by 8.6 inches, weighs 22.48 pounds, is UL tested, handles 300A for 3 seconds, is rated IP65, and expands to 4S4P for a 48V 400Ah system.\n\nIt ranks fifth because it protects the battery without warming it. Against the Redodo it costs $40 more and lacks a heater, but the numbers are clearer and it has a UL listing. Against the Power Queen below it costs $50 more and has a five-year order warranty and a more precise cutoff description.\n\nThis suits heated-space installs where you only need protection, such as an interior cabinet in a trailer you keep warm. The caveat is that when the cells drop below the limit, charging simply stops, so winter use without heat will not work.",
     "specs": [
       "Discharge cutoff below -4°F",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41brKNTseLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DYDDNBFK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DYDDNBFK?tag=rvgearlab-amz-20",
     "description": "The Power Queen 12V 100Ah is the lowest-priced battery here at $249.99. Its low-temperature sensor cuts off charging when cell temperature falls below 41°F, a more cautious threshold than the 32°F most others use, and the listing cites a 100A BMS, 1,280Wh, 4,000 plus cycles at 100 percent depth of discharge, 6,000 at 80 percent, and a five-year warranty.\n\nIt ranks last because it is marketed for trolling motors, has no heater and no app, and the earlier 41°F cutoff means charging stops sooner as the weather cools. It is $50 less than the GREENOE and $10 less than the Redodo, so the price gap to a heated battery is tiny.\n\nChoose it only if you keep the battery in a warm spot and want the cheapest protected battery. The caveat is that for $10 more the Redodo gives you a heater, which makes this one hard to recommend for winter use.",
     "specs": [
       "100Ah, 1,280Wh nominal",

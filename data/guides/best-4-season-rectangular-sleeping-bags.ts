@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/417+JCO+5RL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B087LV22KZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B087LV22KZ?tag=rvgearlab-amz-20",
     "description": "The SOULOUT is an 86.6 by 32.7 inch rectangular envelope with high-loft insulation and a water-resistant shell, listed for heights up to 7.1 ft. It weighs 4.3 lb, packs to 9.1 by 13.8 inches and is machine washable.\n\nIt prints weight and pack size, which the KANYAK and ASHOMELI listings do not. The listing describes spring through mild winter conditions.\n\nIt suits adults and teens who want a roomy, washable car-camping bag. The water-resistant shell handles light rain and dew.",
     "specs": [
       "86.6 x 32.7 inch envelope",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31b1QCuSjtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G57WPPR2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G57WPPR2?tag=rvgearlab-amz-20",
     "description": "The ASHOMELI is an 86.6 by 32.68 inch rectangular bag with a comfort range of 40 to 60 degrees F and a limit range of 32 to 77 degrees F. It has an inflatable pillow, a half-circle hood, foot zippers and a compression sack, and fits campers up to 6.8 ft.\n\nIt prints the clearest ratings of the four and is the cheapest by a wide margin. The inflatable pillow saves packing one.\n\nIt suits warm-to-cool car camping and guests. The 40F comfort floor shows it is not a winter bag.",
     "specs": [
       "Comfort 40 to 60F",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41IHA+panHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CJ53ZW31?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CJ53ZW31?tag=rvgearlab-amz-20",
     "description": "The KANYAK is titled as a 32 degrees F sleeping bag for 3-4 season use, with separate side and bottom zippers that let you open the bag fully or vent the feet. Marketing copy points to cold mountain use.\n\nIts title is the only one that names a 32F rating, and it costs slightly less than the SOULOUT. The listing prints little else about fill, size or weight.\n\nIt suits campers who want a bag that opens fully at a modest cost. Ask the seller for size and weight first.",
     "specs": [
       "32F in the title",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41r-RVuucQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BRQF6CL3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BRQF6CL3?tag=rvgearlab-amz-20",
     "description": "The Macarrie set contains ten waterproof bags, each about 83 by 30 inches, labeled 0 degrees with hollow cotton fill, a double bottom zipper and a half-circle hood. Each comes with a compression bag.\n\nIt is the only multi-bag purchase here, giving a lower per-bag cost for groups, youth camps and emergency kits. Each bag is slimmer than the SOULOUT.\n\nIt suits scout troops, volunteer teams and disaster kits. The 0 degree label is a brand claim.",
     "specs": [
       "Ten bags, 83 x 30 in each",

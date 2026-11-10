@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51YNqhne5dL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FBGD6YMB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FBGD6YMB?tag=rvgearlab-amz-20",
     "description": "Folded, the ODSD is about 10.6 inches wide, 9 deep and 5 tall at 3.98 pounds, with two independently adjustable burners rated up to 20,000 BTU. Its magnetic closure, 304 stainless steel build and windproof shield come with a frying pan, coffee stand and carry bag.\n\nIt is lighter than the CFRERO 16K by about 2 pounds and puts out more heat. The extras in the box mean you can start cooking with no more purchases beyond a propane tank.\n\nA strong pick for couples and small families who want a real two-burner stove that fits a backpack or a trunk corner. The shield keeps oil splashes off your hands.",
     "specs": [
       "20,000 BTU, two burners",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411vkJcDkwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FG2NP1CJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FG2NP1CJ?tag=rvgearlab-amz-20",
     "description": "The CFRERO is a 16,000 BTU propane two-burner that weighs 5.7 pounds and folds into a slim profile with the included carry bag. It fits two 10 inch pans and gives each burner its own knob.\n\nNext to the ODSD 20K Folding it costs less, weighs about 2 pounds more and includes piezo ignition. Two grates, a gas hose and a manual are in the box, while a griddle and tank are extra.\n\nA good option for tailgates, picnics and backup cooking during power outages. The removable grates make cleanup simple.",
     "specs": [
       "16,000 BTU, 5.7 lb",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41C7BfhshqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FHW3G1RZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FHW3G1RZ?tag=rvgearlab-amz-20",
     "description": "The BIG HORN is a butane burner with a bucket-style design that folds compactly and opens to a stable platform. It lists 2,200 W (7,500 BTU), one-touch ignition and a sturdy cast iron trivet with non-slip pads.\n\nBeside the two-burner folders it is a one-pot stove, much smaller and cheaper. It runs on small butane canisters instead of propane.\n\nRight for solo camps, emergency kits and anywhere a two-burner would be too big. A bag is included.",
     "specs": [
       "2200W (7500 BTU) butane",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31VcXqbraSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0007L8108?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0007L8108?tag=rvgearlab-amz-20",
     "description": "Coghlan's stove folds flat from coated steel and weighs 16 ounces. It uses canned heat, fuel cubes or solidified alcohol on a 6.5 by 6.5 inch surface suited to small and medium pots.\n\nIt is the only pick that needs no pressurized fuel, so it sidesteps canister rules and threads. It costs the least here and gives up the heat control of the gas stoves.\n\nA fit for emergency kits and bug-out bags that want something small and simple. Solid fuel is sold separately.",
     "specs": [
       "Folds flat, coated steel",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51kUZkyzcnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07VHMZTJ1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07VHMZTJ1?tag=rvgearlab-amz-20",
     "description": "REDCAMP's stainless wood stove opens to roughly 8 inches long and 6 wide, then folds only 1.5 inches thick. It weighs 1.9 pounds, has a stainless grid backing plate and burns leaves and twigs.\n\nIt shares the solid-fuel idea of the Coghlan's, and it burns found wood rather than packaged fuel. It folds flatter than a gas stove and costs little.\n\nA pick for campers in forested areas where fires are allowed. A carry bag is included.",
     "specs": [
       "1.9 lb stainless steel",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41+cKuSOqZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7VSHSN5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7VSHSN5?tag=rvgearlab-amz-20",
     "description": "The Everyfun Double Hammock with Stand has a powder-coated steel stand rated for 600 pounds and a 78 by 59 inch woven cotton bed. Balanced spreader bars and a wide-base stand keep it from tipping, and the bed detaches into a carry bag.\n\nIt costs about $76, around half the ANAGOO Double and $9 more than the SZHLUX Stand, and it has the highest rating of the three stand hammocks. It assembles in about 10 minutes with no tools.\n\nIt suits campers and families with a site that has no trees. It also works on a deck or at a pool.",
     "specs": [
       "600 lb steel stand",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51m-biifsKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DT4577D9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DT4577D9?tag=rvgearlab-amz-20",
     "description": "The ANAGOO Double Hammock with Stand has a reinforced alloy steel frame with balance straps, a 500 pound rating and a cotton-polyester bed. It measures 75 inches in total length, has 6-level adjustable steel chains and a spring-button locking system.\n\nIt costs about $150, the top of the budget and about twice the Everyfun Stand, and it adds adjustable hanging height. Its rating is lower than the Everyfun's 600 pounds.\n\nIt suits backyard and poolside relaxing where height adjustment matters. A carrying case is included.",
     "specs": [
       "500 lb alloy steel frame",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41egM0nd-PL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C98N9P3G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C98N9P3G?tag=rvgearlab-amz-20",
     "description": "The SZHLUX Double Hammock with Stand has a steel stand rated for 450 pounds, a Brazilian-style woven cotton bed and a premium carry bag. It assembles without tools and hangs directly on the stand's hooks.\n\nIt costs about $67, $9 less than the Everyfun Stand, and it gives a lower weight rating of 450 pounds. It folds into a carry bag.\n\nIt suits backyard and deck use on a budget. The striped cotton bed looks lively.",
     "specs": [
       "450 lb steel stand",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Y-G67ryuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GJCCSJDQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GJCCSJDQ?tag=rvgearlab-amz-20",
     "description": "The Rivenlo is a 3-in-1 hammock tent in 70D nylon with a mosquito net, aluminum support poles, a rain fly and two 110 inch tree straps. It weighs 1.2 kg and supports 200 kg.\n\nIt costs about $90, $14 above the Everyfun Stand, and it weighs far less than any stand. It needs two trees.\n\nIt suits backpackers who want bug and rain cover. It converts to a plain hammock.",
     "specs": [
       "3-in-1 hammock tent, 70D nylon",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/516RoZ+5OcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01E3EHRVS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01E3EHRVS?tag=rvgearlab-amz-20",
     "description": "The Wise Owl Single hammock is 9 by 4.5 feet with triple stitching, 9 foot straps and a 5-loop adjustment, all in 16 oz. It holds up to 500 pounds.\n\nIt costs about $32, less than half the Everyfun Stand, and it weighs a fraction. It needs trees.\n\nIt suits hikers who want the lightest option. It folds small.",
     "specs": [
       "9 x 4.5 ft, triple stitching",

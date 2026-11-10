@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41jiYtfANJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01EXWCPLC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01EXWCPLC?tag=rvgearlab-amz-20",
     "description": "The BigBlue 28W lists dual USB-C and one USB-A at 5V/3A each, with 5V/4.8A combined output. It converts 25.4 percent of sunlight, uses a shadow-free surface with no metal lines and carries an IP44 rating.\n\nIt has three ports, one more than the BigBlue 21W, and the highest efficiency claim. It costs about $35 more than the 21W.\n\nIt suits campers who charge three devices at once. The shadow-free surface helps in partial shade.",
     "specs": [
       "28W, 25.4% efficiency",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41gqznkn6rL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09H6GGK55?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09H6GGK55?tag=rvgearlab-amz-20",
     "description": "The FlexSolar 40W offers a QC3.0 USB-A port and a PD2.0 USB-C port at 18W each, alongside a DC output, a smart IC chip, 24 percent efficiency and IP67. It ships with 2 carabiners.\n\nIt is the only pick with 18W fast-charge ports on both sides and a DC port. It costs less than the BigBlue 28W.\n\nIt suits campers who want fast-charging phones and a small station feed. The IP67 rating handles heavy rain.",
     "specs": [
       "40W, 24%, IP67",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41TX80ECxFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DT15YWBB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DT15YWBB?tag=rvgearlab-amz-20",
     "description": "The BigBlue 21W lists dual USB ports at 5V/3A each with 5V/4.2A combined, monocrystalline cells and a PVDF surface for durability. It folds to book size, has an IP68 rating and ships with a USB-C to USB-C cable and 2 carabiners.\n\nIt has the best water rating of the six and costs about $35 less than the BigBlue 28W. It has two ports against three.\n\nIt suits campers in wet weather who charge two devices. The PVDF surface resists wear.",
     "specs": [
       "21W, dual USB 5V/3A",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zEDcz78gL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FMXG7Q5D?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FMXG7Q5D?tag=rvgearlab-amz-20",
     "description": "The FlexSolar 25W lists 1.2 lbs, a 7.7 x 5.1 inch fold, USB-A plus USB-C delivering 5V/3A to two devices, MPPT tracking and 23.2 percent efficiency. It has IP67 and a triple-layer build.\n\nIt is light at 1.2 lbs and the only one that names MPPT. It costs about the same as the BigBlue 21W.\n\nIt suits hikers who want light weight and smart charging. The IP67 rating handles heavy rain.",
     "specs": [
       "25W, 23.2%, 1.2 lbs",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41e2nJ5vYUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C4DVT32Z?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C4DVT32Z?tag=rvgearlab-amz-20",
     "description": "The FlexSolar 10W lists 5V/2A max, 24 percent efficiency with IP67 cells, a folded size of 8.8 x 7.6 x 0.7 inches and 0.66 lbs. It has one USB port and 2 carabiners.\n\nIt costs a fraction of the other picks and weighs under 1 lb. It has one port, not two or three.\n\nIt suits hikers who need a phone top-up. The thin fold slips into a pocket.",
     "specs": [
       "10W, 24%, IP67",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/419MfO3oPQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GS5H27V2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GS5H27V2?tag=rvgearlab-amz-20",
     "description": "The Untiruner lists a 10W panel with 18 to 19.5 percent efficiency, a folded size of 7.28 x 4.45 x 0.78 inches, 0.58 lbs and IP65 nylon cloth. The listing states it cannot store electricity and cannot charge laptops or power stations.\n\nIt is the lightest and cheapest pick here. It is slightly less efficient than the FlexSolar 10W.\n\nIt suits budget hikers who want the lowest weight. The nylon cloth resists dust and heat.",
     "specs": [
       "10W, 18-19.5%, 0.58 lbs",

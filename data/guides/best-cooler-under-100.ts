@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31A4Fh7lXdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GRWT8M6K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GRWT8M6K?tag=rvgearlab-amz-20",
     "description": "Coleman's Classic 62 quart rolling cooler keeps ice up to 5 days in temperatures as high as 90F, per the listing. It holds 101 cans without ice or 50 cans with 26 pounds of ice, and has 6 inch all-terrain wheels with tow and swing-up handles.\n\nWheels are what set it apart from the 70 quart Coleman, which has to be lifted and carried. The 62 quart size is also easier to load into a car.\n\nChoose it for family camping where the cooler has to move over sand or gravel. The tow handle makes loading simple.",
     "specs": [
       "5 days of ice at 90F",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31eChrDG-2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07X8RGTHK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07X8RGTHK?tag=rvgearlab-amz-20",
     "description": "The Coleman Classic 70 quart keeps ice up to 5 days in temperatures as high as 90F and holds up to 100 cans. Swing-up handles ease carrying and lifting.\n\nIt matches the 62 quart rolling model on stated ice life, with more capacity. It has no wheels, so it asks more of whoever lifts it.\n\nChoose it if you will lift it into a vehicle and not carry it far. It suits big groups on a budget.",
     "specs": [
       "70 quart, up to 5 days ice",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31lWfmMks9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B006H0L5TM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B006H0L5TM?tag=rvgearlab-amz-20",
     "description": "Igloo's 54 quart Marine Ultra has UV inhibitors to protect against sun damage, non-slip swing-up handles and a hybrid latch that is stainless steel in the hinge area. The latch is plastic in the snap area for longer life.\n\nIt is built for boats and sunny days, with more UV and latch detail than the Coleman chests. It is the lowest priced hard cooler here.\n\nChoose it for sunny campsites, fishing and boat trips. The latch holds in wet conditions.",
     "specs": [
       "54 quart marine cooler",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51N3+E0Gp+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09F733B2M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09F733B2M?tag=rvgearlab-amz-20",
     "description": "Maelstrom is a 75 can soft cooler that weighs just 1.8 lbs, with a 5-layer insulation structure rated for 12 hours of cold. It is 18 x 12 x 13.8 inches, with double stitching and reinforced handles, and flip-top access.\n\nIt is a fraction of the weight of any hard cooler here, and costs less. It is rated for hours, not days.\n\nChoose it for beach days and picnics. It pairs with a hard cooler for a long trip.",
     "specs": [
       "75 cans, 1.8 lbs",

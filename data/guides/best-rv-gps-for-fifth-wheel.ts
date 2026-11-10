@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51l2HjYLe+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09ZK66DW3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09ZK66DW3?tag=rvgearlab-amz-20",
     "description": "The Garmin RV 1095 is a 10 inch touchscreen RV navigator that shows routes in landscape or portrait mode. It includes custom routing for RV size and weight, a preloaded directory of RV parks and services, and satellite imagery for the final approach.\n\nIt is the largest screen in this list and the one most suited to a tall dash. The 895 gives up two inches of screen for a lower price, and the 795 gives up another one.\n\nA fifth wheel driver who wants the clearest map and the most complete RV content gets the most from this one. It is the pick for long travel days where glanceable maps matter.",
     "specs": [
       "10 inch touchscreen",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/517F0UVsNUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09ZK4LN92?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09ZK4LN92?tag=rvgearlab-amz-20",
     "description": "The Garmin RV 895 uses an 8 inch bright touchscreen with the same custom RV routing and campground directory as the 1095. It also shows satellite imagery and map updates for North America.\n\nCompared with the 1095, it trades two inches of screen for a noticeably lower price while keeping the routing logic. Against the 795, the extra inch makes route text easier to read.\n\nThis is the strongest all-round choice for most fifth wheel owners. It keeps the features that matter on the road without paying for the biggest display.",
     "specs": [
       "8 inch touchscreen",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41qUUYG5oTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CS4V8PTC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CS4V8PTC?tag=rvgearlab-amz-20",
     "description": "The Garmin RV 795 is a 7 inch navigator with custom routing for RV or trailer size and weight, a preloaded campground directory and BirdsEye satellite imagery. Road warnings call out steep grades, sharp curves and weight limits.\n\nIt is the cheapest way into the Garmin routing system in this list. The 895 gives you a bigger screen, while this one fits tighter dashboards.\n\nChoose it when your dash space is limited and you still want real RV profile routing. It is a sound first dedicated unit for a newer fifth wheel owner.",
     "specs": [
       "7 inch touchscreen",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51zZH8QWFJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HFMTGWT9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HFMTGWT9?tag=rvgearlab-amz-20",
     "description": "The HINYFVOZ is a 7 inch touchscreen GPS for car, truck and RV with 2026 North America maps. It offers free lifetime map updates, FM audio transmission of voice prompts, and postal code, address or coordinate search.\n\nIt costs a fraction of any Garmin here, which makes it a simple secondary or backup unit. It adds speed limit and school zone alerts, which the budget OHREX also lists.\n\nPick it as a low-cost companion navigator or for a second tow vehicle. It also suits owners who want free updates without paying more.",
     "specs": [
       "7 inch touchscreen",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51K19e400lL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07W84QD37?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07W84QD37?tag=rvgearlab-amz-20",
     "description": "The OHREX N700 is a 7 inch GPS that runs offline with preloaded 2026 North America maps. It offers free lifetime updates through a Windows PC or a TF card and lets you customize routes for your vehicle.\n\nNext to the HINYFVOZ, it makes offline use and truck-style route customization its main selling point. It still sits far below the Garmin units on RV directory content.\n\nIt suits drivers who want a cheap, offline unit with vehicle-based routing. It is a good choice for rural fifth wheel routes with poor cell service.",
     "specs": [
       "7 inch touchscreen",

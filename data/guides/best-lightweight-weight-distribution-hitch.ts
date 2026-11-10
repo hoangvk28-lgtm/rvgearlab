@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31H44nTokeL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B009V70ZP8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B009V70ZP8?tag=rvgearlab-amz-20",
     "description": "Andersen's weight distribution hitch uses a friction cone and tension chains instead of spring bars and is rated 10,000 lb GTWR and 1,400 lb tongue weight. Andersen's weight distribution hitch uses a friction cone and tension chain design in place of spring bars and is listed at 10,000 lb GTWR and 1,400 lb tongue weight with a 4-inch drop and 2-inch ball. The listing says the system requires no grease.\n\nIt states more tongue weight than Husky 33301 and a grease-free design, but costs more. Its listing gives no weight.\n\nBest for an owner who wants a chain system and can accept the premium. It suits owners who want a lighter chain-style system and can accept the premium price.",
     "specs": [
       "10K GTWR, 1,400 lb TW",
@@ -53,7 +53,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31U+J5WC1yL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FRS8PDZ9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FRS8PDZ9?tag=rvgearlab-amz-20",
     "description": "Husky's 33301 is a trunnion hitch rated 8,000 lb GTW and 400 to 800 lb tongue weight with a cast head and hardened trunnions. Husky's 33301 is a trunnion bar weight distribution hitch rated 400 to 800 lb tongue weight and 8,000 lb gross trailer weight, with a 2 inch shank and factory-installed ball. It combines weight distribution and sway control in one unit.\n\nIt states a lower rating than Andersen 10K 2in and costs less. Its listing gives no weight.\n\nBest for a trailer under 8,000 lb that wants built-in sway control. It is a good match for trailers with a tongue weight in the middle of its range, so check the frame width limit in the listing.",
     "specs": [
       "8,000 lb GTW, 400 to 800 lb TW",

@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41O2lueo7pL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DY8K122V?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DY8K122V?tag=rvgearlab-amz-20",
     "description": "The TP-Link Roam 6 AX3000 is a dual-band Wi-Fi 6 travel router with up to 2402 Mbps on 5 GHz and 574 Mbps on 2.4 GHz, router, hotspot and AP or client modes and a 2.5 Gbps WAN and LAN port. OpenVPN and WireGuard are supported.\n\nHotspot mode is the Wi-Fi as WAN mode, and it comes with VPN support. It carries a faster class than the Opal.\n\nBest for owners who want fast, secure WAN over Wi-Fi. On the plus side, fast Wi-Fi 6 radios.",
     "specs": [
       "AX3000 Wi-Fi 6 dual band",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ghUfztYXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09N72FMH5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09N72FMH5?tag=rvgearlab-amz-20",
     "description": "The GL.iNet GL-SFT1200 Opal is an AC1200 dual-band travel router with two gigabit LAN ports and one gigabit WAN port, a 145 gram body and OpenVPN and WireGuard pre-installed. Another reason it earns a slot: gigabit ports.\n\nIt is the cheaper and lighter pick, ideal for a small bag. Its listing does not spell out the Wi-Fi as WAN mode as clearly as TP-Link.\n\nA fit for budget travelers. On the plus side, low price.",
     "specs": [
       "AC1200 dual band",

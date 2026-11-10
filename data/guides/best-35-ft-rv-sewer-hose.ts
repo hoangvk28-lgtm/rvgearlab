@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51dpznMgdLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GHPLV4PL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GHPLV4PL?tag=rvgearlab-amz-20",
     "description": "The AVERONR 30 ft hose is commercial-grade TPE with reinforced threaded fittings and locking bayonets. It runs 30 feet, about 12 meters, and is described as flexible in cold and snow.\n\nIt is the longest hose in the group and gets within five feet of a 35 foot route. Next to the DUMPMAN 20 Ft Kit, it adds ten feet of reach and removes the clear elbow.\n\nBest for sites with a very distant riser who plan to add a short extension. A direct match for the longest single run available.",
     "specs": [
       "30 ft commercial-grade TPE",
@@ -53,7 +53,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51qVA-86IbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D46F7ZKD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D46F7ZKD?tag=rvgearlab-amz-20",
     "description": "As a single 24 mil TPE run, the DUMPMAN 20 ft kit brings its own clear 90 degree adapter that works with four inlet sizes. It is described as seamless and leak-free.\n\nIt costs less than the AVERONR 30 Ft and includes an elbow the longer hose lacks. It is fifteen feet short of 35 feet, which makes it the starter piece of a longer setup.\n\nBest for owners with a long route who want a complete first hose. A good base for a layered system.",
     "specs": [
       "20 ft one piece, 24 mil TPE",

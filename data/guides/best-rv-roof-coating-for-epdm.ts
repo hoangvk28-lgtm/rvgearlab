@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411LMN-of0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B004A32HUY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B004A32HUY?tag=rvgearlab-amz-20",
     "description": "The Dicor RP-CRC-1 is a 1 gallon white acrylic coating called part 2 of Dicor's EPDM rubber roof system. The listing says it is for EPDM and PVC only, covers 125 square feet per gallon per coat, and must be used with Dicor Rubber Roof Cleaner/Activator for proper adhesion.\n\nAgainst Liquid Rubber 1gal, it covers more area per gallon but locks you into Dicor's cleaner step and costs more. Against HENG'S, it is a defined system rather than a standalone coat.\n\nBest for owners who will follow the Dicor cleaner-then-coat sequence on a sound EPDM roof. Skip it if your roof is TPO or something else.",
     "specs": [
       "EPDM and PVC only",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41p3hay2szL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01EM9GAA8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01EM9GAA8?tag=rvgearlab-amz-20",
     "description": "Liquid Rubber RV Roof Sealant is a 1 gallon white elastomeric coating that lists EPDM, TPO, fiberglass and aluminum roofs. The listing describes a 3-step system with RV Smart Cleaner and an EPDM and TPO primer, and a coverage of 1 gallon per 50 square feet at final thickness.\n\nAgainst Dicor EPDM Coating, it covers less area per gallon but names several membranes and a primer step. Against Tenee, it gives a longer system description.\n\nBest for EPDM owners who want a cleaner, primer and coating in one brand. One gallon covers only about 50 square feet, so measure your roof.",
     "specs": [
       "Lists EPDM, TPO, fiberglass",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41XUE2nbDKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B004A30MGA?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B004A30MGA?tag=rvgearlab-amz-20",
     "description": "HENG'S Industries Rubber Roof Coating is a 1 gallon coating described as designed for use over RV rubber roofs, at seams and tears and to seal vents and air conditioners. It is UV resistant, expands and contracts with the roof, and resists cracking.\n\nAgainst Dicor EPDM Coating, it is a simpler single product with no stated coverage or prep step. Against Liquid Rubber 1gal, it is cheaper but gives less system detail.\n\nBest for targeted repairs at seams and around roof fixtures. Ask the seller for coverage and primer guidance.",
     "specs": [
       "EPDM rubber roof coating",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51hiM9wB1OL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D87GRN43?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D87GRN43?tag=rvgearlab-amz-20",
     "description": "Tenee RV Roof Coating is a 1 gallon white liquid rubber coating with 1000 percent plus elongation and 88 percent solar reflectivity. The listing says it works on TPO and, with proper surface preparation, EPDM, fiberglass and aluminum, and covers up to 50 square feet per gallon.\n\nAgainst HENG'S, it gives elongation and reflectance numbers but conditions EPDM on preparation. Against Liquid Rubber 1gal, it costs less and has no matching primer.\n\nBest for budget EPDM work where you are willing to prepare carefully. The listing puts TPO first, so confirm EPDM prep steps.",
     "specs": [
       "1000%+ elongation",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41DwKzK2bDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GVB8GC75?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GVB8GC75?tag=rvgearlab-amz-20",
     "description": "LAVIONY RV Shield is sold in a 4 gallon pack as a white liquid-rubber roof coating that forms a flexible, solar-reflective membrane on properly prepared surfaces. The listing also mentions a one-gallon repair kit with a brush, gloves and polyester reinforcing fabric.\n\nAgainst Tenee, it gives much more material but names no EPDM in the visible listing text. Against Dicor EPDM Coating, it gives more gallons for the money with less system detail.\n\nBest for larger roofs when you can confirm EPDM compatibility with the seller. The listing's kit wording is inconsistent, so check the contents.",
     "specs": [
       "4 gallon white coating",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41PxbmOjHAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0877DWQCX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0877DWQCX?tag=rvgearlab-amz-20",
     "description": "Ziollo RV Roof Sealant is a self-leveling, 100 percent silicone liquid rubber coating in white that claims to drop interior temperatures by up to 15°F. The listing describes a full Ziollo system with cleaner and seam tape.\n\nAgainst the acrylic and liquid-rubber picks, silicone is a different chemistry, and the listing does not name EPDM. Silicone may resist later coatings, so recoating is harder.\n\nBest only for owners who deliberately chose silicone and have confirmed membrane compatibility. Self-leveling products are for flat areas.",
     "specs": [
       "100% silicone liquid rubber",

@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ahatSjeML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B003YJLIW8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B003YJLIW8?tag=rvgearlab-amz-20",
     "description": "Dicor 551LSW-1 is a 10.3 ounce white non-leveling lap sealant that seals roof edges, air vents, vent pipes and screw heads. The listing says it is formulated for EPDM and compatible with DiFlex II, Tufflex, PVC and PriTEK TPO.\n\nAgainst 1021 Self-Leveling, it stays put on vertical vent collars while 1021 flows flat. Against Dicor Ultra, it is a lap sealant, not a polyether system.\n\nIt is the best match for vent pipe collars and flange edges. It earns its slot for vent collars.",
     "specs": [
       "10.3 oz white non-leveling",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41v6rzMHFdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H3LZB8YG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H3LZB8YG?tag=rvgearlab-amz-20",
     "description": "1021 Self-Leveling RV Roof Sealant is a low VOC white lap sealant for flat and horizontal RV roof surfaces. The listing says it seals around roof edges, vents, skylights, antennas and vent pipes and suits rubber, metal and fiberglass.\n\nAgainst Dicor 551LSW, it flows flat across a vent flange. Against Gociean 2 Pack, it names skylights and antennas.\n\nIt suits horizontal vent flanges and skylight bases. It is a natural fit for flat flange bases.",
     "specs": [
       "Self-leveling, low VOC",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/517mWhq6oNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F2MTTDRR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F2MTTDRR?tag=rvgearlab-amz-20",
     "description": "Erigathe Self-Leveling RV Roof Sealant is a heavy-duty white lap sealant that flows into cracks and laps and is tack-free in 2 hours. The listing says it withstands -40 to 200 degrees F, bonds to metal, fiberglass and EPDM and is paintable.\n\nAgainst 1021 Self-Leveling, it states a tack-free time and paintability. Against Dicor 551LSW, it is self-leveling.\n\nIt suits vent flanges where you want to paint the sealant to match. Think of it as the pick for paintable flange seals.",
     "specs": [
       "Self-leveling, white",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41-TIX3BpbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CRDYC5LP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CRDYC5LP?tag=rvgearlab-amz-20",
     "description": "Gociean 2 Pack is a white self-leveling sealant with a no-pungent-smell formula. The listing says it bonds to EPDM, TPO, aluminum, brass, steel, glass, mortar, wood and PVC and is compatible with RV roof coating and tape.\n\nAgainst 1021 Self-Leveling, it names more surfaces. Against RVSHARK 2 Pack, it states coating and tape compatibility.\n\nIt suits vent flanges on mixed roof surfaces. Buyers focused on mixed-surface flanges will find it a sensible match.",
     "specs": [
       "2 tubes, self-leveling",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51AX0M+k5oL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G645B732?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G645B732?tag=rvgearlab-amz-20",
     "description": "RVSHARK 2 Pack is a white self-leveling lap sealant that levels within 30 seconds and stays flexible from -40 to 200 degrees F. It comes with replaceable nozzles and gloves.\n\nAgainst Gociean 2 Pack, it adds nozzles and gloves. Against Erigathe, it states a fast leveling time.\n\nIt suits vent flanges where a clean application matters. It earns its slot for clean flange work.",
     "specs": [
       "2 tubes, self-leveling",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31VhuGJrrKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00YBFTCZE?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00YBFTCZE?tag=rvgearlab-amz-20",
     "description": "Dicor 610SASLW-1 is a 10.1 ounce white Ultra Sealant System made from polyether, with no solvents or isocyanates and a non-yellowing finish. The listing says polypropylene RV roof accessories and some membranes must be primed with Dicor Ultra Sealant Primer.\n\nAgainst Dicor 551LSW, it is a polyether system with a primer rule for plastic vent accessories. Against Erigathe, it is a premium single tube.\n\nIt suits vent installs on plastic accessories where primer is part of the plan. It is a natural fit for plastic vent accessories.",
     "specs": [
       "10.1 oz white polyether",

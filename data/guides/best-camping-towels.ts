@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Fh3knSgNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01KWVUJ16?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01KWVUJ16?tag=rvgearlab-amz-20",
     "description": "Wise Owl Outfitters makes a lightweight, compact microfiber towel that folds into its own mesh bag. The thin quick-dry fabric is sweat absorbent and suits camping, backpacking, the gym and the beach.\n\nIt is the simplest single towel in the group, and it packs smaller than the multi-size Eunzel and Aegero sets. The mesh bag keeps it tidy and lets it air out.\n\nBackpackers and car campers who want one dependable towel will like how it packs. It slips into a pocket of a daypack.",
     "specs": [
       "Ultra-light microfiber",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41XdHBFdfFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CWD1PQDT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CWD1PQDT?tag=rvgearlab-amz-20",
     "description": "Eunzel includes three towels in one pack, with a small 15 by 15 inch towel for hands and face and larger sizes for the body. The listing says it offers four times the surface area to absorb water and dry fast, with a carry bag and quick-snap hang loop.\n\nThe set covers hands, face and body in one purchase, which a single Wise Owl towel cannot. It is lighter on the wallet too.\n\nFamilies and groups who want towels for different jobs will like the variety. Everyone gets a towel and nothing is shared.",
     "specs": [
       "Three towels, small to large",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41YYPOGeguL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07L88DDQC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07L88DDQC?tag=rvgearlab-amz-20",
     "description": "Rainleaf is a compact microfiber towel that absorbs five times its own weight in water. It has a soft suede-like feel on the skin, a snap loop for hanging and a vented carry bag.\n\nThe suede-like texture is gentler on your face than the thin Wise Owl fabric. It can double as a light blanket on cool evenings.\n\nCampers who dislike scratchy towels will like how it feels. It also feels good after a cold lake swim.",
     "specs": [
       "Absorbs 5x its weight",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41SJNexhVIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GCHWKY5X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GCHWKY5X?tag=rvgearlab-amz-20",
     "description": "Chakipee is a quick-dry microfiber towel that absorbs up to twice its weight and dries up to three times faster than a regular towel. It comes with a hang loop and folds compactly.\n\nIt is soft and lint-free, which is useful for glasses and gear, and it is cheaper than the Rainleaf. The hang loop lets it dry on a pack.\n\nBudget campers and travelers will like how low the price is. It is an easy towel to toss in a glovebox.",
     "specs": [
       "Absorbs up to 2x its weight",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41012lAdMSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DRFCPL7J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DRFCPL7J?tag=rvgearlab-amz-20",
     "description": "Aegero is a two-pack of microfiber camping towels with four size options. The fabric is skin-friendly, listed as no-smell, and absorbs five times its weight.\n\nA 2-pack at the lowest price in the group beats buying a single Wise Owl, and the size options let you choose a hand towel or a body towel. It dries fast and is ultra compact.\n\nCouples who want one each will like the price per towel. Share the pair for hands and body.",
     "specs": [
       "2-pack, four size options",

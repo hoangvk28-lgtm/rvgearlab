@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41pe6AYBUdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H4LFZBG2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H4LFZBG2?tag=rvgearlab-amz-20",
     "description": "The Coolschmax CZ212 is the only true shunt monitor here. It ships with a 300A/75mV external shunt, uses a 16-bit ADC to count amp-hours in and out, and works on 12V to 100V systems with lithium, AGM or lead-acid. At $41.99 it is the one that gives you real state of charge.\n\nAgainst the ANCEL BM300 ($35.99), you pay $6.00 more and gain actual coulomb counting, a 20% low-capacity alarm and programmable voltage alarms. Pick this if you run an inverter or a fridge overnight and need an honest percentage. Caveat: the shunt has to be wired into the negative line, so it is a real install job.",
     "specs": [
       "300A / 75mV external shunt",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4192P-3VajL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07WCW49YM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07WCW49YM?tag=rvgearlab-amz-20",
     "description": "The ANCEL BM300 is a 3.2-ounce Bluetooth clamp-on monitor for 12V batteries. It reads voltage, runs a cranking and charging test, and sends data to your phone from up to 33 feet away. It costs $35.99 and installs in minutes with two terminal clamps.\n\nNext to the KDator BM2 ($24.99) it costs $11.00 more and adds an overload breaker, reverse polarity protection and a claimed 99.5% voltage accuracy. Compared with the Coolschmax CZ212, it cannot count amp-hours. Pick this if you want a quick health check on the chassis or starter battery. Caveat: it is a garage-style tester, not a house-bank gauge.",
     "specs": [
       "12V, Bluetooth to 33 ft",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41YPSrYSdML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CPCG8Z9Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CPCG8Z9Q?tag=rvgearlab-amz-20",
     "description": "The KDator BM2 is a $24.99 Bluetooth voltage monitor for 12V lead-acid batteries, rated 9V to 16V. It sends a low-voltage alert to the free iOS and Android app when your phone comes within about 10 meters.\n\nIt is $11.00 cheaper than the ANCEL BM300 and $17.00 cheaper than the Coolschmax CZ212, but it only sees voltage. Pick this if you want a cheap early warning on a single AGM or flooded battery. Caveat: the listing says lead-acid, so check lithium compatibility before putting it on a LiFePO4 bank.",
     "specs": [
       "9V to 16V, Bluetooth 4.0",

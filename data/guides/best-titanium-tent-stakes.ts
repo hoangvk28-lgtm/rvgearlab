@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51a99wv3DYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01CJAJPH2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01CJAJPH2?tag=rvgearlab-amz-20",
     "description": "The Hikemax set has 6 V-shaped titanium alloy stakes that are 6.3 inches (16 cm) long and 0.42 oz (12 g) each. Reflective cords come attached, and the listing says titanium has much higher tensile strength than aluminum.\n\nIt is lighter than the 0.46 oz Ti-Vision and the 37 g AVOFOREST, and it uses a V shape instead of a thin nail to hold in a wider range of soils. Compared with the TiTo hooks it is heavier and gives a real V cross-section.\n\nIt suits backpackers who want a light, all-round stake for a solo tent or tarp. The reflective cords help you spot the pegs at night.",
     "specs": [
       "6 V-shaped titanium, 6.3 in",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411lQxzL-dL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GSZKN9Q3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GSZKN9Q3?tag=rvgearlab-amz-20",
     "description": "The AVOFOREST stake is forged titanium at 7.87 inches (20 cm) with a 0.28 inch (7 mm) rope hole, and it weighs 1.3 oz (37 g) each. A tapered tip is listed for rocky dirt, roots and frozen ground, and reflective pull cords are attached.\n\nIt is the longest and heaviest stake in the group, well above the 12 g Hikemax, which makes it the strongest of the six. The large rope hole also takes thicker guyline than the other picks.\n\nIt is a fit for campers who want titanium on a mountain or on tough ground. Windy exposed pitches are where the length helps.",
     "specs": [
       "7.87 in, 37 g forged titanium",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51EUltGzn3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07D35YP62?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07D35YP62?tag=rvgearlab-amz-20",
     "description": "The TiTo listing offers titanium alloy stakes in sizes from 7 x 200 mm at 38 g up to 8 x 400 mm at 96 g, in packs of 4 or 6. It has milled points and is listed for soil, permafrost and gravel.\n\nUnlike the single-size sets, it lets you choose a length that suits your ground, from 200 mm up to 400 mm. Next to the AVOFOREST it offers a longer option at lower price per pack and a wider range of weights.\n\nIt is aimed at campers who camp on varied ground and want titanium at the right depth. The longer sizes help in snow and loose soil.",
     "specs": [
       "7 to 8 mm, 200 to 400 mm",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41q4dxLjD8S._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B096WZQ484?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B096WZQ484?tag=rvgearlab-amz-20",
     "description": "The Boundless Voyage pack has 6 titanium alloy stakes, listed as about 5 mm by 200 mm and 19 g each, 114 g for the set. The listing also says they never rust and can go into very hard soil.\n\nAt 200 mm it matches the length of the shortest TiTo size and is longer than the Hikemax and Ti-Vision pegs. It is lighter than the AVOFOREST at 19 g against 37 g.\n\nIt is a good fit for backpackers who want a longer stake without the AVOFOREST weight. The 6-pack suits a solo or two-person tent.",
     "specs": [
       "5 x 200 mm, 19 g each",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41vLHxo+Q1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F836Z68J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F836Z68J?tag=rvgearlab-amz-20",
     "description": "The Ti-Vision pack has 6 identical titanium stakes at 0.46 oz each and 6.3 inches long. A perforated body adds ground grip, and a bright orange pull cord comes on each one.\n\nIt is slightly heavier than the Hikemax at 0.46 oz against 0.42 oz, and it costs a little more. In return it gives a perforated body, where the Hikemax uses a V shape.\n\nIt suits minimalist backpackers who like the orange cords for finding stakes in low light. The listing names tents, tarps and guy lines as uses.",
     "specs": [
       "6 titanium stakes, 6.3 in",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41wsDUCKWPS._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B06XPYJGVM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B06XPYJGVM?tag=rvgearlab-amz-20",
     "description": "The TiTo hook stakes are 100% titanium alloy, 3 mm by 165 mm, and weigh 6.1 g each. A hook at the end takes a guyline of any thickness, and six come in a pack.\n\nIt is the lightest and cheapest pick in the group, at about half the weight of the Hikemax. Compared with the V-shaped pegs it is a slim shepherd's hook, which is lighter and holds less.\n\nIt suits gram-counting hikers pitching a small tent or tarp on firm soil. The listing also names garden and yard uses.",
     "specs": [
       "3 x 165 mm, 6.1 g each",

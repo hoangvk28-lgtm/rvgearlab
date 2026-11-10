@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31VGALxXF0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GXHKQK2W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GXHKQK2W?tag=rvgearlab-amz-20",
     "description": "The Xenjum is a 12V unit with 11,000 BTU of cooling and 4,500 BTU of heating, and a stated 10 hours on a 600Ah battery. The Xenjum is a 12V RV air conditioner with 11,000 BTU of cooling and 4,500 BTU of heating in a 43 pound unit.\n\nIt is the only true RV rooftop unit here and is a light 43 pounds. It costs more than every other pick.\n\nAn inverter scroll compressor and 35 dB operation sit behind a stated runtime of up to 10 hours on a 600Ah battery. It suits RV owners who want a low-power rooftop unit.",
     "specs": [
       "12V, 11,000 BTU cooling",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41FU+A5qhZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GJZKWRCG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GJZKWRCG?tag=rvgearlab-amz-20",
     "description": "The ZAFRO is a portable 14,000 BTU (10,000 BTU SACC) unit with an inverter compressor and a dual hose system. The ZAFRO is a portable air conditioner rated 14,000 BTU (10,000 BTU SACC) with an inverter compressor and a dual hose system.\n\nIt adds a self-evaporating drain system. It costs about 190 dollars more than the Garvee.\n\nA self-evaporating condensate system offers drainage-free cooling for long stretches. It suits owners who want an inverter portable.",
     "specs": [
       "14,000 BTU, 10,000 BTU SACC",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31JR2l1mwrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01DLPUWG2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01DLPUWG2?tag=rvgearlab-amz-20",
     "description": "The BLACK+DECKER is a 10,000 BTU (5,550 DOE) portable unit with a Follow Me remote and dehumidifier and fan modes. The BLACK+DECKER is a 10,000 BTU (5,550 DOE) portable air conditioner that also works as a dehumidifier and fan.\n\nIt is compact and costs about 30 dollars less than the Garvee. It covers up to 450 square feet.\n\nA Follow Me remote acts as a thermostat for the room, and it covers up to 450 square feet. It suits small spaces.",
     "specs": [
       "10,000 BTU (5,550 DOE)",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ClKYCnPnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H86R2DF3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H86R2DF3?tag=rvgearlab-amz-20",
     "description": "The Garvee is a 3-in-1 portable at 14,000 BTU (10,200 BTU SACC) with a 24 hour timer. The Garvee is a 3-in-1 portable air conditioner at 14,000 BTU (10,200 BTU SACC) that also dehumidifies and fans.\n\nIt covers rooms up to 750 square feet. It costs about 30 dollars more than the BLACK+DECKER.\n\nIt covers rooms up to 750 square feet with an LED panel, a full remote and a 24 hour timer. It suits larger spaces.",
     "specs": [
       "14,000 BTU, 10,200 BTU SACC",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41PM+EafNkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CFYFMZCP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CFYFMZCP?tag=rvgearlab-amz-20",
     "description": "The Frigidaire 8,000 BTU window unit has Eco and Sleep modes and clean filter alerts, cooling up to 350 square feet. The Frigidaire 8,000 BTU window unit cools up to 350 square feet with six-way airflow and three fan speeds.\n\nIt costs about 90 dollars more than the 5,000 BTU Frigidaire. It is a home unit.\n\nEco and Sleep modes plus clean filter alerts help manage power and upkeep. It suits owners with a window.",
     "specs": [
       "8,000 BTU window unit",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41PQHH1CIuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07RGM11L5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07RGM11L5?tag=rvgearlab-amz-20",
     "description": "The Frigidaire 5,000 BTU window unit cools up to 150 square feet at 52 dBA with a washable filter. The Frigidaire 5,000 BTU window unit cools up to 150 square feet with two fan speeds and 52 dBA quiet operation.\n\nIt is the cheapest of the six. It is a home unit.\n\nA washable filter and effortless temperature control keep maintenance simple. It suits small spaces.",
     "specs": [
       "5,000 BTU window unit",

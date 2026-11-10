@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51WX7nU97aL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BT67757S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BT67757S?tag=rvgearlab-amz-20",
     "description": "Dunkin' Cold Iced Coffee comes in a box of 6 powdered packets, and the listing says it is specially crafted for cold coffee that stands up to ice. You add it to cold water or milk.\n\nIt is the only product here designed to mix cold, which makes it the most direct answer to the keyword. The packets are lighter than a jar.\n\nChoose it for the simplest iced coffee at camp. It suits a cooler bag or a daypack.",
     "specs": [
       "6 powdered packets",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41sQMtjfQzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07SYT4SZF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07SYT4SZF?tag=rvgearlab-amz-20",
     "description": "TGT Instant Iced Milk Coffee is a Vietnamese-style mix in single-serve sticks, labeled caffeinated and suited for travel and camping. It is a milk coffee mix, not plain coffee.\n\nIt is the sweet, creamy pick on the list, and it needs nothing added besides liquid. A bag of sticks weighs about 1.04 pounds.\n\nChoose it if you like a sweet iced milk coffee at camp. It suits a trip with a cooler.",
     "specs": [
       "Single-serve sticks",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41A7mbdcSJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01LB1J9BW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01LB1J9BW?tag=rvgearlab-amz-20",
     "description": "Folgers Classic Roast Instant comes in an 8 oz jar and is described as smooth flavor you can enjoy hot or iced. Preparation is easy: add water or milk, hot or cold, and stir.\n\nIt is the lowest priced jar here, and the 8 oz size makes many cups. That jar is much larger than the Nescafe Gold jars.\n\nChoose it for a big pack of everyday iced coffee at the lowest cost. The jar works just as well for hot cups.",
     "specs": [
       "8 oz jar of instant coffee",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/417rtShxrJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CS12LZLS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CS12LZLS?tag=rvgearlab-amz-20",
     "description": "NESCAFE Gold Espresso Blonde comes in a 3.5 oz jar and makes up to 50 cups, using golden-roasted Arabica beans for a smooth, café-style crema. One teaspoon with a little water makes an espresso base for an Americano.\n\nIts concentrated style is good for pouring over ice, and it is lighter in roast than the Intense. A jar covers a long camp trip.\n\nChoose it for iced Americanos and lattes with milk. It suits people who like a smoother cup.",
     "specs": [
       "3.5 oz jar, up to 50 cups",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41mA1ujsGaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CRJT1YK9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CRJT1YK9?tag=rvgearlab-amz-20",
     "description": "NESCAFE Gold Espresso Intense is a 3.5 oz jar that makes up to 50 cups, with café-style crema and a rich, intense flavor. One teaspoon with 2 fluid ounces of water makes an espresso, and 6 fluid ounces makes a longer drink.\n\nIt is the bolder sibling of the Blonde, which holds up better against ice and milk. The same jar size covers a long trip.\n\nChoose it if you like a strong iced coffee at camp. It suits milk-based drinks.",
     "specs": [
       "3.5 oz jar, up to 50 cups",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41kZViaOxAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01HGBAJMY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01HGBAJMY?tag=rvgearlab-amz-20",
     "description": "NESCAFE Taster's Choice House Blend comes in 12 boxes of single-serve packets, 72 packets in all, described as a light to medium roast. Each packet makes one cup.\n\nIt is the biggest supply here and the most convenient for groups. The packets are easy to share.\n\nChoose it for a long trip or a group. It works hot or over ice.",
     "specs": [
       "72 single-serve packets",

@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51D+GMkCQmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DZ615G3G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DZ615G3G?tag=rvgearlab-amz-20",
     "description": "The VEVOR 3.5 GPM is a 12V diaphragm pump with an adjustable pressure switch from 40 to 80 PSI. It lists 3.5 GPM open flow, self-priming, overload protection, sealing tape and a smooth low-noise motor.\n\nIts 40 PSI floor is the lowest stated setting on the list, which lets you run at 40 PSI where the fixed 45 PSI pumps cannot. It carries more flow than the HVHF VEVOR 3GPM at a similar price.\n\nA good fit for owners who want to dial pressure down to 40 PSI. The adjustable switch also leaves room to raise it later.",
     "specs": [
       "3.5 GPM, 12V DC",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41lNfM74obL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DK8RHVHF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DK8RHVHF?tag=rvgearlab-amz-20",
     "description": "The VEVOR 3GPM is a four-chamber 12V pump delivering 3.0 GPM at a steady 55 PSI with a switch that adjusts between 40 and 100 PSI. Certification marks CE and ROHS appear next to a copper motor and heat cutoffs.\n\nIt offers the widest adjustment on the list, from 40 up to 100 PSI, with a default above 40. It costs less than the 3.5 GPM VEVOR.\n\nA fit for owners who like control over pressure and want a four-chamber pump. The certification marks are named.",
     "specs": [
       "3.0 GPM, 4-chamber, 12V",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41EEynALAcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BFB1FMKV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BFB1FMKV?tag=rvgearlab-amz-20",
     "description": "The WASSERMANN 4.0 is a 12V self-priming pump rated 4.0 GPM at 45 PSI with a pressure switch. Inside the box are a pair of 1/2 inch barb adaptors, one male-thread adaptor and a debris filter.\n\nIt is the highest-flow 12V pump here that shuts off at 45 PSI, five PSI above the 40 target. The kit contents give it the fittings advantage over the DICMIC.\n\nRight for buyers who want a ready-to-plumb pump at a mild 45 PSI. The pressure switch keeps it on demand.",
     "specs": [
       "4.0 GPM at 45 PSI",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41WaUd4BOUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F59ZG947?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F59ZG947?tag=rvgearlab-amz-20",
     "description": "The DICMIC is a 12V self-priming diaphragm pump at 4.0 GPM and 45 PSI with a one-piece diaphragm and built-in design. Thermal protection and dry-run capability are listed.\n\nIt matches the WASSERMANN 4.0 on flow and pressure and costs a bit less and ships with a thinner fittings list. The one-piece diaphragm aims at long life.\n\nRight for buyers who want a no-frills 12V pump close to 40 PSI. The thermal protection suits hot installs.",
     "specs": [
       "4.0 GPM, 45 PSI, 12V DC",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Vzl2aQZPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F6T6HK7M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F6T6HK7M?tag=rvgearlab-amz-20",
     "description": "The Heuyrao is a 110V AC three-chamber pump rated 4.0 GPM at a steady 45 PSI, starting only when a tap opens. A pure copper motor, CE certification and short run-dry capability are listed.\n\nIt is the only AC pump in the group, which suits hookup use where the 12V picks would draw battery. It runs at a mild 45 PSI like the WASSERMANN.\n\nA fit for owners who stay on shore power. It plugs in without any 12V wiring.",
     "specs": [
       "110V AC, 4.0 GPM, 45 PSI",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41iH4zVTaOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G2KXGXJS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G2KXGXJS?tag=rvgearlab-amz-20",
     "description": "The MRGVFLO is a 12V, 45 PSI pump rated at 3.5 GPM and sold to replace 2088-554-144 and 2088-403-144 pumps. It has a smart pressure switch, ABS plastic and stainless steel components and 12V battery compatibility.\n\nIt names two OEM numbers, a rare feature, and sits at the lowest flow among the 45 PSI pumps. It costs less than the WASSERMANN 4.0.\n\nA good fit for owners swapping a 2088 series pump. The stated numbers make matching straightforward.",
     "specs": [
       "3.5 GPM at 45 PSI",

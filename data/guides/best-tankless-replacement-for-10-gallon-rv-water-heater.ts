@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zGYdKy8lL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B098THLN39?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B098THLN39?tag=rvgearlab-amz-20",
     "description": "FOGATTI InstaShower 8 Plus is a 55,000 BTU propane tankless heater with a stated 2.9 GPM maximum. The listing says it fits a 13 by 13 inch opening and includes a built-in pressure relief valve, a 15 inch door and a 2 meter remote, with a high-altitude mode to 9,800 feet.\n\nAgainst Suburban ST-60, it includes the door and remote. Against RVPart Pro, it states altitude and a complete kit.\n\nIt is the best match for owners swapping a 10 gallon tank who want the door and remote included. Buyers focused on complete swap kits will find it a sensible match.",
     "specs": [
       "55,000 BTU propane tankless",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41BKWxxQd0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CRBLZSQ4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CRBLZSQ4?tag=rvgearlab-amz-20",
     "description": "Suburban ST-60 is a 60,000 BTU propane tankless heater with flame-out protection, a high-temperature kill switch and a child lock that limits outlet temperature to 113 degrees F. The listing says it has freeze protection and only engages the burners when water is needed.\n\nAgainst FOGATTI InstaShower 8 Plus, it lists a child lock and scald protection. Against RVPart Pro, it is a Suburban brand unit.\n\nIt suits families with children who want stated scald protection. It earns its slot for families with children.",
     "specs": [
       "60,000 BTU propane tankless",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41HtBz3Z4pL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GHQ6MG61?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GHQ6MG61?tag=rvgearlab-amz-20",
     "description": "RVPart Pro is a 60,000 BTU propane tankless heater with 12 volt DC power and a stated flow of up to 3.5 GPM. The listing says it is a drop-in for Suburban and Atwood heaters, has a 150 PSI pressure reducing valve and fits 15 by 15, 15 by 18 and 18 by 18 inch doors with a 13 by 13 inch opening.\n\nAgainst Suburban ST-60, it lists a high-altitude mode and a pressure reducer. Against FOGATTI InstaShower 8 Plus, it has more burner at a lower price.\n\nIt suits owners who want a lower-cost drop-in. It is a natural fit for value drop-in swaps.",
     "specs": [
       "60,000 BTU, 12V DC",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41gz6Y1fPEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CRZ65LXJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CRZ65LXJ?tag=rvgearlab-amz-20",
     "description": "VYH H98-510-S is a tankless water heater inlet filter screen for Rinnai units, measuring 0.94 by 1.8 by 0.78 inches. The listing says to replace it about every 2 to 3 months.\n\nAgainst the RV heaters, it is a small repair part. Against VYH Filter B, it is the lower-cost listing.\n\nIt is included only because it appears in this search, and it suits Rinnai owners. Think of it as the pick for rinnai owners.",
     "specs": [
       "Rinnai inlet filter screen",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41QxgB7H2bL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FHH4Y5VZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FHH4Y5VZ?tag=rvgearlab-amz-20",
     "description": "VYH H98-510-S kit is a tankless inlet filter screen set for Rinnai units. The listing says to replace the screens about every 2 to 3 months to restore performance.\n\nAgainst VYH Filter A, it is the higher-priced listing of the same part. Against the RV heaters, it is a repair part.\n\nIt suits Rinnai owners who want the part. Buyers focused on rinnai owners will find it a sensible match.",
     "specs": [
       "Rinnai inlet filter kit",

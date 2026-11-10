@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51TzXnSbGFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GXVRB21M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GXVRB21M?tag=rvgearlab-amz-20",
     "description": "The ELECAENTA UT-80H is an 80W panel with HPBC cells listed at 25.4% conversion, and it weighs only 2.58 lbs. It adds DC, USB-C and USB-A QC3.0 outputs, plus carabiners and a 3-in-1 cable with adapters.\n\nAgainst the MHPOWOS it is far lighter and lists a higher efficiency, which is the real separator in the 80W group. Compared with the Yosoo it adds the USB-C port and an IP68 laminate.\n\nIt suits campers and backpackers who want the best watts per pound. The 60W USB-C output can feed phones, tablets and many laptops.",
     "specs": [
       "80W HPBC, 25.4% conversion",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41VXP8HkOfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DR1YXSXQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DR1YXSXQ?tag=rvgearlab-amz-20",
     "description": "The MHPOWOS 80W offers one 5A DC output alongside USB-C and USB-A sockets on a 5.89 lb panel that folds to 12.5 by 9.6 by 2.5 inches. It lists 23% ETFE conversion and an IP65 rating, with a 5-in-1 connector for small power stations.\n\nIt weighs more than twice the ELECAENTA and offers a more complete accessory pack, including four carabiners and a 2-in-1 USB cable. Against the Yosoo it adds USB-C and a connector set for XT60 and DC plugs.\n\nIt fits campers who charge a phone, an iPad, a drone or a small fridge-class station from one panel. A 12-month warranty comes with it.",
     "specs": [
       "80W, 23% ETFE panel",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51jawbTw2DL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F1N7YW21?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F1N7YW21?tag=rvgearlab-amz-20",
     "description": "The Yosoo is an 80W monocrystalline folding panel with dual USB output, a built-in voltage regulator and safety protection against overcharge, overdischarge and short circuit. It uses an ETFE folding-bag design for easy carry.\n\nIt is the lowest priced 80W listing here and the only one that names a built-in voltage regulator. Compared with the MHPOWOS, it drops the USB-C port and the connector variety.\n\nIt suits campers who want a plain 80W panel for 12V and 5V devices at a low cost. Dual USB outputs let you charge two devices at once.",
     "specs": [
       "80W monocrystalline ETFE",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51xBYD2q7uL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F8B2CV88?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F8B2CV88?tag=rvgearlab-amz-20",
     "description": "The SOLUPUP is a 100W panel, so it is a step up from 80W, with 24% efficiency cells and an 8-fold design. It folds to 14 by 10 by 2.8 inches, includes a carry bag and three button kickstands, and ships with MC4-to-XT60, Anderson, DC5521 and DC7909 connectors.\n\nIt offers 20W more peak output than the 80W picks while staying a single briefcase-sized panel. Compared with the ELECAENTA it adds the MC4 output and wider power-station coverage, and it drops the USB ports.\n\nIt suits buyers who find 80W too tight and want a 300W to 500Wh power station filled faster. The listing names a 500Wh station charge claim under optimal sun.",
     "specs": [
       "100W, 24% efficiency",

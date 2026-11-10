@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41GBQtOgVUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GVMN41Y8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GVMN41Y8?tag=rvgearlab-amz-20",
     "description": "The SUITSER Heel Cuff is a women's sport hiking water sandal with a padded heel cuff, a soft EVA yoga-mat insole and a textured non-slip outsole. Hook-and-loop back straps adjust the fit and the arch support helps with walking.\n\nIt costs about $18, around $2 less than the YOCCI Padded Strap, and the padded heel cuff cushions each step and cuts friction. Both pairs share the same type of insole, and the SUITSER Heel Cuff also wraps the heel with an additional padded collar.\n\nIt suits hikers and campers who get heel blisters in cheap sandals and want a softer fit. It dries quickly after creek crossings.",
     "specs": [
       "Padded heel cuff",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31xQDm+-5xL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09PYFJW53?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09PYFJW53?tag=rvgearlab-amz-20",
     "description": "The YOCCI Padded Strap is a women's sport hiking sandal with padded heel straps, an EVA yoga-mat insole and a skid-resistant rubber outsole. Hook-and-loop straps make it quick to adjust and the arch support helps control the foot.\n\nIt costs about $20, the top of the range, and padded heel straps limit chafing without the full cuff of the SUITSER Heel Cuff. The textured outsole grips wet rock slightly better than the flat tread of the Hiking Sport Slides.\n\nIt suits women who want an all-purpose sandal for walks, camps and pools. It is a sensible first pair of hiking sandals.",
     "specs": [
       "Padded heel straps",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4139s4qN1ZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GTVFR5N6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GTVFR5N6?tag=rvgearlab-amz-20",
     "description": "The YYNUDA Arch Support is a women's flat hiking sandal with a cushioned footbed, arch support, multiple adjustable straps and a quick-dry breathable build. The traction outsole suits both urban walks and trail use.\n\nIt costs about $18, close to the SUITSER Heel Cuff, and it is the one pair here that lists multiple strap adjustment points for dialing in the fit. The flat profile keeps it low and light, which suits beach walks and travel.\n\nIt suits women with higher arches who want to adjust fit across the forefoot and ankle. It transitions from trail to casual use.",
     "specs": [
       "Cushioned footbed, arch support",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41DJ-Ho8-tL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GXHQM5JY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GXHQM5JY?tag=rvgearlab-amz-20",
     "description": "The Hiking Sport Slides are women's open-toe sandals with a cushioned EVA footbed, adjustable hook-and-loop straps with a back strap and a textured rubber outsole. The flexible sporty sole bends naturally with the foot.\n\nIt costs about $20, the same as the YOCCI Padded Strap, and it has a slide front that slips on faster than the strapped pairs. The back strap gives it the secure fit of a sandal, unlike a standard slide.\n\nIt suits campers who need a quick-on shoe for the campground shower and short walks. It dresses up with shorts or leggings.",
     "specs": [
       "Cushioned EVA footbed",

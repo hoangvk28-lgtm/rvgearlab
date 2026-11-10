@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31+Noo9CT5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F2M7JJKQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F2M7JJKQ?tag=rvgearlab-amz-20",
     "description": "The Zoofly Vented Cargo pairs an 88/12 nylon-spandex fabric with a DuPont Teflon coating and UPF 50+ protection. Inner mesh with two ventilation ports, 3D articulated knees, a gusseted crotch and six large pockets complete the cut.\n\nCompared with the ATG Cliffside, it adds venting and a higher UPF rating. Against the Libin Water-Resistant, it names its coating and gives a fuller build.\n\nIt suits men who want one all-weather, all-season pair that also looks decent at work. Hidden side zippers keep the front of the pants clean.",
     "specs": [
       "88% nylon, 12% spandex",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/318HW9CTdZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07T5FS79L?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07T5FS79L?tag=rvgearlab-amz-20",
     "description": "The ATG Cliffside Utility is a straight-leg synthetic utility pant with a water-repellent finish, quick-drying fabric and UPF 30 protection. A gusseted crotch, a reinforced kickplate and a zip utility pocket round out the features.\n\nCompared with the Zoofly Vented Cargo, it comes from a known work-wear brand and trades vents for a regular, comfortable seat. Next to the Libin Water-Resistant, it adds a reinforced kickplate.\n\nIt suits men who want a tough, simple pair for hiking, climbing and camp chores. The straight leg fits over boots.",
     "specs": [
       "UPF 30 protection",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31xaRkgo4ZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FQJ5RMDY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FQJ5RMDY?tag=rvgearlab-amz-20",
     "description": "The Libin Water-Resistant uses lightweight 4-way stretch fabric with water-resistant and stain-resistant functions. It comes in 30, 32 and 34-inch inseams and has four pockets, an elastic waist, a zipper fly and a D-ring buckle.\n\nNext to the Zoofly Vented Cargo, it gives up venting and UPF details for lower cost. Compared with the Zalify, it offers more inseam choices.\n\nIt suits tall or short men who struggle with one-length pants. The D-ring clips small gear.",
     "specs": [
       "4-way stretch fabric",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31w6wJzWGkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FBGMGQJN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FBGMGQJN?tag=rvgearlab-amz-20",
     "description": "The Zalify Cargo is made from 88 percent nylon and 12 percent elastane with water-resistant, UPF 50+ fabric. Six cargo pockets, articulated knees and a partial elastic waist with a utility belt complete the design.\n\nIt matches the Zoofly Vented Cargo on pocket count and UPF while costing about half as much. Compared with the Libin Water-Resistant, it offers more storage and fewer length choices.\n\nIt suits men who want a lot of pockets and a stated UPF rating for the least money. Velcro and zip pockets keep gear tidy.",
     "specs": [
       "88% nylon, 12% elastane",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31D1bSejxkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D9N474CL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D9N474CL?tag=rvgearlab-amz-20",
     "description": "The Cycorld Roll-Up Ripstop uses ripstop nylon and spandex with a water-resistant treatment, a pleated knee and seven pockets. Inner snap straps let you roll the legs up to capri length for stream crossings.\n\nAgainst the Zalify Cargo, it has tougher ripstop and a roll-up feature for warm days. It costs about the same as the Zalify.\n\nIt suits men who cross streams or want shorter legs on hot afternoons. The seven pockets hold a phone, wallet and map.",
     "specs": [
       "Ripstop nylon and spandex",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31gGMe+Z1ML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FR4FJGDR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FR4FJGDR?tag=rvgearlab-amz-20",
     "description": "The Libin Straight-Leg is a water-resistant nylon pant with UPF 50+ protection, 3D knee tailoring and six pockets including two back pockets. An elastic waist with belt loops and a straight-leg cut come in 30, 32 and 34-inch inseams.\n\nIt is the cheapest pair in the group by a clear margin. Compared with the Libin Water-Resistant, it adds a stated UPF rating at a lower price.\n\nIt suits men who want a very inexpensive pair for casual hikes. Stretchy, soft nylon makes it comfortable.",
     "specs": [
       "UPF 50+ water-resistant nylon",

@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51FI8-VdBTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DNW39T4V?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DNW39T4V?tag=rvgearlab-amz-20",
     "description": "The Sunivora lists 5,000 watts of continuous pure sine wave output and 10,000 watts of peak power, with four AC outlets, a 5V 4A USB port and a hardwired terminal block for high loads. A wireless remote works from up to 165 feet, an LCD shows input and output voltage, and built-in protections cover undervoltage, overvoltage, overload, overheating, short circuit and reverse polarity. The case is aluminum.\n\nIt ranks first because it states the waveform and the 5,000 continuous rating clearly at $279.99, which is $116 less than the LVYUAN pure sine unit that lists the same output. It costs $30 more than the LVYUAN 249.99 and $40.09 more than the modified sine VEVOR, and for that money it names pure sine wave, which the cheaper units do not.\n\nPick it if you have a 12V battery bank that can supply several hundred amps and you want clean power for electronics and a microwave. The caveat is that a listing does not tell you the cable gauge or fuse size, so check the manual before ordering the cabling.",
     "specs": [
       "5,000W continuous pure sine",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51VlwmG7uxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DPG7GHVG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DPG7GHVG?tag=rvgearlab-amz-20",
     "description": "The LVYUAN pure sine unit lists true 5,000 watts continuous and 10,000 watts peak, four US outlets, a USB port and a hardwire port. It comes with a 3-in-1 LCD remote that works wired or wireless, though the listing notes only one of the two can be used at a time, plus heavy-duty combined cables, an aluminum body and protections for over and under voltage, overload, short circuit, overheat and reverse polarity, along with leakage protection.\n\nIt ranks second because it costs $395.99, which is $116 more than the Sunivora for the same stated output. The difference is the included heavy-duty cabling and the wired option on the remote. Against the LVYUAN 249.99 it adds a stated pure sine wave for $146.\n\nChoose it if you want the cabling in the box and the choice of a wired remote. The caveat is the price premium, which only makes sense if you were going to buy cabling separately anyway.",
     "specs": [
       "5,000W continuous pure sine",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41pYoQAIvPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CTHGSYCY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CTHGSYCY?tag=rvgearlab-amz-20",
     "description": "This LVYUAN lists 5,000 watts continuous and 10,000 watts peak, four AC sockets plus a hardwire terminal, a real-time LCD for voltage, battery level and load, a wireless remote, and a cooling fan that the listing says runs only when internal temperature passes 104°F (40°C) or load passes 45 percent. The listing does not state the waveform.\n\nIt ranks third at $249.99, which is $30 below the Sunivora and $146 below the LVYUAN pure sine. Without a stated pure sine wave, you should treat the waveform as unconfirmed, and it sits above the TOPBULL because it publishes the fan thresholds.\n\nPick it if the price matters and you will confirm pure sine output with the seller before connecting sensitive electronics. The caveat is exactly that unconfirmed waveform, so keep motors and electronics off it until you know.",
     "specs": [
       "5,000W continuous, 10,000W peak",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/510Vae0wh+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GCFKQ4X4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GCFKQ4X4?tag=rvgearlab-amz-20",
     "description": "The TOPBULL lists a continuous 5,000 watts and 10,000 watts of peak power, a high-definition color display showing voltage, power and working state, a remote control, and ten stated protections including low voltage, high voltage, overload and short circuit. The listing says it uses high-frequency transformers and pure copper flexible cables. The waveform is not stated.\n\nIt ranks fourth at $249.99, the same price as the LVYUAN 249.99, and $30 below the Sunivora. Compared with the LVYUAN 249.99 it has a more detailed display, but that listing publishes fan thresholds and outlet count that this one does not.\n\nChoose it if you want the clearest status display at a budget price. The caveat is that outlet count and waveform are not stated, so ask the seller before buying.",
     "specs": [
       "5,000W continuous, 10,000W peak",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51K7WmCpu8S._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09D2SD1XB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09D2SD1XB?tag=rvgearlab-amz-20",
     "description": "The VEVOR is a modified sine wave inverter that lists 5,000 watts continuous and 10,000 watts peak, an aluminum alloy shell, a remote controller with LCD, a temperature-controlled cooling fan and protections for the battery and appliances. It costs $239.90, the lowest here.\n\nIt ranks last because modified sine wave output is rougher than pure sine, so it is the wrong choice for many electronics. It costs $40.09 less than the Sunivora, which is the whole argument for it, and $10.09 less than the LVYUAN 249.99 and TOPBULL.\n\nPick it only for simple resistive loads and tools you know tolerate modified sine. The caveat is that sensitive electronics, some microwaves and variable speed motors can run hot or buzz on this waveform.",
     "specs": [
       "5,000W modified sine wave",

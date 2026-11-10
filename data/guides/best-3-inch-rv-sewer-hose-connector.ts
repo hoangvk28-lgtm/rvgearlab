@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31rMi3SZdOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B38SG9FR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B38SG9FR?tag=rvgearlab-amz-20",
     "description": "The TonGass combo pack includes a rotating rigid pipe adapter and a termination adapter in black. Its listing says the rotating adapter is a standard 3 inch waste outlet piece and the termination adapter has a nub end for a 3 inch twist-on connection.\n\nIt gives two parts for a low price. The Shinymoon kit is aimed at PVC conversion instead.\n\nIt fits owners who want rotating and termination pieces together. In 3 inch rv sewer hose connector, rotating and termination parts is its lane.",
     "specs": [
       "2-piece 3 in adapter set",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41LNP1HlCAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GXD56R7Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GXD56R7Q?tag=rvgearlab-amz-20",
     "description": "The Shinymoon kit is a 2 piece 3 inch bayonet to PVC pipe connection kit. Its listing says it converts flexible RV sewer hose to rigid PVC and fits most RV sewer hose kits.\n\nIt is the only kit here designed for hose to PVC. It costs a bit more than TonGass.\n\nIt fits owners with a fixed PVC drain line. Under 3 inch rv sewer hose connector, expect pVC drain lines to suit it.",
     "specs": [
       "3 in bayonet to PVC",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41232FyzcSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B002OUIXU8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B002OUIXU8?tag=rvgearlab-amz-20",
     "description": "The Camco RhinoFLEX wye connects two sewer hose assemblies to one dump station. It has 360 degree swivel ends, two bayonet fittings and built-in gaskets for odor-tight connections.\n\nIt is the only wye here. It costs less than the PVC kit.\n\nIt fits owners with two tanks or hoses. For 3 inch rv sewer hose connector, it suits dual-hose dumping.",
     "specs": [
       "Wye for two hoses",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41dYAOJJ85L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0006N5RXQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0006N5RXQ?tag=rvgearlab-amz-20",
     "description": "The Valterra T1024 is a 3 inch straight black adapter that extends drain hose connections to more convenient positions. Its listing says it has reinforced ears and includes a seal for leak-proof connections.\n\nIt is the cheapest here. It is a simple straight piece.\n\nIt fits owners who need a short extension. Under 3 inch rv sewer hose connector, expect short extensions to suit it.",
     "specs": [
       "3 in straight adapter",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31qI10JMTGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00JJXEJZ6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00JJXEJZ6?tag=rvgearlab-amz-20",
     "description": "The Danco 3 inch non-threaded coupler is built for mobile homes and RVs. Its listing says it has durable construction and a 3 inch diameter.\n\nIt is a basic coupler for non-threaded joins. It costs a little more than Valterra.\n\nIt fits owners who need a plain 3 inch coupler. On 3 inch rv sewer hose connector, plain couplers is where it fits.",
     "specs": [
       "3 in non-threaded coupler",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Vx1XTle-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D9QH7JVW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D9QH7JVW?tag=rvgearlab-amz-20",
     "description": "The TagRecove 2 piece wrench set provides leverage to connect and disconnect sewer hose fittings. Its listing says it is made of ABS plastic with an interlocking design and curved offset.\n\nIt is a tool, not a connector. It costs the same as the cheapest fitting.\n\nIt fits owners with stiff bayonet fittings. With 3 inch rv sewer hose connector, tight bayonet fittings fits it best.",
     "specs": [
       "2 piece ABS wrench set",

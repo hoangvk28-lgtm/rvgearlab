@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/318QGKjYuYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B002XM5G70?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B002XM5G70?tag=rvgearlab-amz-20",
     "description": "The SHURFLO Revolution 4008-101-E65 is a 12V pump rated 3.0 GPM at 55 PSI with an internal bypass. Its listing highlights quiet operation, run dry protection and steadier pressure with fewer on-off cycles.\n\nAgainst the PowerMax 3.0 and Valterra Hydromax, it sits at the same flow and pressure, and its listing leans hardest on bypass-driven cycling reduction. The 4008 series is the footprint many RV makers specify, so it fits most factory bays.\n\nIt is the safe default for owners who want the name most RV technicians recognize. The matching 55 PSI shut-off suits standard camper plumbing.",
     "specs": [
       "3.0 GPM at 55 PSI",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41RexXi4k5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01CQ7DD0S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01CQ7DD0S?tag=rvgearlab-amz-20",
     "description": "The SEAFLO 42 Series (SFDP1-030-055-42) lists 3.0 GPM at 55 PSI, a 7.0A maximum draw and 6 foot self-priming. It names EPDM valves and a Santoprene diaphragm and is covered by a 4-year limited warranty.\n\nNo other pump in this group spells out its amp draw, valve material and diaphragm material, and it is the only one that cites NSF/ANSI/CAN 61 and 372 plus NSF 24 and UL 778. That paperwork places it ahead of the generic 4008-style replacements.\n\nA strong fit for full-timers who want potable water documentation and a long warranty. The 7.0A draw also makes wire and fuse planning straightforward.",
     "specs": [
       "3.0 GPM, 55 PSI, 7.0A max",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41oBx6rKRpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B071G3VLBY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B071G3VLBY?tag=rvgearlab-amz-20",
     "description": "The Valterra Hydromax is a 3 GPM, 55 PSI RV fresh water pump with an internal bypass for low cycling, a built-in check valve and thermal overload protection. It is described as self-priming.\n\nCompared with the SHURFLO Revolution, it matches flow and pressure and adds a stated check valve, which keeps the line from draining back toward the tank. It runs a little cheaper than the SHURFLO and costs more than the generic models.\n\nA good option for owners who value a branded pump with a clear feature list. The thermal overload protection also guards the motor on a hot day.",
     "specs": [
       "3 GPM, 55 PSI",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41GRaGBBDqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CQ9VGBQR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CQ9VGBQR?tag=rvgearlab-amz-20",
     "description": "The PowerMax 4008-101-A65 is a 12V pump listed at 3.0 GPM and 55 PSI with a built-in pressure switch that starts and stops the pump as taps open and close. Its diaphragm design is aimed at reducing vibration.\n\nIt copies the same part number as the SHURFLO Revolution family at a lower price, trading that brand's detailed marketing for a plainer listing. The self-priming design helps with easier installation in campers and trailers.\n\nA practical choice for owners swapping an A65-style pump on a budget. The familiar footprint means existing plumbing usually lines up.",
     "specs": [
       "3.0 GPM at 55 PSI",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/412HTQGLg2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F9964HJ1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F9964HJ1?tag=rvgearlab-amz-20",
     "description": "The Jack Boss is a 12V, 3.0 GPM pump rated 45 PSI with 6.5 foot vertical self-priming and a pressure switch. The box holds a filter, two 1/2 inch barbed adaptors, two male thread adaptors, two clamps and tape.\n\nWhere the 55 PSI pumps here match 4008-series footprints, this one runs at 45 PSI and spends its value on a generous parts bundle. Its overload protection and sealing tape are also noted.\n\nA fit for owners who want everything needed to connect the pump in the box. The lower 45 PSI shut-off is easier on older fittings.",
     "specs": [
       "3.0 GPM, 45 PSI",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41-b0wvH0yL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07DQT1FVZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07DQT1FVZ?tag=rvgearlab-amz-20",
     "description": "The SEAFLO 33 Series (SFDP1-030-045-33) is a 12V pump rated 3.0 GPM with a 45 PSI shut-off and a 3-chamber diaphragm. It ships with a 51S01 filter and two 1/2 inch FNPT to barb fittings, and the listing says it can supply up to 4 fixtures.\n\nAgainst the SEAFLO 42, it lowers shut-off pressure from 55 to 45 PSI and trims the price, and it gives up the longer 4-year warranty angle of the 42. The 3-chamber design is aimed at smoother flow.\n\nA fine pick for lighter-use campers and older plumbing that prefers gentler pressure. Its included filter and fittings keep the install simple.",
     "specs": [
       "3.0 GPM, 45 PSI",

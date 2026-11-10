@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41RXoRrffEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C61DWMJC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C61DWMJC?tag=rvgearlab-amz-20",
     "description": "The COFACE Orthopedic Thong has a vegan leather strap and a premium arch design with thick cushion foam. The listing describes a bionic orthopedic arch and a memory foam EVA yoga-mat footbed, plus heel cup cushioning for stability and an adjustable buckle to set the band width.\n\nCompared with the COFACE Cloth-Strap Thong, it adds a buckle for adjusting the band and a heel cup. Against the Goosecret Platform Slides, it keeps the foot secured with a toe post instead of a slide upper.\n\nIt is the most complete arch-support thong in the group for women who want adjustability and a dressy look. The listing also notes non-slip rubber with a textured tread.",
     "specs": [
       "Bionic orthopedic arch design",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/419SOs-9dIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08XX645D5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08XX645D5?tag=rvgearlab-amz-20",
     "description": "The KuaiLu Orthotic Thong is a leather-strap thong with a woven print and a widened strap. The listing names a thick cushioned sole and contoured arch support, and it mentions plantar fasciitis directly alongside arch pain.\n\nNext to the COFACE Orthopedic Thong, it drops the adjustable buckle for a simple slip-on thong. Against the ONCAI Leather Thong, it comes with a more textured strap and a stated waterproof, non-slip rubber sole.\n\nIt suits women who want a classic orthotic flip-flop for walking, boating and beach days. A soft yoga-mat insole is named for easy slip-on wear.",
     "specs": [
       "Thick cushioned contoured sole",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31PztizNCLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BZ7K2R1S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BZ7K2R1S?tag=rvgearlab-amz-20",
     "description": "The Goosecret Platform Slides combine a soft pillow footbed with arch support and a deep heel cup under double adjustable buckle straps. The 1.6 inch EVA platform is described as bouncy and cushioned, and the whole pair weighs only about 0.33 pounds.\n\nCompared with the COFACE Orthopedic Thong, it covers the top of the foot and avoids a toe post. Against the ONCAI Leather Thong, it offers a much thicker, cushier sole.\n\nIt suits women who dislike thongs and want a thick, plush slide for walking around the house or outside. The listing says it is easy to clean and carry on vacation.",
     "specs": [
       "Pillow footbed, deep heel cup",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41dEeon5zSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7V88NLG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7V88NLG?tag=rvgearlab-amz-20",
     "description": "The KuaiLu Bow Thong has a soft cloth bow strap and a memory foam EVA yoga-mat footbed with comfort arch support. A deep-textured rubber sole adds grip, and the listing names resort, cruise and sundress use.\n\nCompared with the KuaiLu Orthotic Thong, it trades the leather strap and plantar fasciitis wording for a bow and a more casual feel. Against the COFACE Cloth-Strap Thong, it is the dressier option.\n\nIt suits women who want arch support that still dresses up for travel. The listing says the sandal relaxes the feet and eases walking fatigue.",
     "specs": [
       "Memory foam EVA yoga-mat footbed",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41FJKoaWL7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D2292JM9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D2292JM9?tag=rvgearlab-amz-20",
     "description": "The ONCAI Leather Thong lists arch support, a microfiber leather upper that is durable and water-resistant, a yoga-mat footbed for cushioning and a rubber sole for grip on wet surfaces. Comfortable straps keep the foot in place with a customized fit.\n\nNext to the KuaiLu Orthotic Thong, it is a simpler build with a similar yoga-mat footbed. Against the COFACE Cloth-Strap Thong, it uses a leather-look strap rather than cloth.\n\nIt suits women who want a dressy leather-look thong without a high price. The listing frames arch support as helpful for walking.",
     "specs": [
       "Microfiber leather upper",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41kwUQTWpQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D1JWDVJ9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D1JWDVJ9?tag=rvgearlab-amz-20",
     "description": "The COFACE Cloth-Strap Thong has wide, soft thong cloth straps and a multilayer high-density memory foam footbed. The listing says the arch support suits flat feet and plantar fasciitis, and it names a 2.5 cm anti-slip rubber outsole.\n\nCompared with the COFACE Orthopedic Thong, it drops the buckle and leather-look strap for a lower price. Against the KuaiLu Bow Thong, it is less dressy and focused on comfort.\n\nIt suits women who want the lowest-priced option here, including for hotel, spa and indoor use. The listing names many indoor and outdoor settings.",
     "specs": [
       "Multilayer memory foam footbed",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41TrXM3L7lL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DB67KH4P?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DB67KH4P?tag=rvgearlab-amz-20",
     "description": "The Energizer S-500 runs on 3 AA batteries or a solar-rechargeable lithium-ion battery that also charges over USB. It lists up to 500 lumens of 360 degree light on High with the rechargeable battery, plus Low and Night Light modes.\n\nIt has the most light of the five, far above the 300 lumens of the DIBMS 2-Pack and the 200 lumens of the LuminAID Max. The AA fallback means it keeps working when the sun is not, which the Solis Convene and BioLite Luci Original cannot do.\n\nIt suits car campers and outage kits that want a bright collapsible lantern with a battery safety net. A handle and bottom hook cover carrying and hanging.",
     "specs": [
       "500 lumens on High",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41IMDDa7SqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CHJ4RCLF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CHJ4RCLF?tag=rvgearlab-amz-20",
     "description": "The DIBMS pair uses six LED chips for a stated 300 lumens each, with a pull-up collapsible design that works as a lantern or table lamp. A 1600mAh battery charges by USB in about 4 hours (cable included) or by solar in 9 hours of direct sun.\n\nIt states more light than the LuminAID Max and costs far less per lantern than the Energizer S-500 Hybrid. Each unit weighs 8.02 ounces and is rated IPX4.\n\nIt suits families and cabins that want a collapsible lantern for each room or tent. The pair can be set across a site or kept as a backup set.",
     "specs": [
       "300 lumens, 1600mAh",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31NibOTsqfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CVYMMHJ4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CVYMMHJ4?tag=rvgearlab-amz-20",
     "description": "The LuminAID Max is an expandable solar lantern and phone charger, listed at 200 lumens with a Turbo mode. It has a 5V 2.1A output that charges most phones from 75 to 100 percent, weighs under 10 ounces and carries an IP67 rating.\n\nIt is the only pick here that doubles as a backup battery for phones, which sets it apart from the BioLite Luci Original and Solis Convene. It also states a rating two steps above the IPX4 of the DIBMS 2-Pack.\n\nIt suits backpackers and travelers who want a lantern that also charges a phone. Full solar recharge takes 16 to 20 hours of direct sunlight.",
     "specs": [
       "200 lumens, Turbo mode",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31LYL67kJDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DTM36WPB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DTM36WPB?tag=rvgearlab-amz-20",
     "description": "The BioLite Luci Original is an inflatable lantern with a 1000mAh lithium-ion battery that delivers up to 24 hours of light per charge. It gives up to 65 lumens of cool white light, weighs 4.4 ounces and collapses to 1 inch.\n\nIt is the smallest folded size of the five, well under the Energizer S-500 Hybrid and the DIBMS 2-Pack. It also carries an IP67 rating and handles up to 150 pounds of pressure, which suits a rough pack.\n\nIt suits backpackers and kayakers who count every ounce. Solar or USB-C recharging keeps it flexible.",
     "specs": [
       "65 lumens, 24 hours",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41nXTiKdFzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C57HGB8C?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C57HGB8C?tag=rvgearlab-amz-20",
     "description": "The Solis Convene is a collapsible lantern made of composite rubber that passed a 10,000-time stretch and compression test. A 500mAh polymer lithium battery charges by a 0.25W solar panel or 5V Micro USB, and the body lists IP65 protection with three brightness levels.\n\nIt sits near the bottom on price and carries a stronger weather rating than the DIBMS 2-Pack. Its battery is the smallest here, which keeps it light.\n\nIt suits budget campers and kids who need a rugged, lightweight tent light. A top handle and single-touch control keep it simple.",
     "specs": [
       "500mAh, 0.25W solar panel",

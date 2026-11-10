@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41IzgoS3ixL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F22XTWLB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F22XTWLB?tag=rvgearlab-amz-20",
     "description": "The Sierra Madre thermal bivy is made from PET mylar that reflects 90% of body heat, weighs about 6 ounces on its listing and packs into a drawstring stuff sack. It is sold in packs of 1, 2 or 10, so one design covers a single kit or a group.\n\nIt is one of the few listings that states a weight and calls the bag durable and reusable, which the Zmoon and NovaMedic listings do not. The pack-of-10 option also suits groups and classrooms.\n\nIt fits hikers and drivers who want one dependable emergency layer in a pack or glove box. The drawstring stuff sack keeps repacking simple.",
     "specs": [
       "Reflects 90% of body heat",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51vClL5A6AL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01HGV8R50?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01HGV8R50?tag=rvgearlab-amz-20",
     "description": "The Leberna sack measures 84 x 36 inches, with a 21 inch wide head cover and a bright black strip on the edge for visibility. A 120 decibel whistle is included, and each pack weighs 2.8 oz (3.0 oz with the carry bag).\n\nIt beats the Sierra Madre on listed length and signaling features, and it also lists a head cover the Zmoon does not. Its 2.8 oz per bag is the lowest stated weight in this list.\n\nIt suits car kits and hiking packs where an alert tool counts as much as warmth. The two-pack size covers a couple.",
     "specs": [
       "84 x 36 inches, 2 pack",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41lR9wQvGUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H1Y1L2DQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H1Y1L2DQ?tag=rvgearlab-amz-20",
     "description": "The NovaMedic bivy is an 84 x 36 inch mylar sack sold as two individually packed bags. It folds small for glove boxes, bug-out bags and travel luggage, and it blocks wind and rain as a thermal layer.\n\nIt matches the Leberna on size and pack count, and it ranks lower because the listing names no whistle or head cover. It costs less than the Leberna and the Sierra Madre two-pack.\n\nIt fits budget-minded households that want two bags, one for the car and one for the pack. The simple design keeps the weight down.",
     "specs": [
       "84 x 36 inches",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41oJvyEjrZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07VLY4558?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07VLY4558?tag=rvgearlab-amz-20",
     "description": "The Zmoon bivy unfolds to 78 x 47 inches, a wider cut than the 36 inch bags, and its mylar foil reflects 95% of body heat. It comes with a small carry bag and is sold as a 2 pack or 4 pack.\n\nWidth is the point against the Sierra Madre and Leberna, which are longer and narrower, so larger campers can turn inside it. The 78 inch length is shorter than the 84 inch picks, which matters for tall users.\n\nIt suits hikers who want room to move, or a wrap that works as a blanket for two. The 4 pack suits family kits.",
     "specs": [
       "78 x 47 inches",
