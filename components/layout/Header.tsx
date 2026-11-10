@@ -38,7 +38,7 @@ export function Header() {
             alt=""
             width={96}
             height={96}
-            className="h-10 w-10 object-contain
+            className="h-10 w-10 object-contain rounded-md
               transition-transform duration-300 ease-out
               group-hover:scale-105 group-active:scale-95"
             priority

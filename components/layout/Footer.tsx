@@ -36,13 +36,13 @@ export async function Footer() {
                 alt=""
                 width={96}
                 height={96}
-                className="h-10 w-10 object-contain brightness-0 invert opacity-90 hover:opacity-100 transition-opacity"
+                className="h-10 w-10 object-contain rounded-md opacity-90 hover:opacity-100 transition-opacity"
               />
               <span
                 className="text-lg font-bold tracking-tight opacity-90"
                 style={{ fontFamily: "var(--font-display)", color: "var(--color-ink-inverse)" }}
               >
-                workcocoon
+                RV Gear Lab
               </span>
             </Link>
             <p className="text-sm text-ink-inverse/75 leading-relaxed max-w-xs">
