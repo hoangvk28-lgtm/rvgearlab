@@ -77,7 +77,7 @@ export const products: GuideProduct[] = [
     "id": "best-weight-distribution-hitch-for-400-lb-tongue-weight-3",
     "rank": 3,
     "badge": "Budget Alternative",
-    "name": "XtremepowerUS 1",
+    "name": "XtremepowerUS 1,000 lb Weight Distribution Hitch",
     "price": "$279.95",
     "rating": null,
     "reviews": null,

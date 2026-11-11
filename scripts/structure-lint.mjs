@@ -12,6 +12,7 @@
 // Rewrite the sentences it names; do not relax the thresholds.
 import fs from "node:fs";
 import path from "node:path";
+import { pathToFileURL } from "node:url";
 
 const MAX_OPENER = 2;   // uses of one 3-word opener per batch
 const MAX_SHARE = 0.15; // share of paragraphs one template family may occupy
@@ -60,9 +61,19 @@ if (args[0] === "--guides") {
 } else {
   const dir = args[0];
   if (!dir) { console.error("usage: structure-lint.mjs <dir> | --guides <slug>..."); process.exit(1); }
-  for (const f of fs.readdirSync(dir).filter((x) => x.endsWith(".json"))) {
-    const o = JSON.parse(fs.readFileSync(path.join(dir, f), "utf8"));
-    batch.push({ name: f.replace(/\.json$/, ""), texts: o.descAdd || o.faqA || o.htc ? textsFromPatch(o) : textsFromContent(o) });
+  const entries = fs.readdirSync(dir).filter((x) => x.endsWith(".json") || x.endsWith(".mjs"));
+  if (!entries.length) { console.error(`no .json or .mjs files in ${dir}`); process.exit(2); }
+  for (const f of entries) {
+    let o;
+    if (f.endsWith(".mjs")) {
+      o = (await import(pathToFileURL(path.resolve(dir, f)).href)).default;
+      // a gen-p2-batch content module: product paragraphs live in d[]
+      o = { ...o, products: (o.products || []).map((p) => ({ ...p, description: (p.d || []).join("\n\n") })),
+            introParagraphs: o.intro, buyingCriteria: o.buyingCriteria || o.criteria };
+    } else {
+      o = JSON.parse(fs.readFileSync(path.join(dir, f), "utf8"));
+    }
+    batch.push({ name: f.replace(/\.(json|mjs)$/, ""), texts: o.descAdd || o.faqA || o.htc ? textsFromPatch(o) : textsFromContent(o) });
   }
 }
 

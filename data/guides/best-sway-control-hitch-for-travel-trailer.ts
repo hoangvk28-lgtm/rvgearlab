@@ -21,7 +21,7 @@ export const products: GuideProduct[] = [
     "id": "best-sway-control-hitch-for-travel-trailer-1",
     "rank": 1,
     "badge": "Best Overall",
-    "name": "Camco Eaz-Lift Elite 1",
+    "name": "Camco Eaz-Lift Elite 1,000 lb Weight Distribution Hitch",
     "price": "$334.15",
     "rating": null,
     "reviews": null,

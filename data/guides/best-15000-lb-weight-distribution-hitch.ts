@@ -161,7 +161,7 @@ export const products: GuideProduct[] = [
     "id": "best-15000-lb-weight-distribution-hitch-6",
     "rank": 6,
     "badge": "Not Matched",
-    "name": "XtremepowerUS 1",
+    "name": "XtremepowerUS 1,000 lb Weight Distribution Hitch",
     "price": "$279.95",
     "rating": null,
     "reviews": null,

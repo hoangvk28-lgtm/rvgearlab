@@ -161,7 +161,7 @@ export const products: GuideProduct[] = [
     "id": "best-energy-efficient-rv-air-conditioner-6",
     "rank": 6,
     "badge": "Best Budget",
-    "name": "Frigidaire 5",
+    "name": "Frigidaire 5,000 BTU Window-Mounted Air Conditioner",
     "price": "$169.00",
     "rating": null,
     "reviews": null,

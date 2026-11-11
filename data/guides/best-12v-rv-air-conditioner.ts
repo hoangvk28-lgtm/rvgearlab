@@ -133,7 +133,7 @@ export const products: GuideProduct[] = [
     "id": "best-12v-rv-air-conditioner-5",
     "rank": 5,
     "badge": "Best Budget 12V Split",
-    "name": "Mini Split",
+    "name": "Mini Split RV Air Conditioner 12V AC Unit",
     "price": "$209.00",
     "rating": null,
     "reviews": null,

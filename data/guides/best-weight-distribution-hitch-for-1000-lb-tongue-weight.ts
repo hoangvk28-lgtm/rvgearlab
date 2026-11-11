@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     "id": "best-weight-distribution-hitch-for-1000-lb-tongue-weight-2",
     "rank": 2,
     "badge": "Round Bar Match",
-    "name": "YATON Weight Distribution Hitch 10",
+    "name": "YATON 10,000 lb Weight Distribution Hitch",
     "price": "$189.99",
     "rating": null,
     "reviews": null,

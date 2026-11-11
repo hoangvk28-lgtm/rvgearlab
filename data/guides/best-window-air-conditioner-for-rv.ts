@@ -104,7 +104,7 @@ export const products: GuideProduct[] = [
     "id": "best-window-air-conditioner-for-rv-4",
     "rank": 4,
     "badge": "Best 12V Split",
-    "name": "Mini Split",
+    "name": "Mini Split RV Air Conditioner 12V AC Unit",
     "price": "$209.00",
     "rating": null,
     "reviews": null,

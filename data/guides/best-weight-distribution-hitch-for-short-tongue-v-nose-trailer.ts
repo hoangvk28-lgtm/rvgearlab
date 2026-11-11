@@ -77,7 +77,7 @@ export const products: GuideProduct[] = [
     "id": "best-weight-distribution-hitch-for-short-tongue-v-nose-trailer-3",
     "rank": 3,
     "badge": "Clamp Sway Option",
-    "name": "Camco Eaz-Lift Elite 1",
+    "name": "Camco Eaz-Lift Elite 1,000 lb Weight Distribution Hitch",
     "price": "$334.15",
     "rating": null,
     "reviews": null,

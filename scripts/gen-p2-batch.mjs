@@ -13,7 +13,7 @@ if (statSync(process.argv[2]).isDirectory()) {
   }
 } else Object.assign(pool, JSON.parse(readFileSync(process.argv[2], "utf8")));
 const dir = resolve(process.argv[3]);
-const TAG = "hardcastlesrv-20";
+const TAG = "rvgearlab-amz-20";
 const byAsin = {};
 for (const items of Object.values(pool)) for (const it of items) byAsin[it.asin] ??= it;
 
@@ -169,7 +169,12 @@ if (errors.length) { console.log("ERRORS:\n" + errors.join("\n")); }
 console.log(`${registry.length}/${mods.length} guides written`);
 if (registry.length && process.argv[4] === "--register") {
   let reg = readFileSync("data/guides.ts", "utf8");
-  const idx = reg.lastIndexOf("];");
+  // Insert into the rvGuides array, NOT the final `export const guides = [...]` line.
+  // lastIndexOf("];") lands on that export and silently corrupts the file.
+  const start = reg.indexOf("const rvGuides: Guide[] = [");
+  if (start < 0) throw new Error("data/guides.ts: rvGuides array not found");
+  const idx = reg.indexOf("\n];", start) + 1;
+  if (idx <= 0) throw new Error("data/guides.ts: rvGuides array has no closing `];`");
   reg = reg.slice(0, idx) + registry.join("\n") + "\n" + reg.slice(idx);
   writeFileSync("data/guides.ts", reg);
   console.log("registered " + registry.length);
