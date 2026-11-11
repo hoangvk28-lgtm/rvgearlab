@@ -47,21 +47,43 @@ export default {
 ```
 
 `howToChoose` is exactly 6 sections in order, each with a 1-2 sentence `intro`:
-1. By <primary attribute> — `table`, 4-5 rows. 2. By Budget — `table`, using this guide's real
-prices. 3. <A> vs <B> — exactly 2 `cards` plus a one-line `note`. 4. A second decision axis, not
+1. By <primary attribute> — `table`, 4-5 rows. 2. By Budget — `table` using price BANDS
+("Entry of this shortlist" / "Mid" / "Top"), never a figure. 3. <A> vs <B> — exactly 2 `cards` plus a one-line `note`. 4. A second decision axis, not
 budget and not a rephrasing of #1 — `table`. 5. For <use case> Specifically — 2 `cards` labeled
 "Look for" / "In this comparison". 6. When to Spend More — 2 `cards` labeled "Spend more if" /
 "Save if". Every row and card text must contain a pick's `short` name.
 
-`related`: link only to other slugs in this same batch, using the silo path for the group:
-RV air conditioner -> `/interior-comfort/<slug>`, RV water filter -> `/water-plumbing/<slug>`,
-weight distribution hitch -> `/towing-leveling/<slug>`. 3-4 entries, pick the nearest tiers.
+`related`: 3-4 entries. Your facts file carries `silo` and a `relatedCandidates` list of real
+sibling slugs in this batch; use those, as `/<silo>/<slug>`. Never invent a slug.
 
 ## What a budget article has to actually do
 The price ceiling is the subject, not a filter. Every guide must answer: what does this budget buy,
-what gets dropped at this price, and which buyer is right to stop here rather than spend more. Use
-the real prices in your facts file; the spread was chosen to cover the whole range under the ceiling,
-so say plainly where each pick sits in it.
+what gets dropped at this price, and which buyer is right to stop here rather than spend more. Read
+the real prices in your facts file to work out the ordering, then say where each pick sits WITHOUT
+printing the number.
+
+## NEVER print a price figure — this fails the batch
+
+`gen-p2-batch.mjs` rejects any `$` figure in metaTitle, metaDescription, intro, criteria,
+howWeEvaluated, howToChoose, faq, bottomLine, or a product's `d`/pros/cons. No `$169.99`, no `$169`,
+no "about $170", no "just under $500" aimed at one product, and no derived figure such as "costs
+$16.00 less". The only `$` allowed is the ceiling in an "under-$N" slug's own title/meta, and your
+slugs are "best-budget-*", so for this batch the answer is simply: NO `$` ANYWHERE.
+
+Why: the site renders no Amazon price at all (every CTA is a "Check price on Amazon" button), the
+Associates terms only allow 24 hours of cached price data, and a typed figure is stale the week it
+ships. See "Price language" in CLAUDE.md 7.
+
+Write the position, not the number:
+- Band within this shortlist: "the entry pick here", "sits mid-pack on price", "the most expensive
+  pick in this guide", "the cheapest way into <category>".
+- Against a NAMED sibling: "costs noticeably less than the <short name>", "roughly double the entry
+  pick", "a small step up from the pick above". Name the real product so it stays checkable.
+- What the money buys: tie the step up to the mechanism, which is the part that stays true. "The
+  step up buys a brass body and a 0.5 micron element instead of 5 micron."
+
+The reasoning is the value, so keep it and drop only the digits. "Half the price of the Camco for
+the same 5 micron rating" is good. "Cheaper" alone is not.
 
 Your slugs are deliberate near-synonyms ("budget X", "X under $500", "X for the money"). Each facts
 file carries its own `angle` and the article must be written from it. Two guides in the same group

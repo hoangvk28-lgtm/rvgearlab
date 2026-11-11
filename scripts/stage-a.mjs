@@ -131,6 +131,7 @@ function clusterNote(cluster) {
 CL["RV Water Filters — Incremental"] = CL["RV Water Filters"];
 CL["RV Water Pressure Regulators — Incremental"] = CL["RV Water Pressure Regulators"];
 const lines = readFileSync(slugsFile, "utf8").split("\n").map((l) => l.trim()).filter(Boolean);
+const CEIL = process.env.CEIL_FILE ? JSON.parse(readFileSync(process.env.CEIL_FILE, "utf8")) : {};
 const taken = new Set();
 for (const line of lines) {
   const [cluster, slug] = line.split("|");
@@ -148,6 +149,15 @@ for (const line of lines) {
   if (toks.length) numOk = cands.filter((i) => toks.every((tk) => matchesNum(process.env.LOOSE ? i.title + ' ' + i.features.join(' ') : i.title, tk)));
   const usedIn = {};
   if (process.env.ALLOW_USED) for (const f of readdirSync("data/guides")) { if (!f.endsWith(".ts")) continue; for (const m of readFileSync("data/guides/" + f, "utf8").matchAll(/\/dp\/([A-Z0-9]{10})/g)) (usedIn[m[1]] ??= new Set()).add(f); }
+  // Budget/tier guides: cut the pool to the slug's ceiling BEFORE the even spread below,
+  // otherwise the spread reaches across the whole category and a "budget" guide reviews
+  // the same expensive picks as its base guide (CLAUDE.md 17.4).
+  const ceil = CEIL[slug];
+  if (ceil) {
+    const under = numOk.filter((i) => i.price <= ceil);
+    if (under.length >= 4) numOk = under;
+    else console.error(`  ! ${slug}: only ${under.length} picks under ${ceil}, keeping full pool`);
+  }
   let pool = numOk.filter((i) => !taken.has(i.asin) && (process.env.ALLOW_USED || !used.has(i.asin)));
   if (process.env.REUSE && !process.env.ALLOW_USED) pool = [...numOk.filter((i) => used.has(i.asin) && prior[i.asin] && !taken.has(i.asin)).slice(0, 2), ...pool];
   const reuse = pool.length < 6 ? numOk.filter((i) => taken.has(i.asin) && !used.has(i.asin)).slice(0, Math.min(2, 6 - pool.length)) : [];
