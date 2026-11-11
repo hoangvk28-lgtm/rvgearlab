@@ -52,6 +52,25 @@ for (const m of mods) {
     const leak = t.match(LEAK);
     if (leak) err(s, `process leak "${leak[0]}": ${t.slice(Math.max(0, leak.index - 40), leak.index + 40)}`);
   });
+  // Price language (CLAUDE.md 7): no exact price figure in anything a reader sees.
+  // Relative/band wording only. The "Under $N" ceiling is the guide's own frame, so that
+  // one figure is allowed; a figure attached to a product never is. `price` stays internal.
+  {
+    const ceil = (s.match(/under-(\d+)/) || [])[1];
+    const allowed = ceil ? new RegExp("^\\$" + ceil + "(\\.00)?$") : null;
+    const editorial = {
+      metaTitle: m.metaTitle, metaDescription: m.metaDescription, intro: m.intro,
+      criteria: m.criteria, howWeEvaluated: m.howWeEvaluated, howToChoose: m.howToChoose,
+      faq: m.faq, bottomLine: m.bottomLine,
+      products: (m.products || []).map((p) => ({ d: p.d, pros: p.pros, cons: p.cons })),
+    };
+    walk(editorial, (t) => {
+      for (const fig of t.match(/\$[0-9][0-9,]*(?:\.[0-9]{2})?/g) || []) {
+        if (allowed && allowed.test(fig)) continue;
+        err(s, `exact price "${fig}" in copy (use a band or relative wording): ${t.slice(0, 70)}`);
+      }
+    });
+  }
   const SH = !!m.short; const LT = m.short === "lite";
   if (m.criteria.length < (LT ? 4 : 5)) err(s, "criteria too few");
   m.criteria.forEach((c) => { if (c.explanation.split(/(?<=[.!?])\s+/).length < (LT ? 2 : 3)) err(s, `criterion too short: ${c.criterion}`); });

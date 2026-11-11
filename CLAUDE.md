@@ -301,7 +301,11 @@ export interface HowToChooseSection {
 
 1. **By [primary attribute]** — `table` mapping scenario → recommended pick (the attribute that
    matters most for the category: "By Sitting Duration", "By Rig Length", "By Season Rating").
-2. **By Budget** — `table` using this guide's **real** price figures, not generic tiers.
+2. **By Budget** — `table` mapping a **price band** to a recommended pick. Use this guide's own
+   real ordering, but express it as a band and a relative position, never an exact figure:
+   "Entry of this shortlist", "Mid of this shortlist", "Top of this shortlist", or a relative
+   phrase ("roughly double the entry pick"). See **Price language** below — the exact-figure
+   wording this rule used to require is now forbidden.
 3. **[Option A] vs [Option B]** — a genuine binary tradeoff native to the category, `cards` with
    exactly two entries. Each side explains the mechanism and lists which picks fall in that group.
    Close with a one-line `note` recommendation.
@@ -441,6 +445,42 @@ Direct, practical, written for people living in limited space on the road. No ma
 without specific backing. Brand name in visible copy is **"RV Gear Lab"** — never "RVGearLab",
 "RV GearLab" or "Rv Gear Lab".
 
+### Price language — never print an exact price in page copy
+
+**Never write a specific price figure anywhere a reader can see it** — not in `introParagraphs`,
+product `description`, `buyingCriteria`, `howWeEvaluated`, `howToChoose`, `faq`, `bottomLine`,
+`metaTitle` or `metaDescription`. No `$169.99`, no `$169`, no "about $170", no "just under $500"
+aimed at one product, and no derived figure such as "costs $16.00 less than the pick above".
+
+**Why.** The Associates terms let us cache Amazon product data for at most 24 hours, after which it
+must be refreshed from the API or stopped from being displayed, and a displayed price has to come
+from the API rather than be typed in. A figure hardcoded into a guide is stale the week after it
+ships and cannot be refreshed, so it is both a policy exposure and a trust problem: a reader who is
+told $169 and lands on $249 does not come back. The site renders no Amazon price today — every
+`<BuyButton>` says "Check price on Amazon" and sends the reader to the live listing — so the only
+place a price can leak onto the page is our own prose.
+
+**Write this instead.** Position the pick, do not price it:
+- **Band within this shortlist** — "the entry pick here", "sits mid-pack on price", "the most
+  expensive pick in this guide".
+- **Relative to a named sibling** — "costs noticeably less than the CURT TruTrack", "roughly double
+  the entry pick", "a small step up from the pick above". Name the real product so the comparison is
+  checkable, exactly as the exact-figure version used to be.
+- **What the money buys** — tie the step up to a mechanism, which is the part that stays true:
+  "the step up buys a steel frame and a 250 lb load rating instead of 150 lb".
+
+Relative statements survive a price change; figures do not. Keep the reasoning, drop the number.
+
+**The `price` field stays.** `price` in `data/guides/<slug>.ts` is internal data used for ranking,
+tier selection and the drift report — same status as `rating` / `reviews`. It must never be
+rendered, and `RichGuidePage` does not render it. Do not add a price column, chip or badge.
+
+**"Under $N" guides are the exception, and only in the frame.** The ceiling may appear in `slug`,
+`title`, `metaTitle`, `metaDescription` and as the guide's stated scope ("every pick here lands
+under $300"), because that is our editorial frame rather than a product price claim. It must still
+never be attached to an individual product. These 360 guides make a promise that goes stale on its
+own, so re-check them against the drift report before re-publishing.
+
 ### Amazon rating / review count display — FORBIDDEN
 **Never display Amazon's star rating or review count anywhere in page content** — not in the product
 badge row, not as a "Rating" column in the comparison table. Amazon's affiliate terms prohibit
@@ -577,6 +617,8 @@ in that order (guides reference product IDs).
 4. Verify the canonical has no trailing slash.
 5. Grep the diff for `smartspace`/any non-`rvgearlab-amz-20` Amazon tag, em/en dashes, "we tested",
    and the drafting-process leak phrases.
+6. Grep the diff for an exact price in page copy: `grep -nE '\$[0-9]' data/guides/<slug>.ts`.
+   Only the "Under $N" frame fields may match. See **Price language**.
 
 ---
 
@@ -726,6 +768,7 @@ Do this by writing a per-slug prose module and merging it mechanically — never
 - [ ] No "we tested" / "we tried"; no drafting-process leak phrases
 - [ ] No em dash or en dash
 - [ ] No Amazon star rating or review count rendered
+- [ ] No exact price figure in any editorial export, `metaTitle` or `metaDescription`
 
 **Data shape**
 - [ ] Every product has a non-empty `imageUrl` and `specs`
@@ -754,6 +797,16 @@ Do this by writing a per-slug prose module and merging it mechanically — never
 4. **Deepen the remaining thin guides** — a large share of the 2,747 roundups are still at ~5k chars
    of editorial body.
 5. **Retrofit the drafting-process leak phrases** out of older P2/P3 guides.
+5b. **Retrofit exact prices out of published guides.** Measured 2026-11-11: **30,645 price
+   figures across 2,741 guides**, against 12,283 internal `price` fields. They are concentrated
+   in product `description` paragraphs, the `howToChoose` budget table and `introParagraphs`.
+   `gen-p2-batch.mjs` now blocks new ones, so this backlog is closed-ended. Rewrite to bands and
+   relative comparisons per **Price language** (§7); do not simply delete the sentence, since the
+   comparison it carries is the editorial value. Re-running the generator over a cluster's content
+   modules lists every offending line.
+5c. **Re-check the 360 `under-$N` guides against live prices.** Their ceiling is a promise made in
+   the slug, title and URL, and it goes stale whether or not prose quotes a figure. Needs a drift
+   report built on `scripts/sync-amazon-prices.mjs` (updates internal `price` only, renders nothing).
 6. **`llms.txt` / `llms-full.txt` audit** — confirm they describe RV Gear Lab's actual structure.
 7. **Footer link audit** — `/affiliate-disclosure`, `/privacy-policy`, `/how-we-review`, `/contact`
    all exist and are linked.
