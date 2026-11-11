@@ -1,7 +1,7 @@
 export const guideSlug = "best-weight-distribution-hitches-under-300";
 export const guideTitle = "6 Best Weight Distribution Hitches Under $300 in 2026";
 export const metaTitle = "Best Weight Distribution Hitches Under $300";
-export const metaDescription = "Weight distribution hitches under $300, from an $8,000 lb kit at $169.99 to a 1,000 lb class kit at $299.99, and the tongue weight band this tier really covers.";
+export const metaDescription = "Weight distribution hitches under $300, from an 8,000 lb kit at $169.99 to a 1,000 lb class kit at $299.99, and the tongue weight band this tier really covers.";
 export const mainKeyword = "best weight distribution hitches under 300";
 export const introParagraphs = [
   "Under $300 the number that matters is tongue weight, and this tier mostly speaks in two figures: 800 lb and 1,000 lb. The $169.99 kit lists 8,000 lb of gross trailer weight and an 800 lb tongue weight, the XtremepowerUS lists a 1,000 lb tongue capacity at $279.95, and the RVGUARD sits in the 1,000 lb class at $299.99. Those bands cover a large share of mid-size travel trailers, which is why this price point stays busy with buyers who want protection without a big outlay, and why the printed number deserves a careful read. That attention pays off most where the budget is tightest.",
